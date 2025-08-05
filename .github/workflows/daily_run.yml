@@ -1,0 +1,32 @@
+name: Daily Data Update
+on:
+  schedule:
+    - cron: "0 21 * * *"  # 9PM UTC = 4PM EST
+  workflow_dispatch:       # Allow manual runs
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+      
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      
+      - name: Run scrapers
+        run: |
+          python Scraping/Webscraping.py
+          python Scraping/stock prices.py
+      
+      - name: Commit and push
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add data/
+          git commit -m "Auto-update: $(date +'%Y-%m-%d')"
+          git push
