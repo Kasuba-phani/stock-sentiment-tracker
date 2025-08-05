@@ -1,0 +1,7 @@
+pandas
+yfinance
+vaderSentiment
+feedparser
+beautifulsoup4
+streamlit
+python-dotenv
