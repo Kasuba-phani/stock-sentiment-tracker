@@ -1,0 +1,78 @@
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# === 1. Sentiment Distribution (All Headlines) ===
+plt.figure(figsize=(10, 6))
+sns.histplot(df["compound"], bins=30, kde=True, color="skyblue")
+plt.title("Distribution of Sentiment Scores (Compound)")
+plt.xlabel("Sentiment Score (-1 to 1)")
+plt.ylabel("Frequency")
+plt.axvline(0, color="red", linestyle="--", label="Neutral")
+plt.legend()
+plt.show()
+
+# === 2. Sentiment by Ticker (Boxplot) ===
+plt.figure(figsize=(12, 6))
+sns.boxplot(data=df, x="ticker", y="compound", palette="viridis")
+plt.title("Sentiment Score Spread by Stock Ticker")
+plt.xlabel("Ticker")
+plt.ylabel("Sentiment Score")
+plt.axhline(0, color="red", linestyle="--", alpha=0.5)
+plt.xticks(rotation=45)
+plt.show()
+
+# === 3. News Volume vs. Avg Sentiment (Bubble Plot) ===
+ticker_stats = df.groupby("ticker").agg({
+    "compound": "mean",
+    "headline": "count"
+}).rename(columns={"headline": "news_volume"})
+
+plt.figure(figsize=(10, 8))
+sns.scatterplot(
+    data=ticker_stats,
+    x="compound", 
+    y="news_volume",
+    size="news_volume",
+    sizes=(50, 500),
+    hue=ticker_stats.index,
+    palette="tab10",
+    alpha=0.7
+)
+plt.title("News Volume vs. Average Sentiment by Ticker")
+plt.xlabel("Average Sentiment Score")
+plt.ylabel("News Volume (Count)")
+plt.axvline(0, color="red", linestyle="--", alpha=0.5)
+plt.grid(True)
+for ticker in ticker_stats.index:
+    plt.text(
+        ticker_stats.loc[ticker, "compound"],
+        ticker_stats.loc[ticker, "news_volume"],
+        ticker,
+        fontsize=9,
+        ha="center",
+        va="bottom"
+    )
+plt.show()
+
+# === 4. Sentiment Trend Over Time (Line Plot) ===
+df["date"] = pd.to_datetime(df["date"])  # Ensure datetime format
+daily_sentiment = df.groupby(["date", "ticker"])["compound"].mean().unstack()
+
+plt.figure(figsize=(14, 7))
+for ticker in daily_sentiment.columns:
+    plt.plot(
+        daily_sentiment.index,
+        daily_sentiment[ticker],
+        label=ticker,
+        marker="o",
+        markersize=4,
+        alpha=0.7
+    )
+plt.title("Daily Average Sentiment Trend by Ticker")
+plt.xlabel("Date")
+plt.ylabel("Average Sentiment Score")
+plt.axhline(0, color="red", linestyle="--", alpha=0.5)
+plt.legend(bbox_to_anchor=(1.05, 1), loc="upper left")
+plt.grid(True)
+plt.tight_layout()
+plt.show()
