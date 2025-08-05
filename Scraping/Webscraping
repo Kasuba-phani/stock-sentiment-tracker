@@ -89,3 +89,7 @@ combined_df = pd.concat([existing_df, new_df], ignore_index=True)
 combined_df.drop_duplicates(subset=["headline", "ticker"], inplace=True)
 combined_df = combined_df[combined_df["date"] >= CUTOFF_DATE]
 combined_df.sort_values(by="date", ascending=False, inplace=True)
+
+#==== Saving the combined file
+today = datetime.today().strftime("%Y%m%d")
+df.to_csv(f"data/raw_news/news_{today}.csv", index=False)
