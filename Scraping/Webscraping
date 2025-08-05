@@ -1,0 +1,91 @@
+import pandas as pd
+import feedparser
+from bs4 import BeautifulSoup
+from datetime import datetime, timedelta
+import os
+
+# === SETTINGS ===
+TICKERS = {
+     "AAPL": "Apple",
+    "GOOG": "Google",
+    "AMZN": "Amazon",
+    "META": "Meta",
+    "NFLX": "Netflix",
+    "MSFT": "Microsoft",
+    "NVDA": "Nvidia",
+    "TSLA": "Tesla"
+}
+
+DATA_PATH = "news_combined.csv"
+DAYS_TO_KEEP = 7
+TODAY = datetime.today().date()
+CUTOFF_DATE = TODAY - timedelta(days=DAYS_TO_KEEP)
+
+# === SCRAPE FUNCTION ===
+def fetch_articles():
+    all_articles = []
+
+    for ticker, name in TICKERS.items():
+        # === Google RSS ===
+        g_url = f"https://news.google.com/rss/search?q={name}+stock&hl=en-US&gl=US&ceid=US:en"
+        g_feed = feedparser.parse(g_url)
+        for entry in g_feed.entries:
+            try:
+                pub_date = datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z").date()
+                if pub_date >= CUTOFF_DATE:
+                    all_articles.append({
+                        "date": pub_date,
+                        "headline": entry.title.strip(),
+                        "ticker": ticker,
+                        "source": "Google RSS"
+                    })
+            except:
+                continue
+
+        # === Bing RSS ===
+        b_url = f"https://www.bing.com/news/search?q={name}+stock&format=rss"
+        b_feed = feedparser.parse(b_url)
+        for entry in b_feed.entries:
+            try:
+                pub_date = datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z").date()
+            except:
+                pub_date = TODAY
+            all_articles.append({
+                "date": pub_date,
+                "headline": entry.title.strip(),
+                "ticker": ticker,
+                "source": "Bing RSS"
+            })
+
+        # === Yahoo RSS ===
+        y_url = f"https://feeds.finance.yahoo.com/rss/2.0/headline?s={ticker}&region=US&lang=en-US"
+        y_feed = feedparser.parse(y_url)
+        for entry in y_feed.entries:
+            try:
+                pub_date = datetime(*entry.published_parsed[:6]).date()
+            except:
+                pub_date = TODAY
+            all_articles.append({
+                "date": pub_date,
+                "headline": entry.title.strip(),
+                "ticker": ticker,
+                "source": "Yahoo RSS"
+            })
+
+    return pd.DataFrame(all_articles)
+
+# === LOAD EXISTING DATA (if any) ===
+if os.path.exists(DATA_PATH):
+    existing_df = pd.read_csv(DATA_PATH)
+    existing_df['date'] = pd.to_datetime(existing_df['date']).dt.date
+else:
+    existing_df = pd.DataFrame(columns=["date", "headline", "ticker", "source"])
+
+# === FETCH NEW ARTICLES ===
+new_df = fetch_articles()
+
+# === COMBINE & CLEAN ===
+combined_df = pd.concat([existing_df, new_df], ignore_index=True)
+combined_df.drop_duplicates(subset=["headline", "ticker"], inplace=True)
+combined_df = combined_df[combined_df["date"] >= CUTOFF_DATE]
+combined_df.sort_values(by="date", ascending=False, inplace=True)
