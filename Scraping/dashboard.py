@@ -22,7 +22,7 @@ except IndexError:
 
 try:
     # Load the stock prices (it saves to the main folder based on your Code 3)
-    df_prices = pd.read_csv("stock_data_summary.csv")
+    df_prices = pd.read_csv("data/stock_data_summary.csv")
     # Get only the latest date's data to avoid mixing old records
     latest_date = df_prices['date'].max()
     df_prices = df_prices[df_prices['date'] == latest_date]
