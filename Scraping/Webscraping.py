@@ -2,6 +2,7 @@ import pandas as pd
 import feedparser
 from datetime import datetime, timedelta
 import os
+import glob
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 # === SETTINGS ===
@@ -109,6 +110,29 @@ def analyze_sentiment(df):
     
     return df
 
+
+def cleanup_old_news(days_to_keep=30):
+    """Deletes news CSV files older than X days."""
+    print(f"🧹 Janitor: Checking for news files older than {days_to_keep} days...")
+    cutoff_date = datetime.now() - timedelta(days=days_to_keep)
+    
+    # Find all the news CSV files in the folder
+    news_files = glob.glob("data/raw_news/news_*.csv")
+    
+    for file_path in news_files:
+        try:
+            # Extract the date from the filename (e.g., news_20260222.csv -> 20260222)
+            filename = os.path.basename(file_path)
+            date_str = filename.split('_')[1].split('.')[0]
+            file_date = datetime.strptime(date_str, "%Y%m%d")
+            
+            # If the file's date is older than the cutoff, delete it
+            if file_date < cutoff_date:
+                os.remove(file_path)
+                print(f"🗑️ Deleted old file: {filename}")
+        except Exception as e:
+            print(f"⚠️ Could not parse date for {file_path}: {e}")
+
 # === MAIN EXECUTION ===
 if __name__ == "__main__":
     print(f"Starting scraping at {datetime.now()}")
@@ -133,3 +157,6 @@ if __name__ == "__main__":
         print(analyzed_df['sentiment_label'].value_counts())
     else:
         print("No new articles found today.")
+    
+    # Janitorial cleanup of old news files (keep the last 30 days)
+    cleanup_old_news(days_to_keep=30)

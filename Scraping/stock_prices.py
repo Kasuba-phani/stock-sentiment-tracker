@@ -5,7 +5,7 @@ import os
 
 # === SETTINGS ===
 TICKERS = ["AAPL", "GOOGL", "AMZN", "MSFT", "NVDA", "TSLA", "META", "NFLX"]
-OUTPUT_FILE = "stock_data_summary.csv"
+OUTPUT_FILE = "data/stock_data_summary.csv"
 TODAY = datetime.today().date()
 
 # === 1. FETCH STOCK DATA (ROBUST VERSION) ===
@@ -48,6 +48,9 @@ def fetch_stock_summary():
 
 # === 2. SAVE DATA (DUPLICATE-PROOF) ===
 def save_summary_data(df):
+    # Make sure the data folder exists!
+    os.makedirs("data", exist_ok=True)
+    
     # Load existing data if file exists
     if os.path.exists(OUTPUT_FILE):
         existing_df = pd.read_csv(OUTPUT_FILE)
@@ -56,8 +59,7 @@ def save_summary_data(df):
         df = pd.concat([existing_df, df], ignore_index=True)
     
     df.to_csv(OUTPUT_FILE, index=False)
-    print(f"✅ Saved data for {len(df[df['date'] == TODAY.strftime('%Y-%m-%d')])} tickers")
-
+    print(f"✅ Saved data for {len(df[df['date'] == TODAY.strftime('%Y-%m-%d')])} tickers to {OUTPUT_FILE}") 
 # === MAIN EXECUTION ===
 if __name__ == "__main__":
     new_data = fetch_stock_summary()
