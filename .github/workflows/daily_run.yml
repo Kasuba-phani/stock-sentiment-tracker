@@ -11,6 +11,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # Ensures the bot fetches the full history to prevent sync errors
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,5 +32,8 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add data/
-          git commit -m "Auto-update: $(date +'%Y-%m-%d')"
+          # The '|| echo' prevents crashes if there is no new data to save that day
+          git commit -m "Auto-update: $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          # Pull latest changes from your repo first, then push the new data
+          git pull --rebase origin main
           git push
