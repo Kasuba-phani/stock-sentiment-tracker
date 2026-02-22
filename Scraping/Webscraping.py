@@ -60,13 +60,16 @@ def fetch_articles():
     return pd.DataFrame(all_articles)
 
 def process_entries(entries, ticker, source, default_date=None):
-    """Process RSS feed entries with error handling"""
+    """Process RSS feed entries with robust date parsing"""
     processed = []
     for entry in entries:
         try:
-            pub_date = (datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z").date() 
-                       if hasattr(entry, 'published') 
-                       else default_date or TODAY)
+            # Safely parse the date using Pandas
+            if hasattr(entry, 'published'):
+                # pd.to_datetime handles both 'GMT' and '+0000' automatically
+                pub_date = pd.to_datetime(entry.published).date()
+            else:
+                pub_date = default_date or TODAY
             
             if pub_date >= CUTOFF_DATE:
                 processed.append({
@@ -76,9 +79,11 @@ def process_entries(entries, ticker, source, default_date=None):
                     "source": source
                 })
         except Exception as e:
-            print(f"Error processing entry: {str(e)}")
+            # We only print the error if it's truly broken, keeping logs clean
+            print(f"Error processing entry from {source}: {str(e)}")
             continue
     return processed
+    
 
 def clean_text(text):
     """Basic text cleaning"""
