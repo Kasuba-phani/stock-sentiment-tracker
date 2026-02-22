@@ -21,7 +21,7 @@ jobs:
       - name: Run scrapers
         run: |
           python Scraping/Webscraping.py
-          python Scraping/stock prices.py
+          python Scraping/stock_prices.py
       
       - name: Commit and push
         run: |
