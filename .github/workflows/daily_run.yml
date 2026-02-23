@@ -21,7 +21,7 @@ jobs:
       
       - name: Install dependencies
         run: |
-          pip install pandas feedparser joblib scikit-learn transformers torch nltk
+          pip install pandas feedparser joblib scikit-learn transformers torch nltk yfinance
       
       - name: Run scrapers
         run: |
