@@ -27,23 +27,39 @@ def load_data():
     if not all_news_files:
         return pd.DataFrame(), pd.DataFrame()
     
-    df_news = pd.concat([pd.read_csv(f) for f in all_news_files], ignore_index=True)
-    df_news['date'] = pd.to_datetime(df_news['date']).dt.date
+    # Safely load each file, catching weird web characters
+    df_list = []
+    for f in all_news_files:
+        try:
+            # Try standard English (utf-8) first
+            df = pd.read_csv(f, encoding='utf-8')
+            df_list.append(df)
+        except UnicodeDecodeError:
+            # If it hits a weird character, fall back to latin-1
+            df = pd.read_csv(f, encoding='latin-1')
+            df_list.append(df)
+        except Exception as e:
+            st.warning(f"Skipped file {f} due to error: {e}")
+
+    # If all files failed, return empty
+    if not df_list:
+        return pd.DataFrame(), pd.DataFrame()
+
+    df_news = pd.concat(df_list, ignore_index=True)
+    
+    # Safely convert dates
+    if 'date' in df_news.columns:
+        df_news['date'] = pd.to_datetime(df_news['date'], errors='coerce').dt.date
     
     # 2. Load Price Data
     try:
         df_prices = pd.read_csv("data/stock_data_summary.csv")
-        df_prices['date'] = pd.to_datetime(df_prices['date']).dt.date
+        if 'date' in df_prices.columns:
+            df_prices['date'] = pd.to_datetime(df_prices['date'], errors='coerce').dt.date
     except FileNotFoundError:
         df_prices = pd.DataFrame()
         
     return df_news, df_prices
-
-df_news, df_prices = load_data()
-
-if df_news.empty:
-    st.error("⚠️ Waiting for GitHub Actions to scrape news data...")
-    st.stop()
 
 # === 2. INTERACTIVE SIDEBAR FILTERS ===
 st.sidebar.header("🔍 Filter Data")
