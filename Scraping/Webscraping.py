@@ -3,9 +3,17 @@ import feedparser
 from datetime import datetime, timedelta
 import os
 import glob
-import joblib 
-import nltk
+import joblib # For loading the vectorizer and classifier
 from transformers import pipeline
+
+import nltk
+# Tell the robot to download the dictionaries quietly in the background
+nltk.download('punkt', quiet=True)
+nltk.download('stopwords', quiet=True)
+nltk.download('wordnet', quiet=True)
+nltk.download('omw-1.4', quiet=True)
+nltk.download('punkt_tab', quiet=True)
+
 
 # --- NEW IMPORTS NEEDED FOR CLEAN FUNCTION ---
 import string
