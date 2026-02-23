@@ -3,7 +3,39 @@ import feedparser
 from datetime import datetime, timedelta
 import os
 import glob
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+import joblib 
+import nltk
+from transformers import pipeline
+
+# --- NEW IMPORTS NEEDED FOR CLEAN FUNCTION ---
+import string
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+
+# Initialize the lemmatizer once, outside the function, to save memory
+lemmatizer = WordNetLemmatizer()
+# ---------------------------------------------
+
+print("Loading Stage 1: (Text Cleaner)...")
+def clean(doc): # doc is a string of text
+    # This text contains a lot of <br/> tags.
+    doc = str(doc).replace("</br>", " ") # Added str() just to be perfectly safe
+    
+    # Remove punctuation and numbers
+    doc = "".join([char for char in doc if char not in string.punctuation and not char.isdigit()])
+    
+    # Tokenization
+    tokens = nltk.word_tokenize(doc)
+
+    # Lemmatize
+    lemmatized_tokens = [lemmatizer.lemmatize(token) for token in tokens]
+
+    # Stop word removal
+    stop_words = set(stopwords.words('english'))
+    filtered_tokens = [word for word in lemmatized_tokens if word.lower() not in stop_words]
+    
+    # Join and return
+    return " ".join(filtered_tokens)
 
 # === SETTINGS ===
 TICKERS = {
@@ -17,19 +49,21 @@ TICKERS = {
     "TSLA": "Tesla"
 }
 
+print("Loading Stage 2: The Bouncer (Custom NLP Filter)...")
+try:
+    vectorizer = joblib.load('Scraping/tfidf_vectorizer.pkl')
+    classifier = joblib.load('Scraping/financial_news_classifier.pkl')
+    bouncer_loaded = True
+except Exception as e:
+    print(f"⚠️ Could not load custom models: {e}")
+    bouncer_loaded = False
+
+print("Loading Stage 3: The Expert (FinBERT)...")
+sentiment_pipeline = pipeline("sentiment-analysis", model="ProsusAI/finbert")
+
 DAYS_TO_KEEP = 7
 TODAY = datetime.today().date()
 CUTOFF_DATE = TODAY - timedelta(days=DAYS_TO_KEEP)
-
-# === FINANCE-SPECIFIC SENTIMENT ===
-analyzer = SentimentIntensityAnalyzer()
-finance_lexicon = {
-    "bullish": 1.5, "bearish": -1.5, "rally": 1.3,
-    "plummet": -1.7, "dividend": 0.5, "bankrupt": -2.0,
-    "breakout": 1.2, "downgrade": -1.3, "upgrade": 1.3,
-    "short squeeze": 1.4
-}
-analyzer.lexicon.update(finance_lexicon)
 
 # === CORE FUNCTIONS ===
 def fetch_articles():
@@ -95,20 +129,58 @@ def clean_text(text):
                .strip())
 
 def analyze_sentiment(df):
-    """Perform sentiment analysis on headlines"""
-    # Sentiment scoring
-    sentiment_data = df["headline"].apply(
-        lambda x: analyzer.polarity_scores(str(x))
-    ).apply(pd.Series)
+    if df.empty:
+        return df
+        
+    print(f"Total articles scraped: {len(df)}")
     
-    df = pd.concat([df, sentiment_data], axis=1)
+    # === STAGE 1: THE BOUNCER ===
+    if bouncer_loaded:
+        print("Filtering irrelevant news...")
+        # Translate text to numbers
+        X_daily = vectorizer.transform(df['headline'])
+        # Predict if relevant (Assuming your notebook used '1' for relevant. If you used a word like 'Relevant', change the 1 below to 'Relevant')
+        df['is_relevant'] = classifier.predict(X_daily)
+        
+        # Keep only the good articles
+        df_filtered = df[df['is_relevant'] == 1].copy()
+        print(f"🗑️ Filtered out {len(df) - len(df_filtered)} junk articles. {len(df_filtered)} passed the Bouncer.")
+    else:
+        df_filtered = df.copy()
+
+    # === STAGE 2: THE EXPERT ===
+    print("Scoring sentiment with FinBERT...")
+    sentiments = []
+    scores = []
     
-    # Labeling
-    df['sentiment_label'] = df['compound'].apply(
-        lambda x: 'positive' if x >= 0.1 else ('negative' if x <= -0.1 else 'neutral')
-    )
+    for headline in df_filtered["headline"]:
+        try:
+            # FinBERT reads the context
+            result = sentiment_pipeline(str(headline))[0]
+            label = result['label'] # 'positive', 'negative', or 'neutral'
+            score = result['score'] # Confidence score
+            
+            sentiments.append(label)
+            
+            # Convert to a -1.0 to 1.0 scale for your dashboard graphs
+            if label == 'negative':
+                scores.append(-score)
+            elif label == 'positive':
+                scores.append(score)
+            else:
+                scores.append(0.0)
+        except Exception as e:
+            sentiments.append('neutral')
+            scores.append(0.0)
+            
+    df_filtered['sentiment_label'] = sentiments
+    df_filtered['compound'] = scores
     
-    return df
+    # Drop the temporary 'is_relevant' column to keep the CSV clean
+    if 'is_relevant' in df_filtered.columns:
+        df_filtered = df_filtered.drop(columns=['is_relevant'])
+        
+    return df_filtered
 
 
 def cleanup_old_news(days_to_keep=30):
