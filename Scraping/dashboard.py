@@ -61,6 +61,12 @@ def load_data():
         
     return df_news, df_prices
 
+df_news, df_prices = load_data()
+
+if df_news.empty:
+    st.error("⚠️ Waiting for GitHub Actions to scrape news data...")
+    st.stop()
+
 # === 2. INTERACTIVE SIDEBAR FILTERS ===
 st.sidebar.header("🔍 Filter Data")
 
