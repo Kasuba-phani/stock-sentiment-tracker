@@ -35,9 +35,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-23 19:14:00,"Dow Jones futures: Trump tariffs spark stock market sell-off; Apple, Nvidia, Tesla are key movers",AAPL,Bing RSS,neutral,0.0
 2026-02-18 13:11:00,Amazon stock snapped its worst losing streak since 2006. It could be time to buy.,AMZN,Bing RSS,neutral,0.0
 2026-02-24 08:37:00,"Billionaire Investor Stanley Druckenmiller Eliminated His Fund's Position in Meta Platforms and Piled into Another ""Magnificent Seven"" Stock That's Been Getting Crushed by the ...",META,Bing RSS,negative,-0.8353114724159241
-2026-02-24 11:44:17,Swiss Bond Market Eyes Blowout Sales Boosted by Alphabet’s Debut - Bloomberg,GOOGL,Google RSS,positive,0.9217720031738281
+2026-02-24 11:44:17,Swiss Bond Market Eyes Blowout Sales Boosted by Alphabet’s Debut - Bloomberg,GOOGL,Google RSS,positive,0.921772003173828
 2026-02-24 16:35:54,Alphabet stock price is near $312 as yields keep tech in check - Traders Union,GOOGL,Google RSS,negative,-0.4553111493587494
 2026-02-22 14:00:00,"2 ETFs Robinhood Retail Investors Favor Over Palantir, Alphabet, Meta, and Netflix Shares - The Motley Fool",GOOGL,Google RSS,neutral,0.0
 2026-02-23 14:35:29,"‘The Narrative Remains Intact,’ Says Top Investor About Alphabet Stock - TipRanks",GOOGL,Google RSS,neutral,0.0
 2026-02-24 19:42:00,Dow Jones AI Giant Nvidia Eyes Buy Point With Earnings Set To Surge 72% - Investor's Business Daily,NVDA,Google RSS,positive,0.6974067687988281
 2026-02-24 18:59:54,Vertiv Stock Bucks AI Meltdown As Data Center Boom Fuels The Nvidia Partner's Strong Outlook,NVDA,Yahoo RSS,negative,-0.5586152076721191
+2026-02-24 20:30:30,Why Openlane Stock is Drawing Institutional Investor Interest,AAPL,Yahoo RSS,neutral,0.0
+2026-02-24 11:44:17,Swiss Bond Market Eyes Blowout Sales Boosted by Alphabet’s Debut - Bloomberg.com,GOOGL,Google RSS,positive,0.6565601229667664
+2026-02-24 20:30:30,Why Openlane Stock is Drawing Institutional Investor Interest,AMZN,Yahoo RSS,neutral,0.0
+2026-02-24 20:30:30,Why Openlane Stock is Drawing Institutional Investor Interest,MSFT,Yahoo RSS,neutral,0.0
+2026-02-23 18:03:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,NVDA,Bing RSS,neutral,0.0
+2026-02-24 20:36:16,"Stock market today: Dow, S&P 500, Nasdaq climb as software stocks lead AI relief rally",META,Yahoo RSS,positive,0.6552576422691345
+2026-02-24 20:27:03,"Stock Market Today: Dow, Nasdaq Bounce After Losses; Industrial Name Plunges (Live Coverage)",META,Yahoo RSS,negative,-0.8867833614349365
+2026-02-24 19:30:00,"Nasdaq, Dow Jones recover as new Trump tariffs begin, IMB and Salesforce rebound",META,Yahoo RSS,positive,0.501144528388977
