@@ -227,16 +227,20 @@ st.subheader(f"🔮 AI Predictive Engine: {selected_ticker} (Overnight Gap Analy
 if not filtered_news.empty and not df_prices.empty and selected_ticker != "All Market":
     import datetime
     
-    # 1. Get the latest available date in our data
-    latest_date = pd.to_datetime(filtered_news['datetime']).dt.date.max()
-    yesterday = latest_date - datetime.timedelta(days=1)
+    # 1. Get the latest available date safely (vaporizing any NaN floats first)
+    clean_dates = pd.to_datetime(filtered_news['datetime']).dropna().dt.date
     
-    # 2. Filter for "Overnight News" (4:00 PM yesterday to 9:30 AM today)
-    # Note: Streamlit uses UTC, so you might need to adjust hours based on your timezone later
-    overnight_news = filtered_news[
-        ((pd.to_datetime(filtered_news['datetime']).dt.date == yesterday) & (pd.to_datetime(filtered_news['datetime']).dt.hour >= 16)) |
-        ((pd.to_datetime(filtered_news['datetime']).dt.date == latest_date) & (pd.to_datetime(filtered_news['datetime']).dt.hour < 9))
-    ]
+    if clean_dates.empty:
+        st.warning("No valid timestamps found to run the Prediction Engine.")
+    else:
+        latest_date = clean_dates.max()
+        yesterday = latest_date - datetime.timedelta(days=1)
+        
+        # 2. Filter for "Overnight News" (4:00 PM yesterday to 9:30 AM today)
+        overnight_news = filtered_news[
+            ((pd.to_datetime(filtered_news['datetime']).dt.date == yesterday) & (pd.to_datetime(filtered_news['datetime']).dt.hour >= 16)) |
+            ((pd.to_datetime(filtered_news['datetime']).dt.date == latest_date) & (pd.to_datetime(filtered_news['datetime']).dt.hour < 9))
+        ]
     
     if not overnight_news.empty:
         # 3. Calculate Overnight Sentiment
