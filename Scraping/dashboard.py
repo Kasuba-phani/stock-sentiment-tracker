@@ -18,7 +18,6 @@ st.set_page_config(page_title="S.E.N.S.E. Terminal", layout="wide")
 st.markdown("""
     <style>
     .block-container {
-        /* Pushed down exactly enough to clear Streamlit's top menu bar! */
         padding-top: 3.8rem !important; 
         padding-bottom: 0rem !important;
         max-width: 98% !important; 
@@ -37,7 +36,6 @@ st.markdown("""
 
 # === THE UI WATERMARK ===
 st.markdown("<p style='color: gray; font-size: 0.85rem; margin-top: 2px; margin-bottom: 15px;'>Sentiment Evaluation & News Scoring Engine | Engineered by Phanidhar Kasuba | M.S. Data Analytics</p>", unsafe_allow_html=True)
-
 
 # === TICKER TO LOGO/NAME DICTIONARY ===
 TICKER_MAP = {
@@ -63,7 +61,7 @@ LOGO_MAP = {
     "NFLX": "https://companiesmarketcap.com/img/company-logos/64/NFLX.webp"
 }
 
-# === CUSTOM KPI CARD BUILDER (BOTTOM-RIGHT DELTAS) ===
+# === CUSTOM KPI CARD BUILDER ===
 def create_kpi_card(title, value, delta_text="", delta_type="", border_color="#4A90E2", context=""):
     if delta_type == "bull": color, icon = "#00b36b", "▲" 
     elif delta_type == "bear": color, icon = "#ff4d4d", "▼"
@@ -157,7 +155,7 @@ if df_news.empty:
 latest_dt = pd.to_datetime(df_news['datetime']).max()
 latest_date_str = latest_dt.strftime('%b %d') if pd.notnull(latest_dt) else "N/A"
 
-# === 2. SIDEBAR WITH REAL LOGOS ===
+# === 2. SIDEBAR WITH REAL LOGOS & TIMESTAMPS ===
 st.sidebar.markdown('<p style="font-size:1.3rem; font-weight:700; color:var(--text-color);">Terminal Controls</p>', unsafe_allow_html=True)
 available_tickers = sorted(df_news['ticker'].dropna().unique().tolist())
 
@@ -172,7 +170,8 @@ else:
 st.sidebar.divider()
 
 if selected_ticker == "All Market":
-    st.sidebar.markdown('<p style="font-size:1.1rem; font-weight:600; color:var(--text-color);">Today\'s Market Pulse</p>', unsafe_allow_html=True)
+    # ADDED THE (Live) TAG HERE
+    st.sidebar.markdown('<p style="font-size:1.1rem; font-weight:600; color:var(--text-color);">Market Pulse <span style="font-size:0.75rem; color:gray; font-weight:400; margin-left: 5px;">(Live)</span></p>', unsafe_allow_html=True)
     for t in available_tickers[:5]:
         try:
             pulse_price = yf.Ticker(t).fast_info.last_price
@@ -180,15 +179,23 @@ if selected_ticker == "All Market":
         except: pass
 else:
     logo_url = LOGO_MAP.get(selected_ticker, "")
+    
+    # EXTRACT FUNDAMENTALS DATE FOR THE SIDEBAR
+    funds_date_str = ""
+    if not df_fundamentals.empty and selected_ticker in df_fundamentals['ticker'].values:
+        asset_funds = df_fundamentals[df_fundamentals['ticker'] == selected_ticker].iloc[-1]
+        funds_date_str = pd.to_datetime(asset_funds['date']).strftime('%b %d')
+        
+    context_span = f"<span style='font-size:0.75rem; color:gray; font-weight:400; margin-left: 6px;'>(As of {funds_date_str})</span>" if funds_date_str else ""
+
     st.sidebar.markdown(f"""
         <div style="display: flex; align-items: center; margin-bottom: 10px;">
             <img src="{logo_url}" width="32" style="border-radius: 4px; margin-right: 12px; background-color: white; padding: 2px;" onerror="this.style.display='none'">
-            <p style="font-size:1.1rem; font-weight:600; color:var(--text-color); margin:0;">{TICKER_MAP.get(selected_ticker, selected_ticker)} Profile</p>
+            <p style="font-size:1.1rem; font-weight:600; color:var(--text-color); margin:0;">{TICKER_MAP.get(selected_ticker, selected_ticker)} Profile {context_span}</p>
         </div>
     """, unsafe_allow_html=True)
     
     if not df_fundamentals.empty and selected_ticker in df_fundamentals['ticker'].values:
-        asset_funds = df_fundamentals[df_fundamentals['ticker'] == selected_ticker].iloc[-1]
         st.sidebar.markdown(f"""
         <div style="background-color: var(--secondary-background-color); padding: 15px; border-radius: 8px; border: 1px solid rgba(128, 128, 128, 0.2);">
             <p style="margin: 0px 0px 5px 0px; color: gray; font-size: 0.85rem;">Market Cap</p>
@@ -227,7 +234,7 @@ else: sent_text, sent_type = "Neutral", "neutral"
 st.markdown('<div style="margin-top: 5px;"></div>', unsafe_allow_html=True)
 col1, col2, col3, col4 = st.columns(4)
 with col1: st.markdown(create_kpi_card("Total Intel", f"{len(filtered_news):,}", "", "", "#4A90E2", f"(Up to {latest_date_str})"), unsafe_allow_html=True)
-with col2: st.markdown(create_kpi_card("Avg Sentiment", f"{avg_compound:.3f}", sent_text, sent_type, "#4A90E2", "(All-Time)"), unsafe_allow_html=True)
+with col2: st.markdown(create_kpi_card("Avg Sentiment", f"{avg_compound:.3f}", sent_text, sent_type, "#4A90E2", "(30-Day Avg)"), unsafe_allow_html=True)
 with col3: st.markdown(create_kpi_card("Bullish Signals", f"{pos_articles:,}", "", "", "#4A90E2", f"(Up to {latest_date_str})"), unsafe_allow_html=True)
 with col4:
     if not df_prices.empty and selected_ticker != "All Market":
