@@ -7,13 +7,13 @@ import streamlit as st
 import pandas as pd
 import glob
 import plotly.graph_objects as go
-
 from plotly.subplots import make_subplots
 import yfinance as yf
 import datetime
 import os
 
-st.set_page_config(page_title="Executive AI Sentiment Terminal", layout="wide")
+# Updated Browser Tab Name
+st.set_page_config(page_title="S.E.N.S.E. Terminal", layout="wide")
 
 # === PREMIUM THEME-ADAPTIVE CSS ===
 st.markdown("""
@@ -28,13 +28,18 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-# Uses var(--text-color) so it adapts to Light or Dark mode automatically
-st.markdown('<h3 style="color: var(--text-color); margin-bottom: 0px; margin-top: -30px;">Executive AI Sentiment Terminal</h3>', unsafe_allow_html=True)
-# Uses var(--text-color) so it adapts to Light or Dark mode automatically
-st.markdown('<h3 style="color: var(--text-color); margin-bottom: 0px; margin-top: -30px;">Executive AI Sentiment Terminal</h3>', unsafe_allow_html=True)
+# === BRANDING: BIG TITLE & LOGO ===
+st.markdown("""
+    <div style="display: flex; align-items: center; margin-top: -30px; margin-bottom: 0px;">
+        <img src="https://raw.githubusercontent.com/Kasuba-phani/stock-sentiment-tracker/main/Scraping/sense_logo.jpeg" width="45" style="margin-right: 15px; border-radius: 8px;">
+        
+        <h1 style="color: var(--text-color); font-size: 2.4rem; font-weight: 800; margin: 0; padding: 0; letter-spacing: 0.5px;">S.E.N.S.E. Terminal</h1>
+    </div>
+""", unsafe_allow_html=True)
 
-# THE UI WATERMARK
-st.markdown("<p style='text-align: left; color: gray; font-size: 0.85rem; margin-top: -5px;'>Engineered by Phanidhar Kasuba | M.S. Data Analytics</p>", unsafe_allow_html=True)
+# === THE UI WATERMARK ===
+st.markdown("<p style='text-align: left; color: gray; font-size: 0.85rem; margin-top: 5px; margin-bottom: 12px;'>Sentiment Evaluation & News Scoring Engine | Engineered by Phanidhar Kasuba | M.S. Data Analytics</p>", unsafe_allow_html=True)
+
 # === TICKER TO LOGO/NAME DICTIONARY ===
 TICKER_MAP = {
     "AAPL": "Apple",
