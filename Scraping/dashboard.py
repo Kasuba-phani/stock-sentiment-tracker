@@ -12,33 +12,32 @@ import yfinance as yf
 import datetime
 import os
 
-# Updated Browser Tab Name
 st.set_page_config(page_title="S.E.N.S.E. Terminal", layout="wide")
 
-# === PREMIUM THEME-ADAPTIVE CSS ===
+# === PREMIUM RESPONSIVE CSS ===
 st.markdown("""
     <style>
-    /* Aggressively eliminate padding to force a single-screen layout */
     .block-container {
-        padding-top: 2.5rem !important; 
+        /* Pushed down exactly enough to clear Streamlit's top menu bar! */
+        padding-top: 3.8rem !important; 
         padding-bottom: 0rem !important;
-        max-width: 98% !important;
+        max-width: 98% !important; 
     }
     footer {visibility: hidden;} 
     </style>
     """, unsafe_allow_html=True)
 
-# === BRANDING: BIG TITLE & LOGO ===
+# === BRANDING: STABLE LOGO & TITLE WITH TRADEMARK ===
 st.markdown("""
-    <div style="display: flex; align-items: center; margin-top: -30px; margin-bottom: 0px;">
-        <img src="https://raw.githubusercontent.com/Kasuba-phani/stock-sentiment-tracker/main/Scraping/sense_logo.jpeg" width="45" style="margin-right: 15px; border-radius: 8px;">
-        
-        <h1 style="color: var(--text-color); font-size: 2.4rem; font-weight: 800; margin: 0; padding: 0; letter-spacing: 0.5px;">S.E.N.S.E. Terminal</h1>
+    <div style="display: flex; align-items: center; margin-bottom: 0px;">
+        <img src="https://raw.githubusercontent.com/Kasuba-phani/stock-sentiment-tracker/main/Scraping/sense_logo.jpeg" style="width: 45px; height: 45px; object-fit: contain; margin-right: 15px; border-radius: 6px;">
+        <h1 style="color: var(--text-color); font-size: 2.2rem; font-weight: 800; margin: 0; padding: 0; letter-spacing: 0.5px;">S.E.N.S.E.™ Terminal</h1>
     </div>
 """, unsafe_allow_html=True)
 
 # === THE UI WATERMARK ===
-st.markdown("<p style='text-align: left; color: gray; font-size: 0.85rem; margin-top: 5px; margin-bottom: 12px;'>Sentiment Evaluation & News Scoring Engine | Engineered by Phanidhar Kasuba | M.S. Data Analytics</p>", unsafe_allow_html=True)
+st.markdown("<p style='color: gray; font-size: 0.85rem; margin-top: 2px; margin-bottom: 15px;'>Sentiment Evaluation & News Scoring Engine | Engineered by Phanidhar Kasuba | M.S. Data Analytics</p>", unsafe_allow_html=True)
+
 
 # === TICKER TO LOGO/NAME DICTIONARY ===
 TICKER_MAP = {
@@ -53,7 +52,6 @@ TICKER_MAP = {
 }
 REV_TICKER_MAP = {v: k for k, v in TICKER_MAP.items()}
 
-# Switched to a highly reliable financial CDN for logos
 LOGO_MAP = {
     "AAPL": "https://companiesmarketcap.com/img/company-logos/64/AAPL.webp",
     "GOOGL": "https://companiesmarketcap.com/img/company-logos/64/GOOG.webp",
@@ -65,17 +63,18 @@ LOGO_MAP = {
     "NFLX": "https://companiesmarketcap.com/img/company-logos/64/NFLX.webp"
 }
 
-# === CUSTOM THEME-ADAPTIVE KPI CARD BUILDER ===
-def create_kpi_card(title, value, delta_text="", delta_type="", border_color="#4A90E2"):
-    if delta_type == "bull": color, icon = "#00b36b", "▲" # Deep green for light/dark compatibility
+# === CUSTOM KPI CARD BUILDER (BOTTOM-RIGHT DELTAS) ===
+def create_kpi_card(title, value, delta_text="", delta_type="", border_color="#4A90E2", context=""):
+    if delta_type == "bull": color, icon = "#00b36b", "▲" 
     elif delta_type == "bear": color, icon = "#ff4d4d", "▼"
     else: color, icon = "gray", ""
 
     delta_html = ""
     if delta_text:
-        delta_html = f'<div style="position: absolute; top: 8px; right: 12px; color: {color}; font-weight: 700; font-size: 0.85rem;">{icon} {delta_text}</div>'
+        delta_html = f'<div style="position: absolute; bottom: 10px; right: 15px; color: {color}; font-weight: 700; font-size: 0.9rem;">{icon} {delta_text}</div>'
 
-    # Backgrounds and text now use Streamlit's native theme variables
+    context_html = f"<span style='font-size: 0.7rem; font-weight: 400; color: gray; margin-left: 6px;'>{context}</span>" if context else ""
+
     html = f"""
     <div style="
         background-color: var(--secondary-background-color);
@@ -93,7 +92,7 @@ def create_kpi_card(title, value, delta_text="", delta_type="", border_color="#4
         align-items: center; 
         text-align: center;
     ">
-        <p style="color: gray; font-weight: 700; font-size: 0.95rem; margin: 0; padding: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{title}</p>
+        <p style="color: gray; font-weight: 700; font-size: 0.95rem; margin: 0; padding: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{title}{context_html}</p>
         <h2 style="color: var(--text-color); font-weight: 700; margin: 0px 0 0 0; padding: 0; font-size: 1.6rem;">{value}</h2>
         {delta_html}
     </div>
@@ -154,6 +153,10 @@ if df_news.empty:
     st.error("⚠️ Waiting for data to populate...")
     st.stop()
 
+# === EXTRACT LATEST DATES FOR CONTEXT ===
+latest_dt = pd.to_datetime(df_news['datetime']).max()
+latest_date_str = latest_dt.strftime('%b %d') if pd.notnull(latest_dt) else "N/A"
+
 # === 2. SIDEBAR WITH REAL LOGOS ===
 st.sidebar.markdown('<p style="font-size:1.3rem; font-weight:700; color:var(--text-color);">Terminal Controls</p>', unsafe_allow_html=True)
 available_tickers = sorted(df_news['ticker'].dropna().unique().tolist())
@@ -176,7 +179,6 @@ if selected_ticker == "All Market":
             st.sidebar.write(f"**{TICKER_MAP.get(t, t)}**: ${pulse_price:.2f}")
         except: pass
 else:
-    # INJECT REAL HIGH-RES LOGO INTO SIDEBAR
     logo_url = LOGO_MAP.get(selected_ticker, "")
     st.sidebar.markdown(f"""
         <div style="display: flex; align-items: center; margin-bottom: 10px;">
@@ -224,15 +226,16 @@ else: sent_text, sent_type = "Neutral", "neutral"
 
 st.markdown('<div style="margin-top: 5px;"></div>', unsafe_allow_html=True)
 col1, col2, col3, col4 = st.columns(4)
-with col1: st.markdown(create_kpi_card("Total Intel", f"{len(filtered_news):,}"), unsafe_allow_html=True)
-with col2: st.markdown(create_kpi_card("Avg Sentiment", f"{avg_compound:.3f}", sent_text, sent_type), unsafe_allow_html=True)
-with col3: st.markdown(create_kpi_card("Bullish Signals", f"{pos_articles:,}"), unsafe_allow_html=True)
+with col1: st.markdown(create_kpi_card("Total Intel", f"{len(filtered_news):,}", "", "", "#4A90E2", f"(Up to {latest_date_str})"), unsafe_allow_html=True)
+with col2: st.markdown(create_kpi_card("Avg Sentiment", f"{avg_compound:.3f}", sent_text, sent_type, "#4A90E2", "(All-Time)"), unsafe_allow_html=True)
+with col3: st.markdown(create_kpi_card("Bullish Signals", f"{pos_articles:,}", "", "", "#4A90E2", f"(Up to {latest_date_str})"), unsafe_allow_html=True)
 with col4:
     if not df_prices.empty and selected_ticker != "All Market":
         latest_price = df_prices.iloc[-1]['Close']
-        st.markdown(create_kpi_card("Latest Close", f"${latest_price:.2f}"), unsafe_allow_html=True)
+        latest_price_date = df_prices.iloc[-1]['date_only'].strftime('%b %d')
+        st.markdown(create_kpi_card("Latest Close", f"${latest_price:.2f}", "", "", "#4A90E2", f"(On {latest_price_date})"), unsafe_allow_html=True)
     else:
-        st.markdown(create_kpi_card("Bearish Signals", f"{neg_articles:,}"), unsafe_allow_html=True)
+        st.markdown(create_kpi_card("Bearish Signals", f"{neg_articles:,}", "", "", "#4A90E2", f"(Up to {latest_date_str})"), unsafe_allow_html=True)
 
 st.markdown('<hr style="margin: 8px 0px; border-color: rgba(128,128,128,0.2);">', unsafe_allow_html=True)
 
@@ -243,12 +246,9 @@ with col_graph:
     if selected_ticker == "All Market":
         st.markdown(f'<p style="color:var(--text-color); font-size:0.95rem; font-weight:600; margin-bottom:0px;">📊 Correlation Overlay</p>', unsafe_allow_html=True)
         st.info("Select a specific asset from the sidebar to view the overlay.")
-        
-        # EXACT LEGAL DISCLAIMER REQUESTED
         st.markdown("<p style='color: gray; font-size: 0.85rem; text-align: center; margin-top: 15px;'>⚠️ <b>Disclaimer:</b> This dashboard is for educational purposes only. AI predictions and sentiment correlations are heuristic models and may be faulty or inaccurate. We are not responsible for any financial losses or trading decisions made based on this tool.</p>", unsafe_allow_html=True)
         
     elif not filtered_news.empty and not df_prices.empty:
-        # INJECT REAL LOGO INTO GRAPH HEADER
         logo_url = LOGO_MAP.get(selected_ticker, "")
         st.markdown(f"""
             <div style="display: flex; align-items: center; margin-bottom: 5px;">
@@ -261,18 +261,14 @@ with col_graph:
         merged_chart_data = pd.merge(daily_sentiment, df_prices, on='date_only', how='inner').sort_values('date_only')
         
         if not merged_chart_data.empty:
-            # DYNAMIC PRICE LINE LOGIC
             first_price = merged_chart_data.iloc[0]['Close']
             last_price = merged_chart_data.iloc[-1]['Close']
             dynamic_price_color = '#00ff9d' if last_price >= first_price else '#ff4d4d'
 
             fig = make_subplots(specs=[[{"secondary_y": True}]])
             fig.add_trace(go.Scatter(x=merged_chart_data['date_only'], y=merged_chart_data['compound'], name="Sentiment", mode='lines+markers', line=dict(color='#4A90E2', width=3)), secondary_y=False)
-            
-            # This line changes to Bright Red or Neon Green based on stock performance
             fig.add_trace(go.Scatter(x=merged_chart_data['date_only'], y=merged_chart_data['Close'], name="Stock Price", mode='lines+markers', line=dict(color=dynamic_price_color, width=2, dash='dot')), secondary_y=True)
             
-            # Grid color updated to transparent gray so it looks good in Light or Dark themes
             fig.update_layout(
                 height=260, margin=dict(l=0, r=0, t=5, b=0),
                 paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)',
@@ -294,6 +290,10 @@ with col_pred:
             latest_date = clean_dates.max()
             yesterday = latest_date - datetime.timedelta(days=1)
             
+            yest_str = yesterday.strftime('%b %d')
+            today_str = latest_date.strftime('%b %d')
+            overnight_context = f"({yest_str} 4PM - {today_str} 9:30AM)"
+            
             overnight_news = filtered_news[
                 ((pd.to_datetime(filtered_news['datetime']).dt.date == yesterday) & (pd.to_datetime(filtered_news['datetime']).dt.hour >= 16)) |
                 ((pd.to_datetime(filtered_news['datetime']).dt.date == latest_date) & (pd.to_datetime(filtered_news['datetime']).dt.hour < 9))
@@ -312,9 +312,9 @@ with col_pred:
                 elif overnight_sentiment < -0.05: p_text, p_type = "Bearish", "bear"
                 else: p_text, p_type = "Neutral", "neutral"
                 
-                st.markdown(create_kpi_card("Overnight Volume", f"{len(overnight_news)}", "Articles", "", border_color="#b829ff"), unsafe_allow_html=True)
-                st.markdown(create_kpi_card("Overnight Sentiment", f"{overnight_sentiment:.3f}", p_text, p_type, border_color="#b829ff"), unsafe_allow_html=True)
-                st.markdown(create_kpi_card("Projected Open", f"${predicted_price:.2f}", f"{'+' if move_dollar > 0 else ''}${move_dollar:.2f}", p_type, border_color="#b829ff"), unsafe_allow_html=True)
+                st.markdown(create_kpi_card("Gap Volume", f"{len(overnight_news)}", "Articles", "", "#b829ff", overnight_context), unsafe_allow_html=True)
+                st.markdown(create_kpi_card("Gap Sentiment", f"{overnight_sentiment:.3f}", p_text, p_type, "#b829ff", overnight_context), unsafe_allow_html=True)
+                st.markdown(create_kpi_card("Projected Open", f"${predicted_price:.2f}", f"{'+' if move_dollar > 0 else ''}${move_dollar:.2f}", p_type, "#b829ff", f"(For {today_str})"), unsafe_allow_html=True)
             else:
                 st.markdown("<br><p style='color:gray; text-align:center;'>Waiting for overnight news (4 PM - 9:30 AM)...</p>", unsafe_allow_html=True)
     else:
@@ -331,7 +331,6 @@ def sentiment_color(val):
 display_cols = ['display_date', 'ticker', 'source', 'headline', 'sentiment_label', 'compound']
 clean_display_df = filtered_news[display_cols].copy()
 
-# Sorting by Absolute Magnitude
 clean_display_df['impact'] = clean_display_df['compound'].abs()
 clean_display_df = clean_display_df.sort_values(by=['impact', 'display_date'], ascending=[False, False])
 clean_display_df = clean_display_df.drop(columns=['impact'])
