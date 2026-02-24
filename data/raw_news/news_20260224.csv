@@ -1,21 +1,23 @@
 date,headline,ticker,source,sentiment_label,compound
+2026-02-23 19:14:00,"Dow Jones futures: Trump tariffs spark stock market sell-off; Apple, Nvidia, Tesla are key movers",AAPL,Bing RSS,neutral,0.0
 2026-02-17 08:55:00,Why Apple stock is climbing despite ongoing AI jitters,AAPL,Bing RSS,positive,0.7606556415557861
-2026-02-24 11:26:40,"Stocks to Watch Tuesday: FedEx, Home Depot, Apple",AAPL,Yahoo RSS,neutral,0.0
 2026-02-23 15:03:42,Alphabet stock price steadies near $315 as tariffs weigh on risk sentiment - Traders Union,GOOGL,Google RSS,negative,-0.9116504192352295
 2026-02-22 15:00:18,"‘That Doesn’t Make Sense,’ Says Top Investor About Amazon Stock - TipRanks",AMZN,Google RSS,neutral,0.0
 2026-02-17 16:57:59,Amazon snaps 9-day losing streak during which it lost more than $450 billion in value - CNBC,AMZN,Google RSS,negative,-0.8574587106704712
-2026-02-22 14:00:00,"2 ETFs Robinhood Retail Investors Favor Over Palantir, Alphabet, Meta, and Netflix Shares - The Motley Fool",META,Google RSS,neutral,0.0
-2026-02-23 09:36:13,Meta stock price forecast for 2030: Potential target price is $900 - Traders Union,META,Google RSS,neutral,0.0
-2026-02-23 19:56:03,3 High-Growth Stocks To By In February,META,Yahoo RSS,neutral,0.0
+2026-02-24 04:25:49,Wall Street points toward gains after heavy selling to start the week,META,Yahoo RSS,positive,0.907463014125824
 2026-02-22 14:00:00,"2 ETFs Robinhood Retail Investors Favor Over Palantir, Alphabet, Meta, and Netflix Shares - The Motley Fool",NFLX,Google RSS,neutral,0.0
 2026-02-23 14:30:34,"‘Look to History,’ Says Top Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
 2026-02-24 07:09:29,Microsoft stock downgraded from Sell Candidate to Strong Sell Candidate after Monday trading session - StockInvest.us,MSFT,Google RSS,negative,-0.8055433630943298
 2026-02-21 14:40:37,Microsoft Stock Forecast: Trending Strong Buy Among Analysts - TipRanks,MSFT,Google RSS,positive,0.9130541086196899
+2026-02-24 12:43:31,Microsoft stock tries to rebound before the bell as tariff jitters and AI fears grip tech - Bez Kabli,MSFT,Google RSS,positive,0.7187806367874146
 2026-02-24 02:03:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
 2026-02-23 12:04:16,Aletheia Capital upgrades Nvidia stock rating on demand outlook - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-02-24 13:00:02,Nvidia earnings report collides with Wall Street skepticism over AI spending - CNBC,NVDA,Google RSS,neutral,0.0
 2026-02-24 11:26:15,"Nvidia set to report strong results and guidance, analysts say - Investing.com",NVDA,Google RSS,positive,0.8976871371269226
 2026-02-23 08:46:18,Nvidia Valuation Drops Sharply As Q4 Earnings Report Nears — But Retail Traders Stay On Sidelines For Now - Stocktwits,NVDA,Google RSS,negative,-0.9615212082862854
 2026-02-17 16:57:00,Can Nvidia’s stock approach $400? Here’s why earnings may mark the start of a big rally. - MarketWatch,NVDA,Google RSS,neutral,0.0
-2026-02-24 08:04:00,"Nvidia Q4 Earnings Preview: Another Blowout Likely Loading, But Retail Traders Proceed With Caution - Stocktwits",NVDA,Google RSS,neutral,0.0
 2026-02-23 18:03:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,NVDA,Bing RSS,neutral,0.0
+2026-02-24 03:01:00,Nvidia earnings report collides with Wall Street skepticism over AI spending,NVDA,Bing RSS,negative,-0.8645533323287964
 2026-02-17 07:52:00,Why Nvidia stock is plunging ahead of key Q4 signals,NVDA,Bing RSS,negative,-0.920118510723114
+2026-02-24 12:55:50,"Earnings live: Home Depot stock climbs after earnings beat, Hims & Hers slides, Constellation Energy rises",NVDA,Yahoo RSS,positive,0.8365123867988586
+2026-02-24 12:05:46,"Krane Funds Advisors LLC Buys 8,510 Shares of Tesla, Inc. $TSLA - MarketBeat",TSLA,Google RSS,neutral,0.0
