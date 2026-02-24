@@ -111,8 +111,6 @@ def fetch_articles():
 def process_entries(entries, ticker, source, default_date=None):
     """Process RSS feed entries and capture exact timestamps"""
     processed = []
-    
-    # Ensure CUTOFF_DATE is a full datetime so we can compare it safely
     cutoff_datetime = pd.to_datetime(CUTOFF_DATE)
     
     for entry in entries:
@@ -120,24 +118,22 @@ def process_entries(entries, ticker, source, default_date=None):
             # 1. Grab the exact publish time
             if hasattr(entry, 'published'):
                 pub_date = pd.to_datetime(entry.published)
-                # Strip timezone info so Pandas doesn't crash during comparison
                 if pub_date.tzinfo is not None:
                     pub_date = pub_date.tz_localize(None)
             else:
-                # If the RSS feed is broken, use the exact current time (not midnight!)
+                # FALLBACK: If the RSS is missing the time, stamp it with the exact time the scraper ran
                 pub_date = pd.to_datetime(datetime.now())
             
             # 2. Check if it's recent enough
             if pub_date >= cutoff_datetime:
                 processed.append({
-                    # THIS IS THE FIX: Save as YYYY-MM-DD HH:MM:SS
+                    # This guarantees the CSV saves as "YYYY-MM-DD HH:MM:SS"
                     "date": pub_date.strftime('%Y-%m-%d %H:%M:%S'), 
                     "headline": clean_text(entry.title),
                     "ticker": ticker,
                     "source": source
                 })
         except Exception as e:
-            # Silently skip broken entries to keep logs clean
             continue
             
     return processed
@@ -231,24 +227,36 @@ def cleanup_old_news(days_to_keep=30):
 if __name__ == "__main__":
     print(f"Starting scraping at {datetime.now()}")
     
-    # 1. Fetch and combine articles
+    # 1. Fetch current hour's articles
     new_df = fetch_articles()
-    combined_df = new_df.drop_duplicates(subset=["headline", "ticker"])
     
-    # 2. Analyze sentiment
-    if not combined_df.empty:
-        analyzed_df = analyze_sentiment(combined_df)
+    if not new_df.empty:
+        # 2. Analyze sentiment of the new articles
+        analyzed_df = analyze_sentiment(new_df)
+        
+        # 3. Setup the ONE file for today
         today_str = TODAY.strftime("%Y%m%d")
         os.makedirs("data/raw_news", exist_ok=True)
         output_path = f"data/raw_news/news_{today_str}.csv"
         
-        # FIX: Append to existing daily file instead of overwriting
+        # 4. THE MAGIC: Append and Deduplicate
         if os.path.exists(output_path):
+            # Read what we already scraped today
             existing_df = pd.read_csv(output_path)
+            # Combine old and new
             final_df = pd.concat([existing_df, analyzed_df], ignore_index=True)
-            final_df = final_df.drop_duplicates(subset=["headline", "ticker"])
+            # Drop duplicates based on headline (so we never score the same news twice)
+            final_df = final_df.drop_duplicates(subset=["headline", "ticker"], keep="first")
         else:
-            final_df = analyzed_df
+            # If it's the first run of the day (midnight), just use the new data
+            final_df = analyzed_df.drop_duplicates(subset=["headline", "ticker"])
             
+        # Save it back to today's master file
         final_df.to_csv(output_path, index=False)
-        print(f"Saved/Updated {len(final_df)} articles to {output_path}")
+        print(f"Saved {len(final_df)} unique articles to {output_path}")
+        
+    else:
+        print("No new articles found this hour.")
+    
+    # Janitorial cleanup of old news files
+    cleanup_old_news(days_to_keep=30)
