@@ -103,31 +103,39 @@ def fetch_articles():
     return pd.DataFrame(all_articles)
 
 def process_entries(entries, ticker, source, default_date=None):
-    """Process RSS feed entries with robust date parsing"""
+    """Process RSS feed entries and capture exact timestamps"""
     processed = []
+    
+    # Ensure CUTOFF_DATE is a full datetime so we can compare it safely
+    cutoff_datetime = pd.to_datetime(CUTOFF_DATE)
+    
     for entry in entries:
         try:
-            # Safely parse the date using Pandas
+            # 1. Grab the exact publish time
             if hasattr(entry, 'published'):
-                # pd.to_datetime handles both 'GMT' and '+0000' automatically
-                pub_date = pd.to_datetime(entry.published).date()
+                pub_date = pd.to_datetime(entry.published)
+                # Strip timezone info so Pandas doesn't crash during comparison
+                if pub_date.tzinfo is not None:
+                    pub_date = pub_date.tz_localize(None)
             else:
-                pub_date = default_date or TODAY
+                # If the RSS feed is broken, use the exact current time (not midnight!)
+                pub_date = pd.to_datetime(datetime.now())
             
-            if pub_date >= CUTOFF_DATE:
+            # 2. Check if it's recent enough
+            if pub_date >= cutoff_datetime:
                 processed.append({
-                    "date": pub_date,
+                    # THIS IS THE FIX: Save as YYYY-MM-DD HH:MM:SS
+                    "date": pub_date.strftime('%Y-%m-%d %H:%M:%S'), 
                     "headline": clean_text(entry.title),
                     "ticker": ticker,
                     "source": source
                 })
         except Exception as e:
-            # We only print the error if it's truly broken, keeping logs clean
-            print(f"Error processing entry from {source}: {str(e)}")
+            # Silently skip broken entries to keep logs clean
             continue
+            
     return processed
     
-
 def clean_text(text):
     """Basic text cleaning"""
     if not isinstance(text, str):
