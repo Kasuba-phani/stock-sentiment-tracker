@@ -45,3 +45,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-24 22:04:51,"'Boring' energy, consumer staples stocks can buffer tech losses",MSFT,Yahoo RSS,neutral,0.0
 2026-02-24 22:04:51,"'Boring' energy, consumer staples stocks can buffer tech losses",NVDA,Yahoo RSS,neutral,0.0
 2026-02-24 22:04:51,"'Boring' energy, consumer staples stocks can buffer tech losses",META,Yahoo RSS,neutral,0.0
+2026-02-24 16:56:41,Apple stock price steadies near $266 as traders respond to risk sentiment - Traders Union,AAPL,Google RSS,negative,-0.7253814339637756
+2026-02-24 23:30:00,Alphabet’s AI Push: Is the Stock Still Undervalued? - The Smart Investor,GOOGL,Google RSS,neutral,0.0
+2026-02-24 14:36:00,Microsoft’s stock selloff is approaching a critical crossroads not seen in over 10 years,MSFT,Bing RSS,negative,-0.6441550254821777
+2026-02-24 23:16:00,Stock futures are little changed ahead of key earnings results from Nvidia: Live updates - CNBC,NVDA,Google RSS,neutral,0.0
+2026-02-24 13:16:00,Stock futures are little changed ahead of key earnings results from Nvidia: Live updates,NVDA,Bing RSS,neutral,0.0
