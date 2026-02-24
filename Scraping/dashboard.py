@@ -17,8 +17,12 @@ st.markdown("""
         padding-bottom: 1rem !important;
         max-width: 98% !important;
     }
-    header {visibility: hidden;}
+    
+    /* We removed the 'header' hiding rule so your sidebar toggle button stays visible! */
     footer {visibility: hidden;}
+    
+    /* Optional: Hides the "Deploy" button in the top right so it looks like a real app */
+    .stAppDeployButton {display:none;}
     </style>
     """, unsafe_allow_html=True)
 
