@@ -1,0 +1,24 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-02-23 20:58:07,Apple’s stock recovery is no recovery at all - MSN,AAPL,Google RSS,neutral,0.0
+2026-02-23 15:50:00,"Dow Jones futures: Trump tariffs spark stock market sell-off; Apple, Nvidia, Tesla are key movers",AAPL,Bing RSS,neutral,0.0
+2026-02-17 08:55:00,Why Apple stock is climbing despite ongoing AI jitters,AAPL,Bing RSS,positive,0.7606556415557861
+2026-02-23 15:03:42,Alphabet stock price steadies near $315 as tariffs weigh on risk sentiment - Traders Union,GOOGL,Google RSS,negative,-0.9116504192352295
+2026-02-22 15:00:18,"‘That Doesn’t Make Sense,’ Says Top Investor About Amazon Stock - TipRanks",AMZN,Google RSS,neutral,0.0
+2026-02-17 16:57:59,Amazon snaps 9-day losing streak during which it lost more than $450 billion in value - CNBC,AMZN,Google RSS,negative,-0.8574587106704712
+2026-02-21 14:50:00,Better Stock to Buy Right Now: Amazon vs. Home Depot - Nasdaq,AMZN,Google RSS,neutral,0.0
+2026-02-22 14:00:00,"2 ETFs Robinhood Retail Investors Favor Over Palantir, Alphabet, Meta, and Netflix Shares - The Motley Fool",META,Google RSS,neutral,0.0
+2026-02-23 09:36:13,Meta stock price forecast for 2030: Potential target price is $900 - Traders Union,META,Google RSS,neutral,0.0
+2026-02-23 19:56:03,3 High-Growth Stocks To By In February,META,Yahoo RSS,neutral,0.0
+2026-02-22 14:00:00,"2 ETFs Robinhood Retail Investors Favor Over Palantir, Alphabet, Meta, and Netflix Shares - The Motley Fool",NFLX,Google RSS,neutral,0.0
+2026-02-23 14:30:34,"‘Look to History,’ Says Top Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-02-22 23:17:00,Dow drops 800 points as AI disruption fears and tariff woes weigh on markets: Live updates - CNBC,MSFT,Google RSS,negative,-0.8674196600914001
+2026-02-21 14:40:37,Microsoft Stock Forecast: Trending Strong Buy Among Analysts - TipRanks,MSFT,Google RSS,positive,0.9130541086196899
+2026-02-23 08:26:46,Microsoft’s 2026 forecast: Analysts eye $820 target - MSN,MSFT,Google RSS,positive,0.5307180881500244
+2026-02-22 17:35:00,Billionaire Stanley Druckenmiller Still Isn't Buying Nvidia. But He Recently Picked Up Shares of This AI Stock That's Among the Cheapest of the Magnificent Seven. - Nasdaq,NVDA,Google RSS,neutral,0.0
+2026-02-24 02:03:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
+2026-02-23 12:04:16,Aletheia Capital upgrades Nvidia stock rating on demand outlook - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-02-23 10:53:19,Nvidia Valuation Drops Sharply As Q4 Earnings Report Nears — But Retail Traders Stay On Sidelines For Now - Stocktwits,NVDA,Google RSS,negative,-0.9615212082862854
+2026-02-23 23:06:33,"Nvidia set to report strong results and guidance, analysts say - Investing.com",NVDA,Google RSS,positive,0.8976871371269226
+2026-02-23 14:30:26,"‘Continued Domination,’ Says Top Investor About Nvidia Stock - TipRanks",NVDA,Google RSS,neutral,0.0
+2026-02-23 21:51:26,Dow Logs Worst Day in Nearly 5 Weeks Amid Renewed Tariffs Uncertainty; Tech Stocks Fall,NVDA,Yahoo RSS,negative,-0.9589658975601196
+2026-02-19 21:21:00,Tesla Stock Is a Retail Investor Favorite—and It’s Under Pressure - Barron's,TSLA,Google RSS,neutral,0.0
