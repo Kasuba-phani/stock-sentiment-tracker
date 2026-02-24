@@ -22,10 +22,11 @@ jobs:
         run: |
           pip install pandas feedparser joblib scikit-learn transformers torch nltk yfinance
       
-      - name: Run scrapers
-        run: |
-          python Scraping/Webscraping.py
-          python Scraping/stock_prices.py
+      - name: Run News Scraper
+        run: python Scraping/Webscraping.py
+        
+      - name: Run Fundamental Stock Scraper
+        run: python Scraping/stock_prices.py
       
       # THIS REPLACES THE MANUAL GIT COMMANDS
       - name: Auto Commit and Push Data
