@@ -1,9 +1,8 @@
 name: Daily Data Update
 on:
   schedule:
-    - cron: "0 21 * * *"  # 9PM UTC = 4PM EST
-  workflow_dispatch:       # Allow manual runs
-
+    - cron: "0 * * * *"  # Runs at minute 0 of every single hour
+  workflow_dispatch:     # Keeps your manual run button active
 jobs:
   update:
     runs-on: ubuntu-latest
