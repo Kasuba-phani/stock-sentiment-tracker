@@ -52,3 +52,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-23 13:53:11,Apple’s stock recovery is no recovery at all - MSN,AAPL,Google RSS,neutral,0.0
 2026-02-24 20:50:00,Microsoft’s stock selloff is approaching a critical crossroads unseen in over 10 years - MarketWatch,MSFT,Google RSS,neutral,0.0
 2026-02-24 10:30:02,Microsoft stock just flashed an ultra-rare bullish signal for options traders,MSFT,Bing RSS,positive,0.7409916520118713
+2026-02-24 13:01:00,Microsoft’s stock selloff is approaching a critical crossroads unseen in over 10 years,MSFT,Bing RSS,positive,0.41073474287986755
+2026-02-24 18:59:00,Vertiv Stock Bucks AI Meltdown As Data Center Boom Fuels The Nvidia Partner's Strong Outlook - Investor's Business Daily,NVDA,Google RSS,negative,-0.45007210969924927
+2026-02-24 21:41:14,"Earnings live: Workday stock plunges amid AI disruption concerns, Lucid falls on mixed quarter, HP tumbles",NVDA,Yahoo RSS,negative,-0.9624297618865967
+2026-02-24 21:00:10,"Stock market today: Dow, S&P 500, Nasdaq jump as software leads AI relief rally ahead of Nvidia earnings",NVDA,Yahoo RSS,positive,0.5322103500366211
+2026-02-24 21:00:10,"Stock market today: Dow, S&P 500, Nasdaq jump as software leads AI relief rally ahead of Nvidia earnings",META,Yahoo RSS,positive,0.5322103500366211
+2026-02-24 20:49:45,"Stock Market Today: Dow, Nasdaq Look To Finish Strong; Electricity Name Gets A Jolt (Live Coverage)",META,Yahoo RSS,positive,0.8829092383384705
