@@ -232,19 +232,17 @@ if __name__ == "__main__":
     # 2. Analyze sentiment
     if not combined_df.empty:
         analyzed_df = analyze_sentiment(combined_df)
-        
-        # 3. Save with date-stamped filename
         today_str = TODAY.strftime("%Y%m%d")
         os.makedirs("data/raw_news", exist_ok=True)
         output_path = f"data/raw_news/news_{today_str}.csv"
-        analyzed_df.to_csv(output_path, index=False)
-        print(f"Saved {len(analyzed_df)} articles to {output_path}")
         
-        # 4. Print summary
-        print("\n=== Sentiment Summary ===")
-        print(analyzed_df['sentiment_label'].value_counts())
-    else:
-        print("No new articles found today.")
-    
-    # Janitorial cleanup of old news files (keep the last 30 days)
-    cleanup_old_news(days_to_keep=30)
+        # FIX: Append to existing daily file instead of overwriting
+        if os.path.exists(output_path):
+            existing_df = pd.read_csv(output_path)
+            final_df = pd.concat([existing_df, analyzed_df], ignore_index=True)
+            final_df = final_df.drop_duplicates(subset=["headline", "ticker"])
+        else:
+            final_df = analyzed_df
+            
+        final_df.to_csv(output_path, index=False)
+        print(f"Saved/Updated {len(final_df)} articles to {output_path}")
