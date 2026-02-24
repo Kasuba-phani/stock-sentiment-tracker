@@ -49,3 +49,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-24 20:36:16,"Stock market today: Dow, S&P 500, Nasdaq climb as software stocks lead AI relief rally",META,Yahoo RSS,positive,0.6552576422691345
 2026-02-24 20:27:03,"Stock Market Today: Dow, Nasdaq Bounce After Losses; Industrial Name Plunges (Live Coverage)",META,Yahoo RSS,negative,-0.8867833614349365
 2026-02-24 19:30:00,"Nasdaq, Dow Jones recover as new Trump tariffs begin, IMB and Salesforce rebound",META,Yahoo RSS,positive,0.501144528388977
+2026-02-23 13:53:11,Apple’s stock recovery is no recovery at all - MSN,AAPL,Google RSS,neutral,0.0
+2026-02-24 20:50:00,Microsoft’s stock selloff is approaching a critical crossroads unseen in over 10 years - MarketWatch,MSFT,Google RSS,neutral,0.0
+2026-02-24 10:30:02,Microsoft stock just flashed an ultra-rare bullish signal for options traders,MSFT,Bing RSS,positive,0.7409916520118713
