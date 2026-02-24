@@ -1,3 +1,8 @@
+"""
+Author: Phanidhar Kasuba
+Description: Automated MLOps Sentiment Terminal
+Copyright (c) 2026. All rights reserved.
+"""
 import yfinance as yf
 import pandas as pd
 from datetime import datetime, timedelta
@@ -47,6 +52,7 @@ def fetch_stock_summary():
     return pd.DataFrame(summary_data)
 
 # === 2. SAVE DATA (DUPLICATE-PROOF) ===
+
 def save_summary_data(df):
     # Make sure the data folder exists!
     os.makedirs("data", exist_ok=True)

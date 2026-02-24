@@ -1,3 +1,8 @@
+"""
+Author: Phanidhar Kasuba
+Description: Automated MLOps Sentiment Terminal
+Copyright (c) 2026. All rights reserved.
+"""
 import streamlit as st
 import pandas as pd
 import glob
@@ -24,7 +29,11 @@ st.markdown("""
 
 # Uses var(--text-color) so it adapts to Light or Dark mode automatically
 st.markdown('<h3 style="color: var(--text-color); margin-bottom: 0px; margin-top: -30px;">Executive AI Sentiment Terminal</h3>', unsafe_allow_html=True)
+# Uses var(--text-color) so it adapts to Light or Dark mode automatically
+st.markdown('<h3 style="color: var(--text-color); margin-bottom: 0px; margin-top: -30px;">Executive AI Sentiment Terminal</h3>', unsafe_allow_html=True)
 
+# THE UI WATERMARK
+st.markdown("<p style='text-align: left; color: gray; font-size: 0.85rem; margin-top: -5px;'>Engineered by Phanidhar Kasuba | M.S. Data Analytics</p>", unsafe_allow_html=True)
 # === TICKER TO LOGO/NAME DICTIONARY ===
 TICKER_MAP = {
     "AAPL": "Apple",

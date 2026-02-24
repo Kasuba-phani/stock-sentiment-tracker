@@ -1,3 +1,8 @@
+"""
+Author: Phanidhar Kasuba
+Description: Automated MLOps Sentiment Terminal
+Copyright (c) 2026. All rights reserved.
+"""
 import pandas as pd
 import feedparser
 from datetime import datetime, timedelta
@@ -46,15 +51,16 @@ def clean(doc): # doc is a string of text
     return " ".join(filtered_tokens)
 
 # === SETTINGS ===
+# === SETTINGS ===
 TICKERS = {
     "AAPL": "Apple",
-    "GOOGL": "Google",
+    "GOOGL": "Alphabet",
     "AMZN": "Amazon",
-    "META": "Meta",
-    "NFLX": "Netflix",
     "MSFT": "Microsoft",
-    "NVDA": "Nvidia",
-    "TSLA": "Tesla"
+    "NVDA": "NVIDIA",
+    "TSLA": "Tesla",
+    "META": "Meta",
+    "NFLX": "Netflix"
 }
 
 print("Loading Stage 2: The Bouncer (Custom NLP Filter)...")
