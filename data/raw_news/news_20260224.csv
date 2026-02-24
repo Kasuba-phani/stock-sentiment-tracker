@@ -1,5 +1,6 @@
 date,headline,ticker,source,sentiment_label,compound
-2026-02-23 19:14:00,"Dow Jones futures: Trump tariffs spark stock market sell-off; Apple, Nvidia, Tesla are key movers",AAPL,Bing RSS,neutral,0.0
+2026-02-17 08:55:00,Why Apple stock is climbing despite ongoing AI jitters,AAPL,Bing RSS,positive,0.7606556415557861
+2026-02-24 11:26:40,"Stocks to Watch Tuesday: FedEx, Home Depot, Apple",AAPL,Yahoo RSS,neutral,0.0
 2026-02-23 15:03:42,Alphabet stock price steadies near $315 as tariffs weigh on risk sentiment - Traders Union,GOOGL,Google RSS,negative,-0.9116504192352295
 2026-02-22 15:00:18,"‘That Doesn’t Make Sense,’ Says Top Investor About Amazon Stock - TipRanks",AMZN,Google RSS,neutral,0.0
 2026-02-17 16:57:59,Amazon snaps 9-day losing streak during which it lost more than $450 billion in value - CNBC,AMZN,Google RSS,negative,-0.8574587106704712
@@ -12,11 +13,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-21 14:40:37,Microsoft Stock Forecast: Trending Strong Buy Among Analysts - TipRanks,MSFT,Google RSS,positive,0.9130541086196899
 2026-02-24 02:03:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
 2026-02-23 12:04:16,Aletheia Capital upgrades Nvidia stock rating on demand outlook - Investing.com,NVDA,Google RSS,neutral,0.0
-2026-02-24 09:36:00,"Nvidia Stock Faces Earnings Test: Analysts Expect Another Blowout Report, But Some Investors Sold Off Shares Anyway - Stocktwits",NVDA,Google RSS,negative,-0.8473941683769226
+2026-02-24 11:26:15,"Nvidia set to report strong results and guidance, analysts say - Investing.com",NVDA,Google RSS,positive,0.8976871371269226
 2026-02-23 08:46:18,Nvidia Valuation Drops Sharply As Q4 Earnings Report Nears — But Retail Traders Stay On Sidelines For Now - Stocktwits,NVDA,Google RSS,negative,-0.9615212082862854
 2026-02-17 16:57:00,Can Nvidia’s stock approach $400? Here’s why earnings may mark the start of a big rally. - MarketWatch,NVDA,Google RSS,neutral,0.0
-2026-02-23 14:30:26,"‘Continued Domination,’ Says Top Investor About Nvidia Stock - TipRanks",NVDA,Google RSS,neutral,0.0
 2026-02-24 08:04:00,"Nvidia Q4 Earnings Preview: Another Blowout Likely Loading, But Retail Traders Proceed With Caution - Stocktwits",NVDA,Google RSS,neutral,0.0
-2026-02-23 23:06:33,"Nvidia set to report strong results and guidance, analysts say - Investing.com",NVDA,Google RSS,positive,0.8976871371269226
 2026-02-23 18:03:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,NVDA,Bing RSS,neutral,0.0
-2026-02-19 21:21:00,Tesla Stock Is a Retail Investor Favorite—and It’s Under Pressure - Barron's,TSLA,Google RSS,neutral,0.0
+2026-02-17 07:52:00,Why Nvidia stock is plunging ahead of key Q4 signals,NVDA,Bing RSS,negative,-0.920118510723114
