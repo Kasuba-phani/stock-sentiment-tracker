@@ -18,7 +18,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-21 16:50:13,Microsoft stock (MSFT) ends Friday lower; Xbox shake-up and AI spending cues in focus for Monday - TechStock²,MSFT,Google RSS,negative,-0.9638099670410156
 2026-02-22 23:07:45,Dow drops 800 points as AI disruption fears and tariff woes weigh on markets: Live updates - CNBC,MSFT,Google RSS,negative,-0.8674196600914001
 2026-02-24 13:23:00,"CSX cuts 50,000 legacy reports to 1,200 with AI data revamp - Stock Titan",MSFT,Google RSS,negative,-0.688127875328064
-2026-02-20 14:31:05,Microsoft Stock Forecast: Trending Strong Buy Among Analysts - TipRanks,MSFT,Google RSS,positive,0.9130541086196899
+2026-02-20 14:31:05,Microsoft Stock Forecast: Trending Strong Buy Among Analysts - TipRanks,MSFT,Google RSS,positive,0.91305410861969
 2026-02-24 14:36:00,Microsoft’s stock selloff is approaching a critical crossroads not seen in over 10 years,MSFT,Bing RSS,negative,-0.6441550254821777
 2026-02-24 17:17:00,Goldman Sachs resets Microsoft stock forecast,MSFT,Bing RSS,negative,-0.7481476068496704
 2026-02-24 10:30:02,Microsoft stock just flashed an ultra-rare bullish signal for options traders,MSFT,Bing RSS,positive,0.7409916520118713
@@ -30,9 +30,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-24 21:32:00,Dow Jones AI Giant Nvidia Eyes Buy Point With Earnings Set To Surge 72% - Investor's Business Daily,NVDA,Google RSS,positive,0.6974061727523804
 2026-02-25 01:43:00,Stock futures inch higher ahead of key earnings results from Nvidia: Live updates - CNBC,NVDA,Google RSS,neutral,0.0
 2026-02-23 12:04:16,Aletheia Capital upgrades Nvidia stock rating on demand outlook - Investing.com,NVDA,Google RSS,neutral,0.0
-2026-02-24 18:59:00,Vertiv Stock Bucks AI Meltdown As Data Center Boom Fuels The Nvidia Partner's Strong Outlook - Investor's Business Daily,NVDA,Google RSS,negative,-0.45007210969924927
+2026-02-24 18:59:00,Vertiv Stock Bucks AI Meltdown As Data Center Boom Fuels The Nvidia Partner's Strong Outlook - Investor's Business Daily,NVDA,Google RSS,negative,-0.4500721096992492
 2026-02-24 09:36:00,"Nvidia Stock Faces Earnings Test: Analysts Expect Another Blowout Report, But Some Investors Sold Off Shares Anyway - Stocktwits",NVDA,Google RSS,negative,-0.8473941683769226
-2026-02-24 15:24:19,Micron stock price rises as chip trade steadies ahead of Nvidia earnings - TechStock²,NVDA,Google RSS,negative,-0.43471336364746094
+2026-02-24 15:24:19,Micron stock price rises as chip trade steadies ahead of Nvidia earnings - TechStock²,NVDA,Google RSS,negative,-0.4347133636474609
 2026-02-23 08:46:18,Nvidia Valuation Drops Sharply As Q4 Earnings Report Nears — But Retail Traders Stay On Sidelines For Now - Stocktwits,NVDA,Google RSS,negative,-0.9615212082862854
 2026-02-23 18:03:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,NVDA,Bing RSS,neutral,0.0
 2026-02-24 23:50:00,"Best ""Strong Buy"" Momentum Stocks to Buy Now for March",NVDA,Yahoo RSS,neutral,0.0
@@ -41,3 +41,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-24 16:19:00,"Billionaire Investor Stanley Druckenmiller Eliminated His Fund's Position in Meta Platforms and Piled into Another ""Magnificent Seven"" Stock That's Been Getting Crushed by the Broader Market - The Motley Fool",META,Google RSS,negative,-0.74824458360672
 2026-02-24 16:59:01,"Consumer Confidence, AMD-Meta Deal Sends Stocks Higher - Finviz",META,Google RSS,positive,0.932624876499176
 2026-02-24 22:04:51,"'Boring' energy, consumer staples stocks can buffer tech losses",META,Yahoo RSS,neutral,0.0
+2026-02-24 14:53:05,Live Nasdaq Composite: Big Tech Jockeys for Position in AI Revolution - 24/7 Wall St.,AAPL,Google RSS,neutral,0.0
+2026-02-24 11:44:17,Swiss Bond Market Eyes Blowout Sales Boosted by Alphabet’s Debut - Bloomberg.com,GOOGL,Google RSS,positive,0.6565601229667664
+2026-02-24 23:30:00,Alphabet’s AI Push: Is the Stock Still Undervalued? - The Smart Investor,GOOGL,Google RSS,neutral,0.0
+2026-02-25 04:07:00,Goldman Sachs resets Microsoft stock forecast,AMZN,Yahoo RSS,negative,-0.7481476068496704
+2026-02-24 21:04:00,Microsoft stock snaps back after Monday slump as AI jitters cool - TechStock²,MSFT,Google RSS,negative,-0.8896028399467468
+2026-02-25 02:53:00,"The worst performer among the 'Magnificent Seven'! Microsoft's year-to-date decline exceeds 19%, approaching a critical 'make-or-break' threshold. - 富途牛牛",MSFT,Google RSS,negative,-0.9216701984405518
+2026-02-25 03:05:30,Trump Praises ‘Rate Payer Protection Pledge’ by Tech Companies,MSFT,Yahoo RSS,neutral,0.0
+2026-02-24 10:43:00,Stock futures inch higher ahead of key earnings results from Nvidia: Live updates,NVDA,Bing RSS,neutral,0.0
+2026-02-24 08:37:00,"Billionaire Investor Stanley Druckenmiller Eliminated His Fund's Position in Meta Platforms and Piled into Another ""Magnificent Seven"" Stock That's Been Getting Crushed by the ...",META,Bing RSS,negative,-0.8353114724159241
