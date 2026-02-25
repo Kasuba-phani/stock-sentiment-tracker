@@ -3,7 +3,6 @@
 **Live Autonomous Dashboard:** [Access the S.E.N.S.E.™ Terminal Here](https://stock-sentiment-tracker-bp9fsi9nsrbnww6li8kaze.streamlit.app/)
 
 ![S.E.N.S.E. Architecture Roadmap](sense_roadmap.jpg)
-*(Note: Upload your image to the repo and ensure the file name matches the markdown link above)*
 
 ## 🎯 Project Overview
 Static datasets are insufficient for analyzing live financial markets. S.E.N.S.E.™ is an automated, cloud-hosted MLOps pipeline and AI trading terminal built to ingest, score, and visualize market sentiment in real-time. 
