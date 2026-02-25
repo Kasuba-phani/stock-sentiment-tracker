@@ -64,3 +64,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-25 08:54:21,Microsoft Corporation $MSFT Shares Bought by Fidelis Capital Partners LLC - MarketBeat,MSFT,Google RSS,neutral,0.0
 2026-02-25 04:40:17,"NVIDIA's earnings report this week is expected to be strong, but investors are more focused on the GTC Conference in March. - 富途牛牛",NVDA,Google RSS,neutral,0.0
 2026-02-25 08:08:10,"Advisors Capital Management LLC Boosts Stock Position in Meta Platforms, Inc. $META - MarketBeat",META,Google RSS,positive,0.9331814646720886
+2026-02-25 09:55:13,Stock index futures higher ahead of Nvidia results (SPX:) - Seeking Alpha,NVDA,Google RSS,positive,0.8658406734466553
+2026-02-25 05:01:06,Nvidia prepares to release its quarterly results as AI fears weigh on the stock market - The Lufkin Daily News,NVDA,Google RSS,negative,-0.7442957162857056
+2026-02-25 01:43:00,"Stock Market Today: Dow, S&P 500 and Nasdaq consolidate after latest rally as traders await Nvidia earnings; Workday shares slide as software worries linger; gold and silver up.",NVDA,Bing RSS,negative,-0.9501969814300537
