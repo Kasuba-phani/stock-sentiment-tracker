@@ -141,7 +141,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-25 17:00:00,"Netflix CFO to Participate in a Q&A session at the Morgan Stanley Technology, Media & Telecom Conference - Stock Titan",NFLX,Google RSS,neutral,0.0
 2026-02-22 14:00:00,"2 ETFs Robinhood Retail Investors Favor Over Palantir, Alphabet, Meta, and Netflix Shares - The Motley Fool",NFLX,Google RSS,neutral,0.0
 2026-02-25 21:00:52,"Stock market today: Dow, S&P 500, Nasdaq rally on tech jolt as Nvidia earnings loom",GOOGL,Yahoo RSS,negative,-0.4503607153892517
-2026-02-25 21:00:43,Sector Update: Financial Stocks Higher Late Afternoon,GOOGL,Yahoo RSS,positive,0.9091135263442993
+2026-02-25 21:00:43,Sector Update: Financial Stocks Higher Late Afternoon,GOOGL,Yahoo RSS,positive,0.9091135263442992
 2026-02-18 13:11:00,Amazon stock snapped its worst losing streak since 2006. It could be time to buy.,AMZN,Bing RSS,neutral,0.0
 2026-02-25 10:44:41,Wall Street extends tech-powered rally as AI disruption worries abate - Reuters,NVDA,Google RSS,neutral,0.0
 2026-02-25 21:01:25,Stocks continue to climb as tech and hyperscalers rise - Sherwood News,NVDA,Google RSS,positive,0.7650335431098938
@@ -151,6 +151,24 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-25 21:24:53,NuScale Power Bets on Small Modular Reactors as AI Drives a New Wave of Electricity Demand,NVDA,Yahoo RSS,positive,0.5297476053237915
 2026-02-25 21:08:38,US Equity Markets Close Higher Ahead of Nvidia Results,NVDA,Yahoo RSS,positive,0.9209648966789246
 2026-02-25 21:00:52,"Stock market today: Dow, S&P 500, Nasdaq rally on tech jolt as Nvidia earnings loom",NVDA,Yahoo RSS,negative,-0.4503607153892517
-2026-02-25 20:44:56,Vail Resorts Heads Into Ski Season Backed by Strong Epic Pass Sales,TSLA,Yahoo RSS,positive,0.9386385679244995
+2026-02-25 20:44:56,Vail Resorts Heads Into Ski Season Backed by Strong Epic Pass Sales,TSLA,Yahoo RSS,positive,0.9386385679244996
 2026-02-25 21:05:00,"Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference",META,Yahoo RSS,neutral,0.0
-2026-02-25 20:50:10,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
+2026-02-25 20:50:10,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.935252010822296
+2026-02-25 22:04:34,Nvidia Tops Fourth-Quarter Estimates Amid Strong Computing Demand,GOOGL,Yahoo RSS,positive,0.9361061453819275
+2026-02-25 22:03:52,Zoom forecasts quarterly profit below estimates amid tough competition,GOOGL,Yahoo RSS,negative,-0.9227914214134216
+2026-02-25 22:04:34,Nvidia Tops Fourth-Quarter Estimates Amid Strong Computing Demand,AMZN,Yahoo RSS,positive,0.9361061453819275
+2026-02-25 21:56:46,Microsoft stock price rebounds as Japan raids Azure unit; MSFT investors eye Nvidia earnings - TechStock²,MSFT,Google RSS,negative,-0.9385531544685364
+2026-02-25 22:03:52,Zoom forecasts quarterly profit below estimates amid tough competition,MSFT,Yahoo RSS,negative,-0.9227914214134216
+2026-02-25 21:40:00,"S&P 500 posts back-to-back gains, Dow jumps 300 points as Nvidia rises: Live updates - CNBC",NVDA,Google RSS,neutral,0.0
+2026-02-25 15:02:33,Why an Evercore analyst is so bullish on Nvidia's stock ahead of earnings - MarketWatch,NVDA,Google RSS,neutral,0.0
+2026-02-25 10:44:41,Wall Street extends tech-powered rally as AI worries abate; Nvidia reports - Reuters,NVDA,Google RSS,neutral,0.0
+2026-02-25 21:22:00,"Stock Market News, Feb. 25, 2026: Dow, S&P 500 and Nasdaq secure back-to-back gains as tech stocks advance; Nvidia earnings on tap; gold and silver up. - MarketWatch",NVDA,Google RSS,positive,0.9267061352729797
+2026-02-25 09:03:00,Stocks Are Rising. Nvidia Earnings Are in Focus. - Barron's,NVDA,Google RSS,positive,0.5360832214355469
+2026-02-25 22:16:00,Nvidia delivers another quarter of stellar growth amid growing concern over AI economy - AP News,NVDA,Google RSS,positive,0.868751049041748
+2026-02-25 22:28:15,Nvidia’s stock rises after $78 billion earnings forecast - qz.com,NVDA,Google RSS,positive,0.5787047147750854
+2026-02-25 14:16:00,Nvidia delivers another quarter of stellar growth amid growing concern over AI economy,NVDA,Bing RSS,positive,0.9249911904335022
+2026-02-25 22:27:21,Nvidia’s stock rises after $78 billion earnings forecast,NVDA,Yahoo RSS,positive,0.8856617212295532
+2026-02-25 22:04:34,Nvidia Tops Fourth-Quarter Estimates Amid Strong Computing Demand,NVDA,Yahoo RSS,positive,0.9361061453819275
+2026-02-25 22:28:27,Broadcom stock rebounds after Meta-AMD shakeup as Nvidia’s outlook lifts chip mood - TechStock²,META,Google RSS,positive,0.5825037360191345
+2026-02-25 02:41:00,"Meta stock on the verge of a brutal bear cycle, warns expert",META,Bing RSS,negative,-0.925889790058136
+2026-02-25 22:04:34,Nvidia Tops Fourth-Quarter Estimates Amid Strong Computing Demand,META,Yahoo RSS,positive,0.9361061453819275
