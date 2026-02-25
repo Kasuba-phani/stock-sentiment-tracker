@@ -51,7 +51,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-24 10:43:00,Stock futures inch higher ahead of key earnings results from Nvidia: Live updates,NVDA,Bing RSS,neutral,0.0
 2026-02-24 08:37:00,"Billionaire Investor Stanley Druckenmiller Eliminated His Fund's Position in Meta Platforms and Piled into Another ""Magnificent Seven"" Stock That's Been Getting Crushed by the ...",META,Bing RSS,negative,-0.8353114724159241
 2026-02-25 05:44:10,Apple’s Houston Manufacturing Buildout Reshapes Supply Chain And AI Story - simplywall.st,AAPL,Google RSS,negative,-0.6597867608070374
-2026-02-24 11:44:17,Swiss Bond Market Eyes Blowout Sales Boosted by Alphabet’s Debut - Bloomberg,GOOGL,Google RSS,positive,0.9217716455459595
+2026-02-24 11:44:17,Swiss Bond Market Eyes Blowout Sales Boosted by Alphabet’s Debut - Bloomberg,GOOGL,Google RSS,positive,0.9217716455459596
 2026-02-24 23:44:46,"Stock market today: Dow, S&P 500, Nasdaq futures steady after Trump delivers State of the Union, Nvidia earnings loom",GOOGL,Yahoo RSS,positive,0.735085666179657
 2026-02-25 01:07:00,Goldman Sachs resets Microsoft stock forecast - thestreet.com,MSFT,Google RSS,neutral,0.0
 2026-02-24 20:50:00,Microsoft’s stock selloff is approaching a critical crossroads not seen in over 10 years - MarketWatch,MSFT,Google RSS,neutral,0.0
@@ -59,4 +59,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-25 06:00:01,European tech stocks to watch when Nvidia reports earnings - CNBC,NVDA,Google RSS,neutral,0.0
 2026-02-25 05:01:06,Nvidia prepares to release its quarterly results as AI fears weigh on the stock market - Ottumwa Courier,NVDA,Google RSS,negative,-0.8954514265060425
 2026-02-24 13:13:00,"Stock market today: Dow, S&P 500, Nasdaq jump as software leads AI relief rally ahead of Nvidia earnings",NVDA,Bing RSS,positive,0.5322103500366211
-2026-02-25 01:18:55,Nvidia prepares to release its quarterly results as AI fears weigh on the stock market,NVDA,Yahoo RSS,negative,-0.9235488176345825
+2026-02-25 01:18:55,Nvidia prepares to release its quarterly results as AI fears weigh on the stock market,NVDA,Yahoo RSS,negative,-0.9235488176345824
+2026-02-24 22:32:42,AI disruption prompts Australia's WiseTech to cut a third of global workforce,AMZN,Yahoo RSS,negative,-0.9567482471466064
