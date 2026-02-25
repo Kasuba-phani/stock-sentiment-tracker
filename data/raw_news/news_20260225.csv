@@ -61,3 +61,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-24 13:13:00,"Stock market today: Dow, S&P 500, Nasdaq jump as software leads AI relief rally ahead of Nvidia earnings",NVDA,Bing RSS,positive,0.5322103500366211
 2026-02-25 01:18:55,Nvidia prepares to release its quarterly results as AI fears weigh on the stock market,NVDA,Yahoo RSS,negative,-0.9235488176345824
 2026-02-24 22:32:42,AI disruption prompts Australia's WiseTech to cut a third of global workforce,AMZN,Yahoo RSS,negative,-0.9567482471466064
+2026-02-25 08:54:21,Microsoft Corporation $MSFT Shares Bought by Fidelis Capital Partners LLC - MarketBeat,MSFT,Google RSS,neutral,0.0
+2026-02-25 04:40:17,"NVIDIA's earnings report this week is expected to be strong, but investors are more focused on the GTC Conference in March. - 富途牛牛",NVDA,Google RSS,neutral,0.0
+2026-02-25 08:08:10,"Advisors Capital Management LLC Boosts Stock Position in Meta Platforms, Inc. $META - MarketBeat",META,Google RSS,positive,0.9331814646720886
