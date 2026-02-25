@@ -99,9 +99,21 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-25 14:38:13,US stocks edge higher ahead of Nvidia's earnings report - Union-Bulletin,NVDA,Google RSS,positive,0.8786656856536865
 2026-02-25 10:42:26,US stock futures inch up ahead of Nvidia earnings as AI jitters ease - TradingView,NVDA,Google RSS,positive,0.7934732437133789
 2026-02-25 14:49:47,US stocks rise ahead of Nvidia's profit report - Ottumwa Courier,NVDA,Google RSS,neutral,0.0
-2026-02-25 06:42:00,"Stock Market Today: Dow rises 200 points, S&P 500 and Nasdaq open higher as tech stocks extend gains; Nvidia earnings on tap; gold and silver up.",NVDA,Bing RSS,positive,0.9282926917076111
+2026-02-25 06:42:00,"Stock Market Today: Dow rises 200 points, S&P 500 and Nasdaq open higher as tech stocks extend gains; Nvidia earnings on tap; gold and silver up.",NVDA,Bing RSS,positive,0.9282926917076112
 2026-02-25 14:34:48,"Stock market today: Dow, S&P 500, Nasdaq rise with Nvidia earnings looming as gut check for AI trade",NVDA,Yahoo RSS,positive,0.5364449620246887
 2026-02-25 14:00:09,"Tech news today: Nvidia earnings on deck as tech stocks rebound, Anthropic relieves some AI fears",NVDA,Yahoo RSS,positive,0.8870221972465515
 2026-02-25 13:47:42,"Exchange-Traded Funds, Equity Futures Higher Pre-Bell Wednesday as Traders Look Toward Tech Results",NVDA,Yahoo RSS,positive,0.8453958034515381
 2026-02-25 14:00:09,"Tech news today: Nvidia earnings on deck as tech stocks rebound, Anthropic relieves some AI fears",META,Yahoo RSS,positive,0.8870221972465515
 2026-02-22 14:20:00,"2 ETFs Robinhood Retail Investors Favor Over Palantir, Alphabet, Meta, and Netflix Shares - Nasdaq",NFLX,Google RSS,neutral,0.0
+2026-02-25 16:09:00,"Stocks rise, adding to Tuesday's comeback as Nvidia and Oracle shares gain: Live updates - CNBC",NVDA,Google RSS,positive,0.523964524269104
+2026-02-25 10:44:41,Wall St opens higher in run-up to Nvidia earnings as AI worries abate - Reuters,NVDA,Google RSS,positive,0.863230288028717
+2026-02-25 15:50:40,Tech leads a split US stock market ahead of Nvidia’s profit report - kdvr.com,NVDA,Google RSS,neutral,0.0
+2026-02-25 14:38:13,US stocks edge higher ahead of Nvidia's earnings report - Northeast Mississippi Daily Journal,NVDA,Google RSS,positive,0.6405189633369446
+2026-02-25 14:39:47,US stocks edge higher ahead of Nvidia's earnings report - The Albertan,NVDA,Google RSS,positive,0.8611785769462585
+2026-02-25 14:49:47,US stocks rise ahead of Nvidia's profit report - Northeast Mississippi Daily Journal,NVDA,Google RSS,neutral,0.0
+2026-02-25 14:38:00,US stocks edge higher ahead of Nvidia's earnings report - TelegraphHerald.com,NVDA,Google RSS,positive,0.7080154418945312
+2026-02-25 15:23:23,Tech leads a split US stock market ahead of Nvidia's profit report - The Killeen Daily Herald,NVDA,Google RSS,neutral,0.0
+2026-02-25 15:50:40,Tech leads a split US stock market ahead of Nvidia's profit report - The News-Item,NVDA,Google RSS,neutral,0.0
+2026-02-25 14:49:47,US stocks rise ahead of Nvidia's profit report - The News-Item,NVDA,Google RSS,neutral,0.0
+2026-02-25 07:52:00,Tech leads a split US stock market ahead of Nvidia’s profit report,NVDA,Bing RSS,neutral,0.0
+2026-02-25 15:49:00,Nasdaq lead gains as tech stocks resurgent ahead of Nvidia and Salesforce earnings,NVDA,Yahoo RSS,positive,0.8957980871200562
