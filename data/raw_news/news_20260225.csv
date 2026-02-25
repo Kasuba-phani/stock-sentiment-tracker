@@ -140,3 +140,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-25 18:01:59,Samsung unveils Galaxy S26; lifts prices in key markets amid chip price surge,META,Yahoo RSS,positive,0.8311521410942078
 2026-02-25 17:00:00,"Netflix CFO to Participate in a Q&A session at the Morgan Stanley Technology, Media & Telecom Conference - Stock Titan",NFLX,Google RSS,neutral,0.0
 2026-02-22 14:00:00,"2 ETFs Robinhood Retail Investors Favor Over Palantir, Alphabet, Meta, and Netflix Shares - The Motley Fool",NFLX,Google RSS,neutral,0.0
+2026-02-25 21:00:52,"Stock market today: Dow, S&P 500, Nasdaq rally on tech jolt as Nvidia earnings loom",GOOGL,Yahoo RSS,negative,-0.4503607153892517
+2026-02-25 21:00:43,Sector Update: Financial Stocks Higher Late Afternoon,GOOGL,Yahoo RSS,positive,0.9091135263442993
+2026-02-18 13:11:00,Amazon stock snapped its worst losing streak since 2006. It could be time to buy.,AMZN,Bing RSS,neutral,0.0
+2026-02-25 10:44:41,Wall Street extends tech-powered rally as AI disruption worries abate - Reuters,NVDA,Google RSS,neutral,0.0
+2026-02-25 21:01:25,Stocks continue to climb as tech and hyperscalers rise - Sherwood News,NVDA,Google RSS,positive,0.7650335431098938
+2026-02-25 14:45:44,US stocks edge higher ahead of Nvidia's earnings report - WRAL,NVDA,Google RSS,positive,0.757719099521637
+2026-02-25 21:09:00,U.S. Stocks See Further Upside Ahead Of Nvidia Earnings - RTTNews,NVDA,Google RSS,neutral,0.0
+2026-02-25 21:14:20,Nvidia and other tech stocks lead Wall Street higher - Star Beacon,NVDA,Google RSS,positive,0.8861965537071228
+2026-02-25 21:24:53,NuScale Power Bets on Small Modular Reactors as AI Drives a New Wave of Electricity Demand,NVDA,Yahoo RSS,positive,0.5297476053237915
+2026-02-25 21:08:38,US Equity Markets Close Higher Ahead of Nvidia Results,NVDA,Yahoo RSS,positive,0.9209648966789246
+2026-02-25 21:00:52,"Stock market today: Dow, S&P 500, Nasdaq rally on tech jolt as Nvidia earnings loom",NVDA,Yahoo RSS,negative,-0.4503607153892517
+2026-02-25 20:44:56,Vail Resorts Heads Into Ski Season Backed by Strong Epic Pass Sales,TSLA,Yahoo RSS,positive,0.9386385679244995
+2026-02-25 21:05:00,"Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference",META,Yahoo RSS,neutral,0.0
+2026-02-25 20:50:10,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
