@@ -108,7 +108,7 @@ def format_large_number(num):
     except: return "N/A"
 
 # === 1. LOAD THE DATA ===
-@st.cache_data
+@st.cache_data(ttl=3600)
 def load_news_data():
     all_news_files = glob.glob("data/raw_news/*.csv")
     df_list = []
