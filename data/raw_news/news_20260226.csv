@@ -128,11 +128,24 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-26 16:56:13,Stocks diverge as investors digest Nvidia earnings,NVDA,Yahoo RSS,negative,-0.9029350876808168
 2026-02-26 16:49:00,"Dow Jones slips, leading stocks into the red; Nasdaq pressured by Nvidia",NVDA,Yahoo RSS,negative,-0.9574967622756958
 2026-02-26 18:52:07,Stock Market Today: Major Indexes Retreat After Two-Day Rally; Nvidia Weighs on Tech Stocks Despite Blockbuster Results - Investopedia,NVDA,Google RSS,negative,-0.9442108273506165
-2026-02-26 01:44:32,"Wall Street sinks, Nasdaq slides nearly 2% as Nvidia drags chip stocks lower - Investing.com",NVDA,Google RSS,negative,-0.9466758966445923
-2026-02-26 15:32:20,Nvidia is dragging the US stock market lower as oil prices swivel - WRAL,NVDA,Google RSS,negative,-0.9473403692245483
+2026-02-26 01:44:32,"Wall Street sinks, Nasdaq slides nearly 2% as Nvidia drags chip stocks lower - Investing.com",NVDA,Google RSS,negative,-0.9466758966445924
+2026-02-26 15:32:20,Nvidia is dragging the US stock market lower as oil prices swivel - WRAL,NVDA,Google RSS,negative,-0.9473403692245485
 2026-02-26 12:50:04,Nvidia posted another blockbuster quarter. One analyst says the stock is a ‘coiled spring’ waiting to snap higher - CNBC,NVDA,Google RSS,neutral,0.0
 2026-02-26 11:11:43,"Nasdaq leads Wall Street lower as tech rally stalls, Nvidia earnings disappoint - Reuters",NVDA,Google RSS,negative,-0.961055338382721
-2026-02-26 16:14:25,Broadcom stock drops nearly 7% after Nvidia earnings; what investors watch next - TechStock²,NVDA,Google RSS,negative,-0.9262169599533081
+2026-02-26 16:14:25,Broadcom stock drops nearly 7% after Nvidia earnings; what investors watch next - TechStock²,NVDA,Google RSS,negative,-0.926216959953308
 2026-02-26 17:14:26,Small investors buy Nvidia in record numbers after Thursday's open - CNBC,NVDA,Google RSS,positive,0.5885896682739258
 2026-02-26 18:36:34,"Stock Market Today, Feb. 26: Nasdaq falls nearly 2% despite strong Nvidia earnings",NVDA,Yahoo RSS,negative,-0.9699445366859436
 2026-02-26 18:09:11,"Nvidia drags US stocks lower, mortgage rates fall below 6%",NVDA,Yahoo RSS,negative,-0.963604748249054
+2026-02-26 19:19:34,"Smartphone market set for biggest-ever decline in 2026 on memory price surge, IDC says",AAPL,Yahoo RSS,negative,-0.9683893918991089
+2026-02-26 19:19:34,"Smartphone market set for biggest-ever decline in 2026 on memory price surge, IDC says",GOOGL,Yahoo RSS,negative,-0.9683893918991089
+2026-02-26 19:08:22,Software Bear Market: Is the Amazon Dip a Once-in-a-Decade Buying Opportunity or a Falling Knife? - The Globe and Mail,AMZN,Google RSS,neutral,0.0
+2026-02-26 18:45:00,Software Bear Market: Is the Amazon Dip a Once-in-a-Decade Buying Opportunity or a Falling Knife? - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-02-26 19:05:00,Software Bear Market: Is the Amazon Dip a Once-in-a-Decade Buying Opportunity or a Falling Knife?,AMZN,Yahoo RSS,neutral,0.0
+2026-02-26 19:19:34,"Smartphone market set for biggest-ever decline in 2026 on memory price surge, IDC says",MSFT,Yahoo RSS,negative,-0.9683893918991089
+2026-02-26 18:43:46,Goldman Sachs explains Nvidia stock decline despite strong results - Investing.com,NVDA,Google RSS,negative,-0.9399569034576416
+2026-02-26 19:16:03,Nvidia's drop drags the US stock market down - WRAL,NVDA,Google RSS,negative,-0.9633306264877319
+2026-02-26 19:35:00,2 Top Healthcare Stocks to Buy in February,NVDA,Yahoo RSS,neutral,0.0
+2026-02-26 19:11:46,Nvidia shares fall as upbeat forecasts fail to excite investors,NVDA,Yahoo RSS,negative,-0.9649955630302429
+2026-02-26 19:05:00,Software Bear Market: Is the Amazon Dip a Once-in-a-Decade Buying Opportunity or a Falling Knife?,NVDA,Yahoo RSS,neutral,0.0
+2026-02-26 19:19:34,"Smartphone market set for biggest-ever decline in 2026 on memory price surge, IDC says",META,Yahoo RSS,negative,-0.9683893918991089
+2026-02-26 19:11:46,Nvidia shares fall as upbeat forecasts fail to excite investors,META,Yahoo RSS,negative,-0.9649955630302429
