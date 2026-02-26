@@ -74,3 +74,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-26 09:27:40,Amazon stock: AI spending sparks investor caution - Latest news from Azerbaijan,AMZN,Google RSS,neutral,0.0
 2026-02-26 01:25:00,Amazon stock: AI spending sparks investor caution,AMZN,Bing RSS,negative,-0.7628491520881653
 2026-02-24 20:50:00,Microsoft’s stock selloff is approaching a critical crossroads not seen in over 10 years - MarketWatch,MSFT,Google RSS,neutral,0.0
+2026-02-26 10:01:14,"Foundations Investment Advisors LLC Buys 9,704 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
+2026-02-19 21:21:00,Tesla Stock Is a Retail Investor Favorite—and It’s Under Pressure - Barron's,TSLA,Google RSS,neutral,0.0
+2026-02-25 02:41:00,"Meta stock on the verge of a brutal bear cycle, warns expert",META,Bing RSS,negative,-0.925889790058136
