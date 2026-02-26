@@ -157,14 +157,22 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-26 09:49:00,Nvidia posted another blockbuster quarter. One analyst says the stock is a ‘coiled spring’ waiting to snap higher,NVDA,Bing RSS,negative,-0.6619183421134949
 2026-02-26 19:43:00,Dow Jones back level but Nasdaq in the red thanks to Nvidia,NVDA,Yahoo RSS,positive,0.5537633299827576
 2026-02-26 15:56:03,"Salesforce stock price rebounds as CRM shares climb on buyback, AI metrics in focus - TechStock²",AAPL,Google RSS,positive,0.4642312824726105
-2026-02-26 21:26:00,S&P 500 closes lower Thursday as Nvidia post-earnings slump hangs over market: Live updates - CNBC,NVDA,Google RSS,negative,-0.9442057609558105
-2026-02-26 17:59:00,Nvidia Stock Drops Despite Bullish Q4 Report. AI Angst Blamed. - Investor's Business Daily,NVDA,Google RSS,negative,-0.9363390207290649
+2026-02-26 21:26:00,S&P 500 closes lower Thursday as Nvidia post-earnings slump hangs over market: Live updates - CNBC,NVDA,Google RSS,negative,-0.9442057609558104
+2026-02-26 17:59:00,Nvidia Stock Drops Despite Bullish Q4 Report. AI Angst Blamed. - Investor's Business Daily,NVDA,Google RSS,negative,-0.9363390207290648
 2026-02-26 21:01:14,Teradyne stock slides as Nvidia cools chip rally; investors watch March Morgan Stanley conference - TechStock²,NVDA,Google RSS,negative,-0.8934980034828186
 2026-02-26 18:05:15,Nvidia's drop drags the US market down even as most stocks rise - WRAL,NVDA,Google RSS,negative,-0.9493039846420288
-2026-02-26 21:16:10,The worst day for Nvidia's stock since last spring drags Wall Street lower - The Killeen Daily Herald,NVDA,Google RSS,negative,-0.9634754657745361
+2026-02-26 21:16:10,The worst day for Nvidia's stock since last spring drags Wall Street lower - The Killeen Daily Herald,NVDA,Google RSS,negative,-0.963475465774536
 2026-02-25 21:09:13,The worst day for Nvidia's stock since last spring drags Wall Street lower,NVDA,Bing RSS,negative,-0.958816647529602
-2026-02-26 21:29:17,Nasdaq resumes selloff as Nvidia falls despite strong results,NVDA,Yahoo RSS,negative,-0.9605962038040161
-2026-02-26 21:20:59,"Nasdaq, S&P 500 Drop as Semiconductor Stocks Slide After Nvidia Results",NVDA,Yahoo RSS,negative,-0.9515780806541443
+2026-02-26 21:29:17,Nasdaq resumes selloff as Nvidia falls despite strong results,NVDA,Yahoo RSS,negative,-0.960596203804016
+2026-02-26 21:20:59,"Nasdaq, S&P 500 Drop as Semiconductor Stocks Slide After Nvidia Results",NVDA,Yahoo RSS,negative,-0.9515780806541444
 2026-02-26 21:03:03,Nvidia stock: Wall Street analysts stay bullish as traders balk,NVDA,Yahoo RSS,negative,-0.8962826728820801
 2026-02-26 21:00:34,"Stock market today: S&P 500, Nasdaq retreat as Nvidia falls 5% despite stellar earnings",NVDA,Yahoo RSS,negative,-0.9494851231575012
 2026-02-26 15:25:17,"Best Undervalued AI Stocks in 2026: Meta, Alphabet and Microsoft Top the List - CoinCentral",META,Google RSS,neutral,0.0
+2026-02-24 08:00:00,Stronger technical forecast for Microsoft stock price after Tuesday trading - StockInvest.us,MSFT,Google RSS,positive,0.7922356724739075
+2026-02-26 21:34:40,The worst day for Nvidia's stock since last spring drags Wall Street lower - Toledo Blade,NVDA,Google RSS,negative,-0.9667394757270813
+2026-02-26 22:14:00,Nvidia stock falls despite strong earnings - Semafor,NVDA,Google RSS,negative,-0.9585533142089844
+2026-02-26 21:42:00,"Dow Jones Futures: Nvidia Hits AI Stocks, But S&P 500 Holds Key Support - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-02-26 21:33:01,"Stock Market Today, Feb. 26: Nasdaq falls nearly 2% despite strong Nvidia earnings - thestreet.com",NVDA,Google RSS,negative,-0.9678230285644531
+2026-02-26 14:05:00,The worst day for Nvidia’s stock since last spring drags Wall Street lower,NVDA,Bing RSS,negative,-0.9559311866760254
+2026-02-26 22:00:05,"Dow Jones Futures Fall; Nvidia Hits AI Stocks, But S&P 500 Holds Key Support",NVDA,Yahoo RSS,negative,-0.9303100109100342
+2026-02-26 15:42:17,Tesla Cybertruck Deal May Last Only 10 Days: Musk Says New Price Will Depend 'On How Much Demand' At $60K - AOL.com,TSLA,Google RSS,neutral,0.0
