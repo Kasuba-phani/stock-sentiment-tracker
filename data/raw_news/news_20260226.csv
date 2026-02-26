@@ -87,8 +87,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-26 12:39:28,"Nvidia Stock Rises on Strong Outlook. The Rest of the ""Magnificent Seven"" In Red",MSFT,Yahoo RSS,neutral,0.0
 2026-02-26 11:37:00,"Dow Jones Futures Waver; Nvidia Holds In Buy Zone After Strong Earnings, Guidance - Investor's Business Daily",NVDA,Google RSS,positive,0.5453494191169739
 2026-02-26 13:05:42,"Dow Jones Futures Rise; Nvidia Climbs In Buy Zone After Strong Earnings, Guidance",NVDA,Yahoo RSS,positive,0.8815675377845764
-2026-02-26 12:59:00,Dow Jones and Nasdaq futures flat as Nvidia and Salesforce earnings digested,NVDA,Yahoo RSS,negative,-0.9327017068862915
+2026-02-26 12:59:00,Dow Jones and Nasdaq futures flat as Nvidia and Salesforce earnings digested,NVDA,Yahoo RSS,negative,-0.9327017068862916
 2026-02-26 12:39:28,"Nvidia Stock Rises on Strong Outlook. The Rest of the ""Magnificent Seven"" In Red",NVDA,Yahoo RSS,neutral,0.0
 2026-02-26 12:19:10,Stocks Decline Pre-Bell as Traders Parse Nvidia's Earnings,NVDA,Yahoo RSS,negative,-0.9426619410514832
 2026-02-26 12:39:28,"Nvidia Stock Rises on Strong Outlook. The Rest of the ""Magnificent Seven"" In Red",TSLA,Yahoo RSS,neutral,0.0
 2026-02-26 12:39:28,"Nvidia Stock Rises on Strong Outlook. The Rest of the ""Magnificent Seven"" In Red",META,Yahoo RSS,neutral,0.0
+2026-02-25 16:41:35,Amazon stock price today: AMZN ticks up as AWS optimism meets fresh antitrust pressure - Bez Kabli,AMZN,Google RSS,positive,0.9299569725990295
+2026-02-26 13:40:21,"US filings for jobless aid rise modestly to 212,000 as layoffs remain at historically healthy levels",AMZN,Yahoo RSS,positive,0.5778583884239197
+2026-02-26 14:48:34,Nvidia's stock opens lower despite the upbeat report - MarketWatch,NVDA,Google RSS,negative,-0.9674821496009827
+2026-02-26 14:45:12,Stocks hold steady on Wall Street and Nvidia slips despite beating forecasts - WRAL,NVDA,Google RSS,negative,-0.9501332640647888
+2026-02-26 12:50:15,Wall Street futures unchanged before the bell after Nvidia earnings beat expectations - Pittsburgh Post-Gazette,NVDA,Google RSS,negative,-0.6535765528678894
+2026-02-26 06:52:00,Nvidia's stock opens lower despite the upbeat report,NVDA,Bing RSS,negative,-0.9642341732978821
+2026-02-26 06:37:00,"Stock market today: Dow climbs, S&P 500 and Nasdaq slip as Nvidia leaves investors wanting more",NVDA,Bing RSS,negative,-0.9639731645584106
+2026-02-26 06:46:00,"Stock Market Live February 26, 2026: S&P 500 (SPY) Flat as Markets Digest Nvidia Earnings",NVDA,Bing RSS,negative,-0.931320309638977
+2026-02-26 13:55:22,"Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday as Investors Analyze Nvidia Results",NVDA,Yahoo RSS,positive,0.857745349407196
+2026-02-26 14:35:45,‘Getting Serious’: Top Investor Eyes a Potential Catalyst For Tesla Stock - TipRanks,TSLA,Google RSS,neutral,0.0
+2026-02-26 13:31:00,Tesla Cybertruck Deal May Last Only 10 Days: Musk Says New Price Will Depend 'On How Much Demand' At $60K,TSLA,Yahoo RSS,neutral,0.0
+2026-02-26 13:08:04,Nvidia’s Upbeat Sales Forecast Gets Lackluster Investor Response,META,Yahoo RSS,negative,-0.948502779006958
