@@ -101,3 +101,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-26 22:05:55,The worst day for Nvidia’s stock since last spring drags Wall Street lower - Los Angeles Times,NVDA,Google RSS,negative,-0.9568791389465332
 2026-02-27 19:09:34,Equity Markets Fall Intraday After Producer Prices Report; Oil Rises,NVDA,Yahoo RSS,negative,-0.9611598253250122
 2026-02-27 19:09:34,Equity Markets Fall Intraday After Producer Prices Report; Oil Rises,NFLX,Yahoo RSS,negative,-0.9611598253250122
+2026-02-27 14:07:09,Apple stock price forecast: Bullish momentum as AAPL remains above key moving averages despite mild decline - Traders Union,AAPL,Google RSS,positive,0.8263296484947205
+2026-02-24 21:07:00,Goldman Sachs resets Microsoft stock forecast,MSFT,Bing RSS,negative,-0.7481476068496704
+2026-02-27 20:07:32,Stock Market Today: Dow Sinks On Hot Inflation; Dell Soars On Strong AI Outlook (Live Coverage),NVDA,Yahoo RSS,positive,0.6135453581809998
+2026-02-27 20:07:32,Stock Market Today: Dow Sinks On Hot Inflation; Dell Soars On Strong AI Outlook (Live Coverage),NFLX,Yahoo RSS,positive,0.6135453581809998
