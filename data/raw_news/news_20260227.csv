@@ -76,4 +76,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-27 12:40:00,Stocks Are Set for a February Slide. Can the Magnificent 7 Spark a March Rebound?,NVDA,Yahoo RSS,negative,-0.8193809390068054
 2026-02-27 12:40:00,Stocks Are Set for a February Slide. Can the Magnificent 7 Spark a March Rebound?,TSLA,Yahoo RSS,negative,-0.8193809390068054
 2026-02-27 12:20:00,"Dow Jones Futures Fall, S&P 500 To Test Support On AI Fears; Block, Netflix, Applied Opto Lead Big Movers - Investor's Business Daily",NFLX,Google RSS,neutral,0.0
-2026-02-27 12:32:09,Stocks Fall Pre-Bell Ahead of Wholesale Inflation Report,NFLX,Yahoo RSS,negative,-0.9092680811882019
+2026-02-27 12:32:09,Stocks Fall Pre-Bell Ahead of Wholesale Inflation Report,NFLX,Yahoo RSS,negative,-0.909268081188202
+2026-02-26 11:45:00,Software Bear Market: Is the Amazon Dip a Once-in-a-Decade Buying Opportunity or a Falling Knife?,AMZN,Bing RSS,neutral,0.0
+2026-02-27 10:22:54,"Stocks to Watch Friday: Block, Amazon, Dell, CoreWeave",AMZN,Yahoo RSS,neutral,0.0
+2026-02-27 12:59:00,Stock Market Today: Dow Falls Ahead Of Inflation Data; Nvidia Partner CoreWeave Takes A Plunge (Live Coverage) - Investor's Business Daily,NVDA,Google RSS,negative,-0.9063206911087036
+2026-02-26 12:50:04,Nvidia posted another blockbuster quarter. One analyst says the stock is a ‘coiled spring’ waiting to snap higher - CNBC,NVDA,Google RSS,neutral,0.0
