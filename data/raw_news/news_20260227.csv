@@ -105,3 +105,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-24 21:07:00,Goldman Sachs resets Microsoft stock forecast,MSFT,Bing RSS,negative,-0.7481476068496704
 2026-02-27 20:07:32,Stock Market Today: Dow Sinks On Hot Inflation; Dell Soars On Strong AI Outlook (Live Coverage),NVDA,Yahoo RSS,positive,0.6135453581809998
 2026-02-27 20:07:32,Stock Market Today: Dow Sinks On Hot Inflation; Dell Soars On Strong AI Outlook (Live Coverage),NFLX,Yahoo RSS,positive,0.6135453581809998
+2026-02-27 15:15:24,Microsoft stock: Tech weakness and bearish momentum drive another session of losses - Traders Union,MSFT,Google RSS,negative,-0.9650231003761292
+2026-02-27 21:30:39,These Stocks Lead Dow Jones In February. Hint: It's Not AI Companies.,MSFT,Yahoo RSS,neutral,0.0
+2026-02-27 21:30:39,These Stocks Lead Dow Jones In February. Hint: It's Not AI Companies.,NVDA,Yahoo RSS,neutral,0.0
+2026-02-27 15:26:15,Tesla stock: Operational headwinds and bearish signals fuel continued price softness - Traders Union,TSLA,Google RSS,negative,-0.9520639777183533
+2026-02-27 01:08:22,"Wall Street posts worst month since March amid geopolitics, trade, and AI fears - Investing.com",NFLX,Google RSS,negative,-0.9264202117919922
+2026-02-27 20:56:52,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
