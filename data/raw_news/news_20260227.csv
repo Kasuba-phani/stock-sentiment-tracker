@@ -71,3 +71,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-27 11:30:19,"Nvidia will remain the bellwether of AI, analyst explains",NVDA,Yahoo RSS,neutral,0.0
 2026-02-27 11:16:16,"Stocks mostly rise, oil jumps tracking AI and Iran",NVDA,Yahoo RSS,positive,0.5885992050170898
 2026-02-27 10:30:33,Nasdaq and S&P are set for worst month since March. Here’s how to navigate the shift,NVDA,Yahoo RSS,negative,-0.5361777544021606
+2026-02-27 12:40:00,Stocks Are Set for a February Slide. Can the Magnificent 7 Spark a March Rebound?,AAPL,Yahoo RSS,negative,-0.8193809390068054
+2026-02-27 12:20:00,"Dow Jones Futures Fall, S&P 500 To Test Support On AI Fears; Block, Netflix, Applied Opto Lead Big Movers - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-02-27 12:40:00,Stocks Are Set for a February Slide. Can the Magnificent 7 Spark a March Rebound?,NVDA,Yahoo RSS,negative,-0.8193809390068054
+2026-02-27 12:40:00,Stocks Are Set for a February Slide. Can the Magnificent 7 Spark a March Rebound?,TSLA,Yahoo RSS,negative,-0.8193809390068054
+2026-02-27 12:20:00,"Dow Jones Futures Fall, S&P 500 To Test Support On AI Fears; Block, Netflix, Applied Opto Lead Big Movers - Investor's Business Daily",NFLX,Google RSS,neutral,0.0
+2026-02-27 12:32:09,Stocks Fall Pre-Bell Ahead of Wholesale Inflation Report,NFLX,Yahoo RSS,negative,-0.9092680811882019
