@@ -89,5 +89,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-27 15:35:00,"Dow tumbles 600 points after hot inflation report, mounting concerns about AI impact: Live updates - CNBC",NFLX,Google RSS,negative,-0.8641819357872009
 2026-02-27 01:08:22,"U.S. stocks open in the red on tech slide, hot producer inflation data - Investing.com",NFLX,Google RSS,neutral,0.0
 2026-02-27 16:31:59,Microsoft Stock 2026 Forecast: MSFT Has a $600 Billion Backlog as Demand for Microsoft Cloud Surges - TipRanks,MSFT,Google RSS,negative,-0.9312226176261902
-2026-02-26 21:08:20,The worst day for Nvidia's stock since last spring drags Wall Street lower - The Albertan,NVDA,Google RSS,negative,-0.9645203351974487
-2026-02-27 16:04:56,Stock Market Can't Hold Key Levels Amid AI Concerns; Nvidia Tumbles Despite Strong Earnings: Weekly Review,NVDA,Yahoo RSS,negative,-0.9424425959587097
+2026-02-26 21:08:20,The worst day for Nvidia's stock since last spring drags Wall Street lower - The Albertan,NVDA,Google RSS,negative,-0.9645203351974488
+2026-02-27 16:04:56,Stock Market Can't Hold Key Levels Amid AI Concerns; Nvidia Tumbles Despite Strong Earnings: Weekly Review,NVDA,Yahoo RSS,negative,-0.9424425959587096
+2026-02-27 17:29:00,Stock Market Today: Dow Slumps 700 Points On Inflation Data; Nvidia Partner CoreWeave Plunges (Live Coverage) - Investor's Business Daily,NVDA,Google RSS,negative,-0.9329822659492493
+2026-02-27 16:04:00,Stock Market Can't Hold Key Levels Amid AI Concerns; Nvidia Tumbles Despite Strong Earnings: Weekly Review - Investor's Business Daily,NVDA,Google RSS,negative,-0.895270049571991
+2026-02-27 04:55:00,The worst day for Nvidia's stock since last spring drags Wall Street lower,NVDA,Bing RSS,negative,-0.958816647529602
