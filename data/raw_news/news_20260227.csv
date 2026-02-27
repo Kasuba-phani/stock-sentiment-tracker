@@ -1,8 +1,8 @@
 date,headline,ticker,source,sentiment_label,compound
 2026-02-26 15:56:03,"Salesforce stock price rebounds as CRM shares climb on buyback, AI metrics in focus - TechStock²",AAPL,Google RSS,positive,0.4642312824726105
 2026-02-26 21:45:43,"Dow Jones Futures Rise; Nvidia Climbs In Buy Zone After Strong Earnings, Guidance",AAPL,Yahoo RSS,positive,0.8815675377845764
-2026-02-26 19:19:34,"Smartphone market set for biggest-ever decline in 2026 on memory price surge, IDC says",AAPL,Yahoo RSS,negative,-0.9683893918991089
-2026-02-26 19:19:34,"Smartphone market set for biggest-ever decline in 2026 on memory price surge, IDC says",GOOGL,Yahoo RSS,negative,-0.9683893918991089
+2026-02-26 19:19:34,"Smartphone market set for biggest-ever decline in 2026 on memory price surge, IDC says",AAPL,Yahoo RSS,negative,-0.9683893918991088
+2026-02-26 19:19:34,"Smartphone market set for biggest-ever decline in 2026 on memory price surge, IDC says",GOOGL,Yahoo RSS,negative,-0.9683893918991088
 2026-02-26 19:34:26,Software Bear Market: Is the Amazon Dip a Once-in-a-Decade Buying Opportunity or a Falling Knife? - The Globe and Mail,AMZN,Google RSS,neutral,0.0
 2026-02-26 18:45:00,Software Bear Market: Is the Amazon Dip a Once-in-a-Decade Buying Opportunity or a Falling Knife? - The Motley Fool,AMZN,Google RSS,neutral,0.0
 2026-02-22 15:00:18,"‘That Doesn’t Make Sense,’ Says Top Investor About Amazon Stock - TipRanks",AMZN,Google RSS,neutral,0.0
@@ -18,37 +18,43 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-24 15:02:00,Microsoft stock steadies near $385 as AI spending worries set the tone for MSFT - TechStock²,MSFT,Google RSS,negative,-0.8805459141731262
 2026-02-25 10:10:17,"Great Lakes Advisors LLC Sells 3,897 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
 2026-02-24 14:36:00,Microsoft’s stock selloff is approaching a critical crossroads not seen in over 10 years,MSFT,Bing RSS,negative,-0.6441550254821777
-2026-02-26 19:19:34,"Smartphone market set for biggest-ever decline in 2026 on memory price surge, IDC says",MSFT,Yahoo RSS,negative,-0.9683893918991089
+2026-02-26 19:19:34,"Smartphone market set for biggest-ever decline in 2026 on memory price surge, IDC says",MSFT,Yahoo RSS,negative,-0.9683893918991088
 2026-02-26 18:43:46,Goldman Sachs explains Nvidia stock decline despite strong results - Investing.com,NVDA,Google RSS,negative,-0.9399569034576416
 2026-02-26 15:36:00,Why Nvidia’s stock is falling despite a historic earnings beat - MarketWatch,NVDA,Google RSS,negative,-0.8932204246520996
-2026-02-26 22:29:00,Nvidia Stock Drops Despite Bullish Q4 Report. AI Angst Blamed. - Investor's Business Daily,NVDA,Google RSS,negative,-0.9363390207290649
+2026-02-26 22:29:00,Nvidia Stock Drops Despite Bullish Q4 Report. AI Angst Blamed. - Investor's Business Daily,NVDA,Google RSS,negative,-0.9363390207290648
 2026-02-26 13:05:00,"Dow Jones Futures Rise; Nvidia Climbs In Buy Zone After Strong Earnings, Guidance - Investor's Business Daily",NVDA,Google RSS,positive,0.8761585354804993
 2026-02-26 17:14:26,Small investors buy Nvidia in record numbers after Thursday's open - CNBC,NVDA,Google RSS,positive,0.5885896682739258
-2026-02-26 21:34:40,The worst day for Nvidia's stock since last spring drags Wall Street lower - Toledo Blade,NVDA,Google RSS,negative,-0.9667394757270813
+2026-02-26 21:34:40,The worst day for Nvidia's stock since last spring drags Wall Street lower - Toledo Blade,NVDA,Google RSS,negative,-0.9667394757270812
 2026-02-25 22:29:26,Nvidia stock rises after $78 billion earnings forecast - qz.com,NVDA,Google RSS,neutral,0.0
 2026-02-26 21:37:28,Nvidia stock: Wall Street analysts stay bullish as traders balk - qz.com,NVDA,Google RSS,negative,-0.85638028383255
 2026-02-26 22:57:00,"Dow Jones Futures Fall; Nvidia Hits AI Stocks, But S&P 500 Holds Key Support - Investor's Business Daily",NVDA,Google RSS,negative,-0.8876175284385681
 2026-02-26 22:51:27,The worst day for Nvidia's stock since last spring drags Wall Street lower - Northeast Mississippi Daily Journal,NVDA,Google RSS,negative,-0.9584762454032898
 2026-02-26 22:14:00,Nvidia stock falls despite strong earnings - Semafor,NVDA,Google RSS,negative,-0.9585533142089844
-2026-02-26 11:11:43,"Wall St ends lower as tech rally stalls, AI fervor wanes after Nvidia results - Reuters",NVDA,Google RSS,negative,-0.9453219175338745
-2026-02-26 19:17:15,Nvidia's drop drags the US stock market down - WRAL,NVDA,Google RSS,negative,-0.9633306264877319
-2026-02-26 21:16:10,The worst day for Nvidia's stock since last spring drags Wall Street lower - The Killeen Daily Herald,NVDA,Google RSS,negative,-0.9634754657745361
+2026-02-26 11:11:43,"Wall St ends lower as tech rally stalls, AI fervor wanes after Nvidia results - Reuters",NVDA,Google RSS,negative,-0.9453219175338744
+2026-02-26 19:17:15,Nvidia's drop drags the US stock market down - WRAL,NVDA,Google RSS,negative,-0.963330626487732
+2026-02-26 21:16:10,The worst day for Nvidia's stock since last spring drags Wall Street lower - The Killeen Daily Herald,NVDA,Google RSS,negative,-0.963475465774536
 2026-02-26 21:01:14,Teradyne stock slides as Nvidia cools chip rally; investors watch March Morgan Stanley conference - TechStock²,NVDA,Google RSS,negative,-0.8934980034828186
-2026-02-26 22:51:27,The worst day for Nvidia's stock since last spring drags Wall Street lower - Star Beacon,NVDA,Google RSS,negative,-0.9656656384468079
+2026-02-26 22:51:27,The worst day for Nvidia's stock since last spring drags Wall Street lower - Star Beacon,NVDA,Google RSS,negative,-0.965665638446808
 2026-02-26 20:24:13,The worst day for Nvidia's stock since last spring drags Wall Street lower - Ottumwa Courier,NVDA,Google RSS,negative,-0.9642033576965332
 2026-02-26 02:03:00,Asia tech stocks rally as Nvidia earnings soothe AI slowdown fears - CNBC,NVDA,Google RSS,negative,-0.5473613142967224
 2026-02-26 14:53:00,The worst day for Nvidia’s stock since last spring drags Wall Street lower,NVDA,Bing RSS,negative,-0.9559311866760254
 2026-02-26 07:23:29,Why did NVDA stock drop after Nvidia earnings beat estimates? Here's why investors are worrying about long-term AI dominance outlook,NVDA,Bing RSS,negative,-0.9071200489997864
 2026-02-26 15:14:00,"Stock Market Live February 26, 2026: S&P 500 (SPY) Flat as Markets Digest Nvidia Earnings",NVDA,Bing RSS,negative,-0.931320309638977
-2026-02-26 23:52:02,"Stock market today: Dow, S&P 500, Nasdaq futures slide after Nvidia-led slump dampens AI mood again",NVDA,Yahoo RSS,negative,-0.9667883515357971
+2026-02-26 23:52:02,"Stock market today: Dow, S&P 500, Nasdaq futures slide after Nvidia-led slump dampens AI mood again",NVDA,Yahoo RSS,negative,-0.9667883515357972
 2026-02-26 14:35:45,‘Getting Serious’: Top Investor Eyes a Potential Catalyst For Tesla Stock - TipRanks,TSLA,Google RSS,neutral,0.0
 2026-02-26 15:42:17,Tesla Cybertruck Deal May Last Only 10 Days: Musk Says New Price Will Depend 'On How Much Demand' At $60K - AOL.com,TSLA,Google RSS,neutral,0.0
 2026-02-27 00:02:41,"Tesla Seeing Strong Demand For Cheaper Cybertruck, But Musk's 10-Day Deadline Remains In Place - Benzinga",TSLA,Google RSS,positive,0.526462733745575
 2026-02-26 13:31:00,Tesla Cybertruck Deal May Last Only 10 Days: Musk Says New Price Will Depend 'On How Much Demand' At $60K,TSLA,Yahoo RSS,neutral,0.0
 2026-02-26 12:39:28,"Nvidia Stock Rises on Strong Outlook. The Rest of the ""Magnificent Seven"" In Red",TSLA,Yahoo RSS,neutral,0.0
 2026-02-24 16:19:00,"Billionaire Investor Stanley Druckenmiller Eliminated His Fund's Position in Meta Platforms and Piled into Another ""Magnificent Seven"" Stock That's Been Getting Crushed by the Broader Market - The Motley Fool",META,Google RSS,negative,-0.74824458360672
-2026-02-25 10:29:18,"Meta stock on the verge of a brutal bear cycle, warns expert - Finbold",META,Google RSS,negative,-0.9076526165008545
+2026-02-25 10:29:18,"Meta stock on the verge of a brutal bear cycle, warns expert - Finbold",META,Google RSS,negative,-0.9076526165008544
 2026-02-24 16:59:01,"Consumer Confidence, AMD-Meta Deal Sends Stocks Higher - Finviz",META,Google RSS,positive,0.932624876499176
 2026-02-26 15:25:17,"Best Undervalued AI Stocks in 2026: Meta, Alphabet and Microsoft Top the List - CoinCentral",META,Google RSS,neutral,0.0
 2026-02-24 08:37:00,"Billionaire Investor Stanley Druckenmiller Eliminated His Fund's Position in Meta Platforms and Piled into Another ""Magnificent Seven"" Stock That's Been Getting Crushed by the ...",META,Bing RSS,negative,-0.8353114724159241
 2026-02-27 01:03:00,"WBD-Paramount Reactions: Wall Street Sees Puts And Takes, Activist Investor Celebrates & Netflix Stocks Rises - Deadline",NFLX,Google RSS,positive,0.4903903901576996
+2026-02-27 01:12:36,The worst day for Nvidia's stock since last spring drags Wall Street lower - couriernews.com,NVDA,Google RSS,negative,-0.9586607813835144
+2026-02-26 20:24:13,The worst day for Nvidia's stock since last spring drags Wall Street lower - Bakersfield.com,NVDA,Google RSS,negative,-0.9510204195976257
+2026-02-23 18:03:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,NVDA,Bing RSS,neutral,0.0
+2026-02-27 03:53:00,Is Salesforce Stock a Buy After a Strong Earnings Report?,NVDA,Yahoo RSS,neutral,0.0
+2026-02-27 01:03:00,"WBD-Paramount Reactions: Wall Street Analysts Split, Activist Investor Celebrates & Netflix Stock Rises - Deadline",NFLX,Google RSS,negative,-0.8513922691345215
+2026-02-26 16:03:00,"WBD-Paramount Reactions: Wall Street Analysts Split, Activist Investor Celebrates & Netflix Stock Rises",NFLX,Bing RSS,negative,-0.8808598518371582
