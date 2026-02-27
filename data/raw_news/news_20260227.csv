@@ -96,4 +96,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-27 04:55:00,The worst day for Nvidia's stock since last spring drags Wall Street lower,NVDA,Bing RSS,negative,-0.958816647529602
 2026-02-27 08:00:00,Alphabet (NASDAQ:GOOG) Stock Impact on Nasdaq Composite Amid Market Changes - Kalkine Media,GOOGL,Google RSS,neutral,0.0
 2026-02-27 01:08:22,"Wall Street falls on tech slide, hot producer inflation data - Investing.com",NFLX,Google RSS,negative,-0.7017955183982849
-2026-02-27 18:50:13,Sector Update: Consumer Stocks Mixed Friday Afternoon,NFLX,Yahoo RSS,negative,-0.9483307003974915
+2026-02-27 18:50:13,Sector Update: Consumer Stocks Mixed Friday Afternoon,NFLX,Yahoo RSS,negative,-0.9483307003974916
+2026-02-27 19:09:34,Equity Markets Fall Intraday After Producer Prices Report; Oil Rises,AMZN,Yahoo RSS,negative,-0.9611598253250122
+2026-02-26 22:05:55,The worst day for Nvidia’s stock since last spring drags Wall Street lower - Los Angeles Times,NVDA,Google RSS,negative,-0.9568791389465332
+2026-02-27 19:09:34,Equity Markets Fall Intraday After Producer Prices Report; Oil Rises,NVDA,Yahoo RSS,negative,-0.9611598253250122
+2026-02-27 19:09:34,Equity Markets Fall Intraday After Producer Prices Report; Oil Rises,NFLX,Yahoo RSS,negative,-0.9611598253250122
