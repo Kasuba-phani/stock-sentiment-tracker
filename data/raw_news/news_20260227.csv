@@ -108,6 +108,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-27 15:15:24,Microsoft stock: Tech weakness and bearish momentum drive another session of losses - Traders Union,MSFT,Google RSS,negative,-0.9650231003761292
 2026-02-27 21:30:39,These Stocks Lead Dow Jones In February. Hint: It's Not AI Companies.,MSFT,Yahoo RSS,neutral,0.0
 2026-02-27 21:30:39,These Stocks Lead Dow Jones In February. Hint: It's Not AI Companies.,NVDA,Yahoo RSS,neutral,0.0
-2026-02-27 15:26:15,Tesla stock: Operational headwinds and bearish signals fuel continued price softness - Traders Union,TSLA,Google RSS,negative,-0.9520639777183533
+2026-02-27 15:26:15,Tesla stock: Operational headwinds and bearish signals fuel continued price softness - Traders Union,TSLA,Google RSS,negative,-0.9520639777183532
 2026-02-27 01:08:22,"Wall Street posts worst month since March amid geopolitics, trade, and AI fears - Investing.com",NFLX,Google RSS,negative,-0.9264202117919922
-2026-02-27 20:56:52,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
+2026-02-27 20:56:52,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.935252010822296
+2026-02-27 22:00:42,Dow Jones Futures: Major Indexes Mask Market Strength; S&P 500's Top Stock Setting Up,AAPL,Yahoo RSS,neutral,0.0
+2026-02-27 21:22:21,CoreWeave suffers worst rout in six months over spending fears,MSFT,Yahoo RSS,negative,-0.9637507796287537
+2026-02-27 21:27:20,Nvidia stock price slides again as NVDA selloff deepens after earnings beat - TechStock²,NVDA,Google RSS,negative,-0.9500610828399658
+2026-02-27 21:09:06,Nasdaq and S&P just had their worst month since March. Here’s how to navigate the shift,NVDA,Yahoo RSS,neutral,0.0
+2026-02-27 21:22:21,CoreWeave suffers worst rout in six months over spending fears,META,Yahoo RSS,negative,-0.9637507796287537
+2026-02-27 21:23:00,Dow ends week lower amid AI fears as S&P and Nasdaq follow suit,NFLX,Yahoo RSS,negative,-0.9577793478965759
