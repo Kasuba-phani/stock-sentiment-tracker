@@ -8,7 +8,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-26 18:45:00,Software Bear Market: Is the Amazon Dip a Once-in-a-Decade Buying Opportunity or a Falling Knife? - The Motley Fool,AMZN,Google RSS,neutral,0.0
 2026-02-26 19:34:26,Software Bear Market: Is the Amazon Dip a Once-in-a-Decade Buying Opportunity or a Falling Knife? - The Globe and Mail,AMZN,Google RSS,neutral,0.0
 2026-02-26 09:27:48,Amazon stock: AI spending sparks investor caution - Latest news from Azerbaijan,AMZN,Google RSS,neutral,0.0
-2026-02-27 19:09:34,Equity Markets Fall Intraday After Producer Prices Report; Oil Rises,AMZN,Yahoo RSS,negative,-0.9611597061157227
+2026-02-27 19:09:34,Equity Markets Fall Intraday After Producer Prices Report; Oil Rises,AMZN,Yahoo RSS,negative,-0.9611597061157228
 2026-02-27 16:32:23,Microsoft Stock 2026 Forecast: MSFT Has a $600 Billion Backlog as Demand for Microsoft Cloud Surges - TipRanks,MSFT,Google RSS,negative,-0.9312226176261902
 2026-02-25 01:07:00,Goldman Sachs resets Microsoft stock forecast - thestreet.com,MSFT,Google RSS,neutral,0.0
 2026-02-24 20:50:00,Microsoft’s stock selloff is approaching a critical crossroads not seen in over 10 years - MarketWatch,MSFT,Google RSS,neutral,0.0
@@ -20,10 +20,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-24 21:07:00,Goldman Sachs resets Microsoft stock forecast,MSFT,Bing RSS,negative,-0.7481476068496704
 2026-02-24 14:36:00,Microsoft’s stock selloff is approaching a critical crossroads not seen in over 10 years,MSFT,Bing RSS,negative,-0.6441550254821777
 2026-02-27 21:30:39,These Stocks Lead Dow Jones In February. Hint: It's Not AI Companies.,MSFT,Yahoo RSS,neutral,0.0
-2026-02-27 21:22:21,CoreWeave suffers worst rout in six months over spending fears,MSFT,Yahoo RSS,negative,-0.9637507796287537
+2026-02-27 21:22:21,CoreWeave suffers worst rout in six months over spending fears,MSFT,Yahoo RSS,negative,-0.9637507796287536
 2026-02-27 16:04:00,Stock Market Can't Hold Key Levels Amid AI Concerns; Nvidia Tumbles Despite Strong Earnings: Weekly Review - Investor's Business Daily,NVDA,Google RSS,negative,-0.895270049571991
 2026-02-26 15:36:00,Why Nvidia’s stock is falling despite a historic earnings beat - MarketWatch,NVDA,Google RSS,negative,-0.8932204246520996
-2026-02-26 22:29:00,Nvidia Stock Drops Despite Bullish Q4 Report. AI Angst Blamed. - Investor's Business Daily,NVDA,Google RSS,negative,-0.9363390207290649
+2026-02-26 22:29:00,Nvidia Stock Drops Despite Bullish Q4 Report. AI Angst Blamed. - Investor's Business Daily,NVDA,Google RSS,negative,-0.9363390207290648
 2026-02-25 22:29:26,Nvidia stock rises after $78 billion earnings forecast - qz.com,NVDA,Google RSS,neutral,0.0
 2026-02-27 21:08:00,Nvidia stock price slides again as NVDA selloff deepens after earnings beat - TechStock²,NVDA,Google RSS,negative,-0.9500610828399658
 2026-02-26 18:43:46,Goldman Sachs explains Nvidia stock decline despite strong results - Investing.com,NVDA,Google RSS,negative,-0.9399569034576416
@@ -32,14 +32,19 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-25 15:35:00,Nvidia earnings recap: Stock rises after earnings blow past Wall Street estimates,NVDA,Bing RSS,positive,0.8701637387275696
 2026-02-27 04:55:00,The worst day for Nvidia's stock since last spring drags Wall Street lower,NVDA,Bing RSS,negative,-0.958816647529602
 2026-02-26 14:35:45,‘Getting Serious’: Top Investor Eyes a Potential Catalyst For Tesla Stock - TipRanks,TSLA,Google RSS,neutral,0.0
-2026-02-27 15:26:15,Tesla stock: Operational headwinds and bearish signals fuel continued price softness - Traders Union,TSLA,Google RSS,negative,-0.9520639777183533
+2026-02-27 15:26:15,Tesla stock: Operational headwinds and bearish signals fuel continued price softness - Traders Union,TSLA,Google RSS,negative,-0.9520639777183532
 2026-02-27 12:40:00,Stocks Are Set for a February Slide. Can the Magnificent 7 Spark a March Rebound?,TSLA,Yahoo RSS,negative,-0.8193809390068054
 2026-02-24 16:19:00,"Billionaire Investor Stanley Druckenmiller Eliminated His Fund's Position in Meta Platforms and Piled into Another ""Magnificent Seven"" Stock That's Been Getting Crushed by the Broader Market - The Motley Fool",META,Google RSS,negative,-0.74824458360672
-2026-02-25 10:29:18,"Meta stock on the verge of a brutal bear cycle, warns expert - Finbold",META,Google RSS,negative,-0.9076526165008545
+2026-02-25 10:29:18,"Meta stock on the verge of a brutal bear cycle, warns expert - Finbold",META,Google RSS,negative,-0.9076526165008544
 2026-02-24 08:37:00,"Billionaire Investor Stanley Druckenmiller Eliminated His Fund's Position in Meta Platforms and Piled into Another ""Magnificent Seven"" Stock That's Been Getting Crushed by the ...",META,Bing RSS,negative,-0.8353114724159241
-2026-02-27 21:22:21,CoreWeave suffers worst rout in six months over spending fears,META,Yahoo RSS,negative,-0.9637507796287537
+2026-02-27 21:22:21,CoreWeave suffers worst rout in six months over spending fears,META,Yahoo RSS,negative,-0.9637507796287536
 2026-02-27 01:03:00,"WBD-Paramount Reactions: Wall Street Analysts Split, Activist Investor Celebrates & Netflix Stock Rises - Deadline",NFLX,Google RSS,negative,-0.8513922691345215
 2026-02-27 01:08:22,"Wall Street posts worst month since March amid geopolitics, trade, and AI fears - Investing.com",NFLX,Google RSS,negative,-0.9264202117919922
 2026-02-27 12:59:00,"Dow Jones Futures Fall, S&P 500 To Test Support On AI Fears; Block, Netflix, Applied Opto Lead Big Movers - Investor's Business Daily",NFLX,Google RSS,neutral,0.0
-2026-02-27 21:23:00,Dow ends week lower amid AI fears as S&P and Nasdaq follow suit,NFLX,Yahoo RSS,negative,-0.9577793478965759
-2026-02-27 20:56:52,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
+2026-02-27 21:23:00,Dow ends week lower amid AI fears as S&P and Nasdaq follow suit,NFLX,Yahoo RSS,negative,-0.957779347896576
+2026-02-27 20:56:52,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.935252010822296
+2026-02-24 15:05:08,Apple's Services Growth Ride on Strong Content & Games: What's Ahead? - Zacks Investment Research,AAPL,Google RSS,neutral,0.0
+2026-02-28 04:09:43,Dow Jones Futures: Trump's Anthropic Move Hits Market ETFs; Don't Forget S&P 500's Hottest Stocks,AAPL,Yahoo RSS,neutral,0.0
+2026-02-28 04:09:43,Dow Jones Futures: Trump's Anthropic Move Hits Market ETFs; Don't Forget S&P 500's Hottest Stocks,GOOGL,Yahoo RSS,neutral,0.0
+2026-02-28 04:09:43,Dow Jones Futures: Trump's Anthropic Move Hits Market ETFs; Don't Forget S&P 500's Hottest Stocks,AMZN,Yahoo RSS,neutral,0.0
+2026-02-26 22:05:55,The worst day for Nvidia’s stock since last spring drags Wall Street lower - Los Angeles Times,NVDA,Google RSS,negative,-0.9568790197372437
