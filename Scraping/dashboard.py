@@ -111,7 +111,6 @@ def format_large_number(num):
 @st.cache_data(ttl=3600)
 def load_news_data():
     all_news_files = glob.glob("data/raw_news/*.csv")
-    st.write("🔍 DEBUG - FILES ON SERVER:", all_news_files)
     df_list = []
     for f in all_news_files:
         try: df_list.append(pd.read_csv(f, encoding='utf-8'))
@@ -124,10 +123,6 @@ def load_news_data():
         df_news['datetime'] = pd.to_datetime(df_news['date'], errors='coerce')
         df_news['display_date'] = df_news['datetime'].dt.strftime('%m-%d %H:%M')
         df_news['date_only'] = df_news['datetime'].dt.date
-        # ADD THESE TWO LINES RIGHT BEFORE 'return df_news'
-    st.write("📈 DEBUG - TOTAL ROWS LOADED:", len(df_news))
-    st.write("⏰ DEBUG - MAX DATE IN PANDAS:", df_news['datetime'].max())
-    
     return df_news
 
 @st.cache_data(ttl=3600)
