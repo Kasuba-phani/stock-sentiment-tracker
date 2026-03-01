@@ -59,3 +59,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-01 13:48:42,Global earnings show shift from US as S&P 500 slumped,AMZN,Yahoo RSS,negative,-0.4580819308757782
 2026-03-01 13:48:42,Global earnings show shift from US as S&P 500 slumped,MSFT,Yahoo RSS,negative,-0.4580819308757782
 2026-02-26 23:56:46,"Wall St ends lower as tech rally stalls, AI fervor wanes after Nvidia results - Reuters",NVDA,Google RSS,negative,-0.9453219175338744
+2026-03-01 23:01:01,"Tesla Seeing Strong Demand For Cheaper Cybertruck, But Musk's 10-Day Deadline Remains In Place",TSLA,Yahoo RSS,neutral,0.0
