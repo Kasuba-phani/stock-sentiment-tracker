@@ -111,6 +111,7 @@ def format_large_number(num):
 @st.cache_data(ttl=3600)
 def load_news_data():
     all_news_files = glob.glob("data/raw_news/*.csv")
+    st.write("🔍 DEBUG - FILES ON SERVER:", all_news_files)
     df_list = []
     for f in all_news_files:
         try: df_list.append(pd.read_csv(f, encoding='utf-8'))
