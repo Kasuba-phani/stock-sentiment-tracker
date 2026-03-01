@@ -1,5 +1,6 @@
 streamlit
 pandas
+yfinance
 plotly
 transformers
 torch
