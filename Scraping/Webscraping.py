@@ -1,57 +1,41 @@
 """
 Author: Phanidhar Kasuba
-Description: Automated MLOps Sentiment Terminal
+Description: Automated MLOps Sentiment Terminal (Tier-1 Upgraded)
 Copyright (c) 2026. All rights reserved.
 """
 import pandas as pd
 import feedparser
+import requests # <-- NEW: Needed for the human disguise
 from datetime import datetime, timedelta
 import os
 import glob
-import joblib # For loading the vectorizer and classifier
+import joblib 
 from transformers import pipeline
 
 import nltk
-# Tell the robot to download the dictionaries quietly in the background
 nltk.download('punkt', quiet=True)
 nltk.download('stopwords', quiet=True)
 nltk.download('wordnet', quiet=True)
 nltk.download('omw-1.4', quiet=True)
 nltk.download('punkt_tab', quiet=True)
 
-
-# --- NEW IMPORTS NEEDED FOR CLEAN FUNCTION ---
 import string
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
-# Initialize the lemmatizer once, outside the function, to save memory
 lemmatizer = WordNetLemmatizer()
-# ---------------------------------------------
 
 print("Loading Stage 1: (Text Cleaner)...")
-def clean(doc): # doc is a string of text
-    # This text contains a lot of <br/> tags.
-    doc = str(doc).replace("</br>", " ") # Added str() just to be perfectly safe
-    
-    # Remove punctuation and numbers
+def clean(doc): 
+    doc = str(doc).replace("</br>", " ") 
     doc = "".join([char for char in doc if char not in string.punctuation and not char.isdigit()])
-    
-    # Tokenization
     tokens = nltk.word_tokenize(doc)
-
-    # Lemmatize
     lemmatized_tokens = [lemmatizer.lemmatize(token) for token in tokens]
-
-    # Stop word removal
     stop_words = set(stopwords.words('english'))
     filtered_tokens = [word for word in lemmatized_tokens if word.lower() not in stop_words]
-    
-    # Join and return
     return " ".join(filtered_tokens)
 
-# === SETTINGS ===
-# === SETTINGS ===
+# === SETTINGS & DISGUISES ===
 TICKERS = {
     "AAPL": "Apple",
     "GOOGL": "Alphabet",
@@ -61,6 +45,19 @@ TICKERS = {
     "TSLA": "Tesla",
     "META": "Meta",
     "NFLX": "Netflix"
+}
+
+# The "Human" Disguise to bypass bot-blockers
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}
+
+# The new Tier-1 Institutional Feeds
+MACRO_FEEDS = {
+    "CNBC Finance": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+    "MarketWatch Top": "http://feeds.marketwatch.com/marketwatch/topstories",
+    "WSJ Markets": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "Yahoo Global": "https://finance.yahoo.com/news/rss"
 }
 
 print("Loading Stage 2: The Bouncer (Custom NLP Filter)...")
@@ -84,27 +81,43 @@ def fetch_articles():
     """Scrape news from multiple RSS feeds"""
     all_articles = []
     
+    # 1. Ticker-Specific Feeds (Upgraded with Headers)
     for ticker, name in TICKERS.items():
-        # Google News RSS
         try:
-            g_feed = feedparser.parse(f"https://news.google.com/rss/search?q={name}+stock&hl=en-US&gl=US&ceid=US:en")
+            res = requests.get(f"https://news.google.com/rss/search?q={name}+stock&hl=en-US&gl=US&ceid=US:en", headers=HEADERS, timeout=10)
+            g_feed = feedparser.parse(res.content)
             all_articles.extend(process_entries(g_feed.entries, ticker, "Google RSS"))
         except Exception as e:
             print(f"Google RSS failed for {ticker}: {str(e)}")
         
-        # Bing News RSS
         try:
-            b_feed = feedparser.parse(f"https://www.bing.com/news/search?q={name}+stock&format=rss")
+            res = requests.get(f"https://www.bing.com/news/search?q={name}+stock&format=rss", headers=HEADERS, timeout=10)
+            b_feed = feedparser.parse(res.content)
             all_articles.extend(process_entries(b_feed.entries, ticker, "Bing RSS", default_date=TODAY))
         except Exception as e:
             print(f"Bing RSS failed for {ticker}: {str(e)}")
         
-        # Yahoo Finance RSS
         try:
-            y_feed = feedparser.parse(f"https://feeds.finance.yahoo.com/rss/2.0/headline?s={ticker}&region=US&lang=en-US")
+            res = requests.get(f"https://feeds.finance.yahoo.com/rss/2.0/headline?s={ticker}&region=US&lang=en-US", headers=HEADERS, timeout=10)
+            y_feed = feedparser.parse(res.content)
             all_articles.extend(process_entries(y_feed.entries, ticker, "Yahoo RSS", default_date=TODAY))
         except Exception as e:
             print(f"Yahoo RSS failed for {ticker}: {str(e)}")
+
+    # 2. Institutional Macro Feeds (The New Pipeline)
+    for source_name, url in MACRO_FEEDS.items():
+        try:
+            res = requests.get(url, headers=HEADERS, timeout=10)
+            m_feed = feedparser.parse(res.content)
+            
+            for entry in m_feed.entries:
+                headline = clean_text(entry.title)
+                # Check if any tracked company is mentioned in the headline
+                for ticker, name in TICKERS.items():
+                    if name.lower() in headline.lower() or ticker in headline:
+                        all_articles.extend(process_entries([entry], ticker, source_name))
+        except Exception as e:
+            print(f"{source_name} feed failed: {str(e)}")
     
     return pd.DataFrame(all_articles)
 
@@ -115,19 +128,15 @@ def process_entries(entries, ticker, source, default_date=None):
     
     for entry in entries:
         try:
-            # 1. Grab the exact publish time
             if hasattr(entry, 'published'):
                 pub_date = pd.to_datetime(entry.published)
                 if pub_date.tzinfo is not None:
                     pub_date = pub_date.tz_localize(None)
             else:
-                # FALLBACK: If the RSS is missing the time, stamp it with the exact time the scraper ran
                 pub_date = pd.to_datetime(datetime.now())
             
-            # 2. Check if it's recent enough
             if pub_date >= cutoff_datetime:
                 processed.append({
-                    # This guarantees the CSV saves as "YYYY-MM-DD HH:MM:SS"
                     "date": pub_date.strftime('%Y-%m-%d %H:%M:%S'), 
                     "headline": clean_text(entry.title),
                     "ticker": ticker,
@@ -150,37 +159,29 @@ def analyze_sentiment(df):
     if df.empty:
         return df
         
-    print(f"Total articles scraped: {len(df)}")
+    print(f"Total articles scraped this session: {len(df)}")
     
-    # === STAGE 1: THE BOUNCER ===
     if bouncer_loaded:
         print("Filtering irrelevant news...")
-        # Translate text to numbers
         X_daily = vectorizer.transform(df['headline'])
-        # Predict if relevant (Assuming your notebook used '1' for relevant. If you used a word like 'Relevant', change the 1 below to 'Relevant')
         df['is_relevant'] = classifier.predict(X_daily)
-        
-        # Keep only the good articles
         df_filtered = df[df['is_relevant'] == 1].copy()
         print(f"🗑️ Filtered out {len(df) - len(df_filtered)} junk articles. {len(df_filtered)} passed the Bouncer.")
     else:
         df_filtered = df.copy()
 
-    # === STAGE 2: THE EXPERT ===
     print("Scoring sentiment with FinBERT...")
     sentiments = []
     scores = []
     
     for headline in df_filtered["headline"]:
         try:
-            # FinBERT reads the context
             result = sentiment_pipeline(str(headline))[0]
-            label = result['label'] # 'positive', 'negative', or 'neutral'
-            score = result['score'] # Confidence score
+            label = result['label'] 
+            score = result['score'] 
             
             sentiments.append(label)
             
-            # Convert to a -1.0 to 1.0 scale for your dashboard graphs
             if label == 'negative':
                 scores.append(-score)
             elif label == 'positive':
@@ -194,29 +195,22 @@ def analyze_sentiment(df):
     df_filtered['sentiment_label'] = sentiments
     df_filtered['compound'] = scores
     
-    # Drop the temporary 'is_relevant' column to keep the CSV clean
     if 'is_relevant' in df_filtered.columns:
         df_filtered = df_filtered.drop(columns=['is_relevant'])
         
     return df_filtered
 
-
 def cleanup_old_news(days_to_keep=30):
-    """Deletes news CSV files older than X days."""
     print(f"🧹 Janitor: Checking for news files older than {days_to_keep} days...")
     cutoff_date = datetime.now() - timedelta(days=days_to_keep)
-    
-    # Find all the news CSV files in the folder
     news_files = glob.glob("data/raw_news/news_*.csv")
     
     for file_path in news_files:
         try:
-            # Extract the date from the filename (e.g., news_20260222.csv -> 20260222)
             filename = os.path.basename(file_path)
             date_str = filename.split('_')[1].split('.')[0]
             file_date = datetime.strptime(date_str, "%Y%m%d")
             
-            # If the file's date is older than the cutoff, delete it
             if file_date < cutoff_date:
                 os.remove(file_path)
                 print(f"🗑️ Deleted old file: {filename}")
@@ -227,36 +221,24 @@ def cleanup_old_news(days_to_keep=30):
 if __name__ == "__main__":
     print(f"Starting scraping at {datetime.now()}")
     
-    # 1. Fetch current hour's articles
     new_df = fetch_articles()
     
     if not new_df.empty:
-        # 2. Analyze sentiment of the new articles
         analyzed_df = analyze_sentiment(new_df)
-        
-        # 3. Setup the ONE file for today
         today_str = TODAY.strftime("%Y%m%d")
         os.makedirs("data/raw_news", exist_ok=True)
         output_path = f"data/raw_news/news_{today_str}.csv"
         
-        # 4. THE MAGIC: Append and Deduplicate
         if os.path.exists(output_path):
-            # Read what we already scraped today
             existing_df = pd.read_csv(output_path)
-            # Combine old and new
             final_df = pd.concat([existing_df, analyzed_df], ignore_index=True)
-            # Drop duplicates based on headline (so we never score the same news twice)
             final_df = final_df.drop_duplicates(subset=["headline", "ticker"], keep="first")
         else:
-            # If it's the first run of the day (midnight), just use the new data
             final_df = analyzed_df.drop_duplicates(subset=["headline", "ticker"])
             
-        # Save it back to today's master file
         final_df.to_csv(output_path, index=False)
         print(f"Saved {len(final_df)} unique articles to {output_path}")
-        
     else:
         print("No new articles found this hour.")
     
-    # Janitorial cleanup of old news files
     cleanup_old_news(days_to_keep=30)
