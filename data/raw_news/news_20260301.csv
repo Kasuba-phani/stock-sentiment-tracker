@@ -45,3 +45,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-01 13:58:42,"U.S. Stock Market prediction: S&P 500, Nasdaq, Dow Jones to crash on Monday? Nvidia stocks, AI worries, US - The Economic Times",NVDA,Google RSS,neutral,0.0
 2026-03-01 15:01:37,"‘Holding Steady,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
 2026-03-01 13:58:42,"U.S. Stock Market prediction: S&P 500, Nasdaq, Dow Jones to crash on Monday? Nvidia stocks, AI worries, US-Iran war likely driving factors - The Economic Times",NVDA,Google RSS,neutral,0.0
+2026-03-01 15:47:00,2 Top Artificial Intelligence Stocks to Buy in March - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-03-01 16:07:40,2 Top Artificial Intelligence Stocks to Buy in March - The Globe and Mail,GOOGL,Google RSS,neutral,0.0
+2026-03-01 16:07:00,2 Top Artificial Intelligence Stocks to Buy in March,GOOGL,Yahoo RSS,neutral,0.0
+2026-03-01 16:00:17,"""A stark contrast"": Wall Street weighs winners and losers amid AI-driven tech sell-off",GOOGL,Yahoo RSS,negative,-0.7766554951667786
+2026-03-01 16:00:17,"""A stark contrast"": Wall Street weighs winners and losers amid AI-driven tech sell-off",AMZN,Yahoo RSS,negative,-0.7766554951667786
+2026-03-01 16:00:17,"""A stark contrast"": Wall Street weighs winners and losers amid AI-driven tech sell-off",MSFT,Yahoo RSS,negative,-0.7766554951667786
+2026-03-01 16:07:00,2 Top Artificial Intelligence Stocks to Buy in March,NVDA,Yahoo RSS,neutral,0.0
+2026-03-01 16:00:17,"""A stark contrast"": Wall Street weighs winners and losers amid AI-driven tech sell-off",NVDA,Yahoo RSS,negative,-0.7766554951667786
+2026-03-01 16:00:17,"""A stark contrast"": Wall Street weighs winners and losers amid AI-driven tech sell-off",META,Yahoo RSS,negative,-0.7766554951667786
