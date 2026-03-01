@@ -125,6 +125,20 @@ def load_news_data():
         df_news['date_only'] = df_news['datetime'].dt.date
     return df_news
 
+# --- UPDATED: Bulletproof Fundamentals Loader ---
+@st.cache_data(ttl=3600)
+def load_fundamentals():
+    if os.path.exists("data/stock_data_summary.csv"):
+        try:
+            df = pd.read_csv("data/stock_data_summary.csv")
+            df['date'] = pd.to_datetime(df['date'], errors='coerce')
+            df = df.dropna(subset=['date'])
+            df = df.sort_values('date') 
+            df = df.drop_duplicates(subset=['ticker'], keep='last')
+            return df
+        except: return pd.DataFrame()
+    return pd.DataFrame()
+
 @st.cache_data(ttl=3600)
 def get_historical_prices(ticker, days=30):
     if ticker == "All Market": return pd.DataFrame()
@@ -133,16 +147,6 @@ def get_historical_prices(ticker, days=30):
         hist['date_only'] = hist['Date'].dt.date
         return hist[['date_only', 'Close']]
     except: return pd.DataFrame()
-
-@st.cache_data(ttl=3600)
-def load_fundamentals():
-    if os.path.exists("data/stock_data_summary.csv"):
-        try:
-            df = pd.read_csv("data/stock_data_summary.csv")
-            df['date'] = pd.to_datetime(df['date'])
-            return df.sort_values('date') 
-        except: return pd.DataFrame()
-    return pd.DataFrame()
 
 df_news = load_news_data()
 df_fundamentals = load_fundamentals()
@@ -170,7 +174,6 @@ else:
 st.sidebar.divider()
 
 if selected_ticker == "All Market":
-    # ADDED THE (Live) TAG HERE
     st.sidebar.markdown('<p style="font-size:1.1rem; font-weight:600; color:var(--text-color);">Market Pulse <span style="font-size:0.75rem; color:gray; font-weight:400; margin-left: 5px;">(Live)</span></p>', unsafe_allow_html=True)
     for t in available_tickers[:5]:
         try:
@@ -180,7 +183,6 @@ if selected_ticker == "All Market":
 else:
     logo_url = LOGO_MAP.get(selected_ticker, "")
     
-    # EXTRACT FUNDAMENTALS DATE FOR THE SIDEBAR
     funds_date_str = ""
     if not df_fundamentals.empty and selected_ticker in df_fundamentals['ticker'].values:
         asset_funds = df_fundamentals[df_fundamentals['ticker'] == selected_ticker].iloc[-1]
@@ -236,11 +238,17 @@ col1, col2, col3, col4 = st.columns(4)
 with col1: st.markdown(create_kpi_card("Total Intel", f"{len(filtered_news):,}", "", "", "#4A90E2", f"(Up to {latest_date_str})"), unsafe_allow_html=True)
 with col2: st.markdown(create_kpi_card("Avg Sentiment", f"{avg_compound:.3f}", sent_text, sent_type, "#4A90E2", "(30-Day Avg)"), unsafe_allow_html=True)
 with col3: st.markdown(create_kpi_card("Bullish Signals", f"{pos_articles:,}", "", "", "#4A90E2", f"(Up to {latest_date_str})"), unsafe_allow_html=True)
+
+# --- UPDATED: Live Price Fetcher with historical fallback ---
 with col4:
     if not df_prices.empty and selected_ticker != "All Market":
-        latest_price = df_prices.iloc[-1]['Close']
-        latest_price_date = df_prices.iloc[-1]['date_only'].strftime('%b %d')
-        st.markdown(create_kpi_card("Latest Close", f"${latest_price:.2f}", "", "", "#4A90E2", f"(On {latest_price_date})"), unsafe_allow_html=True)
+        try:
+            live_price = yf.Ticker(selected_ticker).fast_info.last_price
+            st.markdown(create_kpi_card("Live Price", f"${live_price:.2f}", "Active", "bull", "#00ff9d", "(Real-Time)"), unsafe_allow_html=True)
+        except:
+            latest_price = df_prices.iloc[-1]['Close']
+            latest_price_date = df_prices.iloc[-1]['date_only'].strftime('%b %d')
+            st.markdown(create_kpi_card("Latest Close", f"${latest_price:.2f}", "", "", "#4A90E2", f"(On {latest_price_date})"), unsafe_allow_html=True)
     else:
         st.markdown(create_kpi_card("Bearish Signals", f"{neg_articles:,}", "", "", "#4A90E2", f"(Up to {latest_date_str})"), unsafe_allow_html=True)
 
