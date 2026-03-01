@@ -124,6 +124,10 @@ def load_news_data():
         df_news['datetime'] = pd.to_datetime(df_news['date'], errors='coerce')
         df_news['display_date'] = df_news['datetime'].dt.strftime('%m-%d %H:%M')
         df_news['date_only'] = df_news['datetime'].dt.date
+        # ADD THESE TWO LINES RIGHT BEFORE 'return df_news'
+    st.write("📈 DEBUG - TOTAL ROWS LOADED:", len(df_news))
+    st.write("⏰ DEBUG - MAX DATE IN PANDAS:", df_news['datetime'].max())
+    
     return df_news
 
 @st.cache_data(ttl=3600)
