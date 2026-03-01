@@ -31,4 +31,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-25 10:29:18,"Meta stock on the verge of a brutal bear cycle, warns expert - Finbold",META,Google RSS,negative,-0.9076526165008544
 2026-02-27 01:03:00,"WBD-Paramount Reactions: Wall Street Analysts Split, Activist Investor Celebrates & Netflix Stock Rises - Deadline",NFLX,Google RSS,negative,-0.8513922691345215
 2026-02-27 01:08:22,"Wall Street posts worst month since March amid geopolitics, trade, and AI fears - Investing.com",NFLX,Google RSS,negative,-0.9264202117919922
-2026-02-26 21:08:20,The worst day for Nvidia's stock since last spring drags Wall Street lower - The Albertan,NVDA,Google RSS,negative,-0.9645203351974487
+2026-02-26 21:08:20,The worst day for Nvidia's stock since last spring drags Wall Street lower - The Albertan,NVDA,Google RSS,negative,-0.9645203351974488
+2026-02-26 10:14:08,The worst day for Nvidia’s stock since last spring drags Wall Street lower - AccessWDUN,NVDA,Google RSS,negative,-0.9628587365150452
+2026-02-25 02:41:00,"Meta stock on the verge of a brutal bear cycle, warns expert",META,Bing RSS,negative,-0.925889790058136
