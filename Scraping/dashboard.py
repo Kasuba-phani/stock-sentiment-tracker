@@ -189,7 +189,6 @@ else:
             <p style="font-size:1.1rem; font-weight:600; color:var(--text-color); margin:0;">{TICKER_MAP.get(selected_ticker, selected_ticker)} Profile {context_span}</p>
         </div>
     """, unsafe_allow_html=True)
-    
     if not df_fundamentals.empty and selected_ticker in df_fundamentals['ticker'].values:
         st.sidebar.markdown(f"""
         <div style="background-color: var(--secondary-background-color); padding: 15px; border-radius: 8px; border: 1px solid rgba(128, 128, 128, 0.2);">
