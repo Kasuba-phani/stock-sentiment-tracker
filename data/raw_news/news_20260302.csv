@@ -69,7 +69,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-02 07:39:01,BYD’s February sales fall by most since pandemic,TSLA,Yahoo RSS,negative,-0.9737133979797364
 2026-03-02 13:09:00,AES to Be Taken Private in $33 Billion Deal. Why the Stock Is Falling Sharply.,META,Yahoo RSS,negative,-0.9569947123527528
 2026-03-02 12:53:36,"QXO, Apple, Exxon Mobil And A Financial Stock: CNBC's 'Final Trades' - Benzinga",AAPL,Google RSS,neutral,0.0
-2026-03-02 14:23:18,"Amazon's (AMZN.US) aggressive AI spending plan backfires, causing a 12% plunge in February—the worst monthly performance since late 2022. - 富途牛牛",AMZN,Google RSS,negative,-0.9719730019569397
-2026-03-02 15:00:00,"Tesla regains some market shares around Europe in February, in sign of stabilising sales By Reuters - Investing.com",TSLA,Google RSS,positive,0.9375506639480591
+2026-03-02 14:23:18,"Amazon's (AMZN.US) aggressive AI spending plan backfires, causing a 12% plunge in February—the worst monthly performance since late 2022. - 富途牛牛",AMZN,Google RSS,negative,-0.9719730019569396
+2026-03-02 15:00:00,"Tesla regains some market shares around Europe in February, in sign of stabilising sales By Reuters - Investing.com",TSLA,Google RSS,positive,0.9375506639480592
 2026-03-02 15:18:53,Tesla stock slides as oil spikes and Europe sales data lands; Cybertruck pricing in focus - TechStock²,TSLA,Google RSS,negative,-0.8385640978813171
-2026-03-02 14:53:13,Tesla stock drops 1.64% as technicals signal persistent selling and weak momentum - Traders Union,TSLA,Google RSS,negative,-0.9720741510391235
+2026-03-02 14:53:13,Tesla stock drops 1.64% as technicals signal persistent selling and weak momentum - Traders Union,TSLA,Google RSS,negative,-0.9720741510391236
+2026-03-02 12:02:00,Bank of America stock price slides premarket as oil jumps; BAC traders brace for jobs report - TechStock²,AAPL,Google RSS,negative,-0.7760626077651978
+2026-03-02 16:00:02,Jefferies forecasts 31% fall in 2026 global smartphone shipments,AAPL,Yahoo RSS,negative,-0.9740654826164246
+2026-03-02 11:31:19,Alphabet stock slides 2% in premarket as Google investors brace for oil spike and jobs-report week - TechStock²,GOOGL,Google RSS,negative,-0.9177528619766235
+2026-03-02 16:15:05,Meta's reported AI chip pullback seen bolstering Nvidia and AMD while dimming custom silicon push,GOOGL,Yahoo RSS,positive,0.67469322681427
+2026-03-02 16:10:03,"Aggressive AI spending plan backfires on stock price, Amazon plunges 12% in February, marking the worst monthly performance since late 2022. - 富途牛牛",AMZN,Google RSS,negative,-0.9681326746940613
+2026-03-02 16:15:05,Meta's reported AI chip pullback seen bolstering Nvidia and AMD while dimming custom silicon push,NVDA,Yahoo RSS,positive,0.67469322681427
+2026-03-02 16:07:00,Goldman Sachs resets Nvidia stock forecast after earnings,NVDA,Yahoo RSS,neutral,0.0
+2026-03-02 16:06:09,"BYD stock jumps on 'disruptive tech'  teaser, despite 41% sales tumble",TSLA,Yahoo RSS,negative,-0.8912885189056396
+2026-03-02 16:15:05,Meta's reported AI chip pullback seen bolstering Nvidia and AMD while dimming custom silicon push,META,Yahoo RSS,positive,0.67469322681427
+2026-03-02 12:06:36,"Netflix stock price slips before the bell as JPMorgan upgrades NFLX, risk-off mood bites - TechStock²",NFLX,Google RSS,negative,-0.6917920112609863
