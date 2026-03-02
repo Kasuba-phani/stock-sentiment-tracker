@@ -190,6 +190,7 @@ else:
         </div>
     """, unsafe_allow_html=True)
     if not df_fundamentals.empty and selected_ticker in df_fundamentals['ticker'].values:
+        asset_funds = df_fundamentals[df_fundamentals['ticker'] == selected_ticker].iloc[-1]
         st.sidebar.markdown(f"""
         <div style="background-color: var(--secondary-background-color); padding: 15px; border-radius: 8px; border: 1px solid rgba(128, 128, 128, 0.2);">
             <p style="margin: 0px 0px 5px 0px; color: gray; font-size: 0.85rem;">Market Cap</p>
