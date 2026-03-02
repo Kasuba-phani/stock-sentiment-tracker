@@ -10,7 +10,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-26 09:27:48,Amazon stock: AI spending sparks investor caution - Latest news from Azerbaijan,AMZN,Google RSS,neutral,0.0
 2026-03-01 16:00:17,"""A stark contrast"": Wall Street weighs winners and losers amid AI-driven tech sell-off",AMZN,Yahoo RSS,negative,-0.7766554951667786
 2026-03-01 15:01:37,"‘Holding Steady,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
-2026-02-27 16:31:59,Microsoft Stock 2026 Forecast: MSFT Has a $600 Billion Backlog as Demand for Microsoft Cloud Surges - TipRanks,MSFT,Google RSS,negative,-0.9312224388122559
+2026-02-27 16:31:59,Microsoft Stock 2026 Forecast: MSFT Has a $600 Billion Backlog as Demand for Microsoft Cloud Surges - TipRanks,MSFT,Google RSS,negative,-0.931222438812256
 2026-02-25 01:07:00,Goldman Sachs resets Microsoft stock forecast - thestreet.com,MSFT,Google RSS,neutral,0.0
 2026-02-24 20:50:00,Microsoft’s stock selloff is approaching a critical crossroads not seen in over 10 years - MarketWatch,MSFT,Google RSS,neutral,0.0
 2026-03-01 12:58:46,"TFB Advisors LLC Sells 6,864 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
@@ -25,10 +25,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-26 15:36:00,Why Nvidia’s stock is falling despite a historic earnings beat - MarketWatch,NVDA,Google RSS,negative,-0.8932204842567444
 2026-02-26 18:43:46,Goldman Sachs explains Nvidia stock decline despite strong results - Investing.com,NVDA,Google RSS,negative,-0.9399570226669312
 2026-02-26 22:14:00,Nvidia stock falls despite strong earnings - Semafor,NVDA,Google RSS,negative,-0.9585533142089844
-2026-02-26 21:34:40,Worst day for Nvidia's stock since last spring drags Wall Street lower - Toledo Blade,NVDA,Google RSS,negative,-0.9663746953010559
+2026-02-26 21:34:40,Worst day for Nvidia's stock since last spring drags Wall Street lower - Toledo Blade,NVDA,Google RSS,negative,-0.966374695301056
 2026-02-26 14:35:45,‘Getting Serious’: Top Investor Eyes a Potential Catalyst For Tesla Stock - TipRanks,TSLA,Google RSS,neutral,0.0
 2026-03-01 23:01:01,"Tesla Seeing Strong Demand For Cheaper Cybertruck, But Musk's 10-Day Deadline Remains In Place",TSLA,Yahoo RSS,neutral,0.0
-2026-02-25 10:29:18,"Meta stock on the verge of a brutal bear cycle, warns expert - Finbold",META,Google RSS,negative,-0.9076526165008545
+2026-02-25 10:29:18,"Meta stock on the verge of a brutal bear cycle, warns expert - Finbold",META,Google RSS,negative,-0.9076526165008544
 2026-02-24 08:22:00,"Billionaire Investor Stanley Druckenmiller Eliminated His Fund's Position in Meta Platforms and Piled into Another ""Magnificent Seven"" Stock That's Been Getting Crushed by the ...",META,Bing RSS,negative,-0.8353108763694763
 2026-03-01 16:00:17,"""A stark contrast"": Wall Street weighs winners and losers amid AI-driven tech sell-off",META,Yahoo RSS,negative,-0.7766554951667786
 2026-02-27 01:03:00,"WBD-Paramount Reactions: Wall Street Analysts Split, Activist Investor Celebrates & Netflix Stock Rises - Deadline",NFLX,Google RSS,negative,-0.8513918519020081
+2026-02-26 22:05:55,The worst day for Nvidia’s stock since last spring drags Wall Street lower - Los Angeles Times,NVDA,Google RSS,negative,-0.9568790197372437
+2026-03-02 01:07:30,"Tesla Seeing Strong Demand For Cheaper Cybertruck, But Musk's 10-Day Deadline Remains In Place - AOL.com",TSLA,Google RSS,neutral,0.0
+2026-02-26 16:03:00,"WBD-Paramount Reactions: Wall Street Analysts Split, Activist Investor Celebrates & Netflix Stock Rises",NFLX,Bing RSS,negative,-0.8808598518371582
