@@ -92,3 +92,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-02 14:18:52,AI hardware shift and technical weakness — Meta stock drops 1.33% - Traders Union,META,Google RSS,negative,-0.9634638428688048
 2026-03-02 21:36:14,Alphabet stock price steadies near $307 as risk sentiment stays cautious - Traders Union,GOOGL,Google RSS,negative,-0.8495703935623169
 2026-03-02 21:15:00,Tesla stock ends little changed as February Europe sales data hint at stabilising demand - TechStock²,TSLA,Google RSS,positive,0.5555059909820557
+2026-03-02 22:04:00,"Dow Jones Futures: U.S.-Iran Conflict Sparks Market Upheaval As Nvidia Rallies; Credo, MongoDB Plunge Late - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-03-02 22:00:42,"Morgan Stanley Calls Nvidia Stock (NVDA) a Top Pick, UBS Sees Strong Upside Potential - TipRanks",NVDA,Google RSS,positive,0.7989673018455505
+2026-03-02 22:08:00,Tesla Stock Eked Out Small Gain. Why It No Longer Gets a Boost From Higher Oil Prices.,TSLA,Yahoo RSS,positive,0.633887529373169
