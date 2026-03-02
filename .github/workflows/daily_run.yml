@@ -33,4 +33,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-update data: ${{ github.event.repository.updated_at }}"
-          file_pattern: 'data/**/*.csv'  # Only push the CSV files to be safe
+        
