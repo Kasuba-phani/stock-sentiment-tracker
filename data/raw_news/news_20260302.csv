@@ -75,11 +75,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-02 14:53:13,Tesla stock drops 1.64% as technicals signal persistent selling and weak momentum - Traders Union,TSLA,Google RSS,negative,-0.9720741510391236
 2026-03-02 12:02:00,Bank of America stock price slides premarket as oil jumps; BAC traders brace for jobs report - TechStock²,AAPL,Google RSS,negative,-0.7760626077651978
 2026-03-02 16:00:02,Jefferies forecasts 31% fall in 2026 global smartphone shipments,AAPL,Yahoo RSS,negative,-0.9740654826164246
-2026-03-02 11:31:19,Alphabet stock slides 2% in premarket as Google investors brace for oil spike and jobs-report week - TechStock²,GOOGL,Google RSS,negative,-0.9177528619766235
+2026-03-02 11:31:19,Alphabet stock slides 2% in premarket as Google investors brace for oil spike and jobs-report week - TechStock²,GOOGL,Google RSS,negative,-0.9177528619766236
 2026-03-02 16:15:05,Meta's reported AI chip pullback seen bolstering Nvidia and AMD while dimming custom silicon push,GOOGL,Yahoo RSS,positive,0.67469322681427
-2026-03-02 16:10:03,"Aggressive AI spending plan backfires on stock price, Amazon plunges 12% in February, marking the worst monthly performance since late 2022. - 富途牛牛",AMZN,Google RSS,negative,-0.9681326746940613
+2026-03-02 16:10:03,"Aggressive AI spending plan backfires on stock price, Amazon plunges 12% in February, marking the worst monthly performance since late 2022. - 富途牛牛",AMZN,Google RSS,negative,-0.9681326746940612
 2026-03-02 16:15:05,Meta's reported AI chip pullback seen bolstering Nvidia and AMD while dimming custom silicon push,NVDA,Yahoo RSS,positive,0.67469322681427
 2026-03-02 16:07:00,Goldman Sachs resets Nvidia stock forecast after earnings,NVDA,Yahoo RSS,neutral,0.0
 2026-03-02 16:06:09,"BYD stock jumps on 'disruptive tech'  teaser, despite 41% sales tumble",TSLA,Yahoo RSS,negative,-0.8912885189056396
 2026-03-02 16:15:05,Meta's reported AI chip pullback seen bolstering Nvidia and AMD while dimming custom silicon push,META,Yahoo RSS,positive,0.67469322681427
 2026-03-02 12:06:36,"Netflix stock price slips before the bell as JPMorgan upgrades NFLX, risk-off mood bites - TechStock²",NFLX,Google RSS,negative,-0.6917920112609863
+2026-03-02 17:31:15,Microsoft sees a jump — What is fueling the stock rise - Traders Union,MSFT,Google RSS,neutral,0.0
