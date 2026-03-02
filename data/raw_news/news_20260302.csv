@@ -41,3 +41,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-02 03:33:45,Amazon Shuts UAE Data Center After Strike Sparks Fire Amid Escalating US-Iran War: Retail Traders See ‘Nothing Good To Expect’ - Stocktwits,AMZN,Google RSS,negative,-0.9395169615745544
 2026-03-01 21:04:00,The worst day for Nvidia’s stock since last spring drags Wall Street lower,NVDA,Bing RSS,negative,-0.9559311866760254
 2026-03-02 06:08:40,Tesla registrations in Denmark fall 18% year-on-year in February By Reuters - Investing.com,TSLA,Google RSS,negative,-0.967560887336731
+2026-02-28 21:06:43,"Microsoft Q2 earnings beat, but stock plummets as investors fret on AI spend, cloud growth - AOL.com",MSFT,Google RSS,negative,-0.805260419845581
+2026-03-02 09:26:00,"Billionaire Dan Loeb of Third Point Is Piling Into Nvidia for a 4th Consecutive Quarter, but Dumped His Fund's Entire Stake in This ""Magnificent Seven"" Stock - Nasdaq",NVDA,Google RSS,neutral,0.0
+2026-02-25 15:35:00,Nvidia earnings recap: Stock rises after earnings blow past Wall Street estimates,NVDA,Bing RSS,positive,0.8701637387275696
