@@ -35,3 +35,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-26 22:05:55,The worst day for Nvidia’s stock since last spring drags Wall Street lower - Los Angeles Times,NVDA,Google RSS,negative,-0.9568790197372437
 2026-03-02 01:07:30,"Tesla Seeing Strong Demand For Cheaper Cybertruck, But Musk's 10-Day Deadline Remains In Place - AOL.com",TSLA,Google RSS,neutral,0.0
 2026-02-26 16:03:00,"WBD-Paramount Reactions: Wall Street Analysts Split, Activist Investor Celebrates & Netflix Stock Rises",NFLX,Bing RSS,negative,-0.8808598518371582
+2026-02-24 21:07:00,Goldman Sachs resets Microsoft stock forecast,MSFT,Bing RSS,negative,-0.7481476068496704
+2026-02-26 21:05:51,Nvidia stock: Wall Street analysts stay bullish as traders balk - qz.com,NVDA,Google RSS,negative,-0.85638028383255
