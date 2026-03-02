@@ -89,4 +89,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-02 14:13:26,Nvidia stock price forecast: Bearish setup favored as NVDA drops 4.17% below key averages - Traders Union,NVDA,Google RSS,negative,-0.9612582921981812
 2026-03-02 20:20:00,"Chipotle Isn't Looking to Compete With McDonald's on Price, and Why That Could Be a Costly Mistake",NVDA,Yahoo RSS,neutral,0.0
 2026-03-02 20:06:00,The Dow Jones Industrial Average Just Did Something That's Been Witnessed Only 6 Times in 130 Years -- and It's a Highly Bullish Indicator for Wall Street,NVDA,Yahoo RSS,neutral,0.0
-2026-03-02 14:18:52,AI hardware shift and technical weakness — Meta stock drops 1.33% - Traders Union,META,Google RSS,negative,-0.9634638428688049
+2026-03-02 14:18:52,AI hardware shift and technical weakness — Meta stock drops 1.33% - Traders Union,META,Google RSS,negative,-0.9634638428688048
+2026-03-02 21:36:14,Alphabet stock price steadies near $307 as risk sentiment stays cautious - Traders Union,GOOGL,Google RSS,negative,-0.8495703935623169
+2026-03-02 21:15:00,Tesla stock ends little changed as February Europe sales data hint at stabilising demand - TechStock²,TSLA,Google RSS,positive,0.5555059909820557
