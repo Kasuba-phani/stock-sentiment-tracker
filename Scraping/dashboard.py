@@ -186,7 +186,7 @@ else:
     st.sidebar.markdown(f"""
         <div style="display: flex; align-items: center; margin-bottom: 10px;">
             <img src="{logo_url}" width="32" style="border-radius: 4px; margin-right: 12px; background-color: white; padding: 2px;" onerror="this.style.display='none'">
-            <p style="font-size:1.1rem; font-weight:600; color:var(--text-color); margin:0;">{TICKER_MAP.get(selected_ticker, selected_ticker)} Profile {context_span}</p>
+            <p style="font-size:1.1rem; font-weight:600; color:var(--text-color); margin:0;">{TICKER_MAP.get(selected_ticker, selected_ticker)} Profile </p>
         </div>
     """, unsafe_allow_html=True)
     if not df_fundamentals.empty and selected_ticker in df_fundamentals['ticker'].values:
