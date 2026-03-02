@@ -183,13 +183,6 @@ if selected_ticker == "All Market":
 else:
     logo_url = LOGO_MAP.get(selected_ticker, "")
     
-    funds_date_str = ""
-    if not df_fundamentals.empty and selected_ticker in df_fundamentals['ticker'].values:
-        asset_funds = df_fundamentals[df_fundamentals['ticker'] == selected_ticker].iloc[-1]
-        funds_date_str = pd.to_datetime(asset_funds['date']).strftime('%b %d')
-        
-    context_span = f"<span style='font-size:0.75rem; color:gray; font-weight:400; margin-left: 6px;'>(As of {funds_date_str})</span>" if funds_date_str else ""
-
     st.sidebar.markdown(f"""
         <div style="display: flex; align-items: center; margin-bottom: 10px;">
             <img src="{logo_url}" width="32" style="border-radius: 4px; margin-right: 12px; background-color: white; padding: 2px;" onerror="this.style.display='none'">
