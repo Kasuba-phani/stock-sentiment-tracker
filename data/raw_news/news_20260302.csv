@@ -44,3 +44,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-02-28 21:06:43,"Microsoft Q2 earnings beat, but stock plummets as investors fret on AI spend, cloud growth - AOL.com",MSFT,Google RSS,negative,-0.805260419845581
 2026-03-02 09:26:00,"Billionaire Dan Loeb of Third Point Is Piling Into Nvidia for a 4th Consecutive Quarter, but Dumped His Fund's Entire Stake in This ""Magnificent Seven"" Stock - Nasdaq",NVDA,Google RSS,neutral,0.0
 2026-02-25 15:35:00,Nvidia earnings recap: Stock rises after earnings blow past Wall Street estimates,NVDA,Bing RSS,positive,0.8701637387275696
+2026-02-23 05:53:11,Apple’s stock recovery is no recovery at all,AAPL,Bing RSS,neutral,0.0
+2026-03-02 10:03:42,Jones Financial Companies Lllp Boosts Stock Position in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,positive,0.9266512989997864
+2026-02-25 21:01:00,Microsoft stock price rebounds as Japan raids Azure unit; MSFT investors eye Nvidia earnings - TechStock²,MSFT,Google RSS,negative,-0.9385531544685364
+2026-02-26 21:08:20,The worst day for Nvidia's stock since last spring drags Wall Street lower - The Albertan,NVDA,Google RSS,negative,-0.9645203351974487
+2026-02-26 07:04:00,US stock market today: Why Dow up while Nasdaq and S&P 500 fall — Is Nvidia stock crash signaling AI trade losing momentum?,NVDA,Bing RSS,negative,-0.9287301301956177
+2026-03-02 10:21:00,"Tesla stock price ahead of the bell: France and Norway data improve, Cybertruck price rises - TechStock²",TSLA,Google RSS,positive,0.5632393956184387
+2026-03-01 15:02:00,Tesla stock price in focus as Cybertruck price jumps again ahead of Monday trade - TechStock²,TSLA,Google RSS,neutral,0.0
+2026-03-02 10:23:46,"Tesla gains market in France, Norway in February By Reuters - Investing.com",TSLA,Google RSS,neutral,0.0
+2026-03-02 10:36:14,"Krane Funds Advisors LLC Acquires 2,978 Shares of Meta Platforms, Inc. $META - MarketBeat",META,Google RSS,neutral,0.0
