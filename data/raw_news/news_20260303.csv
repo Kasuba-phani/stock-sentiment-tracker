@@ -65,7 +65,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-03 15:04:48,Why Shares of Altria Group Stock Were Rising in February,NVDA,Yahoo RSS,positive,0.9388830065727234
 2026-03-03 15:33:00,Dow and Nasdaq plunge 2% as Amazon data centres hit in Iran war,TSLA,Yahoo RSS,negative,-0.950461745262146
 2026-03-03 16:20:57,Alphabet stock price today: GOOG slips as oil shock and rate jitters hit big tech - TechStock²,GOOGL,Google RSS,negative,-0.9631540179252625
-2026-03-03 17:29:00,"Amazon's OpenAI tie-up ‘positive proof’ for AI growth, Goldman says",AMZN,Yahoo RSS,positive,0.9295676350593567
+2026-03-03 17:29:00,"Amazon's OpenAI tie-up ‘positive proof’ for AI growth, Goldman says",AMZN,Yahoo RSS,positive,0.9295676350593568
 2026-03-03 17:04:00,Dow and Nasdaq slide as Amazon data centres hit in Iran war,AMZN,Yahoo RSS,negative,-0.9491999745368958
 2026-02-26 18:43:46,Goldman Sachs explains Nvidia stock decline despite strong results - Investing.com,NVDA,Google RSS,negative,-0.9399569034576416
-2026-03-03 17:14:16,Tesla stock slides 3.07% as rising oil prices and transport costs weigh on margins - Traders Union,TSLA,Google RSS,negative,-0.9671744704246521
+2026-03-03 17:14:16,Tesla stock slides 3.07% as rising oil prices and transport costs weigh on margins - Traders Union,TSLA,Google RSS,negative,-0.967174470424652
+2026-03-03 17:20:00,Target Projects a Return to Sales Growth Ahead of Investor Day. What It Means for the Stock.,AMZN,Yahoo RSS,neutral,0.0
+2026-03-03 18:11:16,"MSFT stock price today: Microsoft shares rise, investors watch AI execution - onmsft.com",MSFT,Google RSS,positive,0.5155226588249207
+2026-03-03 18:07:00,Billionaire Investor David Tepper Eliminated Nearly All of Appaloosa Management's Bank Stocks and Increased its Position in One of the World's Largest AI Memory Companies by 200%,NVDA,Yahoo RSS,positive,0.9419574737548828
