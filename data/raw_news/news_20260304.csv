@@ -46,3 +46,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-04 17:35:18,"Amazon shares extend gains for second straight session, jump 4.2% to one-month high - Mint",AMZN,Google RSS,positive,0.908710777759552
 2026-03-04 17:20:00,"After Soaring Nearly 1,300% in 5 Years, Can Nvidia's Stock Still Rise Higher? - Nasdaq",NVDA,Google RSS,positive,0.7591384053230286
 2026-03-04 17:35:31,Why BigBear.ai Stock Plummeted 21.4% Last Month and Is Falling in March,NVDA,Yahoo RSS,negative,-0.9720754623413086
+2026-03-04 18:48:45,Stock Market Today: Nasdaq Leads Dow Higher As Trump Nominates Fed Chair; Nvidia Rival Rises (Live Coverage),NVDA,Yahoo RSS,positive,0.5730299949645996
+2026-03-04 11:51:36,Tesla gains after BofA jumps back in with a bull rating (TSLA:NASDAQ) - Seeking Alpha,TSLA,Google RSS,positive,0.922035813331604
+2026-03-04 18:48:45,Stock Market Today: Nasdaq Leads Dow Higher As Trump Nominates Fed Chair; Nvidia Rival Rises (Live Coverage),TSLA,Yahoo RSS,positive,0.5730299949645996
