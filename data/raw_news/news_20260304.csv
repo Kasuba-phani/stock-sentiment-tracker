@@ -29,3 +29,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-03 15:21:23,Alphabet stock: Oversold signals and volatility drive 2.59% drop despite strong earnings - Traders Union,GOOGL,Google RSS,negative,-0.9716652035713196
 2026-03-04 05:50:10,CLSA reiterates Nvidia stock rating on strong earnings upgrades - Investing.com,NVDA,Google RSS,neutral,0.0
 2026-03-03 17:14:16,Tesla stock slides 3.07% as rising oil prices and transport costs weigh on margins - Traders Union,TSLA,Google RSS,negative,-0.967174470424652
+2026-03-01 20:29:00,Amazon's cloud unit reports fire after objects hit UAE data center - Reuters,AMZN,Google RSS,negative,-0.6969337463378906
+2026-03-02 21:54:12,Microsoft stock price ends higher at $398 as dip-buyers return; MSFT investors eye March jobs report - Bez Kabli,MSFT,Google RSS,positive,0.5311013460159302
