@@ -43,3 +43,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-04 09:31:13,Elm Partners Management LLC Has $2.74 Million Position in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,neutral,0.0
 2026-03-04 15:31:05,BYD Sales Drop 36% In February: Elon Musk Says Running Below 50% Capacity Is 'Mega Pain',TSLA,Yahoo RSS,negative,-0.971794843673706
 2026-03-03 16:20:57,Alphabet stock price today: GOOG slips as oil shock and rate jitters hit big tech - TechStock²,GOOGL,Google RSS,negative,-0.9631540179252625
+2026-03-04 17:35:18,"Amazon shares extend gains for second straight session, jump 4.2% to one-month high - Mint",AMZN,Google RSS,positive,0.908710777759552
+2026-03-04 17:20:00,"After Soaring Nearly 1,300% in 5 Years, Can Nvidia's Stock Still Rise Higher? - Nasdaq",NVDA,Google RSS,positive,0.7591384053230286
+2026-03-04 17:35:31,Why BigBear.ai Stock Plummeted 21.4% Last Month and Is Falling in March,NVDA,Yahoo RSS,negative,-0.9720754623413086
