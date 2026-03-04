@@ -33,3 +33,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-02 21:54:12,Microsoft stock price ends higher at $398 as dip-buyers return; MSFT investors eye March jobs report - Bez Kabli,MSFT,Google RSS,positive,0.5311013460159302
 2026-03-04 08:55:00,"Home Depot vs. Lowe's: Both Retail Giants Are Tapping AI, but Which One Is Doing It Better?",NVDA,Yahoo RSS,neutral,0.0
 2026-03-04 01:48:00,Meta (META) Stock: CFO Unloads $36M in Shares Amid Strong Analyst Sentiment,META,Bing RSS,positive,0.8377367258071899
+2026-03-04 10:15:54,Lebenthal Global Advisors LLC Has $12.46 Million Stock Position in Apple Inc. $AAPL - MarketBeat,AAPL,Google RSS,neutral,0.0
+2026-03-04 10:05:07,"Apple stock flashes ‘worst bearish cross’, expert warns crash to $200 imminent - Finbold",AAPL,Google RSS,negative,-0.7209958434104919
+2026-03-04 10:26:00,3 Historically Cheap Ultra-High-Yield Dividend Stocks -- Sporting an Average Yield of 5.68% -- Ripe for the Picking by Opportunistic Income Seekers,NVDA,Yahoo RSS,neutral,0.0
