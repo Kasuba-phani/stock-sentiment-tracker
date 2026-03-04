@@ -49,3 +49,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-04 18:48:45,Stock Market Today: Nasdaq Leads Dow Higher As Trump Nominates Fed Chair; Nvidia Rival Rises (Live Coverage),NVDA,Yahoo RSS,positive,0.5730299949645996
 2026-03-04 11:51:36,Tesla gains after BofA jumps back in with a bull rating (TSLA:NASDAQ) - Seeking Alpha,TSLA,Google RSS,positive,0.922035813331604
 2026-03-04 18:48:45,Stock Market Today: Nasdaq Leads Dow Higher As Trump Nominates Fed Chair; Nvidia Rival Rises (Live Coverage),TSLA,Yahoo RSS,positive,0.5730299949645996
+2026-03-04 21:27:32,BofA reiterates Buy on Amazon stock on Anthropic growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
