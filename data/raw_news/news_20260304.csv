@@ -50,7 +50,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-04 11:51:36,Tesla gains after BofA jumps back in with a bull rating (TSLA:NASDAQ) - Seeking Alpha,TSLA,Google RSS,positive,0.922035813331604
 2026-03-04 18:48:45,Stock Market Today: Nasdaq Leads Dow Higher As Trump Nominates Fed Chair; Nvidia Rival Rises (Live Coverage),TSLA,Yahoo RSS,positive,0.5730299949645996
 2026-03-04 21:27:32,BofA reiterates Buy on Amazon stock on Anthropic growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
-2026-03-04 21:52:00,Broadcom Earnings Beat Estimates as AI Demand Remains Strong,GOOGL,Yahoo RSS,positive,0.9425771832466125
-2026-03-04 21:52:00,Broadcom Earnings Beat Estimates as AI Demand Remains Strong,NVDA,Yahoo RSS,positive,0.9425771832466125
+2026-03-04 21:52:00,Broadcom Earnings Beat Estimates as AI Demand Remains Strong,GOOGL,Yahoo RSS,positive,0.9425771832466124
+2026-03-04 21:52:00,Broadcom Earnings Beat Estimates as AI Demand Remains Strong,NVDA,Yahoo RSS,positive,0.9425771832466124
 2026-03-04 09:56:00,"‘Magnificent Seven’ stocks mostly climb, with big gains for Amazon and Tesla - MarketWatch",TSLA,Google RSS,positive,0.8498031497001648
-2026-03-04 21:52:00,Broadcom Earnings Beat Estimates as AI Demand Remains Strong,META,Yahoo RSS,positive,0.9425771832466125
+2026-03-04 21:52:00,Broadcom Earnings Beat Estimates as AI Demand Remains Strong,META,Yahoo RSS,positive,0.9425771832466124
+2026-03-04 13:38:00,"Stock Market Today: Major Indexes Close Higher After Sell-Off; Bitcoin, Crypto-Tied Stocks Soar",TSLA,Bing RSS,positive,0.8840436339378357
+2026-03-04 22:43:05,How Investors Are Reacting To Meta Platforms (META) Expanding Its AI Supply Chain With AMD Partnership - simplywall.st,META,Google RSS,neutral,0.0
