@@ -3,10 +3,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-01 15:47:00,2 Top Artificial Intelligence Stocks to Buy in March - The Motley Fool,GOOGL,Google RSS,neutral,0.0
 2026-03-03 18:54:03,Cursor Topped $2 Billion Revenue Run Rate in February,GOOGL,Yahoo RSS,positive,0.7866479754447937
 2026-03-02 03:33:43,Amazon Shuts UAE Data Center After Strike Sparks Fire Amid Escalating US-Iran War: Retail Traders See ‘Nothing Good To Expect’ - Stocktwits,AMZN,Google RSS,negative,-0.9395169615745544
-2026-03-03 17:29:00,"Amazon's OpenAI tie-up ‘positive proof’ for AI growth, Goldman says",AMZN,Yahoo RSS,positive,0.9295676350593567
+2026-03-03 17:29:00,"Amazon's OpenAI tie-up ‘positive proof’ for AI growth, Goldman says",AMZN,Yahoo RSS,positive,0.9295676350593568
 2026-03-01 15:01:37,"‘Holding Steady,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
 2026-03-03 18:11:16,"MSFT stock price today: Microsoft shares rise, investors watch AI execution - onmsft.com",MSFT,Google RSS,positive,0.5155226588249207
-2026-03-03 14:31:45,"‘It’s Performing Worse,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,negative,-0.9602940082550049
+2026-03-03 14:31:45,"‘It’s Performing Worse,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,negative,-0.9602940082550048
 2026-03-02 14:32:51,‘A No Brainer’: Top Investor Bullish on Microsoft Stock - TipRanks,MSFT,Google RSS,neutral,0.0
 2026-02-27 16:31:59,Microsoft Stock 2026 Forecast: MSFT Has a $600 Billion Backlog as Demand for Microsoft Cloud Surges - TipRanks,MSFT,Google RSS,negative,-0.9312226176261902
 2026-03-03 19:36:40,Assessing Microsoft (MSFT) Valuation After Strong Q2 AI And Cloud Momentum - simplywall.st,MSFT,Google RSS,neutral,0.0
@@ -15,14 +15,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-01 12:58:46,"TFB Advisors LLC Sells 6,864 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
 2026-03-03 01:49:00,"Dow Jones Futures Fall: U.S.-Iran Conflict Sparks Market Upheaval As Nvidia Rallies; Credo, MongoDB Plunge Late - Investor's Business Daily",NVDA,Google RSS,negative,-0.8487592935562134
 2026-03-02 13:07:00,Goldman Sachs resets Nvidia stock forecast after earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
-2026-02-26 22:29:00,Nvidia Stock Drops Despite Bullish Q4 Report. AI Angst Blamed. - Investor's Business Daily,NVDA,Google RSS,negative,-0.9363390207290649
+2026-02-26 22:29:00,Nvidia Stock Drops Despite Bullish Q4 Report. AI Angst Blamed. - Investor's Business Daily,NVDA,Google RSS,negative,-0.9363390207290648
 2026-02-26 15:36:00,Why Nvidia’s stock is falling despite a historic earnings beat - MarketWatch,NVDA,Google RSS,negative,-0.8932204246520996
-2026-02-26 08:10:32,The worst day for Nvidia's stock since last spring drags Wall Street lower - KSAT,NVDA,Google RSS,negative,-0.9684464931488037
+2026-02-26 08:10:32,The worst day for Nvidia's stock since last spring drags Wall Street lower - KSAT,NVDA,Google RSS,negative,-0.9684464931488036
 2026-02-25 15:35:00,Nvidia earnings recap: Stock rises after earnings blow past Wall Street estimates,NVDA,Bing RSS,positive,0.8701637387275696
 2026-03-04 00:35:00,2 Top Growth Stocks to Buy in the First Half of 2026,NVDA,Yahoo RSS,neutral,0.0
 2026-03-02 12:31:06,Tesla Stock Eked Out Small Gain. Why It No Longer Gets a Boost From Higher Oil Prices. - Barron's,TSLA,Google RSS,neutral,0.0
 2026-03-02 15:18:53,Tesla stock slides as oil spikes and Europe sales data lands; Cybertruck pricing in focus - TechStock²,TSLA,Google RSS,negative,-0.8385640978813171
-2026-03-02 14:53:13,Tesla stock drops 1.64% as technicals signal persistent selling and weak momentum - Traders Union,TSLA,Google RSS,negative,-0.9720741510391235
+2026-03-02 14:53:13,Tesla stock drops 1.64% as technicals signal persistent selling and weak momentum - Traders Union,TSLA,Google RSS,negative,-0.9720741510391236
 2026-03-02 10:21:00,"Tesla stock price ahead of the bell: France and Norway data improve, Cybertruck price rises - TechStock²",TSLA,Google RSS,positive,0.5632393956184387
-2026-03-02 14:18:52,AI hardware shift and technical weakness — Meta stock drops 1.33% - Traders Union,META,Google RSS,negative,-0.9634638428688049
+2026-03-02 14:18:52,AI hardware shift and technical weakness — Meta stock drops 1.33% - Traders Union,META,Google RSS,negative,-0.9634638428688048
 2026-02-27 01:03:00,"WBD-Paramount Reactions: Wall Street Analysts Split, Activist Investor Celebrates & Netflix Stock Rises - Deadline",NFLX,Google RSS,negative,-0.8513922691345215
+2026-03-03 15:21:23,Alphabet stock: Oversold signals and volatility drive 2.59% drop despite strong earnings - Traders Union,GOOGL,Google RSS,negative,-0.9716652035713196
