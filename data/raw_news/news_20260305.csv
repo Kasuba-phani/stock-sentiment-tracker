@@ -67,3 +67,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-05 21:58:14,"US Equity Indexes Decline Amid Surging Crude Oil, Treasury Yields",MSFT,Yahoo RSS,negative,-0.9567303657531738
 2026-03-05 22:01:00,"Dow Jones Futures: Stock Market Skids On Surging Oil Prices, Pare Losses As Broadcom, Nvidia Rise - Investor's Business Daily",NVDA,Google RSS,negative,-0.9487208724021912
 2026-03-05 21:43:32,"Dow Jones Futures: Stock Market Skids On Surging Oil Prices, Pare Losses As Broadcom, Nvidia Rise",NVDA,Yahoo RSS,negative,-0.9597457647323608
+2026-03-05 23:34:00,Dow Tumbles As Oil Soars; Nasdaq Cuts Losses - Investor's Business Daily,NVDA,Google RSS,negative,-0.5399996042251587
