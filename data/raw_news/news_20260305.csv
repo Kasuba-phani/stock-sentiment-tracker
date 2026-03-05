@@ -1,13 +1,13 @@
 date,headline,ticker,source,sentiment_label,compound
-2026-03-04 19:13:59,"Apple: March Releases, Including Brand-New MacBook Neo, Keep Pricing Low Despite Memory Inflation - Morningstar",AAPL,Google RSS,negative,-0.39149877429008484
+2026-03-04 19:13:59,"Apple: March Releases, Including Brand-New MacBook Neo, Keep Pricing Low Despite Memory Inflation - Morningstar",AAPL,Google RSS,negative,-0.3914987742900848
 2026-03-04 10:15:54,Lebenthal Global Advisors LLC Has $12.46 Million Stock Position in Apple Inc. $AAPL - MarketBeat,AAPL,Google RSS,neutral,0.0
 2026-03-04 10:05:07,"Apple stock flashes ‘worst bearish cross’, expert warns crash to $200 imminent - Finbold",AAPL,Google RSS,negative,-0.7209958434104919
 2026-03-02 21:36:14,Alphabet stock price steadies near $307 as risk sentiment stays cautious - Traders Union,GOOGL,Google RSS,negative,-0.8495703935623169
-2026-03-04 21:52:00,Broadcom Earnings Beat Estimates as AI Demand Remains Strong,GOOGL,Yahoo RSS,positive,0.9425771832466125
+2026-03-04 21:52:00,Broadcom Earnings Beat Estimates as AI Demand Remains Strong,GOOGL,Yahoo RSS,positive,0.9425771832466124
 2026-03-04 21:27:32,BofA reiterates Buy on Amazon stock on Anthropic growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
 2026-03-04 17:35:18,"Amazon shares extend gains for second straight session, jump 4.2% to one-month high - Mint",AMZN,Google RSS,positive,0.908710777759552
 2026-03-04 21:18:18,Broadcom sees over $100 billion in AI chip sales by 2027 on robust custom chip demand,AMZN,Yahoo RSS,positive,0.8292113542556763
-2026-03-03 14:31:45,"‘It’s Performing Worse,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,negative,-0.9602940082550049
+2026-03-03 14:31:45,"‘It’s Performing Worse,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,negative,-0.9602940082550048
 2026-03-02 14:29:29,‘A No Brainer’: Top Investor Bullish on Microsoft Stock - TipRanks,MSFT,Google RSS,neutral,0.0
 2026-03-03 18:11:16,"MSFT stock price today: Microsoft shares rise, investors watch AI execution - onmsft.com",MSFT,Google RSS,positive,0.5155226588249207
 2026-02-27 16:31:59,Microsoft Stock 2026 Forecast: MSFT Has a $600 Billion Backlog as Demand for Microsoft Cloud Surges - TipRanks,MSFT,Google RSS,negative,-0.9312226176261902
@@ -19,15 +19,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-04 21:18:18,Broadcom sees over $100 billion in AI chip sales by 2027 on robust custom chip demand,MSFT,Yahoo RSS,positive,0.8292113542556763
 2026-03-02 13:07:00,Goldman Sachs resets Nvidia stock forecast after earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
 2026-03-03 01:49:00,"Dow Jones Futures Fall: U.S.-Iran Conflict Sparks Market Upheaval As Nvidia Rallies; Credo, MongoDB Plunge Late - Investor's Business Daily",NVDA,Google RSS,negative,-0.8487592935562134
-2026-02-26 22:29:00,Nvidia Stock Drops Despite Bullish Q4 Report. AI Angst Blamed. - Investor's Business Daily,NVDA,Google RSS,negative,-0.9363390207290649
+2026-02-26 22:29:00,Nvidia Stock Drops Despite Bullish Q4 Report. AI Angst Blamed. - Investor's Business Daily,NVDA,Google RSS,negative,-0.9363390207290648
 2026-02-26 15:36:00,Why Nvidia’s stock is falling despite a historic earnings beat - MarketWatch,NVDA,Google RSS,negative,-0.8932204246520996
 2026-03-04 11:51:36,Tesla gains after BofA jumps back in with a bull rating (TSLA:NASDAQ) - Seeking Alpha,TSLA,Google RSS,positive,0.922035813331604
 2026-03-02 12:31:06,Tesla Stock Eked Out Small Gain. Why It No Longer Gets a Boost From Higher Oil Prices. - Barron's,TSLA,Google RSS,neutral,0.0
 2026-03-04 16:44:32,Tesla’s (TSLA) February Sales Figures Show Sales Growth,TSLA,Bing RSS,positive,0.7978152632713318
 2026-03-04 22:43:05,How Investors Are Reacting To Meta Platforms (META) Expanding Its AI Supply Chain With AMD Partnership - simplywall.st,META,Google RSS,neutral,0.0
-2026-03-05 00:42:35,Meta Platforms Inc. (META): Strong Growth and Solid Ratings Highlight Long-Term Potential - Finviz,META,Google RSS,positive,0.9293079376220703
+2026-03-05 00:42:35,Meta Platforms Inc. (META): Strong Growth and Solid Ratings Highlight Long-Term Potential - Finviz,META,Google RSS,positive,0.9293079376220704
 2026-03-04 01:48:00,Meta (META) Stock: CFO Unloads $36M in Shares Amid Strong Analyst Sentiment,META,Bing RSS,positive,0.8377367258071899
-2026-03-04 16:41:02,Meta Platforms Inc. (META): Strong Growth and Solid Ratings Highlight Long-Term Potential,META,Bing RSS,positive,0.9475914239883423
-2026-03-04 21:52:00,Broadcom Earnings Beat Estimates as AI Demand Remains Strong,META,Yahoo RSS,positive,0.9425771832466125
+2026-03-04 16:41:02,Meta Platforms Inc. (META): Strong Growth and Solid Ratings Highlight Long-Term Potential,META,Bing RSS,positive,0.9475914239883424
+2026-03-04 21:52:00,Broadcom Earnings Beat Estimates as AI Demand Remains Strong,META,Yahoo RSS,positive,0.9425771832466124
 2026-03-04 21:18:18,Broadcom sees over $100 billion in AI chip sales by 2027 on robust custom chip demand,META,Yahoo RSS,positive,0.8292113542556763
 2026-02-27 01:03:00,"WBD-Paramount Reactions: Wall Street Analysts Split, Activist Investor Celebrates & Netflix Stock Rises - Deadline",NFLX,Google RSS,negative,-0.8513922691345215
+2026-03-03 00:57:00,"MSFT stock price today: Microsoft shares rise, investors watch AI execution",MSFT,Bing RSS,positive,0.6977688670158386
+2026-03-04 17:20:00,"After Soaring Nearly 1,300% in 5 Years, Can Nvidia's Stock Still Rise Higher? - Nasdaq",NVDA,Google RSS,positive,0.7591384053230286
+2026-02-26 18:43:46,Goldman Sachs explains Nvidia stock decline despite strong results - Investing.com,NVDA,Google RSS,negative,-0.9399569034576416
