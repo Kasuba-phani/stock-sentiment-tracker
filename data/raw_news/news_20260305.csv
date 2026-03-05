@@ -63,4 +63,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-05 17:03:30,Broadcom Stock Rises on Soaring AI Chip Demand and Strong Earnings,META,Yahoo RSS,positive,0.9357922077178956
 2026-03-05 19:40:00,Essentials perfect for spring cleaning are at their lowest price of the year on Amazon - WJBF,AMZN,Google RSS,negative,-0.9458506107330322
 2026-03-05 20:25:00,Tesla Stock's Bold Strategic Shift Could Signal Major Opportunity - Nasdaq,TSLA,Google RSS,positive,0.8282992243766785
-2026-03-05 21:11:22,US Equity Markets End Lower as War With Iran Sends Oil Prices Higher,MSFT,Yahoo RSS,negative,-0.9359195828437805
+2026-03-05 21:11:22,US Equity Markets End Lower as War With Iran Sends Oil Prices Higher,MSFT,Yahoo RSS,negative,-0.9359195828437804
+2026-03-05 21:58:14,"US Equity Indexes Decline Amid Surging Crude Oil, Treasury Yields",MSFT,Yahoo RSS,negative,-0.9567303657531738
+2026-03-05 22:01:00,"Dow Jones Futures: Stock Market Skids On Surging Oil Prices, Pare Losses As Broadcom, Nvidia Rise - Investor's Business Daily",NVDA,Google RSS,negative,-0.9487208724021912
+2026-03-05 21:43:32,"Dow Jones Futures: Stock Market Skids On Surging Oil Prices, Pare Losses As Broadcom, Nvidia Rise",NVDA,Yahoo RSS,negative,-0.9597457647323608
