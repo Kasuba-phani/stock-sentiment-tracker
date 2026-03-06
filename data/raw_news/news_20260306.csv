@@ -2,18 +2,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-05 16:08:16,Alphabet stock price tests $300 as Treasury yields climb - Traders Union,GOOGL,Google RSS,negative,-0.5235947966575623
 2026-03-05 10:33:02,Redmont Wealth Advisors LLC Purchases New Shares in Alphabet Inc. $GOOGL - MarketBeat,GOOGL,Google RSS,neutral,0.0
 2026-03-02 21:36:14,Alphabet stock price steadies near $307 as risk sentiment stays cautious - Traders Union,GOOGL,Google RSS,negative,-0.8495703935623169
-2026-03-05 17:03:30,Broadcom Stock Rises on Soaring AI Chip Demand and Strong Earnings,GOOGL,Yahoo RSS,positive,0.9357922077178955
+2026-03-05 17:03:30,Broadcom Stock Rises on Soaring AI Chip Demand and Strong Earnings,GOOGL,Yahoo RSS,positive,0.9357922077178956
 2026-03-04 21:27:32,BofA reiterates Buy on Amazon stock on Anthropic growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
 2026-03-05 19:40:00,Essentials perfect for spring cleaning are at their lowest price of the year on Amazon - WJBF,AMZN,Google RSS,negative,-0.9458506107330322
 2026-03-03 18:11:16,"MSFT stock price today: Microsoft shares rise, investors watch AI execution - onmsft.com",MSFT,Google RSS,positive,0.5155226588249207
-2026-03-03 14:31:45,"‘It’s Performing Worse,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,negative,-0.9602940082550049
+2026-03-03 14:31:45,"‘It’s Performing Worse,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,negative,-0.9602940082550048
 2026-02-27 16:31:59,Microsoft Stock 2026 Forecast: MSFT Has a $600 Billion Backlog as Demand for Microsoft Cloud Surges - TipRanks,MSFT,Google RSS,negative,-0.9312226176261902
 2026-03-02 14:32:51,‘A No Brainer’: Top Investor Bullish on Microsoft Stock - TipRanks,MSFT,Google RSS,neutral,0.0
 2026-03-01 15:01:37,"‘Holding Steady,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
 2026-03-02 10:03:42,Jones Financial Companies Lllp Boosts Stock Position in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,positive,0.9266512989997864
 2026-03-03 00:57:00,"MSFT stock price today: Microsoft shares rise, investors watch AI execution",MSFT,Bing RSS,positive,0.6977688670158386
 2026-03-05 21:58:14,"US Equity Indexes Decline Amid Surging Crude Oil, Treasury Yields",MSFT,Yahoo RSS,negative,-0.9567303657531738
-2026-03-05 21:11:22,US Equity Markets End Lower as War With Iran Sends Oil Prices Higher,MSFT,Yahoo RSS,negative,-0.9359197020530701
+2026-03-05 21:11:22,US Equity Markets End Lower as War With Iran Sends Oil Prices Higher,MSFT,Yahoo RSS,negative,-0.93591970205307
 2026-03-05 19:14:50,Nvidia and AMD Stocks Drop after Report of New U.S. Rules Requiring Approval for AI Chip Exports - TipRanks,NVDA,Google RSS,negative,-0.9559974670410156
 2026-03-05 23:34:00,Dow Tumbles As Oil Soars; Nasdaq Cuts Losses - Investor's Business Daily,NVDA,Google RSS,negative,-0.5399996042251587
 2026-03-02 13:07:00,Goldman Sachs resets Nvidia stock forecast after earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
@@ -24,3 +24,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-05 00:44:32,Tesla’s (TSLA) February Sales Figures Show Sales Growth,TSLA,Yahoo RSS,positive,0.7978152632713318
 2026-03-04 01:48:00,Meta (META) Stock: CFO Unloads $36M in Shares Amid Strong Analyst Sentiment,META,Bing RSS,positive,0.8377367258071899
 2026-03-05 23:42:27,Podcast: Rising Oil Prices Send U.S. Stocks Down,META,Yahoo RSS,negative,-0.9634026288986206
+2026-03-04 10:15:54,Lebenthal Global Advisors LLC Has $12.46 Million Stock Position in Apple Inc. $AAPL - MarketBeat,AAPL,Google RSS,neutral,0.0
+2026-03-06 03:09:00,"Dow Jones Futures Rise, Oil Prices Fall After Latest Spike; Broadcom, Nvidia In Focus - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-02-27 16:04:00,Stock Market Can't Hold Key Levels Amid AI Concerns; Nvidia Tumbles Despite Strong Earnings: Weekly Review - Investor's Business Daily,NVDA,Google RSS,negative,-0.895270049571991
+2026-03-05 19:55:00,"Dow Jones futures rise, oil prices halt surge; Broadcom, Nvidia in focus",NVDA,Bing RSS,neutral,0.0
+2026-03-05 20:25:00,Tesla Stock's Bold Strategic Shift Could Signal Major Opportunity - Nasdaq,TSLA,Google RSS,positive,0.8282992243766785
+2026-03-05 04:54:35,AMD Stock Jumps on Meta Partnership & Strong AI Chip Sales - TipRanks,META,Google RSS,positive,0.8839837312698364
+2026-03-05 20:32:14,How Netflix stock gained 15.3% last month,NFLX,Bing RSS,positive,0.8542097806930542
