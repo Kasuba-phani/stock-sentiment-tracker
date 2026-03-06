@@ -49,3 +49,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-05 12:03:13,Erste Group upgrades Meta stock rating on AI growth outlook By Investing.com - Investing.com Nigeria,META,Google RSS,neutral,0.0
 2026-03-06 12:50:00,Dow Jones Futures Fall As Oil Keeps Surging On Iran Conflict; Jobs Report On Tap - Investor's Business Daily,NVDA,Google RSS,negative,-0.926137387752533
 2026-03-06 06:20:59,Why Advanced Micro Devices stock plummeted 15.4% last month and has inched lower in March,META,Bing RSS,negative,-0.9653600454330444
+2026-03-06 16:05:40,Meta Platforms Resets AI Supply Chain With Major Chip And Content Deals,GOOGL,Yahoo RSS,positive,0.6933596730232239
+2026-03-06 16:05:40,Meta Platforms Resets AI Supply Chain With Major Chip And Content Deals,NVDA,Yahoo RSS,positive,0.6933596730232239
+2026-03-06 16:05:40,Meta Platforms Resets AI Supply Chain With Major Chip And Content Deals,META,Yahoo RSS,positive,0.6933596730232239
