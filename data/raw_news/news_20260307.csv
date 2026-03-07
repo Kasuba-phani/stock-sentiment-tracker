@@ -1,0 +1,29 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-03-06 13:32:00,Best Health & Fitness Stocks to Buy Now for Strong Growth,AAPL,Yahoo RSS,positive,0.6322218775749207
+2026-03-06 20:06:01,Alphabet stock price slips below $300 as weak jobs data hits megacap tech - Traders Union,GOOGL,Google RSS,negative,-0.9485357403755188
+2026-03-06 21:41:48,Claar Advisors Initiates Stake in Callaway as Golf Equipment Demand Remains Strong,GOOGL,Yahoo RSS,positive,0.7570738792419434
+2026-03-06 16:05:40,Meta Platforms Resets AI Supply Chain With Major Chip And Content Deals,GOOGL,Yahoo RSS,positive,0.6933596730232239
+2026-03-04 21:27:32,BofA reiterates Buy on Amazon stock on Anthropic growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-03-06 23:56:56,"Dow's 416-point drop led by losses for shares of Amazon.com Inc., 3M - MSN",AMZN,Google RSS,negative,-0.9703108668327332
+2026-03-06 06:01:50,What Makes Amazon (AMZN) an Overall High-Quality Growth Compounder?,AMZN,Bing RSS,neutral,0.0
+2026-03-06 21:41:48,Claar Advisors Initiates Stake in Callaway as Golf Equipment Demand Remains Strong,AMZN,Yahoo RSS,positive,0.7570738792419434
+2026-03-06 18:37:15,“Supply Chain Risk” Status Means Little to Microsoft; Microsoft Stock (NASDAQ:MSFT) Slips Despite Anthropic Sales Plans - TipRanks,MSFT,Google RSS,negative,-0.9682683348655701
+2026-03-03 18:11:16,"MSFT stock price today: Microsoft shares rise, investors watch AI execution - onmsft.com",MSFT,Google RSS,positive,0.5155226588249207
+2026-03-03 14:31:45,"‘It’s Performing Worse,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,negative,-0.9602940082550049
+2026-03-02 14:32:51,‘A No Brainer’: Top Investor Bullish on Microsoft Stock - TipRanks,MSFT,Google RSS,neutral,0.0
+2026-03-01 15:01:37,"‘Holding Steady,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-03-06 21:41:48,Claar Advisors Initiates Stake in Callaway as Golf Equipment Demand Remains Strong,MSFT,Yahoo RSS,positive,0.7570738792419434
+2026-03-07 01:16:00,"Nvidia-Tied AI Stocks Vertiv, Lumentum, Coherent To Join S&P 500 Index - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-03-06 14:23:19,Nvidia Stock Forecast: Trending Strong Buy Among Analysts - TipRanks,NVDA,Google RSS,positive,0.9397191405296326
+2026-03-02 13:07:00,Goldman Sachs resets Nvidia stock forecast after earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
+2026-03-06 11:44:32,"Nvidia stock consolidates at $183 as Tigress Financial raises price target, keeps Strong Buy - Traders Union",NVDA,Google RSS,positive,0.7881532311439514
+2026-03-06 08:00:00,Stocks With Rising Relative Price Strength: NVIDIA - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
+2026-03-05 19:14:50,Nvidia and AMD Stocks Drop after Report of New U.S. Rules Requiring Approval for AI Chip Exports - TipRanks,NVDA,Google RSS,negative,-0.9559974670410156
+2026-03-07 01:16:04,"Nvidia-Tied AI Stocks Vertiv, Lumentum, Coherent To Join S&P 500 Index",NVDA,Yahoo RSS,neutral,0.0
+2026-03-07 00:09:38,Why Thomson Reuters Stock Zoomed Nearly 16% Higher This Week,NVDA,Yahoo RSS,positive,0.9225192666053772
+2026-03-06 22:35:00,"Got $5,000? 3 Top Growth Stocks to Buy That Could Double Your Money.",NVDA,Yahoo RSS,neutral,0.0
+2026-03-05 20:25:00,Tesla Stock's Bold Strategic Shift Could Signal Major Opportunity - Nasdaq,TSLA,Google RSS,positive,0.8282992243766785
+2026-03-06 17:55:00,"If Tesla Stock Doubled Again, How Much Richer Could the Average Investor Become?",TSLA,Bing RSS,neutral,0.0
+2026-03-04 01:48:00,Meta (META) Stock: CFO Unloads $36M in Shares Amid Strong Analyst Sentiment,META,Bing RSS,positive,0.8377367258071899
+2026-03-06 16:05:40,Meta Platforms Resets AI Supply Chain With Major Chip And Content Deals,META,Yahoo RSS,positive,0.6933596730232239
+2026-03-05 20:32:14,How Netflix stock gained 15.3% last month,NFLX,Bing RSS,positive,0.8542097806930542
