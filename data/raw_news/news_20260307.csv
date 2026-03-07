@@ -7,9 +7,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-06 23:56:56,"Dow's 416-point drop led by losses for shares of Amazon.com Inc., 3M - MSN",AMZN,Google RSS,negative,-0.9703108668327332
 2026-03-06 06:01:50,What Makes Amazon (AMZN) an Overall High-Quality Growth Compounder?,AMZN,Bing RSS,neutral,0.0
 2026-03-06 21:41:48,Claar Advisors Initiates Stake in Callaway as Golf Equipment Demand Remains Strong,AMZN,Yahoo RSS,positive,0.7570738792419434
-2026-03-06 18:37:15,“Supply Chain Risk” Status Means Little to Microsoft; Microsoft Stock (NASDAQ:MSFT) Slips Despite Anthropic Sales Plans - TipRanks,MSFT,Google RSS,negative,-0.9682683348655701
+2026-03-06 18:37:15,“Supply Chain Risk” Status Means Little to Microsoft; Microsoft Stock (NASDAQ:MSFT) Slips Despite Anthropic Sales Plans - TipRanks,MSFT,Google RSS,negative,-0.96826833486557
 2026-03-03 18:11:16,"MSFT stock price today: Microsoft shares rise, investors watch AI execution - onmsft.com",MSFT,Google RSS,positive,0.5155226588249207
-2026-03-03 14:31:45,"‘It’s Performing Worse,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,negative,-0.9602940082550049
+2026-03-03 14:31:45,"‘It’s Performing Worse,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,negative,-0.9602940082550048
 2026-03-02 14:32:51,‘A No Brainer’: Top Investor Bullish on Microsoft Stock - TipRanks,MSFT,Google RSS,neutral,0.0
 2026-03-01 15:01:37,"‘Holding Steady,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
 2026-03-06 21:41:48,Claar Advisors Initiates Stake in Callaway as Golf Equipment Demand Remains Strong,MSFT,Yahoo RSS,positive,0.7570738792419434
@@ -27,3 +27,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-04 01:48:00,Meta (META) Stock: CFO Unloads $36M in Shares Amid Strong Analyst Sentiment,META,Bing RSS,positive,0.8377367258071899
 2026-03-06 16:05:40,Meta Platforms Resets AI Supply Chain With Major Chip And Content Deals,META,Yahoo RSS,positive,0.6933596730232239
 2026-03-05 20:32:14,How Netflix stock gained 15.3% last month,NFLX,Bing RSS,positive,0.8542097806930542
+2026-03-06 12:50:00,Dow Jones Futures Fall As Oil Keeps Surging On Iran Conflict; Jobs Report On Tap - Investor's Business Daily,NVDA,Google RSS,negative,-0.926137387752533
