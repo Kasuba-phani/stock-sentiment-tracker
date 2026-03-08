@@ -43,3 +43,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-07 16:46:54,3 Top Tech Stocks to Buy in March - AOL.com,GOOGL,Google RSS,neutral,0.0
 2026-03-06 06:01:50,What Makes Amazon (AMZN) an Overall High-Quality Growth Compounder?,AMZN,Bing RSS,neutral,0.0
 2026-03-07 01:16:04,"Nvidia-Tied AI Stocks Vertiv, Lumentum, Coherent To Join S&P 500 Index",NVDA,Yahoo Global,neutral,0.0
+2026-03-04 17:20:00,"After Soaring Nearly 1,300% in 5 Years, Can Nvidia's Stock Still Rise Higher? - Nasdaq",NVDA,Google RSS,positive,0.7591384053230286
+2026-03-05 11:48:47,Erste Group upgrades Meta stock rating on AI growth outlook - Investing.com,META,Google RSS,neutral,0.0
