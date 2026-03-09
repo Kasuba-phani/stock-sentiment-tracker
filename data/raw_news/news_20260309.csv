@@ -8,10 +8,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-07 11:25:00,The 3 Best Retail Stocks to Buy in March - The Motley Fool,AMZN,Google RSS,neutral,0.0
 2026-03-08 14:00:03,The AI trade still 'has legs': Wall Street analysts weigh tech stock picks amid market sell-off,AMZN,Yahoo RSS,negative,-0.8714151382446289
 2026-03-08 10:35:00,The Best 3 Retail Stocks to Buy in March,AMZN,Yahoo RSS,neutral,0.0
-2026-03-06 18:37:15,“Supply Chain Risk” Status Means Little to Microsoft; Microsoft Stock (NASDAQ:MSFT) Slips Despite Anthropic Sales Plans - TipRanks,MSFT,Google RSS,negative,-0.9682683348655701
+2026-03-06 18:37:15,“Supply Chain Risk” Status Means Little to Microsoft; Microsoft Stock (NASDAQ:MSFT) Slips Despite Anthropic Sales Plans - TipRanks,MSFT,Google RSS,negative,-0.96826833486557
 2026-03-03 18:11:16,"MSFT stock price today: Microsoft shares rise, investors watch AI execution - onmsft.com",MSFT,Google RSS,positive,0.5155226588249207
 2026-03-07 19:09:00,Microsoft Stock Price Week Ahead: Can MSFT Hold Near $409 as AI Demand Faces a CPI Test? - TechStock²,MSFT,Google RSS,neutral,0.0
-2026-03-03 14:31:45,"‘It’s Performing Worse,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,negative,-0.9602940082550049
+2026-03-03 14:31:45,"‘It’s Performing Worse,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,negative,-0.9602940082550048
 2026-03-07 12:32:33,"Uniting Wealth Partners LLC Acquires 2,833 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
 2026-03-08 14:00:03,The AI trade still 'has legs': Wall Street analysts weigh tech stock picks amid market sell-off,MSFT,Yahoo RSS,negative,-0.8714151382446289
 2026-03-08 12:56:07,Top Wall Street analysts are bullish on these 3 stocks despite ongoing volatility - CNBC,NVDA,Google RSS,neutral,0.0
@@ -39,3 +39,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-07 17:52:05,Will Kurv Yield Premium Strategy Netflix stock issue positive guidance - Gold Moves & Safe Capital Growth Plans - Naître et grandir,NFLX,Google RSS,neutral,0.0
 2026-03-07 15:04:40,Netflix Stock Heats Up as Analysts Chase Higher Targets - TipRanks,NFLX,Google RSS,positive,0.4902648329734802
 2026-03-07 14:06:29,Netflix Stock Forecast: Trending Strong Buy Among Analysts - TipRanks,NFLX,Google RSS,positive,0.9097827076911926
+2026-03-08 16:30:52,"Jim Cramer Says Oil Sell-Off Is Green Light For New Bull Market Even As Exxon Mobil, ConocoPhillips Shares Slide",AMZN,Yahoo RSS,neutral,0.0
+2026-03-05 20:32:14,How Netflix stock gained 15.3% last month,NFLX,Bing RSS,positive,0.8542097806930542
