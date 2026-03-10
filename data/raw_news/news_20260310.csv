@@ -44,7 +44,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-10 07:46:46,Kovitz Investment Group Partners LLC Has $881.01 Million Stake in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,neutral,0.0
 2026-03-10 07:46:53,"Amazon.com, Inc. $AMZN Stock Position Increased by Zeno Equity Partners LLP - MarketBeat",AMZN,Google RSS,positive,0.7417221665382385
 2026-03-09 16:42:07,Why Nvidia stock is soaring despite broader market sell-off? - TradingView,NVDA,Google RSS,neutral,0.0
-2026-03-10 10:13:49,Chip Foundry TSMC Says Its Sales Rose 22% In February,AAPL,Yahoo RSS,positive,0.9558427929878235
-2026-03-10 10:13:49,Chip Foundry TSMC Says Its Sales Rose 22% In February,NVDA,Yahoo RSS,positive,0.9558427929878235
+2026-03-10 10:13:49,Chip Foundry TSMC Says Its Sales Rose 22% In February,AAPL,Yahoo RSS,positive,0.9558427929878236
+2026-03-10 10:13:49,Chip Foundry TSMC Says Its Sales Rose 22% In February,NVDA,Yahoo RSS,positive,0.9558427929878236
 2026-03-10 10:10:00,Exxon Eyes Texas for Legal Home After 144 Years in New Jersey,TSLA,Yahoo RSS,positive,0.6322433352470398
 2026-03-10 10:46:21,Netflix stock price forecast: Holds near $98 as rally pauses below key resistance - Traders Union,NFLX,Google RSS,negative,-0.4471364915370941
+2026-03-05 09:34:10,"Apple: March Releases, Including Brand-New MacBook Neo, Keep Pricing Low Despite Memory Inflation - Morningstar",AAPL,Google RSS,negative,-0.39149877429008484
+2026-03-10 10:36:04,TSMC Sales Jump 30% Though Memory Chip Crunch Saps Mobile Demand,AAPL,Yahoo RSS,negative,-0.96975177526474
+2026-03-10 10:36:04,TSMC Sales Jump 30% Though Memory Chip Crunch Saps Mobile Demand,NVDA,Yahoo RSS,negative,-0.96975177526474
