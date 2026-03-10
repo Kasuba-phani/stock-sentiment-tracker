@@ -4,8 +4,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-07 20:10:26,Amazon stock week ahead: What traders watch after the Amazon outage and AWS’s new healthcare AI push - TechStock²,AMZN,Google RSS,neutral,0.0
 2026-03-07 11:25:00,The 3 Best Retail Stocks to Buy in March - The Motley Fool,AMZN,Google RSS,neutral,0.0
 2026-03-09 15:45:01,US: Amazon raises Pokemon Pokopia physical price amid reports of stock constraints - My Nintendo News,AMZN,Google RSS,negative,-0.7929198145866394
-2026-03-09 17:51:29,Amazon-Backed Anthropic Sues Department of War Over 'Supply Chain Risk' Designation,AMZN,Yahoo RSS,negative,-0.9482168555259705
-2026-03-06 18:37:15,“Supply Chain Risk” Status Means Little to Microsoft; Microsoft Stock (NASDAQ:MSFT) Slips Despite Anthropic Sales Plans - TipRanks,MSFT,Google RSS,negative,-0.9682683348655701
+2026-03-09 17:51:29,Amazon-Backed Anthropic Sues Department of War Over 'Supply Chain Risk' Designation,AMZN,Yahoo RSS,negative,-0.9482168555259703
+2026-03-06 18:37:15,“Supply Chain Risk” Status Means Little to Microsoft; Microsoft Stock (NASDAQ:MSFT) Slips Despite Anthropic Sales Plans - TipRanks,MSFT,Google RSS,negative,-0.96826833486557
 2026-03-09 11:37:02,Siligmueller & Norvid Wealth Advisors LLC Has $2.90 Million Stake in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,neutral,0.0
 2026-03-09 09:03:58,"Personal CFO Solutions LLC Buys 1,674 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
 2026-03-07 19:45:25,Microsoft Stock Price Week Ahead: Can MSFT Hold Near $409 as AI Demand Faces a CPI Test? - TechStock²,MSFT,Google RSS,neutral,0.0
@@ -30,3 +30,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-05 20:32:14,How Netflix stock gained 15.3% last month,NFLX,Bing RSS,positive,0.8542097806930542
 2026-03-09 19:10:49,Is Netflix (NFLX) Pricing In Too Much Growth After Its Strong Multi Year Run,NFLX,Yahoo RSS,negative,-0.9558106064796448
 2026-03-08 14:47:00,Top 2 Growth Stocks to Buy After Nvidia's Latest Sell-Off,NVDA,Yahoo Global,positive,0.8240786194801331
+2026-03-04 02:51:00,Tesla gains after BofA jumps back in with a bull rating,TSLA,Bing RSS,positive,0.5855184197425842
