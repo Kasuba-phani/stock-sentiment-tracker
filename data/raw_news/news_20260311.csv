@@ -72,4 +72,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-11 18:58:59,Microsoft Sides With Anthropic Against Trump Admin’s Supply Chain Risk Designation,MSFT,Yahoo RSS,neutral,0.0
 2026-03-11 20:39:40,‘Keep on Buying’: Top Investor Says Nvidia Stock May Be Near a Turning Point - TipRanks,NVDA,Google RSS,neutral,0.0
 2026-03-11 11:39:00,Nvidia (NVDA) Stock Climbs Ahead of Major GTC Conference This Monday,NVDA,Bing RSS,positive,0.5924199223518372
-2026-03-10 12:00:10,"Top Funds Dump 10 Stocks (Including Alphabet), Morningstar Says",GOOGL,Yahoo Global,negative,-0.9379914999008179
+2026-03-10 12:00:10,"Top Funds Dump 10 Stocks (Including Alphabet), Morningstar Says",GOOGL,Yahoo Global,negative,-0.937991499900818
+2026-03-11 20:44:13,"Dow Jones Futures: Rising Oil Prices Weigh On Stocks, But Oracle, Nvidia Lift These AI Names - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-03-11 21:25:41,"Dow Jones Futures: Oil Prices Weigh On Stocks, But Oracle, Nvidia Lift These AI Names",NVDA,Yahoo RSS,negative,-0.47847312688827515
