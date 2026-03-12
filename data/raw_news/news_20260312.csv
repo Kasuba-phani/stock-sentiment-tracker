@@ -14,7 +14,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-11 18:00:00,3 Top Quantum Computing Stocks to Buy in March - The Globe and Mail,AMZN,Google RSS,neutral,0.0
 2026-03-07 11:25:00,The 3 Best Retail Stocks to Buy in March - The Motley Fool,AMZN,Google RSS,neutral,0.0
 2026-03-10 07:46:53,"Amazon.com, Inc. $AMZN Stock Position Increased by Zeno Equity Partners LLP - MarketBeat",AMZN,Google RSS,positive,0.7417221665382385
-2026-03-10 07:44:58,"OneDigital Investment Advisors LLC Cuts Stock Position in Amazon.com, Inc. $AMZN - MarketBeat",AMZN,Google RSS,negative,-0.9580671787261963
+2026-03-10 07:44:58,"OneDigital Investment Advisors LLC Cuts Stock Position in Amazon.com, Inc. $AMZN - MarketBeat",AMZN,Google RSS,negative,-0.9580671787261964
 2026-03-11 18:00:00,3 Top Quantum Computing Stocks to Buy in March,AMZN,Yahoo RSS,neutral,0.0
 2026-03-11 09:08:51,Microsoft Corporation $MSFT Shares Purchased by Interchange Capital Partners LLC - MarketBeat,MSFT,Google RSS,neutral,0.0
 2026-03-11 13:02:31,Wall Street sets Microsoft stock price target for next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
@@ -38,3 +38,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-07 15:04:40,Netflix Stock Heats Up as Analysts Chase Higher Targets - TipRanks,NFLX,Google RSS,positive,0.4902648329734802
 2026-03-07 14:06:29,Netflix Stock Forecast: Trending Strong Buy Among Analysts - TipRanks,NFLX,Google RSS,positive,0.9097827076911926
 2026-03-09 19:10:49,Is Netflix (NFLX) Pricing In Too Much Growth After Its Strong Multi Year Run,NFLX,Yahoo RSS,negative,-0.9558106064796448
+2026-03-11 23:32:00,3 Top Artificial Intelligence Stocks to Buy in March - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-03-11 11:39:00,Nvidia (NVDA) Stock Climbs Ahead of Major GTC Conference This Monday,NVDA,Bing RSS,positive,0.5924199223518372
+2026-03-11 16:39:24,"Tesla stock jumps nearly 3% today, but the rally may not last - Invezz",TSLA,Google RSS,positive,0.8125292658805847
+2026-03-11 20:43:16,Strong China Sales 91% YoY and Digital Optimus Focus Boosts Tesla Stock Despite Mixed Earnings - FXLeaders,TSLA,Google RSS,positive,0.9494940638542175
