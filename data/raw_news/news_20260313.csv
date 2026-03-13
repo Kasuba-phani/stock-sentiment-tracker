@@ -51,3 +51,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-13 20:24:39,2 Top Tech Stocks to Buy in March - The Globe and Mail,MSFT,Google RSS,neutral,0.0
 2026-03-13 20:20:00,2 Top Tech Stocks to Buy in March,MSFT,Yahoo RSS,neutral,0.0
 2026-03-13 20:20:00,2 Top Tech Stocks to Buy in March,NVDA,Yahoo RSS,neutral,0.0
+2026-03-13 21:26:25,"Dow's 125-point fall led by losses in shares of Salesforce, Apple - MSN",AAPL,Google RSS,negative,-0.9689995646476746
+2026-03-13 20:55:14,"Dow Jones Futures: Oil Prices, Iran War Drive Stocks Lower; Nvidia GTC, Micron Earnings Due - Investor's Business Daily",NVDA,Google RSS,negative,-0.5695512890815735
+2026-03-13 21:10:50,"Dow Jones futures: Oil prices, Iran war drive stocks lower; Nvidia GTC, Micron earnings due - MSN",NVDA,Google RSS,negative,-0.8545472025871277
+2026-03-13 20:55:02,"Dow Jones Futures: Oil Prices, Iran War Drive Stocks Lower; Nvidia GTC, Micron Earnings Due",NVDA,Yahoo RSS,negative,-0.7715581655502319
+2026-03-13 13:37:00,Tesla stock marks 4-week losing streak despite China sales data,TSLA,Bing RSS,negative,-0.965642511844635
+2026-03-12 14:00:02,Why Jefferies Says Microsoft Stock Looks Cheap Despite AI Growth,MSFT,Yahoo Global,neutral,0.0
