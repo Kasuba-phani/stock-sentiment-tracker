@@ -32,3 +32,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-13 12:14:23,​​Tesla shares react to oil price surge and market volatility - ig.com,TSLA,Google RSS,neutral,0.0
 2026-03-13 04:51:00,Tesla stock is on track to avoid a 4-week losing streak. China sales data are helping.,TSLA,Bing RSS,positive,0.7938232421875
 2026-03-13 12:43:21,"Stocks to watch on Friday: LCID, META, AAPL, COST (SP500:) - Seeking Alpha",META,Google RSS,neutral,0.0
+2026-03-13 13:24:00,"Meta Is Falling Behind in AI Models. Its Loss Could Be Google’s Gain, Report Says.",AAPL,Yahoo RSS,negative,-0.9653605818748474
+2026-03-13 13:24:00,"Meta Is Falling Behind in AI Models. Its Loss Could Be Google’s Gain, Report Says.",GOOGL,Yahoo RSS,negative,-0.9653605818748474
+2026-03-13 14:47:05,Amazon Raises $54B in Record Bond Sales as Investors Place $126B Orders,AMZN,Yahoo RSS,positive,0.7956985235214233
+2026-03-13 13:24:00,"Meta Is Falling Behind in AI Models. Its Loss Could Be Google’s Gain, Report Says.",META,Yahoo RSS,negative,-0.9653605818748474
