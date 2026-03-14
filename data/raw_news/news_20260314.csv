@@ -1,5 +1,5 @@
 date,headline,ticker,source,sentiment_label,compound
-2026-03-13 17:49:06,Apple stock price retreats toward $251 as rates pressure keeps rebound in check - Traders Union,AAPL,Google RSS,negative,-0.9552499651908875
+2026-03-13 17:49:06,Apple stock price retreats toward $251 as rates pressure keeps rebound in check - Traders Union,AAPL,Google RSS,negative,-0.9552499651908876
 2026-03-12 16:55:58,Apple stock price firms near $260 as yields ease after oil reversal - Traders Union,AAPL,Google RSS,negative,-0.7216730713844299
 2026-03-10 13:00:00,"S&P 500: Top Funds Dump 10 Stocks (Including Alphabet), Morningstar Says - Investor's Business Daily",GOOGL,Google RSS,negative,-0.6582154631614685
 2026-03-11 23:32:00,3 Top Artificial Intelligence Stocks to Buy in March - The Motley Fool,GOOGL,Google RSS,neutral,0.0
@@ -8,9 +8,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-13 21:00:00,2 Top Tech Stocks to Buy in March - The Motley Fool,AMZN,Google RSS,neutral,0.0
 2026-03-13 20:20:00,2 Top Tech Stocks to Buy in March,AMZN,Yahoo RSS,neutral,0.0
 2026-03-13 21:00:00,2 Top Tech Stocks to Buy in March - The Motley Fool,MSFT,Google RSS,neutral,0.0
-2026-03-13 09:27:26,Hibernia Wealth Partners LLC Lowers Position in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,negative,-0.9568446278572083
+2026-03-13 09:27:26,Hibernia Wealth Partners LLC Lowers Position in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,negative,-0.9568446278572084
 2026-03-13 20:20:00,2 Top Tech Stocks to Buy in March,MSFT,Yahoo RSS,neutral,0.0
-2026-03-13 17:30:18,Option traders moderately bearish in Microsoft with shareslittle changed,MSFT,Yahoo RSS,negative,-0.9056810140609741
+2026-03-13 17:30:18,Option traders moderately bearish in Microsoft with shareslittle changed,MSFT,Yahoo RSS,negative,-0.905681014060974
 2026-03-14 01:21:00,"Dow Jones Futures: Oil Prices, Iran War Drive Stocks Lower; Nvidia GTC, Micron Earnings Due - Investor's Business Daily",NVDA,Google RSS,negative,-0.5695502161979675
 2026-03-12 13:04:00,"Dow Jones Futures Fall; Crude Oil Prices Top $90 On Tanker Attacks, Port Disruption - Investor's Business Daily",NVDA,Google RSS,negative,-0.9444066286087036
 2026-03-13 23:41:56,"Dow Jones Futures: Oil Prices, Iran War Drive Stocks Lower; Nvidia GTC, Micron Earnings Due",NVDA,Yahoo RSS,negative,-0.7715571522712708
@@ -26,3 +26,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-13 12:43:21,"Stocks to watch on Friday: LCID, META, AAPL, COST (SP500:) - Seeking Alpha",META,Google RSS,neutral,0.0
 2026-03-11 19:44:23,META Shares Slip Most In 4 Months After Reported AI Model Delay — So Why Is Retail Still Bullish? - Stocktwits,META,Google RSS,negative,-0.9580305814743042
 2026-03-11 13:20:09,Evercore ISI reiterates Netflix stock rating on survey strength - Investing.com,NFLX,Google RSS,neutral,0.0
+2026-03-14 03:11:20,"Dow Jones Futures: Oil Prices, Iran War Drive Stocks Lower; Nvidia GTC, Micron Earnings Due",META,Yahoo RSS,negative,-0.7715571522712708
