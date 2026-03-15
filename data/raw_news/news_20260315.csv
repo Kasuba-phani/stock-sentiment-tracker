@@ -46,3 +46,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-15 17:25:00,"1 Top Growth Stock Turned $10,000 Into $423,000 -- It's Still a Buy Now",NVDA,Yahoo RSS,neutral,0.0
 2026-03-15 18:00:00,"Nvidia GTC, Lululemon, Micron, Fed Rates, Home Sales, and More to Watch This Week",NVDA,Yahoo RSS,neutral,0.0
 2026-03-15 07:25:27,Wall Street remains bullish on Microsoft (MSFT) amid Azure supply headwinds - MSN,MSFT,Google RSS,positive,0.6567559242248535
+2026-03-15 15:11:00,"Dow Jones futures fall, oil prices top $100 amid Iran war; Nvidia GTC, Micron earnings ahead",NVDA,Bing RSS,negative,-0.7573421597480774
+2026-03-15 22:27:35,"Dow Jones Futures Waver, Oil Prices Top $100 Amid Iran War; Nvidia GTC, Micron Earnings Ahead",NVDA,Yahoo RSS,positive,0.6971367001533508
+2026-03-15 22:27:35,"Dow Jones Futures Waver, Oil Prices Top $100 Amid Iran War; Nvidia GTC, Micron Earnings Ahead",META,Yahoo RSS,positive,0.6971367001533508
