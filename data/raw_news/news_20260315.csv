@@ -36,3 +36,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-13 17:49:06,Apple stock price retreats toward $251 as rates pressure keeps rebound in check - Traders Union,AAPL,Google RSS,negative,-0.9552499651908876
 2026-03-15 09:40:00,The Stock Market May Be Shifting From Risky Tech Stocks to Safer Sectors. Here Are 3 Stocks to Buy Before They Soar.,NVDA,Yahoo RSS,neutral,0.0
 2026-03-15 08:48:45,"Dow Jones futures: Oil prices, Iran war drive stocks lower; Nvidia GTC, Micron earnings due - MSN",NVDA,Google RSS,negative,-0.8545472025871277
+2026-03-15 06:11:00,"Dow Jones futures due with oil prices near $100 amid Iran war; Nvidia GTC, Micron earnings ahead",NVDA,Bing RSS,positive,0.5278680920600891
