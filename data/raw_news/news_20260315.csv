@@ -49,3 +49,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-15 15:11:00,"Dow Jones futures fall, oil prices top $100 amid Iran war; Nvidia GTC, Micron earnings ahead",NVDA,Bing RSS,negative,-0.7573421597480774
 2026-03-15 22:27:35,"Dow Jones Futures Waver, Oil Prices Top $100 Amid Iran War; Nvidia GTC, Micron Earnings Ahead",NVDA,Yahoo RSS,positive,0.6971367001533508
 2026-03-15 22:27:35,"Dow Jones Futures Waver, Oil Prices Top $100 Amid Iran War; Nvidia GTC, Micron Earnings Ahead",META,Yahoo RSS,positive,0.6971367001533508
+2026-03-15 16:11:00,"Dow Jones futures rise as oil prices top $100; Nvidia GTC, Micron earnings ahead",NVDA,Bing RSS,positive,0.8188067674636841
