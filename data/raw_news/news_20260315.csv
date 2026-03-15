@@ -26,3 +26,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-11 13:20:09,Evercore ISI reiterates Netflix stock rating on survey strength - Investing.com,NFLX,Google RSS,neutral,0.0
 2026-03-12 14:00:02,Why Jefferies Says Microsoft Stock Looks Cheap Despite AI Growth - Barchart.com,MSFT,Google RSS,neutral,0.0
 2026-03-14 19:53:00,"Dow Jones futures: Oil prices, Iran war drive stocks lower; Nvidia GTC, Micron earnings due",NVDA,Bing RSS,negative,-0.7715581655502319
+2026-03-15 08:02:14,"Aristotle Atlantic Partners LLC Sells 19,294 Shares of Amazon.com, Inc. $AMZN - MarketBeat",AMZN,Google RSS,neutral,0.0
+2026-03-15 01:28:00,Top 2 Retail Growth Stocks to Buy After Amazon's Latest Sell-Off,AMZN,Bing RSS,positive,0.8450466990470886
+2026-03-15 07:50:16,"Arkos Global Advisors Buys 3,691 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
+2026-03-15 07:25:27,Wall Street Remains Bullish on Microsoft (MSFT) Amid Azure Supply Headwinds,MSFT,Yahoo RSS,negative,-0.5264532566070557
+2026-03-15 08:02:15,"Aristotle Atlantic Partners LLC Has $143.25 Million Stock Position in Meta Platforms, Inc. $META - MarketBeat",META,Google RSS,neutral,0.0
