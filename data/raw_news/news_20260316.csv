@@ -86,3 +86,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-16 14:42:21,"Nvidia's stock price is 'entirely out of sync' with its growth outlook, analyst says - MarketWatch",NVDA,Google RSS,negative,-0.9143489003181458
 2026-03-16 21:36:30,"Dow Jones Futures: Stock Market Rallies As Oil Prices Tumble; Micron, Nvidia Are Key Movers",NVDA,Yahoo RSS,positive,0.4166211187839508
 2026-03-16 20:53:36,"S&P 500, Dow Snap 4-Day Losing Streak as Oil Prices Retreat",META,Yahoo RSS,negative,-0.9380842447280884
+2026-03-16 21:06:17,"Amazon.com Inc., Salesforce share gains lead Dow's nearly 350-point climb - MSN",AMZN,Google RSS,positive,0.8678286671638489
+2026-03-16 16:41:43,"Analysts weigh in on recent reports of Meta's AI model delay, job cut plans (META:NASDAQ) - Seeking Alpha",META,Google RSS,negative,-0.9516083002090454
