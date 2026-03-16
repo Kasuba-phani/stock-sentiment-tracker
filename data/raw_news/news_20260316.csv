@@ -4,7 +4,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-15 08:02:14,"Aristotle Atlantic Partners LLC Sells 19,294 Shares of Amazon.com, Inc. $AMZN - MarketBeat",AMZN,Google RSS,neutral,0.0
 2026-03-13 21:00:00,2 Top Tech Stocks to Buy in March - The Motley Fool,AMZN,Google RSS,neutral,0.0
 2026-03-15 08:45:00,Top 2 Retail Growth Stocks to Buy After Amazon's Latest Sell-Off,AMZN,Yahoo RSS,positive,0.8450466990470886
-2026-03-15 15:20:17,Microsoft Corporation (NASDAQ:MSFT) Short Interest Up 32.5% in February - MarketBeat,MSFT,Google RSS,positive,0.9272260069847107
+2026-03-15 15:20:17,Microsoft Corporation (NASDAQ:MSFT) Short Interest Up 32.5% in February - MarketBeat,MSFT,Google RSS,positive,0.9272260069847108
 2026-03-14 19:15:00,4 Artificial Intelligence (AI) Stocks at the Top of My Buy List for March - The Motley Fool,MSFT,Google RSS,neutral,0.0
 2026-03-15 07:50:16,"Arkos Global Advisors Buys 3,691 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
 2026-03-13 21:00:00,2 Top Tech Stocks to Buy in March - The Motley Fool,MSFT,Google RSS,neutral,0.0
@@ -21,3 +21,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-13 19:19:17,META Shares Slip Most In 4 Months After Reported AI Model Delay — So Why Is Retail Still Bullish? - Stocktwits,META,Google RSS,negative,-0.9580305814743042
 2026-03-15 08:02:15,"Aristotle Atlantic Partners LLC Has $143.25 Million Stock Position in Meta Platforms, Inc. $META - MarketBeat",META,Google RSS,neutral,0.0
 2026-03-11 13:20:09,Evercore ISI reiterates Netflix stock rating on survey strength - Investing.com,NFLX,Google RSS,neutral,0.0
+2026-03-12 16:55:58,Apple stock price firms near $260 as yields ease after oil reversal - Traders Union,AAPL,Google RSS,negative,-0.7216731905937195
+2026-03-12 14:00:02,Why Jefferies Says Microsoft Stock Looks Cheap Despite AI Growth - Barchart.com,MSFT,Google RSS,neutral,0.0
+2026-03-15 20:11:00,"Dow Jones futures rise as oil prices hit resistance at $100; Nvidia GTC, Micron earnings ahead",NVDA,Bing RSS,positive,0.6696678996086121
