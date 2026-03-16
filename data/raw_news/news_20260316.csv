@@ -28,3 +28,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-14 09:02:14,"Regal Investment Advisors LLC Purchases 1,317 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
 2026-03-16 05:35:00,The Best 4 Retail Stocks to Buy and Hold for Decades,NVDA,Yahoo RSS,neutral,0.0
 2026-03-11 09:36:32,"Tesla stock jumps nearly 3% today, but the rally may not last",TSLA,Bing RSS,positive,0.8407183885574341
+2026-03-16 06:31:11,Foxconn's profit lags estimates as it forecasts strong revenue growth,AAPL,Yahoo RSS,negative,-0.597251296043396
+2026-03-16 09:01:30,2 Dow Jones Stocks with Promising Prospects and 1 We Brush Off - StockStory,AMZN,Google RSS,positive,0.5849142074584961
+2026-03-16 07:50:00,"If Oil Prices Keep Climbing, These 3 ETFs Could Be Big Winners",NVDA,Yahoo RSS,neutral,0.0
+2026-03-16 06:31:11,Foxconn's profit lags estimates as it forecasts strong revenue growth,NVDA,Yahoo RSS,negative,-0.597251296043396
