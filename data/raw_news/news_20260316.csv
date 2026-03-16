@@ -39,4 +39,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-16 02:30:00,Meta stock gains on report of possible 20% workforce cuts to offset AI costs,META,Bing RSS,negative,-0.8843323588371277
 2026-03-16 01:57:37,Nvidia stock gains premarket despite bearish supplier signal: What’s driving it higher?,NVDA,Bing RSS,negative,-0.7197611927986145
 2026-03-16 09:23:49,Meta stock gains on report of possible 20% workforce cuts to offset AI costs - Investing.com Australia,META,Google RSS,negative,-0.8251991271972656
-2026-03-15 19:27:05,Meta's biggest layoffs since 'Year of Efficiency' coming? Retail traders bet stock wins again,META,Bing RSS,negative,-0.9164164662361145
+2026-03-15 19:27:05,Meta's biggest layoffs since 'Year of Efficiency' coming? Retail traders bet stock wins again,META,Bing RSS,negative,-0.9164164662361144
+2026-03-16 12:22:57,"Hyperscalers Are Spending Nearly $700 Billion in 2026 on AI Infrastructure -- but This Pales in Comparison to the Estimated $1 Trillion Spent by S&P 500 Companies on Another ""Growth"" Initiative - The Globe and Mail",GOOGL,Google RSS,negative,-0.7971349358558655
+2026-03-16 11:56:00,"Hyperscalers Are Spending Nearly $700 Billion in 2026 on AI Infrastructure -- but This Pales in Comparison to the Estimated $1 Trillion Spent by S&P 500 Companies on Another ""Growth"" Initiative",GOOGL,Yahoo RSS,negative,-0.8287122845649719
+2026-03-16 11:56:00,"Hyperscalers Are Spending Nearly $700 Billion in 2026 on AI Infrastructure -- but This Pales in Comparison to the Estimated $1 Trillion Spent by S&P 500 Companies on Another ""Growth"" Initiative",AMZN,Yahoo RSS,negative,-0.8287122845649719
+2026-03-16 11:56:00,"Hyperscalers Are Spending Nearly $700 Billion in 2026 on AI Infrastructure -- but This Pales in Comparison to the Estimated $1 Trillion Spent by S&P 500 Companies on Another ""Growth"" Initiative",MSFT,Yahoo RSS,negative,-0.8287122845649719
+2026-03-16 11:56:00,"Hyperscalers Are Spending Nearly $700 Billion in 2026 on AI Infrastructure -- but This Pales in Comparison to the Estimated $1 Trillion Spent by S&P 500 Companies on Another ""Growth"" Initiative",NVDA,Yahoo RSS,negative,-0.8287122845649719
+2026-03-16 11:50:19,Meta shares jump after Reuters report on plans for layoffs of 20% or more - Reuters,META,Google RSS,negative,-0.9245667457580566
+2026-03-16 09:23:26,Meta stock gains on report of possible 20% workforce cuts to offset AI costs - Investing.com,META,Google RSS,negative,-0.8186579346656799
+2026-03-16 06:00:00,US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures rise as tech stocks gain; Middle East conflict in focus,META,Bing RSS,positive,0.8384600877761841
+2026-03-16 11:56:00,"Hyperscalers Are Spending Nearly $700 Billion in 2026 on AI Infrastructure -- but This Pales in Comparison to the Estimated $1 Trillion Spent by S&P 500 Companies on Another ""Growth"" Initiative",META,Yahoo RSS,negative,-0.8287122845649719
