@@ -49,3 +49,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-16 09:23:26,Meta stock gains on report of possible 20% workforce cuts to offset AI costs - Investing.com,META,Google RSS,negative,-0.8186579346656799
 2026-03-16 06:00:00,US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures rise as tech stocks gain; Middle East conflict in focus,META,Bing RSS,positive,0.8384600877761841
 2026-03-16 11:56:00,"Hyperscalers Are Spending Nearly $700 Billion in 2026 on AI Infrastructure -- but This Pales in Comparison to the Estimated $1 Trillion Spent by S&P 500 Companies on Another ""Growth"" Initiative",META,Yahoo RSS,negative,-0.8287122845649719
+2026-03-16 15:01:31,"Nvidia Rises As GTC Show Starts, Tech Partner Sees Strong AI Demand. Is Nvidia A Buy Now?",AAPL,Yahoo RSS,positive,0.5324597954750061
+2026-03-16 14:46:12,Alphabet stock holds steady as major Wiz deal and bullish weekly signals offset short-term resistance - Traders Union,GOOGL,Google RSS,positive,0.8733381032943726
+2026-03-16 14:35:15,Microsoft stock price forecast: Bearish technicals persist as MSFT trades in $390 to $410 range - Traders Union,MSFT,Google RSS,negative,-0.8925279974937439
+2026-03-16 14:56:00,S&P leads the pack as oil worries and tech gains collide,MSFT,Yahoo RSS,neutral,0.0
+2026-03-16 15:04:36,"Nvidia Rises As GTC Show Starts, Tech Partner Sees Strong AI Demand. Is Nvidia A Buy Now? - Investor's Business Daily",NVDA,Google RSS,positive,0.7175378203392029
+2026-03-16 14:12:33,"Dow's nearly 500-point rally highlighted by gains in NVIDIA Corp., Caterpillar stocks - MSN",NVDA,Google RSS,positive,0.8991133570671082
+2026-03-16 15:01:31,"Nvidia Rises As GTC Show Starts, Tech Partner Sees Strong AI Demand. Is Nvidia A Buy Now?",NVDA,Yahoo RSS,positive,0.5324597954750061
+2026-03-16 14:56:00,S&P leads the pack as oil worries and tech gains collide,NVDA,Yahoo RSS,neutral,0.0
+2026-03-16 14:56:00,S&P leads the pack as oil worries and tech gains collide,META,Yahoo RSS,neutral,0.0
