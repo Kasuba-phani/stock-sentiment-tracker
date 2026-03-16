@@ -58,3 +58,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-16 15:01:31,"Nvidia Rises As GTC Show Starts, Tech Partner Sees Strong AI Demand. Is Nvidia A Buy Now?",NVDA,Yahoo RSS,positive,0.5324597954750061
 2026-03-16 14:56:00,S&P leads the pack as oil worries and tech gains collide,NVDA,Yahoo RSS,neutral,0.0
 2026-03-16 14:56:00,S&P leads the pack as oil worries and tech gains collide,META,Yahoo RSS,neutral,0.0
+2026-03-16 15:42:59,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more - CNBC",NVDA,Google RSS,neutral,0.0
+2026-03-16 15:42:59,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more - CNBC",META,Google RSS,neutral,0.0
+2026-03-16 15:14:00,Meta shares rise amid reports of potential 20% workforce cut - Proactive financial news,META,Google RSS,negative,-0.7951949834823608
+2026-03-16 15:14:00,Meta shares rise amid reports of potential 20% workforce cut,META,Yahoo RSS,positive,0.7817875146865845
+2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",NVDA,CNBC Finance,neutral,0.0
+2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",META,CNBC Finance,neutral,0.0
