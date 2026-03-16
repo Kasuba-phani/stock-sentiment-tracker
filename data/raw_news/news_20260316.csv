@@ -82,3 +82,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-16 19:00:18,"Tesla Upgraded, Super Micro Computer Downgraded: Updated Rankings on Top Blue-Chip Stocks - InvestorPlace",TSLA,Google RSS,neutral,0.0
 2026-03-16 00:00:00,Watch Meta Layoff Report Sends Stock Higher | Open Interest 3/16/2026 - Bloomberg.com,META,Google RSS,negative,-0.5506144762039185
 2026-03-16 19:38:56,US Equity Indexes Rise as Oil Prices Decline,META,Yahoo RSS,negative,-0.5436996221542358
+2026-03-16 21:29:54,"Dow Jones Futures: Stock Market Rallies As Oil Prices Tumble; Micron, Nvidia Are Key Movers - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-03-16 14:42:21,"Nvidia's stock price is 'entirely out of sync' with its growth outlook, analyst says - MarketWatch",NVDA,Google RSS,negative,-0.9143489003181458
+2026-03-16 21:36:30,"Dow Jones Futures: Stock Market Rallies As Oil Prices Tumble; Micron, Nvidia Are Key Movers",NVDA,Yahoo RSS,positive,0.4166211187839508
+2026-03-16 20:53:36,"S&P 500, Dow Snap 4-Day Losing Streak as Oil Prices Retreat",META,Yahoo RSS,negative,-0.9380842447280884
