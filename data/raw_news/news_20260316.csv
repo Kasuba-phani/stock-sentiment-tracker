@@ -32,3 +32,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-16 09:01:30,2 Dow Jones Stocks with Promising Prospects and 1 We Brush Off - StockStory,AMZN,Google RSS,positive,0.5849142074584961
 2026-03-16 07:50:00,"If Oil Prices Keep Climbing, These 3 ETFs Could Be Big Winners",NVDA,Yahoo RSS,neutral,0.0
 2026-03-16 06:31:11,Foxconn's profit lags estimates as it forecasts strong revenue growth,NVDA,Yahoo RSS,negative,-0.597251296043396
+2026-03-16 06:31:11,Foxconn's profit lags estimates as it forecasts strong revenue growth,GOOGL,Yahoo RSS,negative,-0.597251296043396
+2026-03-16 09:38:20,2 Dow Jones Stocks with Promising Prospects and 1 We Brush Off,AMZN,Yahoo RSS,positive,0.811206579208374
+2026-03-16 06:31:11,Foxconn's profit lags estimates as it forecasts strong revenue growth,AMZN,Yahoo RSS,negative,-0.597251296043396
+2026-03-16 06:31:11,Foxconn's profit lags estimates as it forecasts strong revenue growth,MSFT,Yahoo RSS,negative,-0.597251296043396
+2026-03-16 02:30:00,Meta stock gains on report of possible 20% workforce cuts to offset AI costs,META,Bing RSS,negative,-0.8843323588371277
