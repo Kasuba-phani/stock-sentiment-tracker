@@ -1,0 +1,28 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-03-16 15:01:31,"Nvidia Rises As GTC Show Starts, Tech Partner Sees Strong AI Demand. Is Nvidia A Buy Now?",AAPL,Yahoo RSS,positive,0.5324597954750061
+2026-03-16 14:46:12,Alphabet stock holds steady as major Wiz deal and bullish weekly signals offset short-term resistance - Traders Union,GOOGL,Google RSS,positive,0.8733381032943726
+2026-03-16 21:06:17,"Amazon.com Inc., Salesforce share gains lead Dow's nearly 350-point climb - MSN",AMZN,Google RSS,positive,0.8678286671638489
+2026-03-16 09:01:30,2 Dow Jones Stocks with Promising Prospects and 1 We Brush Off - StockStory,AMZN,Google RSS,positive,0.5849142074584961
+2026-03-15 09:25:00,Top 2 Retail Growth Stocks to Buy After Amazon's Latest Sell-Off - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-03-16 06:15:00,The Best 4 Retail Stocks to Buy and Hold for Decades - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-03-16 17:40:00,AWS and Innovapptive Partner to bring Industrial AI to the Manufacturing Frontline,AMZN,Yahoo RSS,neutral,0.0
+2026-03-14 19:15:00,4 Artificial Intelligence (AI) Stocks at the Top of My Buy List for March - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-03-12 14:00:00,Why Jefferies Says Microsoft Stock Looks Cheap Despite AI Growth - FinancialContent,MSFT,Google RSS,neutral,0.0
+2026-03-13 21:00:00,2 Top Tech Stocks to Buy in March - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-03-16 20:40:00,"NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era",MSFT,Yahoo RSS,neutral,0.0
+2026-03-16 17:27:00,IREN Is Making Moves in AI and Bitcoin. Technicals Point to Strong Growth Ahead.,MSFT,Yahoo RSS,positive,0.9389292597770691
+2026-03-17 00:51:56,"Dow's 475-point rally led by gains for Salesforce, NVIDIA Corp. stocks - MSN",NVDA,Google RSS,positive,0.818980872631073
+2026-03-16 20:18:00,"Nvidia Rises As GTC Show Starts, Tech Partner Sees Strong AI Demand. Is Nvidia A Buy Now? - Investor's Business Daily",NVDA,Google RSS,positive,0.7175378203392029
+2026-03-17 01:52:51,"Dow Jones Futures: Stock Market Rallies As Oil Prices Tumble; Micron, Nvidia Are Key Movers",NVDA,Yahoo RSS,positive,0.4166211187839508
+2026-03-17 01:50:00,2 Top Cybersecurity Stocks to Buy in March,NVDA,Yahoo RSS,neutral,0.0
+2026-03-16 20:22:41,"Tesla Upgraded, Super Micro Computer Downgraded: Updated Rankings on Top Blue-Chip Stocks - InvestorPlace",TSLA,Google RSS,neutral,0.0
+2026-03-16 11:50:19,Meta shares jump after Reuters report on plans for layoffs of 20% or more - Reuters,META,Google RSS,negative,-0.9245667457580566
+2026-03-16 15:42:59,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more - CNBC",META,Google RSS,neutral,0.0
+2026-03-16 09:23:26,Meta stock gains on report of possible 20% workforce cuts to offset AI costs - Investing.com,META,Google RSS,negative,-0.8186579346656799
+2026-03-16 11:14:00,Meta shares rise amid reports of potential 20% workforce cut - Proactive financial news,META,Google RSS,negative,-0.7951949834823608
+2026-03-16 00:00:00,Watch Meta Layoff Report Sends Stock Higher | Open Interest 3/16/2026 - Bloomberg.com,META,Google RSS,negative,-0.5506144762039185
+2026-03-16 20:53:36,"S&P 500, Dow Snap 4-Day Losing Streak as Oil Prices Retreat",META,Yahoo RSS,negative,-0.9380842447280884
+2026-03-16 19:38:56,US Equity Indexes Rise as Oil Prices Decline,META,Yahoo RSS,negative,-0.5436996221542358
+2026-03-11 13:20:09,Evercore ISI reiterates Netflix stock rating on survey strength - Investing.com,NFLX,Google RSS,neutral,0.0
+2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",NVDA,CNBC Finance,neutral,0.0
+2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",META,CNBC Finance,neutral,0.0
