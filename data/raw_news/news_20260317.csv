@@ -33,3 +33,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-15 15:20:17,Microsoft Corporation (NASDAQ:MSFT) Short Interest Up 32.5% in February - MarketBeat,MSFT,Google RSS,positive,0.9272260665893556
 2026-03-17 07:25:00,Is the Stock Market Headed for an AI-Bubble Burst? Here Are 2 Industrial Stocks That Can Offset Tech Stock Volatility.,NVDA,Yahoo RSS,neutral,0.0
 2026-03-17 07:05:00,The Top 2 Retail Stocks to Buy Right Now,NVDA,Yahoo RSS,neutral,0.0
+2026-03-17 08:49:43,"Fort Point Capital Partners LLC Sells 15,017 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
+2026-03-15 02:57:11,Microsoft Stock Rockets Higher as Analysts Raise Price Targets on AI-Fueled Growth - MSN,MSFT,Google RSS,positive,0.9112398624420166
+2026-03-16 15:42:59,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more - CNBC",NVDA,Google RSS,neutral,0.0
