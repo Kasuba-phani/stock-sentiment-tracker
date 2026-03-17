@@ -10,7 +10,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-12 14:00:00,Why Jefferies Says Microsoft Stock Looks Cheap Despite AI Growth - FinancialContent,MSFT,Google RSS,neutral,0.0
 2026-03-13 21:00:00,2 Top Tech Stocks to Buy in March - The Motley Fool,MSFT,Google RSS,neutral,0.0
 2026-03-16 20:40:00,"NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era",MSFT,Yahoo RSS,neutral,0.0
-2026-03-16 17:27:00,IREN Is Making Moves in AI and Bitcoin. Technicals Point to Strong Growth Ahead.,MSFT,Yahoo RSS,positive,0.9389292597770691
+2026-03-16 17:27:00,IREN Is Making Moves in AI and Bitcoin. Technicals Point to Strong Growth Ahead.,MSFT,Yahoo RSS,positive,0.9389292597770692
 2026-03-17 00:51:56,"Dow's 475-point rally led by gains for Salesforce, NVIDIA Corp. stocks - MSN",NVDA,Google RSS,positive,0.818980872631073
 2026-03-16 20:18:00,"Nvidia Rises As GTC Show Starts, Tech Partner Sees Strong AI Demand. Is Nvidia A Buy Now? - Investor's Business Daily",NVDA,Google RSS,positive,0.7175378203392029
 2026-03-17 01:52:51,"Dow Jones Futures: Stock Market Rallies As Oil Prices Tumble; Micron, Nvidia Are Key Movers",NVDA,Yahoo RSS,positive,0.4166211187839508
@@ -26,3 +26,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-11 13:20:09,Evercore ISI reiterates Netflix stock rating on survey strength - Investing.com,NFLX,Google RSS,neutral,0.0
 2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",NVDA,CNBC Finance,neutral,0.0
 2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",META,CNBC Finance,neutral,0.0
+2026-03-17 02:52:00,"Dow Jones Futures: Stock Market Rallies As Oil Prices Tumble; Micron, Nvidia Are Key Movers - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-03-17 03:11:35,"Dow Jones futures: Stock market rallies as oil prices tumble; Micron, Nvidia are key movers - MSN",NVDA,Google RSS,neutral,0.0
+2026-03-16 07:01:00,"Nvidia's stock price is 'entirely out of sync' with its growth outlook, analyst says",NVDA,Bing RSS,negative,-0.9258983731269836
