@@ -45,3 +45,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-17 10:40:00,Stocks Can’t Recover While Oil Prices Surge. Why the Fed’s Unlikely to Help.,MSFT,Yahoo RSS,negative,-0.6323186755180359
 2026-03-17 11:05:58,T. Rowe Price bullish on Nvidia’s robotics and physical AI frontiers,NVDA,Yahoo RSS,positive,0.590605616569519
 2026-03-17 10:40:00,Stocks Can’t Recover While Oil Prices Surge. Why the Fed’s Unlikely to Help.,NVDA,Yahoo RSS,negative,-0.6323186755180359
+2026-03-17 12:42:20,"Tesla (TSLA) Growth in China Signals Strong Global Demand, EV Sales Surge 91%",GOOGL,Yahoo RSS,positive,0.9535934329032898
+2026-03-17 12:56:18,"Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Tuesday Ahead of US Federal Reserve Meeting",NVDA,Yahoo RSS,negative,-0.6650460958480835
+2026-03-17 12:58:10,"Tesla (TSLA) Growth in China Signals Strong Global Demand, EV Sales Surge 91% - Insider Monkey",TSLA,Google RSS,positive,0.9535211324691772
+2026-03-17 12:42:20,"Tesla (TSLA) Growth in China Signals Strong Global Demand, EV Sales Surge 91%",TSLA,Yahoo RSS,positive,0.9535934329032898
