@@ -61,5 +61,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-18 17:24:38,Alphabet stock price holds gains at $311 as market digests cloud growth strategy - Traders Union,GOOGL,Google RSS,positive,0.7841709852218628
 2026-03-18 17:47:00,NVIDIA GTC keeps analysts bullish amid continued strong AI compute demand,NVDA,Yahoo RSS,positive,0.9202881455421448
 2026-03-18 18:13:44,"Citi Sets $115 Price Target for Netflix Stock, Highlights 3 Key Growth Drivers - Analytics Insight",NFLX,Google RSS,neutral,0.0
-2026-03-18 14:39:48,Comcast stock declines as technical momentum stays bearish despite Nvidia partnership news - Traders Union,NVDA,Google RSS,negative,-0.9404386281967163
+2026-03-18 14:39:48,Comcast stock declines as technical momentum stays bearish despite Nvidia partnership news - Traders Union,NVDA,Google RSS,negative,-0.9404386281967164
 2026-03-18 20:36:13,"Dow Jones, S&P 500 Undercut Lows On Powell, Oil Prices; Micron Earnings, Guidance Crush Views",NVDA,Yahoo RSS,neutral,0.0
+2026-03-16 14:35:15,Microsoft stock price forecast: Bearish technicals persist as MSFT trades in $390 to $410 range - Traders Union,MSFT,Google RSS,negative,-0.8925279974937439
+2026-03-18 21:34:49,Dow Jones Futures: Micron Earnings Crush Views But Oil Prices Hit $100 After Powell Sinks Stocks,NVDA,Yahoo RSS,positive,0.5682015419006348
+2026-03-17 22:06:30,Key Advisors CEO Eddie Ghabour on how AI sentiment is influencing the stock market - qz.com,META,Google RSS,neutral,0.0
+2026-03-17 12:42:20,"Tesla (TSLA) Growth in China Signals Strong Global Demand, EV Sales Surge 91%",TSLA,Yahoo Global,positive,0.9535934329032898
