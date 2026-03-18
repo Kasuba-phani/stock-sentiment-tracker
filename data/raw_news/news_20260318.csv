@@ -39,3 +39,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-18 11:05:00,2 Consumer Stocks That Can Protect You in Today's Economy,NVDA,Yahoo RSS,neutral,0.0
 2026-03-18 10:35:00,The Federal Reserve Meets March 18 and Wall Street Has Completely Given Up on Rate Cuts,NVDA,Yahoo RSS,negative,-0.840939462184906
 2026-03-17 21:58:00,"Stock Market Today (LIVE): Stocks Buck Rising Oil Prices, Tesla Locks In on the Grid - The Motley Fool",TSLA,Google RSS,positive,0.6067171096801758
+2026-03-13 17:49:06,Apple stock price retreats toward $251 as rates pressure keeps rebound in check - Traders Union,AAPL,Google RSS,negative,-0.9552499651908875
+2026-03-18 13:13:07,"Stock Market Today: Dow Falls On Surprise Inflation Data; Fed Decision, Powell Briefing Due (Live Coverage)",AAPL,Yahoo RSS,negative,-0.9182360768318176
+2026-03-18 12:09:14,"8 Key Items Shaping the Stock Market Wednesday: Fed, VIX, Amazon, Swarmer - TheStreet Pro",AMZN,Google RSS,neutral,0.0
+2026-03-18 13:13:07,"Stock Market Today: Dow Falls On Surprise Inflation Data; Fed Decision, Powell Briefing Due (Live Coverage)",AMZN,Yahoo RSS,negative,-0.9182360768318176
+2026-03-18 13:18:56,Microsoft Corporation (MSFT) Slid Despite Continued Strong Operating Results,MSFT,Yahoo RSS,negative,-0.974540650844574
+2026-03-18 13:20:20,Nvidia (NVDA) Stock Flat amid GTC 2026 — Why Top Analysts Are Still Bullish - TipRanks,NVDA,Google RSS,negative,-0.9540056586265564
