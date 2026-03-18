@@ -1,0 +1,33 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-03-18 00:45:37,Assessing Apple (AAPL) Valuation As Tariffs Pressure Supply Chains And Growth Expectations - simplywall.st,AAPL,Google RSS,neutral,0.0
+2026-03-17 11:24:40,Apple stock price forecast for 2040: Long-horizon outlook builds near $800 as ecosystem expansion drives growth - Traders Union,AAPL,Google RSS,positive,0.8934990763664246
+2026-03-17 09:02:06,Flow Traders U.S. LLC Makes New $2.74 Million Investment in Alphabet Inc. $GOOG - MarketBeat,GOOGL,Google RSS,neutral,0.0
+2026-03-17 09:01:53,Alphabet Inc. $GOOGL Shares Acquired by Flow Traders U.S. LLC - MarketBeat,GOOGL,Google RSS,neutral,0.0
+2026-03-17 13:22:21,Alphabet stock price steadies near $307 as macro cues temper tech demand - Traders Union,GOOGL,Google RSS,negative,-0.942130446434021
+2026-03-17 20:28:59,Amazon stock rebounds as AI outlook boosts AWS growth narrative - investingLive,AMZN,Google RSS,negative,-0.6639237999916077
+2026-03-17 21:58:00,"Stock Market Today (LIVE): Stocks Buck Rising Oil Prices, Tesla Locks In on the Grid - The Motley Fool",AMZN,Google RSS,positive,0.6067171096801758
+2026-03-15 09:25:00,Top 2 Retail Growth Stocks to Buy After Amazon's Latest Sell-Off - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-03-16 09:01:30,2 Dow Jones Stocks with Promising Prospects and 1 We Brush Off - StockStory,AMZN,Google RSS,positive,0.5849142074584961
+2026-03-16 06:15:00,The Best 4 Retail Stocks to Buy and Hold for Decades - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-03-17 08:52:45,"Amazon.com Inc., Salesforce share gains lead Dow's nearly 350-point climb - MSN",AMZN,Google RSS,positive,0.8678286671638489
+2026-03-17 08:49:43,"Fort Point Capital Partners LLC Sells 15,017 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
+2026-03-17 15:45:00,"Microsoft AI model sparks sell-off in spatialomics stocks, Wolfe Research Comments - Investing.com",MSFT,Google RSS,neutral,0.0
+2026-03-17 09:15:51,"Holocene Advisors LP Sells 282,246 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
+2026-03-14 19:15:00,4 Artificial Intelligence (AI) Stocks at the Top of My Buy List for March - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-03-13 21:00:00,2 Top Tech Stocks to Buy in March - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-03-15 15:20:17,Microsoft Corporation (NASDAQ:MSFT) Short Interest Up 32.5% in February - MarketBeat,MSFT,Google RSS,positive,0.9272260069847107
+2026-03-17 20:30:00,"Global Extended Detection and Response (XDR) Market Size/Share Worth USD 6.1 Billion by 2034 at a 21% CAGR: Business Research Industry (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",MSFT,Yahoo RSS,neutral,0.0
+2026-03-16 20:18:00,"Nvidia Rises As GTC Show Starts, Tech Partner Sees Strong AI Demand. Is Nvidia A Buy Now? - Investor's Business Daily",NVDA,Google RSS,positive,0.7175378203392029
+2026-03-16 07:01:00,"Nvidia's stock price is 'entirely out of sync' with its growth outlook, analyst says",NVDA,Bing RSS,negative,-0.9258983731269836
+2026-03-17 23:20:02,Top 2 S&P 500 Stocks to Watch This Week After Hims & Hers Stock's Surprise Move,NVDA,Yahoo RSS,positive,0.45551639795303345
+2026-03-17 17:12:02,Lemonade stock jumps after Morgan Stanley upgrades to Overweight on Tesla partnership (LMND:NYSE) - Seeking Alpha,TSLA,Google RSS,positive,0.8813275694847107
+2026-03-17 16:05:52,Tesla (TSLA) and Rivian (RIVN): Goldman Sachs Looks at the Physical AI Opportunity Following Investor Meetings - TipRanks,TSLA,Google RSS,neutral,0.0
+2026-03-16 11:50:19,Meta shares jump after Reuters report on plans for layoffs of 20% or more - Reuters,META,Google RSS,negative,-0.9245667457580566
+2026-03-16 09:23:26,Meta stock gains on report of possible 20% workforce cuts to offset AI costs - Investing.com,META,Google RSS,negative,-0.8186579346656799
+2026-03-16 15:42:59,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more - CNBC",META,Google RSS,neutral,0.0
+2026-03-17 14:31:08,+0.30% for Meta stock — Technical resistance persists amid cloud investment news - Traders Union,META,Google RSS,negative,-0.8506736755371094
+2026-03-17 18:13:27,"Mark Zuckerberg is poised to finish what Jack Dorsey started: a ‘cascade’ of AI-related layoffs across the tech sector, top tech analyst says",META,Yahoo RSS,negative,-0.9511235356330872
+2026-03-11 13:20:09,Evercore ISI reiterates Netflix stock rating on survey strength - Investing.com,NFLX,Google RSS,neutral,0.0
+2026-03-17 13:00:04,How to Boost Your Portfolio with Top Consumer Discretionary Stocks Set to Beat Earnings,NFLX,Yahoo RSS,positive,0.7319913506507874
+2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",NVDA,CNBC Finance,neutral,0.0
+2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",META,CNBC Finance,neutral,0.0
