@@ -67,3 +67,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-18 21:34:49,Dow Jones Futures: Micron Earnings Crush Views But Oil Prices Hit $100 After Powell Sinks Stocks,NVDA,Yahoo RSS,positive,0.5682015419006348
 2026-03-17 22:06:30,Key Advisors CEO Eddie Ghabour on how AI sentiment is influencing the stock market - qz.com,META,Google RSS,neutral,0.0
 2026-03-17 12:42:20,"Tesla (TSLA) Growth in China Signals Strong Global Demand, EV Sales Surge 91%",TSLA,Yahoo Global,positive,0.9535934329032898
+2026-03-18 23:28:53,"Dow Jones Futures Fall; Micron Skid Despite Blowout Earnings, Oil Prices Hit $100",NVDA,Yahoo RSS,negative,-0.8967268466949463
