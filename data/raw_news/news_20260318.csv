@@ -15,11 +15,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-17 09:15:51,"Holocene Advisors LP Sells 282,246 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
 2026-03-14 19:15:00,4 Artificial Intelligence (AI) Stocks at the Top of My Buy List for March - The Motley Fool,MSFT,Google RSS,neutral,0.0
 2026-03-13 21:00:00,2 Top Tech Stocks to Buy in March - The Motley Fool,MSFT,Google RSS,neutral,0.0
-2026-03-15 15:20:17,Microsoft Corporation (NASDAQ:MSFT) Short Interest Up 32.5% in February - MarketBeat,MSFT,Google RSS,positive,0.9272260069847107
+2026-03-15 15:20:17,Microsoft Corporation (NASDAQ:MSFT) Short Interest Up 32.5% in February - MarketBeat,MSFT,Google RSS,positive,0.9272260069847108
 2026-03-17 20:30:00,"Global Extended Detection and Response (XDR) Market Size/Share Worth USD 6.1 Billion by 2034 at a 21% CAGR: Business Research Industry (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",MSFT,Yahoo RSS,neutral,0.0
 2026-03-16 20:18:00,"Nvidia Rises As GTC Show Starts, Tech Partner Sees Strong AI Demand. Is Nvidia A Buy Now? - Investor's Business Daily",NVDA,Google RSS,positive,0.7175378203392029
 2026-03-16 07:01:00,"Nvidia's stock price is 'entirely out of sync' with its growth outlook, analyst says",NVDA,Bing RSS,negative,-0.9258983731269836
-2026-03-17 23:20:02,Top 2 S&P 500 Stocks to Watch This Week After Hims & Hers Stock's Surprise Move,NVDA,Yahoo RSS,positive,0.45551639795303345
+2026-03-17 23:20:02,Top 2 S&P 500 Stocks to Watch This Week After Hims & Hers Stock's Surprise Move,NVDA,Yahoo RSS,positive,0.4555163979530334
 2026-03-17 17:12:02,Lemonade stock jumps after Morgan Stanley upgrades to Overweight on Tesla partnership (LMND:NYSE) - Seeking Alpha,TSLA,Google RSS,positive,0.8813275694847107
 2026-03-17 16:05:52,Tesla (TSLA) and Rivian (RIVN): Goldman Sachs Looks at the Physical AI Opportunity Following Investor Meetings - TipRanks,TSLA,Google RSS,neutral,0.0
 2026-03-16 11:50:19,Meta shares jump after Reuters report on plans for layoffs of 20% or more - Reuters,META,Google RSS,negative,-0.9245667457580566
@@ -31,3 +31,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-17 13:00:04,How to Boost Your Portfolio with Top Consumer Discretionary Stocks Set to Beat Earnings,NFLX,Yahoo RSS,positive,0.7319913506507874
 2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",NVDA,CNBC Finance,neutral,0.0
 2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",META,CNBC Finance,neutral,0.0
+2026-03-17 22:49:58,Jim Cramer: Stocks rising despite oil gains signals a new market message - CNBC,NVDA,Google RSS,positive,0.6192960739135742
