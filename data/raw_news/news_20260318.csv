@@ -45,7 +45,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-18 13:13:07,"Stock Market Today: Dow Falls On Surprise Inflation Data; Fed Decision, Powell Briefing Due (Live Coverage)",AMZN,Yahoo RSS,negative,-0.9182360768318176
 2026-03-18 13:18:56,Microsoft Corporation (MSFT) Slid Despite Continued Strong Operating Results,MSFT,Yahoo RSS,negative,-0.974540650844574
 2026-03-18 13:20:20,Nvidia (NVDA) Stock Flat amid GTC 2026 — Why Top Analysts Are Still Bullish - TipRanks,NVDA,Google RSS,negative,-0.9540056586265564
-2026-03-18 14:45:33,Alphabet stock: Conflicting technical signals prompt sideways price action - Traders Union,GOOGL,Google RSS,negative,-0.9071352481842041
+2026-03-18 14:45:33,Alphabet stock: Conflicting technical signals prompt sideways price action - Traders Union,GOOGL,Google RSS,negative,-0.907135248184204
 2026-03-18 13:34:21,Micron Earnings Face High Expectations as Its Stock Keeps Rising,GOOGL,Yahoo RSS,positive,0.9256427884101868
 2026-03-18 13:34:21,Micron Earnings Face High Expectations as Its Stock Keeps Rising,AMZN,Yahoo RSS,positive,0.9256427884101868
 2026-03-18 14:11:29,Microsoft stock: Suspected OpenAI contract breach triggers renewed selling - Traders Union,MSFT,Google RSS,negative,-0.9549071192741394
@@ -56,3 +56,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-18 13:34:21,Micron Earnings Face High Expectations as Its Stock Keeps Rising,NVDA,Yahoo RSS,positive,0.9256427884101868
 2026-03-13 18:54:00,META Shares Slip Most In 4 Months After Reported AI Model Delay — So Why Is Retail Still Bullish? - Stocktwits,META,Google RSS,negative,-0.9580305814743042
 2026-03-18 13:34:21,Micron Earnings Face High Expectations as Its Stock Keeps Rising,META,Yahoo RSS,positive,0.9256427884101868
+2026-03-18 11:30:01,"Micron rides memory price spike into earnings with stock up 62%, drubbing its tech peers - CNBC",NVDA,Google RSS,positive,0.9229277968406677
