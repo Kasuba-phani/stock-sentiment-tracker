@@ -50,4 +50,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-19 09:05:03,Alphabet (GOOGL) Stock Higher Higher After Jim Cramer Said It Was A Good Quantum Computing Stock In January 2025,GOOGL,Bing RSS,positive,0.944057285785675
 2026-03-19 09:58:00,"Why Nvidia, Micron, Tesla stock crashing big today: NVDA down 1% while MU stock crashes nearly 5% — here’s why TSLA stock is falling today amid oil surge and Fed uncertainty",NVDA,Bing RSS,negative,-0.9666942358016968
 2026-03-19 09:58:00,"Why Nvidia, Micron, Tesla stock crashing big today: NVDA down 1% while MU stock crashes nearly 5% — here’s why TSLA stock is falling today amid oil surge and Fed uncertainty",TSLA,Bing RSS,negative,-0.9666942358016968
-2026-03-19 16:42:10,Netflix stock drops 3.06% as technical signals remain mixed and sentiment weakens - Traders Union,NFLX,Google RSS,negative,-0.9677194356918335
+2026-03-19 16:42:10,Netflix stock drops 3.06% as technical signals remain mixed and sentiment weakens - Traders Union,NFLX,Google RSS,negative,-0.9677194356918336
+2026-03-19 18:28:10,Apple stock price slips toward $248 as Fed outlook keeps pressure on tech - Traders Union,AAPL,Google RSS,negative,-0.9565250277519226
+2026-03-17 02:52:00,"Dow Jones Futures: Stock Market Rallies As Oil Prices Tumble; Micron, Nvidia Are Key Movers - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-03-19 17:23:00,5 Dividend Growth Stocks to Buy Amid Rising Inflation Risk,NVDA,Yahoo RSS,positive,0.5374199151992798
+2026-03-19 17:37:03,Sector Update: Consumer Stocks Decline Thursday Afternoon,TSLA,Yahoo RSS,negative,-0.9725422859191895
