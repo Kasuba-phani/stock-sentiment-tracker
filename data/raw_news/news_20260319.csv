@@ -1,0 +1,28 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-03-17 11:24:40,Apple stock price forecast for 2040: Long-horizon outlook builds near $800 as ecosystem expansion drives growth - Traders Union,AAPL,Google RSS,positive,0.8934990763664246
+2026-03-18 00:45:37,Assessing Apple (AAPL) Valuation As Tariffs Pressure Supply Chains And Growth Expectations - simplywall.st,AAPL,Google RSS,neutral,0.0
+2026-03-18 18:08:19,How Investors May Respond To QUALCOMM (QCOM) $20 Billion Buyback And Higher Dividend,AAPL,Yahoo RSS,positive,0.6288161277770996
+2026-03-18 17:24:38,Alphabet stock price holds gains at $311 as market digests cloud growth strategy - Traders Union,GOOGL,Google RSS,positive,0.7841709852218628
+2026-03-18 14:45:33,Alphabet stock: Conflicting technical signals prompt sideways price action - Traders Union,GOOGL,Google RSS,negative,-0.9071352481842041
+2026-03-17 09:02:06,Flow Traders U.S. LLC Makes New $2.74 Million Investment in Alphabet Inc. $GOOG - MarketBeat,GOOGL,Google RSS,neutral,0.0
+2026-03-18 12:09:14,"8 Key Items Shaping the Stock Market Wednesday: Fed, VIX, Amazon, Swarmer - TheStreet Pro",AMZN,Google RSS,neutral,0.0
+2026-03-17 20:28:59,Amazon stock rebounds as AI outlook boosts AWS growth narrative - investingLive,AMZN,Google RSS,negative,-0.6639237999916077
+2026-03-17 21:58:00,"Stock Market Today (LIVE): Stocks Buck Rising Oil Prices, Tesla Locks In on the Grid - The Motley Fool",AMZN,Google RSS,positive,0.6067171096801758
+2026-03-18 14:11:29,Microsoft stock: Suspected OpenAI contract breach triggers renewed selling - Traders Union,MSFT,Google RSS,negative,-0.9549071192741394
+2026-03-16 14:35:15,Microsoft stock price forecast: Bearish technicals persist as MSFT trades in $390 to $410 range - Traders Union,MSFT,Google RSS,negative,-0.8925279974937439
+2026-03-17 08:49:43,"Fort Point Capital Partners LLC Sells 15,017 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
+2026-03-17 09:15:51,"Holocene Advisors LP Sells 282,246 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
+2026-03-18 14:30:00,"[Latest] Global Financial Close Software Market Size/Share Worth USD 18.5 Billion by 2034 at a 8.1% CAGR: Business Research Industry (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",MSFT,Yahoo RSS,neutral,0.0
+2026-03-18 14:18:47,Nvidia Stock Forecast: Trending Strong Buy Among Analysts - TipRanks,NVDA,Google RSS,positive,0.9397191405296326
+2026-03-16 20:18:00,"Nvidia Rises As GTC Show Starts, Tech Partner Sees Strong AI Demand. Is Nvidia A Buy Now? - Investor's Business Daily",NVDA,Google RSS,positive,0.7175378203392029
+2026-03-18 11:30:01,"Micron rides memory price spike into earnings with stock up 62%, drubbing its tech peers - CNBC",NVDA,Google RSS,positive,0.9229277968406677
+2026-03-18 13:20:20,Nvidia (NVDA) Stock Flat amid GTC 2026 — Why Top Analysts Are Still Bullish - TipRanks,NVDA,Google RSS,negative,-0.9540056586265564
+2026-03-19 02:41:23,Dow Jones Futures: Oil Backs Off $100; Micron Skids Despite Blowout Earnings,NVDA,Yahoo RSS,negative,-0.9269424676895142
+2026-03-16 11:50:19,Meta shares jump after Reuters report on plans for layoffs of 20% or more - Reuters,META,Google RSS,negative,-0.9245667457580566
+2026-03-16 15:42:59,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more - CNBC",META,Google RSS,neutral,0.0
+2026-03-16 09:23:26,Meta stock gains on report of possible 20% workforce cuts to offset AI costs - Investing.com,META,Google RSS,negative,-0.8186579346656799
+2026-03-17 22:06:30,Key Advisors CEO Eddie Ghabour on how AI sentiment is influencing the stock market - qz.com,META,Google RSS,neutral,0.0
+2026-03-18 18:13:44,"Citi Sets $115 Price Target for Netflix Stock, Highlights 3 Key Growth Drivers - Analytics Insight",NFLX,Google RSS,neutral,0.0
+2026-03-17 13:00:04,How to Boost Your Portfolio with Top Consumer Discretionary Stocks Set to Beat Earnings,NFLX,Yahoo RSS,positive,0.7319913506507874
+2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",NVDA,CNBC Finance,neutral,0.0
+2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",META,CNBC Finance,neutral,0.0
