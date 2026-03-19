@@ -37,3 +37,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-19 09:29:14,Tesla stock dips 1.7% as Musk signals continued large-scale Nvidia chip buying - Traders Union,TSLA,Google RSS,negative,-0.9458643794059752
 2026-03-19 02:25:00,"Stock Market Today (LIVE): Stocks Buck Rising Oil Prices, Tesla Locks In on the Grid",TSLA,Bing RSS,positive,0.7890666127204895
 2026-03-19 10:43:05,Dow Jones Futures Fall As Global Oil Prices Jump; Micron Falls Despite Blowout Earnings,NVDA,Yahoo RSS,negative,-0.939123272895813
+2026-03-19 10:53:00,"Soaring Oil Prices, Surging Inflation, Fed Rate Fears. It’s Déjà Vu for Markets.",TSLA,Yahoo RSS,negative,-0.9003057479858398
