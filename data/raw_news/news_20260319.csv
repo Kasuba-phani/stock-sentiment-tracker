@@ -29,3 +29,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-16 07:01:00,"Nvidia's stock price is 'entirely out of sync' with its growth outlook, analyst says",NVDA,Bing RSS,negative,-0.9258983731269836
 2026-03-18 19:40:42,"TSLA stock rises after-hours: Musk says Tesla, SpaceX still betting big on Nvidia ‘at scale’ despite own-chips push",TSLA,Bing RSS,positive,0.7339999079704285
 2026-03-17 18:08:42,Analysts revise AI hyperscaler debt forecasts after Amazon bond sale,AMZN,Yahoo Global,neutral,0.0
+2026-03-19 06:04:15,A Look At Palantir Technologies (PLTR) Valuation After Major U.S. Army Deal And New AI Partnerships,NVDA,Yahoo RSS,neutral,0.0
+2026-03-17 17:12:02,Lemonade stock jumps after Morgan Stanley upgrades to Overweight on Tesla partnership (LMND:NYSE) - Seeking Alpha,TSLA,Google RSS,positive,0.8813275694847107
