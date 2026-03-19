@@ -38,6 +38,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-19 02:25:00,"Stock Market Today (LIVE): Stocks Buck Rising Oil Prices, Tesla Locks In on the Grid",TSLA,Bing RSS,positive,0.7890666127204895
 2026-03-19 10:43:05,Dow Jones Futures Fall As Global Oil Prices Jump; Micron Falls Despite Blowout Earnings,NVDA,Yahoo RSS,negative,-0.939123272895813
 2026-03-19 10:53:00,"Soaring Oil Prices, Surging Inflation, Fed Rate Fears. It’s Déjà Vu for Markets.",TSLA,Yahoo RSS,negative,-0.9003057479858398
-2026-03-19 12:38:56,"US applications for jobless benefits fall to 205,000 last week as layoffs remain historically low.",AMZN,Yahoo RSS,negative,-0.9721080660820007
+2026-03-19 12:38:56,"US applications for jobless benefits fall to 205,000 last week as layoffs remain historically low.",AMZN,Yahoo RSS,negative,-0.9721080660820008
 2026-03-19 12:35:00,Here's What Falling Oil Prices Mean for These 3 Energy Stocks,NVDA,Yahoo RSS,neutral,0.0
-2026-03-19 04:27:00,Tesla can grow EV deliveries in the first quarter. The stock is down.,TSLA,Bing RSS,negative,-0.9418447613716125
+2026-03-19 04:27:00,Tesla can grow EV deliveries in the first quarter. The stock is down.,TSLA,Bing RSS,negative,-0.9418447613716124
+2026-03-19 01:21:18,"Micron Pulls An Nvidia? Stock Plunges Premarket Despite Stellar Report, Soaring U.S.-Iran Tensions Drag Chip Stocks - Stocktwits",NVDA,Google RSS,negative,-0.923568069934845
+2026-03-19 13:10:00,Micron Earnings Were Exceptional. Why the Stock Is Falling Anyway.,NVDA,Yahoo RSS,negative,-0.6772356629371643
+2026-03-19 14:10:00,Is Tesla Stock Headed for a Fall? AI Hype Is Masking 2 Years of Falling EV Sales. - Barron's,TSLA,Google RSS,negative,-0.950796365737915
+2026-03-19 13:01:00,Is Tesla Stock Headed for a Fall? AI Hype Is Masking Two Years of Falling EV Sales.,TSLA,Yahoo RSS,negative,-0.9662060737609863
+2026-03-19 14:10:35,Meta Platforms Stock Forecast: Trending Strong Buy by Analysts - TipRanks,META,Google RSS,positive,0.7096743583679199
