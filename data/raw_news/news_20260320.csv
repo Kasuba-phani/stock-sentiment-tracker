@@ -35,3 +35,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-15 08:45:00,Top 2 Retail Growth Stocks to Buy After Amazon's Latest Sell-Off,AMZN,Bing RSS,positive,0.8450466990470886
 2026-03-20 10:25:00,Major Investors Are Buying Up Shares of MP Materials. Here's Why the Industrial Stock Could Soar in 2026 and Beyond.,NVDA,Yahoo RSS,neutral,0.0
 2026-03-19 02:25:00,"Stock Market Today (LIVE): Stocks Buck Rising Oil Prices, Tesla Locks In on the Grid",TSLA,Bing RSS,positive,0.7890666127204895
+2026-03-20 12:57:55,"Steward Partners exec: Nvidia earnings staggering, but nervous investors hold stock back",MSFT,Yahoo RSS,negative,-0.497233122587204
+2026-03-20 12:00:00,Rezolve Ai and Microsoft to Spotlight the Rise of Agentic Commerce at the 38th Annual Roth Conference,MSFT,Yahoo RSS,positive,0.6002351641654968
+2026-03-20 12:57:55,"Steward Partners exec: Nvidia earnings staggering, but nervous investors hold stock back - 24/7 Wall St.",NVDA,Google RSS,negative,-0.5291112661361694
+2026-03-20 04:56:00,Nvidia (NVDA) Stock Stalls Despite $1 Trillion Revenue Projection and Strong Earnings,NVDA,Bing RSS,negative,-0.9478875994682312
+2026-03-20 12:57:55,"Steward Partners exec: Nvidia earnings staggering, but nervous investors hold stock back",NVDA,Yahoo RSS,negative,-0.497233122587204
+2026-03-20 12:57:55,"Steward Partners exec: Nvidia earnings staggering, but nervous investors hold stock back",TSLA,Yahoo RSS,negative,-0.497233122587204
+2026-03-20 12:57:55,"Steward Partners exec: Nvidia earnings staggering, but nervous investors hold stock back",META,Yahoo RSS,negative,-0.497233122587204
