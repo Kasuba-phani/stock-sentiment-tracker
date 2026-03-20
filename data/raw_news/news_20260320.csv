@@ -65,3 +65,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-20 08:24:00,Tesla Faces the ‘Couch Problem’: Modern Physics Warns the Optimus Robot Will Fail and Send TSLA Stock Falling,TSLA,Bing RSS,negative,-0.8403787016868591
 2026-03-20 18:52:38,Coinbase Launches 24/7 Perpetual Futures Trading for Major U.S. Stocks and ETFs,TSLA,Yahoo RSS,neutral,0.0
 2026-03-20 18:52:38,Coinbase Launches 24/7 Perpetual Futures Trading for Major U.S. Stocks and ETFs,META,Yahoo RSS,neutral,0.0
+2026-03-20 20:15:34,"U.S. Stock Market indexes S&P 500, Dow Jones, Russell ​2000 hit record lows on Black Friday, Nvidia, Alpha - The Economic Times",GOOGL,Google RSS,negative,-0.7934691905975342
+2026-03-20 20:15:34,"U.S. Stock Market indexes S&P 500, Dow Jones, Russell ​2000 hit record lows on Black Friday, Nvidia, Alpha - The Economic Times",MSFT,Google RSS,negative,-0.7934691905975342
+2026-03-20 20:29:39,"Dow Jones Breaks Lower As Oil Prices, Yields Soar; Trump Says Iran War End Not 'Acceptable'",NVDA,Yahoo RSS,negative,-0.8408457040786743
+2026-03-20 19:38:27,These 5 Mining Stocks Are Tumbling on the Fear That the Federal Reserve May Delay Interest Rate Cuts,NVDA,Yahoo RSS,negative,-0.9569271206855774
+2026-03-20 20:29:39,"Dow Jones Breaks Lower As Oil Prices, Yields Soar; Trump Says Iran War End Not 'Acceptable'",TSLA,Yahoo RSS,negative,-0.8408457040786743
