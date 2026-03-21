@@ -1,6 +1,6 @@
 date,headline,ticker,source,sentiment_label,compound
 2026-03-17 11:24:40,Apple stock price forecast for 2040: Long-horizon outlook builds near $800 as ecosystem expansion drives growth - Traders Union,AAPL,Google RSS,positive,0.8934991955757141
-2026-03-19 18:28:10,Apple stock price slips toward $248 as Fed outlook keeps pressure on tech - Traders Union,AAPL,Google RSS,negative,-0.9565252661705017
+2026-03-19 18:28:10,Apple stock price slips toward $248 as Fed outlook keeps pressure on tech - Traders Union,AAPL,Google RSS,negative,-0.9565252661705016
 2026-03-20 18:52:38,Coinbase Launches 24/7 Perpetual Futures Trading for Major U.S. Stocks and ETFs,AAPL,Yahoo RSS,neutral,0.0
 2026-03-20 20:15:34,"U.S. Stock Market indexes S&P 500, Dow Jones, Russell ​2000 hit record lows on Black Friday, Nvidia, Alpha - The Economic Times",GOOGL,Google RSS,negative,-0.7934705018997192
 2026-03-20 18:52:38,Coinbase Launches 24/7 Perpetual Futures Trading for Major U.S. Stocks and ETFs,GOOGL,Yahoo RSS,neutral,0.0
@@ -27,6 +27,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-16 09:23:26,Meta stock gains on report of possible 20% workforce cuts to offset AI costs - Investing.com,META,Google RSS,negative,-0.8186582922935486
 2026-03-20 18:52:38,Coinbase Launches 24/7 Perpetual Futures Trading for Major U.S. Stocks and ETFs,META,Yahoo RSS,neutral,0.0
 2026-03-20 12:57:55,"Steward Partners exec: Nvidia earnings staggering, but nervous investors hold stock back",META,Yahoo RSS,negative,-0.4972318112850189
-2026-03-19 16:42:10,Netflix stock drops 3.06% as technical signals remain mixed and sentiment weakens - Traders Union,NFLX,Google RSS,negative,-0.9677194356918335
+2026-03-19 16:42:10,Netflix stock drops 3.06% as technical signals remain mixed and sentiment weakens - Traders Union,NFLX,Google RSS,negative,-0.9677194356918336
 2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",NVDA,CNBC Finance,neutral,0.0
 2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",META,CNBC Finance,neutral,0.0
+2026-03-20 19:31:03,"Top Stock Reports for NVIDIA, Caterpillar & KLA - Zacks Investment Research",NVDA,Google RSS,neutral,0.0
+2026-03-20 01:33:23,Is Tesla stock headed for a fall? AI hype is masking 2 years of falling EV sales. - MSN,TSLA,Google RSS,negative,-0.9566545486450195
