@@ -9,6 +9,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-20 04:56:00,Nvidia (NVDA) Stock Stalls Despite $1 Trillion Revenue Projection and Strong Earnings,NVDA,Bing RSS,negative,-0.9478875994682312
 2026-03-19 20:23:00,Is Tesla Stock Headed for a Fall? AI Hype Is Masking 2 Years of Falling EV Sales. - Barron's,TSLA,Google RSS,negative,-0.950796365737915
 2026-03-16 11:50:19,Meta shares jump after Reuters report on plans for layoffs of 20% or more - Reuters,META,Google RSS,negative,-0.9245667457580566
-2026-03-19 16:42:10,Netflix stock drops 3.06% as technical signals remain mixed and sentiment weakens - Traders Union,NFLX,Google RSS,negative,-0.9677194356918335
+2026-03-19 16:42:10,Netflix stock drops 3.06% as technical signals remain mixed and sentiment weakens - Traders Union,NFLX,Google RSS,negative,-0.9677194356918336
 2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",NVDA,CNBC Finance,neutral,0.0
 2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",META,CNBC Finance,neutral,0.0
+2026-03-22 04:20:00,"Prediction: While Big Tech Grabs Headlines, These Small AI Stocks Could Outperform",NVDA,Yahoo RSS,positive,0.6314679980278015
+2026-03-22 04:20:00,"Prediction: While Big Tech Grabs Headlines, These Small AI Stocks Could Outperform",META,Yahoo RSS,positive,0.6314679980278015
