@@ -27,3 +27,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-22 09:35:00,2 Magnificent S&P 500 Dividend Stocks Down as Much as 25% to Buy and Hold Forever,NVDA,Yahoo RSS,negative,-0.9683651328086852
 2026-03-16 09:23:26,Meta stock gains on report of possible 20% workforce cuts to offset AI costs - Investing.com,META,Google RSS,negative,-0.8186582922935486
 2026-03-20 12:57:55,"Steward Partners exec: Nvidia earnings staggering, but nervous investors hold stock back - 24/7 Wall St.",NVDA,Google RSS,negative,-0.5291112661361694
+2026-03-19 22:04:28,Evercore ISI reiterates Amazon stock rating on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-03-22 11:29:04,Top Wall Street analysts are confident about the long-term prospects of these 3 stocks - CNBC,NFLX,Google RSS,neutral,0.0
