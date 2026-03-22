@@ -1,0 +1,14 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-03-20 18:52:38,Coinbase Launches 24/7 Perpetual Futures Trading for Major U.S. Stocks and ETFs,AAPL,Yahoo RSS,neutral,0.0
+2026-03-20 20:15:34,"U.S. Stock Market indexes S&P 500, Dow Jones, Russell ​2000 hit record lows on Black Friday, Nvidia, Alpha - The Economic Times",GOOGL,Google RSS,negative,-0.7934691905975342
+2026-03-21 09:09:19,Investment Research Partners LLC Invests $6.58 Million in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,neutral,0.0
+2026-03-20 18:14:00,"Stock Market Tumbles On Oil Prices, Surging Yields; Nvidia, Micron Upbeat: Weekly Review - Investor's Business Daily",NVDA,Google RSS,negative,-0.5282558798789978
+2026-03-21 07:05:00,Top 2 AI Growth Stocks to Buy After Nvidia's Latest Sell-Off - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-03-18 14:18:47,Nvidia Stock Forecast: Trending Strong Buy Among Analysts - TipRanks,NVDA,Google RSS,positive,0.9397191405296326
+2026-03-21 07:10:39,Top Analysts See Solid Upside in Nvidia Stock (NVDA) after GTC Event - TipRanks,NVDA,Google RSS,positive,0.9371322393417358
+2026-03-20 04:56:00,Nvidia (NVDA) Stock Stalls Despite $1 Trillion Revenue Projection and Strong Earnings,NVDA,Bing RSS,negative,-0.9478875994682312
+2026-03-19 20:23:00,Is Tesla Stock Headed for a Fall? AI Hype Is Masking 2 Years of Falling EV Sales. - Barron's,TSLA,Google RSS,negative,-0.950796365737915
+2026-03-16 11:50:19,Meta shares jump after Reuters report on plans for layoffs of 20% or more - Reuters,META,Google RSS,negative,-0.9245667457580566
+2026-03-19 16:42:10,Netflix stock drops 3.06% as technical signals remain mixed and sentiment weakens - Traders Union,NFLX,Google RSS,negative,-0.9677194356918335
+2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",NVDA,CNBC Finance,neutral,0.0
+2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",META,CNBC Finance,neutral,0.0
