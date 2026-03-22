@@ -14,3 +14,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-16 16:27:04,"Stocks making the biggest moves midday: Nvidia, Peloton, Meta, Dollar Tree & more",META,CNBC Finance,neutral,0.0
 2026-03-22 04:20:00,"Prediction: While Big Tech Grabs Headlines, These Small AI Stocks Could Outperform",NVDA,Yahoo RSS,positive,0.6314679980278015
 2026-03-22 04:20:00,"Prediction: While Big Tech Grabs Headlines, These Small AI Stocks Could Outperform",META,Yahoo RSS,positive,0.6314679980278015
+2026-03-21 07:09:39,S&P 500 Stocks Trading At 52-Week High - Trefis,AAPL,Google RSS,positive,0.538077712059021
+2026-03-20 19:31:03,"Top Stock Reports for NVIDIA, Caterpillar & KLA - Zacks Investment Research",NVDA,Google RSS,neutral,0.0
+2026-03-20 15:24:01,Tesla Faces the ‘Couch Problem’: Modern Physics Warns the Optimus Robot Will Fail and Send TSLA Stock Falling - Barchart,TSLA,Google RSS,negative,-0.7460662722587585
