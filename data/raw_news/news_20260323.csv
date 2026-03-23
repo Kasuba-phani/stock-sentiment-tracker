@@ -36,5 +36,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-23 14:36:17,Microsoft stock price forecast: Sideways trading likely as MSFT faces strong resistance - Traders Union,MSFT,Google RSS,negative,-0.6695982813835144
 2026-03-23 14:11:12,Microsoft stock edges higher as U.S. federal officials scrutinize cloud breach - Traders Union,MSFT,Google RSS,positive,0.5375555157661438
 2026-03-23 13:25:59,"Long-time Tesla bull flips to sell, sees stock plunging to $150 amid AI concerns - Investing.com",TSLA,Google RSS,negative,-0.9439212083816528
-2026-03-23 13:24:43,"Tesla, Inc. stock drops sharply after Terafab launch amid capex fears and macro pressures - AD HOC NEWS",TSLA,Google RSS,negative,-0.9714415669441223
+2026-03-23 13:24:43,"Tesla, Inc. stock drops sharply after Terafab launch amid capex fears and macro pressures - AD HOC NEWS",TSLA,Google RSS,negative,-0.9714415669441224
 2026-03-23 07:46:00,"Long-time Tesla bull flips to sell, sees stock plunging to $150 amid AI concerns",TSLA,Bing RSS,negative,-0.9662858843803406
+2026-03-23 14:59:50,"Apple stock surges as iPhone demand, Mac sales lift outlook - TradingView",AAPL,Google RSS,positive,0.9191153645515442
+2026-03-23 15:40:19,"‘Don’t Buy the Dip,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-03-23 15:24:52,Investor Fear Just Got “Extreme.” These Oversold Stocks Might Be Due for a Sharp Rebound,MSFT,Yahoo RSS,negative,-0.7897749543190002
+2026-03-23 16:02:00,AI Inference Software Innovator Gimlet Labs Ushers in New Era of Breakthrough AI Performance for Frontier Labs and Leading AI Companies With $80 Million in Series A Funding Led by Menlo Ventures,NVDA,Yahoo RSS,positive,0.8508084416389465
+2026-03-23 14:59:12,"Tesla stock: Persistent selling, chip factory news drive short-term rally - Traders Union",TSLA,Google RSS,neutral,0.0
+2026-03-23 15:45:00,Tesla Shares Edge Higher Amid $25B Terafab Semiconductor Push - Analytics Insight,TSLA,Google RSS,positive,0.9504151940345764
