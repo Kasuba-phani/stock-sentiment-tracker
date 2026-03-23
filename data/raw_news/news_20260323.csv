@@ -44,8 +44,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-23 16:02:00,AI Inference Software Innovator Gimlet Labs Ushers in New Era of Breakthrough AI Performance for Frontier Labs and Leading AI Companies With $80 Million in Series A Funding Led by Menlo Ventures,NVDA,Yahoo RSS,positive,0.8508084416389465
 2026-03-23 14:59:12,"Tesla stock: Persistent selling, chip factory news drive short-term rally - Traders Union",TSLA,Google RSS,neutral,0.0
 2026-03-23 15:45:00,Tesla Shares Edge Higher Amid $25B Terafab Semiconductor Push - Analytics Insight,TSLA,Google RSS,positive,0.9504151940345764
-2026-03-23 17:24:28,Apple Inc. stock faces rare 2026 downturn amid analyst upgrades and iPhone growth forecasts - ad-hoc-news.de,AAPL,Google RSS,negative,-0.9252007007598877
+2026-03-23 17:24:28,Apple Inc. stock faces rare 2026 downturn amid analyst upgrades and iPhone growth forecasts - ad-hoc-news.de,AAPL,Google RSS,negative,-0.9252007007598876
 2026-03-23 17:43:48,An Activist Investor Is Taking an Interest in This Nvidia Partner. Its Stock Is Rising. - Investopedia,NVDA,Google RSS,positive,0.6077538132667542
 2026-03-23 10:05:00,"Big Tech stocks broadly rise, with Tesla, Amazon.com leading the 'Magnificent Seven' - MarketWatch",TSLA,Google RSS,positive,0.8235481381416321
 2026-03-23 13:24:43,"Tesla, Inc. stock drops sharply after Terafab launch amid capex fears and macro pressures - ad-hoc-news.de",TSLA,Google RSS,negative,-0.9723204374313354
 2026-03-23 12:19:54,"Meta Platforms, Inc. stock faces valuation scrutiny amid cooling momentum on NASDAQ - ad-hoc-news.de",META,Google RSS,negative,-0.9507638812065125
+2026-03-17 11:24:40,Apple stock price forecast for 2040: Long-horizon outlook builds near $800 as ecosystem expansion drives growth - Traders Union,AAPL,Google RSS,positive,0.8934990763664246
+2026-03-23 08:02:00,"Apple stock surges as iPhone demand, Mac sales lift outlook",AAPL,Bing RSS,positive,0.9175870418548584
+2026-03-23 09:58:17,Alphabet stock forecast: Can GOOGL deliver nearly 40% gains in 12 months?,GOOGL,Bing RSS,positive,0.85589200258255
+2026-03-23 17:43:48,An Activist Investor Is Taking an Interest in This Nvidia Partner. Its Stock Is Rising.,NVDA,Yahoo RSS,positive,0.9021449089050293
