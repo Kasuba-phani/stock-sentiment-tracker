@@ -25,3 +25,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-19 10:43:10,Massive Meta Platforms layoffs could be coming. Why did META stock gain on the news?,META,Bing RSS,negative,-0.9199472665786744
 2026-03-16 07:01:00,"Nvidia's stock price is 'entirely out of sync' with its growth outlook, analyst says",NVDA,Bing RSS,negative,-0.9258983731269836
 2026-03-23 08:44:00,"Mark Zuckerberg Developing Personal AI Agent As Meta Pushes Efficiency, AI-Driven Workflows: Report - Benzinga",META,Google RSS,neutral,0.0
+2026-03-23 12:13:57,William Blair downgrades Avepoint stock rating on Microsoft seat growth concerns - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-03-23 12:19:54,"Meta Platforms, Inc. stock faces valuation scrutiny amid cooling momentum on NASDAQ - AD HOC NEWS",META,Google RSS,negative,-0.960104763507843
+2026-03-16 08:38:00,Meta stock rises. Wall Street sees layoffs report as 'broader shift' in AI narrative,META,Bing RSS,negative,-0.9377358555793762
+2026-03-23 13:02:55,Meta's AI Push Gets Personal At The Top,META,Yahoo RSS,neutral,0.0
