@@ -21,3 +21,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-23 18:29:00,Financial Advisors Are Turning Entire Client Portfolios Into ETFs. What’s Behind the Trend.,TSLA,Yahoo RSS,neutral,0.0
 2026-03-23 13:02:55,Meta's AI Push Gets Personal At The Top,META,Yahoo RSS,neutral,0.0
 2026-03-22 11:29:04,Top Wall Street analysts are confident about the long-term prospects of these 3 stocks - CNBC,NFLX,Google RSS,neutral,0.0
+2026-03-23 15:40:19,"‘Don’t Buy the Dip,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-03-21 09:09:19,Investment Research Partners LLC Invests $6.58 Million in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,neutral,0.0
+2026-03-24 05:01:29,"European car sales rise modestly in February, Tesla reverses year-long skid",TSLA,Yahoo RSS,positive,0.9087074398994446
