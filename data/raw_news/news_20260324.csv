@@ -1,0 +1,23 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-03-23 15:02:16,"Apple stock surges as iPhone demand, Mac sales lift outlook - Invezz",AAPL,Google RSS,positive,0.9213720560073853
+2026-03-23 20:37:22,"Apple (AAPL) Sees Strong iPhone Demand, Potential Growth with Fo - GuruFocus",AAPL,Google RSS,positive,0.9428656697273254
+2026-03-23 14:50:07,Morgan Stanley survey shows record upgrade interest for Apple’s iPhones,AAPL,Yahoo RSS,positive,0.94973224401474
+2026-03-23 19:18:14,Alphabet stock price holds near $300 as oil retreat steadies big tech - Traders Union,GOOGL,Google RSS,negative,-0.5219173431396484
+2026-03-23 09:58:17,Alphabet stock forecast: Can GOOGL deliver nearly 40% gains in 12 months?,GOOGL,Bing RSS,positive,0.85589200258255
+2026-03-23 19:49:47,“Strong Buy Case”: Top Barclays Analyst Sees Strong AWS Momentum Driving Amazon Stock (AMZN) Toward $300 - TipRanks,AMZN,Google RSS,positive,0.9481120109558105
+2026-03-23 14:23:14,+3.29% for Amazon stock as intraday volatility highlights mixed technical signals - Traders Union,AMZN,Google RSS,negative,-0.6567230224609375
+2026-03-23 14:36:17,Microsoft stock price forecast: Sideways trading likely as MSFT faces strong resistance - Traders Union,MSFT,Google RSS,negative,-0.6695989370346069
+2026-03-23 14:11:12,Microsoft stock edges higher as U.S. federal officials scrutinize cloud breach - Traders Union,MSFT,Google RSS,positive,0.5375547409057617
+2026-03-23 12:13:57,William Blair downgrades Avepoint stock rating on Microsoft seat growth concerns - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-03-23 17:37:00,"Microsoft stock today: Latest price, trends, and key drivers",MSFT,Bing RSS,neutral,0.0
+2026-03-23 15:24:52,Investor Fear Just Got “Extreme.” These Oversold Stocks Might Be Due for a Sharp Rebound,MSFT,Yahoo RSS,negative,-0.7897749543190002
+2026-03-23 17:43:48,An Activist Investor Is Taking an Interest in This Nvidia Partner. Its Stock Is Rising. - Investopedia,NVDA,Google RSS,positive,0.6077538132667542
+2026-03-20 18:14:00,"Stock Market Tumbles On Oil Prices, Surging Yields; Nvidia, Micron Upbeat: Weekly Review - Investor's Business Daily",NVDA,Google RSS,negative,-0.5282558798789978
+2026-03-21 07:05:00,Top 2 AI Growth Stocks to Buy After Nvidia's Latest Sell-Off - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-03-23 13:25:59,"Long-time Tesla bull flips to sell, sees stock plunging to $150 amid AI concerns - Investing.com",TSLA,Google RSS,negative,-0.9439210891723633
+2026-03-23 14:59:12,"Tesla stock: Persistent selling, chip factory news drive short-term rally - Traders Union",TSLA,Google RSS,neutral,0.0
+2026-03-23 15:45:00,Tesla Shares Edge Higher Amid $25B Terafab Semiconductor Push - Analytics Insight,TSLA,Google RSS,positive,0.9504151940345764
+2026-03-23 06:40:00,"Long-time Tesla bull flips to sell, sees stock plunging to $150 amid AI concerns",TSLA,Bing RSS,negative,-0.966285765171051
+2026-03-23 18:29:00,Financial Advisors Are Turning Entire Client Portfolios Into ETFs. What’s Behind the Trend.,TSLA,Yahoo RSS,neutral,0.0
+2026-03-23 13:02:55,Meta's AI Push Gets Personal At The Top,META,Yahoo RSS,neutral,0.0
+2026-03-22 11:29:04,Top Wall Street analysts are confident about the long-term prospects of these 3 stocks - CNBC,NFLX,Google RSS,neutral,0.0
