@@ -31,3 +31,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-25 03:40:30,Alphabet Inc. (Class C) stock faces AI competition pressures amid cloud growth slowdown in Q1 2026 - AD HOC NEWS,GOOGL,Google RSS,negative,-0.8912014961242676
 2026-03-19 20:23:00,Is Tesla Stock Headed for a Fall? AI Hype Is Masking 2 Years of Falling EV Sales. - Barron's,TSLA,Google RSS,negative,-0.950796365737915
 2026-03-25 07:42:00,Microsoft Stock's 200-Day DMA Gap Is Widest Since 2008 Financial Crisis — And Retail Sees ‘Generational’ Opportunity - Stocktwits,MSFT,Google RSS,neutral,0.0
+2026-03-23 13:43:00,An Activist Investor Is Taking an Interest in This Nvidia Partner. Its Stock Is Rising.,NVDA,Bing RSS,positive,0.9021449089050293
+2026-03-25 08:05:00,The Fed Is Worried About Trump-Fueled Inflation. Are Your Stocks Safe?,NVDA,Yahoo RSS,neutral,0.0
