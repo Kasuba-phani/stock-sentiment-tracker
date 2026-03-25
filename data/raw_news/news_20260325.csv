@@ -55,3 +55,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-25 15:30:00,Forget the AI Sell-Off: These 2 Artificial Intelligence (AI) Stocks Are Actually Getting Cheaper While Their Businesses Get Stronger,META,Yahoo RSS,positive,0.5838696360588074
 2026-03-25 16:12:00,Nvidia’s stock is cheaper than Exxon’s. Are investors ditching tech for energy?,NVDA,MarketWatch Top,neutral,0.0
 2026-03-24 09:39:00,Why Microsoft stock crashes today? MSFT stock falls 2.75% – Why BofA still gives a Buy signal despite AI spending fears,MSFT,Bing RSS,negative,-0.5853804349899292
+2026-03-25 14:13:33,Apple stock price steadies near $252 as softer yields temper rate pressure - Traders Union,AAPL,Google RSS,negative,-0.8214401602745056
+2026-03-25 20:30:00,"[Latest] Global Sleep Tech Devices Market Size/Share Worth USD 134.60 Billion by 2035 at a 18.46% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",AAPL,Yahoo RSS,neutral,0.0
+2026-03-25 20:30:00,"[Latest] Global Sleep Tech Devices Market Size/Share Worth USD 134.60 Billion by 2035 at a 18.46% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",GOOGL,Yahoo RSS,neutral,0.0
+2026-03-25 19:46:10,"Today's Market: Dow jumps 250 points, Nasdaq Rises Nearly 1% as U.S. plan to end Iran war",NVDA,Yahoo RSS,positive,0.8669816851615906
+2026-03-25 19:46:22,Meta Wants To Bring AI To Small Businesses,META,Yahoo RSS,neutral,0.0
