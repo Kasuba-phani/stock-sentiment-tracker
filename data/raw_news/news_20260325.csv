@@ -1,12 +1,12 @@
 date,headline,ticker,source,sentiment_label,compound
-2026-03-24 18:30:44,Apple's iPhone set to gain share in 2026 amid broader market declines,AAPL,Yahoo RSS,positive,0.9353790879249573
+2026-03-24 18:30:44,Apple's iPhone set to gain share in 2026 amid broader market declines,AAPL,Yahoo RSS,positive,0.9353790879249572
 2026-03-24 19:49:27,Alphabet stock price tests $290 as oil rebound pressures big tech - Traders Union,GOOGL,Google RSS,negative,-0.8712205290794373
 2026-03-23 19:18:14,Alphabet stock price holds near $300 as oil retreat steadies big tech - Traders Union,GOOGL,Google RSS,negative,-0.5219173431396484
 2026-03-24 20:13:36,3 Artificial Intelligence (AI) Stocks That Look Like Strong Buys Heading Into April - AOL.com,GOOGL,Google RSS,neutral,0.0
-2026-03-24 21:22:00,Alphabet Inc. (Class C) stock slides over 1.5% amid tech sector pressure and geopolitical tensions o - AD HOC NEWS,GOOGL,Google RSS,negative,-0.9598754644393921
+2026-03-24 21:22:00,Alphabet Inc. (Class C) stock slides over 1.5% amid tech sector pressure and geopolitical tensions o - AD HOC NEWS,GOOGL,Google RSS,negative,-0.959875464439392
 2026-03-23 09:58:17,Alphabet stock forecast: Can GOOGL deliver nearly 40% gains in 12 months?,GOOGL,Bing RSS,positive,0.85589200258255
 2026-03-24 20:02:00,3 Artificial Intelligence (AI) Stocks That Look Like Strong Buys Heading Into April,GOOGL,Yahoo RSS,positive,0.8304708003997803
-2026-03-23 19:49:47,“Strong Buy Case”: Top Barclays Analyst Sees Strong AWS Momentum Driving Amazon Stock (AMZN) Toward $300 - TipRanks,AMZN,Google RSS,positive,0.9481120109558105
+2026-03-23 19:49:47,“Strong Buy Case”: Top Barclays Analyst Sees Strong AWS Momentum Driving Amazon Stock (AMZN) Toward $300 - TipRanks,AMZN,Google RSS,positive,0.9481120109558104
 2026-03-24 16:36:14,Why Microsoft stock crashes today? MSFT stock falls 2.75% – Why BofA still gives a Buy signal despite AI s - The Economic Times,MSFT,Google RSS,negative,-0.6682337522506714
 2026-03-24 15:11:33,"Is the AI boom losing momentum? Microsoft down 33%, echoing the 2022 selloff - XTB.com",MSFT,Google RSS,negative,-0.9674068093299866
 2026-03-23 15:40:19,"‘Don’t Buy the Dip,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
@@ -19,10 +19,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-24 04:35:00,2 Dow Jones Stocks to Research Further and 1 We Find Risky - The Globe and Mail,MSFT,Google RSS,neutral,0.0
 2026-03-21 07:05:00,Top 2 AI Growth Stocks to Buy After Nvidia's Latest Sell-Off - The Motley Fool,NVDA,Google RSS,neutral,0.0
 2026-03-23 17:43:48,An Activist Investor Is Taking an Interest in This Nvidia Partner. Its Stock Is Rising. - Investopedia,NVDA,Google RSS,positive,0.6077538132667542
-2026-03-23 13:25:59,"Long-time Tesla bull flips to sell, sees stock plunging to $150 amid AI concerns - Investing.com",TSLA,Google RSS,negative,-0.9439210891723633
+2026-03-23 13:25:59,"Long-time Tesla bull flips to sell, sees stock plunging to $150 amid AI concerns - Investing.com",TSLA,Google RSS,negative,-0.9439210891723632
 2026-03-23 14:59:12,"Tesla stock: Persistent selling, chip factory news drive short-term rally - Traders Union",TSLA,Google RSS,neutral,0.0
 2026-03-23 06:40:00,"Long-time Tesla bull flips to sell, sees stock plunging to $150 amid AI concerns",TSLA,Bing RSS,negative,-0.966285765171051
 2026-03-24 14:42:59,"Tesla's Euro sales rebound, Jefferies stock rises on SMFG reports",TSLA,Yahoo RSS,positive,0.8958076238632202
 2026-03-24 14:29:24,-1.85% for Meta stock as technical signals point to further downside - Traders Union,META,Google RSS,negative,-0.9155781865119934
 2026-03-22 11:29:04,Top Wall Street analysts are confident about the long-term prospects of these 3 stocks - CNBC,NFLX,Google RSS,neutral,0.0
 2026-03-24 04:44:03,Netflix (NFLX) Rated Outperform on Strong Margin Growth,NFLX,Bing RSS,positive,0.955642819404602
+2026-03-23 15:02:16,"Apple stock surges as iPhone demand, Mac sales lift outlook - Invezz",AAPL,Google RSS,positive,0.9213720560073853
+2026-03-24 20:42:00,3 Artificial Intelligence (AI) Stocks That Look Like Strong Buys Heading Into April - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-03-25 03:40:30,Alphabet Inc. (Class C) stock faces AI competition pressures amid cloud growth slowdown in Q1 2026 - AD HOC NEWS,GOOGL,Google RSS,negative,-0.8912014961242676
