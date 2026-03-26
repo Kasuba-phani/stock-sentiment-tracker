@@ -48,3 +48,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-26 07:48:54,Everpar Advisors LLC Has $12.29 Million Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,neutral,0.0
 2026-03-26 03:31:00,Automobile Manufacturing Stocks Q4 Results: Benchmarking Tesla (NASDAQ:TSLA) - TradingView,TSLA,Google RSS,neutral,0.0
 2026-03-26 08:40:19,Automobile Manufacturing Stocks Q4 Results: Benchmarking Tesla (NASDAQ:TSLA),TSLA,Yahoo RSS,neutral,0.0
+2026-03-26 10:30:44,How 4 Dividend Growth ETFs Beat Inflation While the Fed Keeps Cutting Rates,AAPL,Yahoo RSS,positive,0.8587011694908142
+2026-03-26 09:33:45,Microsoft Corporation $MSFT Stock Position Lessened by VERITY Wealth Advisors - MarketBeat,MSFT,Google RSS,negative,-0.8881810307502747
+2026-03-26 09:55:46,Microsoft Corporation $MSFT Shares Bought by Procyon Advisors LLC - MarketBeat,MSFT,Google RSS,neutral,0.0
+2026-03-26 10:30:44,How 4 Dividend Growth ETFs Beat Inflation While the Fed Keeps Cutting Rates,MSFT,Yahoo RSS,positive,0.8587011694908142
+2026-03-26 10:30:44,How 4 Dividend Growth ETFs Beat Inflation While the Fed Keeps Cutting Rates,NVDA,Yahoo RSS,positive,0.8587011694908142
+2026-03-26 10:49:45,"Dow Jones Futures Fall, Oil Prices Rise; Trump Warns Iran To 'Get Serious Before It Is Too Late'",TSLA,Yahoo RSS,negative,-0.9058923125267029
