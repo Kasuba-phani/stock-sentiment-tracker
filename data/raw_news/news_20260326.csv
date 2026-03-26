@@ -82,9 +82,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-26 20:00:17,Meta And Reddit Stocks Are Slumping Despite Strong Digital Ad Growth. Here's Why.,META,Yahoo RSS,negative,-0.9474321603775024
 2026-03-26 20:04:10,Major League Baseball Event Gives Netflix Stock (NASDAQ:NFLX) a Small Boost - TipRanks,NFLX,Google RSS,positive,0.8669716715812683
 2026-03-25 11:40:59,Why Alphabet  (GOOGL) Became the Largest Contributor to Renaissance Investment on Strong AI and Cloud Growth,GOOGL,Yahoo Global,positive,0.8024129271507263
-2026-03-26 21:15:40,Apple stock price retreats toward $253 as rising yields pressure big tech - Traders Union,AAPL,Google RSS,negative,-0.9616643786430359
+2026-03-26 21:15:40,Apple stock price retreats toward $253 as rising yields pressure big tech - Traders Union,AAPL,Google RSS,negative,-0.961664378643036
 2026-03-26 20:57:12,Alphabet stock price retreats toward $281 as Nasdaq enters correction - Traders Union,GOOGL,Google RSS,negative,-0.9627225399017334
-2026-03-26 21:13:09,"NY Stock Market Highlights: Sell-offs in memory-related stocks, energy remains strong, hair care sector surges (26th). - Moomoo",GOOGL,Google RSS,positive,0.9106907844543457
+2026-03-26 21:13:09,"NY Stock Market Highlights: Sell-offs in memory-related stocks, energy remains strong, hair care sector surges (26th). - Moomoo",GOOGL,Google RSS,positive,0.9106907844543456
 2026-03-26 21:35:03,"Dow Jones Futures: Stock Market Dives, Oil Prices Jump On 'Serious' Trump; Meta, These Titans Breaking Down",GOOGL,Yahoo RSS,negative,-0.6973986029624939
 2026-03-26 20:48:57,"Stock market today: Dow, S&P 500 sink, Nasdaq enters correction territory as oil spikes amid Iran war",GOOGL,Yahoo RSS,negative,-0.6358858346939087
 2026-03-26 21:35:03,"Dow Jones Futures: Stock Market Dives, Oil Prices Jump On 'Serious' Trump; Meta, These Titans Breaking Down",MSFT,Yahoo RSS,negative,-0.6973986029624939
@@ -94,3 +94,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-26 21:02:11,"Dow Jones Futures: Stock Market Dives, Oil Prices Jump On 'Serious' Trump; Meta, These Titans Breaking Down - Investor's Business Daily",META,Google RSS,negative,-0.5344130396842957
 2026-03-26 21:35:03,"Dow Jones Futures: Stock Market Dives, Oil Prices Jump On 'Serious' Trump; Meta, These Titans Breaking Down",META,Yahoo RSS,negative,-0.6973986029624939
 2026-03-26 20:48:57,"Stock market today: Dow, S&P 500 sink, Nasdaq enters correction territory as oil spikes amid Iran war",META,Yahoo RSS,negative,-0.6358858346939087
+2026-03-23 07:59:50,"Apple stock surges as iPhone demand, Mac sales lift outlook",AAPL,Bing RSS,positive,0.9175870418548584
+2026-03-26 22:03:00,Morgan Stanley resets Alphabet stock forecast on Waymo growth - thestreet.com,GOOGL,Google RSS,neutral,0.0
+2026-03-26 21:44:21,"Magnachip, Allegro MicroSystems, and Penguin Solutions Shares Are Falling, What You Need To Know",GOOGL,Yahoo RSS,negative,-0.5467363595962524
+2026-03-25 15:10:25,Microsoft (MSFT) Declines Amid Investor Concerns Over Guidance and Capital Expenditure Intensity,MSFT,Yahoo Global,negative,-0.9726419448852539
