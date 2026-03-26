@@ -59,3 +59,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-25 09:30:00,"Microsoft strives to rally off 11-month trough, and other early market movers - MarketWatch",MSFT,Google RSS,positive,0.8696715235710144
 2026-03-26 04:38:48,Small Cap Stocks Trading At 52-Week High - Trefis,TSLA,Google RSS,positive,0.5745680332183838
 2026-03-26 04:51:18,"Stocks, Bonds, Gold, Crypto: Market Update 3/25/2026 - Trefis",TSLA,Google RSS,neutral,0.0
+2026-03-26 10:33:28,Stocks Plunge Before the Open as Oil Prices Climb on U.S.-Iran Talks Uncertainty,GOOGL,Yahoo RSS,negative,-0.9159165024757385
+2026-03-26 10:33:28,Stocks Plunge Before the Open as Oil Prices Climb on U.S.-Iran Talks Uncertainty,TSLA,Yahoo RSS,negative,-0.9159165024757385
+2026-03-26 10:33:28,Stocks Plunge Before the Open as Oil Prices Climb on U.S.-Iran Talks Uncertainty,META,Yahoo RSS,negative,-0.9159165024757385
