@@ -59,6 +59,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-25 09:30:00,"Microsoft strives to rally off 11-month trough, and other early market movers - MarketWatch",MSFT,Google RSS,positive,0.8696715235710144
 2026-03-26 04:38:48,Small Cap Stocks Trading At 52-Week High - Trefis,TSLA,Google RSS,positive,0.5745680332183838
 2026-03-26 04:51:18,"Stocks, Bonds, Gold, Crypto: Market Update 3/25/2026 - Trefis",TSLA,Google RSS,neutral,0.0
-2026-03-26 10:33:28,Stocks Plunge Before the Open as Oil Prices Climb on U.S.-Iran Talks Uncertainty,GOOGL,Yahoo RSS,negative,-0.9159165024757385
-2026-03-26 10:33:28,Stocks Plunge Before the Open as Oil Prices Climb on U.S.-Iran Talks Uncertainty,TSLA,Yahoo RSS,negative,-0.9159165024757385
-2026-03-26 10:33:28,Stocks Plunge Before the Open as Oil Prices Climb on U.S.-Iran Talks Uncertainty,META,Yahoo RSS,negative,-0.9159165024757385
+2026-03-26 10:33:28,Stocks Plunge Before the Open as Oil Prices Climb on U.S.-Iran Talks Uncertainty,GOOGL,Yahoo RSS,negative,-0.9159165024757384
+2026-03-26 10:33:28,Stocks Plunge Before the Open as Oil Prices Climb on U.S.-Iran Talks Uncertainty,TSLA,Yahoo RSS,negative,-0.9159165024757384
+2026-03-26 10:33:28,Stocks Plunge Before the Open as Oil Prices Climb on U.S.-Iran Talks Uncertainty,META,Yahoo RSS,negative,-0.9159165024757384
+2026-03-26 14:25:54,Negative momentum signals push Alphabet stock lower despite strong revenue and AI expansion - Traders Union,GOOGL,Google RSS,negative,-0.961292028427124
+2026-03-26 14:35:54,+0.26% for Microsoft stock as oversold conditions meet renewed AI focus - Traders Union,MSFT,Google RSS,positive,0.6864239573478699
+2026-03-26 14:19:53,Legal woes and weak technicals push Meta stock lower - Traders Union,META,Google RSS,negative,-0.9627923965454102
