@@ -97,4 +97,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-23 07:59:50,"Apple stock surges as iPhone demand, Mac sales lift outlook",AAPL,Bing RSS,positive,0.9175870418548584
 2026-03-26 22:03:00,Morgan Stanley resets Alphabet stock forecast on Waymo growth - thestreet.com,GOOGL,Google RSS,neutral,0.0
 2026-03-26 21:44:21,"Magnachip, Allegro MicroSystems, and Penguin Solutions Shares Are Falling, What You Need To Know",GOOGL,Yahoo RSS,negative,-0.5467363595962524
-2026-03-25 15:10:25,Microsoft (MSFT) Declines Amid Investor Concerns Over Guidance and Capital Expenditure Intensity,MSFT,Yahoo Global,negative,-0.9726419448852539
+2026-03-25 15:10:25,Microsoft (MSFT) Declines Amid Investor Concerns Over Guidance and Capital Expenditure Intensity,MSFT,Yahoo Global,negative,-0.972641944885254
+2026-03-26 17:11:26,"Dow drops nearly 350 points on losses for NVIDIA Corp., Caterpillar stocks - MSN",NVDA,Google RSS,negative,-0.9530478715896606
