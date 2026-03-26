@@ -1,0 +1,41 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-03-25 14:13:33,Apple stock price steadies near $252 as softer yields temper rate pressure - Traders Union,AAPL,Google RSS,negative,-0.8214401602745056
+2026-03-25 20:30:00,"[Latest] Global Sleep Tech Devices Market Size/Share Worth USD 134.60 Billion by 2035 at a 18.46% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",AAPL,Yahoo RSS,neutral,0.0
+2026-03-25 09:55:23,"Alphabet slides to lowest since November, nears bear market territory (GOOG:NASDAQ) - Seeking Alpha",GOOGL,Google RSS,negative,-0.9600031971931458
+2026-03-25 15:57:35,Why Alphabet (GOOGL) became the largest contributor to Renaissance Investment on strong AI and cloud growth - MSN,GOOGL,Google RSS,positive,0.7715294361114502
+2026-03-24 19:49:27,Alphabet stock price tests $290 as oil rebound pressures big tech - Traders Union,GOOGL,Google RSS,negative,-0.8712205290794373
+2026-03-26 01:10:22,Alphabet Inc. (Class A) stock faces pressure amid recent declines and unusual options activity on Na - AD HOC NEWS,GOOGL,Google RSS,negative,-0.9653388261795044
+2026-03-25 15:32:54,Strong Results and Improved Investor Sentiment Around AI Lifted Alphabet (GOOG) in Q4 - Insider Monkey,GOOGL,Google RSS,positive,0.9573694467544556
+2026-03-24 20:42:00,3 Artificial Intelligence (AI) Stocks That Look Like Strong Buys Heading Into April - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-03-23 09:58:17,Alphabet stock forecast: Can GOOGL deliver nearly 40% gains in 12 months?,GOOGL,Bing RSS,positive,0.85589200258255
+2026-03-25 08:27:18,Strong Results and Improved Investor Sentiment Around AI Lifted Alphabet (GOOG) in Q4,GOOGL,Bing RSS,positive,0.9572803974151611
+2026-03-25 20:30:00,"[Latest] Global Sleep Tech Devices Market Size/Share Worth USD 134.60 Billion by 2035 at a 18.46% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",GOOGL,Yahoo RSS,neutral,0.0
+2026-03-23 19:49:47,“Strong Buy Case”: Top Barclays Analyst Sees Strong AWS Momentum Driving Amazon Stock (AMZN) Toward $300 - TipRanks,AMZN,Google RSS,positive,0.9481120109558105
+2026-03-25 11:37:10,UBS lowers Microsoft stock price target on M365 concerns - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-03-25 14:04:25,Microsoft Stock Forecast: Trending Strong Buy on AI Boom - TipRanks,MSFT,Google RSS,positive,0.9436780214309692
+2026-03-25 14:41:07,Microsoft stock holds steady as oversold signals follow robust earnings jump - Traders Union,MSFT,Google RSS,positive,0.5839029550552368
+2026-03-23 15:40:19,"‘Don’t Buy the Dip,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-03-24 16:36:14,Why Microsoft stock crashes today? MSFT stock falls 2.75% – Why BofA still gives a Buy signal despite AI s - The Economic Times,MSFT,Google RSS,negative,-0.6682337522506714
+2026-03-24 15:11:33,"Is the AI boom losing momentum? Microsoft down 33%, echoing the 2022 selloff - XTB.com",MSFT,Google RSS,negative,-0.9674068093299866
+2026-03-25 22:34:21,"Trillions of dollars in market value wiped out! Copilot underperforms expectations, Microsoft (MSFT.US) stock posts worst performance since the 2008 financial crisis. - Moomoo",MSFT,Google RSS,negative,-0.9664278030395508
+2026-03-25 07:42:00,Microsoft Stock's 200-Day DMA Gap Is Widest Since 2008 Financial Crisis — And Retail Sees ‘Generational’ Opportunity - Stocktwits,MSFT,Google RSS,neutral,0.0
+2026-03-24 14:35:27,Microsoft stock price forecast: Downside risk persists as MSFT closes below $373 - Traders Union,MSFT,Google RSS,negative,-0.9225836992263794
+2026-03-24 18:03:05,Microsoft Stock Slips Despite BofA's Fresh Buy Call on Strong AI Outlook - GuruFocus,MSFT,Google RSS,negative,-0.925374448299408
+2026-03-24 16:43:15,Microsoft Stock Slips Despite BofA's Fresh Buy Call on Strong AI Outlook - TradingView,MSFT,Google RSS,negative,-0.9210196137428284
+2026-03-23 07:00:00,2 Dow Jones Stocks to Research Further and 1 We Find Risky - StockStory,MSFT,Google RSS,neutral,0.0
+2026-03-24 09:39:00,Why Microsoft stock crashes today? MSFT stock falls 2.75% – Why BofA still gives a Buy signal despite AI spending fears,MSFT,Bing RSS,negative,-0.5853804349899292
+2026-03-25 16:12:00,Nvidia’s stock is cheaper than Exxon’s. Are investors ditching tech for energy? - MarketWatch,NVDA,Google RSS,neutral,0.0
+2026-03-25 16:43:36,"“Nvidia Moment” for Micron Stock Could Be Closer Than You Think, Says Top Investor - TipRanks",NVDA,Google RSS,neutral,0.0
+2026-03-25 16:10:00,Forget the AI Sell-Off: These 2 Artificial Intelligence (AI) Stocks Are Actually Getting Cheaper While Their Businesses Get Stronger - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-03-25 14:52:57,"‘Don’t Miss This Chance,’ Says Top Investor About Nvidia Stock - TipRanks",NVDA,Google RSS,neutral,0.0
+2026-03-26 01:35:19,"TSLA stock rises after-hours: Musk says Tesla, SpaceX still betting big on Nvidia ‘at scale’ despite own-chips push - MSN",NVDA,Google RSS,positive,0.7305861115455627
+2026-03-23 13:43:00,An Activist Investor Is Taking an Interest in This Nvidia Partner. Its Stock Is Rising.,NVDA,Bing RSS,positive,0.9021449089050293
+2026-03-23 13:25:59,"Long-time Tesla bull flips to sell, sees stock plunging to $150 amid AI concerns - Investing.com",TSLA,Google RSS,negative,-0.9439210891723633
+2026-03-26 01:35:19,"TSLA stock rises after-hours: Musk says Tesla, SpaceX still betting big on Nvidia ‘at scale’ despite own-chips push - MSN",TSLA,Google RSS,positive,0.7305861115455627
+2026-03-25 21:58:16,Tesla Inc. stock surges to 333.80 euros amid EV market volatility and production updates - AD HOC NEWS,TSLA,Google RSS,positive,0.8028616905212402
+2026-03-25 09:21:26,Meta Platforms Boosts Top Executives’ Pay with Stock Options amid AI Push - TipRanks,META,Google RSS,positive,0.8446499705314636
+2026-03-24 14:29:24,-1.85% for Meta stock as technical signals point to further downside - Traders Union,META,Google RSS,negative,-0.9155781865119934
+2026-03-22 11:29:04,Top Wall Street analysts are confident about the long-term prospects of these 3 stocks - CNBC,NFLX,Google RSS,neutral,0.0
+2026-03-26 00:28:44,Netflix Inc. stock rebounds with 1.3% gain on NASDAQ amid streaming sector volatility - AD HOC NEWS,NFLX,Google RSS,negative,-0.7898231148719788
+2026-03-25 11:51:32,Netflix (NFLX) Slid Despite Strong Results and Strategic Expansion Plans,NFLX,Yahoo RSS,negative,-0.9734573364257812
+2026-03-24 11:44:03,Netflix (NFLX) Rated Outperform on Strong Margin Growth,NFLX,Yahoo RSS,positive,0.955642819404602
