@@ -75,10 +75,22 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-26 15:51:00,Microsoft and NVIDIA's AI-Nuclear Play: ETFs That May Gain,MSFT,Yahoo RSS,neutral,0.0
 2026-03-26 19:14:07,Tesla Touts Lower EV Delivery Estimate. The Stock Is Falling. - Investor's Business Daily,TSLA,Google RSS,negative,-0.9604310989379884
 2026-03-26 17:15:06,Meta's stock hits 10-month low after jury verdicts - NewsBytes,META,Google RSS,negative,-0.927840292453766
-2026-03-26 20:01:18,"Stock market today: Dow, S&P 500, Nasdaq sink as Big Tech slides and oil spikes amid Iran war",GOOGL,Yahoo RSS,negative,-0.9466772079467773
-2026-03-26 19:57:36,Sector Update: Consumer Stocks Retreat Late Afternoon,TSLA,Yahoo RSS,negative,-0.9625114798545837
+2026-03-26 20:01:18,"Stock market today: Dow, S&P 500, Nasdaq sink as Big Tech slides and oil spikes amid Iran war",GOOGL,Yahoo RSS,negative,-0.9466772079467772
+2026-03-26 19:57:36,Sector Update: Consumer Stocks Retreat Late Afternoon,TSLA,Yahoo RSS,negative,-0.9625114798545836
 2026-03-26 19:10:15,Tesla Touts Lower EV Delivery Estimate. The Stock Is Falling.,TSLA,Yahoo RSS,negative,-0.9701180458068848
-2026-03-26 20:01:18,"Stock market today: Dow, S&P 500, Nasdaq sink as Big Tech slides and oil spikes amid Iran war",META,Yahoo RSS,negative,-0.9466772079467773
+2026-03-26 20:01:18,"Stock market today: Dow, S&P 500, Nasdaq sink as Big Tech slides and oil spikes amid Iran war",META,Yahoo RSS,negative,-0.9466772079467772
 2026-03-26 20:00:17,Meta And Reddit Stocks Are Slumping Despite Strong Digital Ad Growth. Here's Why.,META,Yahoo RSS,negative,-0.9474321603775024
 2026-03-26 20:04:10,Major League Baseball Event Gives Netflix Stock (NASDAQ:NFLX) a Small Boost - TipRanks,NFLX,Google RSS,positive,0.8669716715812683
 2026-03-25 11:40:59,Why Alphabet  (GOOGL) Became the Largest Contributor to Renaissance Investment on Strong AI and Cloud Growth,GOOGL,Yahoo Global,positive,0.8024129271507263
+2026-03-26 21:15:40,Apple stock price retreats toward $253 as rising yields pressure big tech - Traders Union,AAPL,Google RSS,negative,-0.9616643786430359
+2026-03-26 20:57:12,Alphabet stock price retreats toward $281 as Nasdaq enters correction - Traders Union,GOOGL,Google RSS,negative,-0.9627225399017334
+2026-03-26 21:13:09,"NY Stock Market Highlights: Sell-offs in memory-related stocks, energy remains strong, hair care sector surges (26th). - Moomoo",GOOGL,Google RSS,positive,0.9106907844543457
+2026-03-26 21:35:03,"Dow Jones Futures: Stock Market Dives, Oil Prices Jump On 'Serious' Trump; Meta, These Titans Breaking Down",GOOGL,Yahoo RSS,negative,-0.6973986029624939
+2026-03-26 20:48:57,"Stock market today: Dow, S&P 500 sink, Nasdaq enters correction territory as oil spikes amid Iran war",GOOGL,Yahoo RSS,negative,-0.6358858346939087
+2026-03-26 21:35:03,"Dow Jones Futures: Stock Market Dives, Oil Prices Jump On 'Serious' Trump; Meta, These Titans Breaking Down",MSFT,Yahoo RSS,negative,-0.6973986029624939
+2026-03-26 21:05:52,S&P 500 Logs Worst Day Since January as Oil Advances,NVDA,Yahoo RSS,negative,-0.940173327922821
+2026-03-26 13:21:13,Tesla releases new supercharger. The stock is reversing a losing streak. - MSN,TSLA,Google RSS,neutral,0.0
+2026-03-26 07:52:00,Tesla releases new Supercharger. Stock looks to clip its losing streak.,TSLA,Bing RSS,negative,-0.6169503331184387
+2026-03-26 21:02:11,"Dow Jones Futures: Stock Market Dives, Oil Prices Jump On 'Serious' Trump; Meta, These Titans Breaking Down - Investor's Business Daily",META,Google RSS,negative,-0.5344130396842957
+2026-03-26 21:35:03,"Dow Jones Futures: Stock Market Dives, Oil Prices Jump On 'Serious' Trump; Meta, These Titans Breaking Down",META,Yahoo RSS,negative,-0.6973986029624939
+2026-03-26 20:48:57,"Stock market today: Dow, S&P 500 sink, Nasdaq enters correction territory as oil spikes amid Iran war",META,Yahoo RSS,negative,-0.6358858346939087
