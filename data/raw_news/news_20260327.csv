@@ -44,4 +44,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-26 05:24:49,Netflix Inc. stock gains momentum on NASDAQ amid analyst upgrade and streaming growth signals - AD HOC NEWS,NFLX,Google RSS,positive,0.916215181350708
 2026-03-25 11:51:32,Netflix (NFLX) Slid Despite Strong Results and Strategic Expansion Plans,NFLX,Yahoo RSS,negative,-0.9734573364257812
 2026-03-25 15:10:25,Microsoft (MSFT) Declines Amid Investor Concerns Over Guidance and Capital Expenditure Intensity,MSFT,Yahoo Global,negative,-0.972641944885254
-2026-03-27 03:29:06,Analysts Remain Confident in Workday (WDAY)’s Outlook Amid Strong AI Momentum,MSFT,Yahoo RSS,positive,0.9500755071640015
+2026-03-27 03:29:06,Analysts Remain Confident in Workday (WDAY)’s Outlook Amid Strong AI Momentum,MSFT,Yahoo RSS,positive,0.9500755071640016
+2026-03-24 16:43:15,Microsoft Stock Slips Despite BofA's Fresh Buy Call on Strong AI Outlook - TradingView,MSFT,Google RSS,negative,-0.9210196137428284
+2026-03-26 13:21:13,Tesla releases new supercharger. The stock is reversing a losing streak. - MSN,TSLA,Google RSS,neutral,0.0
