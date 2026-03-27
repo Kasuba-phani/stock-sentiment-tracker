@@ -79,5 +79,21 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-27 09:56:00,"Meta stock selloff continues, but a bigger risk looms",META,Bing RSS,negative,-0.8161314725875854
 2026-03-27 19:45:56,"Dow's 734-point drop led by losses for Amazon.com Inc., UnitedHealth stocks - MSN",AMZN,Google RSS,negative,-0.9682084918022156
 2026-03-27 20:26:00,Meta’s stock extends decline — and the pressure may not abate anytime soon - MarketWatch,META,Google RSS,negative,-0.9433327317237854
-2026-03-27 19:57:41,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
-2026-03-27 20:26:00,Meta’s stock extends decline — and the pressure may not abate anytime soon,META,MarketWatch Top,negative,-0.9616024494171143
+2026-03-27 19:57:41,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.935252010822296
+2026-03-27 20:26:00,Meta’s stock extends decline — and the pressure may not abate anytime soon,META,MarketWatch Top,negative,-0.9616024494171144
+2026-03-27 20:48:06,"Dow sheds nearly 800 points, stocks sink as volatility spikes higher",AAPL,Yahoo RSS,negative,-0.9344002604484558
+2026-03-27 20:48:06,"Dow sheds nearly 800 points, stocks sink as volatility spikes higher",GOOGL,Yahoo RSS,negative,-0.9344002604484558
+2026-03-27 18:02:40,Buy the Dip or Stay Away? Top Investor Weighs in on Microsoft Stock - tipranks.com,MSFT,Google RSS,neutral,0.0
+2026-03-25 14:04:25,Microsoft Stock Forecast: Trending Strong Buy on AI Boom - tipranks.com,MSFT,Google RSS,positive,0.732321560382843
+2026-03-23 15:40:19,"‘Don’t Buy the Dip,’ Says Investor About Microsoft Stock - tipranks.com",MSFT,Google RSS,neutral,0.0
+2026-03-27 20:48:06,"Dow sheds nearly 800 points, stocks sink as volatility spikes higher",MSFT,Yahoo RSS,negative,-0.9344002604484558
+2026-03-25 16:43:36,"“Nvidia Moment” for Micron Stock Could Be Closer Than You Think, Says Top Investor - tipranks.com",NVDA,Google RSS,neutral,0.0
+2026-03-27 20:48:06,"Dow sheds nearly 800 points, stocks sink as volatility spikes higher",NVDA,Yahoo RSS,negative,-0.9344002604484558
+2026-03-27 20:47:26,Stocks Break Lower As Oil Nears $100. What To Do Now. - Investor's Business Daily,TSLA,Google RSS,negative,-0.5237020254135132
+2026-03-27 14:15:00,"Dow Jones dives, oil prices at $100 as Iran war drags on; Tesla looms",TSLA,Bing RSS,negative,-0.6140233278274536
+2026-03-27 21:10:45,"Dow Jones Dives, Oil Prices At $100 As Iran War Drags On; Tesla Looms",TSLA,Yahoo RSS,negative,-0.6140233278274536
+2026-03-27 20:48:06,"Dow sheds nearly 800 points, stocks sink as volatility spikes higher",TSLA,Yahoo RSS,negative,-0.9344002604484558
+2026-03-27 16:41:21,"Meta stock selloff continues, but a bigger risk looms - invezz.com",META,Google RSS,negative,-0.6021040081977844
+2026-03-27 13:31:00,Meta’s stock extends decline — and the pressure may not abate anytime soon,META,Bing RSS,negative,-0.9616024494171143
+2026-03-27 20:48:06,"Dow sheds nearly 800 points, stocks sink as volatility spikes higher",META,Yahoo RSS,negative,-0.9344002604484558
+2026-03-26 20:04:10,Major League Baseball Event Gives Netflix Stock (NASDAQ:NFLX) a Small Boost - tipranks.com,NFLX,Google RSS,neutral,0.0
