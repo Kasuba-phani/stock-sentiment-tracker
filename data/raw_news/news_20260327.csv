@@ -55,5 +55,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-27 04:44:00,Meta Stock Is Falling Again. What Can Stop the Rot.,META,Bing RSS,negative,-0.6487269401550293
 2026-03-23 09:58:17,Alphabet stock forecast: Can GOOGL deliver nearly 40% gains in 12 months?,GOOGL,Bing RSS,positive,0.85589200258255
 2026-03-27 11:33:00,Meta Stock Is Falling Again. What Can Stop the Rot.,AMZN,Yahoo RSS,negative,-0.6487269401550293
-2026-03-23 13:43:00,An Activist Investor Is Taking an Interest in This Nvidia Partner. Its Stock Is Rising.,NVDA,Bing RSS,positive,0.9021449089050293
+2026-03-23 13:43:00,An Activist Investor Is Taking an Interest in This Nvidia Partner. Its Stock Is Rising.,NVDA,Bing RSS,positive,0.9021449089050292
 2026-03-27 11:33:00,Meta Stock Is Falling Again. What Can Stop the Rot.,TSLA,Yahoo RSS,negative,-0.6487269401550293
+2026-03-27 14:34:38,Alphabet stock price falls to $277 as Nasdaq correction deepens - Traders Union,GOOGL,Google RSS,negative,-0.946401834487915
+2026-03-27 14:06:33,Microsoft stock hits worst start since 2008 crisis - Finbold,MSFT,Google RSS,negative,-0.9069113731384277
+2026-03-27 13:54:47,Microsoft faces its worst quarterly stock performance since 2008 amid a high-stakes AI gamble and the threat of business substitution. - Moomoo,MSFT,Google RSS,negative,-0.9678094983100891
+2026-03-27 14:30:02,"Exxon Mobil Is Now More Expensive Than Nvidia Stock. What Gives, and How Should You Play XOM Here? - Barchart.com",NVDA,Google RSS,neutral,0.0
+2026-03-27 13:31:03,Tesla (TSLA) Stock Falls 3.6% as High Gas Prices Fail to Drive EV Demand - CoinCentral,TSLA,Google RSS,negative,-0.9708302021026611
