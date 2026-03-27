@@ -62,9 +62,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-27 13:54:47,Microsoft faces its worst quarterly stock performance since 2008 amid a high-stakes AI gamble and the threat of business substitution. - Moomoo,MSFT,Google RSS,negative,-0.9678094983100892
 2026-03-27 14:30:02,"Exxon Mobil Is Now More Expensive Than Nvidia Stock. What Gives, and How Should You Play XOM Here? - Barchart.com",NVDA,Google RSS,neutral,0.0
 2026-03-27 13:31:03,Tesla (TSLA) Stock Falls 3.6% as High Gas Prices Fail to Drive EV Demand - CoinCentral,TSLA,Google RSS,negative,-0.9708302021026612
-2026-03-27 14:55:17,Alphabet stock slips as momentum remains negative despite AI expansion and long-term support - Traders Union,GOOGL,Google RSS,negative,-0.9633059501647949
-2026-03-27 14:50:10,Microsoft stock slips 1.74% as oversold signals and bearish momentum intensify - Traders Union,MSFT,Google RSS,negative,-0.9568434357643127
-2026-03-27 08:42:00,Microsoft set for worst quarter since 2008 as AI fears converge,MSFT,Bing RSS,negative,-0.9579638838768005
+2026-03-27 14:55:17,Alphabet stock slips as momentum remains negative despite AI expansion and long-term support - Traders Union,GOOGL,Google RSS,negative,-0.9633059501647948
+2026-03-27 14:50:10,Microsoft stock slips 1.74% as oversold signals and bearish momentum intensify - Traders Union,MSFT,Google RSS,negative,-0.9568434357643129
+2026-03-27 08:42:00,Microsoft set for worst quarter since 2008 as AI fears converge,MSFT,Bing RSS,negative,-0.9579638838768004
 2026-03-27 14:06:00,The AI Giant Stumbles: Why NVIDIA’s 4.2% Slide Shook the Markets Despite its ‘Strong Buy’ Status - FinancialContent,NVDA,Google RSS,negative,-0.8413650989532471
 2026-03-27 06:31:00,Nvidia stock is cheaper than the S&P 500. The chip maker’s slump may finally be over.,NVDA,Bing RSS,neutral,0.0
 2026-03-27 15:52:00,3 Defensive Stocks to Buy When the Stock Market Fear Index Soars,NVDA,Yahoo RSS,neutral,0.0
+2026-03-27 16:37:04,Amazon.com (AMZN) Underperformed Despite Strong Positioning in AI and Cloud,AMZN,Yahoo RSS,positive,0.6327096223831177
+2026-03-24 15:11:33,"Is the AI boom losing momentum? Microsoft down 33%, echoing the 2022 selloff - xtb.com",MSFT,Google RSS,negative,-0.9674068093299866
+2026-03-27 14:30:02,"Exxon Mobil Is Now More Expensive Than Nvidia Stock. What Gives, and How Should You Play XOM Here? - Barchart",NVDA,Google RSS,neutral,0.0
+2026-03-27 16:41:21,"Meta stock selloff continues, but a bigger risk looms - Invezz",META,Google RSS,negative,-0.7062252163887024
