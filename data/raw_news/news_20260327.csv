@@ -1,0 +1,46 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-03-26 21:15:40,Apple stock price retreats toward $253 as rising yields pressure big tech - Traders Union,AAPL,Google RSS,negative,-0.9616643786430359
+2026-03-25 14:13:33,Apple stock price steadies near $252 as softer yields temper rate pressure - Traders Union,AAPL,Google RSS,negative,-0.8214401602745056
+2026-03-26 22:03:00,Morgan Stanley resets Alphabet stock forecast on Waymo growth - thestreet.com,GOOGL,Google RSS,neutral,0.0
+2026-03-26 14:25:54,Negative momentum signals push Alphabet stock lower despite strong revenue and AI expansion - Traders Union,GOOGL,Google RSS,negative,-0.961292028427124
+2026-03-25 09:55:23,"Alphabet slides to lowest since November, nears bear market territory (GOOG:NASDAQ) - Seeking Alpha",GOOGL,Google RSS,negative,-0.9600031971931458
+2026-03-26 20:57:12,Alphabet stock price retreats toward $281 as Nasdaq enters correction - Traders Union,GOOGL,Google RSS,negative,-0.9627225399017334
+2026-03-26 21:13:09,"NY Stock Market Highlights: Sell-offs in memory-related stocks, energy remains strong, hair care sector surges (26th). - Moomoo",GOOGL,Google RSS,positive,0.9106907844543457
+2026-03-26 15:03:00,Morgan Stanley resets Alphabet stock forecast on Waymo growth,GOOGL,Bing RSS,negative,-0.7394757270812988
+2026-03-26 09:15:00,Alphabet (GOOGL) Stock Dips Despite Waymo Milestone and Strong Search Performance,GOOGL,Bing RSS,negative,-0.9722868204116821
+2026-03-26 21:44:21,"Magnachip, Allegro MicroSystems, and Penguin Solutions Shares Are Falling, What You Need To Know",GOOGL,Yahoo RSS,negative,-0.5467363595962524
+2026-03-23 19:50:11,“Strong Buy Case”: Top Barclays Analyst Sees Strong AWS Momentum Driving Amazon Stock (AMZN) Toward $300 - TipRanks,AMZN,Google RSS,positive,0.9481120109558105
+2026-03-26 15:53:00,Microsoft (MSFT) Stock in Deep Slump — Analysts See 55%+ Upside - TipRanks,MSFT,Google RSS,negative,-0.9687502384185791
+2026-03-25 14:04:25,Microsoft Stock Forecast: Trending Strong Buy on AI Boom - TipRanks,MSFT,Google RSS,positive,0.9436780214309692
+2026-03-24 16:36:14,Why Microsoft stock crashes today? MSFT stock falls 2.75% – Why BofA still gives a Buy signal despite AI s - The Economic Times,MSFT,Google RSS,negative,-0.6682337522506714
+2026-03-23 15:40:19,"‘Don’t Buy the Dip,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-03-26 06:56:15,Microsoft Stock's 200-Day DMA Gap Is Widest Since 2008 Financial Crisis — And Retail Sees ‘Generational’ Opportunity - Stocktwits,MSFT,Google RSS,neutral,0.0
+2026-03-24 15:11:33,"Is the AI boom losing momentum? Microsoft down 33%, echoing the 2022 selloff - XTB.com",MSFT,Google RSS,negative,-0.9674068093299866
+2026-03-25 11:37:10,UBS lowers Microsoft stock price target on M365 concerns - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-03-25 14:41:07,Microsoft stock holds steady as oversold signals follow robust earnings jump - Traders Union,MSFT,Google RSS,positive,0.5839029550552368
+2026-03-24 14:35:27,Microsoft stock price forecast: Downside risk persists as MSFT closes below $373 - Traders Union,MSFT,Google RSS,negative,-0.9225836992263794
+2026-03-26 09:33:45,Microsoft Corporation $MSFT Stock Position Lessened by VERITY Wealth Advisors - MarketBeat,MSFT,Google RSS,negative,-0.8881810307502747
+2026-03-26 09:55:46,Microsoft Corporation $MSFT Shares Bought by Procyon Advisors LLC - MarketBeat,MSFT,Google RSS,neutral,0.0
+2026-03-26 14:35:54,+0.26% for Microsoft stock as oversold conditions meet renewed AI focus - Traders Union,MSFT,Google RSS,positive,0.6864239573478699
+2026-03-24 18:03:05,Microsoft Stock Slips Despite BofA's Fresh Buy Call on Strong AI Outlook - GuruFocus,MSFT,Google RSS,negative,-0.925374448299408
+2026-03-26 07:48:52,"Cyndeo Wealth Partners LLC Purchases 5,355 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
+2026-03-24 09:39:00,Why Microsoft stock crashes today? MSFT stock falls 2.75% – Why BofA still gives a Buy signal despite AI spending fears,MSFT,Bing RSS,negative,-0.5853804349899292
+2026-03-25 16:12:00,Nvidia’s stock is cheaper than Exxon’s. Are investors ditching tech for energy? - MarketWatch,NVDA,Google RSS,neutral,0.0
+2026-03-25 16:43:36,"“Nvidia Moment” for Micron Stock Could Be Closer Than You Think, Says Top Investor - TipRanks",NVDA,Google RSS,neutral,0.0
+2026-03-26 17:11:26,"Dow drops nearly 350 points on losses for NVIDIA Corp., Caterpillar stocks - MSN",NVDA,Google RSS,negative,-0.9530478715896606
+2026-03-27 01:25:00,Global Demand for This Industrial Stock May Be About to Soar,NVDA,Yahoo RSS,neutral,0.0
+2026-03-27 00:34:00,The Nasdaq Composite Is Officially in Correction Territory: 3 Things You Need to Know,NVDA,Yahoo RSS,neutral,0.0
+2026-03-26 23:16:00,Tesla Touts Lower EV Delivery Estimate. The Stock Is Falling. - Investor's Business Daily,TSLA,Google RSS,negative,-0.9604312181472778
+2026-03-26 07:07:10,Automobile Manufacturing Stocks Q4 Results: Benchmarking Tesla (NASDAQ:TSLA) - StockStory,TSLA,Google RSS,neutral,0.0
+2026-03-26 01:35:19,"TSLA stock rises after-hours: Musk says Tesla, SpaceX still betting big on Nvidia ‘at scale’ despite own-chips push - MSN",TSLA,Google RSS,positive,0.7305861115455627
+2026-03-26 07:52:00,Tesla releases new Supercharger. Stock looks to clip its losing streak.,TSLA,Bing RSS,negative,-0.6169503331184387
+2026-03-26 22:16:27,Tesla Touts Lower EV Delivery Estimate. The Stock Is Falling.,TSLA,Yahoo RSS,negative,-0.9701180458068848
+2026-03-26 19:57:36,Sector Update: Consumer Stocks Retreat Late Afternoon,TSLA,Yahoo RSS,negative,-0.9625114798545837
+2026-03-26 14:47:43,"The S&P 500 Is Falling, but Stock Market Breadth Is Good",TSLA,Yahoo RSS,negative,-0.9520866870880127
+2026-03-26 21:00:00,Meta And Reddit Stocks Are Slumping Despite Strong Digital Ad Growth. Here's Why. - Investor's Business Daily,META,Google RSS,negative,-0.9298273921012878
+2026-03-26 14:19:53,Legal woes and weak technicals push Meta stock lower - Traders Union,META,Google RSS,negative,-0.9627923965454102
+2026-03-26 20:48:57,"Stock market today: Dow, S&P 500 sink, Nasdaq enters correction territory as oil spikes amid Iran war",META,Yahoo RSS,negative,-0.6358858346939087
+2026-03-26 20:04:10,Major League Baseball Event Gives Netflix Stock (NASDAQ:NFLX) a Small Boost - TipRanks,NFLX,Google RSS,positive,0.8669716715812683
+2026-03-26 05:24:49,Netflix Inc. stock gains momentum on NASDAQ amid analyst upgrade and streaming growth signals - AD HOC NEWS,NFLX,Google RSS,positive,0.916215181350708
+2026-03-25 11:51:32,Netflix (NFLX) Slid Despite Strong Results and Strategic Expansion Plans,NFLX,Yahoo RSS,negative,-0.9734573364257812
+2026-03-25 15:10:25,Microsoft (MSFT) Declines Amid Investor Concerns Over Guidance and Capital Expenditure Intensity,MSFT,Yahoo Global,negative,-0.9726419448852539
