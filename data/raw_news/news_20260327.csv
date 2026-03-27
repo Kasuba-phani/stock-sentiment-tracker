@@ -97,6 +97,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-27 13:31:00,Meta’s stock extends decline — and the pressure may not abate anytime soon,META,Bing RSS,negative,-0.9616024494171144
 2026-03-27 20:48:06,"Dow sheds nearly 800 points, stocks sink as volatility spikes higher",META,Yahoo RSS,negative,-0.9344002604484558
 2026-03-26 20:04:10,Major League Baseball Event Gives Netflix Stock (NASDAQ:NFLX) a Small Boost - tipranks.com,NFLX,Google RSS,neutral,0.0
-2026-03-26 23:16:00,Tesla Touts Lower EV Delivery Estimate. The Stock Is Falling. - investors.com,TSLA,Google RSS,negative,-0.9601505994796753
+2026-03-26 23:16:00,Tesla Touts Lower EV Delivery Estimate. The Stock Is Falling. - investors.com,TSLA,Google RSS,negative,-0.9601505994796752
 2026-03-27 22:13:48,"Stocks Break Lower, Oil Prices At $100. What To Do Now. - investors.com",TSLA,Google RSS,neutral,0.0
 2026-03-26 21:00:00,Meta And Reddit Stocks Are Slumping Despite Strong Digital Ad Growth. Here's Why. - investors.com,META,Google RSS,negative,-0.9118002653121948
+2026-03-27 23:27:08,"The technology sector experienced a massive sell-off, with the Nasdaq posting its largest weekly decline since April of last year. Among tech stocks, Apple (AAPL.US) delivered the best performance. - moomoo.com",AAPL,Google RSS,negative,-0.9519620537757874
+2026-03-27 13:54:47,Microsoft faces its worst quarterly stock performance since 2008 amid a high-stakes AI gamble and the threat of business substitution. - moomoo.com,MSFT,Google RSS,negative,-0.9603187441825867
+2026-03-25 08:16:00,Microsoft Stock's 200-Day DMA Gap Is Widest Since 2008 Financial Crisis — And Retail Sees ‘Generational’ Opportunity - stocktwits.com,MSFT,Google RSS,neutral,0.0
+2026-03-27 22:13:48,"Stocks Break Lower, Oil Prices At $100. What To Do Now. - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
