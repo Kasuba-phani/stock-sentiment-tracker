@@ -53,3 +53,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-26 00:56:57,Microsoft stock hit by steepest slide in years - MSN,MSFT,Google RSS,negative,-0.918192446231842
 2026-03-27 11:33:00,Meta Stock Is Falling Again. What Can Stop the Rot. - Barron's,META,Google RSS,negative,-0.6729229092597961
 2026-03-27 04:44:00,Meta Stock Is Falling Again. What Can Stop the Rot.,META,Bing RSS,negative,-0.6487269401550293
+2026-03-23 09:58:17,Alphabet stock forecast: Can GOOGL deliver nearly 40% gains in 12 months?,GOOGL,Bing RSS,positive,0.85589200258255
+2026-03-27 11:33:00,Meta Stock Is Falling Again. What Can Stop the Rot.,AMZN,Yahoo RSS,negative,-0.6487269401550293
+2026-03-23 13:43:00,An Activist Investor Is Taking an Interest in This Nvidia Partner. Its Stock Is Rising.,NVDA,Bing RSS,positive,0.9021449089050293
+2026-03-27 11:33:00,Meta Stock Is Falling Again. What Can Stop the Rot.,TSLA,Yahoo RSS,negative,-0.6487269401550293
