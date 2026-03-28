@@ -2,12 +2,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-27 23:27:08,"The technology sector experienced a massive sell-off, with the Nasdaq posting its largest weekly decline since April of last year. Among tech stocks, Apple (AAPL.US) delivered the best performance. - Moomoo",AAPL,Google RSS,negative,-0.9543752074241638
 2026-03-27 20:48:06,"Dow sheds nearly 800 points, stocks sink as volatility spikes higher",AAPL,Yahoo RSS,negative,-0.9344003200531006
 2026-03-27 19:27:52,Morgan Stanley resets Alphabet stock forecast on Waymo growth - thestreet.com,GOOGL,Google RSS,neutral,0.0
-2026-03-27 14:55:17,Alphabet stock slips as momentum remains negative despite AI expansion and long-term support - Traders Union,GOOGL,Google RSS,negative,-0.9633059501647949
+2026-03-27 14:55:17,Alphabet stock slips as momentum remains negative despite AI expansion and long-term support - Traders Union,GOOGL,Google RSS,negative,-0.9633059501647948
 2026-03-26 14:25:54,Negative momentum signals push Alphabet stock lower despite strong revenue and AI expansion - Traders Union,GOOGL,Google RSS,negative,-0.961292028427124
 2026-03-27 14:34:38,Alphabet stock price falls to $277 as Nasdaq correction deepens - Traders Union,GOOGL,Google RSS,negative,-0.946401834487915
 2026-03-26 20:57:12,Alphabet stock price retreats toward $281 as Nasdaq enters correction - Traders Union,GOOGL,Google RSS,negative,-0.9627225399017334
 2026-03-26 15:03:00,Morgan Stanley resets Alphabet stock forecast on Waymo growth,GOOGL,Bing RSS,negative,-0.7394751906394958
-2026-03-25 08:27:18,Strong Results and Improved Investor Sentiment Around AI Lifted Alphabet (GOOG) in Q4,GOOGL,Bing RSS,positive,0.9572803974151611
+2026-03-25 08:27:18,Strong Results and Improved Investor Sentiment Around AI Lifted Alphabet (GOOG) in Q4,GOOGL,Bing RSS,positive,0.9572803974151612
 2026-03-27 20:48:06,"Dow sheds nearly 800 points, stocks sink as volatility spikes higher",GOOGL,Yahoo RSS,negative,-0.9344003200531006
 2026-03-28 01:46:18,"Dow's 734-point drop led by losses for Amazon.com Inc., UnitedHealth stocks - MSN",AMZN,Google RSS,negative,-0.9682084918022156
 2026-03-27 17:44:00,"UnitedHealth, Amazon.com Inc. share losses lead Dow's 617-point drop - MSN",AMZN,Google RSS,negative,-0.9604317545890808
@@ -18,19 +18,19 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-24 16:36:14,Why Microsoft stock crashes today? MSFT stock falls 2.75% – Why BofA still gives a Buy signal despite AI s - The Economic Times,MSFT,Google RSS,negative,-0.6682347059249878
 2026-03-23 15:40:19,"‘Don’t Buy the Dip,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
 2026-03-24 15:11:33,"Is the AI boom losing momentum? Microsoft down 33%, echoing the 2022 selloff - XTB.com",MSFT,Google RSS,negative,-0.9674068093299866
-2026-03-27 13:54:47,Microsoft faces its worst quarterly stock performance since 2008 amid a high-stakes AI gamble and the threat of business substitution. - Moomoo,MSFT,Google RSS,negative,-0.9678094983100891
+2026-03-27 13:54:47,Microsoft faces its worst quarterly stock performance since 2008 amid a high-stakes AI gamble and the threat of business substitution. - Moomoo,MSFT,Google RSS,negative,-0.9678094983100892
 2026-03-26 00:56:57,Microsoft stock hit by steepest slide in years - MSN,MSFT,Google RSS,negative,-0.9181925654411316
 2026-03-25 14:41:07,Microsoft stock holds steady as oversold signals follow robust earnings jump - Traders Union,MSFT,Google RSS,positive,0.5839033126831055
 2026-03-27 09:09:17,Gryphon Financial Partners LLC Raises Stock Position in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,positive,0.8113420009613037
 2026-03-25 08:16:00,Microsoft Stock's 200-Day DMA Gap Is Widest Since 2008 Financial Crisis — And Retail Sees ‘Generational’ Opportunity - Stocktwits,MSFT,Google RSS,neutral,0.0
 2026-03-24 14:35:27,Microsoft stock price forecast: Downside risk persists as MSFT closes below $373 - Traders Union,MSFT,Google RSS,negative,-0.9225835800170898
-2026-03-27 07:26:00,Microsoft set for worst quarter since 2008 as AI fears converge,MSFT,Bing RSS,negative,-0.9579638838768005
+2026-03-27 07:26:00,Microsoft set for worst quarter since 2008 as AI fears converge,MSFT,Bing RSS,negative,-0.9579638838768004
 2026-03-27 20:48:06,"Dow sheds nearly 800 points, stocks sink as volatility spikes higher",MSFT,Yahoo RSS,negative,-0.9344003200531006
 2026-03-27 14:30:02,"Exxon Mobil Is Now More Expensive Than Nvidia Stock. What Gives, and How Should You Play XOM Here? - Barchart",NVDA,Google RSS,neutral,0.0
 2026-03-25 16:12:00,Nvidia’s stock is cheaper than Exxon’s. Are investors ditching tech for energy? - MarketWatch,NVDA,Google RSS,neutral,0.0
 2026-03-25 16:43:36,"“Nvidia Moment” for Micron Stock Could Be Closer Than You Think, Says Top Investor - TipRanks",NVDA,Google RSS,neutral,0.0
 2026-03-23 13:43:00,An Activist Investor Is Taking an Interest in This Nvidia Partner. Its Stock Is Rising.,NVDA,Bing RSS,positive,0.9021450877189636
-2026-03-26 23:16:00,Tesla Touts Lower EV Delivery Estimate. The Stock Is Falling. - Investor's Business Daily,TSLA,Google RSS,negative,-0.9604310989379883
+2026-03-26 23:16:00,Tesla Touts Lower EV Delivery Estimate. The Stock Is Falling. - Investor's Business Daily,TSLA,Google RSS,negative,-0.9604310989379884
 2026-03-27 22:51:00,"Stocks Break Lower, Oil Prices At $100. What To Do Now. - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
 2026-03-27 21:10:45,"Dow Jones Dives, Oil Prices At $100 As Iran War Drags On; Tesla Looms",TSLA,Yahoo RSS,negative,-0.6140215992927551
 2026-03-27 20:48:06,"Dow sheds nearly 800 points, stocks sink as volatility spikes higher",TSLA,Yahoo RSS,negative,-0.9344003200531006
@@ -42,4 +42,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-27 09:56:00,"Meta stock selloff continues, but a bigger risk looms",META,Bing RSS,negative,-0.8161315321922302
 2026-03-27 20:48:06,"Dow sheds nearly 800 points, stocks sink as volatility spikes higher",META,Yahoo RSS,negative,-0.9344003200531006
 2026-03-26 20:04:10,Major League Baseball Event Gives Netflix Stock (NASDAQ:NFLX) a Small Boost - TipRanks,NFLX,Google RSS,positive,0.8669716715812683
-2026-03-27 19:57:41,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352516531944275
+2026-03-27 19:57:41,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352516531944276
+2026-03-24 13:49:09,Morgan Stanley Is Doubling Down on Apple Stock Thanks to Still-High iPhone Demand. Should You Buy AAPL Here? - finance.yahoo.com,AAPL,Google RSS,negative,-0.7348976135253906
+2026-03-28 01:46:18,"Dow's 734-point drop led by losses for Amazon.com Inc., UnitedHealth stocks - msn.com",AMZN,Google RSS,negative,-0.965225100517273
+2026-03-27 17:44:00,"UnitedHealth, Amazon.com Inc. share losses lead Dow's 617-point drop - msn.com",AMZN,Google RSS,negative,-0.9518700242042542
+2026-03-26 00:56:57,Microsoft stock hit by steepest slide in years - msn.com,MSFT,Google RSS,negative,-0.78736811876297
+2026-03-27 06:31:00,Nvidia stock is cheaper than the S&P 500. The chip maker’s slump may finally be over.,NVDA,Bing RSS,neutral,0.0
+2026-03-28 03:21:00,Is Celsius Stock a Buy After Falling 49% From Its 52-Week High?,NVDA,Yahoo RSS,negative,-0.8527294397354126
+2026-03-26 23:16:00,Tesla Touts Lower EV Delivery Estimate. The Stock Is Falling. - investors.com,TSLA,Google RSS,negative,-0.9601505994796753
+2026-03-28 02:49:19,"Dow Jones Dives, Oil Prices Hits $100 Amid Iran War; Tesla Looms",TSLA,Yahoo RSS,neutral,0.0
+2026-03-26 21:00:00,Meta And Reddit Stocks Are Slumping Despite Strong Digital Ad Growth. Here's Why. - investors.com,META,Google RSS,negative,-0.9118002653121948
+2026-03-26 22:16:27,Tesla Touts Lower EV Delivery Estimate. The Stock Is Falling.,TSLA,Yahoo Global,negative,-0.9701180458068848
