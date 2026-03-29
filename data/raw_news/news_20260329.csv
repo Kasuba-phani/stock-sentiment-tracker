@@ -1,11 +1,11 @@
 date,headline,ticker,source,sentiment_label,compound
 2026-03-24 13:49:09,Morgan Stanley Is Doubling Down on Apple Stock Thanks to Still-High iPhone Demand. Should You Buy AAPL Here? - Barchart,AAPL,Google RSS,negative,-0.8981492519378662
-2026-03-26 21:15:40,Apple stock price retreats toward $253 as rising yields pressure big tech - Traders Union,AAPL,Google RSS,negative,-0.9616643786430359
+2026-03-26 21:15:40,Apple stock price retreats toward $253 as rising yields pressure big tech - Traders Union,AAPL,Google RSS,negative,-0.961664378643036
 2026-03-29 02:00:34,Apple's Strategic Shift: Onshoring Supply Chain with Major US Investment - AD HOC NEWS,AAPL,Google RSS,neutral,0.0
 2026-03-27 20:48:06,"Dow sheds nearly 800 points, stocks sink as volatility spikes higher",AAPL,Yahoo RSS,negative,-0.9344002604484558
 2026-03-27 19:27:52,Morgan Stanley resets Alphabet stock forecast on Waymo growth - thestreet.com,GOOGL,Google RSS,neutral,0.0
 2026-03-27 14:34:38,Alphabet stock price falls to $277 as Nasdaq correction deepens - Traders Union,GOOGL,Google RSS,negative,-0.946401834487915
-2026-03-27 14:55:17,Alphabet stock slips as momentum remains negative despite AI expansion and long-term support - Traders Union,GOOGL,Google RSS,negative,-0.9633060693740845
+2026-03-27 14:55:17,Alphabet stock slips as momentum remains negative despite AI expansion and long-term support - Traders Union,GOOGL,Google RSS,negative,-0.9633060693740844
 2026-03-26 15:03:00,Morgan Stanley resets Alphabet stock forecast on Waymo growth,GOOGL,Bing RSS,negative,-0.7394757270812988
 2026-03-28 07:31:08,"Dow's 734-point drop led by losses for Amazon.com Inc., UnitedHealth stocks - MSN",AMZN,Google RSS,negative,-0.9682084918022156
 2026-03-28 06:33:45,"UnitedHealth, Amazon.com Inc. share losses lead Dow's 617-point drop - MSN",AMZN,Google RSS,negative,-0.9604317545890808
@@ -13,7 +13,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-27 18:02:40,Buy the Dip or Stay Away? Top Investor Weighs in on Microsoft Stock - TipRanks,MSFT,Google RSS,neutral,0.0
 2026-03-25 11:37:10,UBS lowers Microsoft stock price target on M365 concerns - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-03-25 14:04:25,Microsoft Stock Forecast: Trending Strong Buy on AI Boom - TipRanks,MSFT,Google RSS,positive,0.9436780214309692
-2026-03-26 15:53:00,Microsoft (MSFT) Stock in Deep Slump — Analysts See Over 60% Upside - TipRanks,MSFT,Google RSS,negative,-0.9705290794372559
+2026-03-26 15:53:00,Microsoft (MSFT) Stock in Deep Slump — Analysts See Over 60% Upside - TipRanks,MSFT,Google RSS,negative,-0.970529079437256
 2026-03-24 16:36:14,Why Microsoft stock crashes today? MSFT stock falls 2.75% – Why BofA still gives a Buy signal despite AI s - The Economic Times,MSFT,Google RSS,negative,-0.6682337522506714
 2026-03-23 15:40:19,"‘Don’t Buy the Dip,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
 2026-03-26 00:56:57,Microsoft stock hit by steepest slide in years - MSN,MSFT,Google RSS,negative,-0.918192446231842
@@ -21,7 +21,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-25 08:16:00,Microsoft Stock's 200-Day DMA Gap Is Widest Since 2008 Financial Crisis — And Retail Sees ‘Generational’ Opportunity - Stocktwits,MSFT,Google RSS,neutral,0.0
 2026-03-28 09:17:50,Independence Wealth Advisors LLC Takes Position in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,neutral,0.0
 2026-03-24 16:43:15,Microsoft Stock Slips Despite BofA's Fresh Buy Call on Strong AI Outlook - TradingView,MSFT,Google RSS,negative,-0.9210196137428284
-2026-03-27 07:26:00,Microsoft set for worst quarter since 2008 as AI fears converge,MSFT,Bing RSS,negative,-0.9579638838768005
+2026-03-27 07:26:00,Microsoft set for worst quarter since 2008 as AI fears converge,MSFT,Bing RSS,negative,-0.9579638838768004
 2026-03-25 16:12:00,Nvidia’s stock is cheaper than Exxon’s. Are investors ditching tech for energy? - MarketWatch,NVDA,Google RSS,neutral,0.0
 2026-03-27 14:30:02,"Exxon Mobil Is Now More Expensive Than Nvidia Stock. What Gives, and How Should You Play XOM Here? - Barchart",NVDA,Google RSS,neutral,0.0
 2026-03-26 23:16:00,Tesla Touts Lower EV Delivery Estimate. The Stock Is Falling. - Investor's Business Daily,TSLA,Google RSS,negative,-0.9604312181472778
@@ -33,4 +33,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-27 09:56:00,"Meta stock selloff continues, but a bigger risk looms",META,Bing RSS,negative,-0.8161314725875854
 2026-03-28 15:43:25,Netflix Stock Draws Strong Buys And Big Upside Targets - TipRanks,NFLX,Google RSS,positive,0.8557053804397583
 2026-03-26 20:04:10,Major League Baseball Event Gives Netflix Stock (NASDAQ:NFLX) a Small Boost - TipRanks,NFLX,Google RSS,positive,0.8669716715812683
-2026-03-27 19:57:41,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
+2026-03-27 19:57:41,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.935252010822296
+2026-03-24 13:49:09,Morgan Stanley Is Doubling Down on Apple Stock Thanks to Still-High iPhone Demand. Should You Buy AAPL Here? - Barchart.com,AAPL,Google RSS,negative,-0.7906313538551331
+2026-03-25 08:27:18,Strong Results and Improved Investor Sentiment Around AI Lifted Alphabet (GOOG) in Q4,GOOGL,Bing RSS,positive,0.9572803974151611
+2026-03-24 16:36:14,Why Microsoft stock crashes today? MSFT stock falls 2.75% – Why BofA still gives a Buy signal despite AI s - economictimes.com,MSFT,Google RSS,negative,-0.8228539228439331
+2026-03-27 14:30:02,"Exxon Mobil Is Now More Expensive Than Nvidia Stock. What Gives, and How Should You Play XOM Here? - Barchart.com",NVDA,Google RSS,neutral,0.0
+2026-03-27 06:31:00,Nvidia stock is cheaper than the S&P 500. The chip maker’s slump may finally be over.,NVDA,Bing RSS,neutral,0.0
+2026-03-29 03:15:00,"How Wil Dow Jones Futures, Oil Prices React As U.S. Mulls Ground Troops In Iran? - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-03-26 13:21:13,Tesla releases new supercharger. The stock is reversing a losing streak. - MSN,TSLA,Google RSS,neutral,0.0
