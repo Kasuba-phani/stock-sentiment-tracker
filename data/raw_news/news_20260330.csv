@@ -104,3 +104,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-30 15:02:59,‘Don’t Fret’: Top Investor’s Faith in Nvidia Stock is Strong - tipranks.com,NVDA,Google RSS,neutral,0.0
 2026-03-30 21:46:57,"Stock Market Today, March 30: High Oil Prices Drive Risk-Off Sentiment, Nasdaq Falls 0.7%",NVDA,Yahoo RSS,negative,-0.9571557641029358
 2026-03-30 16:42:57,Morgan Stanley Slashes META Price Target As Shares Keep Falling - tipranks.com,META,Google RSS,negative,-0.8718520402908325
+2026-03-30 17:03:20,"After Falling Nearly 9% Last Week, Has Alphabet Lost Its Edge? - marketbeat.com",GOOGL,Google RSS,negative,-0.9067215919494629
+2026-03-29 15:09:00,"Mag 7 beckons dip-buyers, but no one is jumping in despite Street seeing U.S. tech outperformance - Fortune",MSFT,Google RSS,positive,0.4384664297103882
