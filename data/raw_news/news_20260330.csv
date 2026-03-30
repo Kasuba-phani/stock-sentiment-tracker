@@ -70,7 +70,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-30 13:45:15,22 New 4-Star Stocks This Week - Morningstar,GOOGL,Google RSS,neutral,0.0
 2026-03-29 07:00:00,Alphabet Stock Fell 9% This Week. Here’s Why Analysts Still See $409 Fair Value - TIKR.com,GOOGL,Google RSS,negative,-0.7893245816230774
 2026-03-30 12:11:15,Microsoft is second most oversold stock in Nasdaq 100 after brutal Q1 — yet this analyst still sees 40% upside - MSN,MSFT,Google RSS,negative,-0.7718465924263
-2026-03-27 13:54:47,Microsoft faces its worst quarterly stock performance since 2008 amid a high-stakes AI gamble and the threat of business substitution. - Moomoo,MSFT,Google RSS,negative,-0.9678094983100891
+2026-03-27 13:54:47,Microsoft faces its worst quarterly stock performance since 2008 amid a high-stakes AI gamble and the threat of business substitution. - Moomoo,MSFT,Google RSS,negative,-0.9678094983100892
 2026-03-30 13:43:50,Microsoft (MSFT) Beyond the OpenAI Hype – Should You Still Buy The Stock For Long-Term Growth?,MSFT,Yahoo RSS,neutral,0.0
 2026-03-30 12:00:00,"Sagtec Global (NASDAQ: SAGT) to Launch Sovereign AI Data Center Powered by NVIDIA GPU Architecture; Infrastructure Pivot to Support Millions of Daily F&B Retail Ordering, Retail and Fintech Transactions",NVDA,Yahoo RSS,positive,0.6551039218902588
 2026-03-27 16:46:35,"Meta stock selloff continues, but a bigger risk looms - Invezz",META,Google RSS,negative,-0.7062252163887024
+2026-03-30 14:08:06,Slight decline for Apple stock as short-term indicators flash continued weakness - Traders Union,AAPL,Google RSS,negative,-0.9632374048233032
+2026-03-30 14:24:14,Alphabet stock price forecast: Sideways action expected as GOOGL faces continued pressure - Traders Union,GOOGL,Google RSS,negative,-0.9268044233322144
+2026-03-30 14:34:26,Microsoft stock gains 1.42% as AI investment fails to offset bearish signals - Traders Union,MSFT,Google RSS,negative,-0.9577421545982361
+2026-03-30 15:02:59,‘Don’t Fret’: Top Investor’s Faith in Nvidia Stock is Strong - TipRanks,NVDA,Google RSS,positive,0.5881206393241882
+2026-03-30 14:14:16,Nvidia stock trades down after surging oil prices spark inflation fears - Traders Union,NVDA,Google RSS,negative,-0.9563054442405701
+2026-03-30 14:13:12,Meta stock edges higher as first 2026 dividend and cost cuts offset weak momentum - Traders Union,META,Google RSS,positive,0.92573082447052
