@@ -86,11 +86,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-30 15:09:26,Seller pressure and weak trend strength keep Tesla stock in check despite oversold signals - Traders Union,TSLA,Google RSS,negative,-0.8334486484527588
 2026-03-30 15:40:10,Meta’s technical breakdown worsens amid ongoing selloff - Seeking Alpha,META,Google RSS,negative,-0.9682825207710266
 2026-03-30 16:42:57,Morgan Stanley Slashes META Price Target As Shares Keep Falling - TipRanks,META,Google RSS,negative,-0.948164999485016
-2026-03-30 17:32:41,"After falling nearly 9% last week, has Alphabet lost its edge? - MSN",GOOGL,Google RSS,negative,-0.9111883640289307
-2026-03-30 17:03:20,"After Falling Nearly 9% Last Week, Has Alphabet Lost Its Edge? - MarketBeat",GOOGL,Google RSS,negative,-0.9515362977981567
+2026-03-30 17:32:41,"After falling nearly 9% last week, has Alphabet lost its edge? - MSN",GOOGL,Google RSS,negative,-0.9111883640289308
+2026-03-30 17:03:20,"After Falling Nearly 9% Last Week, Has Alphabet Lost Its Edge? - MarketBeat",GOOGL,Google RSS,negative,-0.9515362977981568
 2026-03-30 17:50:00,Meta Is a ‘Top Pick’ at Morgan Stanley. Why Wall Street Still Loves the Struggling Stock.,GOOGL,Yahoo RSS,neutral,0.0
 2026-03-30 17:26:00,Are Analysts Crazy? Price Targets Suggest 29% Jump In S&P 500. These 10 Stocks Show Highest Potential Gains. - Investor's Business Daily,MSFT,Google RSS,positive,0.6302871108055115
 2026-03-30 17:31:09,Nvidia sell-off extends to third day; stock down 21% from recent peak amid market jitters - Mint,NVDA,Google RSS,negative,-0.9719871878623962
-2026-03-30 15:24:14,The surprising Dow stock that has outperformed Nvidia by 2-to-1 - MSN,NVDA,Google RSS,positive,0.9454298615455627
-2026-03-30 11:48:00,"US Stock Market Live Updates: S&P 500 dips as oil surges, tech stocks weigh on market",NVDA,Bing RSS,negative,-0.9448679685592651
+2026-03-30 15:24:14,The surprising Dow stock that has outperformed Nvidia by 2-to-1 - MSN,NVDA,Google RSS,positive,0.9454298615455629
+2026-03-30 11:48:00,"US Stock Market Live Updates: S&P 500 dips as oil surges, tech stocks weigh on market",NVDA,Bing RSS,negative,-0.9448679685592652
 2026-03-30 17:50:00,Meta Is a ‘Top Pick’ at Morgan Stanley. Why Wall Street Still Loves the Struggling Stock.,META,Yahoo RSS,neutral,0.0
+2026-03-30 19:59:21,"Dow Tests 45,000 as War Sends Oil to $110+ and the VIX Surges 50% in a Month",MSFT,Yahoo RSS,positive,0.804081380367279
+2026-03-30 20:45:50,"Nasdaq, S&P 500 Fall For Third Day, Oil Prices Rise as Iran War Enters Fifth Week",NVDA,Yahoo RSS,negative,-0.8138435482978821
+2026-03-27 20:26:00,Meta’s stock extends decline — and the pressure may not abate anytime soon - marketwatch.com,META,Google RSS,negative,-0.898319661617279
+2026-03-30 17:50:40,"Netflix, Inc. Stock: Analyzing Business Model, Growth Strategy, and Investor Opportunities in Stream - AD HOC NEWS",NFLX,Google RSS,neutral,0.0
