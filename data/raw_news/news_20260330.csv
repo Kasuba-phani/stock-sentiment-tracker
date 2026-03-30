@@ -98,3 +98,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-30 20:45:50,"Nasdaq, S&P 500 Fall For Third Day, Oil Prices Rise as Iran War Enters Fifth Week",NVDA,Yahoo RSS,negative,-0.8138435482978821
 2026-03-27 20:26:00,Meta’s stock extends decline — and the pressure may not abate anytime soon - marketwatch.com,META,Google RSS,negative,-0.898319661617279
 2026-03-30 17:50:40,"Netflix, Inc. Stock: Analyzing Business Model, Growth Strategy, and Investor Opportunities in Stream - AD HOC NEWS",NFLX,Google RSS,neutral,0.0
+2026-03-30 21:02:00,"Dow Jones Futures: Nasdaq Falls After Trump, Powell Comments; Micron, Nvidia, Palantir, Tesla Are Key Losers - Investor's Business Daily",NVDA,Google RSS,negative,-0.8413230180740356
+2026-03-30 21:02:00,"Dow Jones Futures: Nasdaq Falls After Trump, Powell Comments; Micron, Nvidia, Palantir, Tesla Are Key Losers - Investor's Business Daily",TSLA,Google RSS,negative,-0.8413230180740356
+2026-03-30 14:44:39,Meta dropped 20% and still can’t shake its bulls - Rolling Out,META,Google RSS,negative,-0.9483288526535034
