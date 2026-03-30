@@ -101,3 +101,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-30 21:02:00,"Dow Jones Futures: Nasdaq Falls After Trump, Powell Comments; Micron, Nvidia, Palantir, Tesla Are Key Losers - Investor's Business Daily",NVDA,Google RSS,negative,-0.8413230180740356
 2026-03-30 21:02:00,"Dow Jones Futures: Nasdaq Falls After Trump, Powell Comments; Micron, Nvidia, Palantir, Tesla Are Key Losers - Investor's Business Daily",TSLA,Google RSS,negative,-0.8413230180740356
 2026-03-30 14:44:39,Meta dropped 20% and still can’t shake its bulls - Rolling Out,META,Google RSS,negative,-0.9483288526535034
+2026-03-30 15:02:59,‘Don’t Fret’: Top Investor’s Faith in Nvidia Stock is Strong - tipranks.com,NVDA,Google RSS,neutral,0.0
+2026-03-30 21:46:57,"Stock Market Today, March 30: High Oil Prices Drive Risk-Off Sentiment, Nasdaq Falls 0.7%",NVDA,Yahoo RSS,negative,-0.9571557641029358
+2026-03-30 16:42:57,Morgan Stanley Slashes META Price Target As Shares Keep Falling - tipranks.com,META,Google RSS,negative,-0.8718520402908325
