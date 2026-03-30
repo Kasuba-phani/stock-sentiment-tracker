@@ -27,7 +27,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-26 20:04:10,Major League Baseball Event Gives Netflix Stock (NASDAQ:NFLX) a Small Boost - TipRanks,NFLX,Google RSS,positive,0.8669716715812683
 2026-03-28 15:43:25,Netflix Stock Draws Strong Buys And Big Upside Targets - TipRanks,NFLX,Google RSS,positive,0.8557050228118896
 2026-03-27 19:57:41,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352516531944276
-2026-03-26 21:15:40,Apple stock price retreats toward $253 as rising yields pressure big tech - Traders Union,AAPL,Google RSS,negative,-0.9616643786430359
+2026-03-26 21:15:40,Apple stock price retreats toward $253 as rising yields pressure big tech - Traders Union,AAPL,Google RSS,negative,-0.961664378643036
 2026-03-29 15:08:26,"Got $5,000? 2 Stocks the Fed's Rate Decision Just Made More Attractive - AOL.com",GOOGL,Google RSS,neutral,0.0
 2026-03-29 01:28:24,"No More Sales Hires for Now at Microsoft, Microsoft Stock (NASDAQ:MSFT) Slides - tipranks.com",MSFT,Google RSS,neutral,0.0
 2026-03-29 14:11:01,Why Microsoft Stock (MSFT) Keeps Falling and Why One Investor Sees More Downside Ahead - tipranks.com,MSFT,Google RSS,negative,-0.6580092906951904
@@ -40,3 +40,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-29 09:03:20,"Dow Jones dives, oil prices near $100 as Iran war drags on; Tesla looms - MSN",TSLA,Google RSS,neutral,0.0
 2026-03-26 20:04:10,Major League Baseball Event Gives Netflix Stock (NASDAQ:NFLX) a Small Boost - tipranks.com,NFLX,Google RSS,neutral,0.0
 2026-03-28 15:43:25,Netflix Stock Draws Strong Buys And Big Upside Targets - tipranks.com,NFLX,Google RSS,positive,0.6773472428321838
+2026-03-30 08:08:59,"Statistically, These 2 ""Magnificent Seven"" Stocks Are Genius Buys, Based on a Time-Tested Valuation Metric - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-03-26 22:03:00,Morgan Stanley resets Alphabet stock forecast on Waymo growth,GOOGL,Bing RSS,negative,-0.7394757270812988
+2026-03-30 08:08:59,"Statistically, These 2 ""Magnificent Seven"" Stocks Are Genius Buys, Based on a Time-Tested Valuation Metric - The Motley Fool",AMZN,Google RSS,neutral,0.0
+2026-03-25 11:37:10,UBS lowers Microsoft stock price target on M365 concerns - investing.com,MSFT,Google RSS,neutral,0.0
+2026-03-25 14:41:07,Microsoft stock holds steady as oversold signals follow robust earnings jump - Traders Union,MSFT,Google RSS,positive,0.5839029550552368
+2026-03-29 22:11:54,Microsoft is second most oversold stock in Nasdaq 100 after brutal Q1 — yet this analyst still sees 40% upside,MSFT,Bing RSS,negative,-0.9238593578338623
+2026-03-27 06:31:00,Nvidia stock is cheaper than the S&P 500. The chip maker’s slump may finally be over.,NVDA,Bing RSS,neutral,0.0
+2026-03-30 08:08:59,"Statistically, These 2 ""Magnificent Seven"" Stocks Are Genius Buys, Based on a Time-Tested Valuation Metric - The Motley Fool",META,Google RSS,neutral,0.0
+2026-03-25 22:52:54,"META Stock Is Efficient and Is “One of the Most Compelling Mag 7 Stocks,” Prominent Investor Says - MSN",META,Google RSS,positive,0.5646069049835205
+2026-03-27 13:26:00,Meta’s stock extends decline — and the pressure may not abate anytime soon,META,Bing RSS,negative,-0.9616024494171143
