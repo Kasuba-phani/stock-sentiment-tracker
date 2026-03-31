@@ -75,3 +75,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-31 12:00:00,Amazon Leo to Join Channel Partners Conference & Expo and MSP Summit 2026,MSFT,Yahoo RSS,neutral,0.0
 2026-03-31 12:37:41,Tesla Q1 deliveries expected to rebound slightly in challenging EV landscape,TSLA,Yahoo RSS,positive,0.8994841575622559
 2026-03-31 12:00:00,Strike Graph Delivers Proprietary Small Language AI Models That Outperform Leading Commercial LLMs on Compliance Tasks,META,Yahoo RSS,positive,0.8945813179016113
+2026-03-31 14:45:21,Bearish momentum and technical pressure temper Alphabet stock gain - Traders Union,GOOGL,Google RSS,negative,-0.9230226278305054
+2026-03-31 14:39:15,Regulatory scrutiny and bearish momentum keep Microsoft stock trading near recent lows - Traders Union,MSFT,Google RSS,negative,-0.9475680589675903
+2026-03-31 03:11:15,"Dow Jones futures: Nasdaq falls after Trump, Powell comments; Micron, Nvidia, Palantir, Tesla are key losers - msn.com",NVDA,Google RSS,negative,-0.7813912034034729
+2026-03-31 10:01:58,"Billionaire Stanley Druckenmiller piled into 2 of the hottest AI stocks for a second consecutive quarter (no, not Nvidia or Palantir) - msn.com",NVDA,Google RSS,neutral,0.0
+2026-03-31 14:35:00,The Best 3 Retail Stocks to Buy and Hold for Decades,NVDA,Yahoo RSS,neutral,0.0
