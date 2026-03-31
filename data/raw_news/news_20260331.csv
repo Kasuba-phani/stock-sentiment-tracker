@@ -38,8 +38,21 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-29 08:00:36,"Capital Investment Advisors LLC Purchases 33,733 Shares of Netflix, Inc. $NFLX - marketbeat.com",NFLX,Google RSS,neutral,0.0
 2026-03-28 15:43:25,Netflix Stock Draws Strong Buys And Big Upside Targets - TipRanks,NFLX,Google RSS,positive,0.8557053804397583
 2026-03-26 20:04:10,Major League Baseball Event Gives Netflix Stock (NASDAQ:NFLX) a Small Boost - TipRanks,NFLX,Google RSS,positive,0.8669716715812683
-2026-03-31 03:11:15,"Dow Jones futures: Nasdaq falls after Trump, Powell comments; Micron, Nvidia, Palantir, Tesla are key losers - MSN",NVDA,Google RSS,negative,-0.9238064885139465
+2026-03-31 03:11:15,"Dow Jones futures: Nasdaq falls after Trump, Powell comments; Micron, Nvidia, Palantir, Tesla are key losers - MSN",NVDA,Google RSS,negative,-0.9238064885139464
 2026-03-27 14:30:02,"Exxon Mobil Is Now More Expensive Than Nvidia Stock. What Gives, and How Should You Play XOM Here? - Barchart",NVDA,Google RSS,neutral,0.0
 2026-03-31 03:11:13,Tesla stock at 6-month low: Analysts flag 4 red flags investors can’t ignore ahead of crucial Q1 deliveries - MSN,TSLA,Google RSS,negative,-0.841627299785614
 2026-03-26 23:16:00,Tesla Touts Lower EV Delivery Estimate. The Stock Is Falling. - Investor's Business Daily,TSLA,Google RSS,negative,-0.9604312181472778
 2026-03-27 11:03:00,Meta Stock Is Falling Again. What Can Stop the Rot.,META,Bing RSS,negative,-0.6487269401550293
+2026-03-30 17:03:20,"After Falling Nearly 9% Last Week, Has Alphabet Lost Its Edge? - MarketBeat",GOOGL,Google RSS,negative,-0.9515362977981567
+2026-03-30 18:01:35,"After falling nearly 9% last week, has Alphabet lost its edge? - msn.com",GOOGL,Google RSS,negative,-0.85603928565979
+2026-03-31 06:21:02,"Big Tech's $635 billion AI spending faces energy shock test, S&P Global says",GOOGL,Yahoo RSS,negative,-0.5831685066223145
+2026-03-31 06:21:02,"Big Tech's $635 billion AI spending faces energy shock test, S&P Global says",AMZN,Yahoo RSS,negative,-0.5831685066223145
+2026-03-30 18:01:35,Microsoft is second most oversold stock in Nasdaq 100 after brutal Q1 — yet this analyst still sees 40% upside - msn.com,MSFT,Google RSS,neutral,0.0
+2026-03-29 15:09:00,"Mag 7 beckons dip-buyers, but no one is jumping in despite Street seeing U.S. tech outperformance - Fortune",MSFT,Google RSS,positive,0.4384664297103882
+2026-03-31 06:21:02,"Big Tech's $635 billion AI spending faces energy shock test, S&P Global says",MSFT,Yahoo RSS,negative,-0.5831685066223145
+2026-03-27 14:30:02,"Exxon Mobil Is Now More Expensive Than Nvidia Stock. What Gives, and How Should You Play XOM Here? - Barchart.com",NVDA,Google RSS,neutral,0.0
+2026-03-31 03:11:13,Tesla stock at 6-month low: Analysts flag 4 red flags investors can’t ignore ahead of crucial Q1 deliveries - msn.com,TSLA,Google RSS,negative,-0.7203539609909058
+2026-03-30 19:36:27,Tesla stock at 6-month low: Analysts flag 4 red flags investors can’t ignore ahead of crucial Q1 deliveries,TSLA,Bing RSS,negative,-0.9449142813682556
+2026-03-27 16:38:47,"Meta stock selloff continues, but a bigger risk looms - TradingView",META,Google RSS,negative,-0.7200678586959839
+2026-03-31 06:21:02,"Big Tech's $635 billion AI spending faces energy shock test, S&P Global says",META,Yahoo RSS,negative,-0.5831685066223145
+2026-03-29 08:00:36,"Capital Investment Advisors LLC Purchases 33,733 Shares of Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
