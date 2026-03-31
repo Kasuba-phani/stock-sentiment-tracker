@@ -1,0 +1,40 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-03-30 14:08:06,Slight decline for Apple stock as short-term indicators flash continued weakness - Traders Union,AAPL,Google RSS,negative,-0.9632374048233032
+2026-03-26 21:15:40,Apple stock price retreats toward $253 as rising yields pressure big tech - Traders Union,AAPL,Google RSS,negative,-0.9616643786430359
+2026-03-30 17:03:20,"After Falling Nearly 9% Last Week, Has Alphabet Lost Its Edge? - marketbeat.com",GOOGL,Google RSS,negative,-0.9067215919494629
+2026-03-30 13:45:15,22 New 4-Star Stocks This Week - Morningstar,GOOGL,Google RSS,neutral,0.0
+2026-03-27 19:27:52,Morgan Stanley resets Alphabet stock forecast on Waymo growth - thestreet.com,GOOGL,Google RSS,neutral,0.0
+2026-03-29 07:00:00,Alphabet Stock Fell 9% This Week. Here’s Why Analysts Still See $409 Fair Value - TIKR.com,GOOGL,Google RSS,negative,-0.7893245816230774
+2026-03-30 18:01:35,"After falling nearly 9% last week, has Alphabet lost its edge? - MSN",GOOGL,Google RSS,negative,-0.9111883640289307
+2026-03-30 09:06:00,"Statistically, These 2 ""Magnificent Seven"" Stocks Are Genius Buys, Based on a Time-Tested Valuation Metric - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-03-27 14:34:38,Alphabet stock price falls to $277 as Nasdaq correction deepens - Traders Union,GOOGL,Google RSS,negative,-0.946401834487915
+2026-03-29 15:34:00,"Got $5,000? 2 Stocks the Fed's Rate Decision Just Made More Attractive - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-03-30 14:24:14,Alphabet stock price forecast: Sideways action expected as GOOGL faces continued pressure - Traders Union,GOOGL,Google RSS,negative,-0.9268044233322144
+2026-03-26 22:03:00,Morgan Stanley resets Alphabet stock forecast on Waymo growth,GOOGL,Bing RSS,negative,-0.7394757270812988
+2026-03-30 17:50:00,Meta Is a ‘Top Pick’ at Morgan Stanley. Why Wall Street Still Loves the Struggling Stock.,GOOGL,Yahoo RSS,neutral,0.0
+2026-03-30 09:06:00,"Statistically, These 2 ""Magnificent Seven"" Stocks Are Genius Buys, Based on a Time-Tested Valuation Metric - The Motley Fool",AMZN,Google RSS,neutral,0.0
+2026-03-29 15:34:00,"Got $5,000? 2 Stocks the Fed's Rate Decision Just Made More Attractive - The Motley Fool",AMZN,Google RSS,neutral,0.0
+2026-03-29 01:28:24,"No More Sales Hires for Now at Microsoft, Microsoft Stock (NASDAQ:MSFT) Slides - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-03-30 17:26:00,Are Analysts Crazy? Price Targets Suggest 29% Jump In S&P 500. These 10 Stocks Show Highest Potential Gains. - Investor's Business Daily,MSFT,Google RSS,positive,0.6302871108055115
+2026-03-29 14:11:01,Why Microsoft Stock (MSFT) Keeps Falling and Why One Investor Sees More Downside Ahead - TipRanks,MSFT,Google RSS,negative,-0.7754738330841064
+2026-03-27 17:55:59,Buy the Dip or Stay Away? Top Investor Weighs in on Microsoft Stock - TipRanks,MSFT,Google RSS,neutral,0.0
+2026-03-30 18:01:35,Microsoft is second most oversold stock in Nasdaq 100 after brutal Q1 — yet this analyst still sees 40% upside - MSN,MSFT,Google RSS,negative,-0.7718465924263
+2026-03-29 12:36:28,Microsoft Near Multi-Year Lows: Why Analysts Still See a Path to $792 - TIKR.com,MSFT,Google RSS,neutral,0.0
+2026-03-30 14:34:26,Microsoft stock gains 1.42% as AI investment fails to offset bearish signals - Traders Union,MSFT,Google RSS,negative,-0.9577421545982361
+2026-03-25 14:41:07,Microsoft stock holds steady as oversold signals follow robust earnings jump - Traders Union,MSFT,Google RSS,positive,0.5839029550552368
+2026-03-30 19:59:21,"Dow Tests 45,000 as War Sends Oil to $110+ and the VIX Surges 50% in a Month",MSFT,Yahoo RSS,positive,0.804081380367279
+2026-03-31 01:10:00,"Dow Jones Futures: Nasdaq Falls After Trump, Powell Comments; Micron, Nvidia, Palantir, Tesla Are Key Losers - Investor's Business Daily",NVDA,Google RSS,negative,-0.8413230180740356
+2026-03-30 15:02:59,‘Don’t Fret’: Top Investor’s Faith in Nvidia Stock is Strong - TipRanks,NVDA,Google RSS,positive,0.5881206393241882
+2026-03-30 14:51:16,"Nvidia stock continues to slip, but some bullish signs emerge - Invezz",NVDA,Google RSS,negative,-0.8831188082695007
+2026-03-31 01:10:00,"Dow Jones Futures: Nasdaq Falls After Trump, Powell Comments; Micron, Nvidia, Palantir, Tesla Are Key Losers - Investor's Business Daily",TSLA,Google RSS,negative,-0.8413230180740356
+2026-03-30 15:09:26,Seller pressure and weak trend strength keep Tesla stock in check despite oversold signals - Traders Union,TSLA,Google RSS,negative,-0.8334486484527588
+2026-03-30 19:40:00,"Dow Jones futures: Nasdaq falls after Trump, Powell comments; Micron, Nvidia, Palantir, Tesla are key losers",TSLA,Bing RSS,negative,-0.8572149872779846
+2026-03-30 16:42:57,Morgan Stanley Slashes META Price Target As Shares Keep Falling - TipRanks,META,Google RSS,negative,-0.9481649994850159
+2026-03-26 21:00:00,Meta And Reddit Stocks Are Slumping Despite Strong Digital Ad Growth. Here's Why. - Investor's Business Daily,META,Google RSS,negative,-0.9298273921012878
+2026-03-30 14:13:12,Meta stock edges higher as first 2026 dividend and cost cuts offset weak momentum - Traders Union,META,Google RSS,positive,0.92573082447052
+2026-03-27 20:26:00,Meta’s stock extends decline — and the pressure may not abate anytime soon - MarketWatch,META,Google RSS,negative,-0.9433327317237854
+2026-03-27 13:26:00,Meta’s stock extends decline — and the pressure may not abate anytime soon,META,Bing RSS,negative,-0.9616024494171143
+2026-03-30 17:50:00,Meta Is a ‘Top Pick’ at Morgan Stanley. Why Wall Street Still Loves the Struggling Stock.,META,Yahoo RSS,neutral,0.0
+2026-03-29 08:00:36,"Capital Investment Advisors LLC Purchases 33,733 Shares of Netflix, Inc. $NFLX - marketbeat.com",NFLX,Google RSS,neutral,0.0
+2026-03-28 15:43:25,Netflix Stock Draws Strong Buys And Big Upside Targets - TipRanks,NFLX,Google RSS,positive,0.8557053804397583
+2026-03-26 20:04:10,Major League Baseball Event Gives Netflix Stock (NASDAQ:NFLX) a Small Boost - TipRanks,NFLX,Google RSS,positive,0.8669716715812683
