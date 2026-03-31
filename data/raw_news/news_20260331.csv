@@ -94,9 +94,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-31 09:36:47,Meta stock jumps 4% after steep sell-off,META,Bing RSS,positive,0.7790007591247559
 2026-03-31 18:50:29,Is Apple Stock a Buy After Falling 14% From Its All-Time High? - The Motley Fool,AAPL,Google RSS,negative,-0.9121262431144714
 2026-03-31 11:59:00,Is Apple Stock a Buy After Falling 14% From Its All-Time High?,AAPL,Bing RSS,negative,-0.8933009505271912
-2026-03-31 20:19:29,Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle' - CNBC,MSFT,Google RSS,negative,-0.9639750123023987
+2026-03-31 20:19:29,Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle' - CNBC,MSFT,Google RSS,negative,-0.9639750123023988
 2026-03-31 20:45:46,Nvidia investors just had a surprising first quarter,MSFT,Yahoo RSS,positive,0.8988720178604126
 2026-03-31 20:45:46,Nvidia investors just had a surprising first quarter,NVDA,Yahoo RSS,positive,0.8988720178604126
 2026-03-31 20:08:47,"Dow skyrockets by over 1,100 points, stocks rally to end Q1 2026",NVDA,Yahoo RSS,positive,0.6827061772346497
 2026-03-31 20:45:46,Nvidia investors just had a surprising first quarter,TSLA,Yahoo RSS,positive,0.8988720178604126
 2026-03-31 20:45:46,Nvidia investors just had a surprising first quarter,META,Yahoo RSS,positive,0.8988720178604126
+2026-03-31 20:10:00,Stocks Can’t Rally Without the Mag 7. Big Tech Looks Cheap—But Do Investors Still Believe?,MSFT,Yahoo RSS,neutral,0.0
+2026-03-31 21:33:52,Dow Jones Futures: Market Soars As Trump Signals Iran War Exit; Seven Stocks To Watch,TSLA,Yahoo RSS,neutral,0.0
+2026-03-27 16:38:47,"Meta stock selloff continues, but a bigger risk looms - tradingview.com",META,Google RSS,negative,-0.5251615643501282
+2026-03-31 20:10:00,Stocks Can’t Rally Without the Mag 7. Big Tech Looks Cheap—But Do Investors Still Believe?,META,Yahoo RSS,neutral,0.0
