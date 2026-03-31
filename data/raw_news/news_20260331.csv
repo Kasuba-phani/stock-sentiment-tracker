@@ -43,7 +43,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-31 03:11:13,Tesla stock at 6-month low: Analysts flag 4 red flags investors can’t ignore ahead of crucial Q1 deliveries - MSN,TSLA,Google RSS,negative,-0.841627299785614
 2026-03-26 23:16:00,Tesla Touts Lower EV Delivery Estimate. The Stock Is Falling. - Investor's Business Daily,TSLA,Google RSS,negative,-0.9604312181472778
 2026-03-27 11:03:00,Meta Stock Is Falling Again. What Can Stop the Rot.,META,Bing RSS,negative,-0.6487269401550293
-2026-03-30 17:03:20,"After Falling Nearly 9% Last Week, Has Alphabet Lost Its Edge? - MarketBeat",GOOGL,Google RSS,negative,-0.9515362977981567
+2026-03-30 17:03:20,"After Falling Nearly 9% Last Week, Has Alphabet Lost Its Edge? - MarketBeat",GOOGL,Google RSS,negative,-0.9515362977981568
 2026-03-30 18:01:35,"After falling nearly 9% last week, has Alphabet lost its edge? - msn.com",GOOGL,Google RSS,negative,-0.85603928565979
 2026-03-31 06:21:02,"Big Tech's $635 billion AI spending faces energy shock test, S&P Global says",GOOGL,Yahoo RSS,negative,-0.5831685066223145
 2026-03-31 06:21:02,"Big Tech's $635 billion AI spending faces energy shock test, S&P Global says",AMZN,Yahoo RSS,negative,-0.5831685066223145
@@ -56,3 +56,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-27 16:38:47,"Meta stock selloff continues, but a bigger risk looms - TradingView",META,Google RSS,negative,-0.7200678586959839
 2026-03-31 06:21:02,"Big Tech's $635 billion AI spending faces energy shock test, S&P Global says",META,Yahoo RSS,negative,-0.5831685066223145
 2026-03-29 08:00:36,"Capital Investment Advisors LLC Purchases 33,733 Shares of Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
+2026-03-31 08:00:26,NVIDIA Corporation $NVDA Stock Position Trimmed by Eastover Investment Advisors LLC - MarketBeat,NVDA,Google RSS,neutral,0.0
+2026-03-30 15:40:10,Meta’s technical breakdown worsens amid ongoing selloff - Seeking Alpha,META,Google RSS,negative,-0.9682825207710266
