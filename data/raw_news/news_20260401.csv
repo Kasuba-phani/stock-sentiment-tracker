@@ -76,9 +76,22 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-01 04:26:00,Tesla first-quarter deliveries are coming. What it means for the stock.,TSLA,Bing RSS,neutral,0.0
 2026-04-01 13:25:30,Tesla Sees Strong Rebound in Europe Sales,TSLA,Yahoo RSS,positive,0.952110767364502
 2026-04-01 11:05:07,"Netflix, Inc. $NFLX Stock Position Raised by Meyer Handelman Co. - MarketBeat",NFLX,Google RSS,neutral,0.0
-2026-03-31 20:19:29,Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle' - cnbc.com,MSFT,Google RSS,negative,-0.9492607712745667
+2026-03-31 20:19:29,Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle' - cnbc.com,MSFT,Google RSS,negative,-0.9492607712745668
 2026-04-01 15:00:03,“Sentiment Has Shifted on Copilot”: Analysts Support Microsoft Stock (MSFT) amid AI Slump - TipRanks,MSFT,Google RSS,positive,0.8597332239151001
 2026-04-01 11:47:44,Analysts set Microsoft stock price target - finbold.com,MSFT,Google RSS,neutral,0.0
-2026-04-01 07:44:00,"Microsoft closes its worst quarter on Wall Street since the 2008, as almost all OpenAI gains wiped out",MSFT,Bing RSS,negative,-0.9720811247825623
+2026-04-01 07:44:00,"Microsoft closes its worst quarter on Wall Street since the 2008, as almost all OpenAI gains wiped out",MSFT,Bing RSS,negative,-0.9720811247825624
 2026-04-01 14:50:09,This is the most important S&P 500 sector for earnings growth,NVDA,Yahoo RSS,neutral,0.0
-2026-04-01 14:19:08,Meta stock sees modest gain as AI expansion deals offset subdued technicals - Traders Union,META,Google RSS,positive,0.9370255470275879
+2026-04-01 14:19:08,Meta stock sees modest gain as AI expansion deals offset subdued technicals - Traders Union,META,Google RSS,positive,0.937025547027588
+2026-03-27 19:27:52,Morgan Stanley resets Alphabet stock forecast on Waymo growth - thestreet.com,GOOGL,Google RSS,neutral,0.0
+2026-04-01 15:00:58,"Why is the US stock market today surging? Dow, S&P 500, Nasdaq jump on Trump Iran ceasefire hopes and stro - The Economic Times",AMZN,Google RSS,neutral,0.0
+2026-04-01 12:22:00,"Microsoft, Intel, Nike, RH, Lamb Weston, nCino, Exxon , and More Stock Movers - Barron's",MSFT,Google RSS,neutral,0.0
+2026-04-01 16:22:26,Are Mag 7 stocks stabilizing? What the Microsoft and Tesla charts show. - MSN,MSFT,Google RSS,neutral,0.0
+2026-03-29 12:36:28,Microsoft Near Multi-Year Lows: Why Analysts Still See a Path to $792 - TIKR.com,MSFT,Google RSS,neutral,0.0
+2026-04-01 16:45:55,Tesla stock is surging 2.5% ahead Q1 sales data: what to expect - TradingView,TSLA,Google RSS,neutral,0.0
+2026-04-01 06:30:29,Tesla stock in focus as strong France data signals Europe rebound - Invezz,TSLA,Google RSS,positive,0.6405523419380188
+2026-04-01 15:00:58,"Why is the US stock market today surging? Dow, S&P 500, Nasdaq jump on Trump Iran ceasefire hopes and stro - The Economic Times",TSLA,Google RSS,neutral,0.0
+2026-04-01 15:23:19,+2.62% for Tesla stock as traders react to oversold levels and upcoming report - Traders Union,TSLA,Google RSS,negative,-0.7175604701042175
+2026-04-01 16:57:13,Tesla stock is surging 2.5% ahead Q1 sales data: what to expect - Invezz,TSLA,Google RSS,neutral,0.0
+2026-03-31 17:45:57,Tesla jumps 4% on Optimus buzz and market rebound momentum - TradingView,TSLA,Google RSS,positive,0.9179014563560486
+2026-04-01 07:05:00,Tesla stock rises ahead of delivery numbers. Brace for volatility.,TSLA,Bing RSS,neutral,0.0
+2026-04-01 09:58:00,Tesla stock is surging 2.5% ahead Q1 sales data: what to expect,TSLA,Bing RSS,neutral,0.0
