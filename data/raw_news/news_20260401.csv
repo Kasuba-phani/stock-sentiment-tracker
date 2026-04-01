@@ -49,11 +49,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-31 14:39:15,Regulatory scrutiny and bearish momentum keep Microsoft stock trading near recent lows - tradersunion.com,MSFT,Google RSS,negative,-0.7893155217170715
 2026-03-30 14:13:12,Meta stock edges higher as first 2026 dividend and cost cuts offset weak momentum - tradersunion.com,META,Google RSS,positive,0.8987737894058228
 2026-03-27 16:38:47,"Meta stock selloff continues, but a bigger risk looms - TradingView",META,Google RSS,negative,-0.7200678586959839
-2026-03-31 20:17:08,Is Apple Stock a Buy After Falling 14% From Its All-Time High? - AOL.com,AAPL,Google RSS,negative,-0.9191455841064453
+2026-03-31 20:17:08,Is Apple Stock a Buy After Falling 14% From Its All-Time High? - AOL.com,AAPL,Google RSS,negative,-0.9191455841064452
 2026-03-31 17:39:33,Is Alphabet Inc. (GOOGL) one of the Best Goldman Sachs AI Stocks: Top 12 Stocks to Buy? - sg.finance.yahoo.com,GOOGL,Google RSS,neutral,0.0
-2026-04-01 05:48:33,Stock Market Movement | Robot-related stocks surged in the afternoon as Amazon officially entered the humanoid robotics market; institutions are optimistic about the sustainability of the sector's upward trend. - 富途牛牛,AMZN,Google RSS,positive,0.9011901617050171
+2026-04-01 05:48:33,Stock Market Movement | Robot-related stocks surged in the afternoon as Amazon officially entered the humanoid robotics market; institutions are optimistic about the sustainability of the sector's upward trend. - 富途牛牛,AMZN,Google RSS,positive,0.9011901617050172
 2026-03-30 18:01:35,Microsoft is second most oversold stock in Nasdaq 100 after brutal Q1 — yet this analyst still sees 40% upside - MSN,MSFT,Google RSS,negative,-0.7718465328216553
 2026-03-30 06:59:00,Microsoft (MSFT) Beyond the OpenAI Hype – Should You Still Buy The Stock For Long-Term Growth?,MSFT,Bing RSS,neutral,0.0
 2026-03-31 18:21:42,"Caterpillar, NVIDIA Corp. share gains lead Dow's nearly 950-point surge - MSN",NVDA,Google RSS,positive,0.7873770594596863
 2026-04-01 06:28:00,Tesla stock in focus as strong France data signals Europe rebound - TradingView,TSLA,Google RSS,positive,0.589554488658905
 2026-03-31 23:28:35,Tesla stock in focus as strong France data signals Europe rebound,TSLA,Bing RSS,positive,0.4457772672176361
+2026-03-30 17:03:20,"After Falling Nearly 9% Last Week, Has Alphabet Lost Its Edge? - marketbeat.com",GOOGL,Google RSS,negative,-0.9067215919494629
+2026-04-01 07:53:17,NVIDIA Corporation $NVDA Stock Position Lowered by Evolution Wealth Advisors LLC - marketbeat.com,NVDA,Google RSS,neutral,0.0
+2026-04-01 06:28:00,Tesla stock in focus as strong France data signals Europe rebound - tradingview.com,TSLA,Google RSS,neutral,0.0
+2026-03-31 17:45:57,Tesla jumps 4% on Optimus buzz and market rebound momentum - tradingview.com,TSLA,Google RSS,positive,0.6857025623321533
+2026-04-01 08:19:26,"Fifth Third Wealth Advisors LLC Acquires 91,466 Shares of Netflix, Inc. $NFLX - marketbeat.com",NFLX,Google RSS,neutral,0.0
+2026-03-29 08:00:36,"Capital Investment Advisors LLC Purchases 33,733 Shares of Netflix, Inc. $NFLX - marketbeat.com",NFLX,Google RSS,neutral,0.0
