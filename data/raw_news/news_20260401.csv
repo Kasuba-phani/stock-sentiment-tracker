@@ -113,3 +113,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-01 11:05:07,"Netflix, Inc. $NFLX Stock Position Raised by Meyer Handelman Co. - marketbeat.com",NFLX,Google RSS,neutral,0.0
 2026-03-28 15:43:25,Netflix Stock Draws Strong Buys And Big Upside Targets - tipranks.com,NFLX,Google RSS,positive,0.6773472428321838
 2026-03-31 12:37:41,Tesla Q1 deliveries expected to rebound slightly in challenging EV landscape,TSLA,Yahoo Global,positive,0.8994841575622559
+2026-03-31 19:45:00,Is Apple Stock a Buy After Falling 14% From Its All-Time High? - fool.com,AAPL,Google RSS,negative,-0.9373863935470581
+2026-04-01 21:15:04,"Dow Jones, S&P 500, Nasdaq gain as Trump signals possible end to Iran conflict: Intel, Eli Lilly, Alphabet - The Economic Times",GOOGL,Google RSS,neutral,0.0
+2026-04-01 08:48:59,"Microsoft (MSFT), Chevron, and Engine No. 1 Ink Power Supply Agreement for Data Centers - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-03-30 15:40:10,Meta’s technical breakdown worsens amid ongoing selloff - seekingalpha.com,META,Google RSS,negative,-0.9535335898399353
