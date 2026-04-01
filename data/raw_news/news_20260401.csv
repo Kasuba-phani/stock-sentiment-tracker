@@ -71,8 +71,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-01 10:16:34,"Megacap tech remains heavily overweight in portfolios, led by Microsoft and Nvidia - MSN",MSFT,Google RSS,negative,-0.8562939763069153
 2026-04-01 07:53:17,NVIDIA Corporation $NVDA Stock Position Lowered by Evolution Wealth Advisors LLC - MarketBeat,NVDA,Google RSS,negative,-0.8918705582618713
 2026-04-01 09:26:00,This Is the Smartest ETF to Buy as the Dow Jones Industrial Average and Nasdaq Composite Enter Correction Territory,NVDA,Yahoo RSS,neutral,0.0
-2026-04-01 07:47:29,"After falling nearly 9% last week, has Alphabet lost its edge? - MSN",GOOGL,Google RSS,negative,-0.9111883640289307
+2026-04-01 07:47:29,"After falling nearly 9% last week, has Alphabet lost its edge? - MSN",GOOGL,Google RSS,negative,-0.9111883640289308
 2026-04-01 11:47:44,Analysts set Microsoft stock price target - Finbold,MSFT,Google RSS,neutral,0.0
 2026-04-01 04:26:00,Tesla first-quarter deliveries are coming. What it means for the stock.,TSLA,Bing RSS,neutral,0.0
 2026-04-01 13:25:30,Tesla Sees Strong Rebound in Europe Sales,TSLA,Yahoo RSS,positive,0.952110767364502
 2026-04-01 11:05:07,"Netflix, Inc. $NFLX Stock Position Raised by Meyer Handelman Co. - MarketBeat",NFLX,Google RSS,neutral,0.0
+2026-03-31 20:19:29,Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle' - cnbc.com,MSFT,Google RSS,negative,-0.9492607712745667
+2026-04-01 15:00:03,“Sentiment Has Shifted on Copilot”: Analysts Support Microsoft Stock (MSFT) amid AI Slump - TipRanks,MSFT,Google RSS,positive,0.8597332239151001
+2026-04-01 11:47:44,Analysts set Microsoft stock price target - finbold.com,MSFT,Google RSS,neutral,0.0
+2026-04-01 07:44:00,"Microsoft closes its worst quarter on Wall Street since the 2008, as almost all OpenAI gains wiped out",MSFT,Bing RSS,negative,-0.9720811247825623
+2026-04-01 14:50:09,This is the most important S&P 500 sector for earnings growth,NVDA,Yahoo RSS,neutral,0.0
+2026-04-01 14:19:08,Meta stock sees modest gain as AI expansion deals offset subdued technicals - Traders Union,META,Google RSS,positive,0.9370255470275879
