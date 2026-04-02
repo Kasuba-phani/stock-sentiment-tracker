@@ -77,15 +77,22 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-01 01:20:52,Stronger technical forecast for Tesla stock price after Tuesday trading - stockinvest.us,TSLA,Google RSS,positive,0.5122299194335938
 2026-04-02 03:43:00,"Dow Jones futures fall, oil prices jump as Trump vows to hit Iran 'hard'; Tesla deliveries due",TSLA,Bing RSS,negative,-0.905567705631256
 2026-03-31 01:00:11,META stock upgraded from Strong Sell Candidate to Sell Candidate after Monday trading session - stockinvest.us,META,Google RSS,positive,0.9102323055267334
-2026-03-31 19:45:00,Is Apple Stock a Buy After Falling 14% From Its All-Time High? - fool.com,AAPL,Google RSS,negative,-0.9373863935470581
+2026-03-31 19:45:00,Is Apple Stock a Buy After Falling 14% From Its All-Time High? - fool.com,AAPL,Google RSS,negative,-0.937386393547058
 2026-04-02 09:57:00,"These Stocks Are Today’s Movers: Tesla, Globalstar, Amazon, Exxon Mobil, Penguin Solutions, and More",AAPL,Yahoo RSS,neutral,0.0
 2026-03-30 13:45:15,22 New 4-Star Stocks This Week - Morningstar,GOOGL,Google RSS,neutral,0.0
 2026-04-02 09:57:00,"These Stocks Are Today’s Movers: Tesla, Globalstar, Amazon, Exxon Mobil, Penguin Solutions, and More - barrons.com",AMZN,Google RSS,neutral,0.0
 2026-04-02 09:57:00,"These Stocks Are Today’s Movers: Tesla, Globalstar, Amazon, Exxon Mobil, Penguin Solutions, and More",AMZN,Yahoo RSS,neutral,0.0
-2026-04-02 11:00:53,Microsoft just had its worst quarter on Wall Street in nearly two decades — the steepest fall since the Great Recession - moneywise.com,MSFT,Google RSS,negative,-0.9625885486602783
-2026-04-02 11:30:00,Microsoft just had its worst quarter on Wall Street in nearly two decades — the steepest fall since the Great Recession,MSFT,Yahoo RSS,negative,-0.9724312424659729
+2026-04-02 11:00:53,Microsoft just had its worst quarter on Wall Street in nearly two decades — the steepest fall since the Great Recession - moneywise.com,MSFT,Google RSS,negative,-0.9625885486602784
+2026-04-02 11:30:00,Microsoft just had its worst quarter on Wall Street in nearly two decades — the steepest fall since the Great Recession,MSFT,Yahoo RSS,negative,-0.9724312424659728
 2026-04-02 10:10:18,"Nvidia (NVDA), Micron (MU): Wolfe Research Points to These 2 Chip Stocks as Key Drivers of S&P 500 (SPX) Growth - TipRanks",NVDA,Google RSS,positive,0.5491337776184082
 2026-04-02 09:57:00,"These Stocks Are Today’s Movers: Tesla, Globalstar, Amazon, Exxon Mobil, Penguin Solutions, and More - barrons.com",TSLA,Google RSS,neutral,0.0
 2026-04-02 11:46:15,Tesla stock is falling. It isn’t the delivery numbers. - MSN,TSLA,Google RSS,negative,-0.8927595615386963
-2026-04-02 11:24:00,Tesla Stock Is Falling. It Isn’t the Delivery Numbers.,TSLA,Yahoo RSS,negative,-0.9339378476142883
+2026-04-02 11:24:00,Tesla Stock Is Falling. It Isn’t the Delivery Numbers.,TSLA,Yahoo RSS,negative,-0.9339378476142884
 2026-04-02 09:57:00,"These Stocks Are Today’s Movers: Tesla, Globalstar, Amazon, Exxon Mobil, Penguin Solutions, and More",TSLA,Yahoo RSS,neutral,0.0
+2026-04-02 09:57:00,"These Stocks Are Today’s Movers: Tesla, Globalstar, Amazon, Exxon Mobil, Penguin Solutions, and More - Barron's",AMZN,Google RSS,neutral,0.0
+2026-04-02 12:08:00,"Dow Jones Futures Dive, Oil Prices Soar As Trump Vows To Hit Iran 'Hard'; Tesla Deliveries Due - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-04-02 09:57:00,"These Stocks Are Today’s Movers: Tesla, Globalstar, Amazon, Exxon Mobil, Penguin Solutions, and More - Barron's",TSLA,Google RSS,neutral,0.0
+2026-04-02 13:25:54,Tesla first-quarter deliveries miss expectations as sales slump deepens - Investing.com,TSLA,Google RSS,negative,-0.9576078057289124
+2026-04-02 13:09:22,Tesla’s first-quarter deliveries miss estimates as tax credit expiry weighs By Reuters - Investing.com,TSLA,Google RSS,negative,-0.9468845129013062
+2026-04-02 06:10:00,Tesla stock is falling. It isn’t the delivery numbers.,TSLA,Bing RSS,negative,-0.9339378476142883
+2026-04-02 13:10:00,Tesla Deliveries Rise. Why the Stock Is Falling.,TSLA,Yahoo RSS,negative,-0.8065133094787598
