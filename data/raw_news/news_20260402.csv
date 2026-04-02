@@ -1,15 +1,15 @@
 date,headline,ticker,source,sentiment_label,compound
 2026-03-31 19:45:00,Is Apple Stock a Buy After Falling 14% From Its All-Time High? - The Motley Fool,AAPL,Google RSS,negative,-0.9121262431144714
-2026-03-31 20:17:08,Is Apple Stock a Buy After Falling 14% From Its All-Time High? - AOL.com,AAPL,Google RSS,negative,-0.9191455841064453
-2026-03-30 17:03:20,"After Falling Nearly 9% Last Week, Has Alphabet Lost Its Edge? - MarketBeat",GOOGL,Google RSS,negative,-0.9515362977981567
+2026-03-31 20:17:08,Is Apple Stock a Buy After Falling 14% From Its All-Time High? - AOL.com,AAPL,Google RSS,negative,-0.9191455841064452
+2026-03-30 17:03:20,"After Falling Nearly 9% Last Week, Has Alphabet Lost Its Edge? - MarketBeat",GOOGL,Google RSS,negative,-0.9515362977981568
 2026-04-01 09:18:10,"International Private Wealth Advisors LLC Sells 3,722 Shares of Alphabet Inc. $GOOG - MarketBeat",GOOGL,Google RSS,neutral,0.0
 2026-03-27 19:27:52,Morgan Stanley resets Alphabet stock forecast on Waymo growth - thestreet.com,GOOGL,Google RSS,neutral,0.0
 2026-03-29 07:00:00,Alphabet Stock Fell 9% This Week. Here’s Why Analysts Still See $409 Fair Value - TIKR.com,GOOGL,Google RSS,negative,-0.7893239855766296
 2026-04-01 21:15:04,"Dow Jones, S&P 500, Nasdaq gain as Trump signals possible end to Iran conflict: Intel, Eli Lilly, Alphabet - The Economic Times",GOOGL,Google RSS,neutral,0.0
-2026-04-01 07:47:29,"After falling nearly 9% last week, has Alphabet lost its edge? - MSN",GOOGL,Google RSS,negative,-0.9111883640289307
+2026-04-01 07:47:29,"After falling nearly 9% last week, has Alphabet lost its edge? - MSN",GOOGL,Google RSS,negative,-0.9111883640289308
 2026-03-30 13:45:15,22 New 4-Star Stocks This Week - morningstar.com,GOOGL,Google RSS,neutral,0.0
 2026-03-30 16:59:00,"After Falling Nearly 9% Last Week, Has Alphabet Lost Its Edge? - finance.yahoo.com",GOOGL,Google RSS,negative,-0.7341194152832031
-2026-03-31 20:19:29,Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle' - CNBC,MSFT,Google RSS,negative,-0.9639750123023987
+2026-03-31 20:19:29,Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle' - CNBC,MSFT,Google RSS,negative,-0.9639750123023988
 2026-04-01 15:00:03,“Sentiment Has Shifted on Copilot”: Analysts Support Microsoft Stock (MSFT) amid AI Slump - TipRanks,MSFT,Google RSS,positive,0.8597343564033508
 2026-04-01 17:36:00,Microsoft Stock (MSFT) Opinions on Breaching 200-Week Moving Average - Quiver Quantitative,MSFT,Google RSS,negative,-0.8500305414199829
 2026-03-29 12:36:28,Microsoft Near Multi-Year Lows: Why Analysts Still See a Path to $792 - TIKR.com,MSFT,Google RSS,neutral,0.0
@@ -31,10 +31,28 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-01 13:13:00,Tesla stock rises ahead of delivery numbers. Brace for volatility.,TSLA,Bing RSS,neutral,0.0
 2026-04-01 09:58:00,Tesla stock is surging 2.5% ahead of Q1 sales data: what to expect,TSLA,Bing RSS,neutral,0.0
 2026-03-26 21:00:00,Meta And Reddit Stocks Are Slumping Despite Strong Digital Ad Growth. Here's Why. - Investor's Business Daily,META,Google RSS,negative,-0.9298273921012878
-2026-03-30 16:42:57,Morgan Stanley Slashes META Price Target As Shares Keep Falling - TipRanks,META,Google RSS,negative,-0.9481649994850159
+2026-03-30 16:42:57,Morgan Stanley Slashes META Price Target As Shares Keep Falling - TipRanks,META,Google RSS,negative,-0.948164999485016
 2026-03-27 20:26:00,Meta’s stock extends decline — and the pressure may not abate anytime soon - marketwatch.com,META,Google RSS,negative,-0.8983193635940552
 2026-03-30 15:40:10,Meta’s technical breakdown worsens amid ongoing selloff - Seeking Alpha,META,Google RSS,negative,-0.9682825207710266
-2026-04-01 14:19:08,Meta stock sees modest gain as AI expansion deals offset subdued technicals - Traders Union,META,Google RSS,positive,0.9370255470275879
+2026-04-01 14:19:08,Meta stock sees modest gain as AI expansion deals offset subdued technicals - Traders Union,META,Google RSS,positive,0.937025547027588
 2026-04-01 11:05:07,"Netflix, Inc. $NFLX Stock Position Raised by Meyer Handelman Co. - MarketBeat",NFLX,Google RSS,neutral,0.0
 2026-03-28 15:43:25,Netflix Stock Draws Strong Buys And Big Upside Targets - TipRanks,NFLX,Google RSS,positive,0.8557050228118896
 2026-03-29 08:00:36,"Capital Investment Advisors LLC Purchases 33,733 Shares of Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
+2026-03-31 20:17:08,Is Apple Stock a Buy After Falling 14% From Its All-Time High? - aol.com,AAPL,Google RSS,negative,-0.9191451668739319
+2026-03-31 11:59:00,Is Apple Stock a Buy After Falling 14% From Its All-Time High?,AAPL,Bing RSS,negative,-0.8933009505271912
+2026-03-30 17:03:20,"After Falling Nearly 9% Last Week, Has Alphabet Lost Its Edge? - marketbeat.com",GOOGL,Google RSS,negative,-0.9067215919494629
+2026-04-01 09:18:10,"International Private Wealth Advisors LLC Sells 3,722 Shares of Alphabet Inc. $GOOG - marketbeat.com",GOOGL,Google RSS,neutral,0.0
+2026-03-31 06:21:00,"Big Tech's $635 billion AI spending faces energy shock test, S&P Global says - Reuters",AMZN,Google RSS,neutral,0.0
+2026-04-01 15:00:03,“Sentiment Has Shifted on Copilot”: Analysts Support Microsoft Stock (MSFT) amid AI Slump - tipranks.com,MSFT,Google RSS,positive,0.5144385099411011
+2026-03-29 14:11:01,Why Microsoft Stock (MSFT) Keeps Falling and Why One Investor Sees More Downside Ahead - tipranks.com,MSFT,Google RSS,negative,-0.6580092906951904
+2026-03-31 23:36:46,Opportunity Knocking or Trouble Ahead? Top Investor Weighs In on Microsoft Stock (MSFT) - tipranks.com,MSFT,Google RSS,neutral,0.0
+2026-04-01 11:47:44,Analysts set Microsoft stock price target - Finbold,MSFT,Google RSS,neutral,0.0
+2026-03-31 13:07:00,Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle',MSFT,Bing RSS,negative,-0.9705244898796082
+2026-04-02 04:41:41,Tesla stock dips overnight: US demand signals weakness ahead of closely watched Q1 delivery print - MSN,TSLA,Google RSS,negative,-0.9640882611274719
+2026-03-31 23:56:00,Tesla stock in focus as strong France data signals Europe rebound,TSLA,Bing RSS,positive,0.44577673077583313
+2026-03-30 16:42:57,Morgan Stanley Slashes META Price Target As Shares Keep Falling - tipranks.com,META,Google RSS,negative,-0.8718520402908325
+2026-04-01 11:05:07,"Netflix, Inc. $NFLX Stock Position Raised by Meyer Handelman Co. - marketbeat.com",NFLX,Google RSS,neutral,0.0
+2026-03-28 15:43:25,Netflix Stock Draws Strong Buys And Big Upside Targets - tipranks.com,NFLX,Google RSS,positive,0.6773472428321838
+2026-03-29 08:00:36,"Capital Investment Advisors LLC Purchases 33,733 Shares of Netflix, Inc. $NFLX - marketbeat.com",NFLX,Google RSS,neutral,0.0
+2026-03-31 17:37:36,Is NVIDIA Corporation (NVDA) one of the Best Goldman Sachs AI Stocks: Top 12 Stocks to Buy?,NVDA,Yahoo Global,neutral,0.0
+2026-03-31 17:39:33,Is Alphabet Inc. (GOOGL) one of the Best Goldman Sachs AI Stocks: Top 12 Stocks to Buy?,GOOGL,Yahoo Global,neutral,0.0
