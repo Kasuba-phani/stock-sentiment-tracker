@@ -61,3 +61,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-01 06:28:00,Tesla stock in focus as strong France data signals Europe rebound - TradingView,TSLA,Google RSS,positive,0.5895541906356812
 2026-03-27 20:26:00,Meta’s stock extends decline — and the pressure may not abate anytime soon - MarketWatch,META,Google RSS,negative,-0.9433327317237854
 2026-03-31 01:00:11,META stock upgraded from Strong Sell Candidate to Sell Candidate after Monday trading session - StockInvest.us,META,Google RSS,positive,0.9102323055267334
+2026-04-02 08:43:48,"Stocks to Watch Thursday: Apple, Exxon, ASML",AAPL,Yahoo RSS,neutral,0.0
+2026-03-29 07:00:00,Alphabet Stock Fell 9% This Week. Here’s Why Analysts Still See $409 Fair Value - tikr.com,GOOGL,Google RSS,negative,-0.7893245816230774
+2026-03-29 12:36:28,Microsoft Near Multi-Year Lows: Why Analysts Still See a Path to $792 - tikr.com,MSFT,Google RSS,neutral,0.0
+2026-04-02 08:43:48,"Stocks to Watch Thursday: Apple, Exxon, ASML",NVDA,Yahoo RSS,neutral,0.0
+2026-04-01 16:47:02,Tesla stock is surging 2.5% ahead of Q1 sales data: what to expect - Invezz,TSLA,Google RSS,neutral,0.0
+2026-04-02 08:43:48,"Stocks to Watch Thursday: Apple, Exxon, ASML",TSLA,Yahoo RSS,neutral,0.0
+2026-03-31 22:33:39,"Microsoft Corporation (MSFT) a Strong Buy, Wall Street Sees 63% Upside",MSFT,Yahoo Global,positive,0.9410316348075867
