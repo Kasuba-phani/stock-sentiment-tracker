@@ -114,6 +114,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-02 13:08:08,Tesla's stock drops more than 4% on disappointing deliveries report - CNBC,TSLA,Google RSS,negative,-0.9599565267562866
 2026-04-02 11:24:00,Tesla Stock Is Falling. It’s Not the Delivery Numbers. - Barron's,TSLA,Google RSS,negative,-0.9003068208694458
 2026-04-02 14:57:40,"Stifel sees Tesla miss as negative for stock, Rivian upside as modestly positive - tipranks.com",TSLA,Google RSS,neutral,0.0
-2026-04-02 14:23:27,US Stocks | Tesla shares slide 4% after first-quarter deliveries miss estimates - The Economic Times,TSLA,Google RSS,negative,-0.9647423028945923
-2026-04-02 15:41:05,Disappointing sales and technical pressure drive Tesla stock deeper into negative territory - Traders Union,TSLA,Google RSS,negative,-0.9711959362030029
-2026-04-02 15:01:07,Meta stock edges lower as bearish trend holds despite strong Q4 earnings and record EPS - Traders Union,META,Google RSS,negative,-0.9432888031005859
+2026-04-02 14:23:27,US Stocks | Tesla shares slide 4% after first-quarter deliveries miss estimates - The Economic Times,TSLA,Google RSS,negative,-0.9647423028945924
+2026-04-02 15:41:05,Disappointing sales and technical pressure drive Tesla stock deeper into negative territory - Traders Union,TSLA,Google RSS,negative,-0.9711959362030028
+2026-04-02 15:01:07,Meta stock edges lower as bearish trend holds despite strong Q4 earnings and record EPS - Traders Union,META,Google RSS,negative,-0.943288803100586
+2026-04-02 09:06:52,"Roberts Wealth Advisors LLC Sells 3,900 Shares of Amazon.com, Inc. $AMZN - marketbeat.com",AMZN,Google RSS,neutral,0.0
+2026-04-02 18:17:03,"Magnificent 7 Stocks Ranked: Why Alphabet, Microsoft, and Amazon Top the List - CoinCentral",AMZN,Google RSS,neutral,0.0
+2026-04-02 09:06:49,Sax Wealth Advisors LLC Boosts Stake in Microsoft Corporation $MSFT - marketbeat.com,MSFT,Google RSS,neutral,0.0
+2026-04-02 18:21:00,"Nvidia, AMD Stocks Recover Early Losses. Why War Is Still Top of Mind. - Barron's",NVDA,Google RSS,negative,-0.6059563755989075
+2026-04-02 18:45:34,"Dow, S&P 500, Nasdaq: From Morning Meltdown to Midday ""Meh""",NVDA,Yahoo RSS,neutral,0.0
+2026-04-02 18:03:31,Truist cuts Tesla stock price target to $400 on weak deliveries - Investing.com,TSLA,Google RSS,negative,-0.957942008972168
+2026-04-02 17:53:15,Tesla sales rise after brutal year of Musk boycotts but still fall short of expectations - washingtonpost.com,TSLA,Google RSS,neutral,0.0
+2026-04-02 17:09:00,Stocks Rebound Even As Oil Prices Soar: Weekly Review - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
+2026-04-02 05:40:16,Tesla stock dips overnight: US demand signals weakness ahead of closely watched Q1 delivery print - msn.com,TSLA,Google RSS,negative,-0.9511123299598694
+2026-04-02 13:51:36,ETFs tied to Tesla slide as the EV maker's delivery miss pressures stock - msn.com,TSLA,Google RSS,negative,-0.8976606130599976
+2026-04-02 18:45:34,"Dow, S&P 500, Nasdaq: From Morning Meltdown to Midday ""Meh""",TSLA,Yahoo RSS,neutral,0.0
