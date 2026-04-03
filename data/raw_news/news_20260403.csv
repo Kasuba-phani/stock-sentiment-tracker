@@ -48,3 +48,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-01 17:36:00,Microsoft Stock (MSFT) Opinions on Breaching 200-Week Moving Average - quiverquant.com,MSFT,Google RSS,negative,-0.5663263201713562
 2026-04-03 03:05:00,Dow Jones Futures Fall With Jobs Report Due; Stock Market Hasn't Done This Yet - Investor's Business Daily,TSLA,Google RSS,negative,-0.8003222942352295
 2026-03-31 01:00:11,META stock upgraded from Strong Sell Candidate to Sell Candidate after Monday trading session - StockInvest.us,META,Google RSS,positive,0.9102323055267334
+2026-04-02 14:35:56,Regulatory concerns and weak momentum push Apple stock lower - tradersunion.com,AAPL,Google RSS,negative,-0.9657335877418518
+2026-04-03 06:00:00,Vanguard Wellington Is a 97-Year-Old Underdog. It’s Still Going Strong.,GOOGL,Yahoo RSS,positive,0.8526407480239868
+2026-04-02 14:30:36,Microsoft stock price forecast: Continued downside risk as MSFT stays below key resistance - tradersunion.com,MSFT,Google RSS,neutral,0.0
+2026-04-03 06:00:00,Vanguard Wellington Is a 97-Year-Old Underdog. It’s Still Going Strong.,MSFT,Yahoo RSS,positive,0.8526407480239868
+2026-04-03 06:00:00,Vanguard Wellington Is a 97-Year-Old Underdog. It’s Still Going Strong.,NVDA,Yahoo RSS,positive,0.8526407480239868
+2026-04-02 13:58:00,Tesla’s stock falls as delivery report suggests the company is ‘actively sacrificing’ EVs - marketwatch.com,TSLA,Google RSS,negative,-0.9541852474212646
+2026-04-02 21:58:45,Tesla sales rise after brutal year of Musk boycotts but still fall short of expectations - Boston Herald,TSLA,Google RSS,positive,0.4930965006351471
+2026-04-02 16:57:00,Elon Musk’s Tesla posts one of its weakest sales quarters in years as slump continues - nypost.com,TSLA,Google RSS,negative,-0.9663586616516113
+2026-04-01 16:45:55,Tesla stock is surging 2.5% ahead Q1 sales data: what to expect - TradingView,TSLA,Google RSS,neutral,0.0
+2026-03-27 20:26:00,Meta’s stock extends decline — and the pressure may not abate anytime soon - marketwatch.com,META,Google RSS,negative,-0.898319661617279
+2026-04-02 15:01:07,Meta stock edges lower as bearish trend holds despite strong Q4 earnings and record EPS - tradersunion.com,META,Google RSS,negative,-0.9435657262802124
+2026-03-27 15:06:00,Meta Stock Is Falling Again. What Can Stop the Rot.,META,Bing RSS,negative,-0.6487269401550293
