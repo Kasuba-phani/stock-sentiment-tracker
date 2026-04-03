@@ -96,8 +96,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-02 21:35:00,Tesla Deliveries Rise. Why the Stock Is Falling. - Barron's,TSLA,Google RSS,negative,-0.6684187650680542
 2026-04-03 04:23:15,Tesla sales rise after brutal year of Musk boycotts but still fall short of expectations - washingtonpost.com,TSLA,Google RSS,neutral,0.0
 2026-04-03 11:00:00,"Price Hikes Driving U.S. Streaming Video Sales Growth, Not New Subscribers - investors.com",NFLX,Google RSS,neutral,0.0
-2026-04-03 13:24:46,Treasury Bonds Fall on Strength in March Payrolls: Markets Wrap,MSFT,Yahoo RSS,negative,-0.9491748213768005
-2026-04-03 14:38:21,Mixed momentum and overbought signals keep Nvidia stock in a cautious upward trend - Traders Union,NVDA,Google RSS,negative,-0.9487361311912537
+2026-04-03 13:24:46,Treasury Bonds Fall on Strength in March Payrolls: Markets Wrap,MSFT,Yahoo RSS,negative,-0.9491748213768004
+2026-04-03 14:38:21,Mixed momentum and overbought signals keep Nvidia stock in a cautious upward trend - Traders Union,NVDA,Google RSS,negative,-0.9487361311912536
 2026-04-02 15:33:00,Tesla’s stock falls as delivery report suggests the company is 'actively sacrificing' EVs,TSLA,Bing RSS,negative,-0.9517454504966736
-2026-04-03 14:44:13,Meta stock edges lower as momentum indicators point to continued weakness - Traders Union,META,Google RSS,negative,-0.9549757242202759
+2026-04-03 14:44:13,Meta stock edges lower as momentum indicators point to continued weakness - Traders Union,META,Google RSS,negative,-0.954975724220276
 2026-04-03 11:00:00,"Price Hikes Driving U.S. Streaming Video Sales Growth, Not New Subscribers - Investor's Business Daily",NFLX,Google RSS,neutral,0.0
+2026-04-03 14:49:16,Alphabet stock price forecast: Bullish indicators set stage as GOOGL edges lower - tradersunion.com,GOOGL,Google RSS,neutral,0.0
+2026-04-03 14:38:21,Mixed momentum and overbought signals keep Nvidia stock in a cautious upward trend - tradersunion.com,NVDA,Google RSS,negative,-0.9223411679267883
+2026-04-03 15:18:00,Dow Jones Futures Fall On Jobs Report Stunner; Stock Market Hasn't Done This Yet - Investor's Business Daily,TSLA,Google RSS,negative,-0.7263593077659607
+2026-04-03 09:29:28,Tesla stock drops 5% on delivery miss as demand concerns deepen - tradersunion.com,TSLA,Google RSS,negative,-0.9577397704124451
+2026-04-03 14:44:13,Meta stock edges lower as momentum indicators point to continued weakness - tradersunion.com,META,Google RSS,negative,-0.9607671499252319
