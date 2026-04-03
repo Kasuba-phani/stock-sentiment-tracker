@@ -114,3 +114,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-03 02:15:00,Tesla stock is falling. It isn’t the delivery numbers. - msn.com,TSLA,Google RSS,negative,-0.79837566614151
 2026-04-02 05:40:16,Tesla stock dips overnight: US demand signals weakness ahead of closely watched Q1 delivery print - msn.com,TSLA,Google RSS,negative,-0.9511123895645142
 2026-04-02 21:00:52,"Dow Jones futures: Stock market resilient as oil prices spike, Tesla slumps; jobs report on tap - msn.com",TSLA,Google RSS,negative,-0.7554935812950134
+2026-04-03 07:43:35,"Capital Investment Advisors LLC Purchases 6,702 Shares of Amazon.com, Inc. $AMZN - marketbeat.com",AMZN,Google RSS,neutral,0.0
+2026-04-02 10:10:18,"Nvidia (NVDA), Micron (MU): Wolfe Research Points to These 2 Chip Stocks as Key Drivers of S&P 500 (SPX) Growth - TipRanks",NVDA,Google RSS,positive,0.5491337776184082
+2026-04-03 18:01:00,"Dow Jones Futures: After Strong Week, Look For This Bullish Market Signal - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-04-03 18:01:24,"Dow Jones Futures: After Strong Week, Look For This Bullish Market Signal",TSLA,Yahoo RSS,neutral,0.0
+2026-04-01 11:05:07,"Netflix, Inc. $NFLX Stock Position Raised by Meyer Handelman Co. - marketbeat.com",NFLX,Google RSS,neutral,0.0
