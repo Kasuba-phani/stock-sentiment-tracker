@@ -1,15 +1,15 @@
 date,headline,ticker,source,sentiment_label,compound
 2026-03-31 19:45:00,Is Apple Stock a Buy After Falling 14% From Its All-Time High? - The Motley Fool,AAPL,Google RSS,negative,-0.9121262431144714
-2026-04-02 14:35:56,Regulatory concerns and weak momentum push Apple stock lower - Traders Union,AAPL,Google RSS,negative,-0.9650541543960571
-2026-03-31 20:17:08,Is Apple Stock a Buy After Falling 14% From Its All-Time High? - AOL.com,AAPL,Google RSS,negative,-0.9191451668739319
-2026-03-30 17:03:20,"After Falling Nearly 9% Last Week, Has Alphabet Lost Its Edge? - MarketBeat",GOOGL,Google RSS,negative,-0.9515362977981567
+2026-04-02 14:35:56,Regulatory concerns and weak momentum push Apple stock lower - Traders Union,AAPL,Google RSS,negative,-0.9650541543960572
+2026-03-31 20:17:08,Is Apple Stock a Buy After Falling 14% From Its All-Time High? - AOL.com,AAPL,Google RSS,negative,-0.919145166873932
+2026-03-30 17:03:20,"After Falling Nearly 9% Last Week, Has Alphabet Lost Its Edge? - MarketBeat",GOOGL,Google RSS,negative,-0.9515362977981568
 2026-03-29 07:00:00,Alphabet Stock Fell 9% This Week. Here’s Why Analysts Still See $409 Fair Value - TIKR.com,GOOGL,Google RSS,negative,-0.7893245816230774
 2026-03-27 19:27:52,Morgan Stanley resets Alphabet stock forecast on Waymo growth - thestreet.com,GOOGL,Google RSS,neutral,0.0
 2026-04-02 18:17:03,"Magnificent 7 Stocks Ranked: Why Alphabet, Microsoft, and Amazon Top the List - CoinCentral",GOOGL,Google RSS,neutral,0.0
 2026-04-03 01:15:10,"3 Retail Stocks Built to Survive Tariffs, Inflation, and the Next 30 Years - The Globe and Mail",AMZN,Google RSS,neutral,0.0
 2026-04-02 09:06:52,"Roberts Wealth Advisors LLC Sells 3,900 Shares of Amazon.com, Inc. $AMZN - MarketBeat",AMZN,Google RSS,neutral,0.0
 2026-04-02 18:17:03,"Magnificent 7 Stocks Ranked: Why Alphabet, Microsoft, and Amazon Top the List - CoinCentral",AMZN,Google RSS,neutral,0.0
-2026-03-31 20:19:29,Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle' - CNBC,MSFT,Google RSS,negative,-0.9639750123023987
+2026-03-31 20:19:29,Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle' - CNBC,MSFT,Google RSS,negative,-0.9639750123023988
 2026-04-01 15:00:03,“Sentiment Has Shifted on Copilot”: Analysts Support Microsoft Stock (MSFT) amid AI Slump - TipRanks,MSFT,Google RSS,positive,0.8597332239151001
 2026-04-02 14:30:36,Microsoft stock price forecast: Continued downside risk as MSFT stays below key resistance - Traders Union,MSFT,Google RSS,negative,-0.8627057075500488
 2026-03-29 14:11:01,Why Microsoft Stock (MSFT) Keeps Falling and Why One Investor Sees More Downside Ahead - TipRanks,MSFT,Google RSS,negative,-0.7754738330841064
@@ -22,26 +22,29 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-03 00:25:00,"3 Retail Stocks Built to Survive Tariffs, Inflation, and the Next 30 Years",NVDA,Yahoo RSS,neutral,0.0
 2026-04-03 00:01:00,The Best-Performing Vanguard ETF Over the Last Decade Is Issuing an 8-for-1 Stock Split. But Should Investors Be Concerned That 44% of the ETF Is Invested in Just 3 Growth Stocks?,NVDA,Yahoo RSS,neutral,0.0
 2026-04-02 22:25:00,2 Industrial Stocks You'll Wish You Bought in 2026 a Decade From Now,NVDA,Yahoo RSS,neutral,0.0
-2026-04-02 13:08:08,Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report - CNBC,TSLA,Google RSS,negative,-0.9674545526504517
+2026-04-02 13:08:08,Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report - CNBC,TSLA,Google RSS,negative,-0.9674545526504515
 2026-04-02 21:00:52,"Dow Jones futures: Stock market resilient as oil prices spike, Tesla slumps; jobs report on tap - MSN",TSLA,Google RSS,negative,-0.8753458261489868
 2026-04-02 21:15:40,Elon Musk’s Tesla posts one of its weakest sales quarters in years as slump continues - AOL.com,TSLA,Google RSS,negative,-0.9647682905197144
-2026-04-02 13:58:00,Tesla’s stock falls as delivery report suggests the company is ‘actively sacrificing’ EVs - MarketWatch,TSLA,Google RSS,negative,-0.9523864984512329
+2026-04-02 13:58:00,Tesla’s stock falls as delivery report suggests the company is ‘actively sacrificing’ EVs - MarketWatch,TSLA,Google RSS,negative,-0.9523864984512328
 2026-04-03 02:15:00,Tesla stock is falling. It isn’t the delivery numbers. - MSN,TSLA,Google RSS,negative,-0.8927595615386963
 2026-04-02 12:08:00,"Dow Jones Futures Dive, Oil Prices Soar As Trump Vows To Hit Iran 'Hard'; Tesla Deliveries Due - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
 2026-04-02 17:09:00,Stocks Rebound Even As Oil Prices Soar: Weekly Review - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
-2026-04-02 05:40:16,Tesla stock dips overnight: US demand signals weakness ahead of closely watched Q1 delivery print - MSN,TSLA,Google RSS,negative,-0.9640882611274719
+2026-04-02 05:40:16,Tesla stock dips overnight: US demand signals weakness ahead of closely watched Q1 delivery print - MSN,TSLA,Google RSS,negative,-0.964088261127472
 2026-04-02 10:12:00,Tesla shares fall as first quarter vehicle deliveries fall short of expectations - Proactive financial news,TSLA,Google RSS,negative,-0.9567265510559082
 2026-04-03 02:20:01,Tesla Stock Hits Record High Amid Autonomous Driving Breakthrough and Strong Q1 Deliveries - AD HOC NEWS,TSLA,Google RSS,positive,0.928528904914856
 2026-04-02 06:52:00,Tesla deliveries rise. Why the stock is falling.,TSLA,Bing RSS,negative,-0.8065133094787598
 2026-04-01 13:13:00,Tesla stock rises ahead of delivery numbers. Brace for volatility.,TSLA,Bing RSS,neutral,0.0
-2026-04-02 16:57:00,Elon Musk’s Tesla posts one of its weakest sales quarters in years as slump continues,TSLA,Bing RSS,negative,-0.9732330441474915
+2026-04-02 16:57:00,Elon Musk’s Tesla posts one of its weakest sales quarters in years as slump continues,TSLA,Bing RSS,negative,-0.9732330441474916
 2026-04-02 18:50:00,Tesla sales rise after brutal year of Musk boycotts but still fall short of expectations,TSLA,Bing RSS,positive,0.7151671648025513
 2026-04-03 02:28:50,"Dow Jones Futures: Stock Market Resilient As Oil Prices Spike, Tesla Slumps; Jobs Report On Tap",TSLA,Yahoo RSS,negative,-0.9326995015144348
 2026-04-02 21:35:00,Tesla Deliveries Rise. Why the Stock Is Falling.,TSLA,Yahoo RSS,negative,-0.8065133094787598
 2026-04-02 20:14:14,Tesla Q1 deliveries fall short of expectations. Stock drops.,TSLA,Yahoo RSS,negative,-0.9702104926109314
-2026-03-30 16:42:57,Morgan Stanley Slashes META Price Target As Shares Keep Falling - TipRanks,META,Google RSS,negative,-0.9481649994850159
+2026-03-30 16:42:57,Morgan Stanley Slashes META Price Target As Shares Keep Falling - TipRanks,META,Google RSS,negative,-0.948164999485016
 2026-03-27 20:26:00,Meta’s stock extends decline — and the pressure may not abate anytime soon - MarketWatch,META,Google RSS,negative,-0.9433327317237854
 2026-03-31 01:00:11,META stock upgraded from Strong Sell Candidate to Sell Candidate after Monday trading session - stockinvest.us,META,Google RSS,positive,0.9102323055267334
-2026-04-02 15:01:07,Meta stock edges lower as bearish trend holds despite strong Q4 earnings and record EPS - Traders Union,META,Google RSS,negative,-0.9432888031005859
+2026-04-02 15:01:07,Meta stock edges lower as bearish trend holds despite strong Q4 earnings and record EPS - Traders Union,META,Google RSS,negative,-0.943288803100586
 2026-04-01 11:05:07,"Netflix, Inc. $NFLX Stock Position Raised by Meyer Handelman Co. - MarketBeat",NFLX,Google RSS,neutral,0.0
 2026-04-02 22:33:00,Tesla’s stock falls as delivery report suggests the company is ‘actively sacrificing’ EVs,TSLA,MarketWatch Top,negative,-0.9520574808120728
+2026-04-01 17:36:00,Microsoft Stock (MSFT) Opinions on Breaching 200-Week Moving Average - quiverquant.com,MSFT,Google RSS,negative,-0.5663263201713562
+2026-04-03 03:05:00,Dow Jones Futures Fall With Jobs Report Due; Stock Market Hasn't Done This Yet - Investor's Business Daily,TSLA,Google RSS,negative,-0.8003222942352295
+2026-03-31 01:00:11,META stock upgraded from Strong Sell Candidate to Sell Candidate after Monday trading session - StockInvest.us,META,Google RSS,positive,0.9102323055267334
