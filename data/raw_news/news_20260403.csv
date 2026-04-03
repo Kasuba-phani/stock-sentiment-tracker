@@ -55,8 +55,19 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-03 06:00:00,Vanguard Wellington Is a 97-Year-Old Underdog. It’s Still Going Strong.,NVDA,Yahoo RSS,positive,0.8526407480239868
 2026-04-02 13:58:00,Tesla’s stock falls as delivery report suggests the company is ‘actively sacrificing’ EVs - marketwatch.com,TSLA,Google RSS,negative,-0.9541852474212646
 2026-04-02 21:58:45,Tesla sales rise after brutal year of Musk boycotts but still fall short of expectations - Boston Herald,TSLA,Google RSS,positive,0.4930965006351471
-2026-04-02 16:57:00,Elon Musk’s Tesla posts one of its weakest sales quarters in years as slump continues - nypost.com,TSLA,Google RSS,negative,-0.9663586616516113
+2026-04-02 16:57:00,Elon Musk’s Tesla posts one of its weakest sales quarters in years as slump continues - nypost.com,TSLA,Google RSS,negative,-0.9663586616516112
 2026-04-01 16:45:55,Tesla stock is surging 2.5% ahead Q1 sales data: what to expect - TradingView,TSLA,Google RSS,neutral,0.0
 2026-03-27 20:26:00,Meta’s stock extends decline — and the pressure may not abate anytime soon - marketwatch.com,META,Google RSS,negative,-0.898319661617279
 2026-04-02 15:01:07,Meta stock edges lower as bearish trend holds despite strong Q4 earnings and record EPS - tradersunion.com,META,Google RSS,negative,-0.9435657262802124
 2026-03-27 15:06:00,Meta Stock Is Falling Again. What Can Stop the Rot.,META,Bing RSS,negative,-0.6487269401550293
+2026-04-03 07:43:35,"Capital Investment Advisors LLC Purchases 6,702 Shares of Amazon.com, Inc. $AMZN - MarketBeat",AMZN,Google RSS,neutral,0.0
+2026-04-02 20:15:23,"Tech stocks today: Tesla stock falls as tech stocks rebound, AI industry leaks highlight cybersecurity risks - finance.yahoo.com",MSFT,Google RSS,negative,-0.9028790593147278
+2026-04-01 15:00:03,“Sentiment Has Shifted on Copilot”: Analysts Support Microsoft Stock (MSFT) amid AI Slump - tipranks.com,MSFT,Google RSS,positive,0.5144397616386414
+2026-03-29 14:11:01,Why Microsoft Stock (MSFT) Keeps Falling and Why One Investor Sees More Downside Ahead - tipranks.com,MSFT,Google RSS,negative,-0.6580103039741516
+2026-03-31 23:36:46,Opportunity Knocking or Trouble Ahead? Top Investor Weighs In on Microsoft Stock (MSFT) - tipranks.com,MSFT,Google RSS,neutral,0.0
+2026-04-02 11:30:00,Microsoft just had its worst quarter on Wall Street in nearly two decades — the steepest fall since the Great Recession - finance.yahoo.com,MSFT,Google RSS,negative,-0.9531104564666748
+2026-04-02 20:15:23,"Tech stocks today: Tesla stock falls as tech stocks rebound, AI industry leaks highlight cybersecurity risks - finance.yahoo.com",NVDA,Google RSS,negative,-0.9028790593147278
+2026-04-01 08:13:11,Nvidia investors just had a surprising first quarter - finance.yahoo.com,NVDA,Google RSS,neutral,0.0
+2026-04-02 20:15:23,"Tech stocks today: Tesla stock falls as tech stocks rebound, AI industry leaks highlight cybersecurity risks - finance.yahoo.com",TSLA,Google RSS,negative,-0.9028790593147278
+2026-04-02 20:14:14,Tesla Q1 deliveries fall short of expectations. Stock drops. - finance.yahoo.com,TSLA,Google RSS,negative,-0.9559634327888489
+2026-03-30 16:42:57,Morgan Stanley Slashes META Price Target As Shares Keep Falling - tipranks.com,META,Google RSS,negative,-0.8718522787094116
