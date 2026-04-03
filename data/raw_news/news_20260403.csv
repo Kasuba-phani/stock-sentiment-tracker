@@ -119,3 +119,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-03 18:01:00,"Dow Jones Futures: After Strong Week, Look For This Bullish Market Signal - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
 2026-04-03 18:01:24,"Dow Jones Futures: After Strong Week, Look For This Bullish Market Signal",TSLA,Yahoo RSS,neutral,0.0
 2026-04-01 11:05:07,"Netflix, Inc. $NFLX Stock Position Raised by Meyer Handelman Co. - marketbeat.com",NFLX,Google RSS,neutral,0.0
+2026-04-03 02:56:27,3 reasons to hold Microsoft stock despite 28.6% drop in 6 months - MSN,MSFT,Google RSS,negative,-0.449876070022583
+2026-04-02 11:30:00,Microsoft just had its worst quarter on Wall Street in nearly two decades — the steepest fall since the Great Recession,MSFT,Yahoo Global,negative,-0.9724312424659729
