@@ -51,3 +51,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-01 08:13:11,Nvidia investors just had a surprising first quarter - finance.yahoo.com,NVDA,Google RSS,neutral,0.0
 2026-04-03 12:09:18,"Tech stocks today: Tesla stock falls as tech stocks rebound, AI industry leaks highlight cybersecurity risks - finance.yahoo.com",TSLA,Google RSS,negative,-0.902878999710083
 2026-04-04 09:19:21,Polaris Investment Advisors LLC Makes New Investment in Alphabet Inc. $GOOG - MarketBeat,GOOGL,Google RSS,neutral,0.0
+2026-04-01 17:36:00,Microsoft Stock (MSFT) Opinions on Breaching 200-Week Moving Average - quiverquant.com,MSFT,Google RSS,negative,-0.5663263201713562
+2026-03-31 13:07:00,Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle',MSFT,Bing RSS,negative,-0.9705244898796082
+2026-04-04 10:09:27,5-Star Analyst Raises Nvidia Stock (NVDA) Forecast as Demand for ‘Hopper and Blackwell AI-Chips Likely to Outstrip Supply’,NVDA,Yahoo RSS,positive,0.8518814444541931
+2026-04-01 16:45:55,Tesla stock is surging 2.5% ahead Q1 sales data: what to expect - tradingview.com,TSLA,Google RSS,neutral,0.0
