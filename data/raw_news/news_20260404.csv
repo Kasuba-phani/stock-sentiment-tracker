@@ -40,7 +40,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-03 14:49:16,Alphabet stock price forecast: Bullish indicators set stage as GOOGL edges lower - tradersunion.com,GOOGL,Google RSS,neutral,0.0
 2026-04-03 07:43:35,"Capital Investment Advisors LLC Purchases 6,702 Shares of Amazon.com, Inc. $AMZN - marketbeat.com",AMZN,Google RSS,neutral,0.0
 2026-04-02 14:30:36,Microsoft stock price forecast: Continued downside risk as MSFT stays below key resistance - tradersunion.com,MSFT,Google RSS,neutral,0.0
-2026-04-03 14:38:21,Mixed momentum and overbought signals keep Nvidia stock in a cautious upward trend - tradersunion.com,NVDA,Google RSS,negative,-0.9223411679267883
+2026-04-03 14:38:21,Mixed momentum and overbought signals keep Nvidia stock in a cautious upward trend - tradersunion.com,NVDA,Google RSS,negative,-0.9223411679267884
 2026-04-02 10:12:00,Tesla shares fall as first quarter vehicle deliveries fall short of expectations - Proactive financial news,TSLA,Google RSS,negative,-0.9567265510559082
-2026-04-03 14:44:13,Meta stock edges lower as momentum indicators point to continued weakness - tradersunion.com,META,Google RSS,negative,-0.9607671499252319
+2026-04-03 14:44:13,Meta stock edges lower as momentum indicators point to continued weakness - tradersunion.com,META,Google RSS,negative,-0.960767149925232
 2026-04-01 11:05:07,"Netflix, Inc. $NFLX Stock Position Raised by Meyer Handelman Co. - marketbeat.com",NFLX,Google RSS,neutral,0.0
+2026-04-03 09:34:24,Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation - AOL.com,MSFT,Google RSS,neutral,0.0
+2026-04-02 18:21:00,"Nvidia, AMD Stocks Recover Early Losses. Why War Is Still Top of Mind. - barrons.com",NVDA,Google RSS,neutral,0.0
+2026-04-02 18:51:00,Tesla Q1 sales rise 6.3% but miss expectations; Rivian posts 20% gain and reiterates 2026 forecast - autonews.com,TSLA,Google RSS,negative,-0.4717528820037842
