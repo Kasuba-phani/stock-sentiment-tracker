@@ -1,0 +1,31 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-03-31 19:45:00,Is Apple Stock a Buy After Falling 14% From Its All-Time High? - The Motley Fool,AAPL,Google RSS,negative,-0.9121262431144714
+2026-04-03 10:05:00,Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-04-03 14:49:16,Alphabet stock price forecast: Bullish indicators set stage as GOOGL edges lower - Traders Union,GOOGL,Google RSS,negative,-0.427053302526474
+2026-04-03 03:05:00,Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation,GOOGL,Bing RSS,positive,0.6776912212371826
+2026-04-03 07:43:35,"Capital Investment Advisors LLC Purchases 6,702 Shares of Amazon.com, Inc. $AMZN - MarketBeat",AMZN,Google RSS,neutral,0.0
+2026-03-31 20:19:29,Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle' - cnbc.com,MSFT,Google RSS,negative,-0.9492607712745667
+2026-04-01 15:00:03,“Sentiment Has Shifted on Copilot”: Analysts Support Microsoft Stock (MSFT) amid AI Slump - TipRanks,MSFT,Google RSS,positive,0.8597332239151001
+2026-04-03 10:05:00,Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-04-01 17:36:00,Microsoft Stock (MSFT) Opinions on Breaching 200-Week Moving Average - Quiver Quantitative,MSFT,Google RSS,negative,-0.8500310778617859
+2026-04-02 14:30:36,Microsoft stock price forecast: Continued downside risk as MSFT stays below key resistance - Traders Union,MSFT,Google RSS,negative,-0.8627057075500488
+2026-03-31 23:36:46,Opportunity Knocking or Trouble Ahead? Top Investor Weighs In on Microsoft Stock (MSFT) - TipRanks,MSFT,Google RSS,neutral,0.0
+2026-04-03 03:05:00,Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation,MSFT,Bing RSS,positive,0.6776912212371826
+2026-04-02 18:21:00,"Nvidia, AMD Stocks Recover Early Losses. Why War Is Still Top of Mind. - Barron's",NVDA,Google RSS,negative,-0.6059563755989075
+2026-04-02 10:10:18,"Nvidia (NVDA), Micron (MU): Wolfe Research Points to These 2 Chip Stocks as Key Drivers of S&P 500 (SPX) Growth - TipRanks",NVDA,Google RSS,positive,0.5491337776184082
+2026-04-03 10:11:38,5-Star Analyst Raises Nvidia Stock (NVDA) Forecast as Demand for ‘Hopper and Blackwell AI-Chips Likely to Outstrip Supply’ - TipRanks,NVDA,Google RSS,positive,0.9020955562591553
+2026-04-03 14:38:21,Mixed momentum and overbought signals keep Nvidia stock in a cautious upward trend - Traders Union,NVDA,Google RSS,negative,-0.9487361311912537
+2026-04-02 13:08:08,Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report - cnbc.com,TSLA,Google RSS,negative,-0.9680414795875549
+2026-04-03 22:09:00,"Dow Jones Futures: After Strong Week, Look For This Bullish Market Signal - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-04-02 21:35:00,Tesla stock is falling. It isn’t the delivery numbers. - MSN,TSLA,Google RSS,negative,-0.8927595615386963
+2026-04-02 12:08:00,"Dow Jones Futures Dive, Oil Prices Soar As Trump Vows To Hit Iran 'Hard'; Tesla Deliveries Due - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-04-02 22:33:00,Tesla’s stock falls as delivery report suggests the company is ‘actively sacrificing’ EVs - MSN,TSLA,Google RSS,negative,-0.9513604044914246
+2026-04-02 13:58:00,Tesla’s stock falls as delivery report suggests the company is ‘actively sacrificing’ EVs - MarketWatch,TSLA,Google RSS,negative,-0.9523864984512329
+2026-04-02 05:40:16,Tesla stock dips overnight: US demand signals weakness ahead of closely watched Q1 delivery print - MSN,TSLA,Google RSS,negative,-0.9640882611274719
+2026-04-02 15:24:23,Tesla sales rise after brutal year of Musk boycotts but still fall short of expectations - Beaumont Enterprise,TSLA,Google RSS,positive,0.5746954679489136
+2026-04-01 16:45:55,Tesla stock is surging 2.5% ahead Q1 sales data: what to expect - TradingView,TSLA,Google RSS,neutral,0.0
+2026-04-01 06:28:00,Tesla stock in focus as strong France data signals Europe rebound - TradingView,TSLA,Google RSS,positive,0.5895541906356812
+2026-04-03 14:44:13,Meta stock edges lower as momentum indicators point to continued weakness - Traders Union,META,Google RSS,negative,-0.9549757242202759
+2026-03-31 01:00:11,META stock upgraded from Strong Sell Candidate to Sell Candidate after Monday trading session - StockInvest.us,META,Google RSS,positive,0.9102323055267334
+2026-04-01 11:05:07,"Netflix, Inc. $NFLX Stock Position Raised by Meyer Handelman Co. - MarketBeat",NFLX,Google RSS,neutral,0.0
+2026-04-03 11:00:56,"Price Hikes Driving U.S. Streaming Video Sales Growth, Not New Subscribers",NFLX,Yahoo RSS,neutral,0.0
