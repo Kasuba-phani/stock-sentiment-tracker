@@ -29,11 +29,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-31 01:00:11,META stock upgraded from Strong Sell Candidate to Sell Candidate after Monday trading session - StockInvest.us,META,Google RSS,positive,0.9102323055267334
 2026-04-01 11:05:07,"Netflix, Inc. $NFLX Stock Position Raised by Meyer Handelman Co. - MarketBeat",NFLX,Google RSS,neutral,0.0
 2026-04-03 11:00:56,"Price Hikes Driving U.S. Streaming Video Sales Growth, Not New Subscribers",NFLX,Yahoo RSS,neutral,0.0
-2026-03-31 20:19:29,Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle' - CNBC,MSFT,Google RSS,negative,-0.9639750123023987
+2026-03-31 20:19:29,Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle' - CNBC,MSFT,Google RSS,negative,-0.9639750123023988
 2026-04-02 14:35:46,"EXCLUSIVE: Top 12 Most-Searched Tickers On Benzinga Pro In March – Where Do Tesla, Nvidia, Micron Stocks Rank? - Benzinga",NVDA,Google RSS,neutral,0.0
-2026-04-02 13:08:08,Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report - CNBC,TSLA,Google RSS,negative,-0.9674545526504517
+2026-04-02 13:08:08,Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report - CNBC,TSLA,Google RSS,negative,-0.9674545526504515
 2026-04-02 06:52:00,Tesla deliveries rise. Why the stock is falling.,TSLA,Bing RSS,negative,-0.8065133094787598
 2026-04-02 15:33:00,Tesla’s stock falls as delivery report suggests the company is 'actively sacrificing' EVs,TSLA,Bing RSS,negative,-0.9517454504966736
-2026-04-02 09:57:07,Elon Musk’s Tesla posts one of its weakest sales quarters in years as slump continues,TSLA,Bing RSS,negative,-0.9732330441474915
+2026-04-02 09:57:07,Elon Musk’s Tesla posts one of its weakest sales quarters in years as slump continues,TSLA,Bing RSS,negative,-0.9732330441474916
 2026-04-02 16:00:00,Tesla sales rise after brutal year of Musk boycotts but still fall short of expectations,TSLA,Bing RSS,positive,0.7151671648025513
-2026-03-30 16:42:57,Morgan Stanley Slashes META Price Target As Shares Keep Falling - TipRanks,META,Google RSS,negative,-0.9481649994850159
+2026-03-30 16:42:57,Morgan Stanley Slashes META Price Target As Shares Keep Falling - TipRanks,META,Google RSS,negative,-0.948164999485016
+2026-04-03 14:49:16,Alphabet stock price forecast: Bullish indicators set stage as GOOGL edges lower - tradersunion.com,GOOGL,Google RSS,neutral,0.0
+2026-04-03 07:43:35,"Capital Investment Advisors LLC Purchases 6,702 Shares of Amazon.com, Inc. $AMZN - marketbeat.com",AMZN,Google RSS,neutral,0.0
+2026-04-02 14:30:36,Microsoft stock price forecast: Continued downside risk as MSFT stays below key resistance - tradersunion.com,MSFT,Google RSS,neutral,0.0
+2026-04-03 14:38:21,Mixed momentum and overbought signals keep Nvidia stock in a cautious upward trend - tradersunion.com,NVDA,Google RSS,negative,-0.9223411679267883
+2026-04-02 10:12:00,Tesla shares fall as first quarter vehicle deliveries fall short of expectations - Proactive financial news,TSLA,Google RSS,negative,-0.9567265510559082
+2026-04-03 14:44:13,Meta stock edges lower as momentum indicators point to continued weakness - tradersunion.com,META,Google RSS,negative,-0.9607671499252319
+2026-04-01 11:05:07,"Netflix, Inc. $NFLX Stock Position Raised by Meyer Handelman Co. - marketbeat.com",NFLX,Google RSS,neutral,0.0
