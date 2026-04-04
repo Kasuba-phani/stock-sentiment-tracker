@@ -76,3 +76,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-02 20:14:14,Tesla Q1 deliveries fall short of expectations. Stock drops. - finance.yahoo.com,TSLA,Google RSS,negative,-0.9559635519981384
 2026-04-01 08:19:26,"Fifth Third Wealth Advisors LLC Acquires 91,466 Shares of Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
 2026-04-02 21:35:00,Tesla Deliveries Rise. Why the Stock Is Falling. - Barron's,TSLA,Google RSS,negative,-0.6684187650680542
+2026-04-02 21:35:00,Tesla Deliveries Rise. Why the Stock Is Falling. - barrons.com,TSLA,Google RSS,negative,-0.6134994626045227
