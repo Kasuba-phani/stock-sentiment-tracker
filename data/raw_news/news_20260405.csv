@@ -1,0 +1,37 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-03-31 19:45:00,Is Apple Stock a Buy After Falling 14% From Its All-Time High? - The Motley Fool,AAPL,Google RSS,negative,-0.9121262431144714
+2026-04-03 09:25:00,Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation - finance.yahoo.com,GOOGL,Google RSS,neutral,0.0
+2026-04-04 15:39:59,Alphabet Labor Reset Raises Questions For AI Growth And Investor Returns - simplywall.st,GOOGL,Google RSS,neutral,0.0
+2026-04-04 09:19:21,Polaris Investment Advisors LLC Makes New Investment in Alphabet Inc. $GOOG - MarketBeat,GOOGL,Google RSS,neutral,0.0
+2026-04-03 09:34:24,Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation - AOL.com,GOOGL,Google RSS,neutral,0.0
+2026-04-03 07:43:35,"Capital Investment Advisors LLC Purchases 6,702 Shares of Amazon.com, Inc. $AMZN - MarketBeat",AMZN,Google RSS,neutral,0.0
+2026-03-31 20:19:29,Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle' - CNBC,MSFT,Google RSS,negative,-0.9639750123023987
+2026-04-04 09:50:49,Microsoft stock slides 23% despite strong cloud growth - MSN,MSFT,Google RSS,negative,-0.9467634558677673
+2026-04-01 15:00:03,“Sentiment Has Shifted on Copilot”: Analysts Support Microsoft Stock (MSFT) amid AI Slump - TipRanks,MSFT,Google RSS,positive,0.8597343564033508
+2026-04-01 17:36:00,Microsoft Stock (MSFT) Opinions on Breaching 200-Week Moving Average - Quiver Quantitative,MSFT,Google RSS,negative,-0.8500305414199829
+2026-04-02 14:30:36,Microsoft stock price forecast: Continued downside risk as MSFT stays below key resistance - Traders Union,MSFT,Google RSS,negative,-0.8627058267593384
+2026-04-03 09:25:00,Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation - finance.yahoo.com,MSFT,Google RSS,neutral,0.0
+2026-03-31 23:36:46,Opportunity Knocking or Trouble Ahead? Top Investor Weighs In on Microsoft Stock (MSFT) - TipRanks,MSFT,Google RSS,neutral,0.0
+2026-03-31 13:07:00,Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle',MSFT,Bing RSS,negative,-0.9705244898796082
+2026-04-02 18:21:00,"Nvidia, AMD Stocks Recover Early Losses. Why War Is Still Top of Mind. - Barron's",NVDA,Google RSS,negative,-0.6059584617614746
+2026-04-03 10:11:38,5-Star Analyst Raises Nvidia Stock (NVDA) Forecast as Demand for ‘Hopper and Blackwell AI-Chips Likely to Outstrip Supply’ - TipRanks,NVDA,Google RSS,positive,0.9020956158638
+2026-04-01 08:13:11,Nvidia investors just had a surprising first quarter - finance.yahoo.com,NVDA,Google RSS,neutral,0.0
+2026-04-04 10:09:27,5-Star Analyst Raises Nvidia Stock (NVDA) Forecast as Demand for ‘Hopper and Blackwell AI-Chips Likely to Outstrip Supply’ - finance.yahoo.com,NVDA,Google RSS,positive,0.9149875640869141
+2026-04-02 13:08:08,Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report - CNBC,TSLA,Google RSS,negative,-0.9674545526504517
+2026-04-02 13:58:00,Tesla’s stock falls as delivery report suggests the company is ‘actively sacrificing’ EVs - MarketWatch,TSLA,Google RSS,negative,-0.9523864984512329
+2026-04-03 12:09:18,"Tech stocks today: Tesla stock falls as tech stocks rebound, AI industry leaks highlight cybersecurity risks - finance.yahoo.com",TSLA,Google RSS,negative,-0.9028790593147278
+2026-04-02 12:08:00,"Dow Jones Futures Dive, Oil Prices Soar As Trump Vows To Hit Iran 'Hard'; Tesla Deliveries Due - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-04-02 21:35:00,Tesla Deliveries Rise. Why the Stock Is Falling. - Barron's,TSLA,Google RSS,negative,-0.668418288230896
+2026-04-04 22:33:00,Dow Jones Futures: Leading Stocks Stand Tall As Market Bounces; Look For This Bullish Signal - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
+2026-04-02 21:35:00,Tesla stock is falling. It isn’t the delivery numbers. - MSN,TSLA,Google RSS,negative,-0.8927594423294067
+2026-04-02 22:33:00,Tesla’s stock falls as delivery report suggests the company is ‘actively sacrificing’ EVs - MSN,TSLA,Google RSS,negative,-0.9513604044914246
+2026-04-02 20:14:14,Tesla Q1 deliveries fall short of expectations. Stock drops. - finance.yahoo.com,TSLA,Google RSS,negative,-0.9559634327888489
+2026-04-02 05:40:16,Tesla stock dips overnight: US demand signals weakness ahead of closely watched Q1 delivery print - MSN,TSLA,Google RSS,negative,-0.9640882611274719
+2026-04-02 15:24:23,Tesla sales rise after brutal year of Musk boycotts but still fall short of expectations - Beaumont Enterprise,TSLA,Google RSS,positive,0.5746940970420837
+2026-04-02 06:52:00,Tesla deliveries rise. Why the stock is falling.,TSLA,Bing RSS,negative,-0.8065126538276672
+2026-04-02 15:33:00,Tesla’s stock falls as delivery report suggests the company is 'actively sacrificing' EVs,TSLA,Bing RSS,negative,-0.951745331287384
+2026-04-02 16:00:00,Tesla sales rise after brutal year of Musk boycotts but still fall short of expectations,TSLA,Bing RSS,positive,0.7151681780815125
+2026-03-31 01:00:11,META stock upgraded from Strong Sell Candidate to Sell Candidate after Monday trading session - StockInvest.us,META,Google RSS,positive,0.9102323055267334
+2026-04-01 11:05:07,"Netflix, Inc. $NFLX Stock Position Raised by Meyer Handelman Co. - MarketBeat",NFLX,Google RSS,neutral,0.0
+2026-04-01 08:19:26,"Fifth Third Wealth Advisors LLC Acquires 91,466 Shares of Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
+2026-04-03 11:00:56,"Price Hikes Driving U.S. Streaming Video Sales Growth, Not New Subscribers",NFLX,Yahoo RSS,neutral,0.0
