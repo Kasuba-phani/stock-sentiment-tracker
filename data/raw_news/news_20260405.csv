@@ -55,3 +55,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-05 08:53:55,"KMG Fiduciary Partners LLC Sells 2,603 Shares of Microsoft Corporation $MSFT - marketbeat.com",MSFT,Google RSS,neutral,0.0
 2026-04-01 11:05:07,"Netflix, Inc. $NFLX Stock Position Raised by Meyer Handelman Co. - marketbeat.com",NFLX,Google RSS,neutral,0.0
 2026-04-01 08:19:26,"Fifth Third Wealth Advisors LLC Acquires 91,466 Shares of Netflix, Inc. $NFLX - marketbeat.com",NFLX,Google RSS,neutral,0.0
+2026-04-01 15:00:03,“Sentiment Has Shifted on Copilot”: Analysts Support Microsoft Stock (MSFT) amid AI Slump - tipranks.com,MSFT,Google RSS,positive,0.5144385099411011
