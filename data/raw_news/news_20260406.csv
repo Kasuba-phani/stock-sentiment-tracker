@@ -29,6 +29,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-03 11:00:56,"Price Hikes Driving U.S. Streaming Video Sales Growth, Not New Subscribers",NFLX,Yahoo RSS,neutral,0.0
 2026-04-01 15:00:03,“Sentiment Has Shifted on Copilot”: Analysts Support Microsoft Stock (MSFT) amid AI Slump - tipranks.com,MSFT,Google RSS,positive,0.5144385099411011
 2026-04-05 08:53:55,"KMG Fiduciary Partners LLC Sells 2,603 Shares of Microsoft Corporation $MSFT - marketbeat.com",MSFT,Google RSS,neutral,0.0
-2026-04-05 14:30:02,Tesla Stock Keeps Falling - But 10% Lower TSLA Puts Yield 2.0% for One Month Out - Barchart.com,TSLA,Google RSS,negative,-0.9184088706970215
+2026-04-05 14:30:02,Tesla Stock Keeps Falling - But 10% Lower TSLA Puts Yield 2.0% for One Month Out - Barchart.com,TSLA,Google RSS,negative,-0.9184088706970216
 2026-03-31 01:00:11,META stock upgraded from Strong Sell Candidate to Sell Candidate after Monday trading session - stockinvest.us,META,Google RSS,positive,0.9102323055267334
 2026-04-01 11:05:07,"Netflix, Inc. $NFLX Stock Position Raised by Meyer Handelman Co. - marketbeat.com",NFLX,Google RSS,neutral,0.0
+2026-04-06 07:57:08,"Fifth Third Wealth Advisors LLC Grows Stock Position in Meta Platforms, Inc. $META - MarketBeat",META,Google RSS,positive,0.9157370924949646
