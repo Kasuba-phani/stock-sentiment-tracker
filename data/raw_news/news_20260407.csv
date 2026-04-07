@@ -42,7 +42,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-06 19:57:00,"Dow Jones futures: Stocks rise amid Trump's latest Iran war comments; Nvidia, Seagate, Tesla are key movers",TSLA,Bing RSS,neutral,0.0
 2026-04-07 00:04:31,Microsoft (MSFT): 15 Best S&P 500 Stocks to Buy Right Now,MSFT,Bing RSS,neutral,0.0
 2026-04-06 18:04:00,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says - businessinsider.com",TSLA,Google RSS,negative,-0.9416950345039368
-2026-04-06 17:15:01,Tesla shares hit the lowest since September as sales slump continues and SpaceX IPO nears - investinglive.com,TSLA,Google RSS,negative,-0.9653270244598389
-2026-04-05 14:30:02,Tesla Stock Keeps Falling - But 10% Lower TSLA Puts Yield 2.0% for One Month Out - Barchart.com,TSLA,Google RSS,negative,-0.9184088706970215
+2026-04-06 17:15:01,Tesla shares hit the lowest since September as sales slump continues and SpaceX IPO nears - investinglive.com,TSLA,Google RSS,negative,-0.9653270244598388
+2026-04-05 14:30:02,Tesla Stock Keeps Falling - But 10% Lower TSLA Puts Yield 2.0% for One Month Out - Barchart.com,TSLA,Google RSS,negative,-0.9184088706970216
 2026-04-06 14:24:02,Netflix stock climbs premarket: Goldman cites 3 reasons for upgrade after 6-month tumble - MSN,NFLX,Google RSS,positive,0.7417089343070984
 2026-04-03 11:00:00,"Price Hikes Driving U.S. Streaming Video Sales Growth, Not New Subscribers - investors.com",NFLX,Google RSS,neutral,0.0
+2026-04-01 15:00:03,“Sentiment Has Shifted on Copilot”: Analysts Support Microsoft Stock (MSFT) amid AI Slump - tipranks.com,MSFT,Google RSS,positive,0.5144385099411011
+2026-04-07 07:44:04,Tesla Stock Is Falling – Why Daniel Ives Remains Bullish? - tipranks.com,TSLA,Google RSS,negative,-0.9161147475242615
+2026-04-07 07:46:29,Is the Sharp Decline of Meta’s Stock in 2026 a Buying Opportunity or a Falling Knife? - NAI500,META,Google RSS,negative,-0.6969550251960754
+2026-04-07 08:23:36,"Netflix, Inc. $NFLX Shares Bought by Capital Advisors Wealth Management LLC - MarketBeat",NFLX,Google RSS,neutral,0.0
