@@ -60,3 +60,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-03 10:05:00,Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation - The Motley Fool,GOOGL,Google RSS,neutral,0.0
 2026-04-07 09:09:49,Tesla stock drops 2% as Daniel Ives underscores AI upside - tradersunion.com,TSLA,Google RSS,negative,-0.9250879883766174
 2026-04-07 11:21:08,Is Tesla (TSLA) Still A Good Deal After Recent Share Price Weakness?,TSLA,Yahoo RSS,positive,0.7892816662788391
+2026-04-07 15:02:00,"The Dow Tests a Key Technical Threshold. Watching Apple, Home Depot Stocks. - barrons.com",AAPL,Google RSS,neutral,0.0
+2026-04-07 15:01:00,Lebenthal: NVDA and Micron account for nearly all S&P tech earnings growth,AAPL,Yahoo RSS,neutral,0.0
+2026-04-07 14:31:58,"If Magnificent 7 Executives Don’t Believe In Their Stocks, Should You?",AAPL,Yahoo RSS,neutral,0.0
+2026-04-07 15:01:00,Lebenthal: NVDA and Micron account for nearly all S&P tech earnings growth,GOOGL,Yahoo RSS,neutral,0.0
+2026-04-07 14:31:58,"If Magnificent 7 Executives Don’t Believe In Their Stocks, Should You?",AMZN,Yahoo RSS,neutral,0.0
+2026-04-07 03:37:16,Microsoft's stock price has plummeted 23% year-to-date! Soaring capital expenditures and AI-related concerns emerge as two major issues; this month’s earnings report will be a critical test. - moomoo.com,MSFT,Google RSS,negative,-0.9311937689781189
+2026-04-07 15:01:00,Lebenthal: NVDA and Micron account for nearly all S&P tech earnings growth,MSFT,Yahoo RSS,neutral,0.0
+2026-04-07 14:31:58,"If Magnificent 7 Executives Don’t Believe In Their Stocks, Should You?",MSFT,Yahoo RSS,neutral,0.0
+2026-04-07 15:01:00,Lebenthal: NVDA and Micron account for nearly all S&P tech earnings growth,NVDA,Yahoo RSS,neutral,0.0
+2026-04-07 14:31:58,"If Magnificent 7 Executives Don’t Believe In Their Stocks, Should You?",NVDA,Yahoo RSS,neutral,0.0
+2026-04-07 13:04:00,A J.P. Morgan analyst sees 60% downside to Tesla stock—and he may be too optimistic - Fortune,TSLA,Google RSS,negative,-0.9599704742431641
+2026-04-07 14:29:01,"U.S. Stock Movement | Tesla (TSLA.US) Dropped Nearly 4% as JPMorgan Issued a Strong Sell Recommendation, Warning of a Potential 60% Plunge - 富途牛牛",TSLA,Google RSS,negative,-0.970928430557251
+2026-04-07 15:06:16,"Tesla stock slips as inventory buildup with 50,000 unsold cars weighs on sentiment - Traders Union",TSLA,Google RSS,negative,-0.9648297429084778
+2026-04-07 14:31:58,"If Magnificent 7 Executives Don’t Believe In Their Stocks, Should You?",TSLA,Yahoo RSS,neutral,0.0
+2026-04-07 15:01:00,Lebenthal: NVDA and Micron account for nearly all S&P tech earnings growth,META,Yahoo RSS,neutral,0.0
