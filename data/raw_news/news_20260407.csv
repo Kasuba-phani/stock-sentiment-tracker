@@ -33,10 +33,16 @@ date,headline,ticker,source,sentiment_label,compound
 2026-03-31 19:45:00,Is Apple Stock a Buy After Falling 14% From Its All-Time High? - The Motley Fool,AAPL,Google RSS,negative,-0.9121262431144714
 2026-04-06 09:12:00,2 Stock-Split Vanguard Index Funds to Buy Now. History Says They Can Crush the S&P 500 as the AI Boom Unfolds. - The Motley Fool,AAPL,Google RSS,neutral,0.0
 2026-03-31 19:05:00,Is Apple Stock a Buy After Falling 14% From Its All-Time High?,AAPL,Bing RSS,negative,-0.8933009505271912
-2026-04-07 03:37:16,Microsoft's stock price has plummeted 23% year-to-date! Soaring capital expenditures and AI-related concerns emerge as two major issues; this month’s earnings report will be a critical test. - Moomoo,MSFT,Google RSS,negative,-0.9549345374107361
+2026-04-07 03:37:16,Microsoft's stock price has plummeted 23% year-to-date! Soaring capital expenditures and AI-related concerns emerge as two major issues; this month’s earnings report will be a critical test. - Moomoo,MSFT,Google RSS,negative,-0.954934537410736
 2026-04-07 03:28:44,Microsoft's stock price has plummeted 23% year-to-date! Soaring capital expenditures and AI-related concerns emerge as two major issues; this month’s earnings report will be a critical test. - 富途牛牛,MSFT,Google RSS,negative,-0.9260002970695496
 2026-03-31 13:07:00,Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle',MSFT,Bing RSS,negative,-0.9705244898796082
 2026-04-07 04:04:08,"JPMorgan downgraded Tesla (TSLA.US) ahead of its earnings, warning that the stock price could plummet by 60%. - 富途牛牛",TSLA,Google RSS,negative,-0.9599748849868774
 2026-04-07 01:21:38,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says - MSN",TSLA,Google RSS,negative,-0.9499895572662354
-2026-04-07 03:04:08,TSLA flashes red on technical charts: Bearish analyst warns up to 36% stock plunge by June after brutal JPMorgan call - MSN,TSLA,Google RSS,negative,-0.9315271377563477
+2026-04-07 03:04:08,TSLA flashes red on technical charts: Bearish analyst warns up to 36% stock plunge by June after brutal JPMorgan call - MSN,TSLA,Google RSS,negative,-0.9315271377563475
 2026-04-06 19:57:00,"Dow Jones futures: Stocks rise amid Trump's latest Iran war comments; Nvidia, Seagate, Tesla are key movers",TSLA,Bing RSS,neutral,0.0
+2026-04-07 00:04:31,Microsoft (MSFT): 15 Best S&P 500 Stocks to Buy Right Now,MSFT,Bing RSS,neutral,0.0
+2026-04-06 18:04:00,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says - businessinsider.com",TSLA,Google RSS,negative,-0.9416950345039368
+2026-04-06 17:15:01,Tesla shares hit the lowest since September as sales slump continues and SpaceX IPO nears - investinglive.com,TSLA,Google RSS,negative,-0.9653270244598389
+2026-04-05 14:30:02,Tesla Stock Keeps Falling - But 10% Lower TSLA Puts Yield 2.0% for One Month Out - Barchart.com,TSLA,Google RSS,negative,-0.9184088706970215
+2026-04-06 14:24:02,Netflix stock climbs premarket: Goldman cites 3 reasons for upgrade after 6-month tumble - MSN,NFLX,Google RSS,positive,0.7417089343070984
+2026-04-03 11:00:00,"Price Hikes Driving U.S. Streaming Video Sales Growth, Not New Subscribers - investors.com",NFLX,Google RSS,neutral,0.0
