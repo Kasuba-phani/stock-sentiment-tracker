@@ -1,0 +1,32 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-04-06 06:47:35,Apple stock holds up Monday as traders weigh iPhone 17 demand signals,AAPL,Bing RSS,positive,0.9165558815002441
+2026-04-06 14:50:00,Foxconn reports record first quarter sales driven by AI server demand,AAPL,Yahoo RSS,positive,0.9467624425888062
+2026-04-06 18:43:34,Alphabet: Still Not Too Late To Jump On The 16%+ Growth Train (NASDAQ:GOOG) - Seeking Alpha,GOOGL,Google RSS,positive,0.7382330894470215
+2026-04-06 09:10:00,The Great Rotation Won't Last Forever. 3 Growth Stocks to Buy Before Tech Rebounds. - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-04-06 09:11:34,Nisa Investment Advisors LLC Lowers Stock Position in Alphabet Inc. $GOOG - MarketBeat,GOOGL,Google RSS,negative,-0.9600098133087158
+2026-04-06 09:12:00,2 Stock-Split Vanguard Index Funds to Buy Now. History Says They Can Crush the S&P 500 as the AI Boom Unfolds. - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-04-06 11:42:00,Alphabet: Still Not Too Late To Jump On The 16%+ Growth Train,GOOGL,Bing RSS,positive,0.8276928067207336
+2026-04-05 20:51:32,Top Wall Street analysts see strong growth potential in these 3 stocks - CNBC,AMZN,Google RSS,positive,0.7552072405815125
+2026-03-31 20:19:29,Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle' - CNBC,MSFT,Google RSS,negative,-0.9639750123023987
+2026-04-01 15:00:03,“Sentiment Has Shifted on Copilot”: Analysts Support Microsoft Stock (MSFT) amid AI Slump - TipRanks,MSFT,Google RSS,positive,0.8597332239151001
+2026-04-06 11:49:48,"Waycross Partners LLC Purchases 4,823 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
+2026-04-03 10:05:00,Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-04-06 11:49:52,Microsoft Corporation $MSFT Shares Acquired by Wealthcare Advisory Partners LLC - MarketBeat,MSFT,Google RSS,neutral,0.0
+2026-04-06 14:17:59,Goldman Sachs spots Nvidia-linked shift not seen in 13 years - thestreet.com,NVDA,Google RSS,neutral,0.0
+2026-04-07 00:19:00,"Dow Jones Futures: Stocks Rise Amid Trump's Latest Iran War Comments; Nvidia, Seagate, Tesla Are Key Movers - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-04-06 15:11:09,"US stock market today: US stocks rise as Dow, S&P 500 and Nasdaq stay in green, while Nvidia and Tesla sto - The Economic Times",NVDA,Google RSS,positive,0.8945584297180176
+2026-04-06 22:35:28,A Strong Jobs Report Usually Moves Markets. Here Is Why Oil at $110 and a Closed Strait of Hormuz Are Drowning Out the Good News,NVDA,Yahoo RSS,neutral,0.0
+2026-04-06 17:15:01,Tesla shares hit the lowest since September as sales slump continues and SpaceX IPO nears - investingLive,TSLA,Google RSS,negative,-0.9694147109985352
+2026-04-06 18:04:00,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says - Business Insider",TSLA,Google RSS,negative,-0.950148344039917
+2026-04-02 13:08:08,Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report - CNBC,TSLA,Google RSS,negative,-0.9674545526504517
+2026-04-07 00:19:00,"Dow Jones Futures: Stocks Rise Amid Trump's Latest Iran War Comments; Nvidia, Seagate, Tesla Are Key Movers - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-04-07 01:19:51,JPMorgan reups its bearish call for a 60% plunge in Tesla stock after unsold cars jump to record levels - MSN,TSLA,Google RSS,negative,-0.6926077604293823
+2026-04-06 19:00:13,JPMorgan analysts warn Tesla's stock price could drop by another 60%. - 富途牛牛,TSLA,Google RSS,negative,-0.953055739402771
+2026-04-06 15:11:09,"US stock market today: US stocks rise as Dow, S&P 500 and Nasdaq stay in green, while Nvidia and Tesla sto - The Economic Times",TSLA,Google RSS,positive,0.8945584297180176
+2026-04-06 11:04:38,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says",TSLA,Bing RSS,negative,-0.9630449414253235
+2026-04-06 07:57:08,"Fifth Third Wealth Advisors LLC Grows Stock Position in Meta Platforms, Inc. $META - MarketBeat",META,Google RSS,positive,0.9157370924949646
+2026-04-06 09:11:32,"Meyer Handelman Co. Purchases 3,918 Shares of Meta Platforms, Inc. $META - MarketBeat",META,Google RSS,neutral,0.0
+2026-04-06 08:44:08,Goldman Sachs upgrades Netflix stock rating on content strength - Investing.com,NFLX,Google RSS,neutral,0.0
+2026-04-06 14:29:35,"Netflix stock gains as Goldman Sachs upgrades to buy, targets $120 - artthreat.net",NFLX,Google RSS,positive,0.7722689509391785
+2026-04-03 11:00:00,"Price Hikes Driving U.S. Streaming Video Sales Growth, Not New Subscribers - Investor's Business Daily",NFLX,Google RSS,neutral,0.0
+2026-04-05 23:31:02,Netflix May Have Good Reason To Raise Prices: Streamer Eyes More NFL Games,NFLX,Yahoo RSS,neutral,0.0
