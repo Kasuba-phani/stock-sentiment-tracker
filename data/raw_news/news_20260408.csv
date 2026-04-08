@@ -38,10 +38,16 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-03 11:00:00,"Price Hikes Driving U.S. Streaming Video Sales Growth, Not New Subscribers - Investor's Business Daily",NFLX,Google RSS,neutral,0.0
 2026-04-06 14:29:35,"Netflix stock gains as Goldman Sachs upgrades to buy, targets $120 - artthreat.net",NFLX,Google RSS,positive,0.7722689509391785
 2026-04-07 19:35:00,Netflix price increases expected to lift full-year guidance: Jefferies,NFLX,Yahoo RSS,positive,0.5210722088813782
-2026-04-07 16:08:12,"Dow's 317-point fall led by losses in shares of Apple, Merck - MSN",AAPL,Google RSS,negative,-0.9679402709007263
+2026-04-07 16:08:12,"Dow's 317-point fall led by losses in shares of Apple, Merck - MSN",AAPL,Google RSS,negative,-0.9679402709007264
 2026-04-07 18:30:33,"Dow Jones futures: Stocks rise amid Trump's latest Iran war comments; Nvidia, Seagate, Tesla are key movers - MSN",NVDA,Google RSS,neutral,0.0
-2026-04-07 07:44:04,Tesla Stock Is Falling – Why Daniel Ives Remains Bullish? - TipRanks,TSLA,Google RSS,negative,-0.9280164837837219
+2026-04-07 07:44:04,Tesla Stock Is Falling – Why Daniel Ives Remains Bullish? - TipRanks,TSLA,Google RSS,negative,-0.928016483783722
 2026-04-07 15:54:28,Tesla stock plunges 4% on Tuesday: why it’s falling - TradingView,TSLA,Google RSS,negative,-0.938652515411377
 2026-04-06 18:04:00,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says - Business Insider",TSLA,Google RSS,negative,-0.9501482248306274
 2026-04-06 14:24:02,Netflix stock climbs premarket: Goldman cites 3 reasons for upgrade after 6-month tumble - MSN,NFLX,Google RSS,positive,0.7417093515396118
 2026-04-06 17:17:59,Goldman Sachs spots Nvidia-linked shift not seen in 13 years,NVDA,Yahoo Global,negative,-0.6084117293357849
+2026-04-06 06:47:35,Apple stock holds up Monday as traders weigh iPhone 17 demand signals,AAPL,Bing RSS,positive,0.9165558815002441
+2026-04-05 20:51:32,Top Wall Street analysts see strong growth potential in these 3 stocks - cnbc.com,AMZN,Google RSS,positive,0.5933409333229065
+2026-04-05 14:30:02,Tesla Stock Keeps Falling - But 10% Lower TSLA Puts Yield 2.0% for One Month Out - Barchart.com,TSLA,Google RSS,negative,-0.9184088706970215
+2026-04-06 17:15:01,Tesla shares hit the lowest since September as sales slump continues and SpaceX IPO nears - investinglive.com,TSLA,Google RSS,negative,-0.9653270244598389
+2026-04-07 13:04:00,A J.P. Morgan analyst sees 60% downside to Tesla stock—and he may be too optimistic - Fortune,TSLA,Google RSS,negative,-0.9599704742431641
+2026-04-02 13:08:08,Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report - cnbc.com,TSLA,Google RSS,negative,-0.9680414795875549
