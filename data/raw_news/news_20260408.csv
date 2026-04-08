@@ -45,9 +45,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-06 18:04:00,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says - Business Insider",TSLA,Google RSS,negative,-0.9501482248306274
 2026-04-06 14:24:02,Netflix stock climbs premarket: Goldman cites 3 reasons for upgrade after 6-month tumble - MSN,NFLX,Google RSS,positive,0.7417093515396118
 2026-04-06 17:17:59,Goldman Sachs spots Nvidia-linked shift not seen in 13 years,NVDA,Yahoo Global,negative,-0.6084117293357849
-2026-04-06 06:47:35,Apple stock holds up Monday as traders weigh iPhone 17 demand signals,AAPL,Bing RSS,positive,0.9165558815002441
+2026-04-06 06:47:35,Apple stock holds up Monday as traders weigh iPhone 17 demand signals,AAPL,Bing RSS,positive,0.916555881500244
 2026-04-05 20:51:32,Top Wall Street analysts see strong growth potential in these 3 stocks - cnbc.com,AMZN,Google RSS,positive,0.5933409333229065
-2026-04-05 14:30:02,Tesla Stock Keeps Falling - But 10% Lower TSLA Puts Yield 2.0% for One Month Out - Barchart.com,TSLA,Google RSS,negative,-0.9184088706970215
-2026-04-06 17:15:01,Tesla shares hit the lowest since September as sales slump continues and SpaceX IPO nears - investinglive.com,TSLA,Google RSS,negative,-0.9653270244598389
-2026-04-07 13:04:00,A J.P. Morgan analyst sees 60% downside to Tesla stock—and he may be too optimistic - Fortune,TSLA,Google RSS,negative,-0.9599704742431641
-2026-04-02 13:08:08,Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report - cnbc.com,TSLA,Google RSS,negative,-0.9680414795875549
+2026-04-05 14:30:02,Tesla Stock Keeps Falling - But 10% Lower TSLA Puts Yield 2.0% for One Month Out - Barchart.com,TSLA,Google RSS,negative,-0.9184088706970216
+2026-04-06 17:15:01,Tesla shares hit the lowest since September as sales slump continues and SpaceX IPO nears - investinglive.com,TSLA,Google RSS,negative,-0.9653270244598388
+2026-04-07 13:04:00,A J.P. Morgan analyst sees 60% downside to Tesla stock—and he may be too optimistic - Fortune,TSLA,Google RSS,negative,-0.959970474243164
+2026-04-02 13:08:08,Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report - cnbc.com,TSLA,Google RSS,negative,-0.9680414795875548
+2026-04-07 20:30:06,"The Dow tests a key technical threshold. Watching Apple, Home Depot stocks. - MSN",AAPL,Google RSS,neutral,0.0
+2026-04-08 07:44:05,"Donaldson Capital Management LLC Sells 2,421 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
+2026-04-07 13:04:00,A J.P. Morgan analyst sees 60% downside to Tesla stock—and he may be too optimistic - fortune.com,TSLA,Google RSS,negative,-0.9433241486549377
