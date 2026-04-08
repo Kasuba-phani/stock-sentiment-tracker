@@ -53,4 +53,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-02 13:08:08,Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report - cnbc.com,TSLA,Google RSS,negative,-0.9680414795875548
 2026-04-07 20:30:06,"The Dow tests a key technical threshold. Watching Apple, Home Depot stocks. - MSN",AAPL,Google RSS,neutral,0.0
 2026-04-08 07:44:05,"Donaldson Capital Management LLC Sells 2,421 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
-2026-04-07 13:04:00,A J.P. Morgan analyst sees 60% downside to Tesla stock—and he may be too optimistic - fortune.com,TSLA,Google RSS,negative,-0.9433241486549377
+2026-04-07 13:04:00,A J.P. Morgan analyst sees 60% downside to Tesla stock—and he may be too optimistic - fortune.com,TSLA,Google RSS,negative,-0.9433241486549376
+2026-04-07 07:00:21,AAPL Stock Slides As iPhone-Maker Faces Modest App Store Growth In Q1 – Retail Says ‘Great Opportunity’ To Buy More - stocktwits.com,AAPL,Google RSS,negative,-0.9271143078804016
+2026-04-07 15:12:07,-1.55% for Microsoft stock as US DOJ export control policy update triggers selloff - tradersunion.com,MSFT,Google RSS,negative,-0.7250059247016907
+2026-04-07 18:50:00,"Nasdaq Index: Arm, Nvidia Sink as Oil Rally Hits US Stock Market - fxempire.com",NVDA,Google RSS,neutral,0.0
+2026-04-08 10:35:00,Schwab U.S. Dividend Equity ETF: Higher Prices and Higher Dividends!,NVDA,Yahoo RSS,positive,0.9156376719474792
+2026-04-03 11:00:00,"Price Hikes Driving U.S. Streaming Video Sales Growth, Not New Subscribers - investors.com",NFLX,Google RSS,neutral,0.0
