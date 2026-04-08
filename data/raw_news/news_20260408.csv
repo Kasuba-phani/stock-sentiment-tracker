@@ -60,9 +60,23 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-08 10:35:00,Schwab U.S. Dividend Equity ETF: Higher Prices and Higher Dividends!,NVDA,Yahoo RSS,positive,0.9156376719474792
 2026-04-03 11:00:00,"Price Hikes Driving U.S. Streaming Video Sales Growth, Not New Subscribers - investors.com",NFLX,Google RSS,neutral,0.0
 2026-04-08 12:00:00,"Dow Jones Futures Spike 1,300 Points, Oil Prices Dive On Trump-Iran Ceasefire; What To Do Now - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
-2026-04-06 09:11:34,Nisa Investment Advisors LLC Lowers Stock Position in Alphabet Inc. $GOOG - marketbeat.com,GOOGL,Google RSS,negative,-0.9159266948699951
+2026-04-06 09:11:34,Nisa Investment Advisors LLC Lowers Stock Position in Alphabet Inc. $GOOG - marketbeat.com,GOOGL,Google RSS,negative,-0.9159266948699952
 2026-04-08 07:44:05,"Donaldson Capital Management LLC Sells 2,421 Shares of Microsoft Corporation $MSFT - marketbeat.com",MSFT,Google RSS,neutral,0.0
 2026-04-08 12:00:00,"Dow Jones Futures Spike 1,300 Points, Oil Prices Dive On Trump-Iran Ceasefire; What To Do Now - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
 2026-04-08 04:40:00,Retail investors are buying the dip in Tesla stock,TSLA,Bing RSS,positive,0.4753563702106476
-2026-04-08 13:26:33,"Mag 7 Stocks Melt Up After Ceasefire—Nasdaq Mega Caps Rally - Meta Platforms (NASDAQ:META), Microsoft (NA - Benzinga",META,Google RSS,negative,-0.9619346857070923
+2026-04-08 13:26:33,"Mag 7 Stocks Melt Up After Ceasefire—Nasdaq Mega Caps Rally - Meta Platforms (NASDAQ:META), Microsoft (NA - Benzinga",META,Google RSS,negative,-0.9619346857070924
 2026-04-07 08:23:36,"Netflix, Inc. $NFLX Shares Bought by Capital Advisors Wealth Management LLC - marketbeat.com",NFLX,Google RSS,neutral,0.0
+2026-04-08 14:15:57,"FELG’s Quant Edge Beats the Russell 1000 Growth Index, With a Catch",AAPL,Yahoo RSS,positive,0.8685936331748962
+2026-04-08 13:00:29,Apple iPhone Sales Stay Strong Globally,AAPL,Yahoo RSS,positive,0.9534412622451782
+2026-04-08 14:33:21,Broadcom Stock: How Long-Term Google Agreement and Rising AI Demand Position It for 2030 Growth - TradingKey,GOOGL,Google RSS,neutral,0.0
+2026-04-08 14:33:39,"Meta Platforms, Nvidia to Amazon: Magnificent Seven stocks jump up to 6% as US-Iran ceasefire lifts sentiment - livemint.com",AMZN,Google RSS,positive,0.9034712910652161
+2026-04-08 14:03:45,Cheap Microsoft stock could drop further before recovery - Invezz,MSFT,Google RSS,negative,-0.9093425869941711
+2026-04-08 14:36:16,Microsoft stock gains 1.75% as price stays well below long-term average - tradersunion.com,MSFT,Google RSS,positive,0.7959092259407043
+2026-04-08 06:56:00,Cheap Microsoft stock could drop further before recovery,MSFT,Bing RSS,negative,-0.9619714021682739
+2026-04-08 14:15:57,"FELG’s Quant Edge Beats the Russell 1000 Growth Index, With a Catch",MSFT,Yahoo RSS,positive,0.8685936331748962
+2026-04-08 11:33:41,Retail investors are buying the dip in Tesla stock,MSFT,Yahoo RSS,positive,0.4753563702106476
+2026-04-08 14:18:46,"‘Forget Nvidia,’ Says Top Investor as AMD Stock’s AI Moment Is Near - TipRanks",NVDA,Google RSS,positive,0.3969193696975708
+2026-04-08 14:41:00,"Stock Market Today: Dow Surges 1,100 Points After Ceasefire; Gold Stocks Charge Higher (Live Coverage)",NVDA,Yahoo RSS,positive,0.8194060325622559
+2026-04-08 14:15:57,"FELG’s Quant Edge Beats the Russell 1000 Growth Index, With a Catch",NVDA,Yahoo RSS,positive,0.8685936331748962
+2026-04-08 14:41:00,"Stock Market Today: Dow Surges 1,100 Points After Ceasefire; Gold Stocks Charge Higher (Live Coverage)",TSLA,Yahoo RSS,positive,0.8194060325622559
+2026-04-08 11:33:41,Retail investors are buying the dip in Tesla stock,META,Yahoo RSS,positive,0.4753563702106476
