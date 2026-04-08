@@ -1,7 +1,7 @@
 date,headline,ticker,source,sentiment_label,compound
 2026-04-08 00:26:00,"Dow Jones Futures Jump, Oil Prices Dive On Trump-Iran Cease-Fire; What To Do Now - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
 2026-04-07 15:02:00,"The Dow Tests a Key Technical Threshold. Watching Apple, Home Depot Stocks. - Barron's",AAPL,Google RSS,neutral,0.0
-2026-04-07 15:28:00,AAPL Stock Slides As iPhone-Maker Faces Modest App Store Growth In Q1 – Retail Says ‘Great Opportunity’ To Buy More - Stocktwits,AAPL,Google RSS,negative,-0.9549766778945923
+2026-04-07 15:28:00,AAPL Stock Slides As iPhone-Maker Faces Modest App Store Growth In Q1 – Retail Says ‘Great Opportunity’ To Buy More - Stocktwits,AAPL,Google RSS,negative,-0.9549766778945924
 2026-04-07 20:55:00,"NYSE Stock Highlights: Apple fell, home construction stocks sold off; insurance and energy sectors rose (April 7). - Moomoo",AAPL,Google RSS,negative,-0.8322762250900269
 2026-04-07 16:08:12,"Dow's 317-point fall led by losses in shares of Apple, Merck - msn.com",AAPL,Google RSS,negative,-0.9626531600952148
 2026-04-07 19:34:28,Apple's global sales for iPhone 17 surged in February,AAPL,Yahoo RSS,positive,0.9503218531608582
@@ -15,7 +15,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-08 01:36:44,"Microsoft stock price ended at $372.29 on Tuesday, after losing 0.158% - StockInvest.us",MSFT,Google RSS,negative,-0.9601512551307678
 2026-04-07 15:12:07,-1.55% for Microsoft stock as US DOJ export control policy update triggers selloff - Traders Union,MSFT,Google RSS,negative,-0.8164914846420288
 2026-04-07 07:34:17,"Microsoft stock price ended at $372.88 on Monday, after losing 0.155% - StockInvest.us",MSFT,Google RSS,negative,-0.9592028856277466
-2026-04-07 03:37:16,Microsoft's stock price has plummeted 23% year-to-date! Soaring capital expenditures and AI-related concerns emerge as two major issues; this month’s earnings report will be a critical test. - Moomoo,MSFT,Google RSS,negative,-0.9549345374107361
+2026-04-07 03:37:16,Microsoft's stock price has plummeted 23% year-to-date! Soaring capital expenditures and AI-related concerns emerge as two major issues; this month’s earnings report will be a critical test. - Moomoo,MSFT,Google RSS,negative,-0.954934537410736
 2026-04-03 10:05:00,Alphabet vs. Microsoft: The Better Growth Stock to Buy During the Great Rotation - The Motley Fool,MSFT,Google RSS,neutral,0.0
 2026-04-07 03:28:44,Microsoft's stock price has plummeted 23% year-to-date! Soaring capital expenditures and AI-related concerns emerge as two major issues; this month’s earnings report will be a critical test. - 富途牛牛,MSFT,Google RSS,negative,-0.9260002970695496
 2026-04-06 14:17:59,Goldman Sachs spots Nvidia-linked shift not seen in 13 years - thestreet.com,NVDA,Google RSS,neutral,0.0
@@ -24,8 +24,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-07 02:55:00,"Dow Jones Futures: Stocks Rise Amid Trump's Latest Iran War Comments; Nvidia, Seagate, Tesla Are Key Movers - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
 2026-04-08 01:36:44,Tesla stock downgraded to Strong Sell Candidate - StockInvest.us,TSLA,Google RSS,negative,-0.7314809560775757
 2026-04-08 00:26:00,"Dow Jones Futures Jump, Oil Prices Dive On Trump-Iran Cease-Fire; What To Do Now - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
-2026-04-02 13:08:08,Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report - CNBC,TSLA,Google RSS,negative,-0.9674545526504517
-2026-04-07 16:02:01,Tesla Stock (TSLA) in Deep Slump — Here’s Why Top Analysts See 50%+ Upside - TipRanks,TSLA,Google RSS,negative,-0.9383397102355957
+2026-04-02 13:08:08,Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report - CNBC,TSLA,Google RSS,negative,-0.9674545526504515
+2026-04-07 16:02:01,Tesla Stock (TSLA) in Deep Slump — Here’s Why Top Analysts See 50%+ Upside - TipRanks,TSLA,Google RSS,negative,-0.9383397102355956
 2026-04-07 15:56:01,Tesla stock plunges 4% on Tuesday: why it’s falling - Invezz,TSLA,Google RSS,negative,-0.8565948605537415
 2026-04-05 14:30:02,Tesla Stock Keeps Falling - But 10% Lower TSLA Puts Yield 2.0% for One Month Out - Barchart,TSLA,Google RSS,negative,-0.9553977251052856
 2026-04-07 02:55:00,"Dow Jones Futures: Stocks Rise Amid Trump's Latest Iran War Comments; Nvidia, Seagate, Tesla Are Key Movers - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
@@ -38,3 +38,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-03 11:00:00,"Price Hikes Driving U.S. Streaming Video Sales Growth, Not New Subscribers - Investor's Business Daily",NFLX,Google RSS,neutral,0.0
 2026-04-06 14:29:35,"Netflix stock gains as Goldman Sachs upgrades to buy, targets $120 - artthreat.net",NFLX,Google RSS,positive,0.7722689509391785
 2026-04-07 19:35:00,Netflix price increases expected to lift full-year guidance: Jefferies,NFLX,Yahoo RSS,positive,0.5210722088813782
+2026-04-07 16:08:12,"Dow's 317-point fall led by losses in shares of Apple, Merck - MSN",AAPL,Google RSS,negative,-0.9679402709007263
+2026-04-07 18:30:33,"Dow Jones futures: Stocks rise amid Trump's latest Iran war comments; Nvidia, Seagate, Tesla are key movers - MSN",NVDA,Google RSS,neutral,0.0
+2026-04-07 07:44:04,Tesla Stock Is Falling – Why Daniel Ives Remains Bullish? - TipRanks,TSLA,Google RSS,negative,-0.9280164837837219
+2026-04-07 15:54:28,Tesla stock plunges 4% on Tuesday: why it’s falling - TradingView,TSLA,Google RSS,negative,-0.938652515411377
+2026-04-06 18:04:00,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says - Business Insider",TSLA,Google RSS,negative,-0.9501482248306274
+2026-04-06 14:24:02,Netflix stock climbs premarket: Goldman cites 3 reasons for upgrade after 6-month tumble - MSN,NFLX,Google RSS,positive,0.7417093515396118
+2026-04-06 17:17:59,Goldman Sachs spots Nvidia-linked shift not seen in 13 years,NVDA,Yahoo Global,negative,-0.6084117293357849
