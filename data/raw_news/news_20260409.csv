@@ -102,3 +102,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-09 20:43:05,"Dow Jones Futures: Stocks Extend Rally On Iran War News, Amazon; CPI Inflation, Nvidia Chipmaker Due",NVDA,Yahoo RSS,neutral,0.0
 2026-04-09 19:54:13,Sector Update: Tech Stocks Higher Late Afternoon,META,Yahoo RSS,positive,0.9232140183448792
 2026-04-09 19:44:48,Sector Update: Consumer Stocks Rise Late Afternoon,NFLX,Yahoo RSS,positive,0.7561094760894775
+2026-04-09 21:35:38,"Dow Jones Futures: Trump Issues Hormuz Threat Before Iran Talks; CPI Inflation, Nvidia Chipmaker Due",AMZN,Yahoo RSS,negative,-0.5627207159996033
+2026-04-09 20:58:00,Nvidia’s stock is quietly gaining steam — it’s on its longest winning streak since 2023 - MarketWatch,NVDA,Google RSS,positive,0.8824933767318726
+2026-04-09 21:35:38,"Dow Jones Futures: Trump Issues Hormuz Threat Before Iran Talks; CPI Inflation, Nvidia Chipmaker Due",NVDA,Yahoo RSS,negative,-0.5627207159996033
+2026-04-06 08:34:00,Goldman Sachs upgrades Netflix stock rating on content strength By Investing.com - Investing.com UK,NFLX,Google RSS,neutral,0.0
+2026-04-09 20:58:00,Nvidia’s stock is quietly gaining steam — it’s on its longest winning streak since 2023,NVDA,MarketWatch Top,positive,0.9121496677398682
