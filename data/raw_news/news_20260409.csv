@@ -82,10 +82,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-09 14:50:53,"Software stocks selloff: PLTR, MSFT drop on Anthropic’s ‘Mythos’ model fears",META,Yahoo RSS,negative,-0.9650858044624328
 2026-04-09 16:00:00,Does Amazon really have more growth avenues than McDonald's?,GOOGL,Yahoo RSS,neutral,0.0
 2026-04-09 16:00:00,Does Amazon really have more growth avenues than McDonald's?,AMZN,Yahoo RSS,neutral,0.0
-2026-04-09 15:29:35,Morgan Stanley survey shows modest improvement in 2026 IT budget expectations,AMZN,Yahoo RSS,positive,0.9269711971282959
-2026-04-09 15:29:35,Morgan Stanley survey shows modest improvement in 2026 IT budget expectations,MSFT,Yahoo RSS,positive,0.9269711971282959
+2026-04-09 15:29:35,Morgan Stanley survey shows modest improvement in 2026 IT budget expectations,AMZN,Yahoo RSS,positive,0.926971197128296
+2026-04-09 15:29:35,Morgan Stanley survey shows modest improvement in 2026 IT budget expectations,MSFT,Yahoo RSS,positive,0.926971197128296
 2026-04-09 16:31:51,"‘It’s a Big Mistake,’ Says Top Investor About Nvidia Stock - TipRanks",NVDA,Google RSS,negative,-0.9001098275184631
 2026-04-09 16:05:00,"The Great Rotation Crushed These ""Magnificent Seven"" Stocks. Billionaire Investors Are Loading Up.",NVDA,Yahoo RSS,neutral,0.0
 2026-04-09 16:00:00,Does Amazon really have more growth avenues than McDonald's?,NVDA,Yahoo RSS,neutral,0.0
 2026-04-09 16:30:00,Investors turn bearish on the Mag 7 ahead of tech earnings season,META,Yahoo RSS,negative,-0.7793912887573242
 2026-04-09 16:05:00,"The Great Rotation Crushed These ""Magnificent Seven"" Stocks. Billionaire Investors Are Loading Up.",META,Yahoo RSS,neutral,0.0
+2026-04-09 17:37:30,"Dow's 312-point rally highlighted by gains in shares of Amazon.com Inc., Caterpillar - MSN",AMZN,Google RSS,positive,0.9268900752067566
+2026-04-09 15:15:00,The Great Repricing Is Creating Generational Opportunities in Agentic AI Growth Stocks - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-04-07 13:04:00,A J.P. Morgan analyst sees 60% downside to Tesla stock—and he may be too optimistic - Fortune,TSLA,Google RSS,negative,-0.9599704742431641
+2026-04-09 18:19:07,Tesla stock price forecast: $342.00–$355.00 range in focus as TSLA climbs 1.02% - Traders Union,TSLA,Google RSS,neutral,0.0
+2026-04-09 17:44:26,Sector Update: Consumer Stocks Rise Thursday Afternoon,TSLA,Yahoo RSS,positive,0.7702153325080872
