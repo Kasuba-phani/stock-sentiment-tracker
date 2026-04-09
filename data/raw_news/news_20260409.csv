@@ -2,9 +2,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-08 20:22:00,"Apple's Foldable iPhone Still Set For Fall Launch, Analysts Say - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
 2026-04-08 12:00:00,"Dow Jones Futures Spike 1,300 Points, Oil Prices Dive On Trump-Iran Ceasefire; What To Do Now - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
 2026-04-07 15:02:00,"The Dow Tests a Key Technical Threshold. Watching Apple, Home Depot Stocks. - Barron's",AAPL,Google RSS,neutral,0.0
-2026-04-07 07:00:21,AAPL Stock Slides As iPhone-Maker Faces Modest App Store Growth In Q1 – Retail Says ‘Great Opportunity’ To Buy More - Stocktwits,AAPL,Google RSS,negative,-0.9549766778945923
+2026-04-07 07:00:21,AAPL Stock Slides As iPhone-Maker Faces Modest App Store Growth In Q1 – Retail Says ‘Great Opportunity’ To Buy More - Stocktwits,AAPL,Google RSS,negative,-0.9549766778945924
 2026-04-08 02:15:02,"The Dow tests a key technical threshold. Watching Apple, Home Depot stocks. - MSN",AAPL,Google RSS,neutral,0.0
-2026-04-06 06:47:35,Apple stock holds up Monday as traders weigh iPhone 17 demand signals,AAPL,Bing RSS,positive,0.9165558815002441
+2026-04-06 06:47:35,Apple stock holds up Monday as traders weigh iPhone 17 demand signals,AAPL,Bing RSS,positive,0.916555881500244
 2026-04-08 20:09:29,"Dow spikes by over 1,300, oil prices retreat in ceasefire rally",AAPL,Yahoo RSS,negative,-0.8415701389312744
 2026-04-08 19:44:00,"These Companies Pay 5% Dividend Yields, and They’re Hiking Them Too",AAPL,Yahoo RSS,neutral,0.0
 2026-04-08 20:25:00,3 Top Agentic AI Stocks Investors Should Be Loading Up on Now - The Motley Fool,GOOGL,Google RSS,neutral,0.0
@@ -14,18 +14,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-08 20:09:29,"Dow spikes by over 1,300, oil prices retreat in ceasefire rally",GOOGL,Yahoo RSS,negative,-0.8415701389312744
 2026-04-08 19:45:00,3 Top Agentic AI Stocks Investors Should Be Loading Up on Now,GOOGL,Yahoo RSS,neutral,0.0
 2026-04-05 20:51:32,Top Wall Street analysts see strong growth potential in these 3 stocks - CNBC,AMZN,Google RSS,positive,0.7552072405815125
-2026-04-08 14:33:39,"Meta Platforms, Nvidia to Amazon: Magnificent Seven stocks jump up to 6% as US-Iran ceasefire lifts sentiment - Mint",AMZN,Google RSS,positive,0.9382737278938293
+2026-04-08 14:33:39,"Meta Platforms, Nvidia to Amazon: Magnificent Seven stocks jump up to 6% as US-Iran ceasefire lifts sentiment - Mint",AMZN,Google RSS,positive,0.9382737278938292
 2026-04-08 20:09:29,"Dow spikes by over 1,300, oil prices retreat in ceasefire rally",AMZN,Yahoo RSS,negative,-0.8415701389312744
 2026-04-08 18:20:00,Rigetti Is Growing Sales of Quantum Computers. That’s Good for the Stock.,AMZN,Yahoo RSS,positive,0.8820992112159729
-2026-04-08 13:58:23,Cheap Microsoft stock could drop further before recovery - Invezz,MSFT,Google RSS,negative,-0.9093425869941711
+2026-04-08 13:58:23,Cheap Microsoft stock could drop further before recovery - Invezz,MSFT,Google RSS,negative,-0.9093425869941713
 2026-04-08 01:36:44,"Microsoft stock price ended at $372.29 on Tuesday, after losing 0.158% - StockInvest.us",MSFT,Google RSS,negative,-0.9601512551307678
 2026-04-07 07:34:17,"Microsoft stock price ended at $372.88 on Monday, after losing 0.155% - StockInvest.us",MSFT,Google RSS,negative,-0.9592028856277466
 2026-04-07 15:12:07,-1.55% for Microsoft stock as US DOJ export control policy update triggers selloff - Traders Union,MSFT,Google RSS,negative,-0.8164914846420288
-2026-04-07 03:26:00,Microsoft's stock price has plummeted 23% year-to-date! Soaring capital expenditures and AI-related concerns emerge as two major issues; this month’s earnings report will be a critical test. - Moomoo,MSFT,Google RSS,negative,-0.9549345374107361
+2026-04-07 03:26:00,Microsoft's stock price has plummeted 23% year-to-date! Soaring capital expenditures and AI-related concerns emerge as two major issues; this month’s earnings report will be a critical test. - Moomoo,MSFT,Google RSS,negative,-0.954934537410736
 2026-04-08 07:44:05,"Donaldson Capital Management LLC Sells 2,421 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
 2026-04-08 14:36:16,Microsoft stock gains 1.75% as price stays well below long-term average - Traders Union,MSFT,Google RSS,positive,0.8900636434555054
-2026-04-08 06:56:00,Cheap Microsoft stock could drop further before recovery,MSFT,Bing RSS,negative,-0.9619714021682739
-2026-04-08 17:46:43,Sector Update: Tech Stocks Higher Wednesday Afternoon,MSFT,Yahoo RSS,positive,0.9326938986778259
+2026-04-08 06:56:00,Cheap Microsoft stock could drop further before recovery,MSFT,Bing RSS,negative,-0.961971402168274
+2026-04-08 17:46:43,Sector Update: Tech Stocks Higher Wednesday Afternoon,MSFT,Yahoo RSS,positive,0.932693898677826
 2026-04-08 14:18:46,"‘Forget Nvidia,’ Says Top Investor as AMD Stock’s AI Moment Is Near - TipRanks",NVDA,Google RSS,positive,0.3969193696975708
 2026-04-06 14:17:59,Goldman Sachs spots Nvidia-linked shift not seen in 13 years - thestreet.com,NVDA,Google RSS,neutral,0.0
 2026-04-09 01:47:00,"Oracle's Sales Are Soaring, But Its Stock Is Falling. Time to Buy?",NVDA,Yahoo RSS,negative,-0.7863357067108154
@@ -34,7 +34,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-08 20:44:06,GLJ Research cuts Tesla stock price target citing options market shift - Investing.com,TSLA,Google RSS,neutral,0.0
 2026-04-06 18:04:00,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says - Business Insider",TSLA,Google RSS,negative,-0.950148344039917
 2026-04-08 16:17:58,What’s next for Tesla after a disappointing EV delivery report (TSLA:NASDAQ) - Seeking Alpha,TSLA,Google RSS,neutral,0.0
-2026-04-02 13:08:08,Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report - CNBC,TSLA,Google RSS,negative,-0.9674545526504517
+2026-04-02 13:08:08,Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report - CNBC,TSLA,Google RSS,negative,-0.9674545526504515
 2026-04-08 12:00:00,"Dow Jones Futures Spike 1,300 Points, Oil Prices Dive On Trump-Iran Ceasefire; What To Do Now - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
 2026-04-08 16:54:38,"TSLA stock has dipped 8% in 5 days, and investors can’t stop bottom-fishing – report indicates $256M retail inflows - MSN",TSLA,Google RSS,negative,-0.9694092273712158
 2026-04-08 01:36:44,Tesla stock downgraded to Strong Sell Candidate - StockInvest.us,TSLA,Google RSS,negative,-0.7314809560775757
@@ -50,3 +50,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-06 14:29:35,"Netflix stock gains as Goldman Sachs upgrades to buy, targets $120 - artthreat.net",NFLX,Google RSS,positive,0.7722689509391785
 2026-04-07 19:35:00,Netflix price increases expected to lift full-year guidance: Jefferies,NFLX,Yahoo RSS,positive,0.5210722088813782
 2026-04-07 15:02:00,"The Dow Tests a Key Technical Threshold. Watching Apple, Home Depot Stocks.",AAPL,Yahoo Global,neutral,0.0
+2026-04-09 03:57:24,S&P 500 Stocks Trading At 52-Week High - Trefis,GOOGL,Google RSS,positive,0.538077712059021
+2026-04-08 23:24:58,Why Super Micro Computer Stock Crashed 29.7% in March But Is Moving Higher in April - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-04-08 20:25:00,3 Top Agentic AI Stocks Investors Should Be Loading Up on Now - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-04-05 14:30:02,Tesla Stock Keeps Falling - But 10% Lower TSLA Puts Yield 2.0% for One Month Out - Barchart.com,TSLA,Google RSS,negative,-0.9184088706970215
