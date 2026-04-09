@@ -91,6 +91,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-09 16:05:00,"The Great Rotation Crushed These ""Magnificent Seven"" Stocks. Billionaire Investors Are Loading Up.",META,Yahoo RSS,neutral,0.0
 2026-04-09 17:37:30,"Dow's 312-point rally highlighted by gains in shares of Amazon.com Inc., Caterpillar - MSN",AMZN,Google RSS,positive,0.9268900752067566
 2026-04-09 15:15:00,The Great Repricing Is Creating Generational Opportunities in Agentic AI Growth Stocks - The Motley Fool,NVDA,Google RSS,neutral,0.0
-2026-04-07 13:04:00,A J.P. Morgan analyst sees 60% downside to Tesla stock—and he may be too optimistic - Fortune,TSLA,Google RSS,negative,-0.9599704742431641
+2026-04-07 13:04:00,A J.P. Morgan analyst sees 60% downside to Tesla stock—and he may be too optimistic - Fortune,TSLA,Google RSS,negative,-0.959970474243164
 2026-04-09 18:19:07,Tesla stock price forecast: $342.00–$355.00 range in focus as TSLA climbs 1.02% - Traders Union,TSLA,Google RSS,neutral,0.0
 2026-04-09 17:44:26,Sector Update: Consumer Stocks Rise Thursday Afternoon,TSLA,Yahoo RSS,positive,0.7702153325080872
+2026-04-09 19:54:13,Sector Update: Tech Stocks Higher Late Afternoon,GOOGL,Yahoo RSS,positive,0.9232140183448792
+2026-04-09 20:51:10,"Dow Jones futures: Stocks extend rally on Iran war news, Amazon; CPI inflation, Nvidia chipmaker due - MSN",AMZN,Google RSS,neutral,0.0
+2026-04-09 20:43:05,"Dow Jones Futures: Stocks Extend Rally On Iran War News, Amazon; CPI Inflation, Nvidia Chipmaker Due",AMZN,Yahoo RSS,neutral,0.0
+2026-04-09 19:54:13,Sector Update: Tech Stocks Higher Late Afternoon,MSFT,Yahoo RSS,positive,0.9232140183448792
+2026-04-09 20:51:10,"Dow Jones futures: Stocks extend rally on Iran war news, Amazon; CPI inflation, Nvidia chipmaker due - MSN",NVDA,Google RSS,neutral,0.0
+2026-04-09 20:43:05,"Dow Jones Futures: Stocks Extend Rally On Iran War News, Amazon; CPI Inflation, Nvidia Chipmaker Due",NVDA,Yahoo RSS,neutral,0.0
+2026-04-09 19:54:13,Sector Update: Tech Stocks Higher Late Afternoon,META,Yahoo RSS,positive,0.9232140183448792
+2026-04-09 19:44:48,Sector Update: Consumer Stocks Rise Late Afternoon,NFLX,Yahoo RSS,positive,0.7561094760894775
