@@ -58,5 +58,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-07 15:56:01,Tesla stock plunges 4% on Tuesday: why it’s falling - Invezz,TSLA,Google RSS,negative,-0.8565948605537415
 2026-04-07 07:44:04,Tesla Stock Is Falling – Why Daniel Ives Remains Bullish? - TipRanks,TSLA,Google RSS,negative,-0.9280165433883668
 2026-04-09 08:12:28,"Microsoft Stock Down 20%, Strong Future Potential Ahead - Intellectia AI",MSFT,Google RSS,negative,-0.9569483995437622
-2026-04-06 11:04:38,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says",TSLA,Bing RSS,negative,-0.9630449414253235
+2026-04-06 11:04:38,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says",TSLA,Bing RSS,negative,-0.9630449414253236
 2026-04-07 08:23:36,"Netflix, Inc. $NFLX Shares Bought by Capital Advisors Wealth Management LLC - MarketBeat",NFLX,Google RSS,neutral,0.0
+2026-04-07 16:08:12,"Dow's 317-point fall led by losses in shares of Apple, Merck - MSN",AAPL,Google RSS,negative,-0.9679402709007263
+2026-04-09 10:43:00,Omdia: Global PC Shipments Grew 3% in 1Q26 as Supply Chain Impacts Emerged,AAPL,Yahoo RSS,positive,0.9510754346847534
+2026-04-09 09:25:07,Jaffetilchin Investment Partners LLC Has $68.67 Million Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,neutral,0.0
+2026-04-08 14:49:51,Tesla shares hit the lowest since September as sales slump continues and SpaceX IPO nears - investingLive,TSLA,Google RSS,negative,-0.9694147109985352
+2026-04-07 02:55:00,"Dow Jones Futures: Stocks Rise Amid Trump's Latest Iran War Comments; Nvidia, Seagate, Tesla Are Key Movers - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
