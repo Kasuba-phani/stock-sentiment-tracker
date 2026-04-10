@@ -46,3 +46,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-09 20:58:00,Nvidia’s stock is quietly gaining steam — it’s on its longest winning streak since 2023 - MSN,NVDA,Google RSS,positive,0.7653064131736755
 2026-04-06 18:04:00,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says - Business Insider",TSLA,Google RSS,negative,-0.950148344039917
 2026-04-08 01:36:44,Tesla stock downgraded to Strong Sell Candidate - StockInvest.us,TSLA,Google RSS,negative,-0.7314809560775757
+2026-04-10 02:48:45,"Dow Jones futures: Stocks extend rally on Iran war news, Amazon; CPI inflation, Nvidia chipmaker due - MSN",AMZN,Google RSS,neutral,0.0
+2026-04-09 15:15:00,The Great Repricing Is Creating Generational Opportunities in Agentic AI Growth Stocks - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-04-09 08:20:00,"Tesla's China sales dip, stock hits two-month losing streak",TSLA,Bing RSS,negative,-0.9604602456092834
