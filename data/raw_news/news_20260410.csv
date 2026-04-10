@@ -71,7 +71,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-10 13:17:53,Stock Market Today: Dow Wavers On Surprise CPI Inflation Data; Nvidia Chipmaker TSMC Jumps (Live Coverage),NVDA,Yahoo RSS,negative,-0.8443880081176758
 2026-04-06 08:40:49,Goldman Sachs upgrades Netflix stock rating on content strength - Investing.com,NFLX,Google RSS,neutral,0.0
 2026-04-10 09:46:00,Nvidia stock is on its best winning streak since 2023. Why that run is in peril. - MSN,NVDA,Google RSS,neutral,0.0
-2026-04-10 11:46:00,"Apple set to deliver slight earnings miss for March quarter on weaker iPhone sales, higher memory costs",AAPL,Yahoo RSS,negative,-0.9741978049278259
+2026-04-10 11:46:00,"Apple set to deliver slight earnings miss for March quarter on weaker iPhone sales, higher memory costs",AAPL,Yahoo RSS,negative,-0.974197804927826
 2026-04-10 15:14:00,Lumentum and Coherent Stocks Are the New S&P 500 Standouts. Thank AI Demand.,NVDA,Yahoo RSS,neutral,0.0
-2026-04-10 15:07:12,"Tesla Stock Edges Higher As Traders Weigh Delivery Miss, April 22 Earnings - Benzinga",TSLA,Google RSS,negative,-0.37893566489219666
+2026-04-10 15:07:12,"Tesla Stock Edges Higher As Traders Weigh Delivery Miss, April 22 Earnings - Benzinga",TSLA,Google RSS,negative,-0.3789356648921966
 2026-04-10 15:53:58,Tesla stock slips as delivery miss and risks weigh on sentiment - Invezz,TSLA,Google RSS,negative,-0.94994056224823
+2026-04-10 16:56:05,"Sony, Nintendo, and Microsoft Stocks All Fall on New Video Game Console Sales Data - TipRanks",MSFT,Google RSS,negative,-0.9224992990493774
+2026-04-10 09:03:00,Wall Street Analysts See a 46.16% Upside in Nvidia (NVDA): Can the Stock Really Move This High?,NVDA,Bing RSS,positive,0.5477682948112488
+2026-04-10 12:16:00,Netflix ad-supported tier gains traction as low churn boosts advertiser confidence,NFLX,Yahoo RSS,positive,0.9453226327896118
