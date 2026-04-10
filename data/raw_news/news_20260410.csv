@@ -2,7 +2,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-08 20:22:00,"Apple's Foldable iPhone Still Set For Fall Launch, Analysts Say - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
 2026-04-07 15:02:00,"The Dow Tests a Key Technical Threshold. Watching Apple, Home Depot Stocks. - Barron's",AAPL,Google RSS,neutral,0.0
 2026-04-08 12:00:00,"Dow Jones Futures Spike 1,300 Points, Oil Prices Dive On Trump-Iran Ceasefire; What To Do Now - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
-2026-04-07 17:15:00,AAPL Stock Slides As iPhone-Maker Faces Modest App Store Growth In Q1 – Retail Says ‘Great Opportunity’ To Buy More - Stocktwits,AAPL,Google RSS,negative,-0.9549766778945923
+2026-04-07 17:15:00,AAPL Stock Slides As iPhone-Maker Faces Modest App Store Growth In Q1 – Retail Says ‘Great Opportunity’ To Buy More - Stocktwits,AAPL,Google RSS,negative,-0.9549766778945924
 2026-04-08 02:15:02,"The Dow tests a key technical threshold. Watching Apple, Home Depot stocks. - MSN",AAPL,Google RSS,neutral,0.0
 2026-04-08 17:14:26,Alphabet stock extends gains amid buying sparked by strong gap up - Traders Union,GOOGL,Google RSS,positive,0.9062054753303528
 2026-04-06 11:42:00,Alphabet: Still Not Too Late To Jump On The 16%+ Growth Train,GOOGL,Bing RSS,positive,0.8276928067207336
@@ -10,14 +10,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-09 12:41:50,Is Amazon (AMZN) Still in the Sweet Spot as AWS and Retail Efficiency Drive Margins? - TipRanks,AMZN,Google RSS,neutral,0.0
 2026-04-10 03:02:35,"Dow Jones Futures: Trump Issues Hormuz Threat Before Iran Talks; CPI Inflation, Nvidia Chipmaker Due",AMZN,Yahoo RSS,negative,-0.5627207159996033
 2026-04-09 13:43:01,"‘Focus on the Trajectory,’ Says Top Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
-2026-04-09 14:11:24,Microsoft stock slides slightly as Iranian threats against UAE datacenters weigh on tech sector - Traders Union,MSFT,Google RSS,negative,-0.9517300724983215
+2026-04-09 14:11:24,Microsoft stock slides slightly as Iranian threats against UAE datacenters weigh on tech sector - Traders Union,MSFT,Google RSS,negative,-0.9517300724983216
 2026-04-08 01:36:44,"Microsoft stock price ended at $372.29 on Tuesday, after losing 0.158% - StockInvest.us",MSFT,Google RSS,negative,-0.9601512551307678
 2026-04-07 07:34:17,"Microsoft stock price ended at $372.88 on Monday, after losing 0.155% - StockInvest.us",MSFT,Google RSS,negative,-0.9592028856277466
 2026-04-07 15:12:07,-1.55% for Microsoft stock as US DOJ export control policy update triggers selloff - Traders Union,MSFT,Google RSS,negative,-0.8164914846420288
-2026-04-08 13:58:23,Cheap Microsoft stock could drop further before recovery - Invezz,MSFT,Google RSS,negative,-0.9093425869941711
+2026-04-08 13:58:23,Cheap Microsoft stock could drop further before recovery - Invezz,MSFT,Google RSS,negative,-0.9093425869941713
 2026-04-09 08:12:28,"Microsoft Stock Down 20%, Strong Future Potential Ahead - Intellectia AI",MSFT,Google RSS,negative,-0.9569483995437622
-2026-04-07 03:26:00,Microsoft's stock price has plummeted 23% year-to-date! Soaring capital expenditures and AI-related concerns emerge as two major issues; this month’s earnings report will be a critical test. - Moomoo,MSFT,Google RSS,negative,-0.9549345374107361
-2026-04-08 06:53:29,Cheap Microsoft stock could drop further before recovery,MSFT,Bing RSS,negative,-0.9619714021682739
+2026-04-07 03:26:00,Microsoft's stock price has plummeted 23% year-to-date! Soaring capital expenditures and AI-related concerns emerge as two major issues; this month’s earnings report will be a critical test. - Moomoo,MSFT,Google RSS,negative,-0.954934537410736
+2026-04-08 06:53:29,Cheap Microsoft stock could drop further before recovery,MSFT,Bing RSS,negative,-0.961971402168274
 2026-04-09 19:54:13,Sector Update: Tech Stocks Higher Late Afternoon,MSFT,Yahoo RSS,positive,0.9232140183448792
 2026-04-09 20:58:00,Nvidia’s stock is quietly gaining steam — it’s on its longest winning streak since 2023 - MarketWatch,NVDA,Google RSS,positive,0.8824933767318726
 2026-04-09 16:31:51,"‘It’s a Big Mistake,’ Says Top Investor About Nvidia Stock - TipRanks",NVDA,Google RSS,negative,-0.9001098275184631
@@ -27,17 +27,22 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-09 09:25:07,Jaffetilchin Investment Partners LLC Has $68.67 Million Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,neutral,0.0
 2026-04-09 13:58:00,Nvidia’s stock is quietly gaining steam — it’s on its longest winning streak since 2023,NVDA,Bing RSS,positive,0.9121496677398682
 2026-04-10 03:02:35,"Dow Jones Futures: Trump Issues Hormuz Threat Before Iran Talks; CPI Inflation, Nvidia Chipmaker Due",NVDA,Yahoo RSS,negative,-0.5627207159996033
-2026-04-07 13:04:00,A J.P. Morgan analyst sees 60% downside to Tesla stock—and he may be too optimistic - Fortune,TSLA,Google RSS,negative,-0.9599704742431641
+2026-04-07 13:04:00,A J.P. Morgan analyst sees 60% downside to Tesla stock—and he may be too optimistic - Fortune,TSLA,Google RSS,negative,-0.959970474243164
 2026-04-08 20:44:06,GLJ Research cuts Tesla stock price target citing options market shift - Investing.com,TSLA,Google RSS,neutral,0.0
-2026-04-09 15:24:29,"Tesla's China sales dip, stock hits two-month losing streak - News.az",TSLA,Google RSS,negative,-0.9122640490531921
+2026-04-09 15:24:29,"Tesla's China sales dip, stock hits two-month losing streak - News.az",TSLA,Google RSS,negative,-0.912264049053192
 2026-04-09 23:33:28,TSLA stock heads for 8th straight week of price decline — what’s driving the selloff? - MSN,TSLA,Google RSS,negative,-0.875583827495575
 2026-04-08 12:00:00,"Dow Jones Futures Spike 1,300 Points, Oil Prices Dive On Trump-Iran Ceasefire; What To Do Now - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
 2026-04-09 17:44:26,Sector Update: Consumer Stocks Rise Thursday Afternoon,TSLA,Yahoo RSS,positive,0.7702153325080872
 2026-04-07 07:46:29,Is the Sharp Decline of Meta’s Stock in 2026 a Buying Opportunity or a Falling Knife? - NAI500,META,Google RSS,negative,-0.6969550251960754
 2026-04-09 13:44:46,Analysts See 44% Upside for Meta (META) Stock After $300 Billion March Selloff - AOL.com,META,Google RSS,positive,0.6227935552597046
-2026-04-09 10:34:00,Analysts See 44% Upside for Meta (META) Stock After $300 Billion March Selloff,META,Bing RSS,positive,0.9335213303565979
+2026-04-09 10:34:00,Analysts See 44% Upside for Meta (META) Stock After $300 Billion March Selloff,META,Bing RSS,positive,0.933521330356598
 2026-04-09 19:54:13,Sector Update: Tech Stocks Higher Late Afternoon,META,Yahoo RSS,positive,0.9232140183448792
 2026-04-06 14:24:02,Netflix stock climbs premarket: Goldman cites 3 reasons for upgrade after 6-month tumble - MSN,NFLX,Google RSS,positive,0.7417089343070984
 2026-04-09 21:50:10,Netflix Inc stock: 847% decade surge signals long-term strength for investors - AD HOC NEWS,NFLX,Google RSS,positive,0.9060301780700684
 2026-04-06 14:29:35,"Netflix stock gains as Goldman Sachs upgrades to buy, targets $120 - artthreat.net",NFLX,Google RSS,positive,0.7722689509391785
 2026-04-09 19:44:48,Sector Update: Consumer Stocks Rise Late Afternoon,NFLX,Yahoo RSS,positive,0.7561094760894775
+2026-04-10 05:06:49,Apple Towson Closure Puts Retail Labor Relations In Investor Focus,AAPL,Yahoo RSS,negative,-0.9304785132408142
+2026-04-10 04:50:43,"Dow's 312-point rally highlighted by gains in shares of Amazon.com Inc., Caterpillar - MSN",AMZN,Google RSS,positive,0.9268900752067566
+2026-04-09 20:58:00,Nvidia’s stock is quietly gaining steam — it’s on its longest winning streak since 2023 - MSN,NVDA,Google RSS,positive,0.7653064131736755
+2026-04-06 18:04:00,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says - Business Insider",TSLA,Google RSS,negative,-0.950148344039917
+2026-04-08 01:36:44,Tesla stock downgraded to Strong Sell Candidate - StockInvest.us,TSLA,Google RSS,negative,-0.7314809560775757
