@@ -46,7 +46,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-06 14:24:02,Netflix stock climbs premarket: Goldman cites 3 reasons for upgrade after 6-month tumble - MSN,NFLX,Google RSS,positive,0.7417093515396118
 2026-04-10 12:16:00,Netflix ad-supported tier gains traction as low churn boosts advertiser confidence,NFLX,Yahoo RSS,positive,0.9453226327896118
 2026-04-09 19:44:48,Sector Update: Consumer Stocks Rise Late Afternoon,NFLX,Yahoo RSS,positive,0.7561114430427551
-2026-04-07 03:26:00,Microsoft's stock price has plummeted 23% year-to-date! Soaring capital expenditures and AI-related concerns emerge as two major issues; this month’s earnings report will be a critical test. - Moomoo,MSFT,Google RSS,negative,-0.9549345374107361
+2026-04-07 03:26:00,Microsoft's stock price has plummeted 23% year-to-date! Soaring capital expenditures and AI-related concerns emerge as two major issues; this month’s earnings report will be a critical test. - Moomoo,MSFT,Google RSS,negative,-0.954934537410736
 2026-04-09 13:58:00,Nvidia’s stock is quietly gaining steam — it’s on its longest winning streak since 2023,NVDA,Bing RSS,positive,0.9121496677398682
 2026-04-10 19:25:59,Vanda Research Says Retail Investors are Buying the Tesla Stock Dip. Should you? - Barchart,TSLA,Google RSS,neutral,0.0
 2026-04-10 13:00:27,"4 stocks to watch on Friday: BRK, INTC, META, COP (SP500:) - Seeking Alpha",META,Google RSS,neutral,0.0
+2026-04-08 16:17:58,What’s next for Tesla after a disappointing EV delivery report (TSLA:NASDAQ) - Seeking Alpha,TSLA,Google RSS,neutral,0.0
+2026-04-09 13:44:46,Analysts See 44% Upside for Meta (META) Stock After $300 Billion March Selloff - AOL.com,META,Google RSS,positive,0.6227935552597046
