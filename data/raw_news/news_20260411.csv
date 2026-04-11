@@ -5,17 +5,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-07 15:02:00,"The Dow Tests a Key Technical Threshold. Watching Apple, Home Depot Stocks. - Barron's",AAPL,Google RSS,neutral,0.0
 2026-04-08 12:00:00,"Dow Jones Futures Spike 1,300 Points, Oil Prices Dive On Trump-Iran Ceasefire; What To Do Now - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
 2026-04-08 02:15:02,"The Dow tests a key technical threshold. Watching Apple, Home Depot stocks. - MSN",AAPL,Google RSS,neutral,0.0
-2026-04-07 17:15:00,AAPL Stock Slides As iPhone-Maker Faces Modest App Store Growth In Q1 – Retail Says ‘Great Opportunity’ To Buy More - Stocktwits,AAPL,Google RSS,negative,-0.9549766182899475
+2026-04-07 17:15:00,AAPL Stock Slides As iPhone-Maker Faces Modest App Store Growth In Q1 – Retail Says ‘Great Opportunity’ To Buy More - Stocktwits,AAPL,Google RSS,negative,-0.9549766182899476
 2026-04-10 11:56:04,Mizuho raises Alphabet stock price target on cloud growth outlook - Investing.com,GOOGL,Google RSS,neutral,0.0
 2026-04-10 21:07:38,Alphabet Grants New Long-Term Equity Awards to Executives - TipRanks,GOOGL,Google RSS,positive,0.5866055488586426
-2026-04-10 17:13:21,YouTube boosts U.S. subscription prices for first time since 2023: report (GOOG:NASDAQ) - Seeking Alpha,GOOGL,Google RSS,positive,0.9290996193885803
+2026-04-10 17:13:21,YouTube boosts U.S. subscription prices for first time since 2023: report (GOOG:NASDAQ) - Seeking Alpha,GOOGL,Google RSS,positive,0.9290996193885804
 2026-04-06 11:42:00,Alphabet: Still Not Too Late To Jump On The 16%+ Growth Train,GOOGL,Bing RSS,positive,0.8276927471160889
 2026-04-10 12:02:00,"Dow Jones Futures: Trump, Iran Issue Threats; Nvidia Chipmaker Beats Views, CPI Inflation Due - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
 2026-04-10 16:56:05,"Sony, Nintendo, and Microsoft Stocks All Fall on New Video Game Console Sales Data - TipRanks",MSFT,Google RSS,negative,-0.9224990010261536
 2026-04-08 01:36:44,"Microsoft stock price ended at $372.29 on Tuesday, after losing 0.158% - StockInvest.us",MSFT,Google RSS,negative,-0.9601512551307678
-2026-04-09 14:11:24,Microsoft stock slides slightly as Iranian threats against UAE datacenters weigh on tech sector - Traders Union,MSFT,Google RSS,negative,-0.9517301917076111
+2026-04-09 14:11:24,Microsoft stock slides slightly as Iranian threats against UAE datacenters weigh on tech sector - Traders Union,MSFT,Google RSS,negative,-0.9517301917076112
 2026-04-07 07:34:17,"Microsoft stock price ended at $372.88 on Monday, after losing 0.155% - StockInvest.us",MSFT,Google RSS,negative,-0.9592028856277466
-2026-04-08 13:58:23,Cheap Microsoft stock could drop further before recovery - Invezz,MSFT,Google RSS,negative,-0.9093421697616577
+2026-04-08 13:58:23,Cheap Microsoft stock could drop further before recovery - Invezz,MSFT,Google RSS,negative,-0.9093421697616576
 2026-04-08 06:53:29,Cheap Microsoft stock could drop further before recovery,MSFT,Bing RSS,negative,-0.9619712829589844
 2026-04-10 19:25:59,Vanda Research Says Retail Investors are Buying the Tesla Stock Dip. Should you?,MSFT,Yahoo RSS,neutral,0.0
 2026-04-10 12:02:00,"Dow Jones Futures: Trump, Iran Issue Threats; Nvidia Chipmaker Beats Views, CPI Inflation Due - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
@@ -27,22 +27,26 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-10 17:08:00,Nvidia Partner TSMC Stock Reports Strong March Sales. AI Chip Demand Booms Ahead Of Q1 Results. - Investor's Business Daily,NVDA,Google RSS,positive,0.9031841158866882
 2026-04-09 16:31:51,"‘It’s a Big Mistake,’ Says Top Investor About Nvidia Stock - TipRanks",NVDA,Google RSS,negative,-0.9001097679138184
 2026-04-10 08:55:03,Wall Street Analysts See a 46.16% Upside in Nvidia (NVDA): Can the Stock Really Move This High? - qz.com,NVDA,Google RSS,positive,0.8047664165496826
-2026-04-10 08:55:28,Parkwoods Wealth Partners LLC Grows Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,positive,0.9416404962539673
-2026-04-08 14:18:46,"‘Forget Nvidia,’ Says Top Investor as AMD Stock’s AI Moment Is Near - TipRanks",NVDA,Google RSS,positive,0.39691898226737976
+2026-04-10 08:55:28,Parkwoods Wealth Partners LLC Grows Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,positive,0.9416404962539672
+2026-04-08 14:18:46,"‘Forget Nvidia,’ Says Top Investor as AMD Stock’s AI Moment Is Near - TipRanks",NVDA,Google RSS,positive,0.3969189822673797
 2026-04-08 20:44:06,GLJ Research cuts Tesla stock price target citing options market shift - Investing.com,TSLA,Google RSS,neutral,0.0
-2026-04-07 13:04:00,A J.P. Morgan analyst sees 60% downside to Tesla stock—and he may be too optimistic - Fortune,TSLA,Google RSS,negative,-0.9599704742431641
-2026-04-10 15:07:12,"Tesla Stock Edges Higher As Traders Weigh Delivery Miss, April 22 Earnings - Benzinga",TSLA,Google RSS,negative,-0.37893497943878174
+2026-04-07 13:04:00,A J.P. Morgan analyst sees 60% downside to Tesla stock—and he may be too optimistic - Fortune,TSLA,Google RSS,negative,-0.959970474243164
+2026-04-10 15:07:12,"Tesla Stock Edges Higher As Traders Weigh Delivery Miss, April 22 Earnings - Benzinga",TSLA,Google RSS,negative,-0.3789349794387817
 2026-04-06 18:04:00,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says - Business Insider",TSLA,Google RSS,negative,-0.9501482248306274
-2026-04-10 10:20:00,Tesla stock is on track for an 8-week losing streak. It lost this key support. - MSN,TSLA,Google RSS,negative,-0.9238986372947693
+2026-04-10 10:20:00,Tesla stock is on track for an 8-week losing streak. It lost this key support. - MSN,TSLA,Google RSS,negative,-0.9238986372947692
 2026-04-10 19:25:59,Vanda Research Says Retail Investors are Buying the Tesla Stock Dip. Should you? - Barchart.com,TSLA,Google RSS,neutral,0.0
-2026-04-10 15:53:58,Tesla stock slips as delivery miss and risks weigh on sentiment - Invezz,TSLA,Google RSS,negative,-0.9499406814575195
+2026-04-10 15:53:58,Tesla stock slips as delivery miss and risks weigh on sentiment - Invezz,TSLA,Google RSS,negative,-0.9499406814575196
 2026-04-10 13:09:00,Tesla stock set for 8-week losing streak. What it needs to head higher again.,TSLA,Bing RSS,neutral,0.0
 2026-04-10 09:08:00,Tesla stock slips as delivery miss and risks weigh on sentiment,TSLA,Bing RSS,negative,-0.9565830826759338
 2026-04-10 19:25:59,Vanda Research Says Retail Investors are Buying the Tesla Stock Dip. Should you?,TSLA,Yahoo RSS,neutral,0.0
-2026-04-09 10:34:00,Analysts See 44% Upside for Meta (META) Stock After $300 Billion March Selloff,META,Bing RSS,positive,0.9335213303565979
+2026-04-09 10:34:00,Analysts See 44% Upside for Meta (META) Stock After $300 Billion March Selloff,META,Bing RSS,positive,0.933521330356598
 2026-04-10 19:25:59,Vanda Research Says Retail Investors are Buying the Tesla Stock Dip. Should you?,META,Yahoo RSS,neutral,0.0
 2026-04-10 09:57:49,"Personal CFO Solutions LLC Acquires 20,523 Shares of Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
 2026-04-06 08:40:49,Goldman Sachs upgrades Netflix stock rating on content strength - Investing.com,NFLX,Google RSS,neutral,0.0
 2026-04-06 14:24:02,Netflix stock climbs premarket: Goldman cites 3 reasons for upgrade after 6-month tumble - MSN,NFLX,Google RSS,positive,0.7417093515396118
 2026-04-10 12:16:00,Netflix ad-supported tier gains traction as low churn boosts advertiser confidence,NFLX,Yahoo RSS,positive,0.9453226327896118
 2026-04-09 19:44:48,Sector Update: Consumer Stocks Rise Late Afternoon,NFLX,Yahoo RSS,positive,0.7561114430427551
+2026-04-07 03:26:00,Microsoft's stock price has plummeted 23% year-to-date! Soaring capital expenditures and AI-related concerns emerge as two major issues; this month’s earnings report will be a critical test. - Moomoo,MSFT,Google RSS,negative,-0.9549345374107361
+2026-04-09 13:58:00,Nvidia’s stock is quietly gaining steam — it’s on its longest winning streak since 2023,NVDA,Bing RSS,positive,0.9121496677398682
+2026-04-10 19:25:59,Vanda Research Says Retail Investors are Buying the Tesla Stock Dip. Should you? - Barchart,TSLA,Google RSS,neutral,0.0
+2026-04-10 13:00:27,"4 stocks to watch on Friday: BRK, INTC, META, COP (SP500:) - Seeking Alpha",META,Google RSS,neutral,0.0
