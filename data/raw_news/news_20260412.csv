@@ -41,3 +41,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-09 13:58:00,Nvidia’s stock is quietly gaining steam — it’s on its longest winning streak since 2023,NVDA,Bing RSS,positive,0.9121496677398682
 2026-04-06 18:04:00,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says - Business Insider",TSLA,Google RSS,negative,-0.950148344039917
 2026-04-08 21:53:06,Netflix stock climbs premarket: Goldman cites 3 reasons for upgrade after 6-month tumble - MSN,NFLX,Google RSS,positive,0.7417089343070984
+2026-04-12 13:25:14,Wall Street strategists say it's time to 'jump in' with tech stocks amid Iran ceasefire,GOOGL,Yahoo RSS,positive,0.7697962522506714
+2026-04-12 13:25:14,Wall Street strategists say it's time to 'jump in' with tech stocks amid Iran ceasefire,MSFT,Yahoo RSS,positive,0.7697962522506714
+2026-04-12 13:31:34,"‘Stay on the Sidelines,’ Says Top Investor About Tesla Stock - TipRanks",TSLA,Google RSS,neutral,0.0
