@@ -55,3 +55,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-11 08:15:52,Tesla stock extends 8-week losing streak as earnings approach - Latest news from Azerbaijan,TSLA,Google RSS,negative,-0.9053334593772888
 2026-04-08 12:00:00,"Dow Jones Futures Spike 1,300 Points, Oil Prices Dive On Trump-Iran Ceasefire; What To Do Now - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
 2026-04-12 14:03:30,Goldman Sachs maintains bullish stance on Microsoft (MSFT) stock,MSFT,Bing RSS,neutral,0.0
+2026-04-06 11:42:00,Alphabet: Still Not Too Late To Jump On The 16%+ Growth Train,GOOGL,Bing RSS,positive,0.8276928067207336
