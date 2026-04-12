@@ -10,15 +10,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-09 13:43:01,"‘Focus on the Trajectory,’ Says Top Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
 2026-04-08 01:36:44,"Microsoft stock price ended at $372.29 on Tuesday, after losing 0.158% - StockInvest.us",MSFT,Google RSS,negative,-0.9601512551307678
 2026-04-07 07:34:17,"Microsoft stock price ended at $372.88 on Monday, after losing 0.155% - StockInvest.us",MSFT,Google RSS,negative,-0.9592028856277466
-2026-04-08 13:58:23,Cheap Microsoft stock could drop further before recovery - Invezz,MSFT,Google RSS,negative,-0.9093421697616577
+2026-04-08 13:58:23,Cheap Microsoft stock could drop further before recovery - Invezz,MSFT,Google RSS,negative,-0.9093421697616576
 2026-04-09 20:58:00,Nvidia’s stock is quietly gaining steam — it’s on its longest winning streak since 2023 - MarketWatch,NVDA,Google RSS,positive,0.8824933171272278
 2026-04-11 17:25:00,"The Smartest Growth Stocks to Invest $1,000 in As Investors Rotate Out of Tech - The Motley Fool",NVDA,Google RSS,neutral,0.0
 2026-04-09 16:31:51,"‘It’s a Big Mistake,’ Says Top Investor About Nvidia Stock - TipRanks",NVDA,Google RSS,negative,-0.9001097679138184
 2026-04-11 11:39:23,Westmount Partners LLC Has $16.75 Million Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,neutral,0.0
 2026-04-10 12:02:00,"Dow Jones Futures: Trump, Iran Issue Threats; Nvidia Chipmaker Beats Views, CPI Inflation Due - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
 2026-04-11 22:25:00,Why Falling Rocket Launch Costs Are Getting Investors Excited About Space,NVDA,Yahoo RSS,neutral,0.0
-2026-04-10 15:07:12,"Tesla Stock Edges Higher As Traders Weigh Delivery Miss, April 22 Earnings - Benzinga",TSLA,Google RSS,negative,-0.37893497943878174
-2026-04-07 13:04:00,A J.P. Morgan analyst sees 60% downside to Tesla stock—and he may be too optimistic - Fortune,TSLA,Google RSS,negative,-0.9599704742431641
+2026-04-10 15:07:12,"Tesla Stock Edges Higher As Traders Weigh Delivery Miss, April 22 Earnings - Benzinga",TSLA,Google RSS,negative,-0.3789349794387817
+2026-04-07 13:04:00,A J.P. Morgan analyst sees 60% downside to Tesla stock—and he may be too optimistic - Fortune,TSLA,Google RSS,negative,-0.959970474243164
 2026-04-11 08:15:52,Tesla stock extends 8-week losing streak as earnings approach - News.az,TSLA,Google RSS,negative,-0.9517027735710144
 2026-04-08 20:44:06,GLJ Research cuts Tesla stock price target citing options market shift - Investing.com,TSLA,Google RSS,neutral,0.0
 2026-04-10 19:25:59,Vanda Research Says Retail Investors are Buying the Tesla Stock Dip. Should you? - Barchart,TSLA,Google RSS,neutral,0.0
@@ -29,3 +29,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-10 12:16:00,Netflix ad-supported tier gains traction as low churn boosts advertiser confidence,NFLX,Yahoo RSS,positive,0.9453226327896118
 2026-04-09 19:44:48,Sector Update: Consumer Stocks Rise Late Afternoon,NFLX,Yahoo RSS,positive,0.7561114430427551
 2026-04-10 19:25:59,Vanda Research Says Retail Investors are Buying the Tesla Stock Dip. Should you?,TSLA,Yahoo Global,neutral,0.0
+2026-04-12 03:09:00,"U.S.-Iran Talks End With No Deal; How Will Dow Jones Futures, Oil Prices React? - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-04-10 19:25:59,Vanda Research Says Retail Investors are Buying the Tesla Stock Dip. Should you? - Barchart.com,TSLA,Google RSS,neutral,0.0
+2026-04-09 10:34:00,Analysts See 44% Upside for Meta (META) Stock After $300 Billion March Selloff,META,Bing RSS,positive,0.9335213303565979
