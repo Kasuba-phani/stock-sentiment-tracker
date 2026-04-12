@@ -53,3 +53,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-12 18:22:00,Why Nvidia Stock May Frustrate Some Growth Investors,NVDA,Yahoo RSS,negative,-0.5594715476036072
 2026-04-10 20:09:00,Tesla stock is on track for an 8-week losing streak. It lost this key support. - MSN,TSLA,Google RSS,negative,-0.9238988757133484
 2026-04-11 08:15:52,Tesla stock extends 8-week losing streak as earnings approach - Latest news from Azerbaijan,TSLA,Google RSS,negative,-0.9053334593772888
+2026-04-08 12:00:00,"Dow Jones Futures Spike 1,300 Points, Oil Prices Dive On Trump-Iran Ceasefire; What To Do Now - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-04-12 14:03:30,Goldman Sachs maintains bullish stance on Microsoft (MSFT) stock,MSFT,Bing RSS,neutral,0.0
