@@ -45,4 +45,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-12 13:25:14,Wall Street strategists say it's time to 'jump in' with tech stocks amid Iran ceasefire,MSFT,Yahoo RSS,positive,0.7697962522506714
 2026-04-12 13:31:34,"‘Stay on the Sidelines,’ Says Top Investor About Tesla Stock - TipRanks",TSLA,Google RSS,neutral,0.0
 2026-04-12 14:45:13,TSMC Stock Reports Strong March Sales. AI Chip Demand Booms Ahead Of Q1 Results.,NFLX,Yahoo RSS,positive,0.918799877166748
-2026-04-06 11:55:00,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says",TSLA,Bing RSS,negative,-0.9630449414253235
+2026-04-06 11:55:00,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says",TSLA,Bing RSS,negative,-0.9630449414253236
+2026-04-10 13:01:59,Apple leads global smartphone shipments in Q1 despite overall shipments declining: Counterpoint - Seeking Alpha,AAPL,Google RSS,negative,-0.5417066216468811
