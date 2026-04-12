@@ -34,3 +34,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-09 10:34:00,Analysts See 44% Upside for Meta (META) Stock After $300 Billion March Selloff,META,Bing RSS,positive,0.933521330356598
 2026-04-12 04:55:00,"U.S.-Iran Talks End With No Deal; How Will Dow Jones Futures, Oil Prices React? - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
 2026-04-10 13:09:00,Tesla stock set for 8-week losing streak. What it needs to head higher again.,TSLA,Bing RSS,neutral,0.0
+2026-04-12 09:08:39,Microsoft Corporation $MSFT Stock Position Cut by Nisa Investment Advisors LLC - MarketBeat,MSFT,Google RSS,negative,-0.8718844652175903
+2026-04-12 09:08:41,"My Personal CFO LLC Acquires 45,044 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
