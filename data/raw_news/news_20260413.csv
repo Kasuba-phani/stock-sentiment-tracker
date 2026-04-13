@@ -10,25 +10,25 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-12 09:08:39,Microsoft Corporation $MSFT Stock Position Cut by Nisa Investment Advisors LLC - MarketBeat,MSFT,Google RSS,negative,-0.8718855381011963
 2026-04-12 09:08:41,"My Personal CFO LLC Acquires 45,044 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
 2026-04-08 01:36:44,"Microsoft stock price ended at $372.29 on Tuesday, after losing 0.158% - StockInvest.us",MSFT,Google RSS,negative,-0.9601512551307678
-2026-04-08 13:58:23,Cheap Microsoft stock could drop further before recovery - Invezz,MSFT,Google RSS,negative,-0.9093425869941711
-2026-04-08 06:56:00,Cheap Microsoft stock could drop further before recovery,MSFT,Bing RSS,negative,-0.9619714021682739
+2026-04-08 13:58:23,Cheap Microsoft stock could drop further before recovery - Invezz,MSFT,Google RSS,negative,-0.9093425869941713
+2026-04-08 06:56:00,Cheap Microsoft stock could drop further before recovery,MSFT,Bing RSS,negative,-0.961971402168274
 2026-04-12 13:25:14,Wall Street strategists say it's time to 'jump in' with tech stocks amid Iran ceasefire,MSFT,Yahoo RSS,positive,0.7697962522506714
 2026-04-12 19:02:00,Why Nvidia Stock May Frustrate Some Growth Investors - The Motley Fool,NVDA,Google RSS,negative,-0.5493987202644348
 2026-04-09 20:58:00,Nvidia’s stock is quietly gaining steam — it’s on its longest winning streak since 2023 - MarketWatch,NVDA,Google RSS,positive,0.8824933767318726
 2026-04-09 16:31:51,"‘It’s a Big Mistake,’ Says Top Investor About Nvidia Stock - TipRanks",NVDA,Google RSS,negative,-0.9001098275184631
 2026-04-11 17:25:00,"The Smartest Growth Stocks to Invest $1,000 in As Investors Rotate Out of Tech - The Motley Fool",NVDA,Google RSS,neutral,0.0
 2026-04-10 12:02:00,"Dow Jones Futures: Trump, Iran Issue Threats; Nvidia Chipmaker Beats Views, CPI Inflation Due - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
-2026-04-11 05:15:00,Nvidia partner TSMC stock reports strong March sales. AI chip demand booms ahead of Q1 results - MSN,NVDA,Google RSS,positive,0.9294620752334595
+2026-04-11 05:15:00,Nvidia partner TSMC stock reports strong March sales. AI chip demand booms ahead of Q1 results - MSN,NVDA,Google RSS,positive,0.9294620752334596
 2026-04-13 03:09:01,TSMC likely to book fourth straight quarter of record profit on insatiable AI demand,NVDA,Yahoo RSS,positive,0.8361736536026001
-2026-04-10 15:07:12,"Tesla Stock Edges Higher As Traders Weigh Delivery Miss, April 22 Earnings - Benzinga",TSLA,Google RSS,negative,-0.37893566489219666
-2026-04-07 13:04:00,A J.P. Morgan analyst sees 60% downside to Tesla stock—and he may be too optimistic - Fortune,TSLA,Google RSS,negative,-0.9599704742431641
+2026-04-10 15:07:12,"Tesla Stock Edges Higher As Traders Weigh Delivery Miss, April 22 Earnings - Benzinga",TSLA,Google RSS,negative,-0.3789356648921966
+2026-04-07 13:04:00,A J.P. Morgan analyst sees 60% downside to Tesla stock—and he may be too optimistic - Fortune,TSLA,Google RSS,negative,-0.959970474243164
 2026-04-12 13:31:34,"‘Stay on the Sidelines,’ Says Top Investor About Tesla Stock - TipRanks",TSLA,Google RSS,neutral,0.0
 2026-04-10 19:25:59,Vanda Research Says Retail Investors are Buying the Tesla Stock Dip. Should you? - Barchart.com,TSLA,Google RSS,neutral,0.0
-2026-04-11 08:15:52,Tesla stock extends 8-week losing streak as earnings approach - Latest news from Azerbaijan,TSLA,Google RSS,negative,-0.9053332805633545
+2026-04-11 08:15:52,Tesla stock extends 8-week losing streak as earnings approach - Latest news from Azerbaijan,TSLA,Google RSS,negative,-0.9053332805633544
 2026-04-10 20:09:00,Tesla stock is on track for an 8-week losing streak. It lost this key support. - MSN,TSLA,Google RSS,negative,-0.9238988757133484
 2026-04-10 15:53:58,Tesla stock slips as delivery miss and risks weigh on sentiment - Invezz,TSLA,Google RSS,negative,-0.94994056224823
-2026-04-06 11:55:00,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says",TSLA,Bing RSS,negative,-0.9630449414253235
-2026-04-09 10:34:00,Analysts See 44% Upside for Meta (META) Stock After $300 Billion March Selloff,META,Bing RSS,positive,0.9335213303565979
+2026-04-06 11:55:00,"Tesla stock could plunge 60% as inventory of unsold cars jumps to record levels, JPMorgan says",TSLA,Bing RSS,negative,-0.9630449414253236
+2026-04-09 10:34:00,Analysts See 44% Upside for Meta (META) Stock After $300 Billion March Selloff,META,Bing RSS,positive,0.933521330356598
 2026-04-10 09:57:49,"Personal CFO Solutions LLC Acquires 20,523 Shares of Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
-2026-04-12 14:45:13,TSMC Stock Reports Strong March Sales. AI Chip Demand Booms Ahead Of Q1 Results.,NFLX,Yahoo RSS,positive,0.9187996983528137
+2026-04-12 14:45:13,TSMC Stock Reports Strong March Sales. AI Chip Demand Booms Ahead Of Q1 Results.,NFLX,Yahoo RSS,positive,0.9187996983528136
 2026-04-10 12:16:00,Netflix ad-supported tier gains traction as low churn boosts advertiser confidence,NFLX,Yahoo RSS,positive,0.9453226327896118
