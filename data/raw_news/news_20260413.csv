@@ -34,6 +34,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-10 12:16:00,Netflix ad-supported tier gains traction as low churn boosts advertiser confidence,NFLX,Yahoo RSS,positive,0.9453226327896118
 2026-04-13 08:57:41,My Personal CFO LLC Increases Position in Apple Inc. $AAPL - MarketBeat,AAPL,Google RSS,positive,0.8090054392814636
 2026-04-13 00:35:00,Nvidia stock is stuck in a range. The main concerns are not just production worries.,NVDA,Bing RSS,negative,-0.8780243992805481
-2026-04-13 08:26:00,The Federal Reserve's April Inflation Forecast Is In -- and It Just Keeps Getting Worse for Wall Street,NVDA,Yahoo RSS,negative,-0.9574869275093079
+2026-04-13 08:26:00,The Federal Reserve's April Inflation Forecast Is In -- and It Just Keeps Getting Worse for Wall Street,NVDA,Yahoo RSS,negative,-0.957486927509308
 2026-04-07 07:46:29,Is the Sharp Decline of Meta’s Stock in 2026 a Buying Opportunity or a Falling Knife? - NAI500,META,Google RSS,negative,-0.6969550251960754
 2026-04-09 14:00:50,KeyBanc lowers Meta stock price target to $760 on market volatility - Investing.com,META,Google RSS,neutral,0.0
+2026-04-13 10:00:00,"These Stocks Are Today’s Movers: Goldman Sachs, Sandisk, Exxon Mobil, Nvidia, Ideaya, and More - Barron's",NVDA,Google RSS,neutral,0.0
+2026-04-13 07:51:31,Nvidia stock is stuck in a range. The main concerns are not just production worries. - MSN,NVDA,Google RSS,negative,-0.8786501288414001
+2026-04-13 10:44:00,S&P 500 Index Dividend Yields Are Teasing All-Time Lows. Here Are 3 Dividend Darlings That Crush This Trend.,NVDA,Yahoo RSS,negative,-0.9102781414985657
+2026-04-13 10:00:00,"These Stocks Are Today’s Movers: Goldman Sachs, Sandisk, Exxon Mobil, Nvidia, Ideaya, and More",NVDA,Yahoo RSS,neutral,0.0
