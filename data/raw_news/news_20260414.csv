@@ -42,3 +42,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-14 09:56:44,Market Chatter: Microsoft-Backed OpenAI Strategy Shift Raises Investor Concerns Amid Rising Competition,MSFT,Yahoo RSS,negative,-0.9353410601615906
 2026-04-14 09:56:44,Market Chatter: Microsoft-Backed OpenAI Strategy Shift Raises Investor Concerns Amid Rising Competition,NVDA,Yahoo RSS,negative,-0.9353410601615906
 2026-04-10 19:27:17,Netflix stock climbs premarket: Goldman cites 3 reasons for upgrade after 6-month tumble - MSN,NFLX,Google RSS,positive,0.7417089343070984
+2026-04-08 06:56:00,Cheap Microsoft stock could drop further before recovery,MSFT,Bing RSS,negative,-0.9619714021682739
+2026-04-14 11:35:03,From Growth Stock to Blue Chip: Is CrowdStrike Ready for the Dow?,MSFT,Yahoo RSS,neutral,0.0
+2026-04-13 20:01:00,Caterpillar Excavates Buy Zone Boosted By Nvidia AI Prowess - Investor's Business Daily,NVDA,Google RSS,positive,0.5351970195770264
