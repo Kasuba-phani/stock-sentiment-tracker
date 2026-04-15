@@ -11,7 +11,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-14 14:10:18,Amazon Stock Forecast: Why Analysts See Upside Building - TipRanks,AMZN,Google RSS,neutral,0.0
 2026-04-13 16:12:16,Strong overhead ceiling tempers gains for Microsoft stock - Traders Union,MSFT,Google RSS,positive,0.8120084404945374
 2026-04-12 09:08:39,Microsoft Corporation $MSFT Stock Position Cut by Nisa Investment Advisors LLC - MarketBeat,MSFT,Google RSS,negative,-0.8718855381011963
-2026-04-08 06:56:00,Cheap Microsoft stock could drop further before recovery,MSFT,Bing RSS,negative,-0.9619714021682739
+2026-04-08 06:56:00,Cheap Microsoft stock could drop further before recovery,MSFT,Bing RSS,negative,-0.961971402168274
 2026-04-14 16:21:09,Nvidia stock price forecast: $189.50–$195.50 range in focus as NVDA gains 2.77% - Traders Union,NVDA,Google RSS,positive,0.4808337390422821
 2026-04-15 00:05:53,"AI trading leads the US stock market rebound, with NVIDIA achieving a 'ten-day winning streak.' - Moomoo",NVDA,Google RSS,positive,0.5699993371963501
 2026-04-12 19:02:00,Why Nvidia Stock May Frustrate Some Growth Investors - The Motley Fool,NVDA,Google RSS,negative,-0.5493987202644348
@@ -19,9 +19,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-09 20:58:00,Nvidia’s stock is quietly gaining steam — it’s on its longest winning streak since 2023 - MarketWatch,NVDA,Google RSS,positive,0.8824933767318726
 2026-04-13 20:01:00,Caterpillar Excavates Buy Zone Boosted By Nvidia AI Prowess - Investor's Business Daily,NVDA,Google RSS,positive,0.5351970195770264
 2026-04-13 14:53:32,Tesla stock is beating the broader market today: here's why - TradingView — Track All Markets,TSLA,Google RSS,neutral,0.0
-2026-04-14 08:27:04,Tesla stock rises after UBS upgrade on more reasonable valuation - Investing.com,TSLA,Google RSS,positive,0.49931737780570984
-2026-04-09 10:34:00,Analysts See 44% Upside for Meta (META) Stock After $300 Billion March Selloff,META,Bing RSS,positive,0.9335213303565979
+2026-04-14 08:27:04,Tesla stock rises after UBS upgrade on more reasonable valuation - Investing.com,TSLA,Google RSS,positive,0.4993173778057098
+2026-04-09 10:34:00,Analysts See 44% Upside for Meta (META) Stock After $300 Billion March Selloff,META,Bing RSS,positive,0.933521330356598
 2026-04-14 16:04:00,Can Rising AI Demand Boost Arista's Future Growth Prospects?,META,Yahoo RSS,positive,0.9020031094551086
 2026-04-14 13:30:22,KeyBanc raises Netflix stock price target on earnings outlook By Investing.com - Investing.com Australia,NFLX,Google RSS,neutral,0.0
 2026-04-13 14:38:52,Netflix Stock Forecast: Trending Strong Buy Among Analysts - TipRanks,NFLX,Google RSS,positive,0.9097827076911926
 2026-04-13 15:42:22,Amazon stock is leading the 'Magnificent 7' rebound — but the rally is hitting a ceiling: Chart of the Day,AMZN,Yahoo Global,positive,0.6244637966156006
+2026-04-15 05:10:29,"Software Stocks Are Continuing to Rebound, Should Investors Buy Oracle or Microsoft Now? - TradingKey",MSFT,Google RSS,neutral,0.0
+2026-04-11 01:47:41,Microsoft stock price down 0.590% on Friday - StockInvest.us,MSFT,Google RSS,negative,-0.9671853184700012
+2026-04-15 03:40:01,"Chip stocks rally! NVIDIA achieves a strong 10-day consecutive rise, AMD surges 30%, and the Philadelphia Semiconductor Index continues to hit new highs. - 富途牛牛",NVDA,Google RSS,positive,0.9248723387718201
+2026-04-15 00:08:14,Nvidia Stock Soars 1100% Amid AI Boom with Strong Growth Projections - Intellectia AI,NVDA,Google RSS,positive,0.8925420045852661
+2026-04-15 05:40:00,Chip-Machine Supplier ASML Lifts Guidance on Strong AI Demand,NVDA,Yahoo RSS,positive,0.9214853048324585
+2026-04-12 13:31:34,"‘Stay on the Sidelines,’ Says Top Investor About Tesla Stock - TipRanks",TSLA,Google RSS,neutral,0.0
