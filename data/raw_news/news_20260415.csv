@@ -76,3 +76,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-15 20:48:32,"Dow Jones Futures: S&P 500, Nasdaq Hit New Highs As Tesla, Robinhood Lead; Nvidia Chipmaker On Tap",TSLA,Yahoo RSS,positive,0.8818594813346863
 2026-04-15 19:54:39,Sector Update: Consumer Stocks Mixed Late Afternoon,TSLA,Yahoo RSS,negative,-0.935252010822296
 2026-04-15 21:10:00,Nvidia’s stock seals its longest winning streak ever. Is the momentum for real?,NVDA,MarketWatch Top,neutral,0.0
+2026-04-15 14:18:25,"‘A Screaming Deal,’ Says Top Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-04-15 21:10:00,Nvidia’s stock seals its longest winning streak ever. Is the momentum for real? - MarketWatch,NVDA,Google RSS,neutral,0.0
+2026-04-15 17:01:51,“…I Could Clearly See a Train Coming”: Tesla Stock (NASDAQ:TSLA) Surges Despite Another Near-Miss for FSD (Supervised) - TipRanks,TSLA,Google RSS,positive,0.9228065609931946
