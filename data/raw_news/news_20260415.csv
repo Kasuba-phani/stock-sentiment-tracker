@@ -1,0 +1,27 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-04-08 20:22:00,"Apple's Foldable iPhone Still Set For Fall Launch, Analysts Say - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-04-13 08:57:41,My Personal CFO LLC Increases Position in Apple Inc. $AAPL - MarketBeat,AAPL,Google RSS,positive,0.8090054392814636
+2026-04-14 19:36:45,"Dow Jones E-Commerce Giant Amazon, Alphabet Eye New Buy Points",AAPL,Yahoo RSS,neutral,0.0
+2026-04-14 19:36:00,"Dow Jones E-Commerce Giant Amazon, Alphabet Eye New Buy Points - Investor's Business Daily",GOOGL,Google RSS,neutral,0.0
+2026-04-14 16:18:45,Alphabet Stock Rises as Citi Lifts Target on Strong AI and Cloud Demand - GuruFocus,GOOGL,Google RSS,positive,0.8926110863685608
+2026-04-13 13:31:26,"‘More Upside Ahead,’ Top Investor Says About Alphabet Stock - TipRanks",GOOGL,Google RSS,neutral,0.0
+2026-04-14 10:02:00,Alphabet Stock Rises as Citi Lifts Target on Strong AI and Cloud Demand,GOOGL,Bing RSS,positive,0.8459908962249756
+2026-04-14 19:36:00,"Dow Jones E-Commerce Giant Amazon, Alphabet Eye New Buy Points - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-04-14 21:09:45,"On the 14th, Amazon's stock rose 3.8% following strong buying in the aviation sector, while major financial firms showed mixed results. - Moomoo",AMZN,Google RSS,positive,0.8936823010444641
+2026-04-14 14:10:18,Amazon Stock Forecast: Why Analysts See Upside Building - TipRanks,AMZN,Google RSS,neutral,0.0
+2026-04-13 16:12:16,Strong overhead ceiling tempers gains for Microsoft stock - Traders Union,MSFT,Google RSS,positive,0.8120084404945374
+2026-04-12 09:08:39,Microsoft Corporation $MSFT Stock Position Cut by Nisa Investment Advisors LLC - MarketBeat,MSFT,Google RSS,negative,-0.8718855381011963
+2026-04-08 06:56:00,Cheap Microsoft stock could drop further before recovery,MSFT,Bing RSS,negative,-0.9619714021682739
+2026-04-14 16:21:09,Nvidia stock price forecast: $189.50–$195.50 range in focus as NVDA gains 2.77% - Traders Union,NVDA,Google RSS,positive,0.4808337390422821
+2026-04-15 00:05:53,"AI trading leads the US stock market rebound, with NVIDIA achieving a 'ten-day winning streak.' - Moomoo",NVDA,Google RSS,positive,0.5699993371963501
+2026-04-12 19:02:00,Why Nvidia Stock May Frustrate Some Growth Investors - The Motley Fool,NVDA,Google RSS,negative,-0.5493987202644348
+2026-04-14 14:18:24,Nvidia stock price forecast: $186.00–$198.00 range as NVDA climbs 1.39% - Traders Union,NVDA,Google RSS,positive,0.8059098124504089
+2026-04-09 20:58:00,Nvidia’s stock is quietly gaining steam — it’s on its longest winning streak since 2023 - MarketWatch,NVDA,Google RSS,positive,0.8824933767318726
+2026-04-13 20:01:00,Caterpillar Excavates Buy Zone Boosted By Nvidia AI Prowess - Investor's Business Daily,NVDA,Google RSS,positive,0.5351970195770264
+2026-04-13 14:53:32,Tesla stock is beating the broader market today: here's why - TradingView — Track All Markets,TSLA,Google RSS,neutral,0.0
+2026-04-14 08:27:04,Tesla stock rises after UBS upgrade on more reasonable valuation - Investing.com,TSLA,Google RSS,positive,0.49931737780570984
+2026-04-09 10:34:00,Analysts See 44% Upside for Meta (META) Stock After $300 Billion March Selloff,META,Bing RSS,positive,0.9335213303565979
+2026-04-14 16:04:00,Can Rising AI Demand Boost Arista's Future Growth Prospects?,META,Yahoo RSS,positive,0.9020031094551086
+2026-04-14 13:30:22,KeyBanc raises Netflix stock price target on earnings outlook By Investing.com - Investing.com Australia,NFLX,Google RSS,neutral,0.0
+2026-04-13 14:38:52,Netflix Stock Forecast: Trending Strong Buy Among Analysts - TipRanks,NFLX,Google RSS,positive,0.9097827076911926
+2026-04-13 15:42:22,Amazon stock is leading the 'Magnificent 7' rebound — but the rally is hitting a ceiling: Chart of the Day,AMZN,Yahoo Global,positive,0.6244637966156006
