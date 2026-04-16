@@ -41,3 +41,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-16 08:06:26,What signal? Research institutions: Retail investors are flocking from NVIDIA to Tesla! - Moomoo,TSLA,Google RSS,neutral,0.0
 2026-04-16 07:22:27,"Ingersoll Rand, AGCO, Wabtec, Alamo, and Enpro Shares Are Falling, What You Need To Know",TSLA,Yahoo RSS,negative,-0.6660671234130859
 2026-04-14 06:55:00,"Nvidia denies acquisition rumor that sparked Dell, HP rise",NVDA,Bing RSS,neutral,0.0
+2026-04-16 10:48:33,"Strong ASML, TSMC forecasts signal AI spending boom is intact",AMZN,Yahoo RSS,positive,0.9455655813217163
+2026-04-16 10:48:33,"Strong ASML, TSMC forecasts signal AI spending boom is intact",MSFT,Yahoo RSS,positive,0.9455655813217163
+2026-04-16 04:55:00,"Dow Jones futures rise, Nvidia chipmaker falls; S&P 500, Nasdaq at highs, led by Tesla, Robinhood",NVDA,Bing RSS,negative,-0.59623122215271
+2026-04-16 11:55:55,"Dow Jones Futures Rise, Nvidia Chipmaker Falls; S&P 500, Nasdaq At Highs, Led By Tesla, Robinhood",NVDA,Yahoo RSS,negative,-0.59623122215271
+2026-04-16 10:48:33,"Strong ASML, TSMC forecasts signal AI spending boom is intact",NVDA,Yahoo RSS,positive,0.9455655813217163
+2026-04-16 11:55:55,"Dow Jones Futures Rise, Nvidia Chipmaker Falls; S&P 500, Nasdaq At Highs, Led By Tesla, Robinhood",TSLA,Yahoo RSS,negative,-0.59623122215271
+2026-04-16 10:48:33,"Strong ASML, TSMC forecasts signal AI spending boom is intact",META,Yahoo RSS,positive,0.9455655813217163
