@@ -59,5 +59,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-16 07:49:00,Nvidia stock’s longest winning streak on record looks set to end,NVDA,Bing RSS,neutral,0.0
 2026-04-16 12:10:00,Tesla supplier CATL’s stock jumps after earnings. How it’s defying weak EV sales. - MSN,TSLA,Google RSS,negative,-0.387982577085495
 2026-04-16 15:28:45,"Microsoft stock continues to rally, but some analysts are turning cautious - TradingView — Track All Markets",MSFT,Google RSS,negative,-0.7738935947418213
-2026-04-16 15:32:24,"Microsoft stock continues to rally, but some analysts are turning cautious - Invezz",MSFT,Google RSS,negative,-0.48052892088890076
+2026-04-16 15:32:24,"Microsoft stock continues to rally, but some analysts are turning cautious - Invezz",MSFT,Google RSS,negative,-0.4805289208889007
 2026-04-16 15:33:45,Nvidia stock shows signs of fatigue after 11-day rally - Invezz,NVDA,Google RSS,negative,-0.7211388349533081
+2026-04-16 07:48:00,"Tech stocks today: Tesla, Apple lead 'Magnificent 7' stocks lower, TSMC sends bullish signal on AI demand",AAPL,Bing RSS,negative,-0.9219651818275452
+2026-04-16 16:25:00,Microsoft Stock Up After Analysts Reset Expectations - Investor's Business Daily,MSFT,Google RSS,positive,0.5437058210372925
+2026-04-16 08:31:00,"Microsoft stock continues to rally, but some analysts are turning cautious",MSFT,Bing RSS,negative,-0.49464020133018494
+2026-04-16 08:18:00,Nvidia stock shows signs of fatigue after 11-day rally,NVDA,Bing RSS,negative,-0.8679555654525757
