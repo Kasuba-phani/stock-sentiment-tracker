@@ -12,7 +12,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-16 19:45:00,Don't Panic Over Microsoft: These 2 Mega-Cap Stocks Are the Real Opportunity - The Motley Fool,MSFT,Google RSS,neutral,0.0
 2026-04-15 14:18:25,"‘A Screaming Deal,’ Says Top Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
 2026-04-15 20:00:09,Microsoft stock climbs in historic multi-day rally - MSN,MSFT,Google RSS,positive,0.8628260493278503
-2026-04-16 15:32:24,"Microsoft stock continues to rally, but some analysts are turning cautious - Invezz",MSFT,Google RSS,negative,-0.48052892088890076
+2026-04-16 15:32:24,"Microsoft stock continues to rally, but some analysts are turning cautious - Invezz",MSFT,Google RSS,negative,-0.4805289208889007
 2026-04-16 19:21:02,Don't Panic Over Microsoft: These 2 Mega-Cap Stocks Are the Real Opportunity - AOL.com,MSFT,Google RSS,neutral,0.0
 2026-04-16 19:05:00,Don't Panic Over Microsoft: These 2 Mega-Cap Stocks Are the Real Opportunity,MSFT,Yahoo RSS,neutral,0.0
 2026-04-16 17:16:00,DOCU Stock: Strong Growth Tailwinds but Risks Keep Outlook Balanced,MSFT,Yahoo RSS,positive,0.757483184337616
@@ -20,7 +20,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-14 16:21:09,Nvidia stock price forecast: $189.50–$195.50 range in focus as NVDA gains 2.77% - Traders Union,NVDA,Google RSS,positive,0.4808337390422821
 2026-04-16 15:02:16,Nvidia stock shows signs of fatigue after 11-day rally - Invezz,NVDA,Google RSS,negative,-0.7211388349533081
 2026-04-15 14:48:00,Tesla shares climb as UBS turns less bearish ahead of upcoming earnings - Quiver Quantitative,TSLA,Google RSS,negative,-0.8800216317176819
-2026-04-14 08:27:04,Tesla stock rises after UBS upgrade on more reasonable valuation - Investing.com,TSLA,Google RSS,positive,0.49931737780570984
+2026-04-14 08:27:04,Tesla stock rises after UBS upgrade on more reasonable valuation - Investing.com,TSLA,Google RSS,positive,0.4993173778057098
 2026-04-15 15:31:11,Tesla stock gains 6.31% as completion of AI5 chip for autonomous driving boosts outlook - Traders Union,TSLA,Google RSS,positive,0.9421319365501404
 2026-04-17 01:06:27,Reflecting On Productivity Software Stocks’ Q4 Earnings: Asana (NYSE:ASAN),META,Yahoo RSS,neutral,0.0
 2026-04-16 23:16:22,"NFLX Earnings: Netflix Stock Falls despite Strong Revenue Growth, Chair Reed Hastings Steps Down - TipRanks",NFLX,Google RSS,negative,-0.9609882831573486
@@ -29,5 +29,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-16 20:21:15,NFLX stock rallies as Netflix beats Q1 earnings expectations - artthreat.net,NFLX,Google RSS,positive,0.739945650100708
 2026-04-14 13:31:02,KeyBanc raises Netflix stock price target on earnings outlook - Investing.com,NFLX,Google RSS,neutral,0.0
 2026-04-16 21:40:00,"Nasdaq Index: Netflix, Myseum Lead Bullish Sentiment in US Stocks - FXEmpire",NFLX,Google RSS,neutral,0.0
-2026-04-17 01:55:28,"Netflix’s surprise announcement sends share price plunging, as broader market rallies to record - MEXC",NFLX,Google RSS,negative,-0.9542471170425415
+2026-04-17 01:55:28,"Netflix’s surprise announcement sends share price plunging, as broader market rallies to record - MEXC",NFLX,Google RSS,negative,-0.9542471170425416
 2026-04-16 23:05:32,"Stock market today: S&P 500, Nasdaq, Dow futures climb as Israel-Lebanon agree to 10-day ceasefire",NFLX,Yahoo RSS,positive,0.5327222943305969
+2026-04-15 19:23:01,Microsoft stock climbs in historic multi-day rally (MSFT:NASDAQ) - Seeking Alpha,MSFT,Google RSS,positive,0.9065163135528564
+2026-04-16 15:28:45,"Microsoft stock continues to rally, but some analysts are turning cautious - TradingView — Track All Markets",MSFT,Google RSS,negative,-0.7738935947418213
+2026-04-15 07:34:35,Microsoft Corporation $MSFT Stock Position Lowered by Beaumont Financial Advisors LLC - MarketBeat,MSFT,Google RSS,negative,-0.8201456665992737
+2026-04-16 15:01:07,Nvidia stock shows signs of fatigue after 11-day rally - TradingView — Track All Markets,NVDA,Google RSS,negative,-0.9112005829811096
+2026-04-15 17:01:51,“…I Could Clearly See a Train Coming”: Tesla Stock (NASDAQ:TSLA) Surges Despite Another Near-Miss for FSD (Supervised) - TipRanks,TSLA,Google RSS,positive,0.9228065609931946
+2026-04-17 00:06:45,"Netflix’s surprise announcement sends share price plunging, as broader market rallies to record - FXStreet",NFLX,Google RSS,negative,-0.9534863829612732
