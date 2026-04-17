@@ -78,3 +78,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-17 18:35:08,Investor Outlook: Netflix shares fall as weak forecast raises growth concerns - BNN Bloomberg,NFLX,Google RSS,negative,-0.955145001411438
 2026-04-17 18:13:52,"Today's Market: Dow Soars 1,000 Points, S&P 500 and Nasdaq Surge 1. ...",NFLX,Yahoo RSS,positive,0.623458206653595
 2026-04-17 18:05:37,Billionaire Chase Coleman Is Betting Big on These 4 Growth Stocks,NFLX,Yahoo RSS,positive,0.5638909935951233
+2026-04-17 19:39:47,"Market rally breakdown: Dow Jones, bitcoin, Tesla, and more",AAPL,Yahoo RSS,neutral,0.0
+2026-04-17 19:39:47,"Market rally breakdown: Dow Jones, bitcoin, Tesla, and more",GOOGL,Yahoo RSS,neutral,0.0
+2026-04-17 19:32:00,"Amazon’s stock peeks into record territory, as the AI script has flipped to a positive - MarketWatch",AMZN,Google RSS,positive,0.914204478263855
+2026-04-17 16:55:54,Amazon stock is near a record high. What’s driving the rally? - MSN,AMZN,Google RSS,neutral,0.0
+2026-04-17 20:11:20,"Dow jumps 800 points, S&P 500 at new record, Nasdaq gains 6.8% this week",AMZN,Yahoo RSS,positive,0.664095938205719
+2026-04-17 20:11:20,"Dow jumps 800 points, S&P 500 at new record, Nasdaq gains 6.8% this week",MSFT,Yahoo RSS,positive,0.664095938205719
+2026-04-17 20:11:20,"Dow jumps 800 points, S&P 500 at new record, Nasdaq gains 6.8% this week",NVDA,Yahoo RSS,positive,0.664095938205719
+2026-04-17 19:30:39,TSLA stock on track to snap 8-week losing streak ahead of Q1 earnings - MSN,TSLA,Google RSS,negative,-0.9119905829429626
+2026-04-17 20:11:20,"Dow jumps 800 points, S&P 500 at new record, Nasdaq gains 6.8% this week",TSLA,Yahoo RSS,positive,0.664095938205719
+2026-04-17 19:39:47,"Market rally breakdown: Dow Jones, bitcoin, Tesla, and more",TSLA,Yahoo RSS,neutral,0.0
+2026-04-17 20:06:18,Meta to start companywide layoffs May 20 -- Reuters (META:NASDAQ) - Seeking Alpha,META,Google RSS,negative,-0.8925824761390686
+2026-04-17 20:31:10,"S&P 500, Nasdaq Composite Scale Peaks as Trump Sets Stage for Iran Deal Over Weekend",NFLX,Yahoo RSS,neutral,0.0
+2026-04-17 20:05:29,US Equity Markets Higher After Iran Officially Confirms Strait of Hormuz is 'Completely Open',NFLX,Yahoo RSS,positive,0.8885060548782349
+2026-04-17 19:50:25,Sector Update: Consumer Stocks Rise Late Afternoon,NFLX,Yahoo RSS,positive,0.7561094760894775
+2026-04-17 19:32:00,"Amazon’s stock peeks into record territory, as the AI script has flipped to a positive",AMZN,MarketWatch Top,positive,0.9090936183929443
+2026-04-16 11:58:50,"Dow Jones Futures Rise, Nvidia Chipmaker Falls; S&P 500, Nasdaq At Highs, Led By Tesla, Robinhood",NVDA,Yahoo Global,negative,-0.59623122215271
+2026-04-16 11:58:50,"Dow Jones Futures Rise, Nvidia Chipmaker Falls; S&P 500, Nasdaq At Highs, Led By Tesla, Robinhood",TSLA,Yahoo Global,negative,-0.59623122215271
