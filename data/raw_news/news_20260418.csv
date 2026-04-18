@@ -30,7 +30,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-17 20:11:20,"Dow jumps 800 points, S&P 500 at new record, Nasdaq gains 6.8% this week",TSLA,Yahoo RSS,positive,0.664095938205719
 2026-04-17 19:39:47,"Market rally breakdown: Dow Jones, bitcoin, Tesla, and more",TSLA,Yahoo RSS,neutral,0.0
 2026-04-17 20:06:18,Meta to start companywide layoffs May 20 -- Reuters (META:NASDAQ) - Seeking Alpha,META,Google RSS,negative,-0.8925824761390686
-2026-04-17 09:11:15,Meta (META) Stock; Edges Higher as Quest Headset Price Hike Reflects Rising Chip Costs - MEXC,META,Google RSS,positive,0.9200185537338257
+2026-04-17 09:11:15,Meta (META) Stock; Edges Higher as Quest Headset Price Hike Reflects Rising Chip Costs - MEXC,META,Google RSS,positive,0.9200185537338256
 2026-04-17 13:00:04,How to Find Strong Computer and Technology Stocks Slated for Positive Earnings Surprises,META,Yahoo RSS,positive,0.6270318031311035
 2026-04-17 10:52:51,Netflix Stock Down 10% Today Despite Strong Q1 Earnings — What Spooked Investors - TipRanks,NFLX,Google RSS,negative,-0.9673612117767334
 2026-04-16 23:16:22,"NFLX Earnings: Netflix Stock Falls despite Strong Revenue Growth, Chair Reed Hastings Steps Down - TipRanks",NFLX,Google RSS,negative,-0.9609882831573486
@@ -44,3 +44,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-17 19:50:25,Sector Update: Consumer Stocks Rise Late Afternoon,NFLX,Yahoo RSS,positive,0.7561094760894775
 2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",META,CNBC Finance,neutral,0.0
 2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",NFLX,CNBC Finance,neutral,0.0
+2026-04-16 19:45:00,Don't Panic Over Microsoft: These 2 Mega-Cap Stocks Are the Real Opportunity - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-04-17 17:22:09,Microsoft Stock Could Be 25% Undervalued Based on Its FCF and Analysts' Estimates - Barchart,MSFT,Google RSS,negative,-0.6175905466079712
+2026-04-17 21:13:23,Dow Jones futures: What to do amid historic market run; Tesla flashes buy signal with earnings due - MSN,TSLA,Google RSS,neutral,0.0
+2026-04-17 07:33:42,Tesla stock continues to rally ahead of earnings: What's driving the rebound?,TSLA,Bing RSS,neutral,0.0
+2026-04-17 05:31:00,Tesla stock set to snap 8-week losing streak—just in time for earnings,TSLA,Bing RSS,negative,-0.8381438255310059
+2026-04-17 16:09:30,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more - CNBC",NFLX,Google RSS,neutral,0.0
+2026-04-17 14:45:51,Netflix Shares Down Despite Strong Q1 Earnings: What Happened? - Moomoo,NFLX,Google RSS,negative,-0.9510229229927063
+2026-04-16 19:51:56,"‘It’s a Strong Bet,’ Says Investor About Netflix Stock (NFLX) - TipRanks",NFLX,Google RSS,neutral,0.0
