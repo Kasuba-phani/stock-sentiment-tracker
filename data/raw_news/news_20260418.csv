@@ -1,0 +1,46 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-04-17 19:39:47,"Market rally breakdown: Dow Jones, bitcoin, Tesla, and more",AAPL,Yahoo RSS,neutral,0.0
+2026-04-17 09:18:44,"Personal CFO Solutions LLC Purchases 3,620 Shares of Alphabet Inc. $GOOG - MarketBeat",GOOGL,Google RSS,neutral,0.0
+2026-04-14 19:36:00,"Dow Jones E-Commerce Giant Amazon, Alphabet Eye New Buy Points - Investor's Business Daily",GOOGL,Google RSS,neutral,0.0
+2026-04-18 02:36:13,"Despite Rising 14% This Week, This ""Magnificent Seven"" Stock Remains My Least Favorite - AOL.com",GOOGL,Google RSS,neutral,0.0
+2026-04-17 19:39:47,"Market rally breakdown: Dow Jones, bitcoin, Tesla, and more",GOOGL,Yahoo RSS,neutral,0.0
+2026-04-17 19:32:00,"Amazon’s stock peeks into record territory, as the AI script has flipped to a positive - MarketWatch",AMZN,Google RSS,positive,0.914204478263855
+2026-04-17 21:13:46,Amazon stock is near a record high. What’s driving the rally? - MSN,AMZN,Google RSS,neutral,0.0
+2026-04-14 19:36:00,"Dow Jones E-Commerce Giant Amazon, Alphabet Eye New Buy Points - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-04-16 13:35:06,“Gaining Speed”: Top Investor Bullish About Amazon Stock - TipRanks,AMZN,Google RSS,neutral,0.0
+2026-04-13 21:18:37,Goldman Sachs lowers Amazon stock price target to $275 on AWS growth - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-04-17 20:11:20,"Dow jumps 800 points, S&P 500 at new record, Nasdaq gains 6.8% this week",AMZN,Yahoo RSS,positive,0.664095938205719
+2026-04-16 19:45:00,Don't Panic Over Microsoft: These 2 Mega-Cap Stocks Are the Real Opportunity - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-04-17 17:22:09,Microsoft Stock Could Be 25% Undervalued Based on Its FCF and Analysts' Estimates - Barchart.com,MSFT,Google RSS,neutral,0.0
+2026-04-16 13:39:15,TD Cowen cuts Microsoft stock price target on capacity constraints - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-04-15 19:23:01,Microsoft stock climbs in historic multi-day rally (MSFT:NASDAQ) - Seeking Alpha,MSFT,Google RSS,positive,0.9065163135528564
+2026-04-18 02:24:46,"Despite Rising 14% This Week, This ""Magnificent Seven"" Stock Remains My Least Favorite - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-04-15 14:18:25,"‘A Screaming Deal,’ Says Top Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-04-17 23:41:00,"Tech Stocks Surge as Oracle, AMD and Microsoft Hit Major Milestones - The Tech Buzz",MSFT,Google RSS,positive,0.8962768316268921
+2026-04-15 20:00:09,Microsoft stock climbs in historic multi-day rally - MSN,MSFT,Google RSS,positive,0.8628260493278503
+2026-04-17 22:49:00,"Why are deadbeat stocks Oracle, Microsoft, and AMD suddenly the week’s best performers? - Cryptopolitan",MSFT,Google RSS,neutral,0.0
+2026-04-16 15:28:45,"Microsoft stock continues to rally, but some analysts are turning cautious - TradingView — Track All Markets",MSFT,Google RSS,negative,-0.7738935947418213
+2026-04-17 16:43:00,Microsoft Stock Could Be 25% Undervalued Based on Its FCF and Analysts' Estimates,MSFT,Bing RSS,negative,-0.872158944606781
+2026-04-18 02:21:00,"Despite Rising 14% This Week, This ""Magnificent Seven"" Stock Remains My Least Favorite",MSFT,Yahoo RSS,positive,0.5173988938331604
+2026-04-17 20:11:20,"Dow jumps 800 points, S&P 500 at new record, Nasdaq gains 6.8% this week",MSFT,Yahoo RSS,positive,0.664095938205719
+2026-04-17 16:27:00,"Microsoft eyes AI execution, Azure growth, Copilot adoption in key Q3 earnings test",MSFT,Yahoo RSS,positive,0.6718683838844299
+2026-04-15 21:10:00,Nvidia’s stock seals its longest winning streak ever. Is the momentum for real? - MarketWatch,NVDA,Google RSS,neutral,0.0
+2026-04-17 20:10:21,TSLA stock on track to snap 8-week losing streak ahead of Q1 earnings - MSN,TSLA,Google RSS,negative,-0.9119905829429626
+2026-04-17 14:35:23,Tesla stock continues to rally ahead of earnings: what's driving the rebound? - Invezz,TSLA,Google RSS,neutral,0.0
+2026-04-17 20:11:20,"Dow jumps 800 points, S&P 500 at new record, Nasdaq gains 6.8% this week",TSLA,Yahoo RSS,positive,0.664095938205719
+2026-04-17 19:39:47,"Market rally breakdown: Dow Jones, bitcoin, Tesla, and more",TSLA,Yahoo RSS,neutral,0.0
+2026-04-17 20:06:18,Meta to start companywide layoffs May 20 -- Reuters (META:NASDAQ) - Seeking Alpha,META,Google RSS,negative,-0.8925824761390686
+2026-04-17 09:11:15,Meta (META) Stock; Edges Higher as Quest Headset Price Hike Reflects Rising Chip Costs - MEXC,META,Google RSS,positive,0.9200185537338257
+2026-04-17 13:00:04,How to Find Strong Computer and Technology Stocks Slated for Positive Earnings Surprises,META,Yahoo RSS,positive,0.6270318031311035
+2026-04-17 10:52:51,Netflix Stock Down 10% Today Despite Strong Q1 Earnings — What Spooked Investors - TipRanks,NFLX,Google RSS,negative,-0.9673612117767334
+2026-04-16 23:16:22,"NFLX Earnings: Netflix Stock Falls despite Strong Revenue Growth, Chair Reed Hastings Steps Down - TipRanks",NFLX,Google RSS,negative,-0.9609882831573486
+2026-04-17 14:32:48,KeyBanc reiterates Netflix stock rating on steady outlook - Investing.com,NFLX,Google RSS,neutral,0.0
+2026-04-17 12:12:59,"The Nasdaq's win streak, Netflix earnings, another AI pivot and more in Morning Squawk - CNBC",NFLX,Google RSS,negative,-0.5600166320800781
+2026-04-17 13:33:29,Seaport Research Partners Forecasts Strong Price Appreciation for Netflix (NASDAQ:NFLX) Stock - MarketBeat,NFLX,Google RSS,positive,0.945694088935852
+2026-04-17 13:03:21,"‘Wait For It,’ Says Top Investor About Netflix Stock - TipRanks",NFLX,Google RSS,neutral,0.0
+2026-04-17 11:55:00,"Dow Jones Futures Rise, Oil Prices Fall On Trump's Iran Comments; Netflix Dives - Investor's Business Daily",NFLX,Google RSS,negative,-0.8219271302223206
+2026-04-17 20:31:10,"S&P 500, Nasdaq Composite Scale Peaks as Trump Sets Stage for Iran Deal Over Weekend",NFLX,Yahoo RSS,neutral,0.0
+2026-04-17 20:05:29,US Equity Markets Higher After Iran Officially Confirms Strait of Hormuz is 'Completely Open',NFLX,Yahoo RSS,positive,0.8885060548782349
+2026-04-17 19:50:25,Sector Update: Consumer Stocks Rise Late Afternoon,NFLX,Yahoo RSS,positive,0.7561094760894775
+2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",META,CNBC Finance,neutral,0.0
+2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",NFLX,CNBC Finance,neutral,0.0
