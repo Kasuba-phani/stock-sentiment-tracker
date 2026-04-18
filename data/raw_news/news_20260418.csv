@@ -66,4 +66,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-18 11:25:00,3 Retail Stocks That Are Thriving While the Rest of the Market Struggles,NVDA,Yahoo RSS,neutral,0.0
 2026-04-17 06:12:00,Netflix Falls 10% Despite Record Profits: A Missed Q2 Forecast and a Founder’s Departure Shake Investor Confidence,NFLX,Bing RSS,negative,-0.9681888818740844
 2026-04-18 12:58:57,"‘Wait For It,’ Says Top Investor About Netflix Stock",NFLX,Yahoo RSS,neutral,0.0
-2026-04-17 13:01:16,Tesla stock snaps 8-week losing streak with earnings ahead,TSLA,Yahoo Global,negative,-0.9463847875595093
+2026-04-17 13:01:16,Tesla stock snaps 8-week losing streak with earnings ahead,TSLA,Yahoo Global,negative,-0.9463847875595092
+2026-04-17 19:43:00,"Intel Stock, In Major Rally Mode, Set To Report Q1 Results; Lam Research, Tesla Also Due - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-04-17 13:43:00,"Meta to cut 8,000 jobs — 10% of workforce — in major bloodbath next month: report",META,Bing RSS,negative,-0.9675046801567078
+2026-04-18 13:34:19,New Street Research Forecasts Strong Price Appreciation for Netflix (NASDAQ:NFLX) Stock - MarketBeat,NFLX,Google RSS,positive,0.9407318830490112
