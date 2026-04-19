@@ -1,10 +1,10 @@
 date,headline,ticker,source,sentiment_label,compound
 2026-04-17 19:39:47,"Market rally breakdown: Dow Jones, bitcoin, Tesla, and more",AAPL,Yahoo RSS,neutral,0.0
-2026-04-18 09:48:00,Nasdaq Rebound: Buy 2 Monster Growth Stocks Up 20% Since Late March - The Motley Fool,GOOGL,Google RSS,positive,0.9339417815208435
+2026-04-18 09:48:00,Nasdaq Rebound: Buy 2 Monster Growth Stocks Up 20% Since Late March - The Motley Fool,GOOGL,Google RSS,positive,0.9339417815208436
 2026-04-18 20:36:13,The Great Rotation Has Crushed Growth Stocks. History Says That's Usually When You Should Be Buying Them. - AOL.com,GOOGL,Google RSS,neutral,0.0
 2026-04-17 09:18:44,"Personal CFO Solutions LLC Purchases 3,620 Shares of Alphabet Inc. $GOOG - MarketBeat",GOOGL,Google RSS,neutral,0.0
 2026-04-18 09:15:42,Nasdaq Rebound: Buy 2 Monster Growth Stocks Up 20% Since Late March - AOL.com,GOOGL,Google RSS,positive,0.8623850345611572
-2026-04-18 09:08:00,Nasdaq Rebound: Buy 2 Monster Growth Stocks Up 20% Since Late March,GOOGL,Yahoo RSS,positive,0.9427720904350281
+2026-04-18 09:08:00,Nasdaq Rebound: Buy 2 Monster Growth Stocks Up 20% Since Late March,GOOGL,Yahoo RSS,positive,0.942772090435028
 2026-04-17 19:32:00,"Amazon’s stock peeks into record territory, as the AI script has flipped to a positive - MarketWatch",AMZN,Google RSS,positive,0.914204478263855
 2026-04-16 13:35:06,“Gaining Speed”: Top Investor Bullish About Amazon Stock - TipRanks,AMZN,Google RSS,neutral,0.0
 2026-04-18 04:18:45,Amazon stock is near a record high. What’s driving the rally? - MSN,AMZN,Google RSS,neutral,0.0
@@ -28,15 +28,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-17 07:33:42,Tesla stock continues to rally ahead of earnings: What's driving the rebound?,TSLA,Bing RSS,neutral,0.0
 2026-04-17 05:31:00,Tesla stock set to snap 8-week losing streak—just in time for earnings,TSLA,Bing RSS,negative,-0.8381438255310059
 2026-04-17 20:06:18,Meta to start companywide layoffs May 20 -- Reuters (META:NASDAQ) - Seeking Alpha,META,Google RSS,negative,-0.8925824761390686
-2026-04-17 09:11:15,Meta (META) Stock; Edges Higher as Quest Headset Price Hike Reflects Rising Chip Costs - MEXC,META,Google RSS,positive,0.9200185537338257
+2026-04-17 09:11:15,Meta (META) Stock; Edges Higher as Quest Headset Price Hike Reflects Rising Chip Costs - MEXC,META,Google RSS,positive,0.9200185537338256
 2026-04-17 10:52:51,Netflix Stock Down 10% Today Despite Strong Q1 Earnings — What Spooked Investors - TipRanks,NFLX,Google RSS,negative,-0.9673612117767334
 2026-04-16 23:16:22,"NFLX Earnings: Netflix Stock Falls despite Strong Revenue Growth, Chair Reed Hastings Steps Down - TipRanks",NFLX,Google RSS,negative,-0.9609882831573486
 2026-04-18 13:34:19,New Street Research Forecasts Strong Price Appreciation for Netflix (NASDAQ:NFLX) Stock - MarketBeat,NFLX,Google RSS,positive,0.9407318830490112
 2026-04-16 19:51:56,"‘It’s a Strong Bet,’ Says Investor About Netflix Stock (NFLX) - TipRanks",NFLX,Google RSS,neutral,0.0
 2026-04-17 16:09:30,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more - CNBC",NFLX,Google RSS,neutral,0.0
 2026-04-18 07:15:00,"‘Wait For It,’ Says Top Investor About Netflix Stock",NFLX,Bing RSS,neutral,0.0
-2026-04-17 06:12:00,Netflix Falls 10% Despite Record Profits: A Missed Q2 Forecast and a Founder’s Departure Shake Investor Confidence,NFLX,Bing RSS,negative,-0.9681888818740845
+2026-04-17 06:12:00,Netflix Falls 10% Despite Record Profits: A Missed Q2 Forecast and a Founder’s Departure Shake Investor Confidence,NFLX,Bing RSS,negative,-0.9681888818740844
 2026-04-18 22:20:00,Inflation Is Surging: 3 Stocks to Buy to Hedge Your Portfolio Against It,NFLX,Yahoo RSS,neutral,0.0
 2026-04-17 20:31:10,"S&P 500, Nasdaq Composite Scale Peaks as Trump Sets Stage for Iran Deal Over Weekend",NFLX,Yahoo RSS,neutral,0.0
 2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",META,CNBC Finance,neutral,0.0
 2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",NFLX,CNBC Finance,neutral,0.0
+2026-04-15 19:07:14,Tesla stock jumps despite delivery miss and spending concerns - MSN,TSLA,Google RSS,positive,0.6956236958503723
+2026-04-17 14:32:48,KeyBanc reiterates Netflix stock rating on steady outlook - Investing.com,NFLX,Google RSS,neutral,0.0
