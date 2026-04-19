@@ -42,3 +42,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",NFLX,CNBC Finance,neutral,0.0
 2026-04-15 19:07:14,Tesla stock jumps despite delivery miss and spending concerns - MSN,TSLA,Google RSS,positive,0.6956236958503723
 2026-04-17 14:32:48,KeyBanc reiterates Netflix stock rating on steady outlook - Investing.com,NFLX,Google RSS,neutral,0.0
+2026-04-16 21:02:00,Microsoft Stock Up After Analysts Reset Expectations - Investor's Business Daily,MSFT,Google RSS,positive,0.5437058210372925
+2026-04-16 15:28:45,"Microsoft stock continues to rally, but some analysts are turning cautious - TradingView — Track All Markets",MSFT,Google RSS,negative,-0.7738935947418213
+2026-04-16 08:31:00,"Microsoft stock continues to rally, but some analysts are turning cautious",MSFT,Bing RSS,negative,-0.49464020133018494
+2026-04-19 06:50:00,Prediction: The AI Supply Chain Shortage Will Create 2 New Trillion-Dollar Companies by 2030,NVDA,Yahoo RSS,neutral,0.0
