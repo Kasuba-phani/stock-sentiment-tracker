@@ -57,3 +57,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-19 12:15:55,'Firing on all cylinders': Wall Street strategists expect a strong quarter of earnings growth,AMZN,Yahoo RSS,positive,0.9441602826118468
 2026-04-17 11:39:20,Netflix is lower after latest earnings report. Many analysts say buy the dip — here's why - CNBC,NFLX,Google RSS,negative,-0.8238386511802673
 2026-04-17 13:01:16,Tesla stock snaps 8-week losing streak with earnings ahead,TSLA,Yahoo Global,negative,-0.9463847875595092
+2026-04-19 15:12:00,3 S&P 500 Dividend Stocks Marked Down as Much as 37%,NVDA,Yahoo RSS,negative,-0.974452555179596
+2026-04-19 14:50:00,"Dow Jones Futures, Oil Prices Loom; Trump Announces New Iran Talks With Hormuz Shut - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
