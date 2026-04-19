@@ -50,3 +50,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-19 09:00:00,Dow Jones futures: What to do amid historic market run; Tesla flashes buy signal with earnings due - MSN,TSLA,Google RSS,neutral,0.0
 2026-04-17 12:12:59,"The Nasdaq's win streak, Netflix earnings, another AI pivot and more in Morning Squawk - CNBC",NFLX,Google RSS,negative,-0.5600161552429199
 2026-04-19 10:00:00,"What to Watch in Markets This Week: Tesla, Intel, Airline Earnings Reports; March U.S. Retail Sales - Investopedia",TSLA,Google RSS,neutral,0.0
+2026-04-19 10:00:00,"What to Watch in Markets This Week: Tesla, Intel, Airline Earnings Reports; March U.S. Retail Sales",TSLA,Yahoo RSS,neutral,0.0
