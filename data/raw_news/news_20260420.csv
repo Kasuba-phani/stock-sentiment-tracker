@@ -98,4 +98,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-20 19:34:43,Big Tech Drives S&P 500 Higher As Magnificent Seven Surge 20%,MSFT,Yahoo RSS,positive,0.7783015370368958
 2026-04-20 19:34:43,Big Tech Drives S&P 500 Higher As Magnificent Seven Surge 20%,NVDA,Yahoo RSS,positive,0.7783015370368958
 2026-04-20 19:47:06,"Meta Platforms, Inc. stock (US30303M1027): Is AI investment strength unlocking sustained growth for - AD HOC NEWS",META,Google RSS,positive,0.9257124662399292
-2026-04-20 10:06:00,"May 21 Could Be a Terrible Day for AI Titan Nvidia, Based on What History Tells Us - The Motley Fool",NVDA,Google RSS,negative,-0.9026763439178467
+2026-04-20 10:06:00,"May 21 Could Be a Terrible Day for AI Titan Nvidia, Based on What History Tells Us - The Motley Fool",NVDA,Google RSS,negative,-0.9026763439178468
+2026-04-20 15:12:27,"Alphabet Stock Has Further to Run, Analyst Says. Share Are Falling Anyway. - Barron's",GOOGL,Google RSS,negative,-0.9278192520141602
+2026-04-20 22:16:29,Microsoft Showcases Agentic Industrial AI Partnerships At Hannover Messe 2026 - simplywall.st,MSFT,Google RSS,neutral,0.0
+2026-04-20 20:38:00,"Dow Jones Futures: Nasdaq Snaps Win Streak On Rising U.S.-Iran Tensions; Nvidia, Rocket Lab, Tesla Key Movers - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-04-20 21:53:09,Nvidia enters mature growth phase after triple-digit gains - Rolling Out,NVDA,Google RSS,positive,0.9096143245697021
