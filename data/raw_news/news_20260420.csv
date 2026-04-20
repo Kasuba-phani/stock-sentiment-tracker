@@ -84,7 +84,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-20 16:17:07,Tesla stock price forecast: $384–$401 range in focus as TSLA drops 1.93% - Traders Union,TSLA,Google RSS,negative,-0.9324102401733398
 2026-04-20 17:32:48,Tesla is last in the 'Magnificent 7' rally — and the first tech giant to report earnings: Chart of the Day,AAPL,Yahoo RSS,neutral,0.0
 2026-04-20 14:35:55,BofA raises Amazon stock price target to $298 on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
-2026-04-20 14:59:17,MSFT shares show mixed momentum as MACD and ADX turn bearish: weekly report - Traders Union,MSFT,Google RSS,negative,-0.9251682758331299
+2026-04-20 14:59:17,MSFT shares show mixed momentum as MACD and ADX turn bearish: weekly report - Traders Union,MSFT,Google RSS,negative,-0.92516827583313
 2026-04-20 18:47:23,BlackBerry stock up 13 per cent on expanded partnership with Nvidia - Toronto Star,NVDA,Google RSS,positive,0.9495646357536316
 2026-04-20 11:35:00,Is It Too Late to Buy Nvidia? Why Calm Markets May Still Reward Buying Great Businesses,NVDA,Bing RSS,neutral,0.0
 2026-04-20 18:57:11,The Stock Market's Fear & Greed Index Just Shifted Toward Greed. History Says This Is What Happens Next for S&P 500 Investors.,NVDA,Yahoo RSS,neutral,0.0
@@ -92,3 +92,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-20 17:32:48,Tesla is last in the 'Magnificent 7' rally — and the first tech giant to report earnings: Chart of the Day,META,Yahoo RSS,neutral,0.0
 2026-04-20 18:20:40,"Why Is Netflix Stock Falling, and is it a Generational Buying Opportunity? - The Motley Fool",NFLX,Google RSS,negative,-0.7944538593292236
 2026-04-19 10:00:00,"What to Watch in Markets This Week: Tesla, Intel, Airline Earnings Reports; March U.S. Retail Sales",TSLA,Yahoo Global,neutral,0.0
+2026-04-20 15:43:50,"Wall Street concerns for Apple ’overly pessimistic’, Goldman says By Investing.com - Investing.com Nigeria",AAPL,Google RSS,neutral,0.0
+2026-04-20 19:34:43,Big Tech Drives S&P 500 Higher As Magnificent Seven Surge 20%,AMZN,Yahoo RSS,positive,0.7783015370368958
+2026-04-20 20:00:00,Bank of America resets Microsoft stock forecast ahead of earnings - thestreet.com,MSFT,Google RSS,neutral,0.0
+2026-04-20 19:34:43,Big Tech Drives S&P 500 Higher As Magnificent Seven Surge 20%,MSFT,Yahoo RSS,positive,0.7783015370368958
+2026-04-20 19:34:43,Big Tech Drives S&P 500 Higher As Magnificent Seven Surge 20%,NVDA,Yahoo RSS,positive,0.7783015370368958
+2026-04-20 19:47:06,"Meta Platforms, Inc. stock (US30303M1027): Is AI investment strength unlocking sustained growth for - AD HOC NEWS",META,Google RSS,positive,0.9257124662399292
