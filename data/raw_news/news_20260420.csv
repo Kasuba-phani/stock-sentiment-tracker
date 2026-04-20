@@ -1,19 +1,19 @@
 date,headline,ticker,source,sentiment_label,compound
 2026-04-17 09:18:44,"Personal CFO Solutions LLC Purchases 3,620 Shares of Alphabet Inc. $GOOG - MarketBeat",GOOGL,Google RSS,neutral,0.0
-2026-04-19 12:15:55,'Firing on all cylinders': Wall Street strategists expect a strong quarter of earnings growth,GOOGL,Yahoo RSS,positive,0.9441603422164917
-2026-04-17 19:32:00,"Amazon’s stock peeks into record territory, as the AI script has flipped to a positive - MarketWatch",AMZN,Google RSS,positive,0.9142045974731445
+2026-04-19 12:15:55,'Firing on all cylinders': Wall Street strategists expect a strong quarter of earnings growth,GOOGL,Yahoo RSS,positive,0.9441603422164916
+2026-04-17 19:32:00,"Amazon’s stock peeks into record territory, as the AI script has flipped to a positive - MarketWatch",AMZN,Google RSS,positive,0.9142045974731444
 2026-04-18 04:18:45,Amazon stock is near a record high. What’s driving the rally? - MSN,AMZN,Google RSS,neutral,0.0
 2026-04-16 13:35:06,“Gaining Speed”: Top Investor Bullish About Amazon Stock - TipRanks,AMZN,Google RSS,neutral,0.0
-2026-04-19 12:15:55,'Firing on all cylinders': Wall Street strategists expect a strong quarter of earnings growth,AMZN,Yahoo RSS,positive,0.9441603422164917
+2026-04-19 12:15:55,'Firing on all cylinders': Wall Street strategists expect a strong quarter of earnings growth,AMZN,Yahoo RSS,positive,0.9441603422164916
 2026-04-16 21:02:00,Microsoft Stock Up After Analysts Reset Expectations - Investor's Business Daily,MSFT,Google RSS,positive,0.5437061190605164
-2026-04-15 19:23:01,Microsoft stock climbs in historic multi-day rally (MSFT:NASDAQ) - Seeking Alpha,MSFT,Google RSS,positive,0.9065161943435669
+2026-04-15 19:23:01,Microsoft stock climbs in historic multi-day rally (MSFT:NASDAQ) - Seeking Alpha,MSFT,Google RSS,positive,0.9065161943435668
 2026-04-16 13:39:15,TD Cowen cuts Microsoft stock price target on capacity constraints - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-04-17 17:22:09,Microsoft Stock Could Be 25% Undervalued Based on Its FCF and Analysts' Estimates - Barchart,MSFT,Google RSS,negative,-0.6175903677940369
 2026-04-15 14:18:25,"‘A Screaming Deal,’ Says Top Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
 2026-04-18 03:01:00,"Despite Rising 14% This Week, This ""Magnificent Seven"" Stock Remains My Least Favorite - The Motley Fool",MSFT,Google RSS,neutral,0.0
 2026-04-15 20:00:09,Microsoft stock climbs in historic multi-day rally - MSN,MSFT,Google RSS,positive,0.8628263473510742
 2026-04-19 08:20:04,Sovran Advisors LLC Raises Position in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,positive,0.9288780093193054
-2026-04-16 15:28:45,"Microsoft stock continues to rally, but some analysts are turning cautious - TradingView",MSFT,Google RSS,negative,-0.44095051288604736
+2026-04-16 15:28:45,"Microsoft stock continues to rally, but some analysts are turning cautious - TradingView",MSFT,Google RSS,negative,-0.4409505128860473
 2026-04-16 19:45:00,Don't Panic Over Microsoft: These 2 Mega-Cap Stocks Are the Real Opportunity - The Motley Fool,MSFT,Google RSS,neutral,0.0
 2026-04-18 21:10:00,The Great Rotation Has Crushed Growth Stocks. History Says That's Usually When You Should Be Buying Them. - The Motley Fool,MSFT,Google RSS,negative,-0.7024328708648682
 2026-04-15 21:10:00,Nvidia’s stock seals its longest winning streak ever. Is the momentum for real? - MarketWatch,NVDA,Google RSS,neutral,0.0
@@ -31,3 +31,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-18 12:58:57,"‘Wait For It,’ Says Top Investor About Netflix Stock",NFLX,Yahoo RSS,neutral,0.0
 2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",META,CNBC Finance,neutral,0.0
 2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",NFLX,CNBC Finance,neutral,0.0
+2026-04-16 19:45:00,Don't Panic Over Microsoft: These 2 Mega-Cap Stocks Are the Real Opportunity - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-04-17 17:22:09,Microsoft Stock Could Be 25% Undervalued Based on Its FCF and Analysts' Estimates - Barchart.com,MSFT,Google RSS,neutral,0.0
+2026-04-20 05:29:00,Accenture and Avanade Collaborate with Microsoft to Develop Agentic Factory to Help Reduce Manufacturing Downtime,MSFT,Yahoo RSS,positive,0.7803507447242737
+2026-04-17 19:43:00,"Intel Stock, In Major Rally Mode, Set To Report Q1 Results; Lam Research, Tesla Also Due - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
