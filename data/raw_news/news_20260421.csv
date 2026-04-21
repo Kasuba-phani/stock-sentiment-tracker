@@ -61,3 +61,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-19 10:00:00,"What to Watch in Markets This Week: Tesla, Intel, Airline Earnings Reports; March U.S. Retail Sales - Investopedia",TSLA,Google RSS,neutral,0.0
 2026-04-21 09:08:55,"Meta Platforms, Inc. $META Shares Sold by Hardman Johnston Global Advisors LLC - MarketBeat",META,Google RSS,neutral,0.0
 2026-04-21 03:03:00,Meta is leading the Magnificent 7 rebound — and running straight into a wall: Chart of the Day,META,Bing RSS,neutral,0.0
+2026-04-21 03:58:00,"Stock market today: Dow, S&P 500, and Nasdaq futures climb amid Apple CEO change and Iran uncertainty",AAPL,Bing RSS,negative,-0.8236474394798279
+2026-04-20 06:54:00,Tesla stock rises after snapping 8-week losing streak. Earnings are up next.,TSLA,Bing RSS,positive,0.6413785815238953
+2026-04-21 11:29:05,Netflix Drops on Weak Guidance Despite Strong Q1 Results - TradingView,NFLX,Google RSS,negative,-0.9660382866859436
