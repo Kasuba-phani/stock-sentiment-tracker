@@ -87,3 +87,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-21 14:46:07,Tech sector rally: Microsoft and Amazon lead gains in a mixed market landscape - investingLive,MSFT,Google RSS,positive,0.8496140241622925
 2026-04-20 13:57:17,Jefferies raises Tesla stock price target to $350 on growth outlook - Investing.com,TSLA,Google RSS,neutral,0.0
 2026-04-21 08:10:00,Tesla stock is jittery ahead of Q1 earnings: what to expect?,TSLA,Bing RSS,negative,-0.8119102716445923
+2026-04-21 18:00:09,Why is Nvidia stock slipping despite strong AI demand? - Invezz,NVDA,Google RSS,negative,-0.8600829839706421
+2026-04-21 15:04:00,Tesla to Report Q1 Earnings: Will Rising Y/Y Delivery Restore Growth?,TSLA,Yahoo RSS,positive,0.878944456577301
+2026-04-21 16:38:25,Why Does TTD Stock Keep Falling?,NFLX,Yahoo RSS,negative,-0.7688722014427185
