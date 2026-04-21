@@ -4,7 +4,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-20 13:02:44,KeyBanc raises Alphabet stock price target on cloud growth momentum - Investing.com,GOOGL,Google RSS,neutral,0.0
 2026-04-20 13:34:56,"‘Ignore the Noise,’ Says Top Investor About Alphabet Stock - TipRanks",GOOGL,Google RSS,neutral,0.0
 2026-04-20 08:45:32,Halbert Hargrove Global Advisors LLC Has $1.48 Million Stock Position in Alphabet Inc. $GOOG - MarketBeat,GOOGL,Google RSS,neutral,0.0
-2026-04-20 07:50:00,"Alphabet Stock Has Further to Run, Analyst Says. Share Are Falling Anyway.",GOOGL,Bing RSS,negative,-0.9681496024131775
+2026-04-20 07:50:00,"Alphabet Stock Has Further to Run, Analyst Says. Share Are Falling Anyway.",GOOGL,Bing RSS,negative,-0.9681496024131776
 2026-04-17 19:32:00,"Amazon’s stock peeks into record territory, as the AI script has flipped to a positive - MarketWatch",AMZN,Google RSS,positive,0.914204478263855
 2026-04-20 14:24:17,Amazon stock slides slightly as price consolidates near key moving averages: weekly outlook - Traders Union,AMZN,Google RSS,negative,-0.953153669834137
 2026-04-20 12:22:22,Wall Street sets Amazon stock price target ahead of April 29 earnings - Finbold,AMZN,Google RSS,neutral,0.0
@@ -19,7 +19,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-15 19:23:01,Microsoft stock climbs in historic multi-day rally (MSFT:NASDAQ) - Seeking Alpha,MSFT,Google RSS,positive,0.9065163135528564
 2026-04-20 11:46:00,Why Wall Street Loves Microsoft Stock Despite It Falling 23% - The Motley Fool,MSFT,Google RSS,neutral,0.0
 2026-04-16 13:39:15,TD Cowen cuts Microsoft stock price target on capacity constraints - Investing.com,MSFT,Google RSS,neutral,0.0
-2026-04-20 14:59:17,MSFT shares show mixed momentum as MACD and ADX turn bearish: weekly report - Traders Union,MSFT,Google RSS,negative,-0.9251682758331299
+2026-04-20 14:59:17,MSFT shares show mixed momentum as MACD and ADX turn bearish: weekly report - Traders Union,MSFT,Google RSS,negative,-0.92516827583313
 2026-04-17 17:22:09,Microsoft Stock Could Be 25% Undervalued Based on Its FCF and Analysts' Estimates - Barchart,MSFT,Google RSS,negative,-0.6175905466079712
 2026-04-20 22:16:29,Microsoft Showcases Agentic Industrial AI Partnerships At Hannover Messe 2026 - simplywall.st,MSFT,Google RSS,neutral,0.0
 2026-04-20 09:49:13,MSFT vs. META: Which ‘Magnificent 7’ Strong Buy Stock Is the Better Buy Ahead of April 29 Earnings? - TipRanks,MSFT,Google RSS,neutral,0.0
@@ -31,10 +31,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-20 19:34:43,Big Tech Drives S&P 500 Higher As Magnificent Seven Surge 20%,MSFT,Yahoo RSS,positive,0.7783015370368958
 2026-04-21 02:30:00,"Dow Jones Futures: Nasdaq Snaps Win Streak On Rising U.S.-Iran Tensions; Nvidia, Rocket Lab, Tesla Key Movers - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
 2026-04-20 15:10:37,Nvidia stock consolidates near $199 as volatility stays elevated: weekly report - Traders Union,NVDA,Google RSS,neutral,0.0
-2026-04-20 14:41:08,Nvidia stock edges lower as strong recent momentum fades from highs - Traders Union,NVDA,Google RSS,negative,-0.9626011848449707
-2026-04-20 10:06:00,"May 21 Could Be a Terrible Day for AI Titan Nvidia, Based on What History Tells Us - The Motley Fool",NVDA,Google RSS,negative,-0.9026763439178467
+2026-04-20 14:41:08,Nvidia stock edges lower as strong recent momentum fades from highs - Traders Union,NVDA,Google RSS,negative,-0.9626011848449708
+2026-04-20 10:06:00,"May 21 Could Be a Terrible Day for AI Titan Nvidia, Based on What History Tells Us - The Motley Fool",NVDA,Google RSS,negative,-0.9026763439178468
 2026-04-20 18:05:00,Is It Too Late to Buy Nvidia? Why Calm Markets May Still Reward Buying Great Businesses - The Motley Fool,NVDA,Google RSS,neutral,0.0
-2026-04-20 21:53:09,Nvidia enters mature growth phase after triple-digit gains - Rolling Out,NVDA,Google RSS,positive,0.9096143245697021
+2026-04-20 21:53:09,Nvidia enters mature growth phase after triple-digit gains - Rolling Out,NVDA,Google RSS,positive,0.909614324569702
 2026-04-20 18:47:23,BlackBerry stock up 13 per cent on expanded partnership with Nvidia - Toronto Star,NVDA,Google RSS,positive,0.9495646357536316
 2026-04-20 13:34:56,"‘Skepticism Remains,’ Says Top Investor About Tesla Stock - TipRanks",TSLA,Google RSS,neutral,0.0
 2026-04-20 16:17:07,Tesla stock price forecast: $384–$401 range in focus as TSLA drops 1.93% - Traders Union,TSLA,Google RSS,negative,-0.9324102401733398
@@ -49,3 +49,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-20 11:43:59,"Why Is Netflix Stock Falling, and Is It a Generational Buying Opportunity?",NFLX,Bing RSS,negative,-0.8419293165206909
 2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",META,CNBC Finance,neutral,0.0
 2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",NFLX,CNBC Finance,neutral,0.0
+2026-04-20 06:03:00,3 reasons Amazon stock can hit a record high despite Monday’s drop,AMZN,Bing RSS,positive,0.8834438920021057
+2026-04-15 19:23:01,Microsoft stock climbs in historic multi-day rally - MSN,MSFT,Google RSS,positive,0.8628260493278503
+2026-04-21 02:30:00,"Dow Jones Futures: Nasdaq Snaps Win Streak On Rising U.S.-Iran Tensions; Nvidia, Rocket Lab, Tesla Key Movers - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-04-20 19:56:58,How Tesla & Meta stocks are moving ahead of tech earnings - AOL.com,META,Google RSS,neutral,0.0
+2026-04-17 16:09:30,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more - CNBC",NFLX,Google RSS,neutral,0.0
