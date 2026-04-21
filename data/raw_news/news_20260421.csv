@@ -65,7 +65,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-20 06:54:00,Tesla stock rises after snapping 8-week losing streak. Earnings are up next.,TSLA,Bing RSS,positive,0.6413785815238953
 2026-04-21 11:29:05,Netflix Drops on Weak Guidance Despite Strong Q1 Results - TradingView,NFLX,Google RSS,negative,-0.9660382866859436
 2026-04-21 13:08:10,"Nasdaq Composite Jumps on Earnings Momentum, AI Spending and Mideast Deal Hopes",AAPL,Yahoo RSS,positive,0.6761564016342163
-2026-04-21 11:28:37,Stocks Rise Pre-Bell as Traders Weigh Uncertainty Over US-Iran Talks,AAPL,Yahoo RSS,negative,-0.46323731541633606
+2026-04-21 11:28:37,Stocks Rise Pre-Bell as Traders Weigh Uncertainty Over US-Iran Talks,AAPL,Yahoo RSS,negative,-0.463237315416336
 2026-04-21 13:16:36,"What to watch as Nvidia, AMD, and Broadcom report earnings",GOOGL,Yahoo RSS,neutral,0.0
 2026-04-21 13:16:36,"What to watch as Nvidia, AMD, and Broadcom report earnings",AMZN,Yahoo RSS,neutral,0.0
 2026-04-21 13:08:10,"Nasdaq Composite Jumps on Earnings Momentum, AI Spending and Mideast Deal Hopes",AMZN,Yahoo RSS,positive,0.6761564016342163
@@ -82,3 +82,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-21 12:47:21,"Meta Platforms, Inc. $META Stock Position Raised by U.S. Capital Wealth Advisors LLC - MarketBeat",META,Google RSS,neutral,0.0
 2026-04-21 13:16:36,"What to watch as Nvidia, AMD, and Broadcom report earnings",META,Yahoo RSS,neutral,0.0
 2026-04-17 09:24:00,Netflix earnings topped estimates. Stock drops after Hastings announcement - MSN,NFLX,Google RSS,negative,-0.9473810195922852
+2026-04-21 14:46:07,Tech sector rally: Microsoft and Amazon lead gains in a mixed market landscape - investingLive,AMZN,Google RSS,positive,0.8496140241622925
+2026-04-21 15:30:48,Is Microsoft Stock a Buy Before Q3? Cloud and AI Trends Point to Strong Growth - Barchart.com,MSFT,Google RSS,positive,0.7644111514091492
+2026-04-21 14:46:07,Tech sector rally: Microsoft and Amazon lead gains in a mixed market landscape - investingLive,MSFT,Google RSS,positive,0.8496140241622925
+2026-04-20 13:57:17,Jefferies raises Tesla stock price target to $350 on growth outlook - Investing.com,TSLA,Google RSS,neutral,0.0
+2026-04-21 08:10:00,Tesla stock is jittery ahead of Q1 earnings: what to expect?,TSLA,Bing RSS,negative,-0.8119102716445923
