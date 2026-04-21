@@ -54,3 +54,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-21 02:30:00,"Dow Jones Futures: Nasdaq Snaps Win Streak On Rising U.S.-Iran Tensions; Nvidia, Rocket Lab, Tesla Key Movers - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
 2026-04-20 19:56:58,How Tesla & Meta stocks are moving ahead of tech earnings - AOL.com,META,Google RSS,neutral,0.0
 2026-04-17 16:09:30,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more - CNBC",NFLX,Google RSS,neutral,0.0
+2026-04-20 15:11:00,"Alphabet Stock Has Further to Run, Analyst Says. Share Are Falling Anyway. - Barron's",GOOGL,Google RSS,negative,-0.9278192520141602
+2026-04-15 14:18:25,"‘A Screaming Deal,’ Says Top Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-04-17 17:22:09,Microsoft Stock Could Be 25% Undervalued Based on Its FCF and Analysts' Estimates - Barchart.com,MSFT,Google RSS,neutral,0.0
