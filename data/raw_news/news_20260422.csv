@@ -114,3 +114,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-22 22:28:00,"Dow Jones Futures: Nasdaq Hits High On Trump Truce; Tesla Earnings Strong, Elon Musk Sinks Stock - Investor's Business Daily",TSLA,Google RSS,positive,0.7727348804473877
 2026-04-22 08:46:00,Tesla earnings updates: Stock pops 4% as company signals 'rebound of demand',TSLA,Bing RSS,positive,0.8715993165969849
 2026-04-22 22:37:32,Dow Jones Futures Fall After Nasdaq Hits High; Tesla Stock Sinks On Elon Musk Comments,TSLA,Yahoo RSS,negative,-0.9222993850708008
+2026-04-22 21:26:35,Home Page - Microsoft Investor Relations - Microsoft,MSFT,Google RSS,neutral,0.0
+2026-04-22 02:04:37,Stronger technical forecast for Microsoft stock price after Tuesday trading - StockInvest.us,MSFT,Google RSS,positive,0.7922356724739075
+2026-04-22 16:40:00,Dow Jones futures fall after Nasdaq hits high; Tesla stock sinks on Elon Musk comments,TSLA,Bing RSS,negative,-0.9222993850708008
+2026-04-22 23:30:45,"Stock market today: Dow, S&P 500 and Nasdaq futures slide as US-Iran uncertainty persists, Tesla slips after-hours",TSLA,Yahoo RSS,negative,-0.9670353531837463
