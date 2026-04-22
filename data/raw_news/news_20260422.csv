@@ -4,7 +4,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-20 13:02:44,KeyBanc raises Alphabet stock price target on cloud growth momentum - Investing.com,GOOGL,Google RSS,neutral,0.0
 2026-04-20 08:45:32,Halbert Hargrove Global Advisors LLC Has $1.48 Million Stock Position in Alphabet Inc. $GOOG - MarketBeat,GOOGL,Google RSS,neutral,0.0
 2026-04-20 13:34:56,"‘Ignore the Noise,’ Says Top Investor About Alphabet Stock - TipRanks",GOOGL,Google RSS,neutral,0.0
-2026-04-20 07:50:00,"Alphabet Stock Has Further to Run, Analyst Says. Share Are Falling Anyway.",GOOGL,Bing RSS,negative,-0.9681496024131775
+2026-04-20 07:50:00,"Alphabet Stock Has Further to Run, Analyst Says. Share Are Falling Anyway.",GOOGL,Bing RSS,negative,-0.9681496024131776
 2026-04-20 14:24:17,Amazon stock slides slightly as price consolidates near key moving averages: weekly outlook - Traders Union,AMZN,Google RSS,negative,-0.953153669834137
 2026-04-17 19:32:00,"Amazon’s stock peeks into record territory, as the AI script has flipped to a positive - MarketWatch",AMZN,Google RSS,positive,0.914204478263855
 2026-04-20 12:22:22,Wall Street sets Amazon stock price target ahead of April 29 earnings - Finbold,AMZN,Google RSS,neutral,0.0
@@ -17,7 +17,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-20 11:46:00,Why Wall Street Loves Microsoft Stock Despite It Falling 23% - The Motley Fool,MSFT,Google RSS,neutral,0.0
 2026-04-21 15:30:48,Is Microsoft Stock a Buy Before Q3? Cloud and AI Trends Point to Strong Growth - Barchart.com,MSFT,Google RSS,positive,0.7644111514091492
 2026-04-21 14:38:16,Microsoft stock rises after recent AI and cloud investments fuel confidence - Traders Union,MSFT,Google RSS,positive,0.7089052200317383
-2026-04-20 14:59:17,MSFT shares show mixed momentum as MACD and ADX turn bearish: weekly report - Traders Union,MSFT,Google RSS,negative,-0.9251682758331299
+2026-04-20 14:59:17,MSFT shares show mixed momentum as MACD and ADX turn bearish: weekly report - Traders Union,MSFT,Google RSS,negative,-0.92516827583313
 2026-04-18 03:01:00,"Despite Rising 14% This Week, This ""Magnificent Seven"" Stock Remains My Least Favorite - The Motley Fool",MSFT,Google RSS,neutral,0.0
 2026-04-21 14:46:07,Tech sector rally: Microsoft and Amazon lead gains in a mixed market landscape - investingLive,MSFT,Google RSS,positive,0.8496140241622925
 2026-04-20 09:49:13,MSFT vs. META: Which ‘Magnificent 7’ Strong Buy Stock Is the Better Buy Ahead of April 29 Earnings? - TipRanks,MSFT,Google RSS,neutral,0.0
@@ -31,7 +31,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-21 17:59:07,Why is Nvidia stock slipping despite strong AI demand? - Invezz,NVDA,Google RSS,negative,-0.8600829839706421
 2026-04-21 19:00:00,"NVIDIA Sparks April Rally in 2 Quantum Stocks, 40%+ Upside Still Left - TradingView",NVDA,Google RSS,positive,0.8483741283416748
 2026-04-20 15:10:37,Nvidia stock consolidates near $199 as volatility stays elevated: weekly report - Traders Union,NVDA,Google RSS,neutral,0.0
-2026-04-20 14:41:08,Nvidia stock edges lower as strong recent momentum fades from highs - Traders Union,NVDA,Google RSS,negative,-0.9626011848449707
+2026-04-20 14:41:08,Nvidia stock edges lower as strong recent momentum fades from highs - Traders Union,NVDA,Google RSS,negative,-0.9626011848449708
 2026-04-21 02:30:00,"Dow Jones Futures: Nasdaq Snaps Win Streak On Rising U.S.-Iran Tensions; Nvidia, Rocket Lab, Tesla Key Movers - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
 2026-04-21 14:10:20,Tesla stock is jittery ahead of Q1 earnings: what to expect? - TradingView,TSLA,Google RSS,negative,-0.4931659698486328
 2026-04-21 14:14:39,Tesla stock is jittery ahead of Q1 earnings: what to expect? - Invezz,TSLA,Google RSS,neutral,0.0
@@ -51,3 +51,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-21 16:38:25,Why Does TTD Stock Keep Falling?,NFLX,Yahoo RSS,negative,-0.7688722014427185
 2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",META,CNBC Finance,neutral,0.0
 2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",NFLX,CNBC Finance,neutral,0.0
+2026-04-20 14:04:54,Amazon Stock Forecast: Trending Strong Buy Among Analysts - TipRanks,AMZN,Google RSS,positive,0.9139434695243835
+2026-04-22 04:52:09,Tesla's earnings report is coming soon! Wall Street outlook: Can the AI narrative reverse the stock price decline? - Moomoo,TSLA,Google RSS,neutral,0.0
+2026-04-22 04:52:09,Tesla's earnings report is coming soon! Wall Street outlook: Can the AI narrative reverse the stock price decline? - 富途牛牛,TSLA,Google RSS,neutral,0.0
