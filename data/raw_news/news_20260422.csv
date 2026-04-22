@@ -1,0 +1,53 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-04-21 19:56:27,Sector Update: Tech Stocks Higher Late Afternoon,AAPL,Yahoo RSS,positive,0.9232140183448792
+2026-04-20 15:11:00,"Alphabet Stock Has Further to Run, Analyst Says. Share Are Falling Anyway. - Barron's",GOOGL,Google RSS,negative,-0.9278192520141602
+2026-04-20 13:02:44,KeyBanc raises Alphabet stock price target on cloud growth momentum - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-04-20 08:45:32,Halbert Hargrove Global Advisors LLC Has $1.48 Million Stock Position in Alphabet Inc. $GOOG - MarketBeat,GOOGL,Google RSS,neutral,0.0
+2026-04-20 13:34:56,"‘Ignore the Noise,’ Says Top Investor About Alphabet Stock - TipRanks",GOOGL,Google RSS,neutral,0.0
+2026-04-20 07:50:00,"Alphabet Stock Has Further to Run, Analyst Says. Share Are Falling Anyway.",GOOGL,Bing RSS,negative,-0.9681496024131775
+2026-04-20 14:24:17,Amazon stock slides slightly as price consolidates near key moving averages: weekly outlook - Traders Union,AMZN,Google RSS,negative,-0.953153669834137
+2026-04-17 19:32:00,"Amazon’s stock peeks into record territory, as the AI script has flipped to a positive - MarketWatch",AMZN,Google RSS,positive,0.914204478263855
+2026-04-20 12:22:22,Wall Street sets Amazon stock price target ahead of April 29 earnings - Finbold,AMZN,Google RSS,neutral,0.0
+2026-04-20 13:08:40,KeyBanc raises Amazon stock price target on cloud growth momentum - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-04-20 14:35:55,BofA raises Amazon stock price target to $298 on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-04-21 14:46:07,Tech sector rally: Microsoft and Amazon lead gains in a mixed market landscape - investingLive,AMZN,Google RSS,positive,0.8496140241622925
+2026-04-21 13:24:41,Bank of America resets Microsoft stock forecast ahead of earnings - thestreet.com,MSFT,Google RSS,neutral,0.0
+2026-04-16 21:02:00,Microsoft Stock Up After Analysts Reset Expectations - Investor's Business Daily,MSFT,Google RSS,positive,0.5437058210372925
+2026-04-15 19:23:01,Microsoft stock climbs in historic multi-day rally (MSFT:NASDAQ) - Seeking Alpha,MSFT,Google RSS,positive,0.9065163135528564
+2026-04-20 11:46:00,Why Wall Street Loves Microsoft Stock Despite It Falling 23% - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-04-21 15:30:48,Is Microsoft Stock a Buy Before Q3? Cloud and AI Trends Point to Strong Growth - Barchart.com,MSFT,Google RSS,positive,0.7644111514091492
+2026-04-21 14:38:16,Microsoft stock rises after recent AI and cloud investments fuel confidence - Traders Union,MSFT,Google RSS,positive,0.7089052200317383
+2026-04-20 14:59:17,MSFT shares show mixed momentum as MACD and ADX turn bearish: weekly report - Traders Union,MSFT,Google RSS,negative,-0.9251682758331299
+2026-04-18 03:01:00,"Despite Rising 14% This Week, This ""Magnificent Seven"" Stock Remains My Least Favorite - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-04-21 14:46:07,Tech sector rally: Microsoft and Amazon lead gains in a mixed market landscape - investingLive,MSFT,Google RSS,positive,0.8496140241622925
+2026-04-20 09:49:13,MSFT vs. META: Which ‘Magnificent 7’ Strong Buy Stock Is the Better Buy Ahead of April 29 Earnings? - TipRanks,MSFT,Google RSS,neutral,0.0
+2026-04-21 14:46:00,Is Microsoft Stock a Buy Before Q3? Cloud and AI Trends Point to Strong Growth,MSFT,Bing RSS,positive,0.9360506534576416
+2026-04-20 16:35:00,Bank of America resets Microsoft stock forecast ahead of earnings,MSFT,Bing RSS,neutral,0.0
+2026-04-20 11:06:00,Why Wall Street Loves Microsoft Stock Despite It Falling 23%,MSFT,Bing RSS,neutral,0.0
+2026-04-21 19:56:27,Sector Update: Tech Stocks Higher Late Afternoon,MSFT,Yahoo RSS,positive,0.9232140183448792
+2026-04-21 23:07:00,AI Chip Champ Nvidia Leads A Dozen Onto Today's Best Growth Stock Lists - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
+2026-04-21 19:01:00,"Dow Jones AI Giant Nvidia, Sterling, Viking In Or Near Buy Zones - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-04-21 18:30:34,"NVIDIA Sparks April Rally in 2 Quantum Stocks, 40%+ Upside Still Left - Zacks Investment Research",NVDA,Google RSS,positive,0.8555800914764404
+2026-04-21 17:59:07,Why is Nvidia stock slipping despite strong AI demand? - Invezz,NVDA,Google RSS,negative,-0.8600829839706421
+2026-04-21 19:00:00,"NVIDIA Sparks April Rally in 2 Quantum Stocks, 40%+ Upside Still Left - TradingView",NVDA,Google RSS,positive,0.8483741283416748
+2026-04-20 15:10:37,Nvidia stock consolidates near $199 as volatility stays elevated: weekly report - Traders Union,NVDA,Google RSS,neutral,0.0
+2026-04-20 14:41:08,Nvidia stock edges lower as strong recent momentum fades from highs - Traders Union,NVDA,Google RSS,negative,-0.9626011848449707
+2026-04-21 02:30:00,"Dow Jones Futures: Nasdaq Snaps Win Streak On Rising U.S.-Iran Tensions; Nvidia, Rocket Lab, Tesla Key Movers - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-04-21 14:10:20,Tesla stock is jittery ahead of Q1 earnings: what to expect? - TradingView,TSLA,Google RSS,negative,-0.4931659698486328
+2026-04-21 14:14:39,Tesla stock is jittery ahead of Q1 earnings: what to expect? - Invezz,TSLA,Google RSS,neutral,0.0
+2026-04-21 21:21:17,Dow Jones futures rise as Trump extends Iran ceasefire; Tesla earnings due - MSN,TSLA,Google RSS,negative,-0.7722954154014587
+2026-04-20 13:34:56,"‘Skepticism Remains,’ Says Top Investor About Tesla Stock - TipRanks",TSLA,Google RSS,neutral,0.0
+2026-04-21 08:10:00,Tesla stock is jittery ahead of Q1 earnings: what to expect?,TSLA,Bing RSS,negative,-0.8119102716445923
+2026-04-21 23:01:06,Elon Musk Warned 3 Years Ago Commercial Real Estate Was Melting Down And Home Values Would Follow — But U.S. Housing Prices Held Steady,TSLA,Yahoo RSS,negative,-0.8981909155845642
+2026-04-21 12:47:21,"Meta Platforms, Inc. $META Stock Position Raised by U.S. Capital Wealth Advisors LLC - MarketBeat",META,Google RSS,neutral,0.0
+2026-04-20 09:49:13,MSFT vs. META: Which ‘Magnificent 7’ Strong Buy Stock Is the Better Buy Ahead of April 29 Earnings? - TipRanks,META,Google RSS,neutral,0.0
+2026-04-21 09:08:55,"Meta Platforms, Inc. $META Shares Sold by Hardman Johnston Global Advisors LLC - MarketBeat",META,Google RSS,neutral,0.0
+2026-04-20 19:56:58,How Tesla & Meta stocks are moving ahead of tech earnings - AOL.com,META,Google RSS,neutral,0.0
+2026-04-21 10:00:00,Meta is leading the Magnificent 7 rebound — and running straight into a wall: Chart of the Day,META,Bing RSS,neutral,0.0
+2026-04-21 11:29:05,Netflix Drops on Weak Guidance Despite Strong Q1 Results - TradingView,NFLX,Google RSS,negative,-0.9660382866859436
+2026-04-20 18:43:00,"Why Is Netflix Stock Falling, and is it a Generational Buying Opportunity? - The Motley Fool",NFLX,Google RSS,negative,-0.7944538593292236
+2026-04-17 16:09:30,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more - CNBC",NFLX,Google RSS,neutral,0.0
+2026-04-18 13:34:19,New Street Research Forecasts Strong Price Appreciation for Netflix (NASDAQ:NFLX) Stock - MarketBeat,NFLX,Google RSS,positive,0.9407318830490112
+2026-04-21 16:38:25,Why Does TTD Stock Keep Falling?,NFLX,Yahoo RSS,negative,-0.7688722014427185
+2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",META,CNBC Finance,neutral,0.0
+2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",NFLX,CNBC Finance,neutral,0.0
