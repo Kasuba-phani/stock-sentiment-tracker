@@ -90,7 +90,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-22 17:50:02,Equities Higher Intraday Amid Strong Earnings Reports; Oil Rises,TSLA,Yahoo RSS,positive,0.9318993091583252
 2026-04-16 19:51:56,"‘It’s a Strong Bet,’ Says Investor About Netflix Stock (NFLX) - TipRanks",NFLX,Google RSS,neutral,0.0
 2026-04-22 18:40:51,Joel Greenblatt Made These 4 AI Stocks His Top Positions. Here’s Why They’re Worth a Closer Look,AAPL,Yahoo RSS,neutral,0.0
-2026-04-22 11:27:00,Live Nasdaq Composite: Rising Tech Lifts Stock Market Tide on Improving Sentiment,GOOGL,Bing RSS,positive,0.9396355748176575
+2026-04-22 11:27:00,Live Nasdaq Composite: Rising Tech Lifts Stock Market Tide on Improving Sentiment,GOOGL,Bing RSS,positive,0.9396355748176576
 2026-04-22 19:15:52,Intel to report first quarter earnings as CPUs become key to AI growth,GOOGL,Yahoo RSS,positive,0.9174034595489502
 2026-04-22 19:15:52,Intel to report first quarter earnings as CPUs become key to AI growth,AMZN,Yahoo RSS,positive,0.9174034595489502
 2026-04-22 18:40:51,Joel Greenblatt Made These 4 AI Stocks His Top Positions. Here’s Why They’re Worth a Closer Look,AMZN,Yahoo RSS,neutral,0.0
@@ -98,4 +98,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-22 18:40:51,Joel Greenblatt Made These 4 AI Stocks His Top Positions. Here’s Why They’re Worth a Closer Look,NVDA,Yahoo RSS,neutral,0.0
 2026-04-22 18:05:00,The Great Rotation Didn't Last. The Best Artificial Intelligence (AI) Growth Stocks Are Rallying Again.,NVDA,Yahoo RSS,positive,0.824268102645874
 2026-04-20 19:56:58,How Tesla & Meta stocks are moving ahead of tech earnings - aol.com,META,Google RSS,neutral,0.0
-2026-04-22 19:46:42,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
+2026-04-22 19:46:42,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.935252010822296
+2026-04-22 20:20:05,"GOOGL (Alphabet Inc.) Q4 2025 results top earnings estimates with 15.1 percent annual revenue growth, shares rise modestly. - Strong Sell - Cổng thông tin điện tử tỉnh Lào Cai",GOOGL,Google RSS,positive,0.9507571458816528
+2026-04-22 14:10:00,"Nvidia is cooling, Microsoft is stumbling, and the Fed won't cut. Here's why I'm still buying artificial intelligence (AI) stocks.",MSFT,Bing RSS,neutral,0.0
+2026-04-22 20:50:18,Is Microsoft Corporation (MSFT) a Top AI Play on Azure Growth and Memory Supply Deal,MSFT,Yahoo RSS,neutral,0.0
+2026-04-22 21:31:52,'Fast Money' traders react to Tesla's stock popping despite a mixed quarter - MSN,TSLA,Google RSS,positive,0.7237217426300049
+2026-04-22 21:16:13,"Tesla stock surges 5% after Q1 earnings beat, but weak sales and rising competition raise concerns - The Economic Times",TSLA,Google RSS,negative,-0.8787084817886353
+2026-04-22 20:57:29,"Dow Jones futures: Nasdaq hits high on Trump truce; Tesla earnings strong, Elon Musk on tap - MSN",TSLA,Google RSS,positive,0.9115055799484253
+2026-04-22 21:43:08,"Dow Jones Futures: Nasdaq Hits High On Trump Truce; Tesla Earnings Strong, Elon Musk On Call",TSLA,Yahoo RSS,positive,0.9129748344421387
+2026-04-22 21:34:29,Tesla profits rose in the first quarter after a tough year for its car business,TSLA,Yahoo RSS,positive,0.9551103115081787
+2026-04-22 21:26:00,"Tesla reports higher profits, topping estimates",TSLA,Yahoo RSS,positive,0.9530625939369202
+2026-04-22 20:58:32,"US Equity Indexes Jump as Iran Ceasefire Extension, Strong Earnings Help Lift Sentiment",TSLA,Yahoo RSS,positive,0.8835767507553101
+2026-04-21 13:16:36,"What to watch as Nvidia, AMD, and Broadcom report earnings",NVDA,Yahoo Global,neutral,0.0
