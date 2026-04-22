@@ -104,9 +104,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-22 20:50:18,Is Microsoft Corporation (MSFT) a Top AI Play on Azure Growth and Memory Supply Deal,MSFT,Yahoo RSS,neutral,0.0
 2026-04-22 21:31:52,'Fast Money' traders react to Tesla's stock popping despite a mixed quarter - MSN,TSLA,Google RSS,positive,0.7237217426300049
 2026-04-22 21:16:13,"Tesla stock surges 5% after Q1 earnings beat, but weak sales and rising competition raise concerns - The Economic Times",TSLA,Google RSS,negative,-0.8787084817886353
-2026-04-22 20:57:29,"Dow Jones futures: Nasdaq hits high on Trump truce; Tesla earnings strong, Elon Musk on tap - MSN",TSLA,Google RSS,positive,0.9115055799484253
-2026-04-22 21:43:08,"Dow Jones Futures: Nasdaq Hits High On Trump Truce; Tesla Earnings Strong, Elon Musk On Call",TSLA,Yahoo RSS,positive,0.9129748344421387
-2026-04-22 21:34:29,Tesla profits rose in the first quarter after a tough year for its car business,TSLA,Yahoo RSS,positive,0.9551103115081787
+2026-04-22 20:57:29,"Dow Jones futures: Nasdaq hits high on Trump truce; Tesla earnings strong, Elon Musk on tap - MSN",TSLA,Google RSS,positive,0.9115055799484252
+2026-04-22 21:43:08,"Dow Jones Futures: Nasdaq Hits High On Trump Truce; Tesla Earnings Strong, Elon Musk On Call",TSLA,Yahoo RSS,positive,0.9129748344421388
+2026-04-22 21:34:29,Tesla profits rose in the first quarter after a tough year for its car business,TSLA,Yahoo RSS,positive,0.9551103115081788
 2026-04-22 21:26:00,"Tesla reports higher profits, topping estimates",TSLA,Yahoo RSS,positive,0.9530625939369202
 2026-04-22 20:58:32,"US Equity Indexes Jump as Iran Ceasefire Extension, Strong Earnings Help Lift Sentiment",TSLA,Yahoo RSS,positive,0.8835767507553101
 2026-04-21 13:16:36,"What to watch as Nvidia, AMD, and Broadcom report earnings",NVDA,Yahoo Global,neutral,0.0
+2026-04-22 20:52:39,'Fast Money' traders react to Tesla's stock popping despite a mixed quarter - CNBC,TSLA,Google RSS,neutral,0.0
+2026-04-22 22:28:00,"Dow Jones Futures: Nasdaq Hits High On Trump Truce; Tesla Earnings Strong, Elon Musk Sinks Stock - Investor's Business Daily",TSLA,Google RSS,positive,0.7727348804473877
+2026-04-22 08:46:00,Tesla earnings updates: Stock pops 4% as company signals 'rebound of demand',TSLA,Bing RSS,positive,0.8715993165969849
+2026-04-22 22:37:32,Dow Jones Futures Fall After Nasdaq Hits High; Tesla Stock Sinks On Elon Musk Comments,TSLA,Yahoo RSS,negative,-0.9222993850708008
