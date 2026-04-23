@@ -117,3 +117,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-23 20:51:30,"Dow Jones futures: Stocks fall on Iran, ServiceNow, Tesla; Intel soars late - MSN",TSLA,Google RSS,negative,-0.9575924873352052
 2026-04-23 18:19:18,Meta stock slides on report of memo announcing 10% job cuts - MSN,META,Google RSS,negative,-0.9410568475723268
 2026-04-23 12:37:53,Stifel reiterates Tesla stock rating citing solid quarterly results - Investing.com,TSLA,Google RSS,neutral,0.0
+2026-04-23 21:59:16,"Top 20 in Trading Volume | Elon Musk forecasts a significant increase in expenditures, Tesla falls over 3% post-earnings; Texas Instruments surges 19% on better-than-expected results, marking its best single-day performance since 2001; Microsoft announce - 富途牛牛",TSLA,Google RSS,positive,0.8676819205284119
