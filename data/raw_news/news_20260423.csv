@@ -56,8 +56,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-22 09:16:00,Tesla's stock rebounds ahead of earnings call from early 2026 slide,TSLA,Bing RSS,negative,-0.6236222386360168
 2026-04-23 05:44:43,Cheapest 'Magnificent 7' stock revealed ahead of Big Tech earnings - Invezz,META,Google RSS,neutral,0.0
 2026-04-16 23:16:22,"NFLX Earnings: Netflix Stock Falls despite Strong Revenue Growth, Chair Reed Hastings Steps Down - TipRanks",NFLX,Google RSS,negative,-0.9609882831573486
-2026-04-20 08:11:00,"Alphabet Stock Has Further to Run, Analyst Says. Share Are Falling Anyway.",GOOGL,Bing RSS,negative,-0.9681496024131775
+2026-04-20 08:11:00,"Alphabet Stock Has Further to Run, Analyst Says. Share Are Falling Anyway.",GOOGL,Bing RSS,negative,-0.9681496024131776
 2026-04-21 15:30:48,Is Microsoft Stock a Buy Before Q3? Cloud and AI Trends Point to Strong Growth - Barchart.com,MSFT,Google RSS,positive,0.7644111514091492
 2026-04-23 07:48:04,Cliftonlarsonallen Wealth Advisors LLC Has $12.18 Million Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,neutral,0.0
-2026-04-23 08:01:54,SK Hynix quarterly profit jumps five-fold on strong AI chip demand,NVDA,Yahoo RSS,positive,0.9281556606292725
+2026-04-23 08:01:54,SK Hynix quarterly profit jumps five-fold on strong AI chip demand,NVDA,Yahoo RSS,positive,0.9281556606292723
 2026-04-22 23:56:00,Cheapest 'Magnificent 7' stock revealed ahead of Big Tech earnings,META,Bing RSS,neutral,0.0
+2026-04-21 13:24:41,Bank of America resets Microsoft stock forecast ahead of earnings - thestreet.com,MSFT,Google RSS,neutral,0.0
+2026-04-23 08:47:47,"Tesla stock heads for another red day: Munster backs $25B capex push, retail stays bullish - MSN",TSLA,Google RSS,positive,0.6583841443061829
+2026-04-22 14:52:24,Tesla stock jumps ahead of earnings: will the climb continue after? - TradingView,TSLA,Google RSS,neutral,0.0
+2026-04-23 03:15:00,Dow Jones futures fall after Nasdaq hits high; Tesla stock sinks on Elon Musk comments,TSLA,Bing RSS,negative,-0.9222995042800903
+2026-04-23 03:26:00,Tesla (TSLA) Stock Slides in After-Hours Trading Despite Strong Q1 Earnings Performance,TSLA,Bing RSS,negative,-0.9703853726387024
+2026-04-22 23:30:45,"Stock market today: Dow, S&P 500 and Nasdaq futures slide as oil tops $100, Tesla slips after earnings",TSLA,Yahoo RSS,negative,-0.9625909924507141
+2026-04-21 10:00:00,Meta is leading the Magnificent 7 rebound — and running straight into a wall: Chart of the Day,META,Bing RSS,neutral,0.0
