@@ -5,10 +5,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-22 13:53:19,BMO raises Alphabet stock price target on AI leadership and cloud growth - Investing.com,GOOGL,Google RSS,neutral,0.0
 2026-04-20 13:02:44,KeyBanc raises Alphabet stock price target on cloud growth momentum - Investing.com,GOOGL,Google RSS,neutral,0.0
 2026-04-22 12:27:11,"58,238 Shares in Alphabet Inc. $GOOG Bought by Third View Private Wealth LLC - MarketBeat",GOOGL,Google RSS,neutral,0.0
-2026-04-23 00:39:25,"GOOGL (Alphabet Inc.) Q4 2025 results top earnings estimates with 15.1 percent annual revenue growth, shares rise modestly. - Strong Sell - Xã Thanh Hà",GOOGL,Google RSS,positive,0.9501644968986511
+2026-04-23 00:39:25,"GOOGL (Alphabet Inc.) Q4 2025 results top earnings estimates with 15.1 percent annual revenue growth, shares rise modestly. - Strong Sell - Xã Thanh Hà",GOOGL,Google RSS,positive,0.9501644968986512
 2026-04-20 08:45:32,Halbert Hargrove Global Advisors LLC Has $1.48 Million Stock Position in Alphabet Inc. $GOOG - MarketBeat,GOOGL,Google RSS,neutral,0.0
 2026-04-20 13:34:56,"‘Ignore the Noise,’ Says Top Investor About Alphabet Stock - TipRanks",GOOGL,Google RSS,neutral,0.0
-2026-04-22 11:27:00,Live Nasdaq Composite: Rising Tech Lifts Stock Market Tide on Improving Sentiment,GOOGL,Bing RSS,positive,0.9396355748176575
+2026-04-22 11:27:00,Live Nasdaq Composite: Rising Tech Lifts Stock Market Tide on Improving Sentiment,GOOGL,Bing RSS,positive,0.9396355748176576
 2026-04-22 19:15:52,Intel to report first quarter earnings as CPUs become key to AI growth,GOOGL,Yahoo RSS,positive,0.9174034595489502
 2026-04-20 14:24:17,Amazon stock slides slightly as price consolidates near key moving averages: weekly outlook - Traders Union,AMZN,Google RSS,negative,-0.953153669834137
 2026-04-20 12:22:22,Wall Street sets Amazon stock price target ahead of April 29 earnings - Finbold,AMZN,Google RSS,neutral,0.0
@@ -21,9 +21,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-16 21:02:00,Microsoft Stock Up After Analysts Reset Expectations - Investor's Business Daily,MSFT,Google RSS,positive,0.5437058210372925
 2026-04-20 11:46:00,Why Wall Street Loves Microsoft Stock Despite It Falling 23% - The Motley Fool,MSFT,Google RSS,neutral,0.0
 2026-04-21 14:38:16,Microsoft stock rises after recent AI and cloud investments fuel confidence - Traders Union,MSFT,Google RSS,positive,0.7089052200317383
-2026-04-20 14:59:17,MSFT shares show mixed momentum as MACD and ADX turn bearish: weekly report - Traders Union,MSFT,Google RSS,negative,-0.9251682758331299
+2026-04-20 14:59:17,MSFT shares show mixed momentum as MACD and ADX turn bearish: weekly report - Traders Union,MSFT,Google RSS,negative,-0.92516827583313
 2026-04-19 15:50:21,"‘It’s a Real Threat,’ Says Investor About Microsoft Stock (MSFT) - TipRanks",MSFT,Google RSS,neutral,0.0
-2026-04-21 15:30:48,Is Microsoft Stock a Buy Before Q3? Cloud and AI Trends Point to Strong Growth - Barchart,MSFT,Google RSS,positive,0.9081146121025085
+2026-04-21 15:30:48,Is Microsoft Stock a Buy Before Q3? Cloud and AI Trends Point to Strong Growth - Barchart,MSFT,Google RSS,positive,0.9081146121025084
 2026-04-20 16:35:00,Bank of America resets Microsoft stock forecast ahead of earnings,MSFT,Bing RSS,neutral,0.0
 2026-04-21 14:46:00,Is Microsoft Stock a Buy Before Q3? Cloud and AI Trends Point to Strong Growth,MSFT,Bing RSS,positive,0.9360506534576416
 2026-04-22 06:41:00,What Makes Microsoft Corporation (MSFT) a Strong Long-Term Bet?,MSFT,Bing RSS,neutral,0.0
@@ -34,17 +34,25 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-20 15:10:37,Nvidia stock consolidates near $199 as volatility stays elevated: weekly report - Traders Union,NVDA,Google RSS,neutral,0.0
 2026-04-21 18:30:34,"NVIDIA Sparks April Rally in 2 Quantum Stocks, 40%+ Upside Still Left - Zacks Investment Research",NVDA,Google RSS,positive,0.8555800914764404
 2026-04-22 22:02:27,'Fast Money' traders react to Tesla's stock popping despite a mixed quarter - MSN,TSLA,Google RSS,positive,0.7237217426300049
-2026-04-23 02:21:48,"Dow Jones futures: Nasdaq hits high on Trump truce; Tesla earnings strong, Elon Musk on tap - MSN",TSLA,Google RSS,positive,0.9115055799484253
+2026-04-23 02:21:48,"Dow Jones futures: Nasdaq hits high on Trump truce; Tesla earnings strong, Elon Musk on tap - MSN",TSLA,Google RSS,positive,0.9115055799484252
 2026-04-22 21:16:13,"Tesla stock surges 5% after Q1 earnings beat, but weak sales and rising competition raise concerns - The Economic Times",TSLA,Google RSS,negative,-0.8787084817886353
 2026-04-23 03:06:57,Dow Jones Futures Fall After Nasdaq Hits High; Tesla Stock Sinks On Elon Musk Comments,TSLA,Yahoo RSS,negative,-0.9222993850708008
 2026-04-20 09:49:13,MSFT vs. META: Which ‘Magnificent 7’ Strong Buy Stock Is the Better Buy Ahead of April 29 Earnings? - TipRanks,META,Google RSS,neutral,0.0
 2026-04-21 12:47:21,"Meta Platforms, Inc. $META Stock Position Raised by U.S. Capital Wealth Advisors LLC - MarketBeat",META,Google RSS,neutral,0.0
 2026-04-21 09:08:55,"Meta Platforms, Inc. $META Shares Sold by Hardman Johnston Global Advisors LLC - MarketBeat",META,Google RSS,neutral,0.0
-2026-04-22 18:47:38,Mizuho Analysts Are Bullish on Custom Chips: Broadcom Could Have 87% Compound Annual Growth Rate Through 2028,META,Yahoo RSS,positive,0.9297246336936951
+2026-04-22 18:47:38,Mizuho Analysts Are Bullish on Custom Chips: Broadcom Could Have 87% Compound Annual Growth Rate Through 2028,META,Yahoo RSS,positive,0.9297246336936952
 2026-04-22 15:56:00,"Japan Social Commerce Market Report, Q1 2026 Update Featuring Facebook, YouTube, Line, Linktree, and Flip Fit - Shift from Live Selling to Discovery-Led Commerce",META,Yahoo RSS,neutral,0.0
 2026-04-20 18:43:00,"Why Is Netflix Stock Falling, and is it a Generational Buying Opportunity? - The Motley Fool",NFLX,Google RSS,negative,-0.7944538593292236
 2026-04-20 11:43:59,"Why Is Netflix Stock Falling, and Is It a Generational Buying Opportunity?",NFLX,Bing RSS,negative,-0.8419293165206909
-2026-04-22 19:46:42,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
+2026-04-22 19:46:42,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.935252010822296
 2026-04-21 16:38:25,Why Does TTD Stock Keep Falling?,NFLX,Yahoo RSS,negative,-0.7688722014427185
 2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",META,CNBC Finance,neutral,0.0
 2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",NFLX,CNBC Finance,neutral,0.0
+2026-04-22 12:00:00,Microsoft Higher Ahead Of Magnificent Seven Earnings; Is Microsoft A Buy Now? - Investor's Business Daily,MSFT,Google RSS,positive,0.6000218391418457
+2026-04-22 22:48:46,"SK Hynix sets record as quarterly profit jumps five-fold, says AI chip demand exceeds capacity",NVDA,Yahoo RSS,positive,0.935854434967041
+2026-04-22 22:57:00,Tesla earnings recap: Company signals 'rebound of demand' and big capex spending increase - Business Insider,TSLA,Google RSS,positive,0.9513247013092041
+2026-04-22 21:15:00,'Fast Money' traders react to Tesla's stock popping despite a mixed quarter - CNBC,TSLA,Google RSS,neutral,0.0
+2026-04-23 05:12:48,Tesla Stock (TSLA) Slides Despite Strong Q1 Earnings — What Spooked Investors - TipRanks,TSLA,Google RSS,negative,-0.9665466547012329
+2026-04-22 09:16:00,Tesla's stock rebounds ahead of earnings call from early 2026 slide,TSLA,Bing RSS,negative,-0.6236222386360168
+2026-04-23 05:44:43,Cheapest 'Magnificent 7' stock revealed ahead of Big Tech earnings - Invezz,META,Google RSS,neutral,0.0
+2026-04-16 23:16:22,"NFLX Earnings: Netflix Stock Falls despite Strong Revenue Growth, Chair Reed Hastings Steps Down - TipRanks",NFLX,Google RSS,negative,-0.9609882831573486
