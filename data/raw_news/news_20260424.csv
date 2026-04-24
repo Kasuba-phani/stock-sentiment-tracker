@@ -6,7 +6,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-20 15:11:00,"Alphabet Stock Has Further to Run, Analyst Says. Share Are Falling Anyway. - Barron's",GOOGL,Google RSS,negative,-0.9278192520141602
 2026-04-20 13:02:44,KeyBanc raises Alphabet stock price target on cloud growth momentum - Investing.com,GOOGL,Google RSS,neutral,0.0
 2026-04-22 13:53:19,BMO raises Alphabet stock price target on AI leadership and cloud growth - Investing.com,GOOGL,Google RSS,neutral,0.0
-2026-04-20 08:11:00,"Alphabet Stock Has Further to Run, Analyst Says. Share Are Falling Anyway.",GOOGL,Bing RSS,negative,-0.9681496024131775
+2026-04-20 08:11:00,"Alphabet Stock Has Further to Run, Analyst Says. Share Are Falling Anyway.",GOOGL,Bing RSS,negative,-0.9681496024131776
 2026-04-23 15:06:18,UBS raises Amazon stock price target to $304 on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
 2026-04-20 13:08:40,KeyBanc raises Amazon stock price target on cloud growth momentum - Investing.com,AMZN,Google RSS,neutral,0.0
 2026-04-20 12:22:22,Wall Street sets Amazon stock price target ahead of April 29 earnings - Finbold,AMZN,Google RSS,neutral,0.0
@@ -24,25 +24,27 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-23 20:17:00,"Prediction: The Nasdaq Could Soar to 30,000 by 2027. These Are the Best Artificial Intelligence (AI) Growth Stocks to Own Until Then. - The Motley Fool",NVDA,Google RSS,neutral,0.0
 2026-04-21 23:07:00,AI Chip Champ Nvidia Leads A Dozen Onto Today's Best Growth Stock Lists - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
 2026-04-23 07:48:04,Cliftonlarsonallen Wealth Advisors LLC Has $12.18 Million Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,neutral,0.0
-2026-04-23 13:32:40,Rising Nvidia Style? Top Investor Sees Sharp Growth for Micron Stock - TipRanks,NVDA,Google RSS,positive,0.9358533024787903
+2026-04-23 13:32:40,Rising Nvidia Style? Top Investor Sees Sharp Growth for Micron Stock - TipRanks,NVDA,Google RSS,positive,0.9358533024787904
 2026-04-21 19:01:00,"Dow Jones AI Giant Nvidia, Sterling, Viking In Or Near Buy Zones - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
 2026-04-23 20:21:00,"Meet the Unstoppable BlackRock ETF Obliterating the S&P 500, the Nasdaq-100, and the Dow Jones Right Now",NVDA,Yahoo RSS,neutral,0.0
-2026-04-22 22:57:00,Tesla earnings recap: Company signals 'rebound of demand' and big capex spending increase - Business Insider,TSLA,Google RSS,positive,0.9513247013092041
+2026-04-22 22:57:00,Tesla earnings recap: Company signals 'rebound of demand' and big capex spending increase - Business Insider,TSLA,Google RSS,positive,0.951324701309204
 2026-04-24 01:11:00,Tesla’s TSLA stock jumps 5% on earnings beat - Chicago Star Media,TSLA,Google RSS,positive,0.8708206415176392
 2026-04-23 18:36:00,Stocks retreat from record highs as Tesla weighs on Wall Street and oil jumps on Iran uncertainty - Fortune,TSLA,Google RSS,negative,-0.9427534341812134
 2026-04-23 14:06:04,Cantor Fitzgerald reiterates Tesla stock Overweight on strong quarter - Investing.com,TSLA,Google RSS,negative,-0.6764784455299377
 2026-04-23 09:33:15,"Tesla stock heads for another red day: Munster backs $25B capex push, retail stays bullish - MSN",TSLA,Google RSS,positive,0.658382773399353
 2026-04-22 21:15:00,'Fast Money' traders react to Tesla's stock popping despite a mixed quarter - CNBC,TSLA,Google RSS,neutral,0.0
-2026-04-23 20:51:30,"Dow Jones futures: Stocks fall on Iran, ServiceNow, Tesla; Intel soars late - MSN",TSLA,Google RSS,negative,-0.9575924873352051
+2026-04-23 20:51:30,"Dow Jones futures: Stocks fall on Iran, ServiceNow, Tesla; Intel soars late - MSN",TSLA,Google RSS,negative,-0.9575924873352052
 2026-04-22 09:16:00,Tesla's stock rebounds ahead of earnings call from early 2026 slide,TSLA,Bing RSS,negative,-0.6236221790313721
-2026-04-23 21:30:47,Meta stock slides on report of memo announcing 10% job cuts - MSN,META,Google RSS,negative,-0.9410568475723267
+2026-04-23 21:30:47,Meta stock slides on report of memo announcing 10% job cuts - MSN,META,Google RSS,negative,-0.9410568475723268
 2026-04-21 12:47:21,"Meta Platforms, Inc. $META Stock Position Raised by U.S. Capital Wealth Advisors LLC - MarketBeat",META,Google RSS,neutral,0.0
 2026-04-21 09:08:55,"Meta Platforms, Inc. $META Shares Sold by Hardman Johnston Global Advisors LLC - MarketBeat",META,Google RSS,neutral,0.0
 2026-04-20 18:44:18,Is Meta Platforms (META) stock showing bullish signals today (Institutional Selling) 2026-04-20 - Price Target - Cổng thông tin điện tử tỉnh Tây Ninh,META,Google RSS,neutral,0.0
 2026-04-23 11:28:04,Netflix unveils additional $25B share buyback after stock slides on weak outlook - Anadolu Ajansı,NFLX,Google RSS,negative,-0.8996292948722839
 2026-04-20 18:43:00,"Why Is Netflix Stock Falling, and is it a Generational Buying Opportunity? - The Motley Fool",NFLX,Google RSS,negative,-0.7944538593292236
-2026-04-23 13:46:05,Nasdaq Composite Succumbs to Selling Pressure amid Netflix and Tesla Tug-of-War,NFLX,Yahoo RSS,negative,-0.9665578603744507
-2026-04-22 19:46:42,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
+2026-04-23 13:46:05,Nasdaq Composite Succumbs to Selling Pressure amid Netflix and Tesla Tug-of-War,NFLX,Yahoo RSS,negative,-0.9665578603744508
+2026-04-22 19:46:42,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.935252010822296
 2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",META,CNBC Finance,neutral,0.0
 2026-04-17 18:57:14,"Stocks making the biggest moves midday: Royal Caribbean, Exxon Mobil, Critical Metals, Netflix & more",NFLX,CNBC Finance,neutral,0.0
 2026-04-24 00:01:00,Cheap stock options suggest a big post-earnings swing next week for Meta and other tech titans,META,MarketWatch Top,positive,0.9112205505371094
+2026-04-23 20:03:00,Why Tesla Stock Is Falling - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
+2026-04-21 11:29:05,Netflix Drops on Weak Guidance Despite Strong Q1 Results - TradingView,NFLX,Google RSS,negative,-0.9660382866859436
