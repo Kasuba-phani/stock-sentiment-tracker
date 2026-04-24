@@ -49,3 +49,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-23 20:03:00,Why Tesla Stock Is Falling - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
 2026-04-21 11:29:05,Netflix Drops on Weak Guidance Despite Strong Q1 Results - TradingView,NFLX,Google RSS,negative,-0.9660382866859436
 2026-04-24 08:45:00,The Iran War May End Soon. The Damage to the Artificial Intelligence (AI) Chip Supply Chain Has Already Been Done.,NVDA,Yahoo RSS,negative,-0.7709760069847107
+2026-04-21 19:00:00,"NVIDIA Sparks April Rally in 2 Quantum Stocks, 40%+ Upside Still Left - TradingView",NVDA,Google RSS,positive,0.8483741283416748
+2026-04-23 13:32:00,Tesla stock drops after earnings beat. Why the market is losing patience with Elon Musk.,TSLA,Bing RSS,negative,-0.9333653450012207
