@@ -52,3 +52,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-23 14:06:04,Cantor Fitzgerald reiterates Tesla stock Overweight on strong quarter - Investing.com,TSLA,Google RSS,negative,-0.6764784455299377
 2026-04-25 07:07:43,"Investor Focus: Top FTSE 100 Dividend Stocks, UK Inflation Rises, Apple, Amazon, Microsoft Earnings Week - Morningstar",AAPL,Google RSS,neutral,0.0
 2026-04-25 07:07:43,"Investor Focus: Top FTSE 100 Dividend Stocks, UK Inflation Rises, Apple, Amazon, Microsoft Earnings Week - Morningstar",AMZN,Google RSS,neutral,0.0
+2026-04-25 07:07:43,"Investor Focus: Top FTSE 100 Dividend Stocks, UK Inflation Rises, Apple, Amazon, Microsoft Earnings Week - Morningstar",MSFT,Google RSS,neutral,0.0
+2026-04-24 17:55:41,"Daily summary: AI optimism, Nvidia stock surge & second round of US - Iran talks drive optimism on Wall Street - XTB",NVDA,Google RSS,positive,0.8342704176902771
+2026-04-24 18:06:35,"Intel's stock has best day since 1987, soaring 24% as chipmaker shows signs of a turnaround - CNBC",NVDA,Google RSS,positive,0.9236530661582947
+2026-04-25 10:35:00,"2 Dividend Stocks Worth Buying More Of, Even At Today's Prices",NVDA,Yahoo RSS,neutral,0.0
+2026-04-23 13:32:00,Tesla stock drops after earnings beat. Why the market is losing patience with Elon Musk.,TSLA,Bing RSS,negative,-0.9333653450012207
