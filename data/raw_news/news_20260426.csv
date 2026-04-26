@@ -78,3 +78,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-25 07:07:43,"Investor Focus: Top FTSE 100 Dividend Stocks, UK Inflation Rises, Apple, Amazon, Microsoft Earnings Week - Morningstar Canada",AAPL,Google RSS,neutral,0.0
 2026-04-25 07:07:43,"Investor Focus: Top FTSE 100 Dividend Stocks, UK Inflation Rises, Apple, Amazon, Microsoft Earnings Week - Morningstar Canada",AMZN,Google RSS,neutral,0.0
 2026-04-25 07:07:43,"Investor Focus: Top FTSE 100 Dividend Stocks, UK Inflation Rises, Apple, Amazon, Microsoft Earnings Week - Morningstar Canada",MSFT,Google RSS,neutral,0.0
+2026-04-26 21:00:00,"Wall Street’s Super Bowl Wednesday: Alphabet, Amazon, Microsoft and Meta report along with Powell’s last Fed meeting - MarketWatch",GOOGL,Google RSS,neutral,0.0
+2026-04-26 21:00:00,"Wall Street’s Super Bowl Wednesday: Alphabet, Amazon, Microsoft and Meta report along with Powell’s last Fed meeting",GOOGL,MarketWatch Top,neutral,0.0
+2026-04-26 21:00:00,"Wall Street’s Super Bowl Wednesday: Alphabet, Amazon, Microsoft and Meta report along with Powell’s last Fed meeting",AMZN,MarketWatch Top,neutral,0.0
+2026-04-26 21:00:00,"Wall Street’s Super Bowl Wednesday: Alphabet, Amazon, Microsoft and Meta report along with Powell’s last Fed meeting",MSFT,MarketWatch Top,neutral,0.0
+2026-04-26 21:00:00,"Wall Street’s Super Bowl Wednesday: Alphabet, Amazon, Microsoft and Meta report along with Powell’s last Fed meeting",META,MarketWatch Top,neutral,0.0
