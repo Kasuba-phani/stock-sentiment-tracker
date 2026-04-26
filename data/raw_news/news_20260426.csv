@@ -75,3 +75,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-22 21:15:00,'Fast Money' traders react to Tesla's stock popping despite a mixed quarter - CNBC,TSLA,Google RSS,neutral,0.0
 2026-04-26 17:28:00,"The Week Ahead: Stocks Eye Fed, PCE and Microsoft, Apple, Amazon Earnings - FXEmpire",AAPL,Google RSS,neutral,0.0
 2026-04-23 12:37:53,Stifel reiterates Tesla stock rating citing solid quarterly results - Investing.com,TSLA,Google RSS,neutral,0.0
+2026-04-25 07:07:43,"Investor Focus: Top FTSE 100 Dividend Stocks, UK Inflation Rises, Apple, Amazon, Microsoft Earnings Week - Morningstar Canada",AAPL,Google RSS,neutral,0.0
+2026-04-25 07:07:43,"Investor Focus: Top FTSE 100 Dividend Stocks, UK Inflation Rises, Apple, Amazon, Microsoft Earnings Week - Morningstar Canada",AMZN,Google RSS,neutral,0.0
+2026-04-25 07:07:43,"Investor Focus: Top FTSE 100 Dividend Stocks, UK Inflation Rises, Apple, Amazon, Microsoft Earnings Week - Morningstar Canada",MSFT,Google RSS,neutral,0.0
