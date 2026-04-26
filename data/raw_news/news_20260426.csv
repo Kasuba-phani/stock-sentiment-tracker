@@ -1,0 +1,46 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-04-25 07:07:43,"Investor Focus: Top FTSE 100 Dividend Stocks, UK Inflation Rises, Apple, Amazon, Microsoft Earnings Week - Morningstar",AAPL,Google RSS,neutral,0.0
+2026-04-24 23:00:00,"Elon Musk vs. Sam Altman, Mag 7 earnings, Fed meeting: What to Watch",AAPL,Yahoo RSS,neutral,0.0
+2026-04-23 13:30:59,"‘Load Up Before Earnings,’ Says Top Investor About Alphabet Stock - TipRanks",GOOGL,Google RSS,neutral,0.0
+2026-04-20 15:11:00,"Alphabet Stock Has Further to Run, Analyst Says. Share Are Falling Anyway. - Barron's",GOOGL,Google RSS,negative,-0.9278192520141602
+2026-04-22 13:53:19,BMO raises Alphabet stock price target on AI leadership and cloud growth - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-04-25 07:07:43,"Investor Focus: Top FTSE 100 Dividend Stocks, UK Inflation Rises, Apple, Amazon, Microsoft Earnings Week - Morningstar",AMZN,Google RSS,neutral,0.0
+2026-04-23 15:06:18,UBS raises Amazon stock price target to $304 on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-04-24 18:11:02,Amazon reports earnings on Wednesday—here's how much the stock is expected to move - MSN,AMZN,Google RSS,neutral,0.0
+2026-04-24 17:38:17,“Demand Would Not Be Strong Enough…” Microsoft Stock (NASDAQ:MSFT) Jumps While Pulling Plug on Carbon Removal Industry - TipRanks,MSFT,Google RSS,negative,-0.5403395295143127
+2026-04-22 12:00:00,Microsoft Higher Ahead Of Magnificent Seven Earnings; Is Microsoft A Buy Now? - Investor's Business Daily,MSFT,Google RSS,positive,0.6000219583511353
+2026-04-24 21:16:28,Home Page - Microsoft Investor Relations - Microsoft,MSFT,Google RSS,neutral,0.0
+2026-04-25 12:15:00,Should You Buy Microsoft Stock Before the Huge Investor Update? - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-04-23 15:03:00,Morgan Stanley resets Microsoft stock forecast ahead of earnings - thestreet.com,MSFT,Google RSS,neutral,0.0
+2026-04-23 11:52:49,Guggenheim reiterates Microsoft stock rating ahead of earnings - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-04-21 13:24:41,Bank of America resets Microsoft stock forecast ahead of earnings - thestreet.com,MSFT,Google RSS,neutral,0.0
+2026-04-25 21:15:00,The Best Artificial Intelligence (AI) Growth Stock on the Nasdaq That Morningstar Says Is Still Undervalued - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-04-23 14:11:36,Microsoft stock price forecast: $410 support in focus as MSFT drops 2.47% - Traders Union,MSFT,Google RSS,negative,-0.9454631805419922
+2026-04-24 22:14:32,Big Short Investor Michael Burry Opens New Position in Microsoft Stock (MSFT) - TipRanks,MSFT,Google RSS,neutral,0.0
+2026-04-25 07:07:43,"Investor Focus: Top FTSE 100 Dividend Stocks, UK Inflation Rises, Apple, Amazon, Microsoft Earnings Week - Morningstar",MSFT,Google RSS,neutral,0.0
+2026-04-20 11:46:00,Why Wall Street Loves Microsoft Stock Despite It Falling 23% - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-04-25 01:02:02,Stronger technical forecast for Microsoft stock price after Friday trading - StockInvest.us,MSFT,Google RSS,positive,0.8051148653030396
+2026-04-24 07:00:00,Should You Buy Microsoft Stock Before the Huge Investor Update? - The Globe and Mail,MSFT,Google RSS,neutral,0.0
+2026-04-25 20:35:00,The Best Artificial Intelligence (AI) Growth Stock on the Nasdaq That Morningstar Says Is Still Undervalued,MSFT,Yahoo RSS,positive,0.6085361242294312
+2026-04-24 23:00:00,"Elon Musk vs. Sam Altman, Mag 7 earnings, Fed meeting: What to Watch",MSFT,Yahoo RSS,neutral,0.0
+2026-04-25 14:09:52,NVIDIA Stock Forecast: 119% Upside as AI Chip Demand Stays Strong - TIKR.com,NVDA,Google RSS,positive,0.5676484704017639
+2026-04-24 16:13:33,Overbought signals spur reversal concerns for Nvidia stock after rapid gains - Traders Union,NVDA,Google RSS,negative,-0.8221004009246826
+2026-04-23 20:17:00,"Prediction: The Nasdaq Could Soar to 30,000 by 2027. These Are the Best Artificial Intelligence (AI) Growth Stocks to Own Until Then. - The Motley Fool",NVDA,Google RSS,neutral,0.0
+2026-04-24 17:55:41,"Daily summary: AI optimism, Nvidia stock surge & second round of US - Iran talks drive optimism on Wall Street - XTB.com",NVDA,Google RSS,neutral,0.0
+2026-04-21 23:07:00,AI Chip Champ Nvidia Leads A Dozen Onto Today's Best Growth Stock Lists - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
+2026-04-24 18:06:35,"Intel's stock has best day since 1987, soaring 24% as chipmaker shows signs of a turnaround - CNBC",NVDA,Google RSS,positive,0.9236530661582947
+2026-04-24 09:10:00,"Nvidia hits $5 trillion market cap again as NVDA stock jumps over 5% in a single session today— can surging AI demand justify this breakout, or is valuation risk quietly ...",NVDA,Bing RSS,neutral,0.0
+2026-04-25 20:35:00,The Best Artificial Intelligence (AI) Growth Stock on the Nasdaq That Morningstar Says Is Still Undervalued,NVDA,Yahoo RSS,positive,0.6085361242294312
+2026-04-22 22:57:00,Tesla earnings recap: Company signals 'rebound of demand' and big capex spending increase - Business Insider,TSLA,Google RSS,positive,0.9513248205184937
+2026-04-25 22:59:17,"Why Is Tesla Stock Falling, and is it a Buying Opportunity? - The Motley Fool",TSLA,Google RSS,negative,-0.7679590582847595
+2026-04-23 20:03:00,Why Tesla Stock Is Falling - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
+2026-04-25 23:52:03,"Why Is Tesla Stock Falling, and is it a Buying Opportunity? - The Globe and Mail",TSLA,Google RSS,negative,-0.907316267490387
+2026-04-24 20:53:11,Tesla stock rises after upgrade but heads for weekly loss. AI is key for a rebound - MSN,TSLA,Google RSS,negative,-0.7666323184967041
+2026-04-24 14:40:48,Tesla stock jittery after earnings: why investors remain cautious - TradingView,TSLA,Google RSS,negative,-0.6543328762054443
+2026-04-24 17:27:49,ETFs to Watch as Tesla Shares Slump Despite Q1 Earnings Beat - Zacks Investment Research,TSLA,Google RSS,negative,-0.955429196357727
+2026-04-23 14:06:04,Cantor Fitzgerald reiterates Tesla stock Overweight on strong quarter - Investing.com,TSLA,Google RSS,negative,-0.6764794588088989
+2026-04-25 13:15:01,"Meta Platforms Will Close 6,000 Open Positions in Addition to Major Layoffs as META Stock Investors Worry That AI Spend Is Just Too Much - Barchart.com",META,Google RSS,negative,-0.958591103553772
+2026-04-23 19:42:00,Opinion: Cheap stock options suggest a big post-earnings swing next week for Meta and other tech titans - MarketWatch,META,Google RSS,positive,0.9260187149047852
+2026-04-25 13:15:01,"Meta Platforms Will Close 6,000 Open Positions in Addition to Major Layoffs as META Stock Investors Worry That AI Spend Is Just Too Much",META,Yahoo RSS,negative,-0.9716771245002747
+2026-04-24 23:00:00,"Elon Musk vs. Sam Altman, Mag 7 earnings, Fed meeting: What to Watch",META,Yahoo RSS,neutral,0.0
+2026-04-23 13:46:05,Nasdaq Composite Succumbs to Selling Pressure amid Netflix and Tesla Tug-of-War,NFLX,Yahoo RSS,negative,-0.9665578603744507
