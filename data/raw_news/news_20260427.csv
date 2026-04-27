@@ -129,3 +129,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-27 21:02:51,"Dow Jones Futures: Nasdaq, S&P 500 Set More Record Highs; Micron, Nvidia, Sandisk, Alphabet Are Big Winners",NVDA,Yahoo RSS,positive,0.6048603057861328
 2026-04-22 21:15:00,'Fast Money' traders react to Tesla's stock popping despite a mixed quarter - CNBC,TSLA,Google RSS,neutral,0.0
 2026-04-27 21:54:39,Amazon Is About to Report Q1 Earnings. Do Options Traders Expect a Major Move in AMZN Stock?,META,Yahoo RSS,neutral,0.0
+2026-04-27 16:52:50,"Google stock hits all-time high, reaching $350.16 USD By Investing.com - Investing.com Nigeria",GOOGL,Google RSS,positive,0.7690986394882202
+2026-04-27 15:51:00,"Dow Jones futures: Nasdaq, S&P 500 set more record highs; Micron, Nvidia, Sandisk, Alphabet are big winners",GOOGL,Bing RSS,positive,0.6048603057861328
+2026-04-27 15:13:00,Amazon Is About to Report Q1 Earnings. Do Options Traders Expect a Major Move in AMZN Stock?,AMZN,Bing RSS,neutral,0.0
+2026-04-27 21:13:29,Stocks inch to new records as Nvidia strength overcomes consumer weakness - msn.com,NVDA,Google RSS,neutral,0.0
+2026-04-27 22:00:18,Intel Vs. Nvidia Stock: Which Semiconductor Is Up More Since They Swapped Places In Dow Jones Industrial Average? - Benzinga,NVDA,Google RSS,positive,0.5491539835929871
