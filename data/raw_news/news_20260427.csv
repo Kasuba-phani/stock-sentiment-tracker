@@ -118,3 +118,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-27 13:55:53,Stocks Pressured by Higher Oil Prices,TSLA,Yahoo RSS,negative,-0.866594135761261
 2026-04-27 19:45:43,"S&P 500 Companies' Quarterly Profit Growth Eases, But Remains Well Above Expectations, Oppenheimer Says",META,Yahoo RSS,positive,0.8635240793228149
 2026-04-27 18:35:00,Big Tech faces key earnings test on AI spending and cloud growth,META,Yahoo RSS,positive,0.5423903465270996
+2026-04-27 21:02:00,"Dow Jones Futures: Nasdaq, S&P 500 Set More Record Highs; Micron, Nvidia, Sandisk, Alphabet Are Big Winners - Investor's Business Daily",GOOGL,Google RSS,neutral,0.0
+2026-04-24 21:08:47,Evercore ISI reiterates Alphabet stock rating on cloud demand - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-04-27 14:34:00,"Alphabet earnings on tap with Gemini, AI spending updates in focus with stock near record high",GOOGL,Bing RSS,positive,0.915263295173645
+2026-04-27 21:02:51,"Dow Jones Futures: Nasdaq, S&P 500 Set More Record Highs; Micron, Nvidia, Sandisk, Alphabet Are Big Winners",GOOGL,Yahoo RSS,positive,0.6048603057861328
+2026-04-27 14:56:00,Amazon stock hits record ahead of Q1 earnings on AI momentum,AMZN,Bing RSS,positive,0.7326627969741821
+2026-04-27 21:22:44,"Alphabet earnings on tap with Gemini, AI spending updates in focus with stock near record high",AMZN,Yahoo RSS,positive,0.915263295173645
+2026-04-27 21:22:44,"Alphabet earnings on tap with Gemini, AI spending updates in focus with stock near record high",MSFT,Yahoo RSS,positive,0.915263295173645
+2026-04-27 21:02:51,"Dow Jones Futures: Nasdaq, S&P 500 Set More Record Highs; Micron, Nvidia, Sandisk, Alphabet Are Big Winners",MSFT,Yahoo RSS,positive,0.6048603057861328
+2026-04-27 21:02:51,"Dow Jones Futures: Nasdaq, S&P 500 Set More Record Highs; Micron, Nvidia, Sandisk, Alphabet Are Big Winners",NVDA,Yahoo RSS,positive,0.6048603057861328
+2026-04-22 21:15:00,'Fast Money' traders react to Tesla's stock popping despite a mixed quarter - CNBC,TSLA,Google RSS,neutral,0.0
+2026-04-27 21:54:39,Amazon Is About to Report Q1 Earnings. Do Options Traders Expect a Major Move in AMZN Stock?,META,Yahoo RSS,neutral,0.0
