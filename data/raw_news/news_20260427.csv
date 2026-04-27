@@ -98,3 +98,23 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-27 17:39:47,AMD pulls back after downgrade as rally cools,NVDA,Yahoo RSS,positive,0.8469642996788025
 2026-04-27 18:06:00,"Why individual investors are cautious ahead of earnings for Microsoft, Amazon and the rest of the ‘Magnificent Seven’",AMZN,MarketWatch Top,neutral,0.0
 2026-04-27 18:06:00,"Why individual investors are cautious ahead of earnings for Microsoft, Amazon and the rest of the ‘Magnificent Seven’",MSFT,MarketWatch Top,neutral,0.0
+2026-04-27 19:45:43,"S&P 500 Companies' Quarterly Profit Growth Eases, But Remains Well Above Expectations, Oppenheimer Says",AAPL,Yahoo RSS,positive,0.8635240793228149
+2026-04-27 19:18:43,US stocks: Will Mag 7 earnings be make-or-break for market rally?,AAPL,Yahoo RSS,neutral,0.0
+2026-04-27 18:35:00,Big Tech faces key earnings test on AI spending and cloud growth,AAPL,Yahoo RSS,positive,0.5423903465270996
+2026-04-27 19:18:43,US stocks: Will Mag 7 earnings be make-or-break for market rally?,GOOGL,Yahoo RSS,neutral,0.0
+2026-04-27 18:35:00,Big Tech faces key earnings test on AI spending and cloud growth,GOOGL,Yahoo RSS,positive,0.5423903465270996
+2026-04-27 11:31:12,The bullish signals ahead of this week's Mag-7 earnings - CNBC,AMZN,Google RSS,neutral,0.0
+2026-04-27 18:50:48,Amazon Just Signed a Major Deal to Supply Its In-House Chips to Meta Platforms. AMZN Stock Now Has Multiple AI Chip Catalysts. - Barchart.com,AMZN,Google RSS,neutral,0.0
+2026-04-27 19:45:43,"S&P 500 Companies' Quarterly Profit Growth Eases, But Remains Well Above Expectations, Oppenheimer Says",AMZN,Yahoo RSS,positive,0.8635240793228149
+2026-04-27 19:18:43,US stocks: Will Mag 7 earnings be make-or-break for market rally?,AMZN,Yahoo RSS,neutral,0.0
+2026-04-27 18:35:00,Big Tech faces key earnings test on AI spending and cloud growth,AMZN,Yahoo RSS,positive,0.5423903465270996
+2026-04-27 19:53:08,"Microsoft earnings: What Wall Street is watching around AI, capex",MSFT,Yahoo RSS,neutral,0.0
+2026-04-27 19:45:43,"S&P 500 Companies' Quarterly Profit Growth Eases, But Remains Well Above Expectations, Oppenheimer Says",MSFT,Yahoo RSS,positive,0.8635240793228149
+2026-04-27 18:35:00,Big Tech faces key earnings test on AI spending and cloud growth,MSFT,Yahoo RSS,positive,0.5423903465270996
+2026-04-27 19:33:00,"With Intel, AMD, Nvidia, and more rising sharply last week, have chip stocks become overvalued? - MSN",NVDA,Google RSS,neutral,0.0
+2026-04-27 19:08:00,"Stock Market Today: Dow Dips But S&P 500, Nvidia Gain; AI Stocks Diverge Ahead Of Earnings (Live Coverage) - Investor's Business Daily",NVDA,Google RSS,negative,-0.8271889686584473
+2026-04-27 19:18:43,US stocks: Will Mag 7 earnings be make-or-break for market rally?,NVDA,Yahoo RSS,neutral,0.0
+2026-04-27 18:35:00,Big Tech faces key earnings test on AI spending and cloud growth,NVDA,Yahoo RSS,positive,0.5423903465270996
+2026-04-27 13:55:53,Stocks Pressured by Higher Oil Prices,TSLA,Yahoo RSS,negative,-0.866594135761261
+2026-04-27 19:45:43,"S&P 500 Companies' Quarterly Profit Growth Eases, But Remains Well Above Expectations, Oppenheimer Says",META,Yahoo RSS,positive,0.8635240793228149
+2026-04-27 18:35:00,Big Tech faces key earnings test on AI spending and cloud growth,META,Yahoo RSS,positive,0.5423903465270996
