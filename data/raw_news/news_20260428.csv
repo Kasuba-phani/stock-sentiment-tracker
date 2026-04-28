@@ -71,9 +71,29 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-28 08:20:40,META Platforms (NASDAQ:META) Screens as Strong Growth Stock with Bull Flag Technical Setup - ChartMill,META,Google RSS,positive,0.7995240092277527
 2026-04-28 10:00:21,Big Tech investors to gauge payoff as AI spending set to hit $600 billion,GOOGL,Yahoo RSS,positive,0.7276740670204163
 2026-04-27 18:28:00,Amazon Just Signed a Major Deal to Supply Its In-House Chips to Meta Platforms. AMZN Stock Now Has Multiple AI Chip Catalysts.,AMZN,Bing RSS,neutral,0.0
-2026-04-28 11:27:00,Electric Vans Business Research Report 2026: Market to Reach $34.9 Billion by 2030 - Global Trends Toward Sustainable Logistics and Circular Supply Chains Sustain Long-Term Market Momentum,AMZN,Yahoo RSS,positive,0.9476974010467529
+2026-04-28 11:27:00,Electric Vans Business Research Report 2026: Market to Reach $34.9 Billion by 2030 - Global Trends Toward Sustainable Logistics and Circular Supply Chains Sustain Long-Term Market Momentum,AMZN,Yahoo RSS,positive,0.9476974010467528
 2026-04-28 10:00:21,Big Tech investors to gauge payoff as AI spending set to hit $600 billion,AMZN,Yahoo RSS,positive,0.7276740670204163
 2026-04-23 11:52:49,Guggenheim reiterates Microsoft stock rating ahead of earnings - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-04-28 10:00:21,Big Tech investors to gauge payoff as AI spending set to hit $600 billion,MSFT,Yahoo RSS,positive,0.7276740670204163
-2026-04-28 04:35:00,Tesla stock is stuck in neutral. Good news from NHTSA isn’t helping.,TSLA,Bing RSS,negative,-0.9275984764099121
+2026-04-28 04:35:00,Tesla stock is stuck in neutral. Good news from NHTSA isn’t helping.,TSLA,Bing RSS,negative,-0.927598476409912
 2026-04-28 10:00:21,Big Tech investors to gauge payoff as AI spending set to hit $600 billion,META,Yahoo RSS,positive,0.7276740670204163
+2026-04-28 13:24:41,UBS raises Apple price target ahead of earnings on iPhone share gains - Investing.com,AAPL,Google RSS,neutral,0.0
+2026-04-28 13:19:00,Apple Has The Supply Chain Edge – So Why Is UBS Still Cautious On Long-Term Picture? - Stocktwits,AAPL,Google RSS,neutral,0.0
+2026-04-28 13:51:50,UBS raises Apple price target ahead of earnings on iPhone share gains,AAPL,Yahoo RSS,neutral,0.0
+2026-04-28 13:42:26,"The Nasdaq Composite Jolted by OpenAI Stumble, Rising Oil Even as Tech Earnings Ramp Up",AAPL,Yahoo RSS,positive,0.5345880389213562
+2026-04-26 21:00:00,"Wall Street’s Super Bowl Wednesday: Alphabet, Amazon, Microsoft and Meta report along with Powell’s last Fed meeting - MarketWatch",GOOGL,Google RSS,neutral,0.0
+2026-04-28 13:42:26,"The Nasdaq Composite Jolted by OpenAI Stumble, Rising Oil Even as Tech Earnings Ramp Up",GOOGL,Yahoo RSS,positive,0.5345880389213562
+2026-04-27 18:50:48,Amazon Just Signed a Major Deal to Supply Its In-House Chips to Meta Platforms. AMZN Stock Now Has Multiple AI Chip Catalysts. - Barchart,AMZN,Google RSS,neutral,0.0
+2026-04-28 13:42:26,"The Nasdaq Composite Jolted by OpenAI Stumble, Rising Oil Even as Tech Earnings Ramp Up",AMZN,Yahoo RSS,positive,0.5345880389213562
+2026-04-28 11:08:00,UPS Earnings Beat Estimates. Why the Stock Is Falling Anyway.,AMZN,Yahoo RSS,negative,-0.4896409511566162
+2026-04-28 14:08:51,Benchmark reiterates Buy rating on Microsoft stock ahead of earnings - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-04-28 14:06:19,Microsoft stock trades in upper recent range as RSI signals a bearish tone: weekly report - Traders Union,MSFT,Google RSS,negative,-0.4690907895565033
+2026-04-28 13:42:26,"The Nasdaq Composite Jolted by OpenAI Stumble, Rising Oil Even as Tech Earnings Ramp Up",MSFT,Yahoo RSS,positive,0.5345880389213562
+2026-04-28 14:21:17,Nvidia stock slides as OpenAI fears spark selloff in chip stocks - Invezz,NVDA,Google RSS,negative,-0.9336714148521423
+2026-04-28 13:48:37,OpenAI Revenue Report Stings AI Stocks. Why Oracle Stock Is Falling Sharply.,NVDA,Yahoo RSS,negative,-0.9685298800468445
+2026-04-28 13:19:02,"U.S. stocks seen opening lower after report on OpenAI raises concerns: Dow Jones, S&P, Nasdaq, Wall Street Futures",NVDA,Yahoo RSS,negative,-0.9531041383743286
+2026-04-28 13:42:26,"The Nasdaq Composite Jolted by OpenAI Stumble, Rising Oil Even as Tech Earnings Ramp Up",META,Yahoo RSS,positive,0.5345880389213562
+2026-04-28 13:39:00,"Wall Street’s Super Bowl Wednesday: Alphabet, Amazon, Microsoft and Meta report along with Powell’s last Fed meeting",GOOGL,MarketWatch Top,neutral,0.0
+2026-04-28 13:39:00,"Wall Street’s Super Bowl Wednesday: Alphabet, Amazon, Microsoft and Meta report along with Powell’s last Fed meeting",AMZN,MarketWatch Top,neutral,0.0
+2026-04-28 13:39:00,"Wall Street’s Super Bowl Wednesday: Alphabet, Amazon, Microsoft and Meta report along with Powell’s last Fed meeting",MSFT,MarketWatch Top,neutral,0.0
+2026-04-28 13:39:00,"Wall Street’s Super Bowl Wednesday: Alphabet, Amazon, Microsoft and Meta report along with Powell’s last Fed meeting",META,MarketWatch Top,neutral,0.0
