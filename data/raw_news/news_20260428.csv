@@ -69,3 +69,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-27 16:53:08,"Google stock hits all-time high, reaching $350.16 USD - Investing.com",GOOGL,Google RSS,neutral,0.0
 2026-04-28 01:35:35,"Tech stocks hit bear territory as US-Iran tensions rise, Nvidia remains strong - Crypto Briefing",NVDA,Google RSS,positive,0.5395232439041138
 2026-04-28 08:20:40,META Platforms (NASDAQ:META) Screens as Strong Growth Stock with Bull Flag Technical Setup - ChartMill,META,Google RSS,positive,0.7995240092277527
+2026-04-28 10:00:21,Big Tech investors to gauge payoff as AI spending set to hit $600 billion,GOOGL,Yahoo RSS,positive,0.7276740670204163
+2026-04-27 18:28:00,Amazon Just Signed a Major Deal to Supply Its In-House Chips to Meta Platforms. AMZN Stock Now Has Multiple AI Chip Catalysts.,AMZN,Bing RSS,neutral,0.0
+2026-04-28 11:27:00,Electric Vans Business Research Report 2026: Market to Reach $34.9 Billion by 2030 - Global Trends Toward Sustainable Logistics and Circular Supply Chains Sustain Long-Term Market Momentum,AMZN,Yahoo RSS,positive,0.9476974010467529
+2026-04-28 10:00:21,Big Tech investors to gauge payoff as AI spending set to hit $600 billion,AMZN,Yahoo RSS,positive,0.7276740670204163
+2026-04-23 11:52:49,Guggenheim reiterates Microsoft stock rating ahead of earnings - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-04-28 10:00:21,Big Tech investors to gauge payoff as AI spending set to hit $600 billion,MSFT,Yahoo RSS,positive,0.7276740670204163
+2026-04-28 04:35:00,Tesla stock is stuck in neutral. Good news from NHTSA isn’t helping.,TSLA,Bing RSS,negative,-0.9275984764099121
+2026-04-28 10:00:21,Big Tech investors to gauge payoff as AI spending set to hit $600 billion,META,Yahoo RSS,positive,0.7276740670204163
