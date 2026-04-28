@@ -100,10 +100,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-27 12:49:23,Veteran analyst revamps Alphabet stock price target ahead of earnings - TradingView,GOOGL,Google RSS,neutral,0.0
 2026-04-27 21:22:44,"Alphabet earnings on tap with Gemini, AI spending updates in focus with stock near record high - MSN",GOOGL,Google RSS,positive,0.8786521553993225
 2026-04-28 16:00:53,Can Strong Search and Cloud Growth Drive GOOGL's Q1 Earnings? - Zacks Investment Research,GOOGL,Google RSS,neutral,0.0
-2026-04-28 14:27:00,Will Strong AWS Performance Boost Amazon's Q1 Earnings Report?,AMZN,Yahoo RSS,positive,0.9465009570121765
+2026-04-28 14:27:00,Will Strong AWS Performance Boost Amazon's Q1 Earnings Report?,AMZN,Yahoo RSS,positive,0.9465009570121764
 2026-04-28 15:38:54,"Microsoft (MSFT) Stock Has Been Lagging Big Tech – But a Turnaround May Be Near, Say Analysts - TipRanks",MSFT,Google RSS,positive,0.7711024284362793
 2026-04-28 16:03:00,"Nasdaq retreats as OpenAI report hits Oracle, Nvidia and other AI stocks - Proactive financial news",NVDA,Google RSS,negative,-0.8936792612075806
 2026-04-28 14:49:20,Nvidia stock drops 3.24% as price hovers close to session lows - Traders Union,NVDA,Google RSS,negative,-0.963884174823761
 2026-04-28 14:27:22,Nvidia stock gains as price holds well above key moving averages: weekly outlook - Traders Union,NVDA,Google RSS,positive,0.7894113659858704
 2026-04-28 07:18:44,Nvidia stock slides as OpenAI fears spark selloff in chip stocks,NVDA,Bing RSS,negative,-0.9566072821617126
 2026-04-28 08:12:00,Meta stock gains as analysts double down on 'Strong Buy',META,Bing RSS,negative,-0.8495610356330872
+2026-04-28 17:24:00,Alphabet Flashes Strength As OpenAI Growth Concerns Sink Tech Stocks; Earnings Ahead - Investor's Business Daily,GOOGL,Google RSS,positive,0.5670255422592163
+2026-04-28 17:42:32,Alphabet flashes strength as OpenAI growth concerns sink tech stocks; earnings ahead - MSN,GOOGL,Google RSS,positive,0.6637109518051147
+2026-04-28 11:04:46,Microsoft Will Report Q3 Earnings Tomorrow. Options Traders Expect a 7% Move in MSFT Stock - TipRanks,MSFT,Google RSS,positive,0.8766164779663086
+2026-04-28 18:11:03,Victory Giant Reports 28% Sales Growth As AI PCB Demand Strengthens,NVDA,Yahoo RSS,positive,0.9550158381462097
+2026-04-28 18:05:00,The 2027 COLA Could Be as High as 3.2% -- if Today's Inflation Holds,NVDA,Yahoo RSS,neutral,0.0
+2026-04-28 17:24:14,"OpenAI miss sparks sell-off for Oracle, Nvidia, CoreWeave stocks",NVDA,Yahoo RSS,negative,-0.5506434440612793
+2026-04-28 14:22:17,Tesla shares consolidate as oversold indicators persist on current volatility: weekly report - Traders Union,TSLA,Google RSS,negative,-0.9376120567321777
+2026-04-27 11:31:12,The bullish signals ahead of this week's Mag-7 earnings - CNBC,META,Google RSS,neutral,0.0
