@@ -2,7 +2,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-25 07:07:43,"Investor Focus: Top FTSE 100 Dividend Stocks, UK Inflation Rises, Apple, Amazon, Microsoft Earnings Week - Morningstar Canada",AAPL,Google RSS,neutral,0.0
 2026-04-27 15:47:11,Tech sector volatility: Google's gains overshadow Apple's slide - investingLive,AAPL,Google RSS,neutral,0.0
 2026-04-27 12:44:00,Goldman Sachs resets Apple stock forecast before earnings - thestreet.com,AAPL,Google RSS,neutral,0.0
-2026-04-27 14:36:12,AAPL stock edges lower amid leadership transition and upcoming earnings: weekly analysis - Traders Union,AAPL,Google RSS,negative,-0.9374455809593201
+2026-04-27 14:36:12,AAPL stock edges lower amid leadership transition and upcoming earnings: weekly analysis - Traders Union,AAPL,Google RSS,negative,-0.93744558095932
 2026-04-27 19:45:43,"S&P 500 Companies' Quarterly Profit Growth Eases, But Remains Well Above Expectations, Oppenheimer Says",AAPL,Yahoo RSS,positive,0.8635240793228149
 2026-04-27 19:18:43,US stocks: Will Mag 7 earnings be make-or-break for market rally?,AAPL,Yahoo RSS,neutral,0.0
 2026-04-27 18:35:00,Big Tech faces key earnings test on AI spending and cloud growth,AAPL,Yahoo RSS,positive,0.5423903465270996
@@ -17,7 +17,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-27 13:56:44,Amazon Is About to Report Q1 Earnings. Do Options Traders Expect a Major Move in AMZN Stock? - TipRanks,AMZN,Google RSS,neutral,0.0
 2026-04-25 07:07:43,"Investor Focus: Top FTSE 100 Dividend Stocks, UK Inflation Rises, Apple, Amazon, Microsoft Earnings Week - Morningstar Canada",AMZN,Google RSS,neutral,0.0
 2026-04-27 18:50:48,Amazon Just Signed a Major Deal to Supply Its In-House Chips to Meta Platforms. AMZN Stock Now Has Multiple AI Chip Catalysts. - Barchart.com,AMZN,Google RSS,neutral,0.0
-2026-04-27 09:35:00,Buckle up: JPMorgan warns the stock market is headed for a volatile earnings week - Business Insider,AMZN,Google RSS,negative,-0.9570503830909729
+2026-04-27 09:35:00,Buckle up: JPMorgan warns the stock market is headed for a volatile earnings week - Business Insider,AMZN,Google RSS,negative,-0.9570503830909728
 2026-04-23 15:06:18,UBS raises Amazon stock price target to $304 on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
 2026-04-27 15:13:00,Amazon Is About to Report Q1 Earnings. Do Options Traders Expect a Major Move in AMZN Stock?,AMZN,Bing RSS,neutral,0.0
 2026-04-27 21:22:44,"Alphabet earnings on tap with Gemini, AI spending updates in focus with stock near record high",AMZN,Yahoo RSS,positive,0.915263295173645
@@ -35,7 +35,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-25 21:15:00,The Best Artificial Intelligence (AI) Growth Stock on the Nasdaq That Morningstar Says Is Still Undervalued - The Motley Fool,MSFT,Google RSS,neutral,0.0
 2026-04-28 02:13:56,"Dow Jones Futures: Nasdaq, S&P 500 Set More Record Highs; Micron, Nvidia, Sandisk, Alphabet Are Big Winners",MSFT,Yahoo RSS,positive,0.6048603057861328
 2026-04-27 21:22:44,"Alphabet earnings on tap with Gemini, AI spending updates in focus with stock near record high",MSFT,Yahoo RSS,positive,0.915263295173645
-2026-04-27 22:30:14,Overnight U.S. Stocks | S&P 500 and Nasdaq Reach New Highs; NVIDIA (NVDA.US) Surges 4% to Hit Record High - Moomoo,NVDA,Google RSS,positive,0.9072206020355225
+2026-04-27 22:30:14,Overnight U.S. Stocks | S&P 500 and Nasdaq Reach New Highs; NVIDIA (NVDA.US) Surges 4% to Hit Record High - Moomoo,NVDA,Google RSS,positive,0.9072206020355223
 2026-04-27 16:52:05,Nvidia stock hits new all-time high amid market cap speculation - Crypto Briefing,NVDA,Google RSS,positive,0.5358685255050659
 2026-04-27 21:13:29,Stocks inch to new records as Nvidia strength overcomes consumer weakness - MSN,NVDA,Google RSS,positive,0.8485226035118103
 2026-04-27 22:00:18,Intel Vs. Nvidia Stock: Which Semiconductor Is Up More Since They Swapped Places In Dow Jones Industrial Average? - Benzinga,NVDA,Google RSS,positive,0.5491539835929871
@@ -43,16 +43,24 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-27 19:15:00,"Dow Jones futures: Nasdaq, S&P 500 set more record highs; Micron, Nvidia, SanDisk, Alphabet are big winners",NVDA,Bing RSS,positive,0.6048603057861328
 2026-04-28 02:13:56,"Dow Jones Futures: Nasdaq, S&P 500 Set More Record Highs; Micron, Nvidia, Sandisk, Alphabet Are Big Winners",NVDA,Yahoo RSS,positive,0.6048603057861328
 2026-04-27 23:08:32,How The Himadri Speciality Chemical (BSE:500184) Narrative Is Evolving With AI Supply Chain Hopes,NVDA,Yahoo RSS,neutral,0.0
-2026-04-22 22:57:00,Tesla earnings recap: Company signals 'rebound of demand' and big capex spending increase - Business Insider,TSLA,Google RSS,positive,0.9513247013092041
+2026-04-22 22:57:00,Tesla earnings recap: Company signals 'rebound of demand' and big capex spending increase - Business Insider,TSLA,Google RSS,positive,0.951324701309204
 2026-04-27 13:25:00,Tesla Just Unlocked A Massive Share Pool As Musk Pay Shares Get Registered – Retail Traders Flag Potential Sell Pressure - Stocktwits,TSLA,Google RSS,neutral,0.0
 2026-04-27 11:43:32,Cantor Fitzgerald reiterates Tesla stock Overweight on strong quarter - Investing.com,TSLA,Google RSS,negative,-0.6764784455299377
 2026-04-23 20:03:00,Why Tesla Stock Is Falling - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
 2026-04-25 22:59:17,"Why Is Tesla Stock Falling, and is it a Buying Opportunity? - The Motley Fool",TSLA,Google RSS,negative,-0.7679591178894043
 2026-04-22 21:15:00,'Fast Money' traders react to Tesla's stock popping despite a mixed quarter - CNBC,TSLA,Google RSS,neutral,0.0
-2026-04-27 09:35:00,Buckle up: JPMorgan warns the stock market is headed for a volatile earnings week - Business Insider,META,Google RSS,negative,-0.9570503830909729
-2026-04-25 13:15:01,"Meta Platforms Will Close 6,000 Open Positions in Addition to Major Layoffs as META Stock Investors Worry That AI Spend Is Just Too Much - Barchart.com",META,Google RSS,negative,-0.9585912227630615
+2026-04-27 09:35:00,Buckle up: JPMorgan warns the stock market is headed for a volatile earnings week - Business Insider,META,Google RSS,negative,-0.9570503830909728
+2026-04-25 13:15:01,"Meta Platforms Will Close 6,000 Open Positions in Addition to Major Layoffs as META Stock Investors Worry That AI Spend Is Just Too Much - Barchart.com",META,Google RSS,negative,-0.9585912227630616
 2026-04-27 02:18:12,Meta stock climbs as Pursuit Wealth Management LLC equity purchase boosts sentiment - Traders Union,META,Google RSS,positive,0.8990601897239685
-2026-04-27 02:39:00,Buckle up: JPMorgan warns the stock market is headed for a volatile earnings week,META,Bing RSS,negative,-0.9596676230430603
+2026-04-27 02:39:00,Buckle up: JPMorgan warns the stock market is headed for a volatile earnings week,META,Bing RSS,negative,-0.9596676230430604
 2026-04-27 21:54:39,Amazon Is About to Report Q1 Earnings. Do Options Traders Expect a Major Move in AMZN Stock?,META,Yahoo RSS,neutral,0.0
 2026-04-27 19:45:43,"S&P 500 Companies' Quarterly Profit Growth Eases, But Remains Well Above Expectations, Oppenheimer Says",META,Yahoo RSS,positive,0.8635240793228149
-2026-04-23 13:46:05,Nasdaq Composite Succumbs to Selling Pressure amid Netflix and Tesla Tug-of-War,NFLX,Yahoo RSS,negative,-0.9665578603744507
+2026-04-23 13:46:05,Nasdaq Composite Succumbs to Selling Pressure amid Netflix and Tesla Tug-of-War,NFLX,Yahoo RSS,negative,-0.9665578603744508
+2026-04-27 11:31:12,The bullish signals ahead of this week's Mag-7 earnings - CNBC,GOOGL,Google RSS,neutral,0.0
+2026-04-28 01:51:07,3 reasons to hold Microsoft stock despite 28.6% drop in 6 months - MSN,MSFT,Google RSS,negative,-0.449876070022583
+2026-04-22 12:00:00,Microsoft Higher Ahead Of Magnificent Seven Earnings; Is Microsoft A Buy Now? - Investor's Business Daily,MSFT,Google RSS,positive,0.6000243425369263
+2026-04-28 02:13:00,"Dow Jones Futures: Nasdaq, S&P 500 Set More Record Highs; Micron, Nvidia, Sandisk, Alphabet Are Big Winners - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-04-24 14:40:48,Tesla stock jittery after earnings: why investors remain cautious - TradingView,TSLA,Google RSS,negative,-0.6543337106704712
+2026-04-25 23:52:03,"Why Is Tesla Stock Falling, and is it a Buying Opportunity? - The Globe and Mail",TSLA,Google RSS,negative,-0.9073161482810974
+2026-04-28 04:04:55,"Skyworks Solutions and Universal Display Shares Are Falling, What You Need To Know",META,Yahoo RSS,negative,-0.5183101296424866
+2026-04-28 03:48:55,"Nova, Analog Devices, and Qorvo Shares Are Falling, What You Need To Know",META,Yahoo RSS,negative,-0.5710805654525757
