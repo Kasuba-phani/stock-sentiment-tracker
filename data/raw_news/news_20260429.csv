@@ -92,3 +92,34 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-29 13:16:31,"Fed Decision Looms, Tech Earnings Could Drive Volatile Session: Dow Jones, S&P, Nasdaq, Wall Street Futures",META,Yahoo RSS,negative,-0.5072037577629089
 2026-04-29 12:58:35,"US Equity Futures Largely Flat Pre-Bell as Traders Await Tech Earnings, Fed Rate Decision",META,Yahoo RSS,negative,-0.7453227639198303
 2026-04-29 12:10:06,"US Equity Futures Largely Flat as Traders Await Tech Earnings, Fed Rate Decision",META,Yahoo RSS,negative,-0.780953049659729
+2026-04-29 16:31:05,Apple's Q2 Earnings: Strong iPhone 17 Shipment to Aid Top-Line Growth - Zacks Investment Research,AAPL,Google RSS,positive,0.9335983395576477
+2026-04-29 15:59:35,Qualcomm to report Q2 earnings as smartphone market faces steep declines,AAPL,Yahoo RSS,positive,0.5359708070755005
+2026-04-29 14:54:05,VIX Climbs as Fed Decision and Mega-Cap Earnings Keep Investors on Edge,AAPL,Yahoo RSS,positive,0.695554256439209
+2026-04-29 14:17:29,"Nasdaq Composite Treads Carefully Ahead of Big Tech Bonanza, Fed Decision",AAPL,Yahoo RSS,neutral,0.0
+2026-04-29 16:00:01,"Alphabet first-quarter results likely to show continued growth, boosted by cloud - CNBC",GOOGL,Google RSS,positive,0.946622371673584
+2026-04-29 15:28:29,"Alphabet investors push for safeguards on use of its cloud, AI tech By Reuters - Investing.com",GOOGL,Google RSS,neutral,0.0
+2026-04-29 06:59:00,"Alphabet first-quarter results likely to show continued growth, boosted by cloud",GOOGL,Bing RSS,positive,0.9522730112075806
+2026-04-29 15:59:35,Qualcomm to report Q2 earnings as smartphone market faces steep declines,GOOGL,Yahoo RSS,positive,0.5359708070755005
+2026-04-29 15:23:41,"Alphabet investors push for safeguards on use of its cloud, AI tech",GOOGL,Yahoo RSS,neutral,0.0
+2026-04-29 14:17:29,"Nasdaq Composite Treads Carefully Ahead of Big Tech Bonanza, Fed Decision",GOOGL,Yahoo RSS,neutral,0.0
+2026-04-29 15:59:35,Qualcomm to report Q2 earnings as smartphone market faces steep declines,AMZN,Yahoo RSS,positive,0.5359708070755005
+2026-04-29 14:54:05,VIX Climbs as Fed Decision and Mega-Cap Earnings Keep Investors on Edge,AMZN,Yahoo RSS,positive,0.695554256439209
+2026-04-29 14:17:29,"Nasdaq Composite Treads Carefully Ahead of Big Tech Bonanza, Fed Decision",AMZN,Yahoo RSS,neutral,0.0
+2026-04-29 16:00:01,Microsoft's earnings report lands after stock's worst quarterly performance since 2008 - CNBC,MSFT,Google RSS,negative,-0.9549155831336975
+2026-04-29 14:49:12,Microsoft stock down 1% ahead of earnings: what to expect? - Invezz,MSFT,Google RSS,negative,-0.9472199082374573
+2026-04-29 14:40:00,Analysts trim Microsoft-linked crypto stock's target despite AI push - thestreet.com,MSFT,Google RSS,negative,-0.8241593837738037
+2026-04-29 06:59:00,Microsoft's earnings report lands after stock's worst quarterly performance since 2008,MSFT,Bing RSS,negative,-0.9720430374145508
+2026-04-29 07:49:00,Microsoft stock down 1% ahead of earnings: what to expect?,MSFT,Bing RSS,negative,-0.9511783123016357
+2026-04-29 07:22:40,"Dear Microsoft stock fans, mark your calendars for May 7",MSFT,Bing RSS,neutral,0.0
+2026-04-29 07:42:00,Analysts trim Microsoft-linked crypto stock's target despite AI push,MSFT,Bing RSS,negative,-0.6126556396484375
+2026-04-29 15:59:35,Qualcomm to report Q2 earnings as smartphone market faces steep declines,MSFT,Yahoo RSS,positive,0.5359708070755005
+2026-04-29 14:17:29,"Nasdaq Composite Treads Carefully Ahead of Big Tech Bonanza, Fed Decision",MSFT,Yahoo RSS,neutral,0.0
+2026-04-29 14:08:17,-1.09% for Nvidia stock as broader market selling pressure triggers decline - Traders Union,NVDA,Google RSS,negative,-0.8407544493675232
+2026-04-29 09:03:00,Why Is NVIDIA (NVDA) Among The Best Growth Stocks To Buy And Hold In 2026?,NVDA,Bing RSS,neutral,0.0
+2026-04-29 16:05:00,"Tariffs, Oil Shocks, and Inflation: The Best Dividend Stocks to Own Through It All",NVDA,Yahoo RSS,neutral,0.0
+2026-04-29 15:28:00,A Major Oil Executive Warns That the Global Oil Supply Disruption Could Last Into 2027. Here's What That Means for Oil Stocks.,NVDA,Yahoo RSS,negative,-0.8907026052474976
+2026-04-29 15:20:00,The Great Rotation Out of Tech May Already Be Reversing. These Are the Best Artificial Intelligence (AI) Growth Stocks to Buy Now.,NVDA,Yahoo RSS,neutral,0.0
+2026-04-29 14:16:19,Wall Street analysts update Meta stock price target ahead of Q1 earnings - Finbold,META,Google RSS,neutral,0.0
+2026-04-29 15:59:35,Qualcomm to report Q2 earnings as smartphone market faces steep declines,META,Yahoo RSS,positive,0.5359708070755005
+2026-04-29 14:54:05,VIX Climbs as Fed Decision and Mega-Cap Earnings Keep Investors on Edge,META,Yahoo RSS,positive,0.695554256439209
+2026-04-29 14:17:29,"Nasdaq Composite Treads Carefully Ahead of Big Tech Bonanza, Fed Decision",META,Yahoo RSS,neutral,0.0
