@@ -64,5 +64,31 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-29 10:53:59,Nvidia (NVDA) Stock; Edges Lower as New Nanya Supply Pact Expands AI Chip Ecosystem - CoinCentral,NVDA,Google RSS,positive,0.5481973886489868
 2026-04-28 07:21:00,Nvidia stock slides as OpenAI fears spark selloff in chip stocks,NVDA,Bing RSS,negative,-0.9566072821617126
 2026-04-29 09:10:08,Taiwan's ASE expects strong demand to boost advanced chip packaging sales in 2026,NVDA,Yahoo RSS,positive,0.9511339664459229
-2026-04-25 13:15:01,"Meta Platforms Will Close 6,000 Open Positions in Addition to Major Layoffs as META Stock Investors Worry That AI Spend Is Just Too Much - Barchart.com",META,Google RSS,negative,-0.9585912227630615
+2026-04-25 13:15:01,"Meta Platforms Will Close 6,000 Open Positions in Addition to Major Layoffs as META Stock Investors Worry That AI Spend Is Just Too Much - Barchart.com",META,Google RSS,negative,-0.9585912227630616
 2026-04-29 10:00:20,US Has More Natural Gas Than It Can Use as War Chokes Global Supply,META,Yahoo RSS,negative,-0.8510112166404724
+2026-04-29 13:44:42,"S&P 500 Holds Steady as Big Tech Earnings, Fed Decision and Oil Prices Collide",AAPL,Yahoo RSS,negative,-0.6950017213821411
+2026-04-29 13:58:56,Microsoft earnings preview: The key to the Mag 7 tech rally,GOOGL,Yahoo RSS,neutral,0.0
+2026-04-29 13:44:42,"S&P 500 Holds Steady as Big Tech Earnings, Fed Decision and Oil Prices Collide",GOOGL,Yahoo RSS,negative,-0.6950017213821411
+2026-04-29 13:16:31,"Fed Decision Looms, Tech Earnings Could Drive Volatile Session: Dow Jones, S&P, Nasdaq, Wall Street Futures",GOOGL,Yahoo RSS,negative,-0.5072037577629089
+2026-04-29 12:58:35,"US Equity Futures Largely Flat Pre-Bell as Traders Await Tech Earnings, Fed Rate Decision",GOOGL,Yahoo RSS,negative,-0.7453227639198303
+2026-04-29 12:10:06,"US Equity Futures Largely Flat as Traders Await Tech Earnings, Fed Rate Decision",GOOGL,Yahoo RSS,negative,-0.780953049659729
+2026-04-29 09:56:11,"The 4 most important numbers to watch as Alphabet, Microsoft, Amazon, and Meta report earnings - Business Insider",AMZN,Google RSS,neutral,0.0
+2026-04-29 13:58:56,Microsoft earnings preview: The key to the Mag 7 tech rally,AMZN,Yahoo RSS,neutral,0.0
+2026-04-29 13:44:42,"S&P 500 Holds Steady as Big Tech Earnings, Fed Decision and Oil Prices Collide",AMZN,Yahoo RSS,negative,-0.6950017213821411
+2026-04-29 13:16:31,"Fed Decision Looms, Tech Earnings Could Drive Volatile Session: Dow Jones, S&P, Nasdaq, Wall Street Futures",AMZN,Yahoo RSS,negative,-0.5072037577629089
+2026-04-29 12:58:35,"US Equity Futures Largely Flat Pre-Bell as Traders Await Tech Earnings, Fed Rate Decision",AMZN,Yahoo RSS,negative,-0.7453227639198303
+2026-04-29 12:10:06,"US Equity Futures Largely Flat as Traders Await Tech Earnings, Fed Rate Decision",AMZN,Yahoo RSS,negative,-0.780953049659729
+2026-04-29 09:56:11,"The 4 most important numbers to watch as Alphabet, Microsoft, Amazon, and Meta report earnings - Business Insider",MSFT,Google RSS,neutral,0.0
+2026-04-29 10:56:00,MSFT Stock Is Down 12% YTD. Can Strong Azure Growth Turn It Around? - EBC Financial Group,MSFT,Google RSS,negative,-0.9578982591629028
+2026-04-29 13:58:56,Microsoft earnings preview: The key to the Mag 7 tech rally,MSFT,Yahoo RSS,neutral,0.0
+2026-04-29 13:44:42,"S&P 500 Holds Steady as Big Tech Earnings, Fed Decision and Oil Prices Collide",MSFT,Yahoo RSS,negative,-0.6950017213821411
+2026-04-29 13:16:31,"Fed Decision Looms, Tech Earnings Could Drive Volatile Session: Dow Jones, S&P, Nasdaq, Wall Street Futures",MSFT,Yahoo RSS,negative,-0.5072037577629089
+2026-04-29 12:58:35,"US Equity Futures Largely Flat Pre-Bell as Traders Await Tech Earnings, Fed Rate Decision",MSFT,Yahoo RSS,negative,-0.7453227639198303
+2026-04-29 12:10:06,"US Equity Futures Largely Flat as Traders Await Tech Earnings, Fed Rate Decision",MSFT,Yahoo RSS,negative,-0.780953049659729
+2026-04-29 13:44:42,"S&P 500 Holds Steady as Big Tech Earnings, Fed Decision and Oil Prices Collide",NVDA,Yahoo RSS,negative,-0.6950017213821411
+2026-04-29 13:07:49,"Meta after the bell: Prediction markets flag Threads, AI, and cloud momentum - Seeking Alpha",META,Google RSS,neutral,0.0
+2026-04-29 13:58:56,Microsoft earnings preview: The key to the Mag 7 tech rally,META,Yahoo RSS,neutral,0.0
+2026-04-29 13:44:42,"S&P 500 Holds Steady as Big Tech Earnings, Fed Decision and Oil Prices Collide",META,Yahoo RSS,negative,-0.6950017213821411
+2026-04-29 13:16:31,"Fed Decision Looms, Tech Earnings Could Drive Volatile Session: Dow Jones, S&P, Nasdaq, Wall Street Futures",META,Yahoo RSS,negative,-0.5072037577629089
+2026-04-29 12:58:35,"US Equity Futures Largely Flat Pre-Bell as Traders Await Tech Earnings, Fed Rate Decision",META,Yahoo RSS,negative,-0.7453227639198303
+2026-04-29 12:10:06,"US Equity Futures Largely Flat as Traders Await Tech Earnings, Fed Rate Decision",META,Yahoo RSS,negative,-0.780953049659729
