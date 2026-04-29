@@ -44,8 +44,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-27 12:44:00,Goldman Sachs resets Apple stock forecast before earnings - thestreet.com,AAPL,Google RSS,neutral,0.0
 2026-04-28 06:55:14,3 Apple Supply Chain Stocks Before AAPL Q2 Earnings - Gotrade,AAPL,Google RSS,neutral,0.0
 2026-04-27 12:49:23,Veteran analyst revamps Alphabet stock price target ahead of earnings - TradingView,GOOGL,Google RSS,neutral,0.0
-2026-04-27 22:30:14,Overnight U.S. Stocks | S&P 500 and Nasdaq Reach New Highs; NVIDIA (NVDA.US) Surges 4% to Hit Record High - Moomoo,NVDA,Google RSS,positive,0.9072206020355225
+2026-04-27 22:30:14,Overnight U.S. Stocks | S&P 500 and Nasdaq Reach New Highs; NVIDIA (NVDA.US) Surges 4% to Hit Record High - Moomoo,NVDA,Google RSS,positive,0.9072206020355223
 2026-04-27 22:00:18,Intel Vs. Nvidia Stock: Which Semiconductor Is Up More Since They Swapped Places In Dow Jones Industrial Average? - Benzinga,NVDA,Google RSS,positive,0.5491539835929871
-2026-04-28 13:32:00,Tesla stock is stuck in neutral. Good news from NHTSA isn’t helping.,TSLA,Bing RSS,negative,-0.9275984764099121
+2026-04-28 13:32:00,Tesla stock is stuck in neutral. Good news from NHTSA isn’t helping.,TSLA,Bing RSS,negative,-0.927598476409912
 2026-04-27 18:50:48,Amazon Just Signed a Major Deal to Supply Its In-House Chips to Meta Platforms. AMZN Stock Now Has Multiple AI Chip Catalysts.,AMZN,Yahoo Global,neutral,0.0
 2026-04-27 18:50:48,Amazon Just Signed a Major Deal to Supply Its In-House Chips to Meta Platforms. AMZN Stock Now Has Multiple AI Chip Catalysts.,META,Yahoo Global,neutral,0.0
+2026-04-27 21:22:00,"Alphabet earnings on tap with Gemini, AI spending updates in focus with stock near record high",GOOGL,Bing RSS,positive,0.915263295173645
+2026-04-28 23:14:05,"Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",GOOGL,Yahoo RSS,positive,0.9202942252159119
+2026-04-28 23:14:05,"Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",AMZN,Yahoo RSS,positive,0.9202942252159119
+2026-04-29 08:00:17,"DDD Partners LLC Purchases 5,316 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
+2026-04-28 23:14:05,"Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",MSFT,Yahoo RSS,positive,0.9202942252159119
+2026-04-28 23:14:05,"Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",NVDA,Yahoo RSS,positive,0.9202942252159119
+2026-04-22 22:57:00,Tesla earnings recap: Company signals 'rebound of demand' and big capex spending increase - Business Insider,TSLA,Google RSS,positive,0.9513247013092041
+2026-04-27 11:31:12,The bullish signals ahead of this week's Mag-7 earnings - CNBC,META,Google RSS,neutral,0.0
+2026-04-28 23:14:05,"Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",META,Yahoo RSS,positive,0.9202942252159119
