@@ -50,11 +50,19 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-27 18:50:48,Amazon Just Signed a Major Deal to Supply Its In-House Chips to Meta Platforms. AMZN Stock Now Has Multiple AI Chip Catalysts.,AMZN,Yahoo Global,neutral,0.0
 2026-04-27 18:50:48,Amazon Just Signed a Major Deal to Supply Its In-House Chips to Meta Platforms. AMZN Stock Now Has Multiple AI Chip Catalysts.,META,Yahoo Global,neutral,0.0
 2026-04-27 21:22:00,"Alphabet earnings on tap with Gemini, AI spending updates in focus with stock near record high",GOOGL,Bing RSS,positive,0.915263295173645
-2026-04-28 23:14:05,"Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",GOOGL,Yahoo RSS,positive,0.9202942252159119
-2026-04-28 23:14:05,"Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",AMZN,Yahoo RSS,positive,0.9202942252159119
+2026-04-28 23:14:05,"Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",GOOGL,Yahoo RSS,positive,0.920294225215912
+2026-04-28 23:14:05,"Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",AMZN,Yahoo RSS,positive,0.920294225215912
 2026-04-29 08:00:17,"DDD Partners LLC Purchases 5,316 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
-2026-04-28 23:14:05,"Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",MSFT,Yahoo RSS,positive,0.9202942252159119
-2026-04-28 23:14:05,"Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",NVDA,Yahoo RSS,positive,0.9202942252159119
-2026-04-22 22:57:00,Tesla earnings recap: Company signals 'rebound of demand' and big capex spending increase - Business Insider,TSLA,Google RSS,positive,0.9513247013092041
+2026-04-28 23:14:05,"Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",MSFT,Yahoo RSS,positive,0.920294225215912
+2026-04-28 23:14:05,"Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",NVDA,Yahoo RSS,positive,0.920294225215912
+2026-04-22 22:57:00,Tesla earnings recap: Company signals 'rebound of demand' and big capex spending increase - Business Insider,TSLA,Google RSS,positive,0.951324701309204
 2026-04-27 11:31:12,The bullish signals ahead of this week's Mag-7 earnings - CNBC,META,Google RSS,neutral,0.0
-2026-04-28 23:14:05,"Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",META,Yahoo RSS,positive,0.9202942252159119
+2026-04-28 23:14:05,"Stock market today: S&P 500, Nasdaq, Dow futures inch up ahead of Mag 7 earnings, last Powell term meeting",META,Yahoo RSS,positive,0.920294225215912
+2026-04-29 09:50:00,"The 4 most important numbers to watch as Alphabet, Microsoft, Amazon, and Meta report earnings - Business Insider",GOOGL,Google RSS,neutral,0.0
+2026-04-29 09:33:03,"Networth Advisors LLC Invests $632,000 in Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
+2026-04-29 09:33:06,"FSC Wealth Advisors LLC Sells 2,946 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
+2026-04-29 10:53:59,Nvidia (NVDA) Stock; Edges Lower as New Nanya Supply Pact Expands AI Chip Ecosystem - CoinCentral,NVDA,Google RSS,positive,0.5481973886489868
+2026-04-28 07:21:00,Nvidia stock slides as OpenAI fears spark selloff in chip stocks,NVDA,Bing RSS,negative,-0.9566072821617126
+2026-04-29 09:10:08,Taiwan's ASE expects strong demand to boost advanced chip packaging sales in 2026,NVDA,Yahoo RSS,positive,0.9511339664459229
+2026-04-25 13:15:01,"Meta Platforms Will Close 6,000 Open Positions in Addition to Major Layoffs as META Stock Investors Worry That AI Spend Is Just Too Much - Barchart.com",META,Google RSS,negative,-0.9585912227630615
+2026-04-29 10:00:20,US Has More Natural Gas Than It Can Use as War Chokes Global Supply,META,Yahoo RSS,negative,-0.8510112166404724
