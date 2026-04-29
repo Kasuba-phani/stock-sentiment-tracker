@@ -134,4 +134,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-28 18:15:08,The Easy Money Has Been Made In Big Tech Stocks. Will This Week's Earnings Be 'Good Enough' for Investors?,META,Yahoo RSS,neutral,0.0
 2026-04-28 21:22:04,MSFT Stock Stalls Despite Higher Revenue Expectations – Microsoft Earnings Preview - FXLeaders,MSFT,Google RSS,negative,-0.9254882335662842
 2026-04-28 18:39:00,"Dow Jones AI Leader Caterpillar, Nvidia Chipmaker TSMC In Buy Zones - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
-2026-04-28 21:09:36,"Nasdaq, S&P 500 Retreat From Record Highs as Tech Stocks Fall",NVDA,Yahoo RSS,negative,-0.9347914457321167
+2026-04-28 21:09:36,"Nasdaq, S&P 500 Retreat From Record Highs as Tech Stocks Fall",NVDA,Yahoo RSS,negative,-0.9347914457321168
+2026-04-28 22:39:21,"Nasdaq, S&P 500 end lower on renewed AI growth worries",NVDA,Yahoo RSS,negative,-0.959394097328186
