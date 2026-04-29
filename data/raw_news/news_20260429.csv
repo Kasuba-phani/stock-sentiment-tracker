@@ -92,7 +92,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-29 13:16:31,"Fed Decision Looms, Tech Earnings Could Drive Volatile Session: Dow Jones, S&P, Nasdaq, Wall Street Futures",META,Yahoo RSS,negative,-0.5072037577629089
 2026-04-29 12:58:35,"US Equity Futures Largely Flat Pre-Bell as Traders Await Tech Earnings, Fed Rate Decision",META,Yahoo RSS,negative,-0.7453227639198303
 2026-04-29 12:10:06,"US Equity Futures Largely Flat as Traders Await Tech Earnings, Fed Rate Decision",META,Yahoo RSS,negative,-0.780953049659729
-2026-04-29 16:31:05,Apple's Q2 Earnings: Strong iPhone 17 Shipment to Aid Top-Line Growth - Zacks Investment Research,AAPL,Google RSS,positive,0.9335983395576477
+2026-04-29 16:31:05,Apple's Q2 Earnings: Strong iPhone 17 Shipment to Aid Top-Line Growth - Zacks Investment Research,AAPL,Google RSS,positive,0.9335983395576476
 2026-04-29 15:59:35,Qualcomm to report Q2 earnings as smartphone market faces steep declines,AAPL,Yahoo RSS,positive,0.5359708070755005
 2026-04-29 14:54:05,VIX Climbs as Fed Decision and Mega-Cap Earnings Keep Investors on Edge,AAPL,Yahoo RSS,positive,0.695554256439209
 2026-04-29 14:17:29,"Nasdaq Composite Treads Carefully Ahead of Big Tech Bonanza, Fed Decision",AAPL,Yahoo RSS,neutral,0.0
@@ -105,11 +105,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-29 15:59:35,Qualcomm to report Q2 earnings as smartphone market faces steep declines,AMZN,Yahoo RSS,positive,0.5359708070755005
 2026-04-29 14:54:05,VIX Climbs as Fed Decision and Mega-Cap Earnings Keep Investors on Edge,AMZN,Yahoo RSS,positive,0.695554256439209
 2026-04-29 14:17:29,"Nasdaq Composite Treads Carefully Ahead of Big Tech Bonanza, Fed Decision",AMZN,Yahoo RSS,neutral,0.0
-2026-04-29 16:00:01,Microsoft's earnings report lands after stock's worst quarterly performance since 2008 - CNBC,MSFT,Google RSS,negative,-0.9549155831336975
-2026-04-29 14:49:12,Microsoft stock down 1% ahead of earnings: what to expect? - Invezz,MSFT,Google RSS,negative,-0.9472199082374573
+2026-04-29 16:00:01,Microsoft's earnings report lands after stock's worst quarterly performance since 2008 - CNBC,MSFT,Google RSS,negative,-0.9549155831336976
+2026-04-29 14:49:12,Microsoft stock down 1% ahead of earnings: what to expect? - Invezz,MSFT,Google RSS,negative,-0.9472199082374572
 2026-04-29 14:40:00,Analysts trim Microsoft-linked crypto stock's target despite AI push - thestreet.com,MSFT,Google RSS,negative,-0.8241593837738037
 2026-04-29 06:59:00,Microsoft's earnings report lands after stock's worst quarterly performance since 2008,MSFT,Bing RSS,negative,-0.9720430374145508
-2026-04-29 07:49:00,Microsoft stock down 1% ahead of earnings: what to expect?,MSFT,Bing RSS,negative,-0.9511783123016357
+2026-04-29 07:49:00,Microsoft stock down 1% ahead of earnings: what to expect?,MSFT,Bing RSS,negative,-0.9511783123016356
 2026-04-29 07:22:40,"Dear Microsoft stock fans, mark your calendars for May 7",MSFT,Bing RSS,neutral,0.0
 2026-04-29 07:42:00,Analysts trim Microsoft-linked crypto stock's target despite AI push,MSFT,Bing RSS,negative,-0.6126556396484375
 2026-04-29 15:59:35,Qualcomm to report Q2 earnings as smartphone market faces steep declines,MSFT,Yahoo RSS,positive,0.5359708070755005
@@ -123,3 +123,23 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-29 15:59:35,Qualcomm to report Q2 earnings as smartphone market faces steep declines,META,Yahoo RSS,positive,0.5359708070755005
 2026-04-29 14:54:05,VIX Climbs as Fed Decision and Mega-Cap Earnings Keep Investors on Edge,META,Yahoo RSS,positive,0.695554256439209
 2026-04-29 14:17:29,"Nasdaq Composite Treads Carefully Ahead of Big Tech Bonanza, Fed Decision",META,Yahoo RSS,neutral,0.0
+2026-04-29 17:30:06,AAPL's Services Growth Rides on Strong Content & Games: What's Ahead? - Zacks Investment Research,AAPL,Google RSS,neutral,0.0
+2026-04-29 11:51:00,"Nasdaq falls back after mixed earnings, before Fed decision, Alphabet, Microsoft earnings",AAPL,Yahoo RSS,negative,-0.9389005899429321
+2026-04-29 15:34:03,"Alphabet investors push for safeguards on use of its cloud, AI tech - Reuters",GOOGL,Google RSS,neutral,0.0
+2026-04-29 18:01:07,Fed Meeting: Powell Passes Torch With Rate Cuts On Ice (Live Coverage),GOOGL,Yahoo RSS,neutral,0.0
+2026-04-29 17:28:17,Equities Fall Intraday Ahead of Fed Rate Decision; Oil Prices Jump,GOOGL,Yahoo RSS,negative,-0.9547897577285767
+2026-04-29 16:54:26,"US Equity Indexes Fall Amid Surge in Crude Oil, Treasury Yields as Iran Peace Deal Proves Elusive",GOOGL,Yahoo RSS,negative,-0.9110680222511292
+2026-04-29 16:00:01,Amazon set to report first-quarter earnings after the bell - CNBC,AMZN,Google RSS,neutral,0.0
+2026-04-29 15:39:35,AMZN Hits Record High Ahead Of Q1 Report – Retail Expects Stock To Hit The $300 Mark - Stocktwits,AMZN,Google RSS,positive,0.9337943196296692
+2026-04-29 18:04:04,AMZN hits record high ahead of Q1 report – retail expects stock to hit the $300 mark - MSN,AMZN,Google RSS,positive,0.9292460680007935
+2026-04-29 18:01:07,Fed Meeting: Powell Passes Torch With Rate Cuts On Ice (Live Coverage),AMZN,Yahoo RSS,neutral,0.0
+2026-04-29 17:28:17,Equities Fall Intraday Ahead of Fed Rate Decision; Oil Prices Jump,AMZN,Yahoo RSS,negative,-0.9547897577285767
+2026-04-29 16:54:26,"US Equity Indexes Fall Amid Surge in Crude Oil, Treasury Yields as Iran Peace Deal Proves Elusive",AMZN,Yahoo RSS,negative,-0.9110680222511292
+2026-04-29 17:43:28,Microsoft stock suffers worst quarterly decline since 2008 crisis - Crypto Briefing,MSFT,Google RSS,negative,-0.9637143015861511
+2026-04-29 18:01:07,Fed Meeting: Powell Passes Torch With Rate Cuts On Ice (Live Coverage),MSFT,Yahoo RSS,neutral,0.0
+2026-04-29 17:28:17,Equities Fall Intraday Ahead of Fed Rate Decision; Oil Prices Jump,MSFT,Yahoo RSS,negative,-0.9547897577285767
+2026-04-29 16:54:26,"US Equity Indexes Fall Amid Surge in Crude Oil, Treasury Yields as Iran Peace Deal Proves Elusive",MSFT,Yahoo RSS,negative,-0.9110680222511292
+2026-04-29 17:40:00,Analysts trim Microsoft-linked crypto stock's target despite AI push,NVDA,Yahoo RSS,negative,-0.6126556396484375
+2026-04-29 18:01:07,Fed Meeting: Powell Passes Torch With Rate Cuts On Ice (Live Coverage),META,Yahoo RSS,neutral,0.0
+2026-04-29 17:28:17,Equities Fall Intraday Ahead of Fed Rate Decision; Oil Prices Jump,META,Yahoo RSS,negative,-0.9547897577285767
+2026-04-29 16:54:26,"US Equity Indexes Fall Amid Surge in Crude Oil, Treasury Yields as Iran Peace Deal Proves Elusive",META,Yahoo RSS,negative,-0.9110680222511292
