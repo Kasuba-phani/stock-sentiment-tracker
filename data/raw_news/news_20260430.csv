@@ -215,7 +215,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 13:43:33,Fed Inflation Gauge Hits 2-Year High As AI Boosts GDP; S&P 500 Rises (Live Coverage),MSFT,Yahoo RSS,positive,0.6883643865585327
 2026-04-30 13:09:32,S&P 500 Rides Tech Earnings Wave Despite Inflation Warning Shot,MSFT,Yahoo RSS,negative,-0.5547394156455994
 2026-04-30 12:59:12,"Big Tech Earnings, Fed Rate Decision Lift US Equity Futures Pre-Bell",MSFT,Yahoo RSS,positive,0.4511011242866516
-2026-04-30 12:51:51,Microsoft Delivers Strong Quarter. Why the Stock Is Still Falling,MSFT,Yahoo RSS,positive,0.49725013971328735
+2026-04-30 12:51:51,Microsoft Delivers Strong Quarter. Why the Stock Is Still Falling,MSFT,Yahoo RSS,positive,0.4972501397132873
 2026-04-30 13:11:00,Why Nvidia Stock Is Gaining When Meta and Microsoft Are Falling - Barron's,NVDA,Google RSS,neutral,0.0
 2026-04-30 13:45:02,Nasdaq Composite Turns Corner as Tech Earnings and Strong GDP Take the Wheel,NVDA,Yahoo RSS,positive,0.739290714263916
 2026-04-30 13:09:32,S&P 500 Rides Tech Earnings Wave Despite Inflation Warning Shot,NVDA,Yahoo RSS,negative,-0.5547394156455994
@@ -228,3 +228,28 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 13:25:08,"U.S. stocks set for higher open as tech earnings boost sentiment: Dow Jones, S&P, Nasdaq, Wall Street Futures",META,Yahoo RSS,positive,0.7423338890075684
 2026-04-30 13:09:32,S&P 500 Rides Tech Earnings Wave Despite Inflation Warning Shot,META,Yahoo RSS,negative,-0.5547394156455994
 2026-04-27 21:22:44,"Alphabet stock rises on Q1 earnings beat, cloud growth",GOOGL,Yahoo Global,positive,0.8744176030158997
+2026-04-30 15:35:05,"VIX in Whipsaw on Sticky Inflation, Fed Dissent and Lofty AI Capex",AAPL,Yahoo RSS,neutral,0.0
+2026-04-30 15:16:21,"Stock Market Today (Apr. 30, 2026): S&P 500, Nasdaq turn around early declines thanks to Eli Lilly, Caterpillar, and Alphabet earnings leap - thestreet.com",GOOGL,Google RSS,negative,-0.9464329481124878
+2026-04-30 14:35:08,"Alphabet hits 52-week high as AI, cloud growth fuel stock surge - Invezz",GOOGL,Google RSS,positive,0.6699174046516418
+2026-04-30 08:56:55,RBC Capital raises Alphabet stock price target on strong cloud growth - Investing.com Canada,GOOGL,Google RSS,neutral,0.0
+2026-04-30 15:35:05,"VIX in Whipsaw on Sticky Inflation, Fed Dissent and Lofty AI Capex",GOOGL,Yahoo RSS,neutral,0.0
+2026-04-30 15:19:18,"Stock Market Today (Apr. 30, 2026): S&P 500, Nasdaq turn around early declines thanks to Eli Lilly, Caterpillar, and Alphabet earnings leap",GOOGL,Yahoo RSS,negative,-0.9627204537391663
+2026-04-30 15:18:39,Nvidia stock plunges as investors weigh rising competition from Google and Amazon,GOOGL,Yahoo RSS,negative,-0.9650514125823975
+2026-04-30 04:57:00,Amazon posted a blowout quarter. Why the Street says this is only the start of the stock's strong run,AMZN,Bing RSS,negative,-0.6090264916419983
+2026-04-30 15:35:05,"VIX in Whipsaw on Sticky Inflation, Fed Dissent and Lofty AI Capex",AMZN,Yahoo RSS,neutral,0.0
+2026-04-30 15:18:39,Nvidia stock plunges as investors weigh rising competition from Google and Amazon,AMZN,Yahoo RSS,negative,-0.9650514125823975
+2026-04-30 15:46:54,Microsoft back on offense as quarter shows strong AI demand. Wall Street sees big stock gains ahead - CNBC,MSFT,Google RSS,positive,0.7033498883247375
+2026-04-30 15:22:30,Microsoft defended at Goldman after yet another unconvincing print - Investing.com,MSFT,Google RSS,negative,-0.6794043183326721
+2026-04-30 15:22:30,Microsoft Stock Sees 5.6% Drop Despite Strong Earnings (MSFT) - GuruFocus,MSFT,Google RSS,negative,-0.9697993397712708
+2026-04-30 15:48:24,Microsoft Stock Falls On Q3 Earnings: Analyst Predicts Growth Ahead — 'Leading Horseman Of The AI Revolut - Benzinga,MSFT,Google RSS,negative,-0.9460205435752869
+2026-04-30 06:53:00,Microsoft stock slides after earnings. What overshadowed strong cloud growth?,MSFT,Bing RSS,negative,-0.8034508228302002
+2026-04-30 09:08:00,Microsoft defended at Goldman after yet another unconvincing print,MSFT,Bing RSS,negative,-0.806823194026947
+2026-04-30 06:46:00,Microsoft back on offense as quarter shows strong AI demand. Wall Street sees big stock gains ahead,MSFT,Bing RSS,positive,0.8115813732147217
+2026-04-30 15:35:05,"VIX in Whipsaw on Sticky Inflation, Fed Dissent and Lofty AI Capex",MSFT,Yahoo RSS,neutral,0.0
+2026-04-30 15:30:00,Microsoft Q3 earnings: Two reasons why the tech stock is falling,MSFT,Yahoo RSS,neutral,0.0
+2026-04-30 15:18:39,Nvidia stock plunges as investors weigh rising competition from Google and Amazon,MSFT,Yahoo RSS,negative,-0.9650514125823975
+2026-04-30 15:26:09,"Why US stock market surging big today on final day of April? Dow Jones, S&P 500 and Nasdaq all in green as - The Economic Times",NVDA,Google RSS,neutral,0.0
+2026-04-30 08:20:00,Nvidia stock plunges as investors weigh rising competition from Google and Amazon,NVDA,Bing RSS,negative,-0.9650514125823975
+2026-04-30 15:35:05,"VIX in Whipsaw on Sticky Inflation, Fed Dissent and Lofty AI Capex",NVDA,Yahoo RSS,neutral,0.0
+2026-04-30 07:06:00,Tesla hits a milestone with semi truck production. The stock is down.,TSLA,Bing RSS,negative,-0.9639540910720825
+2026-04-30 15:35:05,"VIX in Whipsaw on Sticky Inflation, Fed Dissent and Lofty AI Capex",META,Yahoo RSS,neutral,0.0
