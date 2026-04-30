@@ -280,25 +280,56 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 09:24:00,Tesla hits a milestone with semi truck production. The stock is up.,TSLA,Bing RSS,positive,0.9209461808204652
 2026-04-29 20:16:24,"Meta stock slumps after JPM downgrade, rising capex outweighs solid results - Investing.com",META,Google RSS,negative,-0.8575104475021362
 2026-04-30 17:40:33,"""Magnificent Seven"" Companies Microsoft, Amazon, Alphabet, and Meta Just Reported Earnings. Here Are the Winners and Losers",META,Yahoo RSS,neutral,0.0
-2026-04-28 19:06:52,Traders bet Nvidia's stock will return to record highs soon - CNBC,AAPL,Google RSS,positive,0.48681923747062683
+2026-04-28 19:06:52,Traders bet Nvidia's stock will return to record highs soon - CNBC,AAPL,Google RSS,positive,0.4868192374706268
 2026-04-30 18:25:44,"Stock Market Today (Apr. 30, 2026): Alphabet rises the most since Apr. 2025 after strong earnings, lifting Nasdaq and S&P 500 - thestreet.com",GOOGL,Google RSS,positive,0.9312942624092102
 2026-04-30 13:11:26,"Alphabet jumps, Meta tumbles: US Big Tech stocks trade mixed in premarket after earnings, AI spending bets - Mint",GOOGL,Google RSS,negative,-0.848747968673706
 2026-04-30 12:42:09,"BMO raises Alphabet stock price target on cloud growth, AI strength - Investing.com Canada",GOOGL,Google RSS,neutral,0.0
-2026-04-30 19:05:01,Stocks are mixed as global tensions weigh on sentiment,GOOGL,Yahoo RSS,negative,-0.9346398115158081
+2026-04-30 19:05:01,Stocks are mixed as global tensions weigh on sentiment,GOOGL,Yahoo RSS,negative,-0.934639811515808
 2026-04-30 18:10:00,"These Stocks Are Today’s Movers: Qualcomm, Microsoft, Alphabet, Amazon, Meta, Quanta Services, Hertz, Caterpillar, Mastercard, and More",GOOGL,Yahoo RSS,neutral,0.0
 2026-04-30 07:11:41,DA Davidson raises Amazon stock price target on strong AWS growth - Investing.com,AMZN,Google RSS,neutral,0.0
 2026-04-30 18:10:00,"These Stocks Are Today’s Movers: Qualcomm, Microsoft, Alphabet, Amazon, Meta, Quanta Services, Hertz, Caterpillar, Mastercard, and More",AMZN,Yahoo RSS,neutral,0.0
 2026-04-30 18:55:33,"Microsoft Earnings Look Strong, But Investors Focus on Risks - MarketBeat",MSFT,Google RSS,negative,-0.4439185559749603
-2026-04-30 19:49:21,Google and Microsoft report strong Q1 AI-driven earnings growth - Crypto Briefing,MSFT,Google RSS,positive,0.9506847262382507
+2026-04-30 19:49:21,Google and Microsoft report strong Q1 AI-driven earnings growth - Crypto Briefing,MSFT,Google RSS,positive,0.9506847262382508
 2026-04-30 19:04:56,Microsoft slips despite strong earnings and outlook,MSFT,Yahoo RSS,negative,-0.9553551077842712
 2026-04-30 19:02:50,"Dow Jumps 700 Points as Caterpillar Soars, Meta and Microsoft Drag Nasdaq",MSFT,Yahoo RSS,neutral,0.0
 2026-04-30 18:10:00,"These Stocks Are Today’s Movers: Qualcomm, Microsoft, Alphabet, Amazon, Meta, Quanta Services, Hertz, Caterpillar, Mastercard, and More",MSFT,Yahoo RSS,neutral,0.0
 2026-04-30 17:55:51,"Dow rises 730 points, S&P 500 hits new intraday high",MSFT,Yahoo RSS,neutral,0.0
-2026-04-30 08:05:42,Meta Earnings: Ad Sales Growth Continues to Accelerate Even as AI Costs Mount - Morningstar,META,Google RSS,positive,0.9230760931968689
-2026-04-30 13:36:02,Meta stock slides despite posting fastest revenue growth since 2021. AI costs keep rising. - MSN,META,Google RSS,negative,-0.9481348395347595
+2026-04-30 08:05:42,Meta Earnings: Ad Sales Growth Continues to Accelerate Even as AI Costs Mount - Morningstar,META,Google RSS,positive,0.9230760931968688
+2026-04-30 13:36:02,Meta stock slides despite posting fastest revenue growth since 2021. AI costs keep rising. - MSN,META,Google RSS,negative,-0.9481348395347596
 2026-04-30 12:01:08,Meta's AI spending spree: Why the stock is diving despite record profits,META,Bing RSS,negative,-0.5013248920440674
 2026-04-30 13:00:00,"Evening digest: US inflation jumps, Meta stock drops while Alphabet soars",META,Bing RSS,negative,-0.9000661969184875
-2026-04-30 19:05:01,Stocks are mixed as global tensions weigh on sentiment,META,Yahoo RSS,negative,-0.9346398115158081
+2026-04-30 19:05:01,Stocks are mixed as global tensions weigh on sentiment,META,Yahoo RSS,negative,-0.934639811515808
 2026-04-30 19:02:50,"Dow Jumps 700 Points as Caterpillar Soars, Meta and Microsoft Drag Nasdaq",META,Yahoo RSS,neutral,0.0
 2026-04-30 18:10:00,"These Stocks Are Today’s Movers: Qualcomm, Microsoft, Alphabet, Amazon, Meta, Quanta Services, Hertz, Caterpillar, Mastercard, and More",META,Yahoo RSS,neutral,0.0
 2026-04-30 17:55:51,"Dow rises 730 points, S&P 500 hits new intraday high",META,Yahoo RSS,neutral,0.0
+2026-04-30 20:42:00,Apple Tops March-Quarter Targets On Strong iPhone 17 Sales - Investor's Business Daily,AAPL,Google RSS,positive,0.6562793254852295
+2026-04-30 21:24:20,Apple stock subdued after reporting earnings beat alongside iPhone constraints - FXStreet,AAPL,Google RSS,negative,-0.8876523971557617
+2026-04-30 20:35:53,"Stock Market Today (Apr. 30, 2026): Apple reports strong earnings after S&P 500 caps off best month since 2020 - thestreet.com",AAPL,Google RSS,positive,0.9312808513641357
+2026-04-30 21:52:01,"Dow Jones futures: Apple, SanDisk, Roku earnings beat after stock market rallies to high - MSN",AAPL,Google RSS,positive,0.9137367010116577
+2026-04-30 20:43:36,Apple shares dip after earnings despite strong iPhone sales growth - Invezz,AAPL,Google RSS,negative,-0.9503806233406067
+2026-04-30 21:20:02,Apple beats out earnings estimates with continued iPhone momentum,AAPL,Yahoo RSS,positive,0.912654459476471
+2026-04-30 21:06:28,Apple Tops March-Quarter Targets On Strong iPhone 17 Sales,AAPL,Yahoo RSS,positive,0.9422970414161682
+2026-04-30 20:51:00,Apple reports record March quarter revenue on strong iPhone sales,AAPL,Yahoo RSS,positive,0.9428809285163879
+2026-04-30 14:06:41,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April - CNBC,GOOGL,Google RSS,positive,0.9382379055023193
+2026-04-30 20:35:15,US Stocks Surge as Caterpillar (CAT) and Alphabet (GOOGL) Boost Market Confidence - GuruFocus,GOOGL,Google RSS,positive,0.9199787378311157
+2026-04-30 21:43:12,"Stock Market Today, April 30: U.S. Markets Surge Higher Despite a Mixed Bag of Earnings From Big Tech",GOOGL,Yahoo RSS,positive,0.933120608329773
+2026-04-30 20:49:44,"US Equity Indexes Jump as Tech Earnings, Q1 Economic Growth Help Trigger Broad-Based Rally",GOOGL,Yahoo RSS,neutral,0.0
+2026-04-30 20:15:31,Nasdaq leads US stocks in monthly gains following April rally,GOOGL,Yahoo RSS,positive,0.891186535358429
+2026-04-30 19:42:16,Sector Update: Tech Stocks Higher Late Afternoon,GOOGL,Yahoo RSS,positive,0.9232140183448792
+2026-04-30 18:22:00,Microsoft shares are on pace for a 13th straight earnings-day decline - Seeking Alpha,MSFT,Google RSS,positive,0.8243780732154846
+2026-04-30 18:15:37,"Dow rises 730 points, S&P 500 hits new intraday high - qz.com",MSFT,Google RSS,neutral,0.0
+2026-04-30 21:43:12,"Stock Market Today, April 30: U.S. Markets Surge Higher Despite a Mixed Bag of Earnings From Big Tech",MSFT,Yahoo RSS,positive,0.933120608329773
+2026-04-30 20:49:44,"US Equity Indexes Jump as Tech Earnings, Q1 Economic Growth Help Trigger Broad-Based Rally",MSFT,Yahoo RSS,neutral,0.0
+2026-04-30 19:42:16,Sector Update: Tech Stocks Higher Late Afternoon,MSFT,Yahoo RSS,positive,0.9232140183448792
+2026-04-30 21:53:27,Nvidia stock hits all-time high as AI momentum boosts market cap prospects - Crypto Briefing,NVDA,Google RSS,positive,0.6915861368179321
+2026-04-30 20:15:31,Nasdaq leads US stocks in monthly gains following April rally,NVDA,Yahoo RSS,positive,0.891186535358429
+2026-04-30 20:15:31,Nasdaq leads US stocks in monthly gains following April rally,TSLA,Yahoo RSS,positive,0.891186535358429
+2026-04-30 14:06:41,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April - CNBC,META,Google RSS,positive,0.9382379055023193
+2026-04-30 21:56:36,"Stock Market Today, April 30: Meta Falls as Higher AI Capex Outlook Overshadows Strong Q1 Results - The Motley Fool",META,Google RSS,negative,-0.9679456353187561
+2026-04-30 20:59:00,"Qualcomm, Microsoft, Alphabet, Amazon, Meta, Quanta Services, Hertz, Caterpillar, Mastercard, and More Movers - Barron's",META,Google RSS,neutral,0.0
+2026-04-30 08:11:31,META: Meta Stock Tumbles 7% Despite Double Beat. High Capex Is a Big Worry. - TradingView,META,Google RSS,negative,-0.9569975733757019
+2026-04-30 14:40:00,"Stock Market Today, April 30: Meta Falls as Higher AI Capex Outlook Overshadows Strong Q1 Results",META,Bing RSS,negative,-0.9702840447425842
+2026-04-30 21:43:12,"Stock Market Today, April 30: U.S. Markets Surge Higher Despite a Mixed Bag of Earnings From Big Tech",META,Yahoo RSS,positive,0.933120608329773
+2026-04-30 20:49:44,"US Equity Indexes Jump as Tech Earnings, Q1 Economic Growth Help Trigger Broad-Based Rally",META,Yahoo RSS,neutral,0.0
+2026-04-30 19:57:10,"US Equity Markets End Higher Amid Gains in Tech, Communication, Industrial Stocks",META,Yahoo RSS,positive,0.9434192776679993
+2026-04-30 19:42:16,Sector Update: Tech Stocks Higher Late Afternoon,META,Yahoo RSS,positive,0.9232140183448792
