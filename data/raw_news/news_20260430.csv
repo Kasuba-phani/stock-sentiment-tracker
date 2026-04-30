@@ -101,25 +101,34 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-29 20:22:00,Alphabet Stock Jumps on Strong Earnings Report - Barron's,GOOGL,Google RSS,neutral,0.0
 2026-04-29 23:13:24,Alphabet revenue tops expectations on record quarter for cloud unit - Reuters,GOOGL,Google RSS,positive,0.7795295119285583
 2026-04-30 03:08:22,"Dow Jones Futures: Google, Amazon, Meta, Microsoft Are Big Earnings Movers; Oil Prices Keep Rising",GOOGL,Yahoo RSS,positive,0.794074296951294
-2026-04-29 21:26:29,Amazon shares lower as record AI investment offsets cloud acceleration By Investing.com - Investing.com,AMZN,Google RSS,negative,-0.9592679142951965
+2026-04-29 21:26:29,Amazon shares lower as record AI investment offsets cloud acceleration By Investing.com - Investing.com,AMZN,Google RSS,negative,-0.9592679142951964
 2026-04-29 20:21:00,Amazon reports increased in profits and sales for 1Q - KING5.com,AMZN,Google RSS,positive,0.9563007354736328
 2026-04-29 14:00:00,Amazon reports biggest cloud sales jump since 2022 on AI demand,AMZN,Bing RSS,positive,0.908403217792511
 2026-04-30 03:08:22,"Dow Jones Futures: Google, Amazon, Meta, Microsoft Are Big Earnings Movers; Oil Prices Keep Rising",AMZN,Yahoo RSS,positive,0.794074296951294
 2026-04-30 00:14:23,Amazon’s cloud business is surging — and so is its capital spending,AMZN,Yahoo RSS,positive,0.6953996419906616
 2026-04-29 23:05:00,"Microsoft Reports Strong Cloud Growth, but Questions About AI Returns Persist - WSJ",MSFT,Google RSS,positive,0.5973570942878723
-2026-04-29 13:35:00,Microsoft stock trying to bounce back on strong Azure growth outlook,MSFT,Bing RSS,positive,0.9312232732772827
+2026-04-29 13:35:00,Microsoft stock trying to bounce back on strong Azure growth outlook,MSFT,Bing RSS,positive,0.9312232732772828
 2026-04-29 15:33:00,"Microsoft stock price, earnings, investor relations and quarterly cloud revenue growth fall after cloud results and AI spending updates",MSFT,Bing RSS,negative,-0.9661996364593506
-2026-04-29 07:49:00,Microsoft stock down 1% ahead of earnings: what to expect?,MSFT,Bing RSS,negative,-0.9511783123016357
+2026-04-29 07:49:00,Microsoft stock down 1% ahead of earnings: what to expect?,MSFT,Bing RSS,negative,-0.9511783123016356
 2026-04-29 11:40:00,Analysts trim Microsoft-linked crypto stock's target despite AI push,MSFT,Bing RSS,negative,-0.6126556396484375
 2026-04-30 03:08:22,"Dow Jones Futures: Google, Amazon, Meta, Microsoft Are Big Earnings Movers; Oil Prices Keep Rising",MSFT,Yahoo RSS,positive,0.794074296951294
 2026-04-30 03:08:22,"Dow Jones Futures: Google, Amazon, Meta, Microsoft Are Big Earnings Movers; Oil Prices Keep Rising",NVDA,Yahoo RSS,positive,0.794074296951294
 2026-04-30 00:11:54,Samsung Electronics sees robust AI demand after Q1 chip profit jumps almost 50-fold,NVDA,Yahoo RSS,positive,0.9517051577568054
 2026-04-27 13:25:00,Tesla Just Unlocked A Massive Share Pool As Musk Pay Shares Get Registered – Retail Traders Flag Potential Sell Pressure - Stocktwits,TSLA,Google RSS,neutral,0.0
-2026-04-29 20:43:07,Meta stock plunges 6% after earnings leave investors disappointed - Invezz,META,Google RSS,negative,-0.9543096423149109
+2026-04-29 20:43:07,Meta stock plunges 6% after earnings leave investors disappointed - Invezz,META,Google RSS,negative,-0.9543096423149108
 2026-04-29 18:34:11,Meta stock edges lower with Q1 results due. Here are 2 earnings numbers to watch - MSN,META,Google RSS,negative,-0.8882192373275757
 2026-04-30 00:38:06,"Meta's Q1 revenue grew 33%, slightly exceeding expectations, and raised its full-year capital expenditure forecast to a maximum of $145 billion. - 富途牛牛",META,Google RSS,positive,0.9549574851989746
 2026-04-30 02:01:05,"S&P 500, Nasdaq futures climb after Mag 7 earnings kickoff: MSFT, META, AMZN, GOOG, INTC stocks in focus - MSN",META,Google RSS,positive,0.6812670230865479
 2026-04-29 20:37:00,"Meta raises AI capex forecast, stock drops despite Q1 earnings beat",META,Bing RSS,negative,-0.9411567449569702
 2026-04-30 03:08:22,"Dow Jones Futures: Google, Amazon, Meta, Microsoft Are Big Earnings Movers; Oil Prices Keep Rising",META,Yahoo RSS,positive,0.794074296951294
-2026-04-30 02:26:15,"Why Is Netflix Stock Falling, and is it a Generational Buying Opportunity? - The Globe and Mail",NFLX,Google RSS,negative,-0.9232174158096313
+2026-04-30 02:26:15,"Why Is Netflix Stock Falling, and is it a Generational Buying Opportunity? - The Globe and Mail",NFLX,Google RSS,negative,-0.9232174158096312
 2026-04-30 01:56:36,"Why Is Netflix Stock Falling, and is it a Generational Buying Opportunity? - The Motley Fool",NFLX,Google RSS,negative,-0.7944538593292236
+2026-04-30 06:05:42,Goldman Sachs raises Alphabet stock price target on cloud growth - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-04-30 04:11:43,GOOG Stock Jumps Above $270 on Strong Alphabet Q1 Results as Cloud Drives Growth - FXLeaders,GOOGL,Google RSS,positive,0.868831217288971
+2026-04-29 14:26:52,"Stock market today: What Google, Microsoft, Meta and Amazon earnings reports say. Explained",AMZN,Bing RSS,neutral,0.0
+2026-04-29 22:27:00,Microsoft Stock Trying to Bounce Back on Strong Azure Growth Outlook - Barron's,MSFT,Google RSS,positive,0.8313102722167969
+2026-04-29 23:31:15,"Stock market today: S&P 500, Nasdaq, Dow futures fall with oil reaching new high, earnings in full swing",MSFT,Yahoo RSS,negative,-0.7003370523452759
+2026-04-30 04:20:00,"Got $5,000? 3 Growth Stocks Building the Physical Backbone of the AI Supercycle",NVDA,Yahoo RSS,neutral,0.0
+2026-04-30 05:22:00,"Meta stock rout deepens overnight on capex woes — analysts, retail bulls still back Mag 7’s cheapest AI bet - MSN",META,Google RSS,negative,-0.8205345869064331
+2026-04-29 23:31:15,"Stock market today: S&P 500, Nasdaq, Dow futures fall with oil reaching new high, earnings in full swing",META,Yahoo RSS,negative,-0.7003370523452759
+2026-04-28 18:39:15,"Dow Jones AI Leader Caterpillar, Nvidia Chipmaker TSMC In Buy Zones",NVDA,Yahoo Global,neutral,0.0
