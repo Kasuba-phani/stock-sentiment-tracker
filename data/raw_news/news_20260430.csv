@@ -304,14 +304,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 17:55:51,"Dow rises 730 points, S&P 500 hits new intraday high",META,Yahoo RSS,neutral,0.0
 2026-04-30 20:42:00,Apple Tops March-Quarter Targets On Strong iPhone 17 Sales - Investor's Business Daily,AAPL,Google RSS,positive,0.6562793254852295
 2026-04-30 21:24:20,Apple stock subdued after reporting earnings beat alongside iPhone constraints - FXStreet,AAPL,Google RSS,negative,-0.8876523971557617
-2026-04-30 20:35:53,"Stock Market Today (Apr. 30, 2026): Apple reports strong earnings after S&P 500 caps off best month since 2020 - thestreet.com",AAPL,Google RSS,positive,0.9312808513641357
-2026-04-30 21:52:01,"Dow Jones futures: Apple, SanDisk, Roku earnings beat after stock market rallies to high - MSN",AAPL,Google RSS,positive,0.9137367010116577
-2026-04-30 20:43:36,Apple shares dip after earnings despite strong iPhone sales growth - Invezz,AAPL,Google RSS,negative,-0.9503806233406067
+2026-04-30 20:35:53,"Stock Market Today (Apr. 30, 2026): Apple reports strong earnings after S&P 500 caps off best month since 2020 - thestreet.com",AAPL,Google RSS,positive,0.9312808513641356
+2026-04-30 21:52:01,"Dow Jones futures: Apple, SanDisk, Roku earnings beat after stock market rallies to high - MSN",AAPL,Google RSS,positive,0.9137367010116576
+2026-04-30 20:43:36,Apple shares dip after earnings despite strong iPhone sales growth - Invezz,AAPL,Google RSS,negative,-0.9503806233406068
 2026-04-30 21:20:02,Apple beats out earnings estimates with continued iPhone momentum,AAPL,Yahoo RSS,positive,0.912654459476471
 2026-04-30 21:06:28,Apple Tops March-Quarter Targets On Strong iPhone 17 Sales,AAPL,Yahoo RSS,positive,0.9422970414161682
-2026-04-30 20:51:00,Apple reports record March quarter revenue on strong iPhone sales,AAPL,Yahoo RSS,positive,0.9428809285163879
-2026-04-30 14:06:41,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April - CNBC,GOOGL,Google RSS,positive,0.9382379055023193
-2026-04-30 20:35:15,US Stocks Surge as Caterpillar (CAT) and Alphabet (GOOGL) Boost Market Confidence - GuruFocus,GOOGL,Google RSS,positive,0.9199787378311157
+2026-04-30 20:51:00,Apple reports record March quarter revenue on strong iPhone sales,AAPL,Yahoo RSS,positive,0.942880928516388
+2026-04-30 14:06:41,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April - CNBC,GOOGL,Google RSS,positive,0.9382379055023192
+2026-04-30 20:35:15,US Stocks Surge as Caterpillar (CAT) and Alphabet (GOOGL) Boost Market Confidence - GuruFocus,GOOGL,Google RSS,positive,0.9199787378311156
 2026-04-30 21:43:12,"Stock Market Today, April 30: U.S. Markets Surge Higher Despite a Mixed Bag of Earnings From Big Tech",GOOGL,Yahoo RSS,positive,0.933120608329773
 2026-04-30 20:49:44,"US Equity Indexes Jump as Tech Earnings, Q1 Economic Growth Help Trigger Broad-Based Rally",GOOGL,Yahoo RSS,neutral,0.0
 2026-04-30 20:15:31,Nasdaq leads US stocks in monthly gains following April rally,GOOGL,Yahoo RSS,positive,0.891186535358429
@@ -324,12 +324,30 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 21:53:27,Nvidia stock hits all-time high as AI momentum boosts market cap prospects - Crypto Briefing,NVDA,Google RSS,positive,0.6915861368179321
 2026-04-30 20:15:31,Nasdaq leads US stocks in monthly gains following April rally,NVDA,Yahoo RSS,positive,0.891186535358429
 2026-04-30 20:15:31,Nasdaq leads US stocks in monthly gains following April rally,TSLA,Yahoo RSS,positive,0.891186535358429
-2026-04-30 14:06:41,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April - CNBC,META,Google RSS,positive,0.9382379055023193
-2026-04-30 21:56:36,"Stock Market Today, April 30: Meta Falls as Higher AI Capex Outlook Overshadows Strong Q1 Results - The Motley Fool",META,Google RSS,negative,-0.9679456353187561
+2026-04-30 14:06:41,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April - CNBC,META,Google RSS,positive,0.9382379055023192
+2026-04-30 21:56:36,"Stock Market Today, April 30: Meta Falls as Higher AI Capex Outlook Overshadows Strong Q1 Results - The Motley Fool",META,Google RSS,negative,-0.967945635318756
 2026-04-30 20:59:00,"Qualcomm, Microsoft, Alphabet, Amazon, Meta, Quanta Services, Hertz, Caterpillar, Mastercard, and More Movers - Barron's",META,Google RSS,neutral,0.0
-2026-04-30 08:11:31,META: Meta Stock Tumbles 7% Despite Double Beat. High Capex Is a Big Worry. - TradingView,META,Google RSS,negative,-0.9569975733757019
+2026-04-30 08:11:31,META: Meta Stock Tumbles 7% Despite Double Beat. High Capex Is a Big Worry. - TradingView,META,Google RSS,negative,-0.956997573375702
 2026-04-30 14:40:00,"Stock Market Today, April 30: Meta Falls as Higher AI Capex Outlook Overshadows Strong Q1 Results",META,Bing RSS,negative,-0.9702840447425842
 2026-04-30 21:43:12,"Stock Market Today, April 30: U.S. Markets Surge Higher Despite a Mixed Bag of Earnings From Big Tech",META,Yahoo RSS,positive,0.933120608329773
 2026-04-30 20:49:44,"US Equity Indexes Jump as Tech Earnings, Q1 Economic Growth Help Trigger Broad-Based Rally",META,Yahoo RSS,neutral,0.0
-2026-04-30 19:57:10,"US Equity Markets End Higher Amid Gains in Tech, Communication, Industrial Stocks",META,Yahoo RSS,positive,0.9434192776679993
+2026-04-30 19:57:10,"US Equity Markets End Higher Amid Gains in Tech, Communication, Industrial Stocks",META,Yahoo RSS,positive,0.9434192776679992
 2026-04-30 19:42:16,Sector Update: Tech Stocks Higher Late Afternoon,META,Yahoo RSS,positive,0.9232140183448792
+2026-04-30 23:22:00,"Apple Shares Rise on Strong iPhone Sales, but Higher Memory Prices Loom - WSJ",AAPL,Google RSS,positive,0.5300630927085876
+2026-04-30 23:48:45,AAPL Earnings: Apple Stock Slips Slightly despite Q2 Beat on Strong iPhone 17 Demand - TipRanks,AAPL,Google RSS,negative,-0.9709017872810364
+2026-04-30 22:38:51,Apple tops March-quarter targets on strong iPhone 17 sales. Stock jumps on outlook - MSN,AAPL,Google RSS,positive,0.6984763741493225
+2026-04-30 23:33:54,Apple stock climbs as optimistic sales forecast outpaces analyst estimates - grafa.com,AAPL,Google RSS,positive,0.6986088156700134
+2026-04-30 23:10:56,"Stock market today: S&P 500, Nasdaq, Dow futures tick up after gauges close April on record highs",AAPL,Yahoo RSS,positive,0.9023880958557129
+2026-04-30 22:28:56,Apple Tops March-Quarter Targets On Strong iPhone 17 Sales. Stock Jumps On Outlook.,AAPL,Yahoo RSS,positive,0.8117650747299194
+2026-04-30 21:59:07,Apple hits record iPhone sales despite supply disruption,AAPL,Yahoo RSS,positive,0.9196373224258423
+2026-04-30 22:18:00,Alphabet Powers Nasdaq Composite Momentum In AI Stocks Surge - Kalkine Media,GOOGL,Google RSS,neutral,0.0
+2026-04-30 21:56:44,"Stock Market Today, April 30: Meta Falls as Higher AI Capex Outlook Overshadows Strong Q1 Results",GOOGL,Yahoo RSS,negative,-0.9702840447425842
+2026-04-30 21:00:00,Sandisk Stock Falls Sharply Despite Strong Earnings,GOOGL,Yahoo RSS,negative,-0.9682434797286987
+2026-04-30 10:56:36,Amazon stock falls on earnings despite AWS 'growing at its fastest clip in 4 years',AMZN,Bing RSS,negative,-0.966392993927002
+2026-04-30 21:00:00,Sandisk Stock Falls Sharply Despite Strong Earnings,AMZN,Yahoo RSS,negative,-0.9682434797286987
+2026-04-30 15:56:57,Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand - CNBC,MSFT,Google RSS,positive,0.8962745070457458
+2026-04-30 14:06:41,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April - CNBC,MSFT,Google RSS,positive,0.9382379055023193
+2026-04-30 21:00:00,Sandisk Stock Falls Sharply Despite Strong Earnings,MSFT,Yahoo RSS,negative,-0.9682434797286987
+2026-04-30 16:41:00,"Dow Jones futures rise as Apple jumps on earnings, SanDisk skids; stock market at high",NVDA,Bing RSS,positive,0.6209360957145691
+2026-04-30 21:00:00,Sandisk Stock Falls Sharply Despite Strong Earnings,NVDA,Yahoo RSS,negative,-0.9682434797286987
+2026-04-30 21:00:00,Sandisk Stock Falls Sharply Despite Strong Earnings,META,Yahoo RSS,negative,-0.9682434797286987
