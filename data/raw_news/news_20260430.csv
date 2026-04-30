@@ -149,9 +149,32 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 07:32:24,Stifel raises Microsoft stock price target on Azure growth outlook - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-04-30 07:32:24,Piper Sandler raises Microsoft stock price target on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-04-30 07:11:41,DA Davidson cuts Microsoft stock price target on revenue outlook - Investing.com,MSFT,Google RSS,neutral,0.0
-2026-04-30 06:33:48,Microsoft beats expectations as cloud and AI demand remain strong,MSFT,Yahoo RSS,positive,0.9414797425270081
-2026-04-29 23:31:15,"Stock market today: Dow futures slide as oil surges, while Mag 7 earnings buoy tech stocks",MSFT,Yahoo RSS,negative,-0.9638281464576721
-2026-04-30 01:55:00,Meta stock falls sharply after strong earnings. What’s dragging it down?,META,Bing RSS,negative,-0.9327778220176697
+2026-04-30 06:33:48,Microsoft beats expectations as cloud and AI demand remain strong,MSFT,Yahoo RSS,positive,0.941479742527008
+2026-04-29 23:31:15,"Stock market today: Dow futures slide as oil surges, while Mag 7 earnings buoy tech stocks",MSFT,Yahoo RSS,negative,-0.963828146457672
+2026-04-30 01:55:00,Meta stock falls sharply after strong earnings. What’s dragging it down?,META,Bing RSS,negative,-0.9327778220176696
 2026-04-30 02:06:00,"US stock futures climb after big tech earnings, Meta worries",META,Bing RSS,positive,0.5198126435279846
 2026-04-29 14:26:52,"Stock market today: What Google, Microsoft, Meta and Amazon earnings reports say. Explained",META,Bing RSS,neutral,0.0
-2026-04-29 23:31:15,"Stock market today: Dow futures slide as oil surges, while Mag 7 earnings buoy tech stocks",META,Yahoo RSS,negative,-0.9638281464576721
+2026-04-29 23:31:15,"Stock market today: Dow futures slide as oil surges, while Mag 7 earnings buoy tech stocks",META,Yahoo RSS,negative,-0.963828146457672
+2026-04-30 03:54:00,"Stock Market Today: Futures Rise as Stocks Conclude Strong Month; Investors Digest Big Tech Results With Apple on Tap; GDP, PCE Data Due",AAPL,Bing RSS,positive,0.8206916451454163
+2026-04-30 11:24:17,"Stocks Mostly Up Pre-Bell as Traders Digest Big Tech Earnings, Await Key Inflation Report",AAPL,Yahoo RSS,positive,0.49629950523376465
+2026-04-30 11:02:00,"Stock Market Today: S&P 500 and Nasdaq set to rise, Dow steady, as oil falls back from new four-year high; Alphabet shares jump as Meta falls - MarketWatch",GOOGL,Google RSS,positive,0.5593982338905334
+2026-04-30 11:32:31,"Dow Jones Futures Rise, Oil Prices Fall; Google, Amazon, Meta, Microsoft, Caterpillar Are Big Earnings Movers",GOOGL,Yahoo RSS,neutral,0.0
+2026-04-30 11:24:17,"Stocks Mostly Up Pre-Bell as Traders Digest Big Tech Earnings, Await Key Inflation Report",GOOGL,Yahoo RSS,positive,0.49629950523376465
+2026-04-30 10:22:16,Taiwan's Delta Electronics warns costs rising as AI data centre demand surges,GOOGL,Yahoo RSS,negative,-0.8868201375007629
+2026-04-30 10:06:58,Telsey raises Amazon stock price target to $315 on strong AWS growth - Investing.com,AMZN,Google RSS,positive,0.6672789454460144
+2026-04-30 11:32:31,"Dow Jones Futures Rise, Oil Prices Fall; Google, Amazon, Meta, Microsoft, Caterpillar Are Big Earnings Movers",AMZN,Yahoo RSS,neutral,0.0
+2026-04-30 11:24:17,"Stocks Mostly Up Pre-Bell as Traders Digest Big Tech Earnings, Await Key Inflation Report",AMZN,Yahoo RSS,positive,0.49629950523376465
+2026-04-30 09:32:00,Microsoft Stock Slides After Earnings. What Overshadowed Strong Cloud Growth. - Barron's,MSFT,Google RSS,negative,-0.8106538653373718
+2026-04-30 10:41:04,Goldman Sachs raises Microsoft stock price target on updated estimates - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-04-30 02:32:00,Microsoft stock slides after earnings: what overshadowed strong cloud growth?,MSFT,Bing RSS,negative,-0.8893315196037292
+2026-04-30 11:32:31,"Dow Jones Futures Rise, Oil Prices Fall; Google, Amazon, Meta, Microsoft, Caterpillar Are Big Earnings Movers",MSFT,Yahoo RSS,neutral,0.0
+2026-04-30 11:24:17,"Stocks Mostly Up Pre-Bell as Traders Digest Big Tech Earnings, Await Key Inflation Report",MSFT,Yahoo RSS,positive,0.49629950523376465
+2026-04-30 09:32:00,Microsoft Stock Slides After Earnings. What Overshadowed Strong Cloud Growth.,MSFT,Yahoo RSS,negative,-0.8511401414871216
+2026-04-30 11:32:31,"Dow Jones Futures Rise, Oil Prices Fall; Google, Amazon, Meta, Microsoft, Caterpillar Are Big Earnings Movers",NVDA,Yahoo RSS,neutral,0.0
+2026-04-30 10:22:16,Taiwan's Delta Electronics warns costs rising as AI data centre demand surges,NVDA,Yahoo RSS,negative,-0.8868201375007629
+2026-04-29 20:16:24,"Meta extends losses after JPM downgrade, rising capex outweighs solid results - Investing.com",META,Google RSS,positive,0.4342401623725891
+2026-04-30 09:58:45,Goldman Sachs lowers Meta stock price target to $830 on capex rise - Investing.com,META,Google RSS,neutral,0.0
+2026-04-30 11:32:31,"Dow Jones Futures Rise, Oil Prices Fall; Google, Amazon, Meta, Microsoft, Caterpillar Are Big Earnings Movers",META,Yahoo RSS,neutral,0.0
+2026-04-30 11:24:17,"Stocks Mostly Up Pre-Bell as Traders Digest Big Tech Earnings, Await Key Inflation Report",META,Yahoo RSS,positive,0.49629950523376465
+2026-04-30 11:40:05,"Stocks making the biggest moves premarket: Meta, Eli Lilly, Caterpillar, Amazon & more",AMZN,CNBC Finance,neutral,0.0
+2026-04-30 11:40:05,"Stocks making the biggest moves premarket: Meta, Eli Lilly, Caterpillar, Amazon & more",META,CNBC Finance,neutral,0.0
