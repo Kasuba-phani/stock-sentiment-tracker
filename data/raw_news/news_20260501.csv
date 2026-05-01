@@ -184,16 +184,23 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-01 09:40:00,"Stock market today: Dow slips, S&P 500 and Nasdaq rise after record highs as earnings roll in",AAPL,Bing RSS,positive,0.7111802697181702
 2026-05-01 07:34:00,"Apple stages sharpest rally in 9 months as execs cite iPhone, Mac demand in boosting guidance",AAPL,Bing RSS,positive,0.9246582984924316
 2026-05-01 08:56:00,Dow Jones: US 30 Rallies as Apple Lifts Stock Market and Indices Outlook,AAPL,Bing RSS,positive,0.8852210640907288
-2026-05-01 16:40:04,"S&P 500, Nasdaq Scale New Peaks Amid Strong Gains in Technology",AAPL,Yahoo RSS,positive,0.9263666868209839
-2026-05-01 15:58:13,Apple delivers strong quarter with upbeat outlook,AAPL,Yahoo RSS,positive,0.9458465576171875
+2026-05-01 16:40:04,"S&P 500, Nasdaq Scale New Peaks Amid Strong Gains in Technology",AAPL,Yahoo RSS,positive,0.926366686820984
+2026-05-01 15:58:13,Apple delivers strong quarter with upbeat outlook,AAPL,Yahoo RSS,positive,0.9458465576171876
 2026-05-01 15:34:41,Apple is nearing its first record close since December after earnings,AAPL,Yahoo RSS,negative,-0.6950510144233704
-2026-05-01 14:28:09,TSX index creeps lower as energy volatility persists,AAPL,Yahoo RSS,negative,-0.9685415625572205
+2026-05-01 14:28:09,TSX index creeps lower as energy volatility persists,AAPL,Yahoo RSS,negative,-0.9685415625572203
 2026-05-01 16:51:00,"Nasdaq Composite Posts Best Month In 6 Years As AI Boom Powers Tech Surge — Alphabet, Intel Stocks Power The Super Rally - Stocktwits",GOOGL,Google RSS,positive,0.7849831581115723
-2026-05-01 07:36:03,Rivian stock drops 5%: Is Amazon reliance a growing risk?,AMZN,Bing RSS,negative,-0.9472659230232239
-2026-05-01 15:14:44,"SPS Commerce Q1 Disappoints, Amazon Headwinds Weigh on Growth, Morgan Stanley Says",AMZN,Yahoo RSS,negative,-0.9527614116668701
+2026-05-01 07:36:03,Rivian stock drops 5%: Is Amazon reliance a growing risk?,AMZN,Bing RSS,negative,-0.947265923023224
+2026-05-01 15:14:44,"SPS Commerce Q1 Disappoints, Amazon Headwinds Weigh on Growth, Morgan Stanley Says",AMZN,Yahoo RSS,negative,-0.95276141166687
 2026-04-26 07:00:00,Big Short Investor Michael Burry Opens New Position in Microsoft Stock (MSFT) - TipRanks,MSFT,Google RSS,neutral,0.0
 2026-05-01 16:16:44,Morgan Stanley Doubles Caterpillar Price Target to $915: Is This the Most Underrated Industrial of 2026?,NVDA,Yahoo RSS,neutral,0.0
 2026-05-01 16:38:28,Meta’s brutal 10% drop despite a massive earnings beat - Rolling Out,META,Google RSS,negative,-0.9650534987449646
-2026-04-30 08:05:42,Meta Earnings: Ad Sales Growth Continues to Accelerate Even as AI Costs Mount - Morningstar,META,Google RSS,positive,0.9230760931968689
+2026-04-30 08:05:42,Meta Earnings: Ad Sales Growth Continues to Accelerate Even as AI Costs Mount - Morningstar,META,Google RSS,positive,0.9230760931968688
 2026-04-30 11:11:00,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April,META,Bing RSS,positive,0.9403559565544128
 2026-05-01 15:36:35,CoreWeave gains as analysts raise outlook on AI demand,META,Yahoo RSS,positive,0.8898167014122009
+2026-05-01 14:12:54,Apple's second quarter report puts Tech ETFs in the spotlight (AAPL:NASDAQ) - Seeking Alpha,AAPL,Google RSS,positive,0.869072437286377
+2026-05-01 13:35:00,Dow Jones: US 30 Rallies as Apple Lifts Stock Market and Indices Outlook - FXEmpire,AAPL,Google RSS,positive,0.6892595291137695
+2026-05-01 17:54:19,"Technology, Consumer Discretionary Push S&P 500, Nasdaq to Record Highs",AAPL,Yahoo RSS,positive,0.7188331484794617
+2026-05-01 17:41:02,"Apple's Strong Revenue Guidance Came Despite Mac Supply Constraints, Wedbush Says",AAPL,Yahoo RSS,positive,0.9558601975440979
+2026-05-01 17:20:01,Alphabet shares hit all-time high on strong earnings boost - Crypto Briefing,GOOGL,Google RSS,positive,0.9005833864212036
+2026-05-01 11:07:00,Alphabet stock hits record after cloud-fueled earnings beat,GOOGL,Bing RSS,positive,0.8172155618667603
+2026-04-28 19:06:52,Traders bet Nvidia's stock will return to record highs soon - CNBC,NVDA,Google RSS,positive,0.48681923747062683
