@@ -200,7 +200,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-01 14:12:54,Apple's second quarter report puts Tech ETFs in the spotlight (AAPL:NASDAQ) - Seeking Alpha,AAPL,Google RSS,positive,0.869072437286377
 2026-05-01 13:35:00,Dow Jones: US 30 Rallies as Apple Lifts Stock Market and Indices Outlook - FXEmpire,AAPL,Google RSS,positive,0.6892595291137695
 2026-05-01 17:54:19,"Technology, Consumer Discretionary Push S&P 500, Nasdaq to Record Highs",AAPL,Yahoo RSS,positive,0.7188331484794617
-2026-05-01 17:41:02,"Apple's Strong Revenue Guidance Came Despite Mac Supply Constraints, Wedbush Says",AAPL,Yahoo RSS,positive,0.9558601975440979
+2026-05-01 17:41:02,"Apple's Strong Revenue Guidance Came Despite Mac Supply Constraints, Wedbush Says",AAPL,Yahoo RSS,positive,0.955860197544098
 2026-05-01 17:20:01,Alphabet shares hit all-time high on strong earnings boost - Crypto Briefing,GOOGL,Google RSS,positive,0.9005833864212036
 2026-05-01 11:07:00,Alphabet stock hits record after cloud-fueled earnings beat,GOOGL,Bing RSS,positive,0.8172155618667603
-2026-04-28 19:06:52,Traders bet Nvidia's stock will return to record highs soon - CNBC,NVDA,Google RSS,positive,0.48681923747062683
+2026-04-28 19:06:52,Traders bet Nvidia's stock will return to record highs soon - CNBC,NVDA,Google RSS,positive,0.4868192374706268
+2026-05-01 16:35:56,"Apple stages sharpest rally in 9 months as execs cite iPhone, Mac demand in boosting guidance - CNBC",AAPL,Google RSS,positive,0.7104859352111816
+2026-05-01 12:25:00,Apple stock surged after earnings. 3 concerns lurking beneath the surface,AAPL,Bing RSS,neutral,0.0
+2026-05-01 20:15:15,How major US stock indexes fared Friday 5/1/2026,AAPL,Yahoo RSS,neutral,0.0
