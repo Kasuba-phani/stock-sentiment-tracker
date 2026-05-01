@@ -212,5 +212,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-01 14:08:00,"Stock market today: S&P 500, Nasdaq jump to fresh records as AI trade fuels tech rally, Apple stock jumps",AAPL,Bing RSS,positive,0.5696947574615479
 2026-05-01 20:45:04,"S&P 500, Nasdaq end at fresh records on tech earnings strength",AAPL,Yahoo RSS,positive,0.7932632565498352
 2026-04-30 10:16:00,"Microsoft tops Wall Street expectations, reports accelerating Azure growth and $37B AI run rate",MSFT,Bing RSS,positive,0.9470857977867126
-2026-04-27 21:13:58,Microsoft stock sinks as AI spending ramps to $190 billion as Q3 earnings top forecasts,MSFT,Yahoo Global,negative,-0.9682314395904541
+2026-04-27 21:13:58,Microsoft stock sinks as AI spending ramps to $190 billion as Q3 earnings top forecasts,MSFT,Yahoo Global,negative,-0.968231439590454
 2026-04-27 21:22:44,"Alphabet stock rises on Q1 earnings beat, cloud growth",GOOGL,Yahoo Global,positive,0.8744176030158997
+2026-05-01 15:23:00,"Dow Jones futures: Stock market hits highs after bullish pause; Apple, Broadcom in buy zones",AAPL,Bing RSS,positive,0.8433189392089844
+2026-05-01 22:35:59,"S&P 500, Nasdaq end higher, notch weekly gains",AAPL,Yahoo RSS,positive,0.870927631855011
