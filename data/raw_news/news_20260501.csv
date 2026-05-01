@@ -104,3 +104,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 10:06:58,Telsey raises Amazon stock price target to $315 on strong AWS growth - Investing.com,AMZN,Google RSS,positive,0.6672789454460144
 2026-04-30 23:08:26,"Dow rises 730 points, S&P 500 hits new intraday high - qz.com",MSFT,Google RSS,neutral,0.0
 2026-04-30 01:43:18,"Microsoft stock price ended at $424.46 on Wednesday, after losing 1.12% - StockInvest.us",MSFT,Google RSS,negative,-0.962670624256134
+2026-04-30 22:28:00,Apple Tops March-Quarter Targets On Strong iPhone 17 Sales. Stock Jumps On Outlook. - Investor's Business Daily,AAPL,Google RSS,positive,0.741601288318634
+2026-05-01 01:41:00,Apple stock sees slight bump following Q2 2026 earnings report - 9to5Mac,AAPL,Google RSS,positive,0.9103533029556274
+2026-04-30 23:10:56,"Stock market today: S&P 500, Nasdaq, Dow futures pause after stocks close out April at record highs",AAPL,Yahoo RSS,negative,-0.6081978678703308
+2026-05-01 07:19:26,SPS Commerce Inc (SPSC) Q1 2026 Earnings Call Highlights: Strong Revenue Growth Amidst Amazon ...,AMZN,Yahoo RSS,positive,0.9581701159477234
+2026-04-30 20:10:00,Microsoft Stock Slides After Earnings. What Overshadowed Strong Cloud Growth. - Barron's,MSFT,Google RSS,negative,-0.8106538653373718
+2026-04-29 18:26:32,Microsoft stock suffers worst quarterly decline since 2008 crisis - Crypto Briefing,MSFT,Google RSS,negative,-0.9637143015861511
+2026-04-30 16:24:00,Tesla hits a milestone with semi truck production. The stock edges higher. - MSN,TSLA,Google RSS,positive,0.9444727897644043
+2026-04-29 21:29:36,"Microsoft expects strong cloud business growth, plans record capital spending",MSFT,Yahoo Global,positive,0.9444395303726196
