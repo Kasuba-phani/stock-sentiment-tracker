@@ -109,6 +109,27 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 23:10:56,"Stock market today: S&P 500, Nasdaq, Dow futures pause after stocks close out April at record highs",AAPL,Yahoo RSS,negative,-0.6081978678703308
 2026-05-01 07:19:26,SPS Commerce Inc (SPSC) Q1 2026 Earnings Call Highlights: Strong Revenue Growth Amidst Amazon ...,AMZN,Yahoo RSS,positive,0.9581701159477234
 2026-04-30 20:10:00,Microsoft Stock Slides After Earnings. What Overshadowed Strong Cloud Growth. - Barron's,MSFT,Google RSS,negative,-0.8106538653373718
-2026-04-29 18:26:32,Microsoft stock suffers worst quarterly decline since 2008 crisis - Crypto Briefing,MSFT,Google RSS,negative,-0.9637143015861511
-2026-04-30 16:24:00,Tesla hits a milestone with semi truck production. The stock edges higher. - MSN,TSLA,Google RSS,positive,0.9444727897644043
+2026-04-29 18:26:32,Microsoft stock suffers worst quarterly decline since 2008 crisis - Crypto Briefing,MSFT,Google RSS,negative,-0.9637143015861512
+2026-04-30 16:24:00,Tesla hits a milestone with semi truck production. The stock edges higher. - MSN,TSLA,Google RSS,positive,0.9444727897644044
 2026-04-29 21:29:36,"Microsoft expects strong cloud business growth, plans record capital spending",MSFT,Yahoo Global,positive,0.9444395303726196
+2026-05-01 10:24:26,Apple shares rise on strong quarterly sales in run-up to CEO change By Reuters - Investing.com,AAPL,Google RSS,positive,0.7939854860305786
+2026-05-01 10:38:26,"Social Buzz: Wallstreetbets Stocks Mostly Advancing Premarket Friday; Reddit, Apple to Open Higher - marketscreener.com",AAPL,Google RSS,neutral,0.0
+2026-05-01 10:36:54,"Social Buzz: Wallstreetbets Stocks Mostly Advancing Premarket Friday; Reddit, Apple to Open Higher",AAPL,Yahoo RSS,neutral,0.0
+2026-05-01 09:39:00,Apple outlook; oil holds gains; yen in focus – what’s moving markets,AAPL,Yahoo RSS,neutral,0.0
+2026-05-01 09:29:10,"Markets Edge Higher as Apple Outlook Lifts Sentiment, Oil Holds Firm: Dow Jones, S&P, Nasdaq, Wall Street Futures",AAPL,Yahoo RSS,positive,0.798796534538269
+2026-05-01 09:20:05,Apple Shares Edge Higher on Strong Results and “Remarkable” Margin Outlook,AAPL,Yahoo RSS,positive,0.9477163553237915
+2026-04-30 21:48:00,"Stock Market News, April 30, 2026: Dow rises 790 points, S&P 500 and Nasdaq close at records as GDP data shows the U.S. economy continues to grow; Big Tech slips; oil falls back from four-year high; Alphabet shares jump as Meta falls - MarketWatch",GOOGL,Google RSS,negative,-0.8022472262382507
+2026-05-01 09:26:18,Private Wealth Partners LLC Reduces Position in Alphabet Inc. $GOOG - MarketBeat,GOOGL,Google RSS,negative,-0.9496861100196838
+2026-05-01 10:36:54,"Social Buzz: Wallstreetbets Stocks Mostly Advancing Premarket Friday; Reddit, Apple to Open Higher",GOOGL,Yahoo RSS,neutral,0.0
+2026-05-01 08:39:00,Sandisk Posts Strong Earnings. The Stock Is Falling.,GOOGL,Yahoo RSS,negative,-0.9715080857276917
+2026-04-30 00:33:39,"Amazon tops cloud expectations on strong AI demand, shares dip By Reuters - Investing.com",AMZN,Google RSS,negative,-0.9598737955093384
+2026-05-01 08:39:00,Sandisk Posts Strong Earnings. The Stock Is Falling.,AMZN,Yahoo RSS,negative,-0.9715080857276917
+2026-05-01 10:36:54,"Social Buzz: Wallstreetbets Stocks Mostly Advancing Premarket Friday; Reddit, Apple to Open Higher",MSFT,Yahoo RSS,neutral,0.0
+2026-05-01 08:39:00,Sandisk Posts Strong Earnings. The Stock Is Falling.,MSFT,Yahoo RSS,negative,-0.9715080857276917
+2026-05-01 10:36:54,"Social Buzz: Wallstreetbets Stocks Mostly Advancing Premarket Friday; Reddit, Apple to Open Higher",NVDA,Yahoo RSS,neutral,0.0
+2026-05-01 08:39:00,Sandisk Posts Strong Earnings. The Stock Is Falling.,NVDA,Yahoo RSS,negative,-0.9715080857276917
+2026-05-01 11:04:27,Tesla sales rebound continues in several European markets in April,TSLA,Yahoo RSS,positive,0.9418983459472656
+2026-05-01 10:36:54,"Social Buzz: Wallstreetbets Stocks Mostly Advancing Premarket Friday; Reddit, Apple to Open Higher",META,Yahoo RSS,neutral,0.0
+2026-05-01 10:17:42,US Stock Market Today: S&P 500 Futures Edge Higher On Slower Growth Hotter Inflation,META,Yahoo RSS,positive,0.8922373652458191
+2026-05-01 08:39:00,Sandisk Posts Strong Earnings. The Stock Is Falling.,META,Yahoo RSS,negative,-0.9715080857276917
+2026-04-29 23:05:00,"Microsoft Reports Strong Cloud Growth, but Questions About AI Returns Persist",MSFT,Yahoo Global,positive,0.8661454319953918
