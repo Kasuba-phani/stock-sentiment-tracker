@@ -207,3 +207,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-01 16:35:56,"Apple stages sharpest rally in 9 months as execs cite iPhone, Mac demand in boosting guidance - CNBC",AAPL,Google RSS,positive,0.7104859352111816
 2026-05-01 12:25:00,Apple stock surged after earnings. 3 concerns lurking beneath the surface,AAPL,Bing RSS,neutral,0.0
 2026-05-01 20:15:15,How major US stock indexes fared Friday 5/1/2026,AAPL,Yahoo RSS,neutral,0.0
+2026-05-01 13:10:00,"Big Tech earnings fuels mixed stock moves, as Apple pops, Meta plunges, and Alphabet surges - Business Insider",AAPL,Google RSS,positive,0.3882810175418854
+2026-05-01 16:18:25,Apple is nearing its first record close since December after earnings - MSN,AAPL,Google RSS,neutral,0.0
+2026-05-01 14:08:00,"Stock market today: S&P 500, Nasdaq jump to fresh records as AI trade fuels tech rally, Apple stock jumps",AAPL,Bing RSS,positive,0.5696947574615479
+2026-05-01 20:45:04,"S&P 500, Nasdaq end at fresh records on tech earnings strength",AAPL,Yahoo RSS,positive,0.7932632565498352
+2026-04-30 10:16:00,"Microsoft tops Wall Street expectations, reports accelerating Azure growth and $37B AI run rate",MSFT,Bing RSS,positive,0.9470857977867126
+2026-04-27 21:13:58,Microsoft stock sinks as AI spending ramps to $190 billion as Q3 earnings top forecasts,MSFT,Yahoo Global,negative,-0.9682314395904541
+2026-04-27 21:22:44,"Alphabet stock rises on Q1 earnings beat, cloud growth",GOOGL,Yahoo Global,positive,0.8744176030158997
