@@ -117,7 +117,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-01 10:36:54,"Social Buzz: Wallstreetbets Stocks Mostly Advancing Premarket Friday; Reddit, Apple to Open Higher",AAPL,Yahoo RSS,neutral,0.0
 2026-05-01 09:39:00,Apple outlook; oil holds gains; yen in focus – what’s moving markets,AAPL,Yahoo RSS,neutral,0.0
 2026-05-01 09:29:10,"Markets Edge Higher as Apple Outlook Lifts Sentiment, Oil Holds Firm: Dow Jones, S&P, Nasdaq, Wall Street Futures",AAPL,Yahoo RSS,positive,0.798796534538269
-2026-05-01 09:20:05,Apple Shares Edge Higher on Strong Results and “Remarkable” Margin Outlook,AAPL,Yahoo RSS,positive,0.9477163553237915
+2026-05-01 09:20:05,Apple Shares Edge Higher on Strong Results and “Remarkable” Margin Outlook,AAPL,Yahoo RSS,positive,0.9477163553237916
 2026-04-30 21:48:00,"Stock Market News, April 30, 2026: Dow rises 790 points, S&P 500 and Nasdaq close at records as GDP data shows the U.S. economy continues to grow; Big Tech slips; oil falls back from four-year high; Alphabet shares jump as Meta falls - MarketWatch",GOOGL,Google RSS,negative,-0.8022472262382507
 2026-05-01 09:26:18,Private Wealth Partners LLC Reduces Position in Alphabet Inc. $GOOG - MarketBeat,GOOGL,Google RSS,negative,-0.9496861100196838
 2026-05-01 10:36:54,"Social Buzz: Wallstreetbets Stocks Mostly Advancing Premarket Friday; Reddit, Apple to Open Higher",GOOGL,Yahoo RSS,neutral,0.0
@@ -133,3 +133,27 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-01 10:17:42,US Stock Market Today: S&P 500 Futures Edge Higher On Slower Growth Hotter Inflation,META,Yahoo RSS,positive,0.8922373652458191
 2026-05-01 08:39:00,Sandisk Posts Strong Earnings. The Stock Is Falling.,META,Yahoo RSS,negative,-0.9715080857276917
 2026-04-29 23:05:00,"Microsoft Reports Strong Cloud Growth, but Questions About AI Returns Persist",MSFT,Yahoo Global,positive,0.8661454319953918
+2026-05-01 13:07:00,"Dow futures jump 150 points to start May trading as oil falls, Apple shares jump: Live updates - CNBC",AAPL,Google RSS,neutral,0.0
+2026-05-01 12:59:46,"Dow futures rise 200 points as Apple stock climbs, oil falls - qz.com",AAPL,Google RSS,neutral,0.0
+2026-05-01 10:26:18,Apple shares rise on strong quarterly sales in run-up to CEO change - Reuters,AAPL,Google RSS,positive,0.8247658610343933
+2026-05-01 09:27:17,Morgan Stanley raises Apple stock price target on strong quarter - Investing.com,AAPL,Google RSS,neutral,0.0
+2026-05-01 13:12:20,"S&P 500’s Strong May Footing Powered by Apple, SanDisk, and Easing Oil - 24/7 Wall St.",AAPL,Google RSS,positive,0.927494466304779
+2026-05-01 13:12:20,"S&P 500’s Strong May Footing Powered by Apple, SanDisk, and Easing Oil",AAPL,Yahoo RSS,positive,0.9371613264083862
+2026-05-01 12:59:46,"Dow futures rise 200 points as Apple stock climbs, oil falls",AAPL,Yahoo RSS,positive,0.43763303756713867
+2026-05-01 12:58:47,"US Equity Futures Nudge Higher Pre-Bell After S&P 500, Nasdaq Reach New Closing Highs",AAPL,Yahoo RSS,positive,0.6427894234657288
+2026-05-01 12:00:00,Dow Jones expected to build on gains as earnings impress,AAPL,Yahoo RSS,positive,0.928697407245636
+2026-04-30 18:20:00,"""Magnificent Seven"" Companies Microsoft, Amazon, Alphabet, and Meta Just Reported Earnings. Here Are the Winners and Losers - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-05-01 13:12:20,"S&P 500’s Strong May Footing Powered by Apple, SanDisk, and Easing Oil",GOOGL,Yahoo RSS,positive,0.9371613264083862
+2026-05-01 11:53:58,S&P 500 logs best month since 2020 despite Iran oil shock,GOOGL,Yahoo RSS,positive,0.77278071641922
+2026-05-01 11:43:00,"Sandisk Falls After Strong Earnings Report. Analyst Sees Stock Hitting $2,000.",GOOGL,Yahoo RSS,negative,-0.5364602208137512
+2026-05-01 10:50:00,Markets Enjoyed an Historic April. Why the S&P 500 Could Fall Short in May.,GOOGL,Yahoo RSS,negative,-0.6447629332542419
+2026-05-01 06:19:00,Amazon stock hits record high as AI drives AWS growth,AMZN,Bing RSS,positive,0.617657482624054
+2026-05-01 13:12:20,"S&P 500’s Strong May Footing Powered by Apple, SanDisk, and Easing Oil",AMZN,Yahoo RSS,positive,0.9371613264083862
+2026-05-01 11:43:00,"Sandisk Falls After Strong Earnings Report. Analyst Sees Stock Hitting $2,000.",AMZN,Yahoo RSS,negative,-0.5364602208137512
+2026-05-01 10:50:00,Markets Enjoyed an Historic April. Why the S&P 500 Could Fall Short in May.,AMZN,Yahoo RSS,negative,-0.6447629332542419
+2026-05-01 13:12:20,"S&P 500’s Strong May Footing Powered by Apple, SanDisk, and Easing Oil",MSFT,Yahoo RSS,positive,0.9371613264083862
+2026-05-01 11:43:00,"Sandisk Falls After Strong Earnings Report. Analyst Sees Stock Hitting $2,000.",MSFT,Yahoo RSS,negative,-0.5364602208137512
+2026-05-01 13:12:20,"S&P 500’s Strong May Footing Powered by Apple, SanDisk, and Easing Oil",NVDA,Yahoo RSS,positive,0.9371613264083862
+2026-05-01 11:09:36,Tesla sales rebound continues in several European markets in April By Reuters - Investing.com,TSLA,Google RSS,positive,0.6797475218772888
+2026-05-01 11:43:00,"Sandisk Falls After Strong Earnings Report. Analyst Sees Stock Hitting $2,000.",META,Yahoo RSS,negative,-0.5364602208137512
+2026-05-01 10:50:00,Markets Enjoyed an Historic April. Why the S&P 500 Could Fall Short in May.,META,Yahoo RSS,negative,-0.6447629332542419
