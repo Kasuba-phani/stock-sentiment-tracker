@@ -139,7 +139,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-01 09:27:17,Morgan Stanley raises Apple stock price target on strong quarter - Investing.com,AAPL,Google RSS,neutral,0.0
 2026-05-01 13:12:20,"S&P 500’s Strong May Footing Powered by Apple, SanDisk, and Easing Oil - 24/7 Wall St.",AAPL,Google RSS,positive,0.927494466304779
 2026-05-01 13:12:20,"S&P 500’s Strong May Footing Powered by Apple, SanDisk, and Easing Oil",AAPL,Yahoo RSS,positive,0.9371613264083862
-2026-05-01 12:59:46,"Dow futures rise 200 points as Apple stock climbs, oil falls",AAPL,Yahoo RSS,positive,0.43763303756713867
+2026-05-01 12:59:46,"Dow futures rise 200 points as Apple stock climbs, oil falls",AAPL,Yahoo RSS,positive,0.4376330375671386
 2026-05-01 12:58:47,"US Equity Futures Nudge Higher Pre-Bell After S&P 500, Nasdaq Reach New Closing Highs",AAPL,Yahoo RSS,positive,0.6427894234657288
 2026-05-01 12:00:00,Dow Jones expected to build on gains as earnings impress,AAPL,Yahoo RSS,positive,0.928697407245636
 2026-04-30 18:20:00,"""Magnificent Seven"" Companies Microsoft, Amazon, Alphabet, and Meta Just Reported Earnings. Here Are the Winners and Losers - The Motley Fool",GOOGL,Google RSS,neutral,0.0
@@ -157,3 +157,23 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-01 11:09:36,Tesla sales rebound continues in several European markets in April By Reuters - Investing.com,TSLA,Google RSS,positive,0.6797475218772888
 2026-05-01 11:43:00,"Sandisk Falls After Strong Earnings Report. Analyst Sees Stock Hitting $2,000.",META,Yahoo RSS,negative,-0.5364602208137512
 2026-05-01 10:50:00,Markets Enjoyed an Historic April. Why the S&P 500 Could Fall Short in May.,META,Yahoo RSS,negative,-0.6447629332542419
+2026-05-01 13:38:07,Dow futures up 200 points as Apple stock pops and oil falls - qz.com,AAPL,Google RSS,neutral,0.0
+2026-05-01 00:50:39,Stocks open at a record high as Wall Street looks to kick off May on a strong note - Investing.com,AAPL,Google RSS,positive,0.6370444893836975
+2026-05-01 13:38:56,"US Stock Market Today: Dow Jones Rises, S&P 500 Hits Record High As Iran-US Talks Make Progress; Apple Shares Surge - NDTV Profit",AAPL,Google RSS,positive,0.8507983684539795
+2026-05-01 13:53:50,S&P 500 profit eyes sharpest quarterly growth in four years after Big Tech results,AAPL,Yahoo RSS,negative,-0.6324091553688049
+2026-05-01 13:49:41,"Nasdaq Composite Takes Off as Tech Bulls Retake Control on Strong Earnings, M&A",AAPL,Yahoo RSS,positive,0.8373445272445679
+2026-05-01 14:08:12,Schwab Analyst: Chip Stocks Face ‘Overhead Supply’ Risk After 50% Rally Off March Lows,GOOGL,Yahoo RSS,negative,-0.9270491003990173
+2026-05-01 13:53:50,S&P 500 profit eyes sharpest quarterly growth in four years after Big Tech results,GOOGL,Yahoo RSS,negative,-0.6324091553688049
+2026-05-01 13:49:41,"Nasdaq Composite Takes Off as Tech Bulls Retake Control on Strong Earnings, M&A",GOOGL,Yahoo RSS,positive,0.8373445272445679
+2026-05-01 14:38:39,Rivian stock drops 5%: is Amazon reliance a growing risk? - Invezz,AMZN,Google RSS,negative,-0.8774530291557312
+2026-05-01 14:08:12,Schwab Analyst: Chip Stocks Face ‘Overhead Supply’ Risk After 50% Rally Off March Lows,AMZN,Yahoo RSS,negative,-0.9270491003990173
+2026-05-01 13:53:50,S&P 500 profit eyes sharpest quarterly growth in four years after Big Tech results,AMZN,Yahoo RSS,negative,-0.6324091553688049
+2026-05-01 14:31:13,Microsoft stock price forecast: $420 resistance as MSFT trades flat near $411.20 - Traders Union,MSFT,Google RSS,negative,-0.7677061557769775
+2026-05-01 14:08:12,Schwab Analyst: Chip Stocks Face ‘Overhead Supply’ Risk After 50% Rally Off March Lows,MSFT,Yahoo RSS,negative,-0.9270491003990173
+2026-05-01 13:53:50,S&P 500 profit eyes sharpest quarterly growth in four years after Big Tech results,MSFT,Yahoo RSS,negative,-0.6324091553688049
+2026-05-01 14:08:12,Schwab Analyst: Chip Stocks Face ‘Overhead Supply’ Risk After 50% Rally Off March Lows,NVDA,Yahoo RSS,negative,-0.9270491003990173
+2026-05-01 13:49:41,"Nasdaq Composite Takes Off as Tech Bulls Retake Control on Strong Earnings, M&A",NVDA,Yahoo RSS,positive,0.8373445272445679
+2026-05-01 14:04:00,RIVN Stock Draws Retail Buzz As Analyst Flags Soft Demand Environment Ahead Of R2 SUV Launch – Retail Sees Tesla Similarities - Stocktwits,TSLA,Google RSS,positive,0.7134746313095093
+2026-05-01 14:08:12,Schwab Analyst: Chip Stocks Face ‘Overhead Supply’ Risk After 50% Rally Off March Lows,META,Yahoo RSS,negative,-0.9270491003990173
+2026-05-01 13:53:50,S&P 500 profit eyes sharpest quarterly growth in four years after Big Tech results,META,Yahoo RSS,negative,-0.6324091553688049
+2026-05-01 13:49:41,"Nasdaq Composite Takes Off as Tech Bulls Retake Control on Strong Earnings, M&A",META,Yahoo RSS,positive,0.8373445272445679
