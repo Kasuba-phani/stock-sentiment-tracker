@@ -100,3 +100,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 07:11:41,DA Davidson raises Amazon stock price target on strong AWS growth - Investing.com,AMZN,Google RSS,neutral,0.0
 2026-05-02 19:05:00,Investors Should Buy the Stocks of These 3 OpenAI Partners Regardless of What Happens to OpenAI,AMZN,Yahoo RSS,neutral,0.0
 2026-05-02 19:05:00,Investors Should Buy the Stocks of These 3 OpenAI Partners Regardless of What Happens to OpenAI,NVDA,Yahoo RSS,neutral,0.0
+2026-04-27 12:44:00,Goldman Sachs resets Apple stock forecast before earnings - thestreet.com,AAPL,Google RSS,neutral,0.0
+2026-05-02 11:03:00,"Amazon stock jumps as BofA lifts target on AI, AWS growth after earnings",AMZN,Bing RSS,positive,0.8128297924995422
