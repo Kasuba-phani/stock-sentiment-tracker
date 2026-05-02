@@ -80,3 +80,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 07:32:24,Stifel raises Microsoft stock price target on Azure growth outlook - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-05-02 08:54:30,"Microsoft Stock Forecast, May 3, 2026: Azure and Copilot Drive AI Growth Even as Capital Spending Rises - FXLeaders",MSFT,Google RSS,positive,0.711696207523346
 2026-04-30 09:58:45,Goldman Sachs lowers Meta stock price target to $830 on capex rise - Investing.com,META,Google RSS,neutral,0.0
+2026-05-01 12:05:00,"Dow Jones Futures Rise As Apple Climbs On Earnings, Sandisk Skids; Stock Market At High - Investor's Business Daily",AAPL,Google RSS,negative,-0.7008054256439209
+2026-05-01 13:10:00,"Big Tech earnings fuels mixed stock moves, as Apple pops, Meta plunges, and Alphabet surges - Business Insider",AAPL,Google RSS,positive,0.3882831335067749
+2026-04-30 21:24:20,Apple stock subdued after reporting earnings beat alongside iPhone constraints - FXStreet,AAPL,Google RSS,negative,-0.887651801109314
+2026-04-30 07:11:42,Stifel raises Alphabet stock price target on cloud growth strength - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-04-29 13:28:00,Alphabet stock rises on strong financial growth and quarterly beat: Key takeaways,GOOGL,Bing RSS,positive,0.7738557457923889
