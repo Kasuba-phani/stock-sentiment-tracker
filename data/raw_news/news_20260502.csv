@@ -85,3 +85,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 21:24:20,Apple stock subdued after reporting earnings beat alongside iPhone constraints - FXStreet,AAPL,Google RSS,negative,-0.887651801109314
 2026-04-30 07:11:42,Stifel raises Alphabet stock price target on cloud growth strength - Investing.com,GOOGL,Google RSS,neutral,0.0
 2026-04-29 13:28:00,Alphabet stock rises on strong financial growth and quarterly beat: Key takeaways,GOOGL,Bing RSS,positive,0.7738557457923889
+2026-04-29 22:21:56,"Microsoft stock price, earnings, investor relations and quarterly cloud revenue growth fall after cloud re - The Economic Times",MSFT,Google RSS,negative,-0.9201454520225525
+2026-04-30 18:22:00,Microsoft shares are on pace for a 13th straight earnings-day decline - Seeking Alpha,MSFT,Google RSS,positive,0.8243780732154846
