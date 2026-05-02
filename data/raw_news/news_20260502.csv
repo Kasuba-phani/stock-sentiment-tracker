@@ -78,3 +78,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 08:11:31,META: Meta Stock Tumbles 7% Despite Double Beat. High Capex Is a Big Worry. - TradingView,META,Google RSS,negative,-0.956997573375702
 2026-04-30 12:39:48,BMO raises Microsoft stock price target to $515 on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-04-30 07:32:24,Stifel raises Microsoft stock price target on Azure growth outlook - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-05-02 08:54:30,"Microsoft Stock Forecast, May 3, 2026: Azure and Copilot Drive AI Growth Even as Capital Spending Rises - FXLeaders",MSFT,Google RSS,positive,0.711696207523346
+2026-04-30 09:58:45,Goldman Sachs lowers Meta stock price target to $830 on capex rise - Investing.com,META,Google RSS,neutral,0.0
