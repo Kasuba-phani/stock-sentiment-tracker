@@ -75,4 +75,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 09:00:21,RBC Capital raises Alphabet stock price target on strong cloud growth - Investing.com,GOOGL,Google RSS,neutral,0.0
 2026-04-30 15:46:54,Microsoft back on offense as quarter shows strong AI demand. Wall Street sees big stock gains ahead - CNBC,MSFT,Google RSS,positive,0.7033498883247375
 2026-04-30 10:16:00,"Microsoft tops Wall Street expectations, reports accelerating Azure growth and $37B AI run rate",MSFT,Bing RSS,positive,0.9470857977867126
-2026-04-30 08:11:31,META: Meta Stock Tumbles 7% Despite Double Beat. High Capex Is a Big Worry. - TradingView,META,Google RSS,negative,-0.9569975733757019
+2026-04-30 08:11:31,META: Meta Stock Tumbles 7% Despite Double Beat. High Capex Is a Big Worry. - TradingView,META,Google RSS,negative,-0.956997573375702
+2026-04-30 12:39:48,BMO raises Microsoft stock price target to $515 on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-04-30 07:32:24,Stifel raises Microsoft stock price target on Azure growth outlook - Investing.com,MSFT,Google RSS,neutral,0.0
