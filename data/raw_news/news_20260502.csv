@@ -64,7 +64,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-01 20:14:00,Netflix Stock Investors Must See This Exciting Growth Strategy,NFLX,Bing RSS,positive,0.620159924030304
 2026-04-30 11:44:27,"Stocks making the biggest moves premarket: Meta, Eli Lilly, Caterpillar, Amazon & more",AMZN,CNBC Finance,neutral,0.0
 2026-04-30 11:44:27,"Stocks making the biggest moves premarket: Meta, Eli Lilly, Caterpillar, Amazon & more",META,CNBC Finance,neutral,0.0
-2026-05-02 03:30:00,"Alphabet Shares Hit New Highs on Strong Q1 2026 Results, AI Growth Drives Revenue Surge - IndexBox",GOOGL,Google RSS,positive,0.9142646789550781
+2026-05-02 03:30:00,"Alphabet Shares Hit New Highs on Strong Q1 2026 Results, AI Growth Drives Revenue Surge - IndexBox",GOOGL,Google RSS,positive,0.914264678955078
 2026-05-01 13:18:14,"Big Tech capex ranked: What Alphabet, Amazon, Apple, Meta, and Microsoft are spending as AI investment surges - fastcompany.com",GOOGL,Google RSS,neutral,0.0
 2026-04-30 20:51:49,Why Alphabet stock surged to an all-time high today,GOOGL,Bing RSS,neutral,0.0
 2026-04-30 12:25:19,KeyBanc raises Amazon stock price target to $330 on cloud strength - Investing.com,AMZN,Google RSS,neutral,0.0
@@ -72,3 +72,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 20:10:00,Microsoft Stock Slides After Earnings. What Overshadowed Strong Cloud Growth. - Barron's,MSFT,Google RSS,negative,-0.8106538653373718
 2026-05-02 04:25:06,Netflix Stock Investors Must See This Exciting Growth Strategy - The Globe and Mail,NFLX,Google RSS,positive,0.6228398084640503
 2026-04-30 22:28:56,Apple Tops March-Quarter Targets On Strong iPhone 17 Sales. Stock Jumps On Outlook.,AAPL,Yahoo Global,positive,0.8117650747299194
+2026-04-30 09:00:21,RBC Capital raises Alphabet stock price target on strong cloud growth - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-04-30 15:46:54,Microsoft back on offense as quarter shows strong AI demand. Wall Street sees big stock gains ahead - CNBC,MSFT,Google RSS,positive,0.7033498883247375
+2026-04-30 10:16:00,"Microsoft tops Wall Street expectations, reports accelerating Azure growth and $37B AI run rate",MSFT,Bing RSS,positive,0.9470857977867126
+2026-04-30 08:11:31,META: Meta Stock Tumbles 7% Despite Double Beat. High Capex Is a Big Worry. - TradingView,META,Google RSS,negative,-0.9569975733757019
