@@ -91,4 +91,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-02 15:35:58,"Alphabet stock hits record high after strong Q1 earnings, US-Iran ceasefire - Crypto Briefing",GOOGL,Google RSS,positive,0.828271210193634
 2026-05-02 08:38:00,"Alphabet stock hits record high after strong Q1 earnings, US-Iran ceasefire",GOOGL,Bing RSS,positive,0.923193097114563
 2026-04-30 10:06:58,Telsey raises Amazon stock price target to $315 on strong AWS growth - Investing.com,AMZN,Google RSS,positive,0.6672787666320801
-2026-04-29 20:19:28,"Microsoft tops Wall Street expectations, reports accelerating Azure growth and $37B AI run rate - GeekWire",MSFT,Google RSS,positive,0.9390687346458435
+2026-04-29 20:19:28,"Microsoft tops Wall Street expectations, reports accelerating Azure growth and $37B AI run rate - GeekWire",MSFT,Google RSS,positive,0.9390687346458436
+2026-05-01 07:00:00,Apple Stock Posts $111B Record Quarter Despite iPhone Supply Constraints - TIKR.com,AAPL,Google RSS,neutral,0.0
+2026-04-30 21:50:00,Apple shares June quarter guidance with 14% to 17% revenue growth outlook - 9to5Mac,AAPL,Google RSS,positive,0.6377430558204651
+2026-04-30 22:38:51,Apple tops March-quarter targets on strong iPhone 17 sales. Stock jumps on outlook - MSN,AAPL,Google RSS,positive,0.6984763741493225
+2026-05-02 18:51:12,Meta stock price prediction drops despite strong earnings from tech giants - Crypto Briefing,META,Google RSS,negative,-0.950925886631012
