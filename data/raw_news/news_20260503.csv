@@ -11,8 +11,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 21:50:00,Apple shares June quarter guidance with 14% to 17% revenue growth outlook - 9to5Mac,AAPL,Google RSS,positive,0.6377430558204651
 2026-04-30 22:38:51,Apple tops March-quarter targets on strong iPhone 17 sales. Stock jumps on outlook - MSN,AAPL,Google RSS,positive,0.6984763741493225
 2026-05-01 22:35:59,"S&P 500, Nasdaq end higher, notch weekly gains",AAPL,Yahoo RSS,positive,0.870927631855011
-2026-04-30 14:06:41,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April - CNBC,GOOGL,Google RSS,positive,0.9382379055023193
-2026-04-29 20:27:20,Alphabet stock rises on strong financial growth and quarterly beat: Key takeaways (GOOG:NASDAQ) - Seeking Alpha,GOOGL,Google RSS,positive,0.9090128540992737
+2026-04-30 14:06:41,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April - CNBC,GOOGL,Google RSS,positive,0.9382379055023192
+2026-04-29 20:27:20,Alphabet stock rises on strong financial growth and quarterly beat: Key takeaways (GOOG:NASDAQ) - Seeking Alpha,GOOGL,Google RSS,positive,0.9090128540992736
 2026-04-29 21:14:00,Alphabet shares rise as cloud boom validates Google’s AI push - CNBC,GOOGL,Google RSS,neutral,0.0
 2026-05-02 15:35:58,"Alphabet stock hits record high after strong Q1 earnings, US-Iran ceasefire - Crypto Briefing",GOOGL,Google RSS,positive,0.828271210193634
 2026-04-30 20:59:00,"Qualcomm, Microsoft, Alphabet, Amazon, Meta, Quanta Services, Hertz, Caterpillar, Mastercard, and More Movers - Barron's",GOOGL,Google RSS,neutral,0.0
@@ -25,7 +25,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 20:51:49,Why Alphabet stock surged to an all-time high today,GOOGL,Bing RSS,neutral,0.0
 2026-04-29 13:39:00,Alphabet earnings send the stock higher. The company just posted massive cloud growth.,GOOGL,Bing RSS,positive,0.9407004714012146
 2026-05-02 08:38:00,"Alphabet stock hits record high after strong Q1 earnings, US-Iran ceasefire",GOOGL,Bing RSS,positive,0.923193097114563
-2026-04-30 14:11:00,Amazon's cloud sales are growing the most in 15 quarters. Investors sent the stock down on AI capex fears - Fortune,AMZN,Google RSS,negative,-0.9681888818740845
+2026-04-30 14:11:00,Amazon's cloud sales are growing the most in 15 quarters. Investors sent the stock down on AI capex fears - Fortune,AMZN,Google RSS,negative,-0.9681888818740844
 2026-04-29 16:00:01,Amazon earnings beat expectations with strong cloud growth - CNBC,AMZN,Google RSS,positive,0.9237109422683716
 2026-04-29 23:12:01,"Amazon tops cloud expectations on strong AI demand, shares rise - Reuters",AMZN,Google RSS,positive,0.909991979598999
 2026-04-30 15:56:57,Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand - CNBC,AMZN,Google RSS,positive,0.8962745070457458
@@ -44,21 +44,21 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 15:45:13,Why Microsoft Stock (MSFT) Is Down Today and Why One Investor Still Calls It a ‘Strong Buy’ - TipRanks,MSFT,Google RSS,negative,-0.8778311610221863
 2026-04-29 20:08:00,"Microsoft expects strong cloud business growth, plans record capital spending - Reuters",MSFT,Google RSS,positive,0.854786217212677
 2026-04-30 18:20:00,"""Magnificent Seven"" Companies Microsoft, Amazon, Alphabet, and Meta Just Reported Earnings. Here Are the Winners and Losers - The Motley Fool",MSFT,Google RSS,neutral,0.0
-2026-04-29 18:26:32,Microsoft stock suffers worst quarterly decline since 2008 crisis - Crypto Briefing,MSFT,Google RSS,negative,-0.9637143015861511
+2026-04-29 18:26:32,Microsoft stock suffers worst quarterly decline since 2008 crisis - Crypto Briefing,MSFT,Google RSS,negative,-0.9637143015861512
 2026-04-30 18:22:00,Microsoft shares are on pace for a 13th straight earnings-day decline - Seeking Alpha,MSFT,Google RSS,positive,0.8243780732154846
 2026-04-30 12:39:48,BMO raises Microsoft stock price target to $515 on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-04-30 07:32:24,Stifel raises Microsoft stock price target on Azure growth outlook - Investing.com,MSFT,Google RSS,neutral,0.0
-2026-04-29 22:21:56,"Microsoft stock price, earnings, investor relations and quarterly cloud revenue growth fall after cloud re - The Economic Times",MSFT,Google RSS,negative,-0.9201454520225525
-2026-04-28 19:06:52,Traders bet Nvidia's stock will return to record highs soon - CNBC,NVDA,Google RSS,positive,0.48681923747062683
+2026-04-29 22:21:56,"Microsoft stock price, earnings, investor relations and quarterly cloud revenue growth fall after cloud re - The Economic Times",MSFT,Google RSS,negative,-0.9201454520225524
+2026-04-28 19:06:52,Traders bet Nvidia's stock will return to record highs soon - CNBC,NVDA,Google RSS,positive,0.4868192374706268
 2026-05-03 02:25:21,"NVDA vs. MU: Which “Strong Buy” AI Stock Has the Higher Upside Potential, According to Analysts? - TipRanks",NVDA,Google RSS,positive,0.5753920078277588
 2026-05-02 19:05:00,Investors Should Buy the Stocks of These 3 OpenAI Partners Regardless of What Happens to OpenAI,NVDA,Yahoo RSS,neutral,0.0
 2026-05-02 00:57:25,Stronger technical forecast for Tesla stock price after Friday trading - StockInvest.us,TSLA,Google RSS,positive,0.5453321933746338
-2026-04-30 14:06:41,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April - CNBC,META,Google RSS,positive,0.9382379055023193
+2026-04-30 14:06:41,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April - CNBC,META,Google RSS,positive,0.9382379055023192
 2026-04-29 20:16:24,"Meta stock slumps after JPM downgrade, rising capex outweighs solid results - Investing.com",META,Google RSS,negative,-0.8575104475021362
-2026-04-29 16:00:01,Meta stock drops on quarterly results as 'internet disruptions' in Iran drag down user numbers - CNBC,META,Google RSS,negative,-0.9636858701705933
+2026-04-29 16:00:01,Meta stock drops on quarterly results as 'internet disruptions' in Iran drag down user numbers - CNBC,META,Google RSS,negative,-0.9636858701705932
 2026-05-02 18:51:12,Meta stock price prediction drops despite strong earnings from tech giants - Crypto Briefing,META,Google RSS,negative,-0.950925886631012
-2026-04-30 08:14:02,Meta Earnings: Ad Sales Growth Continues to Accelerate Even as AI Costs Mount - Morningstar,META,Google RSS,positive,0.9230760931968689
-2026-04-29 20:43:07,Meta stock plunges 6% after earnings leave investors disappointed - Invezz,META,Google RSS,negative,-0.9543096423149109
+2026-04-30 08:14:02,Meta Earnings: Ad Sales Growth Continues to Accelerate Even as AI Costs Mount - Morningstar,META,Google RSS,positive,0.9230760931968688
+2026-04-29 20:43:07,Meta stock plunges 6% after earnings leave investors disappointed - Invezz,META,Google RSS,negative,-0.9543096423149108
 2026-04-30 12:29:00,META Stock On Track For Worst Single Day Decline In 6 Months — Wall Street Debates Rising AI Capex Versus Strong Ad Growth - Stocktwits,META,Google RSS,negative,-0.9072802662849426
 2026-04-30 09:58:45,Goldman Sachs lowers Meta stock price target to $830 on capex rise - Investing.com,META,Google RSS,neutral,0.0
 2026-04-30 07:37:25,"Why Is Netflix Stock Falling, and is it a Generational Buying Opportunity? - The Motley Fool",NFLX,Google RSS,negative,-0.7944538593292236
@@ -66,3 +66,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 11:44:27,"Stocks making the biggest moves premarket: Meta, Eli Lilly, Caterpillar, Amazon & more",AMZN,CNBC Finance,neutral,0.0
 2026-04-30 11:44:27,"Stocks making the biggest moves premarket: Meta, Eli Lilly, Caterpillar, Amazon & more",META,CNBC Finance,neutral,0.0
 2026-04-30 23:10:56,"Stock market today: S&P 500, Nasdaq jump to fresh records as AI trade fuels tech rally, Apple stock jumps",AAPL,Yahoo Global,positive,0.5696947574615479
+2026-05-01 09:27:17,Morgan Stanley raises Apple stock price target on strong quarter - Investing.com,AAPL,Google RSS,neutral,0.0
+2026-04-29 23:49:00,Alphabet earnings send the stock higher. The company just posted massive cloud growth. - MarketWatch,GOOGL,Google RSS,positive,0.6723092794418335
+2026-05-03 05:32:20,My Top 5 Stocks to Buy in May - The Globe and Mail,GOOGL,Google RSS,neutral,0.0
+2026-05-03 05:32:00,My Top 5 Stocks to Buy in May,GOOGL,Yahoo RSS,neutral,0.0
+2026-04-29 20:51:20,"Amazon's cloud unit reports 28% sales growth, topping estimates - CNBC",AMZN,Google RSS,positive,0.900216281414032
+2026-04-30 00:33:39,"Amazon tops cloud expectations on strong AI demand, shares dip By Reuters - Investing.com",AMZN,Google RSS,negative,-0.9598737955093384
+2026-05-03 05:32:00,My Top 5 Stocks to Buy in May,AMZN,Yahoo RSS,neutral,0.0
+2026-04-30 01:43:18,"Microsoft stock price ended at $424.46 on Wednesday, after losing 1.12% - StockInvest.us",MSFT,Google RSS,negative,-0.962670624256134
+2026-05-01 14:31:13,Microsoft stock price forecast: $420 resistance as MSFT trades flat near $411.20 - Traders Union,MSFT,Google RSS,negative,-0.7677065134048462
+2026-04-30 13:10:00,Microsoft stock slides after earnings: What overshadowed strong cloud growth,MSFT,Bing RSS,negative,-0.9120106101036072
+2026-04-29 11:40:00,Analysts trim Microsoft-linked crypto stock's target despite AI push,MSFT,Bing RSS,negative,-0.6126556396484375
