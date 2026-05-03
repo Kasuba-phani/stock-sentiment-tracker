@@ -114,4 +114,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-29 21:03:33,Microsoft stock slides after earnings: What overshadowed strong cloud growth - MSN,MSFT,Google RSS,negative,-0.841106116771698
 2026-05-03 22:34:46,"Dow Jones Futures Rise, Oil Prices Fall; Trump Says U.S. To Guide Ships Through Hormuz",AAPL,Yahoo RSS,negative,-0.5958736538887024
 2026-05-03 22:34:46,"Dow Jones Futures Rise, Oil Prices Fall; Trump Says U.S. To Guide Ships Through Hormuz",GOOGL,Yahoo RSS,negative,-0.5958736538887024
-2026-04-30 15:48:24,Microsoft Stock Falls On Q3 Earnings: Analyst Predicts Growth Ahead — 'Leading Horseman Of The AI Revolut - Benzinga,MSFT,Google RSS,negative,-0.9460205435752869
+2026-04-30 15:48:24,Microsoft Stock Falls On Q3 Earnings: Analyst Predicts Growth Ahead — 'Leading Horseman Of The AI Revolut - Benzinga,MSFT,Google RSS,negative,-0.9460205435752868
+2026-05-01 16:46:23,Monness raises Apple stock price target to $335 on strong quarter - Investing.com,AAPL,Google RSS,neutral,0.0
+2026-05-03 23:43:50,"Dow Jones Futures Rise, Oil Prices Fall; Trump Says U.S. To 'Guide' Ships Through Hormuz",AAPL,Yahoo RSS,negative,-0.5831502676010132
+2026-05-03 23:43:50,"Dow Jones Futures Rise, Oil Prices Fall; Trump Says U.S. To 'Guide' Ships Through Hormuz",GOOGL,Yahoo RSS,negative,-0.5831502676010132
