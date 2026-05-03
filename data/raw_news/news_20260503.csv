@@ -104,3 +104,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-03 14:00:00,Traders Grapple With Two-Sided Tail Risk as Stocks Regain Highs,NVDA,Yahoo RSS,negative,-0.8183413147926331
 2026-05-03 08:50:18,"Tesla, Inc. (NASDAQ:TSLA) Given Average Recommendation of ""Hold"" by Analysts - MarketBeat",TSLA,Google RSS,positive,0.8468275666236877
 2026-05-03 14:00:00,Traders Grapple With Two-Sided Tail Risk as Stocks Regain Highs,META,Yahoo RSS,negative,-0.8183413147926331
+2026-05-03 16:02:40,"AI boom lifts big tech earnings, but Wall Street is picking winners and losers (META:NASDAQ) - Seeking Alpha",GOOGL,Google RSS,neutral,0.0
+2026-05-02 00:03:40,"Meta, Microsoft stocks fall after disappointing earnings reports - Fox Business",MSFT,Google RSS,negative,-0.9663076996803284
+2026-05-03 09:07:00,The biggest reason Microsoft's earnings report was a disappointment,MSFT,Bing RSS,negative,-0.7207445502281189
+2026-05-03 16:02:40,"AI boom lifts big tech earnings, but Wall Street is picking winners and losers (META:NASDAQ) - Seeking Alpha",META,Google RSS,neutral,0.0
