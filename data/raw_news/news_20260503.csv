@@ -88,5 +88,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-01 12:05:00,"Dow Jones Futures Rise As Apple Climbs On Earnings, Sandisk Skids; Stock Market At High - Investor's Business Daily",AAPL,Google RSS,negative,-0.7008074522018433
 2026-05-01 12:25:00,Apple stock surged after earnings. 3 concerns lurking beneath the surface,AAPL,Bing RSS,neutral,0.0
 2026-04-30 07:11:41,DA Davidson raises Amazon stock price target on strong AWS growth - Investing.com,AMZN,Google RSS,neutral,0.0
-2026-04-30 07:50:35,"MSFT: Microsoft Stock Steady After Strong Earnings, Cloud Growth Hits 40% - TradingView",MSFT,Google RSS,positive,0.9421083331108093
+2026-04-30 07:50:35,"MSFT: Microsoft Stock Steady After Strong Earnings, Cloud Growth Hits 40% - TradingView",MSFT,Google RSS,positive,0.9421083331108092
 2026-05-03 09:26:33,Third View Private Wealth LLC Acquires New Shares in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,neutral,0.0
+2026-05-03 11:26:01,The Glaring Reason Microsoft Is Falling Behind Alphabet and Amazon - The Motley Fool,GOOGL,Google RSS,negative,-0.7213854789733887
+2026-05-03 11:20:00,The Glaring Reason Microsoft Is Falling Behind Alphabet and Amazon,GOOGL,Yahoo RSS,negative,-0.5507859587669373
+2026-05-03 11:22:03,The Glaring Reason Microsoft Is Falling Behind Alphabet and Amazon - The Globe and Mail,AMZN,Google RSS,negative,-0.7492984533309937
+2026-05-03 11:20:00,The Glaring Reason Microsoft Is Falling Behind Alphabet and Amazon,AMZN,Yahoo RSS,negative,-0.5507859587669373
+2026-05-03 11:26:01,The Glaring Reason Microsoft Is Falling Behind Alphabet and Amazon - The Motley Fool,MSFT,Google RSS,negative,-0.7213854789733887
+2026-05-03 11:20:00,The Glaring Reason Microsoft Is Falling Behind Alphabet and Amazon,MSFT,Yahoo RSS,negative,-0.5507859587669373
+2026-05-03 11:20:00,The Glaring Reason Microsoft Is Falling Behind Alphabet and Amazon,NVDA,Yahoo RSS,negative,-0.5507859587669373
