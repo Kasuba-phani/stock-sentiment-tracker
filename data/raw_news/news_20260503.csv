@@ -99,3 +99,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-03 11:20:00,The Glaring Reason Microsoft Is Falling Behind Alphabet and Amazon,NVDA,Yahoo RSS,negative,-0.5507859587669373
 2026-05-03 13:00:32,'It's a boom': Wall Street sees more market gains as strong earnings fuel the AI trade,MSFT,Yahoo RSS,positive,0.9464979767799376
 2026-05-01 01:14:00,Apple's stock rises after earnings. Here are the biggest highlights. - MarketWatch,AAPL,Google RSS,neutral,0.0
+2026-04-30 21:48:00,"Stock Market News, April 30, 2026: Dow rises 790 points, S&P 500 and Nasdaq close at records as GDP data shows the U.S. economy continues to grow; Big Tech slips; oil falls back from four-year high; Alphabet shares jump as Meta falls - MarketWatch",GOOGL,Google RSS,negative,-0.8022472262382507
+2026-05-03 15:18:10,Wall Street splits on Microsoft after earnings: Is the Azure acceleration worth the CapEx? - MSN,MSFT,Google RSS,neutral,0.0
+2026-05-03 14:00:00,Traders Grapple With Two-Sided Tail Risk as Stocks Regain Highs,NVDA,Yahoo RSS,negative,-0.8183413147926331
+2026-05-03 08:50:18,"Tesla, Inc. (NASDAQ:TSLA) Given Average Recommendation of ""Hold"" by Analysts - MarketBeat",TSLA,Google RSS,positive,0.8468275666236877
+2026-05-03 14:00:00,Traders Grapple With Two-Sided Tail Risk as Stocks Regain Highs,META,Yahoo RSS,negative,-0.8183413147926331
