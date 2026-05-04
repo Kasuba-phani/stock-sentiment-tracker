@@ -86,3 +86,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-04 08:41:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",TSLA,Yahoo RSS,neutral,0.0
 2026-04-30 09:58:45,Goldman Sachs lowers Meta stock price target to $830 on capex rise - Investing.com,META,Google RSS,neutral,0.0
 2026-05-04 08:41:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",META,Yahoo RSS,neutral,0.0
+2026-05-04 04:05:00,Dow Jones: US 30 Rallies as Apple Lifts Stock Market and Indices Outlook,AAPL,Bing RSS,positive,0.8852210640907288
+2026-05-04 08:43:12,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided? - The Globe and Mail",GOOGL,Google RSS,neutral,0.0
+2026-05-04 11:46:08,FedEx and UPS Stocks Dip After Amazon Opens Logistics Services to Outside Businesses - StockInvest.us,AMZN,Google RSS,negative,-0.9654223322868347
+2026-04-29 17:48:00,Amazon earnings beat expectations with strong cloud growth,AMZN,Bing RSS,positive,0.9536538124084473
+2026-05-04 10:00:00,"Amazon Launches Amazon Supply Chain Services, Opening Its Logistics Network to All Businesses",AMZN,Yahoo RSS,positive,0.5746142864227295
+2026-05-04 08:43:31,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided? - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-05-04 10:05:41,Microsoft (MSFT) Reports Strong Quarterly Performance Driven by AI Momentum - GuruFocus,MSFT,Google RSS,positive,0.9565319418907166
+2026-04-30 13:10:00,Microsoft stock slides after earnings: What overshadowed strong cloud growth,MSFT,Bing RSS,negative,-0.9120106101036072
+2026-04-29 11:40:00,Analysts trim Microsoft-linked crypto stock's target despite AI push,MSFT,Bing RSS,negative,-0.6126556396484375
+2026-05-01 13:46:00,These Tesla Rivals See Sales Bump In Transition Month - Investor's Business Daily,TSLA,Google RSS,negative,-0.8224737644195557
