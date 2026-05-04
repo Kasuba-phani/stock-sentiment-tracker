@@ -96,7 +96,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 13:10:00,Microsoft stock slides after earnings: What overshadowed strong cloud growth,MSFT,Bing RSS,negative,-0.9120106101036072
 2026-04-29 11:40:00,Analysts trim Microsoft-linked crypto stock's target despite AI push,MSFT,Bing RSS,negative,-0.6126556396484375
 2026-05-01 13:46:00,These Tesla Rivals See Sales Bump In Transition Month - Investor's Business Daily,TSLA,Google RSS,negative,-0.8224737644195557
-2026-05-04 14:02:32,Apple stock price forecast: $266.27 support key as AAPL drops 1.61% - Traders Union,AAPL,Google RSS,negative,-0.9499771595001221
+2026-05-04 14:02:32,Apple stock price forecast: $266.27 support key as AAPL drops 1.61% - Traders Union,AAPL,Google RSS,negative,-0.949977159500122
 2026-05-04 13:53:22,"Seoul, Taipei hit records on tech rally",AAPL,Yahoo RSS,positive,0.7885962128639221
 2026-05-04 12:34:00,AI Enthusiasm Powers Nasdaq to All-Time High: 3 Stocks to Grab,AAPL,Yahoo RSS,positive,0.8718908429145813
 2026-05-04 13:01:53,"S&P 500 Earnings Smash Estimates. 3 Mag 7 Stocks Lift Index - Amazon.com (NASDAQ:AMZN), Alphabet (NASDAQ - Benzinga",GOOGL,Google RSS,neutral,0.0
@@ -126,6 +126,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-04 13:43:45,Tesla’s European rebound continues in April despite decline in Norway and Spain By Reuters - Investing.com,TSLA,Google RSS,negative,-0.6711272597312927
 2026-05-04 12:10:18,"West Michigan Advisors LLC Buys 1,202 Shares of Meta Platforms, Inc. $META - MarketBeat",META,Google RSS,neutral,0.0
 2026-05-03 03:09:46,Meta stock edges lower with Q1 results due. Here are 2 earnings numbers to watch - MSN,META,Google RSS,negative,-0.8882192373275757
-2026-05-04 06:24:00,Meta stock falls as AI spending surge overshadows strong Q1,META,Bing RSS,negative,-0.9472237825393677
+2026-05-04 06:24:00,Meta stock falls as AI spending surge overshadows strong Q1,META,Bing RSS,negative,-0.9472237825393676
 2026-05-04 12:34:49,’Exceptionally strong’ U.S. earnings the driving force behind stock market rally,META,Yahoo RSS,neutral,0.0
 2026-05-04 12:34:00,AI Enthusiasm Powers Nasdaq to All-Time High: 3 Stocks to Grab,META,Yahoo RSS,positive,0.8718908429145813
+2026-05-04 08:04:35,"Apple hits near-record high, while chip stocks face pullback risk after massive rally",AAPL,Bing RSS,negative,-0.5699509382247925
+2026-05-04 14:31:58,21 New 4-Star Stocks This Week - Morningstar,GOOGL,Google RSS,neutral,0.0
+2026-05-04 15:19:00,Why Alphabet Stock Remains J.P. Morgan’s ‘Top Overall Pick’ - Barron's,GOOGL,Google RSS,neutral,0.0
+2026-05-04 15:19:00,Why Alphabet Stock Remains J.P. Morgan’s ‘Top Overall Pick’,GOOGL,Yahoo RSS,neutral,0.0
+2026-05-04 14:30:32,Shipping Stocks Fall After Amazon Launches Supply Chain Services Business - marketscreener.com,AMZN,Google RSS,negative,-0.9631645083427429
+2026-05-04 14:57:31,"U.S. Stock Movement | Amazon Rises 3% to Hit a New High! Opening Up Supply Chain Services, Valuation Logic Expected to Be Reshaped - 富途牛牛",AMZN,Google RSS,positive,0.9096206426620483
+2026-05-04 15:49:53,Top Midday Stories: GameStop Submits $55.5 Billion Bid to Acquire eBay; Amazon Launches Supply Chain Services,AMZN,Yahoo RSS,neutral,0.0
+2026-05-04 08:41:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided? - The Globe and Mail",MSFT,Google RSS,neutral,0.0
+2026-05-04 15:28:44,Analysts see 41% upside for Microsoft stock after nearly 100% backlog growth - MSN,MSFT,Google RSS,positive,0.77442467212677
+2026-05-04 06:08:00,Analysts see Nvidia stock split years away as price lags triggers,NVDA,Bing RSS,negative,-0.9508029222488403
+2026-05-04 16:20:00,Intel's Stock Hits a New All-Time High: Is It Still a Buy?,NVDA,Yahoo RSS,neutral,0.0
+2026-05-04 14:49:15,Tesla stock consolidates as first quarter earnings surpass expectations - Traders Union,TSLA,Google RSS,negative,-0.8428549766540527
+2026-05-04 15:56:40,Elon Musk Is Now Worth More Than an Average Country’s GDP,TSLA,Yahoo RSS,neutral,0.0
+2026-05-03 12:01:24,Meta stock falls sharply after strong earnings. What’s dragging it down? - MSN,META,Google RSS,negative,-0.9088540077209473
