@@ -133,13 +133,22 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-04 14:31:58,21 New 4-Star Stocks This Week - Morningstar,GOOGL,Google RSS,neutral,0.0
 2026-05-04 15:19:00,Why Alphabet Stock Remains J.P. Morgan’s ‘Top Overall Pick’ - Barron's,GOOGL,Google RSS,neutral,0.0
 2026-05-04 15:19:00,Why Alphabet Stock Remains J.P. Morgan’s ‘Top Overall Pick’,GOOGL,Yahoo RSS,neutral,0.0
-2026-05-04 14:30:32,Shipping Stocks Fall After Amazon Launches Supply Chain Services Business - marketscreener.com,AMZN,Google RSS,negative,-0.9631645083427429
-2026-05-04 14:57:31,"U.S. Stock Movement | Amazon Rises 3% to Hit a New High! Opening Up Supply Chain Services, Valuation Logic Expected to Be Reshaped - 富途牛牛",AMZN,Google RSS,positive,0.9096206426620483
+2026-05-04 14:30:32,Shipping Stocks Fall After Amazon Launches Supply Chain Services Business - marketscreener.com,AMZN,Google RSS,negative,-0.9631645083427428
+2026-05-04 14:57:31,"U.S. Stock Movement | Amazon Rises 3% to Hit a New High! Opening Up Supply Chain Services, Valuation Logic Expected to Be Reshaped - 富途牛牛",AMZN,Google RSS,positive,0.9096206426620485
 2026-05-04 15:49:53,Top Midday Stories: GameStop Submits $55.5 Billion Bid to Acquire eBay; Amazon Launches Supply Chain Services,AMZN,Yahoo RSS,neutral,0.0
 2026-05-04 08:41:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided? - The Globe and Mail",MSFT,Google RSS,neutral,0.0
 2026-05-04 15:28:44,Analysts see 41% upside for Microsoft stock after nearly 100% backlog growth - MSN,MSFT,Google RSS,positive,0.77442467212677
-2026-05-04 06:08:00,Analysts see Nvidia stock split years away as price lags triggers,NVDA,Bing RSS,negative,-0.9508029222488403
+2026-05-04 06:08:00,Analysts see Nvidia stock split years away as price lags triggers,NVDA,Bing RSS,negative,-0.9508029222488404
 2026-05-04 16:20:00,Intel's Stock Hits a New All-Time High: Is It Still a Buy?,NVDA,Yahoo RSS,neutral,0.0
 2026-05-04 14:49:15,Tesla stock consolidates as first quarter earnings surpass expectations - Traders Union,TSLA,Google RSS,negative,-0.8428549766540527
 2026-05-04 15:56:40,Elon Musk Is Now Worth More Than an Average Country’s GDP,TSLA,Yahoo RSS,neutral,0.0
-2026-05-03 12:01:24,Meta stock falls sharply after strong earnings. What’s dragging it down? - MSN,META,Google RSS,negative,-0.9088540077209473
+2026-05-03 12:01:24,Meta stock falls sharply after strong earnings. What’s dragging it down? - MSN,META,Google RSS,negative,-0.9088540077209472
+2026-05-04 16:32:00,Alphabet Stock Remains J.P. Morgan’s ‘Top Overall Pick’ as It Closes In on Nvidia - Barron's,GOOGL,Google RSS,positive,0.5197269916534424
+2026-05-04 17:25:44,Alphabet (GOOGL) Stock: J.P. Morgan Names It ‘Top Overall Pick’ After Blowout Q1 - CoinCentral,GOOGL,Google RSS,neutral,0.0
+2026-05-02 18:31:00,Wall Street drops sharply as Google's Alphabet drags down stocks - Euronews.com,GOOGL,Google RSS,negative,-0.9465243220329285
+2026-04-30 12:24:31,Scotiabank raises Alphabet stock price target on strong AI growth - Investing.com,GOOGL,Google RSS,positive,0.7387821078300476
+2026-05-04 16:32:00,Google Closes In on Nvidia. Why Alphabet Stock Remains J.P. Morgan’s ‘Top Overall Pick’,GOOGL,Yahoo RSS,neutral,0.0
+2026-05-04 17:20:00,"AWS Moment For Logistics? UPS, FDX, GXO Stocks Fall As Amazon Opens Up Its Freight Services To Outside Businesses - Stocktwits",AMZN,Google RSS,negative,-0.960111141204834
+2026-05-04 14:28:55,Microsoft Stock Edges Higher As Analysts Call Q3 Results A 'Clearing Event' - Microsoft (NASDAQ:MSFT) - Benzinga,MSFT,Google RSS,positive,0.9157922863960266
+2026-05-04 16:32:00,Alphabet Stock Remains J.P. Morgan’s ‘Top Overall Pick’ as It Closes In on Nvidia - Barron's,NVDA,Google RSS,positive,0.5197269916534424
+2026-05-04 16:32:00,Google Closes In on Nvidia. Why Alphabet Stock Remains J.P. Morgan’s ‘Top Overall Pick’,NVDA,Yahoo RSS,neutral,0.0
