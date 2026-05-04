@@ -88,11 +88,44 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-04 08:41:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",META,Yahoo RSS,neutral,0.0
 2026-05-04 04:05:00,Dow Jones: US 30 Rallies as Apple Lifts Stock Market and Indices Outlook,AAPL,Bing RSS,positive,0.8852210640907288
 2026-05-04 08:43:12,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided? - The Globe and Mail",GOOGL,Google RSS,neutral,0.0
-2026-05-04 11:46:08,FedEx and UPS Stocks Dip After Amazon Opens Logistics Services to Outside Businesses - StockInvest.us,AMZN,Google RSS,negative,-0.9654223322868347
-2026-04-29 17:48:00,Amazon earnings beat expectations with strong cloud growth,AMZN,Bing RSS,positive,0.9536538124084473
+2026-05-04 11:46:08,FedEx and UPS Stocks Dip After Amazon Opens Logistics Services to Outside Businesses - StockInvest.us,AMZN,Google RSS,negative,-0.9654223322868348
+2026-04-29 17:48:00,Amazon earnings beat expectations with strong cloud growth,AMZN,Bing RSS,positive,0.9536538124084472
 2026-05-04 10:00:00,"Amazon Launches Amazon Supply Chain Services, Opening Its Logistics Network to All Businesses",AMZN,Yahoo RSS,positive,0.5746142864227295
 2026-05-04 08:43:31,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided? - The Motley Fool",MSFT,Google RSS,neutral,0.0
 2026-05-04 10:05:41,Microsoft (MSFT) Reports Strong Quarterly Performance Driven by AI Momentum - GuruFocus,MSFT,Google RSS,positive,0.9565319418907166
 2026-04-30 13:10:00,Microsoft stock slides after earnings: What overshadowed strong cloud growth,MSFT,Bing RSS,negative,-0.9120106101036072
 2026-04-29 11:40:00,Analysts trim Microsoft-linked crypto stock's target despite AI push,MSFT,Bing RSS,negative,-0.6126556396484375
 2026-05-01 13:46:00,These Tesla Rivals See Sales Bump In Transition Month - Investor's Business Daily,TSLA,Google RSS,negative,-0.8224737644195557
+2026-05-04 14:02:32,Apple stock price forecast: $266.27 support key as AAPL drops 1.61% - Traders Union,AAPL,Google RSS,negative,-0.9499771595001221
+2026-05-04 13:53:22,"Seoul, Taipei hit records on tech rally",AAPL,Yahoo RSS,positive,0.7885962128639221
+2026-05-04 12:34:00,AI Enthusiasm Powers Nasdaq to All-Time High: 3 Stocks to Grab,AAPL,Yahoo RSS,positive,0.8718908429145813
+2026-05-04 13:01:53,"S&P 500 Earnings Smash Estimates. 3 Mag 7 Stocks Lift Index - Amazon.com (NASDAQ:AMZN), Alphabet (NASDAQ - Benzinga",GOOGL,Google RSS,neutral,0.0
+2026-05-04 13:53:22,"Seoul, Taipei hit records on tech rally",GOOGL,Yahoo RSS,positive,0.7885962128639221
+2026-05-04 13:33:58,Tech Giants Prop Up Nasdaq Composite as Oil Shock Tests Market Resilience,GOOGL,Yahoo RSS,positive,0.5449223518371582
+2026-05-04 12:34:49,’Exceptionally strong’ U.S. earnings the driving force behind stock market rally,GOOGL,Yahoo RSS,neutral,0.0
+2026-05-04 12:34:00,AI Enthusiasm Powers Nasdaq to All-Time High: 3 Stocks to Grab,GOOGL,Yahoo RSS,positive,0.8718908429145813
+2026-05-04 12:57:00,Amazon Will Offer Supply Chain Services To Businesses - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
+2026-04-29 13:06:00,Amazon stock falls after strong earnings report. Chip demand and cloud growth are bright spots.,AMZN,Bing RSS,negative,-0.6243155598640442
+2026-05-04 13:33:58,Tech Giants Prop Up Nasdaq Composite as Oil Shock Tests Market Resilience,AMZN,Yahoo RSS,positive,0.5449223518371582
+2026-05-04 12:57:48,Amazon Will Offer Supply Chain Services To Businesses,AMZN,Yahoo RSS,neutral,0.0
+2026-05-04 12:34:49,’Exceptionally strong’ U.S. earnings the driving force behind stock market rally,AMZN,Yahoo RSS,neutral,0.0
+2026-05-04 12:34:00,AI Enthusiasm Powers Nasdaq to All-Time High: 3 Stocks to Grab,AMZN,Yahoo RSS,positive,0.8718908429145813
+2026-05-04 13:13:24,Analysts See 41% Upside for Microsoft Stock After Nearly 100% Backlog Growth - 24/7 Wall St.,MSFT,Google RSS,positive,0.8248000741004944
+2026-05-04 14:06:12,Microsoft stock trades flat after A$25B Australian AI cloud investment - Traders Union,MSFT,Google RSS,negative,-0.9602516889572144
+2026-05-04 13:53:22,"Seoul, Taipei hit records on tech rally",MSFT,Yahoo RSS,positive,0.7885962128639221
+2026-05-04 13:13:24,Analysts See 41% Upside for Microsoft Stock After Nearly 100% Backlog Growth,MSFT,Yahoo RSS,positive,0.8488847613334656
+2026-05-04 12:34:49,’Exceptionally strong’ U.S. earnings the driving force behind stock market rally,MSFT,Yahoo RSS,neutral,0.0
+2026-05-04 12:34:00,AI Enthusiasm Powers Nasdaq to All-Time High: 3 Stocks to Grab,MSFT,Yahoo RSS,positive,0.8718908429145813
+2026-05-04 12:07:02,"Top 5 AI Stocks for May 2026: Nvidia (NVDA), AMD, Broadcom Lead Investor Watchlist - MEXC",NVDA,Google RSS,neutral,0.0
+2026-05-04 03:27:00,"Top 5 AI Stocks for May 2026: Nvidia (NVDA), AMD, Broadcom Lead Investor Watchlist",NVDA,Bing RSS,neutral,0.0
+2026-05-04 13:50:00,Higher Gas and Diesel Prices Are Coming for Consumer Wallets and the Stocks That Depend on Them,NVDA,Yahoo RSS,neutral,0.0
+2026-05-04 13:33:58,Tech Giants Prop Up Nasdaq Composite as Oil Shock Tests Market Resilience,NVDA,Yahoo RSS,positive,0.5449223518371582
+2026-05-04 13:22:44,GameStop Slides After 6% Friday Rally: Can Ryan Cohen Really Pull Off an eBay Buyout?,NVDA,Yahoo RSS,neutral,0.0
+2026-05-04 13:13:24,Analysts See 41% Upside for Microsoft Stock After Nearly 100% Backlog Growth,NVDA,Yahoo RSS,positive,0.8488847613334656
+2026-05-04 13:26:00,Tesla Rival Jumps On Strong Orders For Updated Model 3 Competitor - Investor's Business Daily,TSLA,Google RSS,positive,0.8666571974754333
+2026-05-04 13:43:45,Tesla’s European rebound continues in April despite decline in Norway and Spain By Reuters - Investing.com,TSLA,Google RSS,negative,-0.6711272597312927
+2026-05-04 12:10:18,"West Michigan Advisors LLC Buys 1,202 Shares of Meta Platforms, Inc. $META - MarketBeat",META,Google RSS,neutral,0.0
+2026-05-03 03:09:46,Meta stock edges lower with Q1 results due. Here are 2 earnings numbers to watch - MSN,META,Google RSS,negative,-0.8882192373275757
+2026-05-04 06:24:00,Meta stock falls as AI spending surge overshadows strong Q1,META,Bing RSS,negative,-0.9472237825393677
+2026-05-04 12:34:49,’Exceptionally strong’ U.S. earnings the driving force behind stock market rally,META,Yahoo RSS,neutral,0.0
+2026-05-04 12:34:00,AI Enthusiasm Powers Nasdaq to All-Time High: 3 Stocks to Grab,META,Yahoo RSS,positive,0.8718908429145813
