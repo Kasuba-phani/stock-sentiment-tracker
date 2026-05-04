@@ -71,4 +71,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-29 13:28:00,Alphabet stock rises on strong financial growth and quarterly beat: Key takeaways,GOOGL,Bing RSS,positive,0.7738566398620605
 2026-05-04 03:04:37,"Manning & Napier Advisors Boosts Microsoft Stake by 224,651 Shares - The Globe and Mail",MSFT,Google RSS,positive,0.8630597591400146
 2026-04-30 07:32:24,Stifel raises Microsoft stock price target on Azure growth outlook - Investing.com,MSFT,Google RSS,neutral,0.0
-2026-05-02 11:51:00,Meta stock price prediction drops despite strong earnings from tech giants,META,Bing RSS,negative,-0.9612391591072083
+2026-05-02 11:51:00,Meta stock price prediction drops despite strong earnings from tech giants,META,Bing RSS,negative,-0.9612391591072084
+2026-05-04 06:54:32,S&P 500 Settles At New High As Apple Shares Gain: Fear Index Remains In 'Greed' Zone - Benzinga,AAPL,Google RSS,negative,-0.547757625579834
+2026-05-04 08:41:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",AAPL,Yahoo RSS,neutral,0.0
+2026-05-04 08:08:19,"Chicago Partners Investment Group LLC Purchases 2,818 Shares of Alphabet Inc. $GOOG - MarketBeat",GOOGL,Google RSS,neutral,0.0
+2026-05-04 08:43:31,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided? - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-05-04 00:15:58,Larry Page’s worth over $300 billion for first time amid Alphabet earnings rally - Forbes Australia,GOOGL,Google RSS,neutral,0.0
+2026-05-04 08:41:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",GOOGL,Yahoo RSS,neutral,0.0
+2026-05-04 08:45:03,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided? - The Globe and Mail",AMZN,Google RSS,neutral,0.0
+2026-05-04 08:41:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",AMZN,Yahoo RSS,neutral,0.0
+2026-05-01 14:31:13,Microsoft stock price forecast: $420 resistance as MSFT trades flat near $411.20 - Traders Union,MSFT,Google RSS,negative,-0.7677065134048462
+2026-05-04 08:41:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",MSFT,Yahoo RSS,neutral,0.0
+2026-05-04 08:41:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",NVDA,Yahoo RSS,neutral,0.0
+2026-05-04 08:41:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",TSLA,Yahoo RSS,neutral,0.0
+2026-04-30 09:58:45,Goldman Sachs lowers Meta stock price target to $830 on capex rise - Investing.com,META,Google RSS,neutral,0.0
+2026-05-04 08:41:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",META,Yahoo RSS,neutral,0.0
