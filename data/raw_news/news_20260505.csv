@@ -95,22 +95,28 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-05 15:35:02,Intel stock jumps 15% as Apple foundry talks spark chip demand hopes - CryptoRank,AAPL,Google RSS,neutral,0.0
 2026-05-05 15:54:29,Intel stock hits all-time high on Apple chipmaking report,AAPL,Yahoo RSS,positive,0.7934060096740723
 2026-05-05 15:53:42,"Top Midday Stories: PayPal Q2 EPS Guide Undershoots Expectations, Plans 20% Workforce Cut; Palantir Shares Fall Despite Strong Earnings, Guidance",AAPL,Yahoo RSS,negative,-0.971419095993042
-2026-05-05 14:30:00,Sports Technology Industry worth $68.70 billion by 2030 Amid Strong Industry Growth,AAPL,Yahoo RSS,positive,0.9131026268005371
-2026-05-05 14:01:21,"Baird and Bank of America Raise Apple (AAPL) Price Targets, See Strong Growth Ahead",AAPL,Yahoo RSS,positive,0.9257713556289673
+2026-05-05 14:30:00,Sports Technology Industry worth $68.70 billion by 2030 Amid Strong Industry Growth,AAPL,Yahoo RSS,positive,0.9131026268005372
+2026-05-05 14:01:21,"Baird and Bank of America Raise Apple (AAPL) Price Targets, See Strong Growth Ahead",AAPL,Yahoo RSS,positive,0.9257713556289672
 2026-05-05 13:45:56,"Google stock hits all-time high, reaching 384.28 USD - Investing.com",GOOGL,Google RSS,neutral,0.0
 2026-05-05 14:17:27,Alphabet shares hold steady around $387 as technical indicators remain positive: weekly forecast - Traders Union,GOOGL,Google RSS,positive,0.6169914603233337
 2026-05-05 15:53:42,"Top Midday Stories: PayPal Q2 EPS Guide Undershoots Expectations, Plans 20% Workforce Cut; Palantir Shares Fall Despite Strong Earnings, Guidance",GOOGL,Yahoo RSS,negative,-0.971419095993042
-2026-05-05 14:30:00,Sports Technology Industry worth $68.70 billion by 2030 Amid Strong Industry Growth,GOOGL,Yahoo RSS,positive,0.9131026268005371
+2026-05-05 14:30:00,Sports Technology Industry worth $68.70 billion by 2030 Amid Strong Industry Growth,GOOGL,Yahoo RSS,positive,0.9131026268005372
 2026-05-05 12:27:44,"Here are Tuesday's biggest analyst calls: Apple, Tesla, CoreWeave, Amazon, Palantir, Home Depot & more - CNBC",AMZN,Google RSS,neutral,0.0
 2026-05-05 11:57:52,Amazon Supply Chain Launch Triggers Massive Selloff for GXO and UPS Stocks - TIKR.com,AMZN,Google RSS,negative,-0.7691124677658081
 2026-05-05 13:48:00,"Dow Up 150 Points On Gains For Shares Of Caterpillar, Amazon.Com Inc. - Moomoo",AMZN,Google RSS,positive,0.8983572125434875
 2026-05-05 03:27:00,"Here are Tuesday's biggest analyst calls: Apple, Tesla, CoreWeave, Amazon, Palantir, Home Depot & more",AMZN,Bing RSS,neutral,0.0
 2026-05-05 14:41:00,"LiveOne (Nasdaq: LVO) and PodcastOne (Nasdaq: PODC) Selected to Present at the 2026 Sohn Investment Conference - May 12th, 2026, Lincoln Center NYC",AMZN,Yahoo RSS,neutral,0.0
 2026-05-05 14:46:04,"Tech in turmoil: Microsoft and Meta drag, while semiconductors surge - investingLive",MSFT,Google RSS,negative,-0.8992776870727539
-2026-05-05 14:29:24,Microsoft stock edges lower amid strong technical support at $398: weekly analysis - Traders Union,MSFT,Google RSS,negative,-0.9507991671562195
+2026-05-05 14:29:24,Microsoft stock edges lower amid strong technical support at $398: weekly analysis - Traders Union,MSFT,Google RSS,negative,-0.9507991671562196
 2026-05-05 07:30:00,Microsoft's capex spending for 2026 is 23% higher than what analysts were expecting. The problem is rising memory prices,MSFT,Bing RSS,negative,-0.8355268836021423
 2026-05-05 15:53:42,"Top Midday Stories: PayPal Q2 EPS Guide Undershoots Expectations, Plans 20% Workforce Cut; Palantir Shares Fall Despite Strong Earnings, Guidance",MSFT,Yahoo RSS,negative,-0.971419095993042
 2026-05-05 13:50:00,Microsoft's Capex Spending for 2026 Is 23% Higher Than What Analysts Were Expecting. The Problem Is Rising Memory Prices,MSFT,Yahoo RSS,negative,-0.8355268836021423
 2026-05-05 11:35:48,Discover 3 Elite Growth Companies With Strong Insider Ownership,TSLA,Yahoo RSS,neutral,0.0
-2026-05-05 14:42:08,Meta stock consolidates near $606 as price remains under MA-20 and MA-50: weekly outlook - Traders Union,META,Google RSS,negative,-0.48862752318382263
+2026-05-05 14:42:08,Meta stock consolidates near $606 as price remains under MA-20 and MA-50: weekly outlook - Traders Union,META,Google RSS,negative,-0.4886275231838226
 2026-05-05 14:11:54,Job openings remained flat in March as layoffs ticked up,META,Yahoo RSS,negative,-0.9710242748260498
+2026-05-05 18:04:00,Dow Jones Tech Titan Apple Breaks Out; AI Chipmaker Broadcom In Buy Zone - Investor's Business Daily,AAPL,Google RSS,neutral,0.0
+2026-05-05 18:03:55,Alphabet Stock (GOOGL) Analyst Ratings Show Strong Buy Consensus as AI Growth Drives Higher Price Targets - TipRanks,GOOGL,Google RSS,positive,0.9213903546333313
+2026-05-05 17:12:40,Analysts’ Opinions Are Mixed on These Consumer Cyclical Stocks: eBay (EBAY) and Amazon (AMZN) - The Globe and Mail,AMZN,Google RSS,negative,-0.8029504418373108
+2026-05-05 13:34:25,Microsoft's Capex Spending for 2026 Is 23% Higher Than What Analysts Were Expecting. The Problem Is Rising Memory Prices - The Motley Fool,MSFT,Google RSS,negative,-0.8200796842575073
+2026-04-30 13:10:00,Microsoft stock slides after earnings: What overshadowed strong cloud growth,MSFT,Bing RSS,negative,-0.9120106101036072
+2026-05-05 18:02:37,Netflix cofounder Reed Hastings sells stock worth nearly $38M – NFLX stock eyes a three-day red streak - MSN,NFLX,Google RSS,negative,-0.896037220954895
