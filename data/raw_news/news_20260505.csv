@@ -122,7 +122,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-05 18:02:37,Netflix cofounder Reed Hastings sells stock worth nearly $38M – NFLX stock eyes a three-day red streak - MSN,NFLX,Google RSS,negative,-0.896037220954895
 2026-05-05 18:40:58,S&P 500 and Dow Jones Climb; Intel's 14% Surge Steals the Show,AAPL,Yahoo RSS,positive,0.8788824677467346
 2026-05-05 16:35:00,5 Stocks With High ROE to Buy as Markets Battle Intense Volatility,AAPL,Yahoo RSS,positive,0.4756269156932831
-2026-05-05 17:54:00,"AI Stocks Are at Nosebleed Levels. Walmart, Exxon, and 7 More Oldies but Goodies.",MSFT,Yahoo RSS,negative,-0.9209166765213013
-2026-05-05 20:05:00,Down as Much as 55% and Still Magnificent: 3 Dividend Stocks Worth Holding for a Lifetime,NVDA,Yahoo RSS,negative,-0.9670238494873047
+2026-05-05 17:54:00,"AI Stocks Are at Nosebleed Levels. Walmart, Exxon, and 7 More Oldies but Goodies.",MSFT,Yahoo RSS,negative,-0.9209166765213012
+2026-05-05 20:05:00,Down as Much as 55% and Still Magnificent: 3 Dividend Stocks Worth Holding for a Lifetime,NVDA,Yahoo RSS,negative,-0.9670238494873048
 2026-05-05 20:01:35,Nasdaq Rides Chip Stocks to Record High,NVDA,Yahoo RSS,positive,0.9229097366333008
 2026-05-05 10:28:50,Netflix cofounder Reed Hastings sells stock worth nearly $38M – NFLX stock eyes a three-day red streak,NFLX,Bing RSS,negative,-0.9598912596702576
+2026-05-05 15:58:14,Intel stock hits all-time high on Apple chipmaking report - qz.com,AAPL,Google RSS,neutral,0.0
+2026-05-05 20:02:42,"Apple, Caterpillar share gains lead Dow's 400-point climb - MSN",AAPL,Google RSS,positive,0.6487669944763184
+2026-05-05 20:37:22,"Anthropic commits to spending $200 billion on Google's cloud and chips, the Information reports",GOOGL,Yahoo RSS,neutral,0.0
+2026-04-30 07:32:24,Piper Sandler raises Microsoft stock price target on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-05-05 20:17:02,AMD forecasts quarterly revenue above expectations as AI chip demand stays strong,NVDA,Yahoo RSS,positive,0.9424311518669128
+2026-05-05 21:26:00,Netflix Slide Raises Nasdaq Composite Valuation Debate - Kalkine Media,NFLX,Google RSS,neutral,0.0
