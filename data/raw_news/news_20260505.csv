@@ -132,3 +132,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 07:32:24,Piper Sandler raises Microsoft stock price target on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-05-05 20:17:02,AMD forecasts quarterly revenue above expectations as AI chip demand stays strong,NVDA,Yahoo RSS,positive,0.9424311518669128
 2026-05-05 21:26:00,Netflix Slide Raises Nasdaq Composite Valuation Debate - Kalkine Media,NFLX,Google RSS,neutral,0.0
+2026-05-05 14:20:14,"Alphabet stock gains on report of massive Anthropic cloud, chip deal",GOOGL,Bing RSS,positive,0.4021582007408142
+2026-05-05 22:01:10,David Sacks Says AI Could Drive 75% Of US GDP Growth As Morgan Stanley Sees Big Tech AI Capex Surging Past $800 Billion In 2026,GOOGL,Yahoo RSS,positive,0.9235391020774841
+2026-05-05 22:01:10,David Sacks Says AI Could Drive 75% Of US GDP Growth As Morgan Stanley Sees Big Tech AI Capex Surging Past $800 Billion In 2026,AMZN,Yahoo RSS,positive,0.9235391020774841
+2026-05-05 22:01:10,David Sacks Says AI Could Drive 75% Of US GDP Growth As Morgan Stanley Sees Big Tech AI Capex Surging Past $800 Billion In 2026,MSFT,Yahoo RSS,positive,0.9235391020774841
+2026-05-05 22:54:19,"Caterpillar Rolls To A Record High, Leads 25 New To Today's Best Growth Stock Screens",NVDA,Yahoo RSS,positive,0.8448175191879272
+2026-05-05 20:17:02,"AMD forecasts revenue above expectations on strong AI demand, shares jump 12%",NVDA,Yahoo RSS,positive,0.938927173614502
+2026-05-05 22:01:10,David Sacks Says AI Could Drive 75% Of US GDP Growth As Morgan Stanley Sees Big Tech AI Capex Surging Past $800 Billion In 2026,META,Yahoo RSS,positive,0.9235391020774841
