@@ -89,3 +89,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-29 20:38:51,Meta stock plunges 6% after earnings leave investors disappointed - TradingView,META,Google RSS,negative,-0.9650704860687256
 2026-04-30 07:21:00,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April,META,Bing RSS,positive,0.9403559565544128
 2026-05-05 08:11:01,"Strong Earnings Report Cannot Hide AI “Cash Burn” Concerns, Putting Pressure on Meta’s Stock Price - NAI500",META,Google RSS,negative,-0.9478628635406494
+2026-05-05 09:47:36,"U.S.-Iran Ceasefire Under Pressure; AMD Earnings in Focus: Dow Jones, S&P, Nasdaq, Wall Street Futures",AAPL,Yahoo RSS,neutral,0.0
