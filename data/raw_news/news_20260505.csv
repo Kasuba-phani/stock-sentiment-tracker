@@ -1,0 +1,72 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-05-01 01:14:00,Apple's stock rises after earnings. Here are the biggest highlights. - MarketWatch,AAPL,Google RSS,neutral,0.0
+2026-05-04 20:29:32,Goldman Sachs reiterates Apple stock Buy rating amid App Store slowdown - Investing.com,AAPL,Google RSS,neutral,0.0
+2026-04-30 22:28:00,Apple Tops March-Quarter Targets On Strong iPhone 17 Sales. Stock Jumps On Outlook. - Investor's Business Daily,AAPL,Google RSS,positive,0.741601288318634
+2026-05-01 12:59:46,Dow futures up 200 points as Apple stock pops and oil falls - qz.com,AAPL,Google RSS,neutral,0.0
+2026-05-04 14:02:32,Apple stock price forecast: $266.27 support key as AAPL drops 1.61% - Traders Union,AAPL,Google RSS,negative,-0.9499771595001221
+2026-05-01 07:00:00,Apple Stock Posts $111B Record Quarter Despite iPhone Supply Constraints - TIKR.com,AAPL,Google RSS,neutral,0.0
+2026-05-01 13:42:07,Apple shares rise on strong quarterly sales in run-up to CEO change - Reuters,AAPL,Google RSS,positive,0.8247658610343933
+2026-05-04 06:54:32,S&P 500 Settles At New High As Apple Shares Gain: Fear Index Remains In 'Greed' Zone - Benzinga,AAPL,Google RSS,negative,-0.547757625579834
+2026-05-04 20:19:00,Bond Yields Are Rising. Why That Could End the Stock Market’s Rally.,AAPL,Yahoo RSS,neutral,0.0
+2026-05-04 14:31:58,21 New 4-Star Stocks This Week - Morningstar,GOOGL,Google RSS,neutral,0.0
+2026-05-04 16:32:00,Google Closes In on Nvidia. Why Alphabet Stock Remains J.P. Morgan’s ‘Top Overall Pick’ - Barron's,GOOGL,Google RSS,neutral,0.0
+2026-04-30 14:06:41,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April - CNBC,GOOGL,Google RSS,positive,0.9382379055023193
+2026-04-29 21:14:00,Alphabet shares rise as cloud boom validates Google’s AI push - CNBC,GOOGL,Google RSS,neutral,0.0
+2026-04-29 20:27:20,Alphabet stock rises on strong financial growth and quarterly beat: Key takeaways (GOOG:NASDAQ) - Seeking Alpha,GOOGL,Google RSS,positive,0.9090128540992737
+2026-05-04 17:25:44,Alphabet (GOOGL) Stock: J.P. Morgan Names It ‘Top Overall Pick’ After Blowout Q1 - CoinCentral,GOOGL,Google RSS,neutral,0.0
+2026-05-04 21:05:00,My Top 2 Generative AI Stocks for Long-Term Investors for May 2026 - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-05-04 08:08:19,"Chicago Partners Investment Group LLC Purchases 2,818 Shares of Alphabet Inc. $GOOG - MarketBeat",GOOGL,Google RSS,neutral,0.0
+2026-05-02 18:31:00,Wall Street drops sharply as Google's Alphabet drags down stocks - Euronews.com,GOOGL,Google RSS,negative,-0.9465243220329285
+2026-05-04 09:21:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided? - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-04-30 07:21:00,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April,GOOGL,Bing RSS,positive,0.9403559565544128
+2026-04-29 13:39:00,Alphabet earnings send the stock higher. The company just posted massive cloud growth.,GOOGL,Bing RSS,positive,0.9407004714012146
+2026-05-04 20:19:00,Bond Yields Are Rising. Why That Could End the Stock Market’s Rally.,GOOGL,Yahoo RSS,neutral,0.0
+2026-05-04 16:32:00,Google Closes In on Nvidia. Why Alphabet Stock Remains J.P. Morgan’s ‘Top Overall Pick’,GOOGL,Yahoo RSS,neutral,0.0
+2026-05-04 12:57:00,Amazon Will Offer Supply Chain Services To Businesses - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
+2026-05-04 23:14:00,"Amazon Hits All-Time High, Leads 20 Top Performers Onto Best Stock Lists - Investor's Business Daily",AMZN,Google RSS,positive,0.501937747001648
+2026-05-04 21:58:21,Supply Chain Stocks Are Plunging on Amazon's Logistics Launch. 1 Reason To Buy the Dip - The Motley Fool,AMZN,Google RSS,negative,-0.915962815284729
+2026-05-04 21:41:46,Supply Chain Stocks Are Plunging on Amazon's Logistics Launch. 1 Reason To Buy the Dip - AOL.com,AMZN,Google RSS,negative,-0.804746150970459
+2026-05-04 17:20:00,"AWS Moment For Logistics? UPS, FDX, GXO Stocks Fall As Amazon Opens Up Its Freight Services To Outside Businesses - Stocktwits",AMZN,Google RSS,negative,-0.960111141204834
+2026-05-04 11:46:08,FedEx and UPS Stocks Dip After Amazon Opens Logistics Services to Outside Businesses - StockInvest.us,AMZN,Google RSS,negative,-0.9654223322868347
+2026-05-02 11:03:00,"Amazon stock jumps as BofA lifts target on AI, AWS growth after earnings",AMZN,Bing RSS,positive,0.8128297924995422
+2026-05-04 21:23:02,Supply Chain Stocks Are Plunging on Amazon's Logistics Launch. 1 Reason To Buy the Dip,AMZN,Yahoo RSS,negative,-0.937264084815979
+2026-05-04 20:26:37,Amazon Readies Supply Chain Services To Businesses. These Stocks Fall.,AMZN,Yahoo RSS,negative,-0.9663566946983337
+2026-05-04 20:19:00,Bond Yields Are Rising. Why That Could End the Stock Market’s Rally.,AMZN,Yahoo RSS,neutral,0.0
+2026-05-04 19:55:43,Sector Update: Consumer Stocks Fall Late Afternoon,AMZN,Yahoo RSS,negative,-0.9724588394165039
+2026-05-04 09:21:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided? - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-05-02 00:03:40,"Meta, Microsoft stocks fall after disappointing earnings reports - Fox Business",MSFT,Google RSS,negative,-0.9663076996803284
+2026-05-04 14:28:55,Microsoft Stock Edges Higher As Analysts Call Q3 Results A 'Clearing Event' - Microsoft (NASDAQ:MSFT) - Benzinga,MSFT,Google RSS,positive,0.9157922863960266
+2026-05-04 19:13:07,Home Page - Microsoft Investor Relations - Microsoft,MSFT,Google RSS,neutral,0.0
+2026-04-30 20:10:00,Microsoft Stock Slides After Earnings. What Overshadowed Strong Cloud Growth. - Barron's,MSFT,Google RSS,negative,-0.8106538653373718
+2026-04-30 10:41:04,Goldman Sachs raises Microsoft stock price target on updated estimates - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-04-30 15:45:13,Why Microsoft Stock (MSFT) Is Down Today and Why One Investor Still Calls It a ‘Strong Buy’ - TipRanks,MSFT,Google RSS,negative,-0.8778311610221863
+2026-05-04 21:23:55,Technology Stocks Slightly Up; Microsoft (MSFT) and Blaize (BZAI) See Notable Moves - GuruFocus,MSFT,Google RSS,positive,0.9426251649856567
+2026-05-04 14:06:12,Microsoft stock trades flat after A$25B Australian AI cloud investment - Traders Union,MSFT,Google RSS,negative,-0.9602516889572144
+2026-05-04 08:41:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided? - The Globe and Mail",MSFT,Google RSS,neutral,0.0
+2026-04-30 07:50:35,"MSFT: Microsoft Stock Steady After Strong Earnings, Cloud Growth Hits 40% - TradingView",MSFT,Google RSS,positive,0.9421083331108093
+2026-05-04 03:04:37,"Manning & Napier Advisors Boosts Microsoft Stake by 224,651 Shares - The Globe and Mail",MSFT,Google RSS,positive,0.8630597591400146
+2026-04-30 18:22:00,Microsoft shares are on pace for a 13th straight earnings-day decline - Seeking Alpha,MSFT,Google RSS,positive,0.8243780732154846
+2026-05-03 12:00:00,The Glaring Reason Microsoft Is Falling Behind Alphabet and Amazon - The Motley Fool,MSFT,Google RSS,negative,-0.7213854789733887
+2026-05-04 15:28:44,Analysts see 41% upside for Microsoft stock after nearly 100% backlog growth - MSN,MSFT,Google RSS,positive,0.77442467212677
+2026-05-04 20:19:00,Bond Yields Are Rising. Why That Could End the Stock Market’s Rally.,MSFT,Yahoo RSS,neutral,0.0
+2026-05-04 02:31:35,"‘See You in 2028,’ Says Investor About Nvidia Stock - TipRanks",NVDA,Google RSS,neutral,0.0
+2026-04-28 19:06:52,Traders bet Nvidia's stock will return to record highs soon - CNBC,NVDA,Google RSS,positive,0.48681923747062683
+2026-05-04 16:32:00,Google Closes In on Nvidia. Why Alphabet Stock Remains J.P. Morgan’s ‘Top Overall Pick’ - Barron's,NVDA,Google RSS,neutral,0.0
+2026-05-04 21:12:47,"NVDA vs. MU: Which “Strong Buy” AI Stock Has the Higher Upside Potential, According to Analysts? - TipRanks",NVDA,Google RSS,positive,0.5753920078277588
+2026-05-04 21:42:08,3 Absurdly Cheap Growth Stocks to Buy in May 2026,NVDA,Yahoo RSS,neutral,0.0
+2026-05-04 21:07:40,"Bernstein Analyst: AI Agents Drive Chip Demand ‘Off the Charts,’ Supply Can’t Keep Up",NVDA,Yahoo RSS,negative,-0.9559927582740784
+2026-05-04 20:25:00,My Top 2 Generative AI Stocks for Long-Term Investors for May 2026,NVDA,Yahoo RSS,neutral,0.0
+2026-05-04 20:03:00,Tesla Rival Jumps On Strong Orders For Updated Model 3 Competitor - Investor's Business Daily,TSLA,Google RSS,positive,0.8666571974754333
+2026-05-04 14:49:15,Tesla stock consolidates as first quarter earnings surpass expectations - Traders Union,TSLA,Google RSS,negative,-0.8428549766540527
+2026-05-02 00:57:25,Stronger technical forecast for Tesla stock price after Friday trading - StockInvest.us,TSLA,Google RSS,positive,0.5453321933746338
+2026-05-04 18:45:00,Tesla posts mixed April sales across Europe but overall rebound stays on track By Reuters - Investing.com,TSLA,Google RSS,negative,-0.5813597440719604
+2026-05-04 15:56:40,Elon Musk Is Now Worth More Than an Average Country’s GDP,TSLA,Yahoo RSS,neutral,0.0
+2026-05-04 08:41:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",TSLA,Yahoo RSS,neutral,0.0
+2026-04-30 14:06:41,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April - CNBC,META,Google RSS,positive,0.9382379055023193
+2026-04-29 16:00:01,Meta stock drops on quarterly results as 'internet disruptions' in Iran drag down user numbers - CNBC,META,Google RSS,negative,-0.9636858701705933
+2026-04-29 20:16:24,"Meta stock slumps after JPM downgrade, rising capex outweighs solid results - Investing.com",META,Google RSS,negative,-0.8575104475021362
+2026-05-02 18:51:12,Meta stock price prediction drops despite strong earnings from tech giants - Crypto Briefing,META,Google RSS,negative,-0.950925886631012
+2026-05-02 11:51:00,Meta stock price prediction drops despite strong earnings from tech giants,META,Bing RSS,negative,-0.9612391591072083
+2026-04-30 07:37:25,"Why Is Netflix Stock Falling, and is it a Generational Buying Opportunity? - The Motley Fool",NFLX,Google RSS,negative,-0.7944538593292236
+2026-04-30 11:44:27,"Stocks making the biggest moves premarket: Meta, Eli Lilly, Caterpillar, Amazon & more",AMZN,CNBC Finance,neutral,0.0
+2026-04-30 11:44:27,"Stocks making the biggest moves premarket: Meta, Eli Lilly, Caterpillar, Amazon & more",META,CNBC Finance,neutral,0.0
