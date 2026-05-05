@@ -74,8 +74,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-04 13:01:53,"S&P 500 Earnings Smash Estimates. 3 Mag 7 Stocks Lift Index - Amazon.com (NASDAQ:AMZN), Alphabet (NASDAQ - Benzinga",GOOGL,Google RSS,neutral,0.0
 2026-05-02 15:35:58,"Alphabet stock hits record high after strong Q1 earnings, US-Iran ceasefire - Crypto Briefing",GOOGL,Google RSS,positive,0.828271210193634
 2026-04-30 07:00:00,"Alphabet stock rises on Q1 earnings beat, cloud growth",GOOGL,Bing RSS,positive,0.8744176030158997
-2026-05-04 20:26:00,Amazon Readies Supply Chain Services To Businesses. These Stocks Fall. - Investor's Business Daily,AMZN,Google RSS,negative,-0.9377129077911377
+2026-05-04 20:26:00,Amazon Readies Supply Chain Services To Businesses. These Stocks Fall. - Investor's Business Daily,AMZN,Google RSS,negative,-0.9377129077911376
 2026-05-04 13:13:24,Analysts See 41% Upside for Microsoft Stock After Nearly 100% Backlog Growth - 24/7 Wall St.,MSFT,Google RSS,positive,0.8248000741004944
-2026-04-30 15:48:24,Microsoft Stock Falls On Q3 Earnings: Analyst Predicts Growth Ahead — 'Leading Horseman Of The AI Revolut - Benzinga,MSFT,Google RSS,negative,-0.9460205435752869
+2026-04-30 15:48:24,Microsoft Stock Falls On Q3 Earnings: Analyst Predicts Growth Ahead — 'Leading Horseman Of The AI Revolut - Benzinga,MSFT,Google RSS,negative,-0.9460205435752868
 2026-05-04 03:27:00,"Top 5 AI Stocks for May 2026: Nvidia (NVDA), AMD, Broadcom Lead Investor Watchlist",NVDA,Bing RSS,neutral,0.0
-2026-04-30 08:11:31,META: Meta Stock Tumbles 7% Despite Double Beat. High Capex Is a Big Worry. - TradingView,META,Google RSS,negative,-0.9569975733757019
+2026-04-30 08:11:31,META: Meta Stock Tumbles 7% Despite Double Beat. High Capex Is a Big Worry. - TradingView,META,Google RSS,negative,-0.956997573375702
+2026-05-03 06:12:00,My Top 5 Stocks to Buy in May - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-05-05 04:40:58,US Stock Market: Amazon.com Inc. logistics expansion sparks broad selloff in US transport stocks - The Economic Times,AMZN,Google RSS,negative,-0.6227461695671082
+2026-05-04 08:23:00,Microsoft stock needs faster cloud growth. Fixing this AI gap is key.,MSFT,Bing RSS,neutral,0.0
+2026-05-04 10:13:00,Analysts See 41% Upside for Microsoft Stock After Nearly 100% Backlog Growth,MSFT,Bing RSS,positive,0.8488847613334656
+2026-05-04 02:21:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",MSFT,Bing RSS,neutral,0.0
+2026-05-03 06:12:00,My Top 5 Stocks to Buy in May - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-05-05 06:21:09,Meta Platforms (META) Stock Analysis: $610 Falling Wedge Base After Earnings Drop — Can the $145B AI Bet Pay Off? - FXLeaders,META,Google RSS,negative,-0.7538182735443115
+2026-04-29 20:38:51,Meta stock plunges 6% after earnings leave investors disappointed - TradingView,META,Google RSS,negative,-0.9650704860687256
+2026-04-30 07:21:00,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April,META,Bing RSS,positive,0.9403559565544128
