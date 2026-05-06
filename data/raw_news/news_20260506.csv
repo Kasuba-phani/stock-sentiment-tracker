@@ -64,7 +64,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-05 08:32:00,Intel stock jumps 15% as Apple foundry talks spark chip demand hopes,AAPL,Bing RSS,positive,0.4959267079830169
 2026-05-06 01:55:00,Alphabet's AI-fueled growth drives bullish $500 stock outlook,GOOGL,Bing RSS,positive,0.7079205513000488
 2026-05-02 11:03:00,"Amazon stock jumps as BofA lifts target on AI, AWS growth after earnings",AMZN,Bing RSS,positive,0.8128297924995422
-2026-05-06 11:45:34,Alphabet and Meta stock predictions show strong support amid cloud growth - Crypto Briefing,GOOGL,Google RSS,positive,0.9346965551376343
+2026-05-06 11:45:34,Alphabet and Meta stock predictions show strong support amid cloud growth - Crypto Briefing,GOOGL,Google RSS,positive,0.9346965551376344
 2026-05-06 11:42:56,"Dow Jones Futures Rise, Oil Prices Dive To $90 On Report U.S.-Iran Deal Close; AMD Soars On Earnings",GOOGL,Yahoo RSS,negative,-0.8487865924835205
 2026-05-06 11:30:17,3 Reasons Why Microsoft Stock Looks Cheap and Has a Strong Buy Case - 24/7 Wall St.,MSFT,Google RSS,neutral,0.0
 2026-05-06 08:01:16,Foster Victor Wealth Advisors LLC Raises Stake in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,neutral,0.0
@@ -74,5 +74,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-06 11:30:17,3 Reasons Why Microsoft Stock Looks Cheap and Has a Strong Buy Case,NVDA,Yahoo RSS,neutral,0.0
 2026-05-06 09:40:09,AMD forecast sparks AI‑driven rally in US chipmaker stocks,NVDA,Yahoo RSS,positive,0.6514579653739929
 2026-05-06 09:26:00,"Plot Twist: SpaceX, OpenAI, and Anthropic May Deliver a Fatal Blow to the Trump Bull Market Thanks to a New Rule",NVDA,Yahoo RSS,neutral,0.0
-2026-05-06 11:45:34,Alphabet and Meta stock predictions show strong support amid cloud growth - Crypto Briefing,META,Google RSS,positive,0.9346965551376343
-2026-05-06 10:39:13,AMD jumps 17% as AI-driven data center growth fuels earnings beat and analyst upgrades,META,Yahoo RSS,positive,0.9139909744262695
+2026-05-06 11:45:34,Alphabet and Meta stock predictions show strong support amid cloud growth - Crypto Briefing,META,Google RSS,positive,0.9346965551376344
+2026-05-06 10:39:13,AMD jumps 17% as AI-driven data center growth fuels earnings beat and analyst upgrades,META,Yahoo RSS,positive,0.9139909744262696
+2026-05-06 12:00:00,"Apple, Nvidia, Broadcom And This Dow Retail Behemoth Fire Up Breakout Watch - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-05-06 12:00:23,"Apple, Nvidia, Broadcom And This Dow Retail Behemoth Fire Up Breakout Watch",AAPL,Yahoo RSS,neutral,0.0
+2026-05-06 12:15:57,"Alphabet stands to gain from robust Google Cloud, TPU growth, Mizuho says - CNBC",GOOGL,Google RSS,positive,0.9381667971611023
+2026-05-06 03:15:00,"Alphabet stands to gain from robust Google Cloud, TPU growth, Mizuho says",GOOGL,Bing RSS,positive,0.9509639739990234
+2026-05-06 12:00:23,"Apple, Nvidia, Broadcom And This Dow Retail Behemoth Fire Up Breakout Watch",GOOGL,Yahoo RSS,neutral,0.0
+2026-05-06 12:54:59,Microsoft may drop 2030 clean energy target for data centers - Bloomberg - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-04-29 13:35:00,Microsoft stock slides after earnings: What overshadowed strong cloud growth,MSFT,Bing RSS,negative,-0.9120106101036072
+2026-05-06 12:00:00,"Inriver Achieves Microsoft Certified Software Designation for Manufacturing AI, Now Available in the Microsoft Marketplace",MSFT,Yahoo RSS,positive,0.755506157875061
+2026-05-06 12:00:00,"Apple, Nvidia, Broadcom And This Dow Retail Behemoth Fire Up Breakout Watch - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-05-06 13:37:26,"US Market Outlook: Corning announces partnership with NVIDIA, sending stock price soaring; AMD shares surge on AI-related prospects; Hut 8 secures $10 billion AI data center deal in Texas, triggering sharp rise in stock price - Moomoo",NVDA,Google RSS,positive,0.8209585547447205
