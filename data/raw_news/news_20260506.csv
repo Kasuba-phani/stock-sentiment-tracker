@@ -93,5 +93,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-04-30 08:14:02,Meta Earnings: Ad Sales Growth Continues to Accelerate Even as AI Costs Mount - Morningstar,META,Google RSS,positive,0.9230760931968688
 2026-05-04 08:41:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided? - AOL.com",MSFT,Google RSS,neutral,0.0
 2026-05-06 10:23:00,Microsoft's AI growth surges despite 15% stock slide in 2026,MSFT,Bing RSS,positive,0.9384581446647644
-2026-05-06 15:18:49,U.S. Stock Market Movements | Nasdaq Continues to Reach New Historical Highs; Leading Technology Stocks Generally Rise; NVIDIA (NVDA.US) Surges Over 4% - Moomoo,NVDA,Google RSS,positive,0.9296626448631287
-2026-04-30 08:11:31,META: Meta Stock Tumbles 7% Despite Double Beat. High Capex Is a Big Worry. - TradingView,META,Google RSS,negative,-0.9569975733757019
+2026-05-06 15:18:49,U.S. Stock Market Movements | Nasdaq Continues to Reach New Historical Highs; Leading Technology Stocks Generally Rise; NVIDIA (NVDA.US) Surges Over 4% - Moomoo,NVDA,Google RSS,positive,0.9296626448631288
+2026-04-30 08:11:31,META: Meta Stock Tumbles 7% Despite Double Beat. High Capex Is a Big Worry. - TradingView,META,Google RSS,negative,-0.956997573375702
+2026-05-06 20:05:00,AMD stock surges as the chipmaker forecasts continued AI growth,GOOGL,Yahoo RSS,positive,0.8506394624710083
+2026-05-06 20:05:00,AMD stock surges as the chipmaker forecasts continued AI growth,AMZN,Yahoo RSS,positive,0.8506394624710083
+2026-05-06 18:53:24,Amazon.com (AMZN) Price Target Raised by $50 Following Strong Q1 Report,AMZN,Yahoo RSS,positive,0.9494654536247253
+2026-05-06 20:05:00,AMD stock surges as the chipmaker forecasts continued AI growth,NVDA,Yahoo RSS,positive,0.8506394624710083
+2026-05-06 19:19:00,Buy the Spike in AMD stock After Strong Q1 Results & Bullish Guidance?,NVDA,Yahoo RSS,neutral,0.0
+2026-05-06 20:19:30,The Best AI Stocks for Growth Investors to Buy in 2026 - The Motley Fool,META,Google RSS,neutral,0.0
+2026-05-06 19:59:32,Bill Ackman Caught The Falling Knife On Meta — It's Still Falling - Benzinga,META,Google RSS,neutral,0.0
