@@ -96,8 +96,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-07 16:01:00,Tesla’s stock rises as investors get a fresh sign that high gas prices are driving EV sales - MarketWatch,TSLA,Google RSS,positive,0.8979280591011047
 2026-05-07 13:58:28,U.S. stock movements | Tesla rose nearly 4% as domestically produced electric vehicle sales in China recorded growth for the sixth consecutive month. - 富途牛牛,TSLA,Google RSS,positive,0.939951479434967
 2026-05-07 09:01:00,Tesla’s stock rises as investors get a fresh sign that high gas prices are driving EV sales,TSLA,Bing RSS,positive,0.911643087863922
-2026-05-07 17:36:10,Microsoft stock continues climb as analysts remain strongly bullish - CryptoRank,MSFT,Google RSS,positive,0.9136452078819275
+2026-05-07 17:36:10,Microsoft stock continues climb as analysts remain strongly bullish - CryptoRank,MSFT,Google RSS,positive,0.9136452078819276
 2026-05-07 17:04:51,Microsoft stock continues climb as analysts remain strongly bullish - Invezz,MSFT,Google RSS,positive,0.907809853553772
 2026-05-07 10:19:00,Microsoft stock continues climb as analysts remain strongly bullish,MSFT,Bing RSS,positive,0.909482479095459
-2026-05-07 10:21:00,"Stock Market Live May 7, 2026: S&P 500 (SPY) Could See Higher Highs",NVDA,Bing RSS,positive,0.9264660477638245
+2026-05-07 10:21:00,"Stock Market Live May 7, 2026: S&P 500 (SPY) Could See Higher Highs",NVDA,Bing RSS,positive,0.9264660477638244
 2026-05-02 03:34:45,Netflix Stock Investors Must See This Exciting Growth Strategy - The Motley Fool,NFLX,Google RSS,neutral,0.0
+2026-05-07 18:49:34,"APR Targets 3,200 Walmart Stores As Medicube Retail Push Accelerates",AMZN,Yahoo RSS,positive,0.7993183732032776
+2026-05-07 08:08:12,MSFT stock alert: Microsoft weighs abandoning renewable energy target as AI boom continues,MSFT,Bing RSS,positive,0.7408991456031799
+2026-05-07 19:44:54,Stocks take a breather after reaching record highs,MSFT,Yahoo RSS,negative,-0.4678598940372467
+2026-05-07 19:44:54,Stocks take a breather after reaching record highs,NVDA,Yahoo RSS,negative,-0.4678598940372467
