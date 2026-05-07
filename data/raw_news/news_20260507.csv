@@ -105,3 +105,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-07 08:08:12,MSFT stock alert: Microsoft weighs abandoning renewable energy target as AI boom continues,MSFT,Bing RSS,positive,0.7408991456031799
 2026-05-07 19:44:54,Stocks take a breather after reaching record highs,MSFT,Yahoo RSS,negative,-0.4678598940372467
 2026-05-07 19:44:54,Stocks take a breather after reaching record highs,NVDA,Yahoo RSS,negative,-0.4678598940372467
+2026-05-07 19:44:54,Stocks take a breather after reaching record highs,AAPL,Yahoo RSS,negative,-0.4678598940372467
+2026-05-07 19:44:54,Stocks take a breather after reaching record highs,GOOGL,Yahoo RSS,negative,-0.4678598940372467
+2026-05-07 07:52:00,RXO stock soars. Strong earnings allay Amazon fears.,AMZN,Bing RSS,positive,0.902100682258606
+2026-05-07 19:44:54,Stocks take a breather after reaching record highs,AMZN,Yahoo RSS,negative,-0.4678598940372467
+2026-05-07 21:12:07,"Dow Jones futures: Stocks fall on Iran doubts but Nvidia, Tesla strong; CoreWeave, Rocket Lab, Cloudflare earnings late - MSN",NVDA,Google RSS,negative,-0.8593630790710449
+2026-05-07 21:48:00,"Small Caps Lead Stock Market Lower; Dycom, Nvidia, Rio Among Breakouts To Watch - Investor's Business Daily",NVDA,Google RSS,negative,-0.8618642091751099
+2026-05-07 15:05:00,"Corning Stock Is Surging on a Major Nvidia Deal: ‘AI Is Not Just a Technology Story, It Is a Manufacturing Story’",NVDA,Bing RSS,neutral,0.0
+2026-05-07 21:12:07,"Dow Jones futures: Stocks fall on Iran doubts but Nvidia, Tesla strong; CoreWeave, Rocket Lab, Cloudflare earnings late - MSN",TSLA,Google RSS,negative,-0.8593630790710449
