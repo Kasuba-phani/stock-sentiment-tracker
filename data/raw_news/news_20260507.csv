@@ -61,12 +61,29 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-07 07:20:47,Analysts Have Conflicting Sentiments on These Consumer Cyclical Companies: Tesla (TSLA) and TJX Companies (TJX) - The Globe and Mail,TSLA,Google RSS,negative,-0.91041100025177
 2026-04-30 14:06:41,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April - CNBC,META,Google RSS,positive,0.9382380247116088
 2026-05-07 10:11:00,"Al Chip Market Research and Global Forecast Report 2025-2030: Lucrative Opportunities in AI-Driven Diagnostics Expansion, Cloud Infrastructure Expansion and Rising Adoption of ASIC Technologies",AAPL,Yahoo RSS,positive,0.8199198246002197
-2026-05-06 20:07:44,Arm stock slides as chip supply worries overshadow upbeat AI-fueled revenue forecast,AAPL,Yahoo RSS,negative,-0.9557580351829529
-2026-05-07 04:54:55,"‘AI Growth Engine’ Could Send Microsoft Stock (MSFT) 65% Higher, Says Top Analyst - TipRanks",MSFT,Google RSS,positive,0.9525449275970459
+2026-05-06 20:07:44,Arm stock slides as chip supply worries overshadow upbeat AI-fueled revenue forecast,AAPL,Yahoo RSS,negative,-0.9557580351829528
+2026-05-07 04:54:55,"‘AI Growth Engine’ Could Send Microsoft Stock (MSFT) 65% Higher, Says Top Analyst - TipRanks",MSFT,Google RSS,positive,0.952544927597046
 2026-05-07 09:58:01,Wall Street sets Microsoft stock price target for next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
 2026-04-30 15:45:13,Why Microsoft Stock (MSFT) Is Down Today and Why One Investor Still Calls It a ‘Strong Buy’ - TipRanks,MSFT,Google RSS,negative,-0.8778311610221863
 2026-05-07 11:40:03,"Nvidia stock hits key level after Corning bet, but why are analysts divided? - CryptoRank",NVDA,Google RSS,neutral,0.0
 2026-05-07 11:09:25,"Nvidia stock hits key level after Corning bet, but why are analysts divided? - Invezz",NVDA,Google RSS,neutral,0.0
 2026-05-07 11:40:06,"Dow Jones Futures Rise, Oil Prices Fall On Iran-Deal Hopes, Nvidia Leads New Buys; ARM Is Earnings Mover",NVDA,Yahoo RSS,positive,0.5191776156425476
 2026-05-07 10:11:00,"Al Chip Market Research and Global Forecast Report 2025-2030: Lucrative Opportunities in AI-Driven Diagnostics Expansion, Cloud Infrastructure Expansion and Rising Adoption of ASIC Technologies",NVDA,Yahoo RSS,positive,0.8199198246002197
-2026-04-30 13:12:00,Meta stock falls sharply after strong earnings. What’s dragging it down?,META,Bing RSS,negative,-0.9327778220176697
+2026-04-30 13:12:00,Meta stock falls sharply after strong earnings. What’s dragging it down?,META,Bing RSS,negative,-0.9327778220176696
+2026-05-07 13:40:21,Goldman Sachs flags Amazon and Alphabet for inflating S&P 500 earnings growth figures - Seeking Alpha,GOOGL,Google RSS,negative,-0.9357615113258362
+2026-05-07 13:19:13,Alphabet (GOOGL): The Best Strong Buy S&P 500 Stock to Invest In - Insider Monkey,GOOGL,Google RSS,neutral,0.0
+2026-05-07 06:12:00,Alphabet (GOOGL): The Best Strong Buy S&P 500 Stock to Invest In,GOOGL,Bing RSS,neutral,0.0
+2026-05-07 12:50:32,"Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid Corporate Earnings, Economic Data Deluge",GOOGL,Yahoo RSS,positive,0.5091618299484253
+2026-05-07 13:12:11,Is Amazon.com (AMZN) the Best Strong Buy S&P 500 Stock to Invest In?,AMZN,Yahoo RSS,neutral,0.0
+2026-05-07 14:20:15,Microsoft Stock Forecast: Analysts See AI-Led Upside - TipRanks,MSFT,Google RSS,negative,-0.8879412412643433
+2026-04-30 10:41:04,Goldman Sachs raises Microsoft stock price target on updated estimates - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-05-07 11:20:29,"Dow Jones futures: Stock market hits highs on Iran-deal hopes, Nvidia leads new buys; ARM is big earnings mover - MSN",NVDA,Google RSS,positive,0.8804535865783691
+2026-05-07 12:38:53,"NVIDIA's 'favorite child' CoreWeave faces its earnings report test tonight! After a 245% surge, the market is beginning to worry about three issues. - 富途牛牛",NVDA,Google RSS,negative,-0.7046300172805786
+2026-05-07 13:46:42,Stars Align for Nasdaq Composite as Chip Stocks Roar and Oil Pulls Back,NVDA,Yahoo RSS,positive,0.5588340163230896
+2026-05-07 13:22:27,"S&P 500 Gains Unleashed on Chip Stock Strength, Falling Oil and Return to Optimism",NVDA,Yahoo RSS,positive,0.7024595737457275
+2026-05-07 13:14:41,"VLUE, AVUV, VBR: The Small and Large-Cap Value Plays Crushing Growth in May",NVDA,Yahoo RSS,positive,0.7324119210243225
+2026-05-07 12:25:28,Tesla records a sixth month in a row of higher China-made EV sales (TSLA:NASDAQ) - Seeking Alpha,TSLA,Google RSS,positive,0.9587922096252441
+2026-05-07 12:55:12,"Peace Deal Hopes, Strong Earnings Nudge US Equity Futures Higher Pre-Bell",TSLA,Yahoo RSS,positive,0.9194610118865967
+2026-05-07 12:50:32,"Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid Corporate Earnings, Economic Data Deluge",TSLA,Yahoo RSS,positive,0.5091618299484253
+2026-05-07 13:12:40,Here’s Why Meta Platforms (META) Is Among the 10 Strong Buy S&P 500 Stocks to Invest In,META,Yahoo RSS,neutral,0.0
+2026-05-07 13:22:27,"S&P 500 Gains Unleashed on Chip Stock Strength, Falling Oil and Return to Optimism",NFLX,Yahoo RSS,positive,0.7024595737457275
