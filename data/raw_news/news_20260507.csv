@@ -57,6 +57,16 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-07 09:05:25,Alphabet (GOOGL) Stock Analysis: $399 All-Time High - Google Cloud at $20B and the $190B Capex That’s Already Too Small - FXLeaders,GOOGL,Google RSS,neutral,0.0
 2026-05-07 08:34:28,"Analysts Offer Insights on Consumer Cyclical Companies: Dorman Products (DORM), XPEL (XPEL) and Amazon (AMZN) - The Globe and Mail",AMZN,Google RSS,neutral,0.0
 2026-05-07 07:42:09,Microsoft Corporation $MSFT Shares Acquired by Childress Capital Advisors LLC - MarketBeat,MSFT,Google RSS,neutral,0.0
-2026-05-07 08:16:00,IonQ Doubles Down on Nvidia Comparison. Why the Stock Is Falling After Blowout Earnings.,NVDA,Yahoo RSS,negative,-0.9614740014076233
+2026-05-07 08:16:00,IonQ Doubles Down on Nvidia Comparison. Why the Stock Is Falling After Blowout Earnings.,NVDA,Yahoo RSS,negative,-0.9614740014076232
 2026-05-07 07:20:47,Analysts Have Conflicting Sentiments on These Consumer Cyclical Companies: Tesla (TSLA) and TJX Companies (TJX) - The Globe and Mail,TSLA,Google RSS,negative,-0.91041100025177
-2026-04-30 14:06:41,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April - CNBC,META,Google RSS,positive,0.9382380247116089
+2026-04-30 14:06:41,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April - CNBC,META,Google RSS,positive,0.9382380247116088
+2026-05-07 10:11:00,"Al Chip Market Research and Global Forecast Report 2025-2030: Lucrative Opportunities in AI-Driven Diagnostics Expansion, Cloud Infrastructure Expansion and Rising Adoption of ASIC Technologies",AAPL,Yahoo RSS,positive,0.8199198246002197
+2026-05-06 20:07:44,Arm stock slides as chip supply worries overshadow upbeat AI-fueled revenue forecast,AAPL,Yahoo RSS,negative,-0.9557580351829529
+2026-05-07 04:54:55,"‘AI Growth Engine’ Could Send Microsoft Stock (MSFT) 65% Higher, Says Top Analyst - TipRanks",MSFT,Google RSS,positive,0.9525449275970459
+2026-05-07 09:58:01,Wall Street sets Microsoft stock price target for next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
+2026-04-30 15:45:13,Why Microsoft Stock (MSFT) Is Down Today and Why One Investor Still Calls It a ‘Strong Buy’ - TipRanks,MSFT,Google RSS,negative,-0.8778311610221863
+2026-05-07 11:40:03,"Nvidia stock hits key level after Corning bet, but why are analysts divided? - CryptoRank",NVDA,Google RSS,neutral,0.0
+2026-05-07 11:09:25,"Nvidia stock hits key level after Corning bet, but why are analysts divided? - Invezz",NVDA,Google RSS,neutral,0.0
+2026-05-07 11:40:06,"Dow Jones Futures Rise, Oil Prices Fall On Iran-Deal Hopes, Nvidia Leads New Buys; ARM Is Earnings Mover",NVDA,Yahoo RSS,positive,0.5191776156425476
+2026-05-07 10:11:00,"Al Chip Market Research and Global Forecast Report 2025-2030: Lucrative Opportunities in AI-Driven Diagnostics Expansion, Cloud Infrastructure Expansion and Rising Adoption of ASIC Technologies",NVDA,Yahoo RSS,positive,0.8199198246002197
+2026-04-30 13:12:00,Meta stock falls sharply after strong earnings. What’s dragging it down?,META,Bing RSS,negative,-0.9327778220176697
