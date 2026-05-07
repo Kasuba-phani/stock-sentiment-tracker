@@ -50,7 +50,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-02 03:32:00,Netflix Stock Investors Must See This Exciting Growth Strategy - The Globe and Mail,NFLX,Google RSS,positive,0.6228398084640503
 2026-05-05 10:28:50,Netflix cofounder Reed Hastings sells stock worth nearly $38M – NFLX stock eyes a three-day red streak,NFLX,Bing RSS,negative,-0.9598912596702576
 2026-05-06 22:48:31,"Apple's (AAPL.US) stock price hit a new all-time high for the first time in nearly six months, with the market focusing on the WWDC conference and advancements in the AI version of Siri. - 富途牛牛",AAPL,Google RSS,positive,0.8387582302093506
-2026-05-06 02:32:00,Intel’s stock jumped 13% today over Apple chip manufacturing report - 9to5Mac,AAPL,Google RSS,positive,0.9458509087562561
+2026-05-06 02:32:00,Intel’s stock jumped 13% today over Apple chip manufacturing report - 9to5Mac,AAPL,Google RSS,positive,0.945850908756256
 2026-05-04 08:08:19,"Chicago Partners Investment Group LLC Purchases 2,818 Shares of Alphabet Inc. $GOOG - MarketBeat",GOOGL,Google RSS,neutral,0.0
 2026-05-04 15:05:27,Analysts See 41% Upside for Microsoft Stock After Nearly 100% Backlog Growth - 24/7 Wall St.,MSFT,Google RSS,positive,0.8248000741004944
 2026-05-04 08:23:00,Microsoft stock needs faster cloud growth. Fixing this AI gap is key.,MSFT,Bing RSS,neutral,0.0
+2026-05-07 09:05:25,Alphabet (GOOGL) Stock Analysis: $399 All-Time High - Google Cloud at $20B and the $190B Capex That’s Already Too Small - FXLeaders,GOOGL,Google RSS,neutral,0.0
+2026-05-07 08:34:28,"Analysts Offer Insights on Consumer Cyclical Companies: Dorman Products (DORM), XPEL (XPEL) and Amazon (AMZN) - The Globe and Mail",AMZN,Google RSS,neutral,0.0
+2026-05-07 07:42:09,Microsoft Corporation $MSFT Shares Acquired by Childress Capital Advisors LLC - MarketBeat,MSFT,Google RSS,neutral,0.0
+2026-05-07 08:16:00,IonQ Doubles Down on Nvidia Comparison. Why the Stock Is Falling After Blowout Earnings.,NVDA,Yahoo RSS,negative,-0.9614740014076233
+2026-05-07 07:20:47,Analysts Have Conflicting Sentiments on These Consumer Cyclical Companies: Tesla (TSLA) and TJX Companies (TJX) - The Globe and Mail,TSLA,Google RSS,negative,-0.91041100025177
+2026-04-30 14:06:41,Google wraps up best month since 2004 as earnings push Alphabet stock up 34% in April - CNBC,META,Google RSS,positive,0.9382380247116089
