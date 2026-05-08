@@ -66,3 +66,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-06 19:12:03,Home Page - Microsoft Investor Relations - Microsoft,MSFT,Google RSS,neutral,0.0
 2026-05-08 08:34:00,IREN Stock Surges 8% Premarket On Nvidia Boost: Retail Ecstatic But Analyst Still Feels It’s Overvalued - Stocktwits,NVDA,Google RSS,positive,0.8441368937492371
 2026-05-08 09:00:50,IREN stock surges 8% premarket on Nvidia boost: Retail ecstatic but analyst still feels it’s overvalued - MSN,NVDA,Google RSS,positive,0.8787883520126343
+2026-05-08 11:10:25,Apple stock rises as Wedbush lifts target to Street High $400 on AI push - Investing.com,AAPL,Google RSS,positive,0.79628586769104
+2026-05-08 09:12:07,"Dow Jones futures: Stocks fall on Iran doubts but Nvidia, Tesla strong; Rocket Lab, Cloudflare, Iren are big earnings movers late - MSN",NVDA,Google RSS,negative,-0.7988226413726807
+2026-05-08 09:12:07,"Dow Jones futures: Stocks fall on Iran doubts but Nvidia, Tesla strong; Rocket Lab, Cloudflare, Iren are big earnings movers late - MSN",TSLA,Google RSS,negative,-0.7988226413726807
