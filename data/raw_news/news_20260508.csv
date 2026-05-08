@@ -83,3 +83,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-08 15:09:26,Tesla stock moves higher as China-made EV sales surge 36% in April 2026 - Traders Union,TSLA,Google RSS,positive,0.932233989238739
 2026-05-06 21:16:00,The Best AI Stocks for Growth Investors to Buy in 2026 - The Motley Fool,META,Google RSS,neutral,0.0
 2026-05-06 19:59:32,"Bill Ackman Caught The Falling Knife On Meta — It's Still Falling - Meta Platforms (NASDAQ:META), Pershin - Benzinga",META,Google RSS,neutral,0.0
+2026-05-08 10:28:00,Intel stock hits fourth straight record high as Apple report fuels chip rally,AAPL,Bing RSS,positive,0.6182834506034851
+2026-05-06 12:15:57,"Alphabet stands to gain from robust Google Cloud, TPU growth, Mizuho says - CNBC",GOOGL,Google RSS,positive,0.9381667971611023
+2026-05-08 17:12:21,Why Memory-Chip Stocks Are Top Of Mind For Investors,GOOGL,Yahoo RSS,neutral,0.0
+2026-05-08 17:12:21,Why Memory-Chip Stocks Are Top Of Mind For Investors,AMZN,Yahoo RSS,neutral,0.0
+2026-05-08 16:20:46,Amazon Opens Supply Chain Services Raising New Questions For Margins And Growth,AMZN,Yahoo RSS,positive,0.7541083097457886
+2026-05-08 16:19:52,"Stock Market Soars On Tumbling Oil Prices, Strong Earnings: Weekly Review",AMZN,Yahoo RSS,positive,0.8375558853149414
+2026-05-08 17:12:21,Why Memory-Chip Stocks Are Top Of Mind For Investors,MSFT,Yahoo RSS,neutral,0.0
+2026-05-08 17:44:29,"Nvidia stock hits fresh record high as rally extends to third day, on track for biggest weekly gain in 6 months - Mint",NVDA,Google RSS,positive,0.9144786596298218
+2026-05-08 17:15:24,Intel stock hits fourth straight record high as Apple report fuels chip rally,NVDA,Yahoo RSS,positive,0.6182834506034851
+2026-05-08 17:12:21,Why Memory-Chip Stocks Are Top Of Mind For Investors,NVDA,Yahoo RSS,neutral,0.0
+2026-05-08 17:14:00,How High Gas Prices Need to Rise to Boost Electric Vehicle Sales,TSLA,Yahoo RSS,neutral,0.0
+2026-05-08 17:12:21,Why Memory-Chip Stocks Are Top Of Mind For Investors,META,Yahoo RSS,neutral,0.0
