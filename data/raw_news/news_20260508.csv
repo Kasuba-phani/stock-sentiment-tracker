@@ -7,13 +7,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-07 13:40:21,Goldman Sachs flags Amazon and Alphabet for inflating S&P 500 earnings growth figures - Seeking Alpha,GOOGL,Google RSS,negative,-0.9357615113258362
 2026-05-04 16:32:00,Google Closes In on Nvidia. Why Alphabet Stock Remains J.P. Morgan’s ‘Top Overall Pick’ - Barron's,GOOGL,Google RSS,neutral,0.0
 2026-05-07 16:04:57,Alphabet (NasdaqGS:GOOGL) Valuation In Focus After Strong Recent Share Price Momentum - simplywall.st,GOOGL,Google RSS,positive,0.6673046350479126
-2026-05-06 11:45:34,Alphabet and Meta stock predictions show strong support amid cloud growth - Crypto Briefing,GOOGL,Google RSS,positive,0.9346965551376343
+2026-05-06 11:45:34,Alphabet and Meta stock predictions show strong support amid cloud growth - Crypto Briefing,GOOGL,Google RSS,positive,0.9346965551376344
 2026-05-07 13:19:13,Alphabet (GOOGL): The Best Strong Buy S&P 500 Stock to Invest In - Insider Monkey,GOOGL,Google RSS,neutral,0.0
-2026-05-02 17:31:00,Wall Street drops sharply as Google's Alphabet drags down stocks - Euronews.com,GOOGL,Google RSS,negative,-0.9465243220329285
+2026-05-02 17:31:00,Wall Street drops sharply as Google's Alphabet drags down stocks - Euronews.com,GOOGL,Google RSS,negative,-0.9465243220329284
 2026-05-07 06:12:00,Alphabet (GOOGL): The Best Strong Buy S&P 500 Stock to Invest In,GOOGL,Bing RSS,neutral,0.0
 2026-05-07 19:44:54,Stocks take a breather after reaching record highs,GOOGL,Yahoo RSS,negative,-0.4678601920604706
 2026-05-05 12:27:44,"Here are Tuesday's biggest analyst calls: Apple, Tesla, CoreWeave, Amazon, Palantir, Home Depot & more - CNBC",AMZN,Google RSS,neutral,0.0
-2026-05-04 20:26:00,Amazon Readies Supply Chain Services To Businesses. These Stocks Fall. - Investor's Business Daily,AMZN,Google RSS,negative,-0.9377127885818481
+2026-05-04 20:26:00,Amazon Readies Supply Chain Services To Businesses. These Stocks Fall. - Investor's Business Daily,AMZN,Google RSS,negative,-0.937712788581848
 2026-05-07 16:33:00,Here's Why UPS Stock Is Rising and Falling in 2026 - The Motley Fool,AMZN,Google RSS,negative,-0.6163929104804993
 2026-05-04 23:14:00,"Amazon Hits All-Time High, Leads 20 Top Performers Onto Best Stock Lists - Investor's Business Daily",AMZN,Google RSS,positive,0.5019382834434509
 2026-05-05 11:57:52,Amazon Supply Chain Launch Triggers Massive Selloff for GXO and UPS Stocks - TIKR.com,AMZN,Google RSS,negative,-0.7691118717193604
@@ -24,13 +24,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-04 09:21:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided? - The Motley Fool",MSFT,Google RSS,neutral,0.0
 2026-05-06 11:30:17,3 Reasons Why Microsoft Stock Looks Cheap and Has a Strong Buy Case - 24/7 Wall St.,MSFT,Google RSS,neutral,0.0
 2026-05-07 14:20:15,Microsoft Stock Forecast: Analysts See AI-Led Upside - TipRanks,MSFT,Google RSS,negative,-0.8879412412643433
-2026-05-07 17:36:10,Microsoft stock continues climb as analysts remain strongly bullish - CryptoRank,MSFT,Google RSS,positive,0.9136452078819275
-2026-05-07 17:08:42,Microsoft stock continues climb as analysts remain strongly bullish - Invezz,MSFT,Google RSS,positive,0.9078099727630615
-2026-05-07 04:54:55,"‘AI Growth Engine’ Could Send Microsoft Stock (MSFT) 65% Higher, Says Top Analyst - TipRanks",MSFT,Google RSS,positive,0.9525449275970459
+2026-05-07 17:36:10,Microsoft stock continues climb as analysts remain strongly bullish - CryptoRank,MSFT,Google RSS,positive,0.9136452078819276
+2026-05-07 17:08:42,Microsoft stock continues climb as analysts remain strongly bullish - Invezz,MSFT,Google RSS,positive,0.9078099727630616
+2026-05-07 04:54:55,"‘AI Growth Engine’ Could Send Microsoft Stock (MSFT) 65% Higher, Says Top Analyst - TipRanks",MSFT,Google RSS,positive,0.952544927597046
 2026-05-04 14:28:55,Microsoft Stock Edges Higher As Analysts Call Q3 Results A 'Clearing Event' - Microsoft (NASDAQ:MSFT) - Benzinga,MSFT,Google RSS,positive,0.9157924056053162
 2026-05-07 07:42:09,Microsoft Corporation $MSFT Shares Acquired by Childress Capital Advisors LLC - MarketBeat,MSFT,Google RSS,neutral,0.0
 2026-05-07 09:58:01,Wall Street sets Microsoft stock price target for next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
-2026-05-07 10:19:00,Microsoft stock continues climb as analysts remain strongly bullish,MSFT,Bing RSS,positive,0.9094825983047485
+2026-05-07 10:19:00,Microsoft stock continues climb as analysts remain strongly bullish,MSFT,Bing RSS,positive,0.9094825983047484
 2026-05-07 08:08:12,MSFT stock alert: Microsoft weighs abandoning renewable energy target as AI boom continues,MSFT,Bing RSS,positive,0.740898847579956
 2026-05-04 08:05:00,Analysts See 41% Upside for Microsoft Stock After Nearly 100% Backlog Growth,MSFT,Bing RSS,positive,0.8488845229148865
 2026-05-04 02:21:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",MSFT,Bing RSS,neutral,0.0
@@ -47,9 +47,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-07 21:12:07,"Dow Jones futures: Stocks fall on Iran doubts but Nvidia, Tesla strong; CoreWeave, Rocket Lab, Cloudflare earnings late - MSN",TSLA,Google RSS,negative,-0.859363317489624
 2026-05-07 09:01:00,Tesla’s stock rises as investors get a fresh sign that high gas prices are driving EV sales,TSLA,Bing RSS,positive,0.911643385887146
 2026-05-08 03:03:02,"Dow Jones Futures: Oil Prices Rise As U.S., Iran Clash; Rocket Lab, Cloudflare, IREN Are Big Earnings Movers Late",TSLA,Yahoo RSS,positive,0.5732098817825317
-2026-05-06 11:45:34,Alphabet and Meta stock predictions show strong support amid cloud growth - Crypto Briefing,META,Google RSS,positive,0.9346965551376343
+2026-05-06 11:45:34,Alphabet and Meta stock predictions show strong support amid cloud growth - Crypto Briefing,META,Google RSS,positive,0.9346965551376344
 2026-05-05 08:11:01,"Strong Earnings Report Cannot Hide AI “Cash Burn” Concerns, Putting Pressure on Meta’s Stock Price - NAI500",META,Google RSS,negative,-0.9478628635406494
 2026-05-05 18:02:37,Netflix cofounder Reed Hastings sells stock worth nearly $38M – NFLX stock eyes a three-day red streak - MSN,NFLX,Google RSS,negative,-0.896037757396698
 2026-05-02 03:34:45,Netflix Stock Investors Must See This Exciting Growth Strategy - The Motley Fool,NFLX,Google RSS,neutral,0.0
 2026-05-05 10:28:50,Netflix cofounder Reed Hastings sells stock worth nearly $38M – NFLX stock eyes a three-day red streak,NFLX,Bing RSS,negative,-0.9598912596702576
 2026-05-07 13:22:27,"S&P 500 Gains Unleashed on Chip Stock Strength, Falling Oil and Return to Optimism",NFLX,Yahoo RSS,positive,0.7024595737457275
+2026-05-07 19:24:00,IonQ Doubles Down on Nvidia Comparison. Why the Stock Is Falling After Blowout Earnings. - Barron's,NVDA,Google RSS,negative,-0.9502679109573364
+2026-05-07 12:50:03,"Nvidia Stock (NVDA) Could See ‘Major Re-Rating’ Ahead of Earnings, Says Goldman Sachs - TipRanks",NVDA,Google RSS,positive,0.7467326521873474
+2026-05-05 21:21:39,AMD Stock Pops as AI Powers Strong Data-Center Demand - Investopedia,META,Google RSS,positive,0.7823834419250488
+2026-05-06 18:53:24,Amazon.com (AMZN) Price Target Raised by $50 Following Strong Q1 Report,AMZN,Yahoo Global,positive,0.9494654536247253
