@@ -69,5 +69,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-07 11:20:29,"Dow Jones futures: Stock market hits highs on Iran-deal hopes, Nvidia leads new buys; ARM is big earnings mover - MSN",NVDA,Google RSS,positive,0.8804537653923035
 2026-05-09 11:26:41,Apple Inc. stock (US0378331005): Shares near record highs after strong Q2 results and analyst optimi - AD HOC NEWS,AAPL,Google RSS,positive,0.933525800704956
 2026-05-09 11:08:00,Traphagen Investment Advisors LLC Raises Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,positive,0.8346579670906067
-2026-05-09 11:08:00,Summit Wealth Partners LLC Decreases Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,negative,-0.9631398320198059
+2026-05-09 11:08:00,Summit Wealth Partners LLC Decreases Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,negative,-0.963139832019806
 2026-05-09 11:31:00,"These Market Signals Alarm Me, but I Still See Profit Potential in These 3 Consumer Stocks",NVDA,Yahoo RSS,positive,0.907343864440918
+2026-05-09 12:25:07,NVIDIA Corporation stock (US67066G1040): Shares rise on strong latest results and AI demand outlook - AD HOC NEWS,NVDA,Google RSS,positive,0.9247004389762878
+2026-05-09 13:26:00,"Oof! The Federal Reserve's May Inflation Forecast Is In, and Things Just Got Uglier for Wall Street.",NVDA,Yahoo RSS,negative,-0.8972957730293274
+2026-05-09 12:00:43,"Nvidia, Boeing Lead 5 Dow Stocks Near Buy Points. They Share This Flaw.",NVDA,Yahoo RSS,neutral,0.0
+2026-05-09 05:48:00,"May 2026 Brings Major Platform Shifts Across Meta, Microsoft, and Adobe Stock",META,Bing RSS,positive,0.5636378526687622
