@@ -65,3 +65,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-08 14:47:00,Why Microsoft Stock Soared 10.2% Higher Last Month and Has Kept Rallying in May - The Motley Fool,MSFT,Google RSS,neutral,0.0
 2026-05-07 11:40:03,"Nvidia stock hits key level after Corning bet, but why are analysts divided? - CryptoRank",NVDA,Google RSS,neutral,0.0
 2026-05-09 08:04:45,"Eagle Wealth Advisors LLC Buys New Shares in Meta Platforms, Inc. $META - MarketBeat",META,Google RSS,neutral,0.0
+2026-05-09 08:17:19,"Intel (INTC) Partners with Apple for Chip Manufacturing, Stock Surges - GuruFocus",AAPL,Google RSS,neutral,0.0
+2026-05-07 11:20:29,"Dow Jones futures: Stock market hits highs on Iran-deal hopes, Nvidia leads new buys; ARM is big earnings mover - MSN",NVDA,Google RSS,positive,0.8804537653923035
