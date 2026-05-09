@@ -67,3 +67,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-09 08:04:45,"Eagle Wealth Advisors LLC Buys New Shares in Meta Platforms, Inc. $META - MarketBeat",META,Google RSS,neutral,0.0
 2026-05-09 08:17:19,"Intel (INTC) Partners with Apple for Chip Manufacturing, Stock Surges - GuruFocus",AAPL,Google RSS,neutral,0.0
 2026-05-07 11:20:29,"Dow Jones futures: Stock market hits highs on Iran-deal hopes, Nvidia leads new buys; ARM is big earnings mover - MSN",NVDA,Google RSS,positive,0.8804537653923035
+2026-05-09 11:26:41,Apple Inc. stock (US0378331005): Shares near record highs after strong Q2 results and analyst optimi - AD HOC NEWS,AAPL,Google RSS,positive,0.933525800704956
+2026-05-09 11:08:00,Traphagen Investment Advisors LLC Raises Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,positive,0.8346579670906067
+2026-05-09 11:08:00,Summit Wealth Partners LLC Decreases Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,negative,-0.9631398320198059
+2026-05-09 11:31:00,"These Market Signals Alarm Me, but I Still See Profit Potential in These 3 Consumer Stocks",NVDA,Yahoo RSS,positive,0.907343864440918
