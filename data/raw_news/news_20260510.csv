@@ -58,3 +58,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-10 07:31:53,Great news for Microsoft stock investors - MSN,MSFT,Google RSS,neutral,0.0
 2026-05-10 07:03:15,"Meta Platforms, Inc. (NASDAQ:META) Given Average Rating of ""Moderate Buy"" by Analysts - MarketBeat",META,Google RSS,positive,0.738833487033844
 2026-05-08 18:26:20,Netflix Inc. stock (US64110L1061): Price action and analyst sentiment ahead of Q1 2026 earnings - AD HOC NEWS,NFLX,Google RSS,neutral,0.0
+2026-05-07 15:05:00,"Corning Stock Is Surging on a Major Nvidia Deal: ‘AI Is Not Just a Technology Story, It Is a Manufacturing Story’",NVDA,Bing RSS,neutral,0.0
+2026-05-07 05:00:15,Meta stock edges lower with Q1 results due. Here are 2 earnings numbers to watch - MSN,META,Google RSS,negative,-0.8882192373275757
