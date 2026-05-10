@@ -1,0 +1,51 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-05-08 11:10:25,Apple stock rises as Wedbush lifts target to Street High $400 on AI push - Investing.com,AAPL,Google RSS,positive,0.7962871193885803
+2026-05-09 08:17:19,"Intel (INTC) Partners with Apple for Chip Manufacturing, Stock Surges - GuruFocus",AAPL,Google RSS,neutral,0.0
+2026-05-06 20:06:00,"Apple, Nvidia, Broadcom And This Dow Retail Behemoth Fire Up Breakout Watch - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-05-09 22:10:57,Paul Tudor Jones Warns Trump-Era Market Boom Could End in a 35% Crash. Here’s Why He’s Still Buying Stocks,AAPL,Yahoo RSS,neutral,0.0
+2026-05-08 21:31:33,"Stock Market Today, May 8: Nasdaq Gains 1.7% on AI Demand and Strong Jobs Data",AAPL,Yahoo RSS,positive,0.9434234499931335
+2026-05-04 16:32:00,Google Closes In on Nvidia. Why Alphabet Stock Remains J.P. Morgan’s ‘Top Overall Pick’ - Barron's,GOOGL,Google RSS,neutral,0.0
+2026-05-07 13:40:21,Goldman Sachs flags Amazon and Alphabet for inflating S&P 500 earnings growth figures - Seeking Alpha,GOOGL,Google RSS,negative,-0.9357615113258362
+2026-05-06 12:29:24,"‘It’s Crystal Clear,’ Says Top Investor About Alphabet Stock - TipRanks",GOOGL,Google RSS,neutral,0.0
+2026-05-07 06:12:00,Alphabet (GOOGL): The Best Strong Buy S&P 500 Stock to Invest In,GOOGL,Bing RSS,neutral,0.0
+2026-05-09 19:13:00,Goldman Sachs spots a troubling big tech trend,GOOGL,Yahoo RSS,negative,-0.9610589742660522
+2026-05-04 20:26:00,Amazon Readies Supply Chain Services To Businesses. These Stocks Fall. - Investor's Business Daily,AMZN,Google RSS,negative,-0.9377127885818481
+2026-05-04 23:14:00,"Amazon Hits All-Time High, Leads 20 Top Performers Onto Best Stock Lists - Investor's Business Daily",AMZN,Google RSS,positive,0.5019382834434509
+2026-05-09 19:13:00,Goldman Sachs spots a troubling big tech trend,AMZN,Yahoo RSS,negative,-0.9610589742660522
+2026-05-08 20:12:23,Why Memory-Chip Stocks Are Top Of Mind For Investors,AMZN,Yahoo RSS,neutral,0.0
+2026-05-04 15:05:27,Analysts See 41% Upside for Microsoft Stock After Nearly 100% Backlog Growth - 24/7 Wall St.,MSFT,Google RSS,positive,0.8248013257980347
+2026-05-04 20:41:50,Home Page - Microsoft Investor Relations - Microsoft,MSFT,Google RSS,neutral,0.0
+2026-05-06 11:30:17,3 Reasons Why Microsoft Stock Looks Cheap and Has a Strong Buy Case - 24/7 Wall St.,MSFT,Google RSS,neutral,0.0
+2026-05-08 14:17:18,Why Microsoft Stock Soared 10.2% Higher Last Month and Has Kept Rallying in May - The Globe and Mail,MSFT,Google RSS,positive,0.8681482076644897
+2026-05-07 14:20:15,Microsoft Stock Forecast: Analysts See AI-Led Upside - TipRanks,MSFT,Google RSS,negative,-0.8879412412643433
+2026-05-05 14:29:24,Microsoft stock edges lower amid strong technical support at $398: weekly analysis - Traders Union,MSFT,Google RSS,negative,-0.9507991671562195
+2026-05-07 04:54:55,"‘AI Growth Engine’ Could Send Microsoft Stock (MSFT) 65% Higher, Says Top Analyst - TipRanks",MSFT,Google RSS,positive,0.9525449275970459
+2026-05-09 18:13:40,Great news for Microsoft stock investors,MSFT,Bing RSS,neutral,0.0
+2026-05-08 07:47:20,Why Microsoft stock soared 10.2% higher last month and has kept rallying in May,MSFT,Bing RSS,positive,0.9211897253990173
+2026-05-06 06:55:00,3 Reasons Why Microsoft Stock Looks Cheap and Has a Strong Buy Case,MSFT,Bing RSS,neutral,0.0
+2026-05-04 02:21:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",MSFT,Bing RSS,neutral,0.0
+2026-05-09 22:10:57,Paul Tudor Jones Warns Trump-Era Market Boom Could End in a 35% Crash. Here’s Why He’s Still Buying Stocks,MSFT,Yahoo RSS,neutral,0.0
+2026-05-09 21:27:50,Microsoft Deal Strengthens Black Hills Corporation (BKH) Prospects as a High Growth Utility Stock to Buy,MSFT,Yahoo RSS,positive,0.948863685131073
+2026-05-09 19:13:00,Goldman Sachs spots a troubling big tech trend,MSFT,Yahoo RSS,negative,-0.9610589742660522
+2026-05-08 20:12:23,Why Memory-Chip Stocks Are Top Of Mind For Investors,MSFT,Yahoo RSS,neutral,0.0
+2026-05-09 19:25:32,Goldman Sachs resets Nvidia stock forecast ahead of earnings - AOL.com,NVDA,Google RSS,neutral,0.0
+2026-05-09 12:00:00,"Nvidia, Boeing Lead 5 Dow Stocks Near Buy Points. They Share This Flaw. - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-05-09 04:58:24,"Nvidia Stock (NVDA) Could See ‘Major Re-Rating’ Ahead of Earnings, Says Goldman Sachs - TipRanks",NVDA,Google RSS,positive,0.7467337250709534
+2026-05-09 11:08:00,Traphagen Investment Advisors LLC Raises Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,positive,0.834658682346344
+2026-05-06 20:06:00,"Apple, Nvidia, Broadcom And This Dow Retail Behemoth Fire Up Breakout Watch - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-05-09 11:08:00,Summit Wealth Partners LLC Decreases Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,negative,-0.9631398320198059
+2026-05-07 11:40:03,"Nvidia stock hits key level after Corning bet, but why are analysts divided? - CryptoRank",NVDA,Google RSS,neutral,0.0
+2026-05-10 01:57:00,Prediction: The Helium Crunch Will Accelerate the Reshoring of Artificial Intelligence (AI) Chip Manufacturing. Here Are the Best Growth Stocks to Own.,NVDA,Yahoo RSS,neutral,0.0
+2026-05-09 22:10:57,Paul Tudor Jones Warns Trump-Era Market Boom Could End in a 35% Crash. Here’s Why He’s Still Buying Stocks,NVDA,Yahoo RSS,neutral,0.0
+2026-05-07 16:01:00,Tesla’s stock rises as investors get a fresh sign that high gas prices are driving EV sales - MarketWatch,TSLA,Google RSS,positive,0.8979282975196838
+2026-05-09 01:29:40,Tesla stock upgraded from Buy Candidate to Strong Buy Candidate after Friday trading session - StockInvest.us,TSLA,Google RSS,positive,0.891779899597168
+2026-05-08 09:12:07,"Dow Jones futures: Stocks fall on Iran doubts but Nvidia, Tesla strong; Rocket Lab, Cloudflare, Iren are big earnings movers late - MSN",TSLA,Google RSS,negative,-0.7988227009773254
+2026-05-08 15:09:26,Tesla stock moves higher as China-made EV sales surge 36% in April 2026 - Traders Union,TSLA,Google RSS,positive,0.932233989238739
+2026-05-08 20:10:00,How High Gas Prices Need to Rise to Boost Electric Vehicle Sales,TSLA,Yahoo RSS,neutral,0.0
+2026-05-06 11:45:34,Alphabet and Meta stock predictions show strong support amid cloud growth - Crypto Briefing,META,Google RSS,positive,0.9346965551376343
+2026-05-09 08:04:45,"Eagle Wealth Advisors LLC Buys New Shares in Meta Platforms, Inc. $META - MarketBeat",META,Google RSS,neutral,0.0
+2026-05-09 19:13:00,Goldman Sachs spots a troubling big tech trend,META,Yahoo RSS,negative,-0.9610589742660522
+2026-05-08 20:12:23,Why Memory-Chip Stocks Are Top Of Mind For Investors,META,Yahoo RSS,neutral,0.0
+2026-05-05 10:28:50,Netflix cofounder Reed Hastings sells stock worth nearly $38M – NFLX stock eyes a three-day red streak,NFLX,Bing RSS,negative,-0.9598912596702576
+2026-05-07 13:22:27,"S&P 500 Gains Unleashed on Chip Stock Strength, Falling Oil and Return to Optimism",NFLX,Yahoo RSS,positive,0.7024595737457275
+2026-05-08 17:15:24,Intel stock hits fourth straight record high as Apple report fuels chip rally,AAPL,Yahoo Global,positive,0.618285059928894
