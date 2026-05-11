@@ -45,8 +45,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-07 00:23:39,Tesla stock drops after earnings beat. Why the market is losing patience with Elon Musk. - MSN,TSLA,Google RSS,negative,-0.7940003871917725
 2026-05-08 09:12:07,"Dow Jones futures: Stocks fall on Iran doubts but Nvidia, Tesla strong; Rocket Lab, Cloudflare, Iren are big earnings movers late - MSN",TSLA,Google RSS,negative,-0.7988226413726807
 2026-05-09 21:27:50,Microsoft Deal Strengthens Black Hills Corporation (BKH) Prospects as a High Growth Utility Stock to Buy,MSFT,Yahoo Global,positive,0.948863685131073
-2026-05-11 09:30:00,"Dow Jones Futures Fall, Oil Prices Rise; Trump Says Iran Response 'Totally Unacceptable' - Investor's Business Daily",AAPL,Google RSS,negative,-0.9201115965843201
+2026-05-11 09:30:00,"Dow Jones Futures Fall, Oil Prices Rise; Trump Says Iran Response 'Totally Unacceptable' - Investor's Business Daily",AAPL,Google RSS,negative,-0.92011159658432
 2026-05-11 08:43:00,Smart Home Global Forecast Report 2026-2032: $95+ Billion Market Driven by Ongoing Advancements in AI- and Voice-Enabled Smart Home Solutions,AAPL,Yahoo RSS,positive,0.894268810749054
 2026-05-11 08:43:00,Smart Home Global Forecast Report 2026-2032: $95+ Billion Market Driven by Ongoing Advancements in AI- and Voice-Enabled Smart Home Solutions,AMZN,Yahoo RSS,positive,0.894268810749054
-2026-05-11 09:30:00,"Dow Jones Futures Fall, Oil Prices Rise; Trump Says Iran Response 'Totally Unacceptable' - Investor's Business Daily",NVDA,Google RSS,negative,-0.9201115965843201
+2026-05-11 09:30:00,"Dow Jones Futures Fall, Oil Prices Rise; Trump Says Iran Response 'Totally Unacceptable' - Investor's Business Daily",NVDA,Google RSS,negative,-0.92011159658432
 2026-05-11 10:13:00,Nvidia Stock Dips After Falling Just Short of Record High,NVDA,Yahoo RSS,negative,-0.962643563747406
+2026-05-11 14:54:55,"Memory chip stocks hit record highs, pharma reacts to hantavirus concerns",AAPL,Yahoo RSS,positive,0.8965754508972168
+2026-05-11 14:04:24,Microsoft stock price forecast: $400.00 support in focus as MSFT trades lower - Traders Union,MSFT,Google RSS,neutral,0.0
+2026-05-11 14:29:08,Microsoft stock price forecast: $400.00 support in focus as MSFT edges lower - Traders Union,MSFT,Google RSS,neutral,0.0
+2026-05-04 19:54:47,Home Page - Microsoft Investor Relations - Microsoft,MSFT,Google RSS,neutral,0.0
+2026-05-11 12:16:00,Microsoft price gathers positive momentum - Forecast today - 11-05-2026 - Economies.com,MSFT,Google RSS,neutral,0.0
+2026-05-11 10:43:01,Nvidia stock dips after falling just short of record high - MSN,NVDA,Google RSS,negative,-0.9648584723472595
