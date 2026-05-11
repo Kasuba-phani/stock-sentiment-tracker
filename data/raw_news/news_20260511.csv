@@ -5,7 +5,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-11 00:00:00,My Top 3 Quantum Computing Stocks for May 2026 - The Motley Fool,GOOGL,Google RSS,neutral,0.0
 2026-05-10 23:20:00,My Top 3 Quantum Computing Stocks for May 2026,GOOGL,Yahoo RSS,neutral,0.0
 2026-05-10 17:32:54,"The global economy is experiencing the largest capex cycle ever, with nearly $5 trillion seen by the end of the decade—and it’s not all AI spending",GOOGL,Yahoo RSS,neutral,0.0
-2026-05-04 20:26:00,Amazon Readies Supply Chain Services To Businesses. These Stocks Fall. - Investor's Business Daily,AMZN,Google RSS,negative,-0.9377129077911377
+2026-05-04 20:26:00,Amazon Readies Supply Chain Services To Businesses. These Stocks Fall. - Investor's Business Daily,AMZN,Google RSS,negative,-0.9377129077911376
 2026-05-10 21:00:00,2 Top Stocks Long-Term Investors Should Buy in May - The Motley Fool,AMZN,Google RSS,neutral,0.0
 2026-05-11 02:51:06,3 Top Stocks to Buy in May - The Globe and Mail,AMZN,Google RSS,neutral,0.0
 2026-05-07 16:33:00,Here's Why UPS Stock Is Rising and Falling in 2026 - The Motley Fool,AMZN,Google RSS,negative,-0.6163936257362366
@@ -13,14 +13,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-10 20:20:00,2 Top Stocks Long-Term Investors Should Buy in May,AMZN,Yahoo RSS,neutral,0.0
 2026-05-10 17:32:54,"The global economy is experiencing the largest capex cycle ever, with nearly $5 trillion seen by the end of the decade—and it’s not all AI spending",AMZN,Yahoo RSS,neutral,0.0
 2026-05-08 14:47:00,Why Microsoft Stock Soared 10.2% Higher Last Month and Has Kept Rallying in May - The Motley Fool,MSFT,Google RSS,neutral,0.0
-2026-05-10 12:28:39,Microsoft Stock Week Ahead: MSFT Faces a Fresh AI Test After Big Investor Cut - TechStock²,MSFT,Google RSS,negative,-0.46159783005714417
+2026-05-10 12:28:39,Microsoft Stock Week Ahead: MSFT Faces a Fresh AI Test After Big Investor Cut - TechStock²,MSFT,Google RSS,negative,-0.4615978300571441
 2026-05-06 11:30:17,3 Reasons Why Microsoft Stock Looks Cheap and Has a Strong Buy Case - 24/7 Wall St.,MSFT,Google RSS,neutral,0.0
 2026-05-10 08:36:13,"Quattro Financial Advisors LLC Sells 1,987 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
 2026-05-08 14:17:18,Why Microsoft Stock Soared 10.2% Higher Last Month and Has Kept Rallying in May - The Globe and Mail,MSFT,Google RSS,positive,0.8681483864784241
-2026-05-07 17:36:10,Microsoft stock continues climb as analysts remain strongly bullish - CryptoRank,MSFT,Google RSS,positive,0.9136452078819275
-2026-05-07 04:54:55,"‘AI Growth Engine’ Could Send Microsoft Stock (MSFT) 65% Higher, Says Top Analyst - TipRanks",MSFT,Google RSS,positive,0.9525449275970459
+2026-05-07 17:36:10,Microsoft stock continues climb as analysts remain strongly bullish - CryptoRank,MSFT,Google RSS,positive,0.9136452078819276
+2026-05-07 04:54:55,"‘AI Growth Engine’ Could Send Microsoft Stock (MSFT) 65% Higher, Says Top Analyst - TipRanks",MSFT,Google RSS,positive,0.952544927597046
 2026-05-09 18:13:40,Great news for Microsoft stock investors,MSFT,Bing RSS,neutral,0.0
-2026-05-08 07:47:20,Why Microsoft stock soared 10.2% higher last month and has kept rallying in May,MSFT,Bing RSS,positive,0.9211897253990173
+2026-05-08 07:47:20,Why Microsoft stock soared 10.2% higher last month and has kept rallying in May,MSFT,Bing RSS,positive,0.9211897253990172
 2026-05-04 02:21:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",MSFT,Bing RSS,neutral,0.0
 2026-05-04 08:05:00,Analysts See 41% Upside for Microsoft Stock After Nearly 100% Backlog Growth,MSFT,Bing RSS,positive,0.8488847613334656
 2026-05-10 17:32:54,"The global economy is experiencing the largest capex cycle ever, with nearly $5 trillion seen by the end of the decade—and it’s not all AI spending",MSFT,Yahoo RSS,neutral,0.0
@@ -36,3 +36,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-10 07:03:15,"Meta Platforms, Inc. (NASDAQ:META) Given Average Rating of ""Moderate Buy"" by Analysts - MarketBeat",META,Google RSS,positive,0.738833487033844
 2026-05-10 17:32:54,"The global economy is experiencing the largest capex cycle ever, with nearly $5 trillion seen by the end of the decade—and it’s not all AI spending",META,Yahoo RSS,neutral,0.0
 2026-05-07 13:22:27,"S&P 500 Gains Unleashed on Chip Stock Strength, Falling Oil and Return to Optimism",NFLX,Yahoo RSS,positive,0.7024573087692261
+2026-05-11 01:26:00,Why BofA remains cautious on Intel stock despite ongoing rally,AAPL,Bing RSS,neutral,0.0
+2026-05-06 12:29:24,"‘It’s Crystal Clear,’ Says Top Investor About Alphabet Stock - TipRanks",GOOGL,Google RSS,neutral,0.0
+2026-05-11 07:03:18,Alphabet Inc. (Class A) stock (US02079K3059): Shares near record highs on AI momentum and cloud grow - AD HOC NEWS,GOOGL,Google RSS,positive,0.8255794644355774
+2026-05-10 20:24:36,2 Top Stocks Long-Term Investors Should Buy in May - The Globe and Mail,AMZN,Google RSS,neutral,0.0
+2026-05-04 15:05:27,Analysts See 41% Upside for Microsoft Stock After Nearly 100% Backlog Growth - 24/7 Wall St.,MSFT,Google RSS,positive,0.8248000741004944
+2026-05-11 08:02:19,NVIDIA Corporation $NVDA Stock Position Boosted by Benchmark Financial Wealth Advisors LLC - MarketBeat,NVDA,Google RSS,positive,0.9349551200866699
+2026-05-07 00:23:39,Tesla stock drops after earnings beat. Why the market is losing patience with Elon Musk. - MSN,TSLA,Google RSS,negative,-0.7940003871917725
+2026-05-08 09:12:07,"Dow Jones futures: Stocks fall on Iran doubts but Nvidia, Tesla strong; Rocket Lab, Cloudflare, Iren are big earnings movers late - MSN",TSLA,Google RSS,negative,-0.7988226413726807
+2026-05-09 21:27:50,Microsoft Deal Strengthens Black Hills Corporation (BKH) Prospects as a High Growth Utility Stock to Buy,MSFT,Yahoo Global,positive,0.948863685131073
