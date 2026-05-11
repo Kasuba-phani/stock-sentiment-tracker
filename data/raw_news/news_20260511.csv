@@ -74,3 +74,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-11 20:22:43,Quantum Computing Stocks: Rigetti Posts Small Revenue Beat,NVDA,Yahoo RSS,neutral,0.0
 2026-05-11 19:51:00,"Big Tech earnings reinforce strength of AI demand across chips, cloud and software: Wedbush",NVDA,Yahoo RSS,positive,0.8501058220863342
 2026-05-11 19:56:30,Sector Update: Consumer Stocks Decline Late Afternoon,NFLX,Yahoo RSS,negative,-0.9715571403503418
+2026-05-11 21:57:27,"Dow Jones Futures: AI, Chip Stocks Shrug Off Oil Prices, Trump Comments; CPI Inflation Due",NVDA,Yahoo RSS,negative,-0.4873333275318146
+2026-05-11 20:55:00,Qualcomm Stock Is Rising. Why the Chip Stock Hit a Record High.,NVDA,Yahoo RSS,positive,0.5594144463539124
+2026-05-11 20:52:23,"S&P 500, Nasdaq Reach New Peaks as Traders Track US-Iran Conflict",NVDA,Yahoo RSS,positive,0.6668695211410522
+2026-05-11 21:09:26,"US Equity Indexes Advance, Treasury Yields Rise With Crude Oil as Trump Explores Options to Tame Iran",TSLA,Yahoo RSS,positive,0.6906037926673889
