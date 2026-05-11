@@ -1,0 +1,38 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-05-08 11:10:25,Apple stock rises as Wedbush lifts target to Street High $400 on AI push - Investing.com,AAPL,Google RSS,positive,0.79628586769104
+2026-05-09 22:10:57,Paul Tudor Jones Warns Trump-Era Market Boom Could End in a 35% Crash. Here’s Why He’s Still Buying Stocks,AAPL,Yahoo RSS,neutral,0.0
+2026-05-04 16:32:00,Google Closes In on Nvidia. Why Alphabet Stock Remains J.P. Morgan’s ‘Top Overall Pick’ - Barron's,GOOGL,Google RSS,neutral,0.0
+2026-05-11 00:00:00,My Top 3 Quantum Computing Stocks for May 2026 - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-05-10 23:20:00,My Top 3 Quantum Computing Stocks for May 2026,GOOGL,Yahoo RSS,neutral,0.0
+2026-05-10 17:32:54,"The global economy is experiencing the largest capex cycle ever, with nearly $5 trillion seen by the end of the decade—and it’s not all AI spending",GOOGL,Yahoo RSS,neutral,0.0
+2026-05-04 20:26:00,Amazon Readies Supply Chain Services To Businesses. These Stocks Fall. - Investor's Business Daily,AMZN,Google RSS,negative,-0.9377129077911377
+2026-05-10 21:00:00,2 Top Stocks Long-Term Investors Should Buy in May - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-05-11 02:51:06,3 Top Stocks to Buy in May - The Globe and Mail,AMZN,Google RSS,neutral,0.0
+2026-05-07 16:33:00,Here's Why UPS Stock Is Rising and Falling in 2026 - The Motley Fool,AMZN,Google RSS,negative,-0.6163936257362366
+2026-05-11 02:50:00,3 Top Stocks to Buy in May,AMZN,Yahoo RSS,neutral,0.0
+2026-05-10 20:20:00,2 Top Stocks Long-Term Investors Should Buy in May,AMZN,Yahoo RSS,neutral,0.0
+2026-05-10 17:32:54,"The global economy is experiencing the largest capex cycle ever, with nearly $5 trillion seen by the end of the decade—and it’s not all AI spending",AMZN,Yahoo RSS,neutral,0.0
+2026-05-08 14:47:00,Why Microsoft Stock Soared 10.2% Higher Last Month and Has Kept Rallying in May - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-05-10 12:28:39,Microsoft Stock Week Ahead: MSFT Faces a Fresh AI Test After Big Investor Cut - TechStock²,MSFT,Google RSS,negative,-0.46159783005714417
+2026-05-06 11:30:17,3 Reasons Why Microsoft Stock Looks Cheap and Has a Strong Buy Case - 24/7 Wall St.,MSFT,Google RSS,neutral,0.0
+2026-05-10 08:36:13,"Quattro Financial Advisors LLC Sells 1,987 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
+2026-05-08 14:17:18,Why Microsoft Stock Soared 10.2% Higher Last Month and Has Kept Rallying in May - The Globe and Mail,MSFT,Google RSS,positive,0.8681483864784241
+2026-05-07 17:36:10,Microsoft stock continues climb as analysts remain strongly bullish - CryptoRank,MSFT,Google RSS,positive,0.9136452078819275
+2026-05-07 04:54:55,"‘AI Growth Engine’ Could Send Microsoft Stock (MSFT) 65% Higher, Says Top Analyst - TipRanks",MSFT,Google RSS,positive,0.9525449275970459
+2026-05-09 18:13:40,Great news for Microsoft stock investors,MSFT,Bing RSS,neutral,0.0
+2026-05-08 07:47:20,Why Microsoft stock soared 10.2% higher last month and has kept rallying in May,MSFT,Bing RSS,positive,0.9211897253990173
+2026-05-04 02:21:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",MSFT,Bing RSS,neutral,0.0
+2026-05-04 08:05:00,Analysts See 41% Upside for Microsoft Stock After Nearly 100% Backlog Growth,MSFT,Bing RSS,positive,0.8488847613334656
+2026-05-10 17:32:54,"The global economy is experiencing the largest capex cycle ever, with nearly $5 trillion seen by the end of the decade—and it’s not all AI spending",MSFT,Yahoo RSS,neutral,0.0
+2026-05-09 13:47:00,Goldman Sachs resets Nvidia stock forecast ahead of earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
+2026-05-10 15:01:18,"‘Load Up Ahead of May 20,’ Says Investor About Nvidia Stock - TipRanks",NVDA,Google RSS,neutral,0.0
+2026-05-09 12:00:00,"Nvidia, Boeing Lead 5 Dow Stocks Near Buy Points. They Share This Flaw. - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-05-09 04:58:24,"Nvidia Stock (NVDA) Could See ‘Major Re-Rating’ Ahead of Earnings, Says Goldman Sachs - TipRanks",NVDA,Google RSS,positive,0.7467326521873474
+2026-05-06 20:06:00,"Apple, Nvidia, Broadcom And This Dow Retail Behemoth Fire Up Breakout Watch - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-05-11 02:50:00,3 Top Stocks to Buy in May,NVDA,Yahoo RSS,neutral,0.0
+2026-05-10 20:20:00,2 Top Stocks Long-Term Investors Should Buy in May,NVDA,Yahoo RSS,neutral,0.0
+2026-05-07 16:01:00,Tesla’s stock rises as investors get a fresh sign that high gas prices are driving EV sales - MarketWatch,TSLA,Google RSS,positive,0.8979280591011047
+2026-05-09 01:29:40,Tesla stock upgraded from Buy Candidate to Strong Buy Candidate after Friday trading session - StockInvest.us,TSLA,Google RSS,positive,0.8917798399925232
+2026-05-10 07:03:15,"Meta Platforms, Inc. (NASDAQ:META) Given Average Rating of ""Moderate Buy"" by Analysts - MarketBeat",META,Google RSS,positive,0.738833487033844
+2026-05-10 17:32:54,"The global economy is experiencing the largest capex cycle ever, with nearly $5 trillion seen by the end of the decade—and it’s not all AI spending",META,Yahoo RSS,neutral,0.0
+2026-05-07 13:22:27,"S&P 500 Gains Unleashed on Chip Stock Strength, Falling Oil and Return to Optimism",NFLX,Yahoo RSS,positive,0.7024573087692261
