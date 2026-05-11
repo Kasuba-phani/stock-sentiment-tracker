@@ -41,7 +41,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-11 07:03:18,Alphabet Inc. (Class A) stock (US02079K3059): Shares near record highs on AI momentum and cloud grow - AD HOC NEWS,GOOGL,Google RSS,positive,0.8255794644355774
 2026-05-10 20:24:36,2 Top Stocks Long-Term Investors Should Buy in May - The Globe and Mail,AMZN,Google RSS,neutral,0.0
 2026-05-04 15:05:27,Analysts See 41% Upside for Microsoft Stock After Nearly 100% Backlog Growth - 24/7 Wall St.,MSFT,Google RSS,positive,0.8248000741004944
-2026-05-11 08:02:19,NVIDIA Corporation $NVDA Stock Position Boosted by Benchmark Financial Wealth Advisors LLC - MarketBeat,NVDA,Google RSS,positive,0.9349551200866699
+2026-05-11 08:02:19,NVIDIA Corporation $NVDA Stock Position Boosted by Benchmark Financial Wealth Advisors LLC - MarketBeat,NVDA,Google RSS,positive,0.93495512008667
 2026-05-07 00:23:39,Tesla stock drops after earnings beat. Why the market is losing patience with Elon Musk. - MSN,TSLA,Google RSS,negative,-0.7940003871917725
 2026-05-08 09:12:07,"Dow Jones futures: Stocks fall on Iran doubts but Nvidia, Tesla strong; Rocket Lab, Cloudflare, Iren are big earnings movers late - MSN",TSLA,Google RSS,negative,-0.7988226413726807
 2026-05-09 21:27:50,Microsoft Deal Strengthens Black Hills Corporation (BKH) Prospects as a High Growth Utility Stock to Buy,MSFT,Yahoo Global,positive,0.948863685131073
+2026-05-11 09:30:00,"Dow Jones Futures Fall, Oil Prices Rise; Trump Says Iran Response 'Totally Unacceptable' - Investor's Business Daily",AAPL,Google RSS,negative,-0.9201115965843201
+2026-05-11 08:43:00,Smart Home Global Forecast Report 2026-2032: $95+ Billion Market Driven by Ongoing Advancements in AI- and Voice-Enabled Smart Home Solutions,AAPL,Yahoo RSS,positive,0.894268810749054
+2026-05-11 08:43:00,Smart Home Global Forecast Report 2026-2032: $95+ Billion Market Driven by Ongoing Advancements in AI- and Voice-Enabled Smart Home Solutions,AMZN,Yahoo RSS,positive,0.894268810749054
+2026-05-11 09:30:00,"Dow Jones Futures Fall, Oil Prices Rise; Trump Says Iran Response 'Totally Unacceptable' - Investor's Business Daily",NVDA,Google RSS,negative,-0.9201115965843201
+2026-05-11 10:13:00,Nvidia Stock Dips After Falling Just Short of Record High,NVDA,Yahoo RSS,negative,-0.962643563747406
