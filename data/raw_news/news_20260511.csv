@@ -63,3 +63,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-11 17:20:00,Advanced Micro Devices and Other Growth Stocks Are Flying High. History Says Hold on to Them.,NVDA,Yahoo RSS,neutral,0.0
 2026-05-11 17:07:29,"US Equity Indexes Mixed, Crude Oil Rises With Treasury Yields as Iran Ceasefire on 'Massive Life Support'",NVDA,Yahoo RSS,negative,-0.5455828905105591
 2026-05-11 16:22:14,Meta Platforms stock (US30303M1027): Q1 2026 earnings miss sparks 8.6% drop despite 33% revenue surg - AD HOC NEWS,META,Google RSS,negative,-0.975823700428009
+2026-05-11 20:18:23,Alphabet Inc. Class C stock (US02079K1079): Tech giant's ongoing AI and cloud momentum - AD HOC NEWS,GOOGL,Google RSS,neutral,0.0
+2026-05-11 19:51:00,"Big Tech earnings reinforce strength of AI demand across chips, cloud and software: Wedbush",GOOGL,Yahoo RSS,positive,0.8501058220863342
+2026-05-11 19:51:00,"Big Tech earnings reinforce strength of AI demand across chips, cloud and software: Wedbush",AMZN,Yahoo RSS,positive,0.8501058220863342
+2026-05-09 07:00:00,Great news for Microsoft stock investors - MSN,MSFT,Google RSS,neutral,0.0
+2026-05-11 12:20:00,"Microsoft Stock Still Looks Undervalued Based on FCF Projections, Despite Higher Capex",MSFT,Bing RSS,positive,0.6268027424812317
+2026-05-11 19:51:00,"Big Tech earnings reinforce strength of AI demand across chips, cloud and software: Wedbush",MSFT,Yahoo RSS,positive,0.8501058220863342
+2026-05-11 14:49:00,Nvidia Tops Buy Point. 5 Dow Stocks Near Entries Share This Flaw. - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
+2026-05-11 20:45:20,"Dow Jones Futures: AI, Chip Stocks Thrive Despite Oil Prices, Trump Comments; CPI Inflation Due",NVDA,Yahoo RSS,positive,0.6786743402481079
+2026-05-11 20:22:43,Quantum Computing Stocks: Rigetti Posts Small Revenue Beat,NVDA,Yahoo RSS,neutral,0.0
+2026-05-11 19:51:00,"Big Tech earnings reinforce strength of AI demand across chips, cloud and software: Wedbush",NVDA,Yahoo RSS,positive,0.8501058220863342
+2026-05-11 19:56:30,Sector Update: Consumer Stocks Decline Late Afternoon,NFLX,Yahoo RSS,negative,-0.9715571403503418
