@@ -11,9 +11,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-11 14:29:08,Microsoft stock price forecast: $400.00 support in focus as MSFT edges lower - Traders Union,MSFT,Google RSS,neutral,0.0
 2026-05-11 14:04:24,Microsoft stock price forecast: $400.00 support in focus as MSFT trades lower - Traders Union,MSFT,Google RSS,neutral,0.0
 2026-05-08 14:47:00,Why Microsoft Stock Soared 10.2% Higher Last Month and Has Kept Rallying in May - The Motley Fool,MSFT,Google RSS,neutral,0.0
-2026-05-10 12:28:39,Microsoft Stock Week Ahead: MSFT Faces a Fresh AI Test After Big Investor Cut - TechStock²,MSFT,Google RSS,negative,-0.46159783005714417
+2026-05-10 12:28:39,Microsoft Stock Week Ahead: MSFT Faces a Fresh AI Test After Big Investor Cut - TechStock²,MSFT,Google RSS,negative,-0.4615978300571441
 2026-05-08 14:17:18,Why Microsoft Stock Soared 10.2% Higher Last Month and Has Kept Rallying in May - The Globe and Mail,MSFT,Google RSS,positive,0.8681483864784241
-2026-05-07 17:36:10,Microsoft stock continues climb as analysts remain strongly bullish - CryptoRank,MSFT,Google RSS,positive,0.9136452078819275
+2026-05-07 17:36:10,Microsoft stock continues climb as analysts remain strongly bullish - CryptoRank,MSFT,Google RSS,positive,0.9136452078819276
 2026-05-10 08:36:13,"Quattro Financial Advisors LLC Sells 1,987 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
 2026-05-11 12:20:00,"Microsoft Stock Still Looks Undervalued Based on FCF Projections, Despite Higher Capex",MSFT,Bing RSS,positive,0.6268027424812317
 2026-05-09 18:13:40,Great news for Microsoft stock investors,MSFT,Bing RSS,neutral,0.0
@@ -21,10 +21,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-11 17:20:00,Advanced Micro Devices and Other Growth Stocks Are Flying High. History Says Hold on to Them.,MSFT,Yahoo RSS,neutral,0.0
 2026-05-11 22:32:11,"The dominance of technology stocks in the U.S. equity market has reached unprecedented levels, with NVIDIA's (NVDA.US) market capitalization surpassing that of the entire S&P Healthcare sector. - 富途牛牛",NVDA,Google RSS,positive,0.856107234954834
 2026-05-11 14:49:00,Nvidia Tops Buy Point. 5 Dow Stocks Near Entries Share This Flaw. - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
-2026-05-11 21:02:09,Nvidia stock dips after falling just short of record high - MSN,NVDA,Google RSS,negative,-0.9648584723472595
+2026-05-11 21:02:09,Nvidia stock dips after falling just short of record high - MSN,NVDA,Google RSS,negative,-0.9648584723472596
 2026-05-09 13:47:00,Goldman Sachs resets Nvidia stock forecast ahead of earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
 2026-05-09 19:25:32,Goldman Sachs resets Nvidia stock forecast ahead of earnings - AOL.com,NVDA,Google RSS,neutral,0.0
-2026-05-11 08:02:19,NVIDIA Corporation $NVDA Stock Position Boosted by Benchmark Financial Wealth Advisors LLC - MarketBeat,NVDA,Google RSS,positive,0.9349551200866699
+2026-05-11 08:02:19,NVIDIA Corporation $NVDA Stock Position Boosted by Benchmark Financial Wealth Advisors LLC - MarketBeat,NVDA,Google RSS,positive,0.93495512008667
 2026-05-11 23:55:27,"Dow Jones Futures: AI, Chip Stocks Shrug Off Oil Prices, Trump Comments; CPI Inflation Due",NVDA,Yahoo RSS,negative,-0.4873333275318146
 2026-05-11 21:35:40,Quantum Computing Stocks: Rigetti Posts Small Revenue Beat,NVDA,Yahoo RSS,neutral,0.0
 2026-05-09 01:29:40,Tesla stock upgraded from Buy Candidate to Strong Buy Candidate after Friday trading session - StockInvest.us,TSLA,Google RSS,positive,0.8917798399925232
@@ -32,3 +32,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-11 16:22:14,Meta Platforms stock (US30303M1027): Q1 2026 earnings miss sparks 8.6% drop despite 33% revenue surg - AD HOC NEWS,META,Google RSS,negative,-0.975823700428009
 2026-05-11 19:56:30,Sector Update: Consumer Stocks Decline Late Afternoon,NFLX,Yahoo RSS,negative,-0.9715571403503418
 2026-05-07 13:22:27,"S&P 500 Gains Unleashed on Chip Stock Strength, Falling Oil and Return to Optimism",NFLX,Yahoo RSS,positive,0.7024573087692261
+2026-05-12 03:50:00,"Up 377%, Is Intel Proving Why It Was a Mistake for Nvidia to Replace Intel in the Dow Jones Industrial Average?",MSFT,Yahoo RSS,neutral,0.0
+2026-05-12 03:50:00,"Up 377%, Is Intel Proving Why It Was a Mistake for Nvidia to Replace Intel in the Dow Jones Industrial Average?",NVDA,Yahoo RSS,neutral,0.0
