@@ -52,15 +52,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-12 14:57:17,Just 3 Companies Drive 70% of the S&P 500’s 2026 Growth Expectations,GOOGL,Yahoo RSS,neutral,0.0
 2026-05-12 14:57:17,Just 3 Companies Drive 70% of the S&P 500’s 2026 Growth Expectations,AMZN,Yahoo RSS,neutral,0.0
 2026-05-12 12:48:28,Microsoft's rebound gains steam with traders eyeing a potential bull flag pattern - Seeking Alpha,MSFT,Google RSS,positive,0.8620755672454834
-2026-05-08 07:47:20,Why Microsoft stock soared 10.2% higher last month and has kept rallying in May,MSFT,Bing RSS,positive,0.9211897253990173
-2026-05-12 15:40:44,"Oracle Could See Fiscal Q4 Upside From Restructuring, Strong Tech Infrastructure Spending, Oppenheimer Says",MSFT,Yahoo RSS,positive,0.9474775195121765
+2026-05-08 07:47:20,Why Microsoft stock soared 10.2% higher last month and has kept rallying in May,MSFT,Bing RSS,positive,0.9211897253990172
+2026-05-12 15:40:44,"Oracle Could See Fiscal Q4 Upside From Restructuring, Strong Tech Infrastructure Spending, Oppenheimer Says",MSFT,Yahoo RSS,positive,0.9474775195121764
 2026-05-12 14:29:50,Analysts Still See Massive Upside for Nvidia Stock (NVDA) - TipRanks,NVDA,Google RSS,negative,-0.9055578708648682
 2026-05-12 15:48:00,"S&P500: Nvidia and AMD Slide as Inflation, Oil Shake US Stocks - FXEmpire",NVDA,Google RSS,negative,-0.9604846835136414
-2026-05-12 01:46:00,Nvidia (NVDA) Stock Surges to New All-Time High Ahead of May 20 Earnings Report,NVDA,Bing RSS,positive,0.9223924875259399
+2026-05-12 01:46:00,Nvidia (NVDA) Stock Surges to New All-Time High Ahead of May 20 Earnings Report,NVDA,Bing RSS,positive,0.92239248752594
 2026-05-12 15:53:38,The April Jobs Report and CPI Reading Just Hit Consumers With a Double Whammy. Will the Fed Have to Rethink Its Position Regarding Interest Rates?,NVDA,Yahoo RSS,negative,-0.6642940044403076
-2026-05-12 15:40:44,"Oracle Could See Fiscal Q4 Upside From Restructuring, Strong Tech Infrastructure Spending, Oppenheimer Says",NVDA,Yahoo RSS,positive,0.9474775195121765
+2026-05-12 15:40:44,"Oracle Could See Fiscal Q4 Upside From Restructuring, Strong Tech Infrastructure Spending, Oppenheimer Says",NVDA,Yahoo RSS,positive,0.9474775195121764
 2026-05-12 15:32:19,Tesla stock holds steady above key moving averages as MA-20 offers nearby support: weekly outlook - Traders Union,TSLA,Google RSS,positive,0.6039408445358276
-2026-05-07 09:13:00,Tesla’s stock rises as investors get a fresh sign that high gas prices are driving EV sales,TSLA,Bing RSS,positive,0.9116430878639221
+2026-05-07 09:13:00,Tesla’s stock rises as investors get a fresh sign that high gas prices are driving EV sales,TSLA,Bing RSS,positive,0.911643087863922
 2026-05-07 05:00:15,Meta stock edges lower with Q1 results due. Here are 2 earnings numbers to watch - MSN,META,Google RSS,negative,-0.8882192373275757
-2026-05-12 15:40:44,"Oracle Could See Fiscal Q4 Upside From Restructuring, Strong Tech Infrastructure Spending, Oppenheimer Says",META,Yahoo RSS,positive,0.9474775195121765
+2026-05-12 15:40:44,"Oracle Could See Fiscal Q4 Upside From Restructuring, Strong Tech Infrastructure Spending, Oppenheimer Says",META,Yahoo RSS,positive,0.9474775195121764
 2026-05-12 14:57:17,Just 3 Companies Drive 70% of the S&P 500’s 2026 Growth Expectations,META,Yahoo RSS,neutral,0.0
+2026-05-12 18:53:20,Amazon.com Inc. stock (US0231351067): Recent price pullback amid market volatility - AD HOC NEWS,AMZN,Google RSS,negative,-0.9046644568443298
+2026-05-12 14:56:14,Microsoft stock trades flat as Q3 2026 earnings beat analyst expectations - Traders Union,MSFT,Google RSS,negative,-0.9563884139060974
+2026-05-12 16:10:00,Qualcomm drops 13% as chip stocks pull back from record AI-driven rally - CNBC,NVDA,Google RSS,negative,-0.93081134557724
+2026-05-12 17:56:24,The Fed Rate Path Will Make or Break PCY in 2026: Here’s What to Watch,NVDA,Yahoo RSS,neutral,0.0
+2026-05-10 08:00:02,Tesla stock is on a winning streak with China-made EVs. Its imports to Europe are increasing.,TSLA,Bing RSS,positive,0.9491177201271057
