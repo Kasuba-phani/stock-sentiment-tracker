@@ -37,7 +37,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-12 04:07:29,S&P 500 Stocks Trading At 52-Week High - Trefis,AAPL,Google RSS,positive,0.538077712059021
 2026-05-12 04:30:00,"Up 377%, Is Intel Proving Why It Was a Mistake for Nvidia to Replace Intel in the Dow Jones Industrial Average? - The Motley Fool",NVDA,Google RSS,neutral,0.0
 2026-05-12 06:24:00,These Are the 10 Largest Consumer Staples Stocks in May -- How to Pick the Top Investments,NVDA,Yahoo RSS,neutral,0.0
-2026-05-12 07:27:35,Q1 Earnings Highs And Lows: Tesla (NASDAQ:TSLA) Vs The Rest Of The Automobile Manufacturing Stocks - StockStory,TSLA,Google RSS,negative,-0.9366118907928467
+2026-05-12 07:27:35,Q1 Earnings Highs And Lows: Tesla (NASDAQ:TSLA) Vs The Rest Of The Automobile Manufacturing Stocks - StockStory,TSLA,Google RSS,negative,-0.9366118907928468
 2026-05-07 16:01:00,Tesla’s stock rises as investors get a fresh sign that high gas prices are driving EV sales - MarketWatch,TSLA,Google RSS,positive,0.8979280591011047
 2026-05-07 00:23:39,Tesla stock drops after earnings beat. Why the market is losing patience with Elon Musk. - MSN,TSLA,Google RSS,negative,-0.7940003871917725
 2026-05-12 07:28:23,Panasonic forecasts profit rebound for battery unit after quarterly loss,TSLA,Yahoo RSS,positive,0.8376585245132446
+2026-05-12 10:04:26,"Amazon Increases AI Investment, High Investment Equals High Returns? Investors Need to Be Wary of Share Price Decline Risk - TradingKey",AMZN,Google RSS,neutral,0.0
+2026-05-12 10:04:26,"Amazon Increases AI Investment, High Investment Equals High Returns? Investors Need to Be Wary of Share Price Decline Risk - TradingKey",META,Google RSS,neutral,0.0
