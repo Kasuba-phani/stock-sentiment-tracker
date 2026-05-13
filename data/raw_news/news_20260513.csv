@@ -29,9 +29,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-11 19:56:30,Sector Update: Consumer Stocks Decline Late Afternoon,NFLX,Yahoo RSS,negative,-0.9715571403503418
 2026-05-11 13:00:02,"Microsoft Stock Still Looks Undervalued Based on FCF Projections, Despite Higher Capex",MSFT,Yahoo Global,positive,0.6268027424812317
 2026-05-12 12:48:28,Microsoft's rebound gains steam with traders eyeing a potential bull flag pattern - Seeking Alpha,MSFT,Google RSS,positive,0.8620755672454834
-2026-05-12 20:37:44,Stocks Settle Mixed on Tech Weakness and Inflation Pressures,MSFT,Yahoo RSS,negative,-0.9593827724456787
+2026-05-12 20:37:44,Stocks Settle Mixed on Tech Weakness and Inflation Pressures,MSFT,Yahoo RSS,negative,-0.9593827724456788
 2026-05-12 22:02:46,"NVIDIA to release earnings May 20 as stock lags behind AMD, Intel - Fox Business",NVDA,Google RSS,negative,-0.8100184202194214
 2026-05-13 00:51:11,"‘Turn Down the Heat,’ Says Top Investor About Nvidia Stock - TipRanks",NVDA,Google RSS,neutral,0.0
-2026-05-11 22:41:15,Nvidia stock dips after falling just short of record high - MSN,NVDA,Google RSS,negative,-0.9648584723472595
+2026-05-11 22:41:15,Nvidia stock dips after falling just short of record high - MSN,NVDA,Google RSS,negative,-0.9648584723472596
 2026-05-13 01:26:28,Tesla stock downgraded from Strong Buy Candidate to Hold/Accumulate after Tuesday trading session - StockInvest.us,TSLA,Google RSS,negative,-0.7165365219116211
 2026-05-11 13:16:00,Tesla China retail sales fall 10% in April despite reports of 36% surge - Electrek,TSLA,Google RSS,negative,-0.9749451279640198
+2026-05-12 23:05:00,3 Growth Stocks Long-Term Investors Should Buy in May - The Motley Fool,AAPL,Google RSS,neutral,0.0
+2026-05-12 22:30:45,"Stock market today: S&P 500, Nasdaq futures rise with fresh PPI inflation data on deck",AAPL,Yahoo RSS,positive,0.8159058094024658
+2026-05-12 23:05:00,3 Growth Stocks Long-Term Investors Should Buy in May - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-05-09 18:13:40,Great news for Microsoft stock investors,MSFT,Bing RSS,neutral,0.0
+2026-05-12 04:30:00,"Up 377%, Is Intel Proving Why It Was a Mistake for Nvidia to Replace Intel in the Dow Jones Industrial Average? - The Motley Fool",NVDA,Google RSS,neutral,0.0
+2026-05-13 06:18:34,"NVIDIA Stock Shares Rally 12% In A Week, Should You Buy The Stock Despite Its High Valuation? - Trefis",NVDA,Google RSS,neutral,0.0
