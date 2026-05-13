@@ -47,3 +47,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-13 09:04:00,A Hot Jobs Report and 3.8% Inflation Just Backed Up Billionaire Ken Griffin's Warning -- Is Your Portfolio Ready?,NVDA,Yahoo RSS,positive,0.5900695323944092
 2026-05-13 10:30:44,"North American EV Demand Drops Sharply Despite Rising Global Sales, Iran War",TSLA,Yahoo RSS,negative,-0.9701489210128784
 2026-05-12 22:30:45,"Stock market today: S&P 500, Nasdaq futures rise with fresh PPI inflation data on deck",TSLA,Yahoo RSS,positive,0.8159075975418091
+2026-05-13 12:54:16,Alphabet stock (US02079K3059): Strong YTD gains amid margin expansion guidance - AD HOC NEWS,GOOGL,Google RSS,positive,0.9365025162696838
+2026-05-13 11:25:19,Alphabet Inc. (Class C) stock (US02079K1079): Recent price dip amid AI growth - AD HOC NEWS,GOOGL,Google RSS,negative,-0.9404951333999634
+2026-05-08 08:28:00,Why Microsoft Stock Soared 10.2% Higher Last Month and Has Kept Rallying in May,MSFT,Bing RSS,positive,0.9211897253990173
+2026-05-13 13:10:01,Major Investor Increases Tesla [NASDAQ: TSLA] Stake by 5.1% as Analyst Divide Over Stock Price Widens - foreignpolicyjournal.com,TSLA,Google RSS,positive,0.7155905961990356
+2026-05-13 11:52:54,Netflix stock (US64110L1061): Recent 2.59% gain amid trading volatility - AD HOC NEWS,NFLX,Google RSS,positive,0.4998111128807068
