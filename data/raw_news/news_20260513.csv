@@ -49,6 +49,16 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-12 22:30:45,"Stock market today: S&P 500, Nasdaq futures rise with fresh PPI inflation data on deck",TSLA,Yahoo RSS,positive,0.8159075975418091
 2026-05-13 12:54:16,Alphabet stock (US02079K3059): Strong YTD gains amid margin expansion guidance - AD HOC NEWS,GOOGL,Google RSS,positive,0.9365025162696838
 2026-05-13 11:25:19,Alphabet Inc. (Class C) stock (US02079K1079): Recent price dip amid AI growth - AD HOC NEWS,GOOGL,Google RSS,negative,-0.9404951333999634
-2026-05-08 08:28:00,Why Microsoft Stock Soared 10.2% Higher Last Month and Has Kept Rallying in May,MSFT,Bing RSS,positive,0.9211897253990173
+2026-05-08 08:28:00,Why Microsoft Stock Soared 10.2% Higher Last Month and Has Kept Rallying in May,MSFT,Bing RSS,positive,0.9211897253990172
 2026-05-13 13:10:01,Major Investor Increases Tesla [NASDAQ: TSLA] Stake by 5.1% as Analyst Divide Over Stock Price Widens - foreignpolicyjournal.com,TSLA,Google RSS,positive,0.7155905961990356
 2026-05-13 11:52:54,Netflix stock (US64110L1061): Recent 2.59% gain amid trading volatility - AD HOC NEWS,NFLX,Google RSS,positive,0.4998111128807068
+2026-05-13 14:01:29,Why Nvidia Earnings May Matter More To The S&P 500 Than Fed Minutes Right Now,GOOGL,Yahoo RSS,neutral,0.0
+2026-05-13 14:01:29,Why Nvidia Earnings May Matter More To The S&P 500 Than Fed Minutes Right Now,AMZN,Yahoo RSS,neutral,0.0
+2026-05-13 14:01:29,Why Nvidia Earnings May Matter More To The S&P 500 Than Fed Minutes Right Now,MSFT,Yahoo RSS,neutral,0.0
+2026-05-13 15:21:00,"Dow Falls On Hot Inflation But Nvidia, These AI Winners Rally (Live) - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-05-12 15:48:00,"S&P500: Nvidia and AMD Slide as Inflation, Oil Shake US Stocks - FXEmpire",NVDA,Google RSS,negative,-0.9604846835136414
+2026-05-13 14:43:26,Nvidia shares may move 5.8% on May 20 earnings report - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-05-13 16:16:18,US Equity Indexes Mixed as Hot Producer Prices Push Dow Jones Industrial Average Lower,NVDA,Yahoo RSS,negative,-0.9232416749000549
+2026-05-13 16:05:59,Ben Carlson Explains Why Automatic 401(k) Contributions Keep Markets Rising Despite High Valuations,NVDA,Yahoo RSS,positive,0.6517528891563416
+2026-05-13 15:52:19,"Top Midday Stories: Overall, Core PPI in April Hit Highest Levels Since December 2022; Alibaba Misses Fiscal Q4 Earnings, Revenue Estimates",NVDA,Yahoo RSS,positive,0.8777248859405518
+2026-05-13 14:01:29,Why Nvidia Earnings May Matter More To The S&P 500 Than Fed Minutes Right Now,META,Yahoo RSS,neutral,0.0
