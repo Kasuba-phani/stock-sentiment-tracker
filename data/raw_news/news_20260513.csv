@@ -41,3 +41,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-09 18:13:40,Great news for Microsoft stock investors,MSFT,Bing RSS,neutral,0.0
 2026-05-12 04:30:00,"Up 377%, Is Intel Proving Why It Was a Mistake for Nvidia to Replace Intel in the Dow Jones Industrial Average? - The Motley Fool",NVDA,Google RSS,neutral,0.0
 2026-05-13 06:18:34,"NVIDIA Stock Shares Rally 12% In A Week, Should You Buy The Stock Despite Its High Valuation? - Trefis",NVDA,Google RSS,neutral,0.0
+2026-05-13 09:49:22,Apple stock (US0378331005): Options skew signals bullish sentiment amid AI rally - AD HOC NEWS,AAPL,Google RSS,negative,-0.7565582990646362
+2026-05-13 01:29:00,S&P 500 and Nasdaq futures rise as Nvidia leads chip stocks higher: Live updates,NVDA,Bing RSS,neutral,0.0
+2026-05-13 10:04:12,Analysis-Sizzling semiconductor trade at risk of cooling - and stalling US stocks rally,NVDA,Yahoo RSS,negative,-0.9566680788993835
+2026-05-13 09:04:00,A Hot Jobs Report and 3.8% Inflation Just Backed Up Billionaire Ken Griffin's Warning -- Is Your Portfolio Ready?,NVDA,Yahoo RSS,positive,0.5900695323944092
+2026-05-13 10:30:44,"North American EV Demand Drops Sharply Despite Rising Global Sales, Iran War",TSLA,Yahoo RSS,negative,-0.9701489210128784
+2026-05-12 22:30:45,"Stock market today: S&P 500, Nasdaq futures rise with fresh PPI inflation data on deck",TSLA,Yahoo RSS,positive,0.8159075975418091
