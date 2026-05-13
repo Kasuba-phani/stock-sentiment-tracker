@@ -58,7 +58,27 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-13 15:21:00,"Dow Falls On Hot Inflation But Nvidia, These AI Winners Rally (Live) - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
 2026-05-12 15:48:00,"S&P500: Nvidia and AMD Slide as Inflation, Oil Shake US Stocks - FXEmpire",NVDA,Google RSS,negative,-0.9604846835136414
 2026-05-13 14:43:26,Nvidia shares may move 5.8% on May 20 earnings report - Investing.com,NVDA,Google RSS,neutral,0.0
-2026-05-13 16:16:18,US Equity Indexes Mixed as Hot Producer Prices Push Dow Jones Industrial Average Lower,NVDA,Yahoo RSS,negative,-0.9232416749000549
+2026-05-13 16:16:18,US Equity Indexes Mixed as Hot Producer Prices Push Dow Jones Industrial Average Lower,NVDA,Yahoo RSS,negative,-0.9232416749000548
 2026-05-13 16:05:59,Ben Carlson Explains Why Automatic 401(k) Contributions Keep Markets Rising Despite High Valuations,NVDA,Yahoo RSS,positive,0.6517528891563416
 2026-05-13 15:52:19,"Top Midday Stories: Overall, Core PPI in April Hit Highest Levels Since December 2022; Alibaba Misses Fiscal Q4 Earnings, Revenue Estimates",NVDA,Yahoo RSS,positive,0.8777248859405518
 2026-05-13 14:01:29,Why Nvidia Earnings May Matter More To The S&P 500 Than Fed Minutes Right Now,META,Yahoo RSS,neutral,0.0
+2026-05-13 18:22:34,Apple stock on track for record close as tech rebounds - AOL.com,AAPL,Google RSS,neutral,0.0
+2026-05-13 10:52:00,Apple stock on track for record close as tech rebounds,AAPL,Bing RSS,positive,0.7521739602088928
+2026-05-13 09:28:00,"Stock market today: Dow slides, S&P 500 and Nasdaq rise as PPI inflation data comes in hot",AAPL,Bing RSS,negative,-0.449317991733551
+2026-05-13 18:05:36,Is It Too Late To Consider Alphabet (GOOGL) After Its Strong AI Fueled Rally? - simplywall.st,GOOGL,Google RSS,neutral,0.0
+2026-05-13 18:06:27,The Best AI Infrastructure Stocks for Growth Investors to Buy in 2026 - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-05-13 18:43:00,Nasdaq Index: Tesla and Alphabet Lead Tech Stocks Higher Despite Inflation - FXEmpire,GOOGL,Google RSS,positive,0.9506959319114685
+2026-05-13 16:32:25,Alphabet stock (US02079K3059): Class A shares climb to $397 as analyst sentiment strengthens - AD HOC NEWS,GOOGL,Google RSS,positive,0.9213473796844482
+2026-05-13 18:23:00,The Best AI Infrastructure Stocks for Growth Investors to Buy in 2026,GOOGL,Yahoo RSS,neutral,0.0
+2026-05-13 18:32:31,SAP’s AI push at Sapphire fails to spark stock rebound,AMZN,Yahoo RSS,negative,-0.6827048063278198
+2026-05-13 18:23:00,The Best AI Infrastructure Stocks for Growth Investors to Buy in 2026,AMZN,Yahoo RSS,neutral,0.0
+2026-05-13 15:10:00,Is SoundHound Stock Still a Strong AI Play After the Q1 Selloff?,AMZN,Yahoo RSS,neutral,0.0
+2026-05-13 18:32:31,SAP’s AI push at Sapphire fails to spark stock rebound,MSFT,Yahoo RSS,negative,-0.6827048063278198
+2026-05-13 15:10:00,Is SoundHound Stock Still a Strong AI Play After the Q1 Selloff?,MSFT,Yahoo RSS,neutral,0.0
+2026-05-13 17:17:39,Nvidia stock hits an all-time high on new AI bullishness from Wall Street analysts - Business Insider,NVDA,Google RSS,positive,0.9140955209732056
+2026-05-13 10:20:00,Nvidia stock hits an all-time high on new AI bullishness from Wall Street analysts,NVDA,Bing RSS,positive,0.9205372929573059
+2026-05-13 18:32:31,SAP’s AI push at Sapphire fails to spark stock rebound,NVDA,Yahoo RSS,negative,-0.6827048063278198
+2026-05-13 18:16:25,Inflation Data Makes Rate Cuts Even More of a Fantasy,NVDA,Yahoo RSS,negative,-0.647395670413971
+2026-05-13 18:43:00,Nasdaq Index: Tesla and Alphabet Lead Tech Stocks Higher Despite Inflation - FXEmpire,TSLA,Google RSS,positive,0.9506959319114685
+2026-05-13 18:39:15,Why Cathie Wood And Robinhood Agree That Retail Investors Need Access To Private Markets,TSLA,Yahoo RSS,neutral,0.0
+2026-05-13 17:35:31,10 Consumer Discretionary Stocks With Whale Alerts In Today's Session,TSLA,Yahoo RSS,neutral,0.0
