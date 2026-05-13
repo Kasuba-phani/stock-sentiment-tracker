@@ -67,7 +67,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-13 09:28:00,"Stock market today: Dow slides, S&P 500 and Nasdaq rise as PPI inflation data comes in hot",AAPL,Bing RSS,negative,-0.449317991733551
 2026-05-13 18:05:36,Is It Too Late To Consider Alphabet (GOOGL) After Its Strong AI Fueled Rally? - simplywall.st,GOOGL,Google RSS,neutral,0.0
 2026-05-13 18:06:27,The Best AI Infrastructure Stocks for Growth Investors to Buy in 2026 - The Motley Fool,GOOGL,Google RSS,neutral,0.0
-2026-05-13 18:43:00,Nasdaq Index: Tesla and Alphabet Lead Tech Stocks Higher Despite Inflation - FXEmpire,GOOGL,Google RSS,positive,0.9506959319114685
+2026-05-13 18:43:00,Nasdaq Index: Tesla and Alphabet Lead Tech Stocks Higher Despite Inflation - FXEmpire,GOOGL,Google RSS,positive,0.9506959319114684
 2026-05-13 16:32:25,Alphabet stock (US02079K3059): Class A shares climb to $397 as analyst sentiment strengthens - AD HOC NEWS,GOOGL,Google RSS,positive,0.9213473796844482
 2026-05-13 18:23:00,The Best AI Infrastructure Stocks for Growth Investors to Buy in 2026,GOOGL,Yahoo RSS,neutral,0.0
 2026-05-13 18:32:31,SAP’s AI push at Sapphire fails to spark stock rebound,AMZN,Yahoo RSS,negative,-0.6827048063278198
@@ -76,9 +76,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-13 18:32:31,SAP’s AI push at Sapphire fails to spark stock rebound,MSFT,Yahoo RSS,negative,-0.6827048063278198
 2026-05-13 15:10:00,Is SoundHound Stock Still a Strong AI Play After the Q1 Selloff?,MSFT,Yahoo RSS,neutral,0.0
 2026-05-13 17:17:39,Nvidia stock hits an all-time high on new AI bullishness from Wall Street analysts - Business Insider,NVDA,Google RSS,positive,0.9140955209732056
-2026-05-13 10:20:00,Nvidia stock hits an all-time high on new AI bullishness from Wall Street analysts,NVDA,Bing RSS,positive,0.9205372929573059
+2026-05-13 10:20:00,Nvidia stock hits an all-time high on new AI bullishness from Wall Street analysts,NVDA,Bing RSS,positive,0.920537292957306
 2026-05-13 18:32:31,SAP’s AI push at Sapphire fails to spark stock rebound,NVDA,Yahoo RSS,negative,-0.6827048063278198
 2026-05-13 18:16:25,Inflation Data Makes Rate Cuts Even More of a Fantasy,NVDA,Yahoo RSS,negative,-0.647395670413971
-2026-05-13 18:43:00,Nasdaq Index: Tesla and Alphabet Lead Tech Stocks Higher Despite Inflation - FXEmpire,TSLA,Google RSS,positive,0.9506959319114685
+2026-05-13 18:43:00,Nasdaq Index: Tesla and Alphabet Lead Tech Stocks Higher Despite Inflation - FXEmpire,TSLA,Google RSS,positive,0.9506959319114684
 2026-05-13 18:39:15,Why Cathie Wood And Robinhood Agree That Retail Investors Need Access To Private Markets,TSLA,Yahoo RSS,neutral,0.0
 2026-05-13 17:35:31,10 Consumer Discretionary Stocks With Whale Alerts In Today's Session,TSLA,Yahoo RSS,neutral,0.0
+2026-05-13 13:12:00,Apple stock notches fresh record as tech rebounds,AAPL,Bing RSS,positive,0.889702320098877
+2026-05-13 20:01:10,What's fueling 6 consecutive quarters of earnings growth,GOOGL,Yahoo RSS,neutral,0.0
+2026-05-13 17:51:12,Apple stock notches fresh record as tech rebounds,GOOGL,Yahoo RSS,positive,0.889702320098877
+2026-05-13 18:06:27,The Best AI Infrastructure Stocks for Growth Investors to Buy in 2026 - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-05-13 20:01:10,What's fueling 6 consecutive quarters of earnings growth,AMZN,Yahoo RSS,neutral,0.0
+2026-05-13 17:51:12,Apple stock notches fresh record as tech rebounds,AMZN,Yahoo RSS,positive,0.889702320098877
+2026-05-13 20:10:37,US Equity Markets Mixed Amid Gains in Tech Stocks Despite Hot Producer Data,NVDA,Yahoo RSS,positive,0.828694760799408
+2026-05-13 20:16:59,Is Vistra (VST) Still a Good AI Stock to Buy? Grok Says Yes,META,Yahoo RSS,neutral,0.0
+2026-05-13 20:11:00,Cisco Earnings and Revenue Beat Estimates on Strong AI Demand,META,Yahoo RSS,positive,0.9428184032440186
