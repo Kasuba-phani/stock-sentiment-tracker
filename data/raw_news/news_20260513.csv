@@ -1,0 +1,30 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-05-12 04:07:29,S&P 500 Stocks Trading At 52-Week High - Trefis,AAPL,Google RSS,positive,0.538077712059021
+2026-05-11 00:00:00,My Top 3 Quantum Computing Stocks for May 2026 - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-05-10 21:00:00,2 Top Stocks Long-Term Investors Should Buy in May - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-05-12 22:25:00,3 Growth Stocks Long-Term Investors Should Buy in May,AMZN,Yahoo RSS,neutral,0.0
+2026-05-11 13:00:02,"Microsoft Stock Still Looks Undervalued Based on FCF Projections, Despite Higher Capex - Barchart.com",MSFT,Google RSS,positive,0.5466272234916687
+2026-05-12 14:56:14,Microsoft stock trades flat as Q3 2026 earnings beat analyst expectations - Traders Union,MSFT,Google RSS,negative,-0.9563884139060974
+2026-05-12 13:04:52,Microsoft's rebound gains steam with traders eyeing a potential bull flag pattern - MSN,MSFT,Google RSS,positive,0.4074634313583374
+2026-05-11 14:29:08,Microsoft stock price forecast: $400.00 support in focus as MSFT edges lower - Traders Union,MSFT,Google RSS,neutral,0.0
+2026-05-08 14:47:00,Why Microsoft Stock Soared 10.2% Higher Last Month and Has Kept Rallying in May - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-05-10 12:28:39,Microsoft Stock Week Ahead: MSFT Faces a Fresh AI Test After Big Investor Cut - TechStock²,MSFT,Google RSS,negative,-0.46159783005714417
+2026-05-12 13:30:45,Microsoft: Death Of SaaS Has Been Overly Exaggerated - Reiterate Strong Buy (NASDAQ:MSFT) - Seeking Alpha,MSFT,Google RSS,neutral,0.0
+2026-05-11 14:04:24,Microsoft stock price forecast: $400.00 support in focus as MSFT trades lower - Traders Union,MSFT,Google RSS,neutral,0.0
+2026-05-08 14:17:18,Why Microsoft Stock Soared 10.2% Higher Last Month and Has Kept Rallying in May - The Globe and Mail,MSFT,Google RSS,positive,0.8681483864784241
+2026-05-12 21:56:00,Microsoft AI Deal Puts Nasdaq Composite Index In Focus - Kalkine Media,MSFT,Google RSS,neutral,0.0
+2026-05-08 07:47:20,Why Microsoft stock soared 10.2% higher last month and has kept rallying in May,MSFT,Bing RSS,positive,0.9211897253990173
+2026-05-09 13:47:00,Goldman Sachs resets Nvidia stock forecast ahead of earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
+2026-05-12 16:12:52,Nvidia stock edges lower as US export restrictions on AI chip sales weigh on sentiment - Traders Union,NVDA,Google RSS,negative,-0.961239218711853
+2026-05-11 20:06:00,Nvidia Tops Buy Point. 5 Dow Stocks Near Entries Share This Flaw. - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
+2026-05-12 14:29:50,Analysts Still See Massive Upside for Nvidia Stock (NVDA) - TipRanks,NVDA,Google RSS,negative,-0.9055578708648682
+2026-05-12 22:30:00,Preview - Citi tips Nvidia Q1 revenue beat ahead of May 20 earnings report - investingLive,NVDA,Google RSS,neutral,0.0
+2026-05-12 22:57:04,"Nvidia fuels AI-driven rally in US stocks, risks volatility spike post-options expiration - Crypto Briefing",NVDA,Google RSS,neutral,0.0
+2026-05-12 01:46:00,Nvidia (NVDA) Stock Surges to New All-Time High Ahead of May 20 Earnings Report,NVDA,Bing RSS,positive,0.9223924875259399
+2026-05-11 02:06:00,Palantir just showed why Nvidia stock can plunge on May 21,NVDA,Bing RSS,negative,-0.767916202545166
+2026-05-12 15:32:19,Tesla stock holds steady above key moving averages as MA-20 offers nearby support: weekly outlook - Traders Union,TSLA,Google RSS,positive,0.6039408445358276
+2026-05-11 19:07:29,Meta stock edges lower with Q1 results due. Here are 2 earnings numbers to watch - MSN,META,Google RSS,negative,-0.8882192373275757
+2026-05-12 15:40:44,"Oracle Could See Fiscal Q4 Upside From Restructuring, Strong Tech Infrastructure Spending, Oppenheimer Says",META,Yahoo RSS,positive,0.9474775195121765
+2026-05-12 14:57:17,Just 3 Companies Drive 70% of the S&P 500’s 2026 Growth Expectations,META,Yahoo RSS,neutral,0.0
+2026-05-11 19:56:30,Sector Update: Consumer Stocks Decline Late Afternoon,NFLX,Yahoo RSS,negative,-0.9715571403503418
+2026-05-11 13:00:02,"Microsoft Stock Still Looks Undervalued Based on FCF Projections, Despite Higher Capex",MSFT,Yahoo Global,positive,0.6268027424812317
