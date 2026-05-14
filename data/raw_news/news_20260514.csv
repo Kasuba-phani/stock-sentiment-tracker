@@ -79,7 +79,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-14 14:45:24,Alphabet stock price forecast: $388.00 support in focus as GOOGL sheds 1.53% - Traders Union,GOOGL,Google RSS,negative,-0.8128474354743958
 2026-05-14 14:16:00,Are retail investors leaning away from software amid tech rally?,GOOGL,Yahoo RSS,negative,-0.5457083582878113
 2026-05-14 14:05:15,Microsoft stock price forecast: $390.00 support as MSFT trades flat - Traders Union,MSFT,Google RSS,neutral,0.0
-2026-05-14 15:10:30,Microsoft stock ticks up amid continued trading below long- and short-term averages - Traders Union,MSFT,Google RSS,positive,0.9190012216567993
+2026-05-14 15:10:30,Microsoft stock ticks up amid continued trading below long- and short-term averages - Traders Union,MSFT,Google RSS,positive,0.9190012216567992
 2026-05-14 14:16:00,Are retail investors leaning away from software amid tech rally?,MSFT,Yahoo RSS,negative,-0.5457083582878113
 2026-05-14 15:04:00,"Dow Rises On Cisco, Nvidia, Boeing Amid Trump-Xi Summit - Investor's Business Daily",NVDA,Google RSS,positive,0.524287760257721
 2026-05-14 10:51:15,"UBS hikes Nvidia price target, sees strong earnings report ahead - CNBC",NVDA,Google RSS,positive,0.8295748829841614
@@ -92,3 +92,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-12 15:32:19,Tesla stock holds steady above key moving averages as MA-20 offers nearby support: weekly outlook - Traders Union,TSLA,Google RSS,positive,0.6039408445358276
 2026-05-14 14:16:00,Are retail investors leaning away from software amid tech rally?,TSLA,Yahoo RSS,negative,-0.5457083582878113
 2026-05-13 19:12:00,Nvidia to report Q1 earnings as chip stocks soar on AI strength,NVDA,Yahoo Global,negative,-0.5089023113250732
+2026-05-14 13:54:57,"‘Start Small,’ Says Top Investor About Alphabet Stock - TipRanks",GOOGL,Google RSS,neutral,0.0
+2026-05-14 10:49:00,Microsoft posts worst quarterly drop since 2008 amid AI doubts,MSFT,Bing RSS,negative,-0.9637224078178406
+2026-05-14 15:45:36,"Retail investors make a surprising move on Palantir, Microsoft, and other software stocks",MSFT,Yahoo RSS,positive,0.5330315232276917
+2026-05-14 15:21:03,UBS raises Nvidia stock price target to $275 on strong demand outlook - Investing.com,NVDA,Google RSS,positive,0.8354119658470154
+2026-05-14 15:51:00,Panasonic Raises EV Battery Outlook Based On Tesla's Sales Bounce - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
+2026-05-14 17:24:55,Q1 Earnings Highs And Lows: Tesla (NASDAQ:TSLA) Vs The Rest Of The Automobile Manufacturing Stocks,TSLA,Yahoo RSS,negative,-0.9501641988754272
+2026-05-14 15:51:40,Panasonic Raises EV Battery Outlook Based On Tesla's Sales Bounce,TSLA,Yahoo RSS,neutral,0.0
+2026-05-14 15:45:36,"Retail investors make a surprising move on Palantir, Microsoft, and other software stocks",TSLA,Yahoo RSS,positive,0.5330315232276917
