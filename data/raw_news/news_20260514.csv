@@ -71,4 +71,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-14 08:40:48,Rockingstone Advisors LLC Has $6.15 Million Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,neutral,0.0
 2026-05-14 09:43:53,"Trump-Xi Summit and Cisco’s AI Restructuring Drive Market Focus: Dow Jones, S&P, Nasdaq, Wall Street Futures",NVDA,Yahoo RSS,neutral,0.0
 2026-05-07 16:01:00,Tesla’s stock rises as investors get a fresh sign that high gas prices are driving EV sales - MarketWatch,TSLA,Google RSS,positive,0.8979280591011047
-2026-05-14 02:11:15,Meta's stock shows bullish call option activity and undervalued volatility after Q1 earnings. - Pluang,META,Google RSS,negative,-0.46834972500801086
+2026-05-14 02:11:15,Meta's stock shows bullish call option activity and undervalued volatility after Q1 earnings. - Pluang,META,Google RSS,negative,-0.4683497250080108
+2026-05-14 11:09:23,Apple Stock Hits Record Peak as iPhone Demand Stays Strong - TradingView,AAPL,Google RSS,positive,0.9029651880264282
+2026-05-14 11:09:23,Apple Stock Hits Record Peak as iPhone Demand Stays Strong,AAPL,Yahoo RSS,positive,0.9143123030662537
+2026-05-14 11:59:00,Vanguard International High Dividend Yield ETF vs. iShares Core High Dividend ETF: Which Is the Better Buy in May?,NVDA,Yahoo RSS,neutral,0.0
