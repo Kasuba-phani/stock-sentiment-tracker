@@ -2,7 +2,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-13 18:22:34,Apple stock on track for record close as tech rebounds - AOL.com,AAPL,Google RSS,neutral,0.0
 2026-05-13 13:12:00,Apple stock notches fresh record as tech rebounds,AAPL,Bing RSS,positive,0.889702320098877
 2026-05-13 23:00:00,"Trump–Xi meeting, rarnings and Retail Sales in focus Thursday",AAPL,Yahoo RSS,neutral,0.0
-2026-05-13 22:32:30,"Stock market today: Dow, S&P 500, Nasdaq futures edge up ahead of Trump-Xi summit",AAPL,Yahoo RSS,positive,0.9224255681037903
+2026-05-13 22:32:30,"Stock market today: Dow, S&P 500, Nasdaq futures edge up ahead of Trump-Xi summit",AAPL,Yahoo RSS,positive,0.9224255681037904
 2026-05-13 21:42:28,"Nasdaq, S&P 500 Hit Fresh Highs as Tech Stocks Rise",AAPL,Yahoo RSS,positive,0.7743433713912964
 2026-05-13 20:38:41,Big Growth. 'Undemanding' Prices. Are Big Tech Stocks Value Plays These Days?,AAPL,Yahoo RSS,neutral,0.0
 2026-05-13 18:05:36,Is It Too Late To Consider Alphabet (GOOGL) After Its Strong AI Fueled Rally? - simplywall.st,GOOGL,Google RSS,neutral,0.0
@@ -25,14 +25,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-13 17:07:03,"‘Don’t Miss It,’ Says Top Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
 2026-05-11 14:29:08,Microsoft stock price forecast: $400.00 support in focus as MSFT edges lower - Traders Union,MSFT,Google RSS,neutral,0.0
 2026-05-11 13:00:02,"Microsoft Stock Still Looks Undervalued Based on FCF Projections, Despite Higher Capex - Barchart.com",MSFT,Google RSS,positive,0.5466272234916687
-2026-05-10 12:28:39,Microsoft Stock Week Ahead: MSFT Faces a Fresh AI Test After Big Investor Cut - TechStock²,MSFT,Google RSS,negative,-0.46159783005714417
+2026-05-10 12:28:39,Microsoft Stock Week Ahead: MSFT Faces a Fresh AI Test After Big Investor Cut - TechStock²,MSFT,Google RSS,negative,-0.4615978300571441
 2026-05-08 14:47:00,Why Microsoft Stock Soared 10.2% Higher Last Month and Has Kept Rallying in May - The Motley Fool,MSFT,Google RSS,neutral,0.0
 2026-05-12 14:56:14,Microsoft stock trades flat as Q3 2026 earnings beat analyst expectations - Traders Union,MSFT,Google RSS,negative,-0.9563884139060974
 2026-05-12 12:48:28,Microsoft's rebound gains steam with traders eyeing a potential bull flag pattern - Seeking Alpha,MSFT,Google RSS,positive,0.8620755672454834
 2026-05-11 14:04:24,Microsoft stock price forecast: $400.00 support in focus as MSFT trades lower - Traders Union,MSFT,Google RSS,neutral,0.0
 2026-05-12 13:21:33,Microsoft's rebound gains steam with traders eyeing a potential bull flag pattern - MSN,MSFT,Google RSS,positive,0.4074634313583374
 2026-05-09 18:13:40,Great news for Microsoft stock investors,MSFT,Bing RSS,neutral,0.0
-2026-05-08 08:28:00,Why Microsoft Stock Soared 10.2% Higher Last Month and Has Kept Rallying in May,MSFT,Bing RSS,positive,0.9211897253990173
+2026-05-08 08:28:00,Why Microsoft Stock Soared 10.2% Higher Last Month and Has Kept Rallying in May,MSFT,Bing RSS,positive,0.9211897253990172
 2026-05-13 20:38:41,Big Growth. 'Undemanding' Prices. Are Big Tech Stocks Value Plays These Days?,MSFT,Yahoo RSS,neutral,0.0
 2026-05-13 20:34:00,"Dow Falls On Hot Inflation But Nvidia, These AI Winners Rally (Live) - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
 2026-05-12 04:30:00,"Up 377%, Is Intel Proving Why It Was a Mistake for Nvidia to Replace Intel in the Dow Jones Industrial Average? - The Motley Fool",NVDA,Google RSS,neutral,0.0
@@ -41,17 +41,23 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-13 19:48:25,Preview - Citi tips Nvidia Q1 revenue beat ahead of May 20 earnings report - investingLive,NVDA,Google RSS,neutral,0.0
 2026-05-13 13:39:14,Nvidia stock hits an all-time high on new AI bullishness from Wall Street analysts,NVDA,Bing RSS,positive,0.9205371141433716
 2026-05-13 23:29:00,My Top 3 AI Infrastructure Stocks to Buy for May 2026,NVDA,Yahoo RSS,neutral,0.0
-2026-05-13 22:32:30,"Stock market today: Dow, S&P 500, Nasdaq futures edge up ahead of Trump-Xi summit",NVDA,Yahoo RSS,positive,0.9224255681037903
+2026-05-13 22:32:30,"Stock market today: Dow, S&P 500, Nasdaq futures edge up ahead of Trump-Xi summit",NVDA,Yahoo RSS,positive,0.9224255681037904
 2026-05-13 21:42:28,"Nasdaq, S&P 500 Hit Fresh Highs as Tech Stocks Rise",NVDA,Yahoo RSS,positive,0.7743433713912964
 2026-05-13 21:24:57,"Dow Jones futures rise, Cisco soars on earnings; Google, Nvidia, Tesla lead S&P 500, Nasdaq to highs - MSN",TSLA,Google RSS,positive,0.8307892084121704
 2026-05-13 01:26:28,Tesla stock downgraded from Strong Buy Candidate to Hold/Accumulate after Tuesday trading session - StockInvest.us,TSLA,Google RSS,negative,-0.7165365219116211
 2026-05-13 18:43:00,Nasdaq Index: Tesla and Alphabet Lead Tech Stocks Higher Despite Inflation - FXEmpire,TSLA,Google RSS,positive,0.950695812702179
 2026-05-13 16:51:00,"Dow Jones futures rise, Cisco soars on AI orders after Google, Nvidia, Tesla lead S&P 500, Nasdaq to highs",TSLA,Bing RSS,positive,0.3887665867805481
 2026-05-13 23:00:00,"Trump–Xi meeting, rarnings and Retail Sales in focus Thursday",TSLA,Yahoo RSS,neutral,0.0
-2026-05-13 22:32:30,"Stock market today: Dow, S&P 500, Nasdaq futures edge up ahead of Trump-Xi summit",TSLA,Yahoo RSS,positive,0.9224255681037903
+2026-05-13 22:32:30,"Stock market today: Dow, S&P 500, Nasdaq futures edge up ahead of Trump-Xi summit",TSLA,Yahoo RSS,positive,0.9224255681037904
 2026-05-13 21:42:28,"Nasdaq, S&P 500 Hit Fresh Highs as Tech Stocks Rise",TSLA,Yahoo RSS,positive,0.7743433713912964
 2026-05-13 20:38:41,Big Growth. 'Undemanding' Prices. Are Big Tech Stocks Value Plays These Days?,TSLA,Yahoo RSS,neutral,0.0
 2026-05-13 18:39:15,Why Cathie Wood And Robinhood Agree That Retail Investors Need Access To Private Markets,TSLA,Yahoo RSS,neutral,0.0
 2026-05-13 20:38:41,Big Growth. 'Undemanding' Prices. Are Big Tech Stocks Value Plays These Days?,META,Yahoo RSS,neutral,0.0
 2026-05-13 20:16:59,Is Vistra (VST) Still a Good AI Stock to Buy? Grok Says Yes,META,Yahoo RSS,neutral,0.0
 2026-05-11 19:56:30,Sector Update: Consumer Stocks Decline Late Afternoon,NFLX,Yahoo RSS,negative,-0.9715571403503418
+2026-05-14 00:55:06,Stronger technical forecast for Apple stock price after Wednesday trading - StockInvest.us,AAPL,Google RSS,positive,0.7186022400856018
+2026-05-14 01:30:00,Alphabet Stock Price Nears $390 After Strong AI Growth - Analytics Insight,GOOGL,Google RSS,positive,0.912188708782196
+2026-05-13 20:37:00,Alphabet Stock Price Nears $390 After Strong AI Growth,GOOGL,Bing RSS,positive,0.8475599884986877
+2026-05-14 00:55:06,Stronger technical forecast for NVIDIA stock price after Wednesday trading - StockInvest.us,NVDA,Google RSS,positive,0.8378684520721436
+2026-05-09 13:47:00,Goldman Sachs resets Nvidia stock forecast ahead of earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
+2026-05-13 20:22:38,"S&P500, Nasdaq Gain Over Tech Stock Optimism As Nvidia Hits Record Highs, Dow Slips — FRVO, F, SLS, CSCO In Focus - Stocktwits",NVDA,Google RSS,negative,-0.5748957991600037
