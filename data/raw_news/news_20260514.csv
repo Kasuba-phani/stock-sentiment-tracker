@@ -61,3 +61,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-14 00:55:06,Stronger technical forecast for NVIDIA stock price after Wednesday trading - StockInvest.us,NVDA,Google RSS,positive,0.8378684520721436
 2026-05-09 13:47:00,Goldman Sachs resets Nvidia stock forecast ahead of earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
 2026-05-13 20:22:38,"S&P500, Nasdaq Gain Over Tech Stock Optimism As Nvidia Hits Record Highs, Dow Slips — FRVO, F, SLS, CSCO In Focus - Stocktwits",NVDA,Google RSS,negative,-0.5748957991600037
+2026-05-14 06:26:23,Taiwan's Foxconn reports forecast-beating 19% jump in Q1 profit on AI demand,AAPL,Yahoo RSS,positive,0.9420580863952637
+2026-05-13 22:32:30,"Stock market today: Dow, S&P 500, Nasdaq futures climb as high-stakes Trump-Xi summit kicks off",AAPL,Yahoo RSS,positive,0.8729363083839417
+2026-05-14 00:09:00,My Top 3 AI Infrastructure Stocks to Buy for May 2026 - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-05-14 06:26:23,Taiwan's Foxconn reports forecast-beating 19% jump in Q1 profit on AI demand,NVDA,Yahoo RSS,positive,0.9420580863952637
+2026-05-14 05:20:00,My Top 2 AI Stocks Flying Under the Radar for May 2026,NVDA,Yahoo RSS,neutral,0.0
+2026-05-13 22:32:30,"Stock market today: Dow, S&P 500, Nasdaq futures climb as high-stakes Trump-Xi summit kicks off",TSLA,Yahoo RSS,positive,0.8729363083839417
