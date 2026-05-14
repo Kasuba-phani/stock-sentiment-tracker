@@ -100,3 +100,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-14 17:24:55,Q1 Earnings Highs And Lows: Tesla (NASDAQ:TSLA) Vs The Rest Of The Automobile Manufacturing Stocks,TSLA,Yahoo RSS,negative,-0.9501641988754272
 2026-05-14 15:51:40,Panasonic Raises EV Battery Outlook Based On Tesla's Sales Bounce,TSLA,Yahoo RSS,neutral,0.0
 2026-05-14 15:45:36,"Retail investors make a surprising move on Palantir, Microsoft, and other software stocks",TSLA,Yahoo RSS,positive,0.5330315232276917
+2026-05-14 19:49:51,US Equity Indexes March Higher as Technology Tops Sector Charts,NVDA,Yahoo RSS,positive,0.9348395466804504
+2026-05-14 18:17:30,Tesla stock trades flat after rising U.S. Treasury yields cap gains - Traders Union,TSLA,Google RSS,negative,-0.9233168959617615
