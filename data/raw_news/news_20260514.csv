@@ -73,5 +73,22 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-07 16:01:00,Tesla’s stock rises as investors get a fresh sign that high gas prices are driving EV sales - MarketWatch,TSLA,Google RSS,positive,0.8979280591011047
 2026-05-14 02:11:15,Meta's stock shows bullish call option activity and undervalued volatility after Q1 earnings. - Pluang,META,Google RSS,negative,-0.4683497250080108
 2026-05-14 11:09:23,Apple Stock Hits Record Peak as iPhone Demand Stays Strong - TradingView,AAPL,Google RSS,positive,0.9029651880264282
-2026-05-14 11:09:23,Apple Stock Hits Record Peak as iPhone Demand Stays Strong,AAPL,Yahoo RSS,positive,0.9143123030662537
+2026-05-14 11:09:23,Apple Stock Hits Record Peak as iPhone Demand Stays Strong,AAPL,Yahoo RSS,positive,0.9143123030662536
 2026-05-14 11:59:00,Vanguard International High Dividend Yield ETF vs. iShares Core High Dividend ETF: Which Is the Better Buy in May?,NVDA,Yahoo RSS,neutral,0.0
+2026-05-13 18:34:39,Apple stock on track for record close as tech rebounds - MSN,AAPL,Google RSS,positive,0.7252614498138428
+2026-05-14 14:45:24,Alphabet stock price forecast: $388.00 support in focus as GOOGL sheds 1.53% - Traders Union,GOOGL,Google RSS,negative,-0.8128474354743958
+2026-05-14 14:16:00,Are retail investors leaning away from software amid tech rally?,GOOGL,Yahoo RSS,negative,-0.5457083582878113
+2026-05-14 14:05:15,Microsoft stock price forecast: $390.00 support as MSFT trades flat - Traders Union,MSFT,Google RSS,neutral,0.0
+2026-05-14 15:10:30,Microsoft stock ticks up amid continued trading below long- and short-term averages - Traders Union,MSFT,Google RSS,positive,0.9190012216567993
+2026-05-14 14:16:00,Are retail investors leaning away from software amid tech rally?,MSFT,Yahoo RSS,negative,-0.5457083582878113
+2026-05-14 15:04:00,"Dow Rises On Cisco, Nvidia, Boeing Amid Trump-Xi Summit - Investor's Business Daily",NVDA,Google RSS,positive,0.524287760257721
+2026-05-14 10:51:15,"UBS hikes Nvidia price target, sees strong earnings report ahead - CNBC",NVDA,Google RSS,positive,0.8295748829841614
+2026-05-14 14:24:16,Cantor Fitzgerald raises Nvidia stock price target on earnings outlook - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-05-14 13:36:11,"The three major U.S. stock indexes opened higher, with NVIDIA and Cisco both hitting new highs. - 富途牛牛",NVDA,Google RSS,positive,0.8650886416435242
+2026-05-14 01:51:00,"UBS hikes Nvidia price target, sees strong earnings report ahead",NVDA,Bing RSS,positive,0.9288508296012878
+2026-05-14 06:41:00,"Stock market today: Dow, S&P 500, Nasdaq rise as Nvidia jumps, Trump-Xi summit kicks off",NVDA,Bing RSS,positive,0.5426320433616638
+2026-05-09 13:47:00,Goldman Sachs resets Nvidia stock forecast ahead of earnings,NVDA,Bing RSS,neutral,0.0
+2026-05-14 14:55:18,Is the Federal Reserve Quietly Fueling a Bubble? U.S. Money Supply Just Hit $22.7 Trillion,NVDA,Yahoo RSS,neutral,0.0
+2026-05-12 15:32:19,Tesla stock holds steady above key moving averages as MA-20 offers nearby support: weekly outlook - Traders Union,TSLA,Google RSS,positive,0.6039408445358276
+2026-05-14 14:16:00,Are retail investors leaning away from software amid tech rally?,TSLA,Yahoo RSS,negative,-0.5457083582878113
+2026-05-13 19:12:00,Nvidia to report Q1 earnings as chip stocks soar on AI strength,NVDA,Yahoo Global,negative,-0.5089023113250732
