@@ -87,3 +87,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-15 20:51:55,"Dow Jones Futures: S&P 500, Nasdaq Hold Near Highs; Nvidia, Walmart Earnings Loom",NVDA,Yahoo RSS,positive,0.5851449966430664
 2026-05-15 20:32:10,"Stock Market Today: Dow Loses 500 Points As Yields, Oil Rally; Nvidia Falls (Live Coverage)",NVDA,Yahoo RSS,negative,-0.9560715556144714
 2026-05-15 20:19:39,"US Equity Markets End Lower as Rising Oil, Bond Yields Stoke Inflation Concerns",NVDA,Yahoo RSS,negative,-0.93549644947052
+2026-05-15 20:32:00,"Stock Market Today: Dow Loses 500 Points As Yields, Oil Rally; Nvidia Falls (Live Coverage) - Investor's Business Daily",NVDA,Google RSS,negative,-0.8993035554885864
+2026-05-15 21:39:22,"Nvidia, retailer reports to shed light on AI boom, consumer spending By Reuters - Investing.com",NVDA,Google RSS,neutral,0.0
+2026-05-14 15:45:36,"Retail investors make a surprising move on Palantir, Microsoft, and other software stocks",MSFT,Yahoo Global,positive,0.5330315232276917
