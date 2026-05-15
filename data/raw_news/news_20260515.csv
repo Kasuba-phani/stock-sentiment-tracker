@@ -83,3 +83,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-15 19:25:00,Mortgage Applications Are Up 21% Year Over Year Despite Rising Interest Rates. These Homebuilder Stocks Could Benefit.,NVDA,Yahoo RSS,positive,0.955643355846405
 2026-05-15 19:23:51,"Stock Market Today: Dow, Nasdaq Sink As Yields, Oil Prices Jump; Memory Names Come Into Focus (Live Coverage)",NVDA,Yahoo RSS,negative,-0.5828166604042053
 2026-05-15 18:17:51,S&P 500 and Nasdaq Retreat as Treasury Yields Hit Multi-Month Highs,NVDA,Yahoo RSS,negative,-0.9246065020561218
+2026-05-15 20:47:00,"Dow Jones Futures: S&P 500, Nasdaq Hold Near Highs; Nvidia, Walmart Earnings Loom - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-05-15 20:51:55,"Dow Jones Futures: S&P 500, Nasdaq Hold Near Highs; Nvidia, Walmart Earnings Loom",NVDA,Yahoo RSS,positive,0.5851449966430664
+2026-05-15 20:32:10,"Stock Market Today: Dow Loses 500 Points As Yields, Oil Rally; Nvidia Falls (Live Coverage)",NVDA,Yahoo RSS,negative,-0.9560715556144714
+2026-05-15 20:19:39,"US Equity Markets End Lower as Rising Oil, Bond Yields Stoke Inflation Concerns",NVDA,Yahoo RSS,negative,-0.93549644947052
