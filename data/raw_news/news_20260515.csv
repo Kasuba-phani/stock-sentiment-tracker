@@ -50,3 +50,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-13 17:51:12,Apple stock notches fresh record as tech rebounds,AAPL,Yahoo Global,positive,0.889702320098877
 2026-05-15 09:53:36,Alphabet Inc. (Class A) stock (US02079K3059): AI spending and latest earnings keep investors alert - AD HOC NEWS,GOOGL,Google RSS,positive,0.6661080718040466
 2026-05-15 09:10:46,"Global chip stocks dragged lower by KOSPI selloff, stalled US-Iran talks",NVDA,Yahoo RSS,negative,-0.9585853219032288
+2026-05-15 10:19:07,Analysts Offer Insights on Consumer Cyclical Companies: WeRide (WRD) and Amazon (AMZN) - The Globe and Mail,AMZN,Google RSS,neutral,0.0
+2026-05-15 11:00:00,Nutriband Inc to Showcase Expanding AI Wellness Product Portfolio and New June Product Launches at ECRM Conference,AMZN,Yahoo RSS,positive,0.8441422581672668
+2026-05-15 12:21:00,"Futures Fall As Oil Jumps, Yields Top Key Level; Trump-Xi Ends - Investor's Business Daily",NVDA,Google RSS,negative,-0.8308312296867371
+2026-05-15 10:41:00,"Dow Jones Futures Fall As Yields Top 4.5%, Oil Prices Jump On Trump; Xi Summit Ends - Investor's Business Daily",NVDA,Google RSS,negative,-0.8429572582244873
+2026-05-15 12:49:05,"Stock Market Today: Dow Falls As Oil Prices, Yields Jump; Applied Materials, Nvidia, Cerebras Slide (Live Coverage)",NVDA,Yahoo RSS,negative,-0.8664969205856323
+2026-05-15 12:18:17,"Dow Jones Futures Fall As Yields Top 4.5%, Oil Prices Jump On Trump; Xi Summit Ends",NVDA,Yahoo RSS,negative,-0.8741201162338257
+2026-05-15 12:00:00,Nasdaq set for cautious open after record-breaking Thursday as inflation and geopolitics weigh,NVDA,Yahoo RSS,negative,-0.5947769284248352
+2026-05-15 12:26:00,UBS warns AI stocks are overheating as growth expectations collide with history,TSLA,Yahoo RSS,negative,-0.9627594947814941
