@@ -45,6 +45,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-14 00:55:06,Stronger technical forecast for Apple stock price after Wednesday trading - StockInvest.us,AAPL,Google RSS,positive,0.7186022400856018
 2026-05-15 01:57:29,"CSCO, NVDA, AMZN, CAT, AAPL, UNH: The 6 Stocks Behind Dow's 50,000 Return - Stocktwits",AMZN,Google RSS,neutral,0.0
 2026-05-14 15:21:03,UBS raises Nvidia stock price target to $275 on strong demand outlook - Investing.com,NVDA,Google RSS,positive,0.8354119658470154
-2026-05-15 05:13:16,Tesla stock (US88160R1014): earnings slide and price cuts keep investors on edge - AD HOC NEWS,TSLA,Google RSS,negative,-0.9556364417076111
+2026-05-15 05:13:16,Tesla stock (US88160R1014): earnings slide and price cuts keep investors on edge - AD HOC NEWS,TSLA,Google RSS,negative,-0.9556364417076112
 2026-05-15 04:17:06,Meta Platforms Inc. stock (US30303M1027): record Q1 2026 earnings meet workforce cuts - AD HOC NEWS,META,Google RSS,negative,-0.8480376601219177
 2026-05-13 17:51:12,Apple stock notches fresh record as tech rebounds,AAPL,Yahoo Global,positive,0.889702320098877
+2026-05-15 09:53:36,Alphabet Inc. (Class A) stock (US02079K3059): AI spending and latest earnings keep investors alert - AD HOC NEWS,GOOGL,Google RSS,positive,0.6661080718040466
+2026-05-15 09:10:46,"Global chip stocks dragged lower by KOSPI selloff, stalled US-Iran talks",NVDA,Yahoo RSS,negative,-0.9585853219032288
