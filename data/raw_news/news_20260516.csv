@@ -6,7 +6,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-15 18:35:37,"Equities Fall, Yields Surge Intraday Amid Inflation Concerns; Oil Jumps",GOOGL,Yahoo RSS,negative,-0.8796101212501526
 2026-05-15 14:46:13,"Why is US stock market falling today? Dow Jones, S&P 500 and Nasdaq crash after Trump concludes China visi - The Economic Times",AMZN,Google RSS,negative,-0.5612699389457703
 2026-05-14 23:35:00,3 Top Stocks That Growth Investors Should Buy Now - The Motley Fool,AMZN,Google RSS,neutral,0.0
-2026-05-14 15:10:30,Microsoft stock ticks up amid continued trading below long- and short-term averages - Traders Union,MSFT,Google RSS,positive,0.9190012216567993
+2026-05-14 15:10:30,Microsoft stock ticks up amid continued trading below long- and short-term averages - Traders Union,MSFT,Google RSS,positive,0.9190012216567992
 2026-05-14 14:05:15,Microsoft stock price forecast: $390.00 support as MSFT trades flat - Traders Union,MSFT,Google RSS,neutral,0.0
 2026-05-15 15:24:13,Microsoft Retail Traders Build Bullish Positions After Ackman Takes Stake: Options Chatter - Moomoo,MSFT,Google RSS,neutral,0.0
 2026-05-13 17:07:03,"‘Don’t Miss It,’ Says Top Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
@@ -22,11 +22,19 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-13 10:20:00,Nvidia stock hits an all-time high on new AI bullishness from Wall Street analysts,NVDA,Bing RSS,positive,0.9205371141433716
 2026-05-15 13:06:00,"Stock market today: Dow, S&P 500, Nasdaq sink as bond yields jump to cap volatile week ahead of Nvidia earnings",NVDA,Bing RSS,negative,-0.8302368521690369
 2026-05-15 20:51:55,"Dow Jones Futures: S&P 500, Nasdaq Hold Near Highs; Nvidia, Walmart Earnings Loom",NVDA,Yahoo RSS,positive,0.5851449966430664
-2026-05-14 18:17:30,Tesla stock trades flat after rising U.S. Treasury yields cap gains - Traders Union,TSLA,Google RSS,negative,-0.9233168959617615
+2026-05-14 18:17:30,Tesla stock trades flat after rising U.S. Treasury yields cap gains - Traders Union,TSLA,Google RSS,negative,-0.9233168959617616
 2026-05-14 15:51:00,Panasonic Raises EV Battery Outlook Based On Tesla's Sales Bounce - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
-2026-05-15 05:13:16,Tesla stock (US88160R1014): earnings slide and price cuts keep investors on edge - AD HOC NEWS,TSLA,Google RSS,negative,-0.9556364417076111
+2026-05-15 05:13:16,Tesla stock (US88160R1014): earnings slide and price cuts keep investors on edge - AD HOC NEWS,TSLA,Google RSS,negative,-0.9556364417076112
 2026-05-13 01:26:28,Tesla stock downgraded from Strong Buy Candidate to Hold/Accumulate after Tuesday trading session - StockInvest.us,TSLA,Google RSS,negative,-0.7165365219116211
 2026-05-15 13:14:14,"Exchange-Traded Funds, Equity Futures Lower Pre-Bell Friday Amid Oil Surge, Higher Yields, Geopolitical Uncertainty",TSLA,Yahoo RSS,negative,-0.8922029137611389
-2026-05-15 12:26:00,UBS warns AI stocks are overheating as growth expectations collide with history,TSLA,Yahoo RSS,negative,-0.9627594947814941
+2026-05-15 12:26:00,UBS warns AI stocks are overheating as growth expectations collide with history,TSLA,Yahoo RSS,negative,-0.962759494781494
 2026-05-14 23:35:00,3 Top Stocks That Growth Investors Should Buy Now - The Motley Fool,META,Google RSS,neutral,0.0
 2026-05-15 18:45:11,"Stocks making the biggest moves midday: Cerebras, Microsoft, ServiceNow, Papa John's & more",MSFT,CNBC Finance,neutral,0.0
+2026-05-16 00:45:59,Stronger technical forecast for Apple stock price after Friday trading - StockInvest.us,AAPL,Google RSS,positive,0.715233564376831
+2026-05-14 00:55:06,Stronger technical forecast for Apple stock price after Wednesday trading - StockInvest.us,AAPL,Google RSS,positive,0.7186022400856018
+2026-05-13 19:03:00,The Best AI Infrastructure Stocks for Growth Investors to Buy in 2026 - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-05-15 15:51:20,"Stocks making the biggest moves midday: Cerebras, Microsoft, ServiceNow, Papa John's & more - CNBC",MSFT,Google RSS,neutral,0.0
+2026-05-15 20:34:02,Stocks Settle Sharply Lower as Bond Yields Jump on Inflation Fears,MSFT,Yahoo RSS,negative,-0.9392349720001221
+2026-05-16 02:57:00,"Dow Jones Futures: S&P 500, Nasdaq Hold Near Highs; Nvidia, Walmart Earnings Loom - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-05-14 23:35:00,3 Top Stocks That Growth Investors Should Buy Now - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-05-14 02:11:15,Meta's stock shows bullish call option activity and undervalued volatility after Q1 earnings. - Pluang,META,Google RSS,negative,-0.46834972500801086
