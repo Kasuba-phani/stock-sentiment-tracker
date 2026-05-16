@@ -48,3 +48,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-16 11:48:44,Assessing Whether Tesla (TSLA) Still Looks Undervalued After Recent Share Price Pullback - simplywall.st,TSLA,Google RSS,neutral,0.0
 2026-05-16 13:20:42,"Meta Platforms, Inc. stock (US30303M1027): Analyst downgrade tests confidence after strong earnings - AD HOC NEWS",META,Google RSS,negative,-0.9688569903373718
 2026-05-15 04:25:55,Microsoft stock slides after earnings: What overshadowed strong cloud growth - MSN,MSFT,Google RSS,negative,-0.841106116771698
+2026-05-16 19:35:00,$800B in AI spending is juicing GDP and stocks — while real wages fall and Americans cut back on goods,GOOGL,Yahoo RSS,negative,-0.9699243307113647
+2026-05-16 19:35:00,$800B in AI spending is juicing GDP and stocks — while real wages fall and Americans cut back on goods,AMZN,Yahoo RSS,negative,-0.9699243307113647
+2026-05-16 19:35:00,$800B in AI spending is juicing GDP and stocks — while real wages fall and Americans cut back on goods,MSFT,Yahoo RSS,negative,-0.9699243307113647
+2026-05-16 19:35:00,$800B in AI spending is juicing GDP and stocks — while real wages fall and Americans cut back on goods,META,Yahoo RSS,negative,-0.9699243307113647
