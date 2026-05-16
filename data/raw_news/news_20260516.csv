@@ -47,3 +47,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-16 12:16:03,"Dow Jones Futures: S&P 500, Nasdaq Still Near Highs As Nvidia, Walmart Earnings Loom",NVDA,Yahoo RSS,positive,0.7032518982887268
 2026-05-16 11:48:44,Assessing Whether Tesla (TSLA) Still Looks Undervalued After Recent Share Price Pullback - simplywall.st,TSLA,Google RSS,neutral,0.0
 2026-05-16 13:20:42,"Meta Platforms, Inc. stock (US30303M1027): Analyst downgrade tests confidence after strong earnings - AD HOC NEWS",META,Google RSS,negative,-0.9688569903373718
+2026-05-15 04:25:55,Microsoft stock slides after earnings: What overshadowed strong cloud growth - MSN,MSFT,Google RSS,negative,-0.841106116771698
