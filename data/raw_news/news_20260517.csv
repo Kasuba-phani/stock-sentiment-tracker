@@ -1,0 +1,30 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-05-14 11:09:23,Apple Stock Hits Record Peak as iPhone Demand Stays Strong - TradingView,AAPL,Google RSS,positive,0.9029651880264282
+2026-05-16 00:45:59,Stronger technical forecast for Apple stock price after Friday trading - StockInvest.us,AAPL,Google RSS,positive,0.715233564376831
+2026-05-13 18:34:39,Apple stock on track for record close as tech rebounds - MSN,AAPL,Google RSS,positive,0.7252614498138428
+2026-05-14 22:38:39,"‘Start Small,’ Says Top Investor About Alphabet Stock - TipRanks",GOOGL,Google RSS,neutral,0.0
+2026-05-15 10:20:02,Alphabet Stock holds above $400 as overbought signals warn of a pause - The Cryptonomist,GOOGL,Google RSS,negative,-0.8081930875778198
+2026-05-17 02:29:17,A quarter of recent layoffs has been attributed to AI,GOOGL,Yahoo RSS,negative,-0.9647724628448486
+2026-05-16 19:35:00,$800B in AI spending is juicing GDP and stocks — while real wages fall and Americans cut back on goods,GOOGL,Yahoo RSS,negative,-0.9699243307113647
+2026-05-14 23:35:00,3 Top Stocks That Growth Investors Should Buy Now - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-05-15 14:46:13,"Why is US stock market falling today? Dow Jones, S&P 500 and Nasdaq crash after Trump concludes China visi - The Economic Times",AMZN,Google RSS,negative,-0.5612699389457703
+2026-05-16 19:35:00,$800B in AI spending is juicing GDP and stocks — while real wages fall and Americans cut back on goods,AMZN,Yahoo RSS,negative,-0.9699243307113647
+2026-05-15 15:51:20,"Stocks making the biggest moves midday: Cerebras, Microsoft, ServiceNow, Papa John's & more - CNBC",MSFT,Google RSS,neutral,0.0
+2026-05-16 12:30:34,Microsoft Corporation (NASDAQ:MSFT): A Strong Growth Stock with a Timely Technical Setup - ChartMill,MSFT,Google RSS,positive,0.8820297122001648
+2026-05-14 14:05:15,Microsoft stock price forecast: $390.00 support as MSFT trades flat - Traders Union,MSFT,Google RSS,neutral,0.0
+2026-05-13 17:07:03,"‘Don’t Miss It,’ Says Top Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-05-17 02:29:17,A quarter of recent layoffs has been attributed to AI,MSFT,Yahoo RSS,negative,-0.9647724628448486
+2026-05-16 19:35:00,$800B in AI spending is juicing GDP and stocks — while real wages fall and Americans cut back on goods,MSFT,Yahoo RSS,negative,-0.9699243307113647
+2026-05-14 14:24:16,Cantor Fitzgerald raises Nvidia stock price target on earnings outlook - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-05-13 20:39:00,Nvidia stock hits an all-time high on new AI bullishness from Wall Street analysts - Business Insider,NVDA,Google RSS,positive,0.9140953421592712
+2026-05-15 15:14:00,Nvidia Stock Powers Higher As AI Growth Accelerates; Earnings Loom Large - Investor's Business Daily,NVDA,Google RSS,positive,0.826762855052948
+2026-05-14 23:35:00,3 Top Stocks That Growth Investors Should Buy Now - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-05-17 01:41:46,"Dow Jones Futures: S&P 500, Nasdaq Still Near Highs But Note This; Nvidia, Walmart Earnings Loom",NVDA,Yahoo RSS,positive,0.6729714274406433
+2026-05-17 00:20:00,"Up 231%, Is RTX Proving Why It Was a Mistake for Honeywell to Replace RTX in the Dow Jones Industrial Average?",NVDA,Yahoo RSS,neutral,0.0
+2026-05-14 15:51:00,Panasonic Raises EV Battery Outlook Based On Tesla's Sales Bounce - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
+2026-05-15 05:13:16,Tesla stock (US88160R1014): earnings slide and price cuts keep investors on edge - AD HOC NEWS,TSLA,Google RSS,negative,-0.9556364417076111
+2026-05-14 23:35:00,3 Top Stocks That Growth Investors Should Buy Now - The Motley Fool,META,Google RSS,neutral,0.0
+2026-05-16 19:35:00,$800B in AI spending is juicing GDP and stocks — while real wages fall and Americans cut back on goods,META,Yahoo RSS,negative,-0.9699243307113647
+2026-05-15 18:45:11,"Stocks making the biggest moves midday: Cerebras, Microsoft, ServiceNow, Papa John's & more",MSFT,CNBC Finance,neutral,0.0
+2026-05-15 20:32:10,"Stock Market Today: Dow Loses 500 Points As Yields, Oil Rally; Nvidia Falls (Live Coverage)",NVDA,Yahoo Global,negative,-0.9560715556144714
+2026-05-14 22:45:27,"Stock market today: Dow, S&P 500, Nasdaq sink as bond yields jump to cap volatile week ahead of Nvidia earnings",NVDA,Yahoo Global,negative,-0.8302368521690369
