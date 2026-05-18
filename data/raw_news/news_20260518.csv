@@ -1,0 +1,36 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-05-14 11:09:23,Apple Stock Hits Record Peak as iPhone Demand Stays Strong - TradingView,AAPL,Google RSS,positive,0.9029651880264282
+2026-05-16 00:45:59,Stronger technical forecast for Apple stock price after Friday trading - StockInvest.us,AAPL,Google RSS,positive,0.715233564376831
+2026-05-17 16:10:43,Cirrus Logic’s Apple Manufacturing Role Links Face ID Growth And Valuation,AAPL,Yahoo RSS,positive,0.8600104451179504
+2026-05-14 22:38:39,"‘Start Small,’ Says Top Investor About Alphabet Stock - TipRanks",GOOGL,Google RSS,neutral,0.0
+2026-05-17 09:39:00,Is Alphabet (GOOGL) One of the Best Fundamentally Strong Stocks to Buy Now?,GOOGL,Bing RSS,neutral,0.0
+2026-05-17 12:10:45,Alphabet’s $60b Bond Spree Reshapes AI Spending And Investor Tradeoffs,GOOGL,Yahoo RSS,negative,-0.8020261526107788
+2026-05-17 10:20:55,"LegalZoom, Pinterest, and EverQuote Shares Are Falling, What You Need To Know",GOOGL,Yahoo RSS,negative,-0.526222288608551
+2026-05-17 10:04:55,"Angi, Carvana, and Booking Shares Are Falling, What You Need To Know",GOOGL,Yahoo RSS,neutral,0.0
+2026-05-17 23:21:47,Amazon.com stock (US0231351067): strong earnings and upbeat analyst sentiment keep spotlight on AMZN - AD HOC NEWS,AMZN,Google RSS,positive,0.9405704140663147
+2026-05-17 10:20:55,"LegalZoom, Pinterest, and EverQuote Shares Are Falling, What You Need To Know",AMZN,Yahoo RSS,negative,-0.526222288608551
+2026-05-15 15:51:20,"Stocks making the biggest moves midday: Cerebras, Microsoft, ServiceNow, Papa John's & more - CNBC",MSFT,Google RSS,neutral,0.0
+2026-05-17 11:43:17,Top Wall Street analysts suggest these 3 stocks for their long-term prospects - CNBC,MSFT,Google RSS,neutral,0.0
+2026-05-16 12:30:34,Microsoft Corporation (NASDAQ:MSFT): A Strong Growth Stock with a Timely Technical Setup - ChartMill,MSFT,Google RSS,positive,0.8820297122001648
+2026-05-13 17:07:03,"‘Don’t Miss It,’ Says Top Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-05-17 02:29:17,A quarter of recent layoffs has been attributed to AI,MSFT,Yahoo RSS,negative,-0.9647724628448486
+2026-05-16 19:35:00,$800B in AI spending is juicing GDP and stocks — while real wages fall and Americans cut back on goods,MSFT,Yahoo RSS,negative,-0.9699243307113647
+2026-05-17 11:43:17,Top Wall Street analysts suggest these 3 stocks for their long-term prospects - CNBC,NVDA,Google RSS,neutral,0.0
+2026-05-17 12:48:55,"1 Stock to Buy, 1 Stock to Sell This Week: Nvidia, Home Depot - Investing.com",NVDA,Google RSS,neutral,0.0
+2026-05-17 18:15:23,AI Supercharged This Flatlining U.S. Manufacturing Stock. Now It's Just Scored a Massive New Nvidia Partnership. - The Globe and Mail,NVDA,Google RSS,neutral,0.0
+2026-05-17 18:30:00,AI Supercharged This Flatlining U.S. Manufacturing Stock. Now It's Just Scored a Massive New Nvidia Partnership. - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-05-13 20:39:00,Nvidia stock hits an all-time high on new AI bullishness from Wall Street analysts - Business Insider,NVDA,Google RSS,positive,0.9140953421592712
+2026-05-14 14:24:16,Cantor Fitzgerald raises Nvidia stock price target on earnings outlook - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-05-15 15:14:00,Nvidia Stock Powers Higher As AI Growth Accelerates; Earnings Loom Large - Investor's Business Daily,NVDA,Google RSS,positive,0.826762855052948
+2026-05-17 13:11:57,"Nvidia, retailer reports to shed light on AI boom, consumer spending By Reuters - Investing.com",NVDA,Google RSS,neutral,0.0
+2026-05-14 23:35:00,3 Top Stocks That Growth Investors Should Buy Now - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-05-17 16:57:00,"Dow Jones futures fall, oil prices rise as Trump says 'clock is ticking' for Iran; Nvidia earnings ahead",NVDA,Bing RSS,negative,-0.7528762817382812
+2026-05-17 18:00:00,"Home Sales, Nvidia, Walmart, Home Depot, Target, and More to Watch This Week",NVDA,Yahoo RSS,neutral,0.0
+2026-05-14 15:51:00,Panasonic Raises EV Battery Outlook Based On Tesla's Sales Bounce - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
+2026-05-14 02:11:15,Meta's stock shows bullish call option activity and undervalued volatility after Q1 earnings. - Pluang,META,Google RSS,negative,-0.46834972500801086
+2026-05-14 23:35:00,3 Top Stocks That Growth Investors Should Buy Now - The Motley Fool,META,Google RSS,neutral,0.0
+2026-05-17 10:20:55,"LegalZoom, Pinterest, and EverQuote Shares Are Falling, What You Need To Know",META,Yahoo RSS,negative,-0.526222288608551
+2026-05-17 10:04:55,"Angi, Carvana, and Booking Shares Are Falling, What You Need To Know",META,Yahoo RSS,neutral,0.0
+2026-05-16 19:35:00,$800B in AI spending is juicing GDP and stocks — while real wages fall and Americans cut back on goods,META,Yahoo RSS,negative,-0.9699243307113647
+2026-05-17 11:03:13,"Soltis Investment Advisors LLC Has $4.06 Million Stock Position in Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
+2026-05-15 18:45:11,"Stocks making the biggest moves midday: Cerebras, Microsoft, ServiceNow, Papa John's & more",MSFT,CNBC Finance,neutral,0.0
