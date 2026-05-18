@@ -34,8 +34,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-16 19:35:00,$800B in AI spending is juicing GDP and stocks — while real wages fall and Americans cut back on goods,META,Yahoo RSS,negative,-0.9699243307113647
 2026-05-17 11:03:13,"Soltis Investment Advisors LLC Has $4.06 Million Stock Position in Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
 2026-05-15 18:45:11,"Stocks making the biggest moves midday: Cerebras, Microsoft, ServiceNow, Papa John's & more",MSFT,CNBC Finance,neutral,0.0
-2026-05-18 02:16:50,Alphabet Inc. (Class A) stock (US02079K3059): cloud margins and AI hopes keep investors on alert - AD HOC NEWS,GOOGL,Google RSS,negative,-0.9403557181358337
+2026-05-18 02:16:50,Alphabet Inc. (Class A) stock (US02079K3059): cloud margins and AI hopes keep investors on alert - AD HOC NEWS,GOOGL,Google RSS,negative,-0.9403557181358336
 2026-05-15 03:04:00,"Dow Jones Futures Fall, Yields Top 4.5% After Nvidia Runs, Cerebras IPO Soars; Trump-Xi Summit Continues - Investor's Business Daily",NVDA,Google RSS,negative,-0.8507466912269592
 2026-05-18 04:07:00,"Dow Jones Futures Fall, Oil Prices Rise As Trump Says 'Clock Is Ticking' For Iran; Nvidia Earnings Ahead - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
 2026-05-17 20:00:00,"George Noble On Bonds, Private Credit, Consumer Stocks (& Tesla) Falling Apart - Seeking Alpha",TSLA,Google RSS,neutral,0.0
-2026-05-18 02:24:50,Meta Platforms Inc. stock (US30303M1027): strong Q1 2026 earnings keep AI growth story in focus - AD HOC NEWS,META,Google RSS,positive,0.9296523332595825
+2026-05-18 02:24:50,Meta Platforms Inc. stock (US30303M1027): strong Q1 2026 earnings keep AI growth story in focus - AD HOC NEWS,META,Google RSS,positive,0.9296523332595824
+2026-05-13 20:34:00,"Dow Falls On Hot Inflation But Nvidia, These AI Winners Rally (Live) - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-05-18 00:26:00,Global stocks retreat and bonds wilt as oil climbs - Reuters,NVDA,Google RSS,negative,-0.7662721276283264
+2026-05-18 06:32:04,Nvidia (NVDA) Stock; Declines Marginally as Analysts Flag LPDDR Supply Pressure - CoinCentral,NVDA,Google RSS,negative,-0.8208096623420715
+2026-05-18 08:44:52,Netflix (NFLX) Stock: Why Wall Street Analysts See Major Upside Ahead - Blockonomi,NFLX,Google RSS,neutral,0.0
+2026-05-17 10:42:55,"Investors eye Nvidia, bond yields, and the next commodity supercycle: What to watch this week",NVDA,Yahoo Global,neutral,0.0
