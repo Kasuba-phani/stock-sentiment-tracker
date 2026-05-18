@@ -44,3 +44,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-18 06:32:04,Nvidia (NVDA) Stock; Declines Marginally as Analysts Flag LPDDR Supply Pressure - CoinCentral,NVDA,Google RSS,negative,-0.8208096623420715
 2026-05-18 08:44:52,Netflix (NFLX) Stock: Why Wall Street Analysts See Major Upside Ahead - Blockonomi,NFLX,Google RSS,neutral,0.0
 2026-05-17 10:42:55,"Investors eye Nvidia, bond yields, and the next commodity supercycle: What to watch this week",NVDA,Yahoo Global,neutral,0.0
+2026-05-18 12:15:00,Dow Jones and Nasdaq climb as oil eases on reports of Iran sanctions lift,AAPL,Yahoo RSS,negative,-0.7568920850753784
+2026-05-18 11:27:32,Amazon stock (US0231351067): earnings beat and AWS acceleration draw investor focus - AD HOC NEWS,AMZN,Google RSS,neutral,0.0
+2026-05-18 13:35:39,"‘Still One of the Best,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-05-18 12:15:00,Dow Jones and Nasdaq climb as oil eases on reports of Iran sanctions lift,MSFT,Yahoo RSS,negative,-0.7568920850753784
+2026-05-18 10:40:17,Stock futures fall after record-setting week; traders await Nvidia and retail earnings - CNBC,NVDA,Google RSS,negative,-0.8366296887397766
+2026-05-18 11:31:28,Nvidia Will Report Q1 Earnings on May 20 — Options Traders Expect an 8.65% Move in NVDA Stock - TipRanks,NVDA,Google RSS,positive,0.8990169763565063
+2026-05-18 12:15:00,Dow Jones and Nasdaq climb as oil eases on reports of Iran sanctions lift,TSLA,Yahoo RSS,negative,-0.7568920850753784
+2026-05-18 12:15:00,Dow Jones and Nasdaq climb as oil eases on reports of Iran sanctions lift,META,Yahoo RSS,negative,-0.7568920850753784
