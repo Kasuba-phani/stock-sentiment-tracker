@@ -40,8 +40,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-19 14:01:00,"These Stocks Are Today's Movers: ServiceNow, Home Depot, Agilysys, Sandisk, Nvidia, Alphabet, and More -- Barrons.com - Moomoo",GOOGL,Google RSS,neutral,0.0
 2026-05-19 14:01:00,"These Stocks Are Today’s Movers: ServiceNow, Home Depot, Agilysys, Sandisk, Nvidia, Alphabet, and More",GOOGL,Yahoo RSS,neutral,0.0
 2026-05-19 12:36:00,Amazon Stock (AMZN) Falls despite Cloud Industrial Intelligence Push - TipRanks,AMZN,Google RSS,negative,-0.9677991271018982
-2026-05-19 15:54:53,"US stock market crashes today: Dow Jones, S&P 500, and Nasdaq fall hard as bond yields hit 19-year high - - The Economic Times",AMZN,Google RSS,negative,-0.9520701169967651
-2026-05-19 15:33:45,"Cisco, Amazon.com Inc. share losses lead Dow's 175-point fall - MSN",AMZN,Google RSS,negative,-0.9600285887718201
+2026-05-19 15:54:53,"US stock market crashes today: Dow Jones, S&P 500, and Nasdaq fall hard as bond yields hit 19-year high - - The Economic Times",AMZN,Google RSS,negative,-0.9520701169967652
+2026-05-19 15:33:45,"Cisco, Amazon.com Inc. share losses lead Dow's 175-point fall - MSN",AMZN,Google RSS,negative,-0.96002858877182
 2026-05-19 12:49:22,Morgan Stanley resets Nvidia stock price target ahead of earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
 2026-05-19 11:48:00,Veteran analyst firm revises Nvidia stock price target ahead of earnings - TradingView,NVDA,Google RSS,neutral,0.0
 2026-05-19 16:04:00,"These Stocks Are Today’s Movers: CoreWeave, Akamai, ServiceNow, Home Depot, Agilysys, Micron, Nvidia, and More - Barron's",NVDA,Google RSS,neutral,0.0
@@ -51,3 +51,16 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-19 15:49:22,Morgan Stanley resets Nvidia stock price target ahead of earnings,NVDA,Yahoo RSS,neutral,0.0
 2026-05-19 15:18:10,Meta's AI Worker Shift; Home Depot Sales Fall Short | Stock Movers - marketscreener.com,META,Google RSS,negative,-0.7715545296669006
 2026-05-19 14:48:39,Netflix Stock Forecast: Analysts See Strong Upside Potential - TipRanks,NFLX,Google RSS,positive,0.8818963766098022
+2026-05-19 17:48:15,2 AI Stocks That Will Still Be Dominant When Today's Hype Has Faded - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-05-19 17:49:00,2 AI Stocks That Will Still Be Dominant When Today's Hype Has Faded - The Globe and Mail,GOOGL,Google RSS,neutral,0.0
+2026-05-19 17:48:15,2 AI Stocks That Will Still Be Dominant When Today's Hype Has Faded - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-05-19 17:38:00,AIHA Announces Star Sponsors for AIHA Connect 2026 Conference,AMZN,Yahoo RSS,neutral,0.0
+2026-05-19 17:35:00,Home Depot Q1: The Big Shift Everyone is Missing,AMZN,Yahoo RSS,neutral,0.0
+2026-05-19 16:44:10,Nvidia remains most shorted stock ahead of earnings - TradingView,NVDA,Google RSS,negative,-0.861302375793457
+2026-05-19 17:02:04,Nvidia stock erases early losses ahead of earnings: what to expect - TradingView,NVDA,Google RSS,neutral,0.0
+2026-05-19 17:31:21,Nvidia stock erases early losses ahead of earnings: what to expect - CryptoRank,NVDA,Google RSS,negative,-0.7783932089805603
+2026-05-19 18:47:19,Nvidia Q1 Earnings Tomorrow — 3 Vanguard ETFs That Give You Strong NVDA Stock Exposure - TipRanks,NVDA,Google RSS,neutral,0.0
+2026-05-19 18:27:22,Investor Angst Emerges in Riskiest Stocks on Rate Uncertainty,NVDA,Yahoo RSS,negative,-0.9073036909103394
+2026-05-19 18:11:00,"These Stocks Are Today’s Movers: CoreWeave, Nvidia, Home Depot, Akamai, Agilysys, Micron, and More",NVDA,Yahoo RSS,neutral,0.0
+2026-05-19 17:53:19,U.S Stocks fall as soaring yields crush tech rally and chip stocks lead brutal slide,NVDA,Yahoo RSS,negative,-0.953624427318573
+2026-05-17 10:42:55,"Investors eye Nvidia, bond yields, and the next commodity supercycle: What to watch this week",NVDA,Yahoo Global,neutral,0.0
