@@ -1,0 +1,45 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-05-19 22:56:00,"Apple Hanging Near All-Time High, Among 15 New To Best Growth Stock Lists - Investor's Business Daily",AAPL,Google RSS,positive,0.7014902830123901
+2026-05-19 11:22:23,"Stocks making the biggest moves premarket: Home Depot, Amer Sports, Blackstone, Alphabet & more - CNBC",GOOGL,Google RSS,neutral,0.0
+2026-05-19 11:35:00,CoreWeave’s stock falls as new Google cloud venture may signal more competition ahead - MarketWatch,GOOGL,Google RSS,negative,-0.961402416229248
+2026-05-19 18:21:00,2 AI Stocks That Will Still Be Dominant When Today's Hype Has Faded - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-05-19 17:49:00,2 AI Stocks That Will Still Be Dominant When Today's Hype Has Faded - The Globe and Mail,GOOGL,Google RSS,neutral,0.0
+2026-05-18 14:47:06,Alphabet stock price forecast: $399.00–$412.00 range as GOOGL gains 1.57% - Traders Union,GOOGL,Google RSS,positive,0.5035989880561829
+2026-05-19 21:00:37,US Equity Indexes Fall as Trump's Warnings to Resolve Iran Standoff Send Treasury Yields Sharply Higher,GOOGL,Yahoo RSS,negative,-0.9561110734939575
+2026-05-19 20:50:35,"Stock Market Today: Dow, Nasdaq End In The Red As Yields Jump; Alphabet Drops On I/O Day (Live Coverage)",GOOGL,Yahoo RSS,negative,-0.9011259078979492
+2026-05-19 12:36:00,Amazon Stock (AMZN) Falls despite Cloud Industrial Intelligence Push - TipRanks,AMZN,Google RSS,negative,-0.9677991271018982
+2026-05-19 18:21:00,2 AI Stocks That Will Still Be Dominant When Today's Hype Has Faded - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-05-20 02:37:46,"Cisco, Amazon.com Inc. share losses lead Dow's 175-point fall - MSN",AMZN,Google RSS,negative,-0.9600285887718201
+2026-05-19 15:54:53,"US stock market crashes today: Dow Jones, S&P 500, and Nasdaq fall hard as bond yields hit 19-year high - - The Economic Times",AMZN,Google RSS,negative,-0.9520699977874756
+2026-05-19 21:00:37,US Equity Indexes Fall as Trump's Warnings to Resolve Iran Standoff Send Treasury Yields Sharply Higher,AMZN,Yahoo RSS,negative,-0.9561110734939575
+2026-05-19 17:38:00,AIHA Announces Star Sponsors for AIHA Connect 2026 Conference,AMZN,Yahoo RSS,neutral,0.0
+2026-05-19 17:35:00,Home Depot Q1: The Big Shift Everyone is Missing,AMZN,Yahoo RSS,neutral,0.0
+2026-05-19 21:49:58,Microsoft Shares Slip Again While AI Bulls Confront Rate Jitters - TechStock²,MSFT,Google RSS,negative,-0.9187278151512146
+2026-05-17 11:43:17,Top Wall Street analysts suggest these 3 stocks for their long-term prospects - CNBC,MSFT,Google RSS,neutral,0.0
+2026-05-19 09:07:47,Microsoft Corporation $MSFT Shares Sold by Loring Wolcott & Coolidge Fiduciary Advisors LLP MA - MarketBeat,MSFT,Google RSS,neutral,0.0
+2026-05-18 15:30:00,2 Top Nasdaq Stocks to Buy Before They Soar in 2026 - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-05-18 13:35:39,"‘Still One of the Best,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-05-19 16:28:00,3G Capital Exits Microsoft Stock in Major Portfolio Shift. MSFT Is Still One of the Best AI Plays Now.,MSFT,Bing RSS,neutral,0.0
+2026-05-19 20:58:00,"These Stocks Are Today’s Movers: CoreWeave, Nvidia, Home Depot, Akamai, Agilysys, Micron, and More - Barron's",NVDA,Google RSS,neutral,0.0
+2026-05-19 11:48:00,Veteran analyst firm revises Nvidia stock price target ahead of earnings - TradingView,NVDA,Google RSS,neutral,0.0
+2026-05-19 17:52:06,Morgan Stanley resets Nvidia stock price target ahead of earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
+2026-05-19 09:23:00,"Nvidia Stock May or May Not Soar on May 20, But This Super AI Semiconductor Stock Could Pop and Go On a Terrific Bull Run - The Motley Fool",NVDA,Google RSS,neutral,0.0
+2026-05-19 16:44:10,Nvidia remains most shorted stock ahead of earnings - TradingView,NVDA,Google RSS,negative,-0.861302375793457
+2026-05-19 11:31:21,Veteran analyst firm revises Nvidia stock price target ahead of earnings - GuruFocus,NVDA,Google RSS,neutral,0.0
+2026-05-17 12:48:55,"1 Stock to Buy, 1 Stock to Sell This Week: Nvidia, Home Depot - Investing.com",NVDA,Google RSS,neutral,0.0
+2026-05-19 17:02:04,Nvidia stock erases early losses ahead of earnings: what to expect - TradingView,NVDA,Google RSS,neutral,0.0
+2026-05-19 17:31:21,Nvidia stock erases early losses ahead of earnings: what to expect - CryptoRank,NVDA,Google RSS,negative,-0.7783932089805603
+2026-05-19 21:17:00,Nvidia stock set for 3-day losing streak. Why that could be a positive. - MSN,NVDA,Google RSS,negative,-0.8948439359664917
+2026-05-19 09:49:00,Morgan Stanley raises Nvidia stock price target ahead of earnings,NVDA,Bing RSS,neutral,0.0
+2026-05-19 23:55:00,Review & Preview: Bonds Bury Stocks,NVDA,Yahoo RSS,neutral,0.0
+2026-05-19 23:00:00,"What investors need to watch on May 20: Nvidia, Fed Minutes",NVDA,Yahoo RSS,neutral,0.0
+2026-05-19 22:59:13,Wall St ends lower as inflation worries push up yields,NVDA,Yahoo RSS,negative,-0.8814998269081116
+2026-05-19 22:27:57,"Stock market today: Dow, S&P 500, Nasdaq futures dip in countdown to Nvidia earnings",NVDA,Yahoo RSS,negative,-0.9450761079788208
+2026-05-19 21:31:09,"Stock Market Today, May 19: Soaring Treasury Yields Pressure Markets",NVDA,Yahoo RSS,negative,-0.8988906145095825
+2026-05-18 15:10:09,Model Y price reduction drags Tesla stock down 2.78% on Tuesday - Traders Union,TSLA,Google RSS,negative,-0.9709229469299316
+2026-05-19 15:18:10,Meta's AI Worker Shift; Home Depot Sales Fall Short | Stock Movers - marketscreener.com,META,Google RSS,negative,-0.7715554237365723
+2026-05-19 00:00:00,Watch Meta's AI Worker Shift; Home Depot Sales Fall Short | Stock Movers - Bloomberg.com,META,Google RSS,negative,-0.6340992450714111
+2026-05-19 14:48:39,Netflix Stock Forecast: Analysts See Strong Upside Potential - TipRanks,NFLX,Google RSS,positive,0.8818963766098022
+2026-05-17 11:03:13,"Soltis Investment Advisors LLC Has $4.06 Million Stock Position in Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
+2026-05-19 12:05:28,"Stocks making the biggest moves premarket: Home Depot, Amer Sports, Blackstone, Alphabet & more",GOOGL,CNBC Finance,neutral,0.0
+2026-05-15 18:45:11,"Stocks making the biggest moves midday: Cerebras, Microsoft, ServiceNow, Papa John's & more",MSFT,CNBC Finance,neutral,0.0
