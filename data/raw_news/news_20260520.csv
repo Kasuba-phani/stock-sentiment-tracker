@@ -57,17 +57,35 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-20 09:24:28,Alphabet stock (US02079K3059): Search expands after AI and cloud push - AD HOC NEWS,GOOGL,Google RSS,positive,0.5860729217529297
 2026-05-17 09:14:43,Microsoft Corporation $MSFT Position Boosted by Kingswood Wealth Advisors LLC - MarketBeat,MSFT,Google RSS,positive,0.903846263885498
 2026-05-19 17:02:02,3G Capital Exits Microsoft Stock in Major Portfolio Shift. MSFT Is Still One of the Best AI Plays Now. - Barchart.com,MSFT,Google RSS,neutral,0.0
-2026-05-20 06:34:26,Microsoft (MSFT) Stock; Dips as Strong Azure Growth Offset by Higher Rate Jitters - CoinCentral,MSFT,Google RSS,negative,-0.9332839250564575
+2026-05-20 06:34:26,Microsoft (MSFT) Stock; Dips as Strong Azure Growth Offset by Higher Rate Jitters - CoinCentral,MSFT,Google RSS,negative,-0.9332839250564576
 2026-05-20 11:47:00,S&P 500 futures tick higher as oil falls and traders await Nvidia’s earnings: Live updates - CNBC,NVDA,Google RSS,neutral,0.0
-2026-05-20 10:08:41,US stock futures climb as chip stocks rebound ahead of Nvidia results - Reuters,NVDA,Google RSS,negative,-0.40153634548187256
+2026-05-20 10:08:41,US stock futures climb as chip stocks rebound ahead of Nvidia results - Reuters,NVDA,Google RSS,negative,-0.4015363454818725
 2026-05-20 10:01:05,Tech Bulls Are Looking to Nvidia for Stocks Revival - Bloomberg.com,NVDA,Google RSS,neutral,0.0
 2026-05-20 02:07:00,"Bond yields pause near recent peak, stocks steady ahead of Nvidia results - Reuters",NVDA,Google RSS,neutral,0.0
-2026-05-20 10:35:19,"Stock Market Today (May 20, 2026): Nasdaq futures rise ahead of Nvidia earnings - thestreet.com",NVDA,Google RSS,positive,0.9204487204551697
-2026-05-20 08:57:15,"Dow Jones futures fall with Nvidia earnings due; Micron, SanDisk, Astera rise - MSN",NVDA,Google RSS,negative,-0.9219601154327393
+2026-05-20 10:35:19,"Stock Market Today (May 20, 2026): Nasdaq futures rise ahead of Nvidia earnings - thestreet.com",NVDA,Google RSS,positive,0.9204487204551696
+2026-05-20 08:57:15,"Dow Jones futures fall with Nvidia earnings due; Micron, SanDisk, Astera rise - MSN",NVDA,Google RSS,negative,-0.9219601154327391
 2026-05-20 08:50:39,Stock futures edge higher ahead of Nvidia earnings - MSN,NVDA,Google RSS,positive,0.7669607400894165
 2026-05-20 02:12:00,"Stock market today: Dow, S&P 500, Nasdaq futures rise in countdown to Nvidia earnings",NVDA,Bing RSS,positive,0.5503727197647095
-2026-05-20 03:08:08,US stock futures climb as chip stocks rebound ahead of Nvidia results,NVDA,Bing RSS,positive,0.46957454085350037
+2026-05-20 03:08:08,US stock futures climb as chip stocks rebound ahead of Nvidia results,NVDA,Bing RSS,positive,0.4695745408535003
 2026-05-20 09:07:16,"TSLA Stock Climbs Premarket, But Gary Black Says Rising Oil, Bond Yields Make NVDA, GOOG, META Cheaper Bets - Stocktwits",TSLA,Google RSS,neutral,0.0
 2026-05-20 09:19:03,Tesla Faces High Valuation and Interest Rate Risks - Intellectia AI,TSLA,Google RSS,neutral,0.0
 2026-05-20 09:07:16,"TSLA Stock Climbs Premarket, But Gary Black Says Rising Oil, Bond Yields Make NVDA, GOOG, META Cheaper Bets - Stocktwits",META,Google RSS,neutral,0.0
 2026-05-20 11:00:00,QuidelOrtho to Participate in Upcoming June 2026 Investor Conferences,META,Yahoo RSS,neutral,0.0
+2026-05-20 12:44:24,Apple stock (US0378331005): trading near 52-week high after strong iPhone and services momentum - AD HOC NEWS,AAPL,Google RSS,positive,0.9308997988700867
+2026-05-20 14:16:43,-2.40% for Alphabet stock as intraday signals point to forming oversold base - Traders Union,GOOGL,Google RSS,negative,-0.7966734170913696
+2026-05-20 14:07:00,Amazon Stock (AMZN) Opinions on Strong AWS Growth Amid Valuation Discussions - Quiver Quantitative,AMZN,Google RSS,positive,0.726513683795929
+2026-05-20 13:00:00,"Hedge Funds Followed the April Equity Rally by Increasing Exposure to Technology Leaders, Hazeltree Finds",AMZN,Yahoo RSS,positive,0.9261926412582397
+2026-05-20 14:31:05,Microsoft stock holds steady as 23% earnings growth boosts outlook - Traders Union,MSFT,Google RSS,positive,0.9457637071609497
+2026-05-20 15:18:14,"Stock Market Today: Major Indexes Soar Ahead of Nvidia Earnings; Dow Adds 450 Points; Bond Yields, Oil Prices Pull Back - Investopedia",NVDA,Google RSS,positive,0.4540916085243225
+2026-05-20 14:42:02,Chip stocks regain momentum as software shares fall ahead of Nvidia earnings - MarketWatch,NVDA,Google RSS,negative,-0.9592475295066833
+2026-05-20 14:26:45,Wall St rises on chips' strength ahead of Nvidia results - Reuters,NVDA,Google RSS,positive,0.7365866899490356
+2026-05-20 14:41:48,Nvidia stock rallies with session highs tested after an upbeat trading day - Traders Union,NVDA,Google RSS,positive,0.8623415231704712
+2026-05-20 02:07:00,"Bond yields pause near recent highs, stocks steady ahead of Nvidia results - Reuters",NVDA,Google RSS,neutral,0.0
+2026-05-20 12:16:19,S&P 500 futures rise ahead of Nvidia Q1 earnings - qz.com,NVDA,Google RSS,neutral,0.0
+2026-05-20 13:00:17,"European stocks steady as Nvidia earnings release, inflation fears loom large - Investing.com",NVDA,Google RSS,negative,-0.6368058919906616
+2026-05-20 08:27:00,US Stock Market Today | Dow Jones | Nasdaq Live: Nvidia to announce Q1 earnings tonight; US stocks trade higher,NVDA,Bing RSS,positive,0.5149153470993042
+2026-05-20 14:55:12,Home Depot Price Targets Slashed Across Wall Street After Q1: Has the Home Improvement Slowdown Just Begun?,NVDA,Yahoo RSS,negative,-0.935512125492096
+2026-05-20 13:00:00,"Hedge Funds Followed the April Equity Rally by Increasing Exposure to Technology Leaders, Hazeltree Finds",TSLA,Yahoo RSS,positive,0.9261926412582397
+2026-05-18 14:02:47,Meta stock falls sharply after strong earnings. What’s dragging it down? - MSN,META,Google RSS,negative,-0.9088540077209473
+2026-05-20 13:00:00,"Hedge Funds Followed the April Equity Rally by Increasing Exposure to Technology Leaders, Hazeltree Finds",META,Yahoo RSS,positive,0.9261926412582397
+2026-05-19 22:27:57,"Stock market today: S&P 500, Nasdaq rise in countdown to Nvidia earnings",NVDA,Yahoo Global,positive,0.5259098410606384
