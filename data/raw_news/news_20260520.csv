@@ -5,13 +5,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-19 18:21:00,2 AI Stocks That Will Still Be Dominant When Today's Hype Has Faded - The Motley Fool,GOOGL,Google RSS,neutral,0.0
 2026-05-19 17:49:00,2 AI Stocks That Will Still Be Dominant When Today's Hype Has Faded - The Globe and Mail,GOOGL,Google RSS,neutral,0.0
 2026-05-18 14:47:06,Alphabet stock price forecast: $399.00–$412.00 range as GOOGL gains 1.57% - Traders Union,GOOGL,Google RSS,positive,0.5035989880561829
-2026-05-19 21:00:37,US Equity Indexes Fall as Trump's Warnings to Resolve Iran Standoff Send Treasury Yields Sharply Higher,GOOGL,Yahoo RSS,negative,-0.9561110734939575
+2026-05-19 21:00:37,US Equity Indexes Fall as Trump's Warnings to Resolve Iran Standoff Send Treasury Yields Sharply Higher,GOOGL,Yahoo RSS,negative,-0.9561110734939576
 2026-05-19 20:50:35,"Stock Market Today: Dow, Nasdaq End In The Red As Yields Jump; Alphabet Drops On I/O Day (Live Coverage)",GOOGL,Yahoo RSS,negative,-0.9011259078979492
 2026-05-19 12:36:00,Amazon Stock (AMZN) Falls despite Cloud Industrial Intelligence Push - TipRanks,AMZN,Google RSS,negative,-0.9677991271018982
 2026-05-19 18:21:00,2 AI Stocks That Will Still Be Dominant When Today's Hype Has Faded - The Motley Fool,AMZN,Google RSS,neutral,0.0
-2026-05-20 02:37:46,"Cisco, Amazon.com Inc. share losses lead Dow's 175-point fall - MSN",AMZN,Google RSS,negative,-0.9600285887718201
+2026-05-20 02:37:46,"Cisco, Amazon.com Inc. share losses lead Dow's 175-point fall - MSN",AMZN,Google RSS,negative,-0.96002858877182
 2026-05-19 15:54:53,"US stock market crashes today: Dow Jones, S&P 500, and Nasdaq fall hard as bond yields hit 19-year high - - The Economic Times",AMZN,Google RSS,negative,-0.9520699977874756
-2026-05-19 21:00:37,US Equity Indexes Fall as Trump's Warnings to Resolve Iran Standoff Send Treasury Yields Sharply Higher,AMZN,Yahoo RSS,negative,-0.9561110734939575
+2026-05-19 21:00:37,US Equity Indexes Fall as Trump's Warnings to Resolve Iran Standoff Send Treasury Yields Sharply Higher,AMZN,Yahoo RSS,negative,-0.9561110734939576
 2026-05-19 17:38:00,AIHA Announces Star Sponsors for AIHA Connect 2026 Conference,AMZN,Yahoo RSS,neutral,0.0
 2026-05-19 17:35:00,Home Depot Q1: The Big Shift Everyone is Missing,AMZN,Yahoo RSS,neutral,0.0
 2026-05-19 21:49:58,Microsoft Shares Slip Again While AI Bulls Confront Rate Jitters - TechStock²,MSFT,Google RSS,negative,-0.9187278151512146
@@ -43,3 +43,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-17 11:03:13,"Soltis Investment Advisors LLC Has $4.06 Million Stock Position in Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
 2026-05-19 12:05:28,"Stocks making the biggest moves premarket: Home Depot, Amer Sports, Blackstone, Alphabet & more",GOOGL,CNBC Finance,neutral,0.0
 2026-05-15 18:45:11,"Stocks making the biggest moves midday: Cerebras, Microsoft, ServiceNow, Papa John's & more",MSFT,CNBC Finance,neutral,0.0
+2026-05-18 16:21:52,Alphabet or Micron: Top Investor Chooses the Elite AI Stock to Buy - TipRanks,GOOGL,Google RSS,neutral,0.0
+2026-05-20 06:38:14,"Alphabet Inc. (NASDAQ:GOOGL) Receives Average Rating of ""Moderate Buy"" from Analysts - MarketBeat",GOOGL,Google RSS,positive,0.7956985831260681
+2026-05-19 00:44:41,Alphabet (GOOGL) Valuation Check After Strong Recent Share Price Momentum - simplywall.st,GOOGL,Google RSS,neutral,0.0
+2026-05-15 15:51:20,"Stocks making the biggest moves midday: Cerebras, Microsoft, ServiceNow, Papa John's & more - CNBC",MSFT,Google RSS,neutral,0.0
+2026-05-20 07:16:55,"European stocks tick lower as Nvidia earnings release, inflation fears loom large - Investing.com",NVDA,Google RSS,negative,-0.9535425901412964
+2026-05-20 07:56:00,"Stock Market Today: S&P 500 and Nasdaq look to snap 3-day losing streak, Dow also called higher, as traders await Nvidia earnings; Treasury yields and oil prices dip. - MarketWatch",NVDA,Google RSS,negative,-0.8757264018058777
+2026-05-20 02:07:00,"Asian stocks extend losing streak as higher yields bite, Nvidia results in focus - Reuters",NVDA,Google RSS,negative,-0.679375410079956
+2026-05-20 06:19:05,Nvidia stock erases early losses ahead of earnings: what to expect - Cryptonews.net,NVDA,Google RSS,negative,-0.5093159079551697
+2026-05-20 08:27:43,Stock futures edge higher ahead of Nvidia earnings (SPX:) - Seeking Alpha,NVDA,Google RSS,positive,0.900077223777771
+2026-05-20 06:34:17,TSLA stock rises overnight: Elon Musk drops 'quiet period' hint amid Tesla-SpaceX merger buzz - MSN,TSLA,Google RSS,negative,-0.5746855735778809
+2026-05-20 07:09:28,Meta (META) Stock; Slips as Global Layoffs Overshadow Strong Shift Toward AI Teams - CoinCentral,META,Google RSS,negative,-0.9612434506416321
