@@ -1,0 +1,52 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-05-21 03:52:18,"Apple stock (US0378331005): investors weigh fresh earnings, AI push and buyback plans - AD HOC NEWS",AAPL,Google RSS,neutral,0.0
+2026-05-19 22:56:00,"Apple Hanging Near All-Time High, Among 15 New To Best Growth Stock Lists - Investor's Business Daily",AAPL,Google RSS,positive,0.7014902830123901
+2026-05-20 18:53:52,After Watching Mega Caps Drive Every Bull Market This Decade These 3 Growth ETFs Keep Rising to the Top of My Research,AAPL,Yahoo RSS,neutral,0.0
+2026-05-20 15:31:57,"Lido Advisors Adds $76 Million to BSCR Stake, Making the Bond ETF Its Second-Largest Holding",AAPL,Yahoo RSS,neutral,0.0
+2026-05-20 18:51:00,This Famous Investor Just Sold All Of His Alphabet Stock and Loaded Up On Microsoft Stock. Should You? - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-05-20 18:22:30,This Famous Investor Just Sold All Of His Alphabet Stock and Loaded Up On Microsoft Stock. Should You? - AOL.com,GOOGL,Google RSS,neutral,0.0
+2026-05-20 14:16:43,-2.40% for Alphabet stock as intraday signals point to forming oversold base - Traders Union,GOOGL,Google RSS,negative,-0.7966734170913696
+2026-05-20 06:38:14,"Alphabet Inc. (NASDAQ:GOOGL) Receives Average Rating of ""Moderate Buy"" from Analysts - MarketBeat",GOOGL,Google RSS,positive,0.7956982254981995
+2026-05-21 04:04:10,"US energy storage additions hit a first-quarter record, report shows",GOOGL,Yahoo RSS,positive,0.9031494855880737
+2026-05-19 12:36:00,Amazon Stock (AMZN) Falls despite Cloud Industrial Intelligence Push - TipRanks,AMZN,Google RSS,negative,-0.9677991271018982
+2026-05-20 14:07:00,Amazon Stock (AMZN) Opinions on Strong AWS Growth Amid Valuation Discussions - Quiver Quantitative,AMZN,Google RSS,positive,0.726513683795929
+2026-05-20 17:12:13,Evaluating Whether Amazon.com (AMZN) Still Looks Undervalued After Recent Share Price Strength - simplywall.st,AMZN,Google RSS,neutral,0.0
+2026-05-21 03:50:17,Amazon stock (US0231351067): Cloud momentum and profit push after latest quarterly update - AD HOC NEWS,AMZN,Google RSS,neutral,0.0
+2026-05-20 18:53:52,After Watching Mega Caps Drive Every Bull Market This Decade These 3 Growth ETFs Keep Rising to the Top of My Research,AMZN,Yahoo RSS,neutral,0.0
+2026-05-20 18:51:00,This Famous Investor Just Sold All Of His Alphabet Stock and Loaded Up On Microsoft Stock. Should You? - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-05-21 01:05:57,Stronger technical forecast for Microsoft stock price after Wednesday trading - StockInvest.us,MSFT,Google RSS,positive,0.8082835674285889
+2026-05-20 14:31:05,Microsoft stock holds steady as 23% earnings growth boosts outlook - Traders Union,MSFT,Google RSS,positive,0.9457637071609497
+2026-05-20 18:22:30,This Famous Investor Just Sold All Of His Alphabet Stock and Loaded Up On Microsoft Stock. Should You? - AOL.com,MSFT,Google RSS,neutral,0.0
+2026-05-19 17:02:02,3G Capital Exits Microsoft Stock in Major Portfolio Shift. MSFT Is Still One of the Best AI Plays Now. - Barchart.com,MSFT,Google RSS,neutral,0.0
+2026-05-19 21:49:58,Microsoft Shares Slip Again While AI Bulls Confront Rate Jitters - TechStock²,MSFT,Google RSS,negative,-0.9187278151512146
+2026-05-17 11:43:17,Top Wall Street analysts suggest these 3 stocks for their long-term prospects - CNBC,MSFT,Google RSS,neutral,0.0
+2026-05-18 13:35:39,"‘Still One of the Best,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-05-20 18:53:52,After Watching Mega Caps Drive Every Bull Market This Decade These 3 Growth ETFs Keep Rising to the Top of My Research,MSFT,Yahoo RSS,neutral,0.0
+2026-05-20 20:34:28,"Markets News, May 20, 2026: Stocks Close Sharply Higher Ahead of Nvidia Earnings as Oil Prices Plunge; Dow Adds 650 Points; Bond Yields Retreat - Investopedia",NVDA,Google RSS,negative,-0.6119240522384644
+2026-05-21 03:08:00,Dow Jones Futures Fall After Strong Nvidia Earnings; SpaceX Files For Huge IPO - Investor's Business Daily,NVDA,Google RSS,negative,-0.824374258518219
+2026-05-19 17:52:06,Morgan Stanley resets Nvidia stock price target ahead of earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
+2026-05-20 13:16:19,S&P 500 futures rise ahead of Nvidia Q1 earnings - qz.com,NVDA,Google RSS,neutral,0.0
+2026-05-20 23:59:46,Nvidia bets on new data center chips for growth as sales outlook tops estimates - Reuters,NVDA,Google RSS,positive,0.8004227876663208
+2026-05-21 00:40:00,SoftBank Group shares soar 20% as Nvidia earnings signal strong AI momentum - CNBC,NVDA,Google RSS,positive,0.8891656398773193
+2026-05-20 22:24:44,Bitcoin miners tied to AI rise as Nvidia posts big earnings beat and strong outlook - CoinDesk,NVDA,Google RSS,positive,0.9407699704170227
+2026-05-20 22:25:10,"‘Stay Long and Strong,’ Says Daniel Ives About Nvidia Stock After Earnings - TipRanks",NVDA,Google RSS,neutral,0.0
+2026-05-20 14:41:48,Nvidia stock rallies with session highs tested after an upbeat trading day - Traders Union,NVDA,Google RSS,positive,0.8623415231704712
+2026-05-20 23:18:25,"US Stocks Rebound as Treasury Yields, Oil Slide; Nvidia Tops Estimates - bloomingbit",NVDA,Google RSS,positive,0.6823269128799438
+2026-05-20 21:11:37,"Dow Jones futures: Nvidia earnings soar after stocks rally, oil prices dive on Iran deal hopes - MSN",NVDA,Google RSS,positive,0.479510098695755
+2026-05-19 09:23:00,"Nvidia Stock May or May Not Soar on May 20, But This Super AI Semiconductor Stock Could Pop and Go On a Terrific Bull Run - The Motley Fool",NVDA,Google RSS,neutral,0.0
+2026-05-21 01:25:30,"Revenue surged by 85%, guidance set at $91 billion, $80 billion in share buybacks, and dividends skyrocketed 25-fold—NVIDIA pushed to the extreme, yet its stock price fell. - 富途牛牛",NVDA,Google RSS,negative,-0.9505124688148499
+2026-05-20 23:19:00,Nvidia Earnings Soar And It Leads 14 Hot Prospects Onto Today's Best Growth Stock Lists - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
+2026-05-20 23:23:11,"Stock market today: Dow, S&P 500, Nasdaq futures slip as Wall Street shrugs off Nvidia earnings",NVDA,Yahoo RSS,negative,-0.9664087891578674
+2026-05-20 16:41:37,"TSLA Stock Climbs Premarket, But Gary Black Says Rising Oil, Bond Yields Make NVDA, GOOG, META Cheaper Bets - Stocktwits",TSLA,Google RSS,neutral,0.0
+2026-05-18 15:10:09,Model Y price reduction drags Tesla stock down 2.78% on Tuesday - Traders Union,TSLA,Google RSS,negative,-0.9709229469299316
+2026-05-20 07:43:04,TSLA stock rises overnight: Elon Musk drops 'quiet period' hint amid Tesla-SpaceX merger buzz - MSN,TSLA,Google RSS,negative,-0.5746868848800659
+2026-05-20 22:26:06,Tesla stock (US88160R1014): investors weigh latest delivery trends and price cuts - AD HOC NEWS,TSLA,Google RSS,neutral,0.0
+2026-05-20 18:53:52,After Watching Mega Caps Drive Every Bull Market This Decade These 3 Growth ETFs Keep Rising to the Top of My Research,TSLA,Yahoo RSS,neutral,0.0
+2026-05-20 07:09:28,Meta (META) Stock; Slips as Global Layoffs Overshadow Strong Shift Toward AI Teams - CoinCentral,META,Google RSS,negative,-0.9612434506416321
+2026-05-21 04:04:10,"US energy storage additions hit a first-quarter record, report shows",META,Yahoo RSS,positive,0.9031494855880737
+2026-05-20 18:53:52,After Watching Mega Caps Drive Every Bull Market This Decade These 3 Growth ETFs Keep Rising to the Top of My Research,META,Yahoo RSS,neutral,0.0
+2026-05-19 14:48:39,Netflix Stock Forecast: Analysts See Strong Upside Potential - TipRanks,NFLX,Google RSS,positive,0.8818963766098022
+2026-05-17 11:03:13,"Soltis Investment Advisors LLC Has $4.06 Million Stock Position in Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
+2026-05-19 12:05:28,"Stocks making the biggest moves premarket: Home Depot, Amer Sports, Blackstone, Alphabet & more",GOOGL,CNBC Finance,neutral,0.0
+2026-05-15 18:45:11,"Stocks making the biggest moves midday: Cerebras, Microsoft, ServiceNow, Papa John's & more",MSFT,CNBC Finance,neutral,0.0
+2026-05-19 17:02:02,3G Capital Exits Microsoft Stock in Major Portfolio Shift. MSFT Is Still One of the Best AI Plays Now.,MSFT,Yahoo Global,neutral,0.0
