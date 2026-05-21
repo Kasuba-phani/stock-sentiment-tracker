@@ -94,8 +94,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-21 14:48:52,Microsoft is market’s biggest drag as AI woes weigh down stock - The Mercury News,MSFT,Google RSS,negative,-0.903552234172821
 2026-05-21 20:33:00,"Stock Market Today: Dow Up 276 Points Despite Nvidia Fall; AI, Quantum Computing Stocks Jam (Live Coverage) - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
 2026-05-21 20:19:55,US stocks edge higher following the latest U-turn for oil prices - Union-Bulletin,NVDA,Google RSS,positive,0.7436076998710632
-2026-05-21 02:24:59,US stocks slip after oil prices rise and Nvidia gets a yawn to its latest blowout profit report - ClickOnDetroit | WDIV Local 4,NVDA,Google RSS,negative,-0.9463567137718201
+2026-05-21 02:24:59,US stocks slip after oil prices rise and Nvidia gets a yawn to its latest blowout profit report - ClickOnDetroit | WDIV Local 4,NVDA,Google RSS,negative,-0.94635671377182
 2026-05-21 21:18:51,"Dow Jones Sets Closing High As Oil Prices Fall; Amazon, Credo Lead AI Stocks In Buy Areas",NVDA,Yahoo RSS,positive,0.7069538235664368
 2026-05-21 20:55:24,US stocks end volatile session higher as oil prices retreat,NVDA,Yahoo RSS,positive,0.6667301654815674
 2026-05-21 20:45:59,Dow Hits Record High Despite Nvidia's Decline; Oil Prices Fall,NVDA,Yahoo RSS,positive,0.6199663281440735
 2026-05-21 20:33:13,"Stock Market Today: Dow Up 276 Points Despite Nvidia Fall; AI, Quantum Computing Stocks Jam (Live Coverage)",NVDA,Yahoo RSS,positive,0.5205987095832825
+2026-05-21 22:14:00,"Dow Jones Sets Closing High As Oil Prices Fall; Amazon, Credo Lead AI Stocks In Buy Areas - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-05-21 22:13:00,"Small Caps Lead Stock Market Higher As Dow Rises To Record; Amazon, ASML, Tesla In Or Near Buy Zones - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-05-21 15:55:00,"Dow Jones sets closing high as oil prices fall; Amazon, Credo lead AI stocks in buy areas",AMZN,Bing RSS,positive,0.706953763961792
+2026-05-21 13:45:33,US stocks slip after oil prices rise and Nvidia’s latest profit report gets a yawn - Long Beach Press-Telegram,NVDA,Google RSS,negative,-0.931030809879303
