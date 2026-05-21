@@ -85,5 +85,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-21 12:14:09,Amazon (AMZN) Stock; Rises on $33B Southeast Asia AI and cloud push - MEXC Exchange,AMZN,Google RSS,positive,0.9425601363182068
 2026-05-21 16:15:21,Three S&P 500 Value ETFs Beating Some Growth Rivals in 2026 and Most Investors Are Still Looking the Other Way,AMZN,Yahoo RSS,positive,0.5446159243583679
 2026-05-21 16:15:21,Three S&P 500 Value ETFs Beating Some Growth Rivals in 2026 and Most Investors Are Still Looking the Other Way,MSFT,Yahoo RSS,positive,0.5446159243583679
-2026-05-21 00:29:19,"S&P 500, Nasdaq slip amid rising yields, oil prices; IBM surge caps losses in Dow - Investing.com",NVDA,Google RSS,negative,-0.9506039023399353
-2026-05-21 15:57:18,US stocks slip after oil prices rise and Nvidia's latest profit report gets a yawn - Marietta Daily Journal,NVDA,Google RSS,negative,-0.9544911980628967
+2026-05-21 00:29:19,"S&P 500, Nasdaq slip amid rising yields, oil prices; IBM surge caps losses in Dow - Investing.com",NVDA,Google RSS,negative,-0.9506039023399352
+2026-05-21 15:57:18,US stocks slip after oil prices rise and Nvidia's latest profit report gets a yawn - Marietta Daily Journal,NVDA,Google RSS,negative,-0.9544911980628968
+2026-05-21 20:10:54,Apple AAPL Stock Reaches $305 as Strong Fundamentals Offset Growing Supply Concerns - FXLeaders,AAPL,Google RSS,positive,0.9002290368080139
+2026-05-21 21:02:44,"Dow Jones hits record close as oil prices fall; Amazon, Credo lead AI stocks in buy areas - MSN",AMZN,Google RSS,positive,0.5721501708030701
+2026-05-21 21:18:51,"Dow Jones Sets Closing High As Oil Prices Fall; Amazon, Credo Lead AI Stocks In Buy Areas",AMZN,Yahoo RSS,positive,0.7069538235664368
+2026-05-21 19:09:00,Amazon’s Alexa for Shopping seen driving long-term retail growth,AMZN,Yahoo RSS,positive,0.7723693251609802
+2026-05-21 14:48:52,Microsoft is market’s biggest drag as AI woes weigh down stock - The Mercury News,MSFT,Google RSS,negative,-0.903552234172821
+2026-05-21 20:33:00,"Stock Market Today: Dow Up 276 Points Despite Nvidia Fall; AI, Quantum Computing Stocks Jam (Live Coverage) - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-05-21 20:19:55,US stocks edge higher following the latest U-turn for oil prices - Union-Bulletin,NVDA,Google RSS,positive,0.7436076998710632
+2026-05-21 02:24:59,US stocks slip after oil prices rise and Nvidia gets a yawn to its latest blowout profit report - ClickOnDetroit | WDIV Local 4,NVDA,Google RSS,negative,-0.9463567137718201
+2026-05-21 21:18:51,"Dow Jones Sets Closing High As Oil Prices Fall; Amazon, Credo Lead AI Stocks In Buy Areas",NVDA,Yahoo RSS,positive,0.7069538235664368
+2026-05-21 20:55:24,US stocks end volatile session higher as oil prices retreat,NVDA,Yahoo RSS,positive,0.6667301654815674
+2026-05-21 20:45:59,Dow Hits Record High Despite Nvidia's Decline; Oil Prices Fall,NVDA,Yahoo RSS,positive,0.6199663281440735
+2026-05-21 20:33:13,"Stock Market Today: Dow Up 276 Points Despite Nvidia Fall; AI, Quantum Computing Stocks Jam (Live Coverage)",NVDA,Yahoo RSS,positive,0.5205987095832825
