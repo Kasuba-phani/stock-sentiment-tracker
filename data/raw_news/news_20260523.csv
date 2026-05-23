@@ -33,4 +33,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-20 14:44:00,We're raising our price target on Nvidia after another knockout quarter and guide,NVDA,Bing RSS,positive,0.8224309086799622
 2026-05-22 19:04:00,"Dow Jones futures: Stock market rebounds to highs; Tesla, these five AI plays are at buy points",TSLA,Bing RSS,neutral,0.0
 2026-05-22 21:42:52,"Dow Jones futures: Stock market rebounds to highs; Tesla, these five AI plays are at buy points - MSN",TSLA,Google RSS,neutral,0.0
-2026-05-23 09:20:46,"AMD: Strong AI Sales, But the Win Is Already Priced In",META,Yahoo RSS,positive,0.9010787606239319
+2026-05-23 09:20:46,"AMD: Strong AI Sales, But the Win Is Already Priced In",META,Yahoo RSS,positive,0.901078760623932
+2026-05-23 12:05:00,A Billionaire Investor Just Increased His Exposure to Memory Makers Sandisk and Micron. Should Investors Buy the Stocks?,AMZN,Yahoo RSS,neutral,0.0
+2026-05-21 06:48:00,Microsoft is market’s biggest drag as AI woes weigh down stock,MSFT,Bing RSS,negative,-0.8502728343009949
+2026-05-23 13:00:58,CDL’s $2.29 annual dividend beats Treasury yields despite rising interest rates,NVDA,Yahoo RSS,positive,0.942321240901947
+2026-05-23 11:00:42,Tesla Inc (NASDAQ:TSLA) Shows Strong Growth and Technical Setup - ChartMill,TSLA,Google RSS,positive,0.9544342756271362
