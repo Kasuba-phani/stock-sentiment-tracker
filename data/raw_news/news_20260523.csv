@@ -38,3 +38,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-21 06:48:00,Microsoft is market’s biggest drag as AI woes weigh down stock,MSFT,Bing RSS,negative,-0.8502728343009949
 2026-05-23 13:00:58,CDL’s $2.29 annual dividend beats Treasury yields despite rising interest rates,NVDA,Yahoo RSS,positive,0.942321240901947
 2026-05-23 11:00:42,Tesla Inc (NASDAQ:TSLA) Shows Strong Growth and Technical Setup - ChartMill,TSLA,Google RSS,positive,0.9544342756271362
+2026-05-21 20:33:00,"Stock Market Today: Dow Up 276 Points Despite Nvidia Fall; AI, Quantum Computing Stocks Jam (Live Coverage) - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-05-23 14:43:54,PIMCO’s $20 Billion Bond ETF PYLD Just Posted 10% Returns While Index Funds Flatlined,NVDA,Yahoo RSS,negative,-0.5694700479507446
