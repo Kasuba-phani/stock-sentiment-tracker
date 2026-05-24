@@ -12,20 +12,27 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-23 15:43:41,"Amazon, GE Vernova Lead 5 Stocks Near Buy Points In Strong Market",AMZN,Yahoo RSS,positive,0.788385808467865
 2026-05-23 12:05:00,A Billionaire Investor Just Increased His Exposure to Memory Makers Sandisk and Micron. Should Investors Buy the Stocks?,AMZN,Yahoo RSS,neutral,0.0
 2026-05-20 18:51:00,This Famous Investor Just Sold All Of His Alphabet Stock and Loaded Up On Microsoft Stock. Should You? - The Motley Fool,MSFT,Google RSS,neutral,0.0
-2026-05-20 14:31:05,Microsoft stock holds steady as 23% earnings growth boosts outlook - Traders Union,MSFT,Google RSS,positive,0.9457637071609497
+2026-05-20 14:31:05,Microsoft stock holds steady as 23% earnings growth boosts outlook - Traders Union,MSFT,Google RSS,positive,0.9457637071609496
 2026-05-21 01:05:57,Stronger technical forecast for Microsoft stock price after Wednesday trading - StockInvest.us,MSFT,Google RSS,positive,0.8082835674285889
 2026-05-23 16:45:18,CDL’s $2.29 annual dividend beats Treasury yields despite rising interest rates,MSFT,Yahoo RSS,positive,0.942321240901947
 2026-05-21 20:33:00,"Stock Market Today: Dow Up 276 Points Despite Nvidia Fall; AI, Quantum Computing Stocks Jam (Live Coverage) - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
 2026-05-21 12:32:44,Nvidia bets on new data center chips for growth as sales outlook tops estimates - Reuters,NVDA,Google RSS,positive,0.8004227876663208
 2026-05-23 16:44:59,"Trending stocks this week as markets weigh rising Treasury yields, Nvidia earnings (COMP:IND:) (DJI:) - Seeking Alpha",NVDA,Google RSS,positive,0.7022217512130737
 2026-05-23 22:24:01,"Trending stocks this week as markets weigh rising Treasury yields, Nvidia earnings - MSN",NVDA,Google RSS,neutral,0.0
-2026-05-23 03:55:27,NVIDIA (NVDA) Stock Faces Setback Despite Strong Earnings Report - GuruFocus,NVDA,Google RSS,negative,-0.9531489610671997
+2026-05-23 03:55:27,NVIDIA (NVDA) Stock Faces Setback Despite Strong Earnings Report - GuruFocus,NVDA,Google RSS,negative,-0.9531489610671996
 2026-05-23 22:45:00,"Dow Jones Futures: Trump Says Iran Deal Near With Hormuz Opened'; Tesla, AI Stocks Near Buy Points - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
 2026-05-23 09:43:11,"Dow Jones futures: Stock market rebounds to highs; Tesla, these five AI plays are at buy points - MSN",TSLA,Google RSS,neutral,0.0
 2026-05-23 11:00:42,Tesla Inc (NASDAQ:TSLA) Shows Strong Growth and Technical Setup - ChartMill,TSLA,Google RSS,positive,0.9544342756271362
 2026-05-21 08:07:51,"Meta Platforms, Inc. $META Shares Acquired by Naples Global Advisors LLC - MarketBeat",META,Google RSS,neutral,0.0
-2026-05-23 09:20:46,"AMD: Strong AI Sales, But the Win Is Already Priced In",META,Yahoo RSS,positive,0.9010787606239319
+2026-05-23 09:20:46,"AMD: Strong AI Sales, But the Win Is Already Priced In",META,Yahoo RSS,positive,0.901078760623932
 2026-05-22 19:27:55,Instacart (CART) Expands Self-Serve Ads Manager to Retail Partners,META,Yahoo RSS,neutral,0.0
 2026-05-19 14:48:39,Netflix Stock Forecast: Analysts See Strong Upside Potential - TipRanks,NFLX,Google RSS,positive,0.8818963766098022
 2026-05-21 08:42:30,Is Netflix (NFLX) Ken Fisher’s Top Tech Pick on Ad Growth?,NFLX,Yahoo RSS,neutral,0.0
 2026-05-19 12:05:28,"Stocks making the biggest moves premarket: Home Depot, Amer Sports, Blackstone, Alphabet & more",GOOGL,CNBC Finance,neutral,0.0
+2026-05-19 22:56:00,"Apple Hanging Near All-Time High, Among 15 New To Best Growth Stock Lists - Investor's Business Daily",AAPL,Google RSS,positive,0.7014902830123901
+2026-05-23 15:43:00,"Amazon, GE Vernova Lead 5 Stocks Near Buy Points In Strong Market - Investor's Business Daily",AMZN,Google RSS,positive,0.8368618488311768
+2026-05-21 12:05:00,"Dow Jones Futures Fall As Oil Prices Top $100; Nvidia Wavers, Walmart Falls, SpaceX Files For Huge IPO - Investor's Business Daily",NVDA,Google RSS,negative,-0.8484535813331604
+2026-05-22 14:36:00,"Stock Market Rises, Dow Jones Hits New High; Nvidia, Walmart, SpaceX In Focus: Weekly Review - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-05-24 02:30:00,"As U.S. Markets Roar to Record All-Time Highs, ELEKTROS Gains Global Recognition Among Microcap and Penny Stock Investors for Its Vision of Hard Rock Lithium Mining and EV Patent Technology",TSLA,Yahoo RSS,positive,0.9017893671989441
+2026-05-24 01:30:00,ELEKTROS Gains Strong Friday Momentum as Global Microcap and Penny Stock Investors Continue Discovering the Company's Vision for Hard Rock Lithium Mining and EV Patent Technology,TSLA,Yahoo RSS,positive,0.9473440051078796
+2026-05-24 01:00:00,ELEKTROS Celebrates Strong Friday Momentum as U.S. Markets Continue Rallying to Historic Highs - Management Believes the Current Market Environment Resembles the Energy and Excitement of the Dot-Com Boom Era as More Penny Stock and Microcap Investors Worldwide Discover the Company's Vision,TSLA,Yahoo RSS,positive,0.9317227005958557
