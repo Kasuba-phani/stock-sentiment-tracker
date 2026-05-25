@@ -37,3 +37,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-25 08:30:43,NVIDIA CORP (NASDAQ:NVDA) Stands Out as a Strong Growth Stock with a Good Technical Setup - ChartMill,NVDA,Google RSS,positive,0.9111457467079164
 2026-05-21 06:48:00,Microsoft is market’s biggest drag as AI woes weigh down stock,MSFT,Bing RSS,negative,-0.8502728343009949
 2026-05-25 10:13:03,"New Age Alpha Advisors LLC Purchases 6,931 Shares of Tesla, Inc. $TSLA - MarketBeat",TSLA,Google RSS,neutral,0.0
+2026-05-25 14:47:10,"Does a 2,400% dividend increase signal Nvidia stock’s growth prospects are slowing? - twelfthmagpie.com",NVDA,Google RSS,negative,-0.6102888584136963
+2026-05-19 09:23:00,"Nvidia Stock May or May Not Soar on May 20, But This Super AI Semiconductor Stock Could Pop and Go On a Terrific Bull Run - The Motley Fool",NVDA,Google RSS,neutral,0.0
+2026-05-23 03:55:27,NVIDIA (NVDA) Stock Faces Setback Despite Strong Earnings Report - GuruFocus,NVDA,Google RSS,negative,-0.9531489610671997
+2026-05-25 15:19:00,"Dow Jones Futures Rise, Oil Prices Dive On Iran Deal Hopes; Trump Says No 'Rush' - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
