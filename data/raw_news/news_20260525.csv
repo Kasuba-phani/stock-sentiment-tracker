@@ -10,7 +10,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-20 14:07:00,Amazon Stock (AMZN) Opinions on Strong AWS Growth Amid Valuation Discussions - Quiver Quantitative,AMZN,Google RSS,positive,0.726513683795929
 2026-05-24 21:38:00,This Billionaire Dumped Cloud Stocks for These New AI Stocks. Should Investors Follow Suit?,AMZN,Yahoo RSS,neutral,0.0
 2026-05-20 18:51:00,This Famous Investor Just Sold All Of His Alphabet Stock and Loaded Up On Microsoft Stock. Should You? - The Motley Fool,MSFT,Google RSS,neutral,0.0
-2026-05-20 14:31:05,Microsoft stock holds steady as 23% earnings growth boosts outlook - Traders Union,MSFT,Google RSS,positive,0.9457637071609497
+2026-05-20 14:31:05,Microsoft stock holds steady as 23% earnings growth boosts outlook - Traders Union,MSFT,Google RSS,positive,0.9457637071609496
 2026-05-21 01:05:57,Stronger technical forecast for Microsoft stock price after Wednesday trading - StockInvest.us,MSFT,Google RSS,positive,0.8082835674285889
 2026-05-24 06:30:00,Microsoft (MSFT): One of the Best Long-Term Stocks to Buy Now for High Returns,MSFT,Bing RSS,positive,0.7809590697288513
 2026-05-24 21:38:00,This Billionaire Dumped Cloud Stocks for These New AI Stocks. Should Investors Follow Suit?,MSFT,Yahoo RSS,neutral,0.0
@@ -24,10 +24,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-25 03:09:00,"Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
 2026-05-23 09:33:45,"Dow Jones futures: Stock market rebounds to highs; Tesla, these five AI plays are at buy points - MSN",TSLA,Google RSS,neutral,0.0
 2026-05-24 16:00:00,ELEKTROS Inc. Celebrates Booming U.S. Markets and Friday's 7.96% Gain As Growing Numbers of Penny Stock and Microcap Investors Worldwide Discover the Company's Vision for Hard Rock Lithium Mining and Advanced EV Patent Technology,TSLA,Yahoo RSS,positive,0.9154760837554932
-2026-05-24 02:30:00,"As U.S. Markets Roar to Record All-Time Highs, ELEKTROS Gains Global Recognition Among Microcap and Penny Stock Investors for Its Vision of Hard Rock Lithium Mining and EV Patent Technology",TSLA,Yahoo RSS,positive,0.9017893671989441
+2026-05-24 02:30:00,"As U.S. Markets Roar to Record All-Time Highs, ELEKTROS Gains Global Recognition Among Microcap and Penny Stock Investors for Its Vision of Hard Rock Lithium Mining and EV Patent Technology",TSLA,Yahoo RSS,positive,0.901789367198944
 2026-05-24 01:30:00,ELEKTROS Gains Strong Friday Momentum as Global Microcap and Penny Stock Investors Continue Discovering the Company's Vision for Hard Rock Lithium Mining and EV Patent Technology,TSLA,Yahoo RSS,positive,0.9473440051078796
-2026-05-24 01:00:00,ELEKTROS Celebrates Strong Friday Momentum as U.S. Markets Continue Rallying to Historic Highs - Management Believes the Current Market Environment Resembles the Energy and Excitement of the Dot-Com Boom Era as More Penny Stock and Microcap Investors Worldwide Discover the Company's Vision,TSLA,Yahoo RSS,positive,0.9317227005958557
-2026-05-24 17:19:55,Meta stock dips 6% YTD but analysts remain bullish on AI-driven growth potential. - Pluang,META,Google RSS,negative,-0.9226313829421997
+2026-05-24 01:00:00,ELEKTROS Celebrates Strong Friday Momentum as U.S. Markets Continue Rallying to Historic Highs - Management Believes the Current Market Environment Resembles the Energy and Excitement of the Dot-Com Boom Era as More Penny Stock and Microcap Investors Worldwide Discover the Company's Vision,TSLA,Yahoo RSS,positive,0.9317227005958556
+2026-05-24 17:19:55,Meta stock dips 6% YTD but analysts remain bullish on AI-driven growth potential. - Pluang,META,Google RSS,negative,-0.9226313829421996
 2026-05-21 08:07:51,"Meta Platforms, Inc. $META Shares Acquired by Naples Global Advisors LLC - MarketBeat",META,Google RSS,neutral,0.0
 2026-05-21 08:42:30,Is Netflix (NFLX) Ken Fisher’s Top Tech Pick on Ad Growth?,NFLX,Yahoo RSS,neutral,0.0
 2026-05-19 12:05:28,"Stocks making the biggest moves premarket: Home Depot, Amer Sports, Blackstone, Alphabet & more",GOOGL,CNBC Finance,neutral,0.0
+2026-05-24 21:20:19,Bank of America resets Microsoft stock forecast ahead of earnings - AOL.com,MSFT,Google RSS,neutral,0.0
+2026-05-22 22:00:59,Top Analysts Remain Bullish on Nvidia Stock (NVDA) Despite Post-Earnings Noise; See Solid Upside - TipRanks,NVDA,Google RSS,negative,-0.4789973199367523
+2026-05-25 01:54:53,Has NVIDIA and other AI stocks caused the Nasdaq to become overvalued? (Hint: not even close!) - Market Index,NVDA,Google RSS,negative,-0.8059452176094055
+2026-05-25 08:30:43,NVIDIA CORP (NASDAQ:NVDA) Stands Out as a Strong Growth Stock with a Good Technical Setup - ChartMill,NVDA,Google RSS,positive,0.9111457467079163
