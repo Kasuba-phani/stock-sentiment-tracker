@@ -38,3 +38,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-26 14:24:35,Micron stock surges as UBS triples price target on AI demand,TSLA,Yahoo RSS,positive,0.4536665380001068
 2026-05-26 10:36:44,"Stocks Set to Open Higher as U.S.-Iran Peace Hopes Hold, PCE Inflation Data and Fed Speak Awaited",TSLA,Yahoo RSS,positive,0.7056068181991577
 2026-05-26 14:24:35,Micron stock surges as UBS triples price target on AI demand,META,Yahoo RSS,positive,0.4536665380001068
+2026-05-26 09:33:10,Apple stock hits all-time high as analysts see AI-driven breakout,AAPL,Bing RSS,positive,0.6955924034118652
+2026-05-26 19:36:00,Microsoft Stock Blues Persist Despite Earnings Beat; Is Microsoft A Sell Now? - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
+2026-05-26 14:49:27,"‘Don’t Miss This Gift,’ Says Top Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-05-26 19:36:40,Microsoft Stock Blues Persist Despite Earnings Beat; Is Microsoft A Sell Now?,MSFT,Yahoo RSS,negative,-0.911747932434082
