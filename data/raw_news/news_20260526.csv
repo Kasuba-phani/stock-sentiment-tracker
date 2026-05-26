@@ -24,3 +24,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-26 07:20:00,3 Blue Chip Dividend Stocks to Buy in June as the Dow Jones Industrial Average Turns 130,AMZN,Yahoo RSS,neutral,0.0
 2026-05-26 07:20:00,3 Blue Chip Dividend Stocks to Buy in June as the Dow Jones Industrial Average Turns 130,NVDA,Yahoo RSS,neutral,0.0
 2026-05-26 12:00:00,"Quantum Stocks Surge On U.S. Funding. Were Google, Microsoft, IonQ Snubbed? - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-05-26 16:33:10,Apple stock hits all-time high as analysts see AI-driven breakout - TradingView,AAPL,Google RSS,positive,0.601620078086853
+2026-05-26 14:24:35,Micron stock surges as UBS triples price target on AI demand,AAPL,Yahoo RSS,positive,0.4536665380001068
+2026-05-26 11:02:48,Strong corporate earnings may not be what they appear - Axios,GOOGL,Google RSS,positive,0.3969252407550812
+2026-05-26 14:24:35,Micron stock surges as UBS triples price target on AI demand,GOOGL,Yahoo RSS,positive,0.4536665380001068
+2026-05-26 16:47:49,Dow Hits Fresh Record High as Iran Easing Hopes Lift Stocks,AMZN,Yahoo RSS,positive,0.7686693668365479
+2026-05-26 14:24:35,Micron stock surges as UBS triples price target on AI demand,AMZN,Yahoo RSS,positive,0.4536665380001068
+2026-05-26 15:21:30,Microsoft stock price trading near $419 ahead of Fed decision week - eciks.org,MSFT,Google RSS,neutral,0.0
+2026-05-26 14:24:35,Micron stock surges as UBS triples price target on AI demand,MSFT,Yahoo RSS,positive,0.4536665380001068
+2026-05-26 14:12:33,Nvidia stock price climbs to $214-$218 range as AI demand drives growth - eciks.org,NVDA,Google RSS,neutral,0.0
+2026-05-26 16:47:49,Dow Hits Fresh Record High as Iran Easing Hopes Lift Stocks,NVDA,Yahoo RSS,positive,0.7686693668365479
+2026-05-26 11:17:21,TSLA stock trades near $430 as Tesla rallies 11.8% since latest earnings report - eciks.org,TSLA,Google RSS,positive,0.8732368350028992
+2026-05-26 14:24:35,Micron stock surges as UBS triples price target on AI demand,TSLA,Yahoo RSS,positive,0.4536665380001068
+2026-05-26 10:36:44,"Stocks Set to Open Higher as U.S.-Iran Peace Hopes Hold, PCE Inflation Data and Fed Speak Awaited",TSLA,Yahoo RSS,positive,0.7056068181991577
+2026-05-26 14:24:35,Micron stock surges as UBS triples price target on AI demand,META,Yahoo RSS,positive,0.4536665380001068
