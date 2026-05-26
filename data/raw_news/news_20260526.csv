@@ -42,3 +42,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-26 19:36:00,Microsoft Stock Blues Persist Despite Earnings Beat; Is Microsoft A Sell Now? - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
 2026-05-26 14:49:27,"‘Don’t Miss This Gift,’ Says Top Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
 2026-05-26 19:36:40,Microsoft Stock Blues Persist Despite Earnings Beat; Is Microsoft A Sell Now?,MSFT,Yahoo RSS,negative,-0.911747932434082
+2026-05-26 21:36:51,"Stock Market Today, May 26: Soaring Tech Stocks Push S&P 500 and Nasdaq to New Highs",GOOGL,Yahoo RSS,positive,0.9162940382957458
+2026-05-26 19:31:25,"Tesla Investor Shares How Retail Investors Can Participate In Blockbuster SpaceX IPO Via Robinhood, Sofi",TSLA,Yahoo RSS,neutral,0.0
