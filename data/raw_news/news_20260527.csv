@@ -20,9 +20,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-24 17:19:55,Meta stock dips 6% YTD but analysts remain bullish on AI-driven growth potential. - Pluang,META,Google RSS,negative,-0.9226313829421996
 2026-05-26 14:24:35,Micron stock surges as UBS triples price target on AI demand,META,Yahoo RSS,positive,0.4536665380001068
 2026-05-22 15:19:47,"Apple stock hits all-time high, reaching 311.18 USD - Investing.com",AAPL,Google RSS,neutral,0.0
-2026-05-26 21:16:48,Stop Looking at Earnings: The Real Threat to AI Stocks Is the Collapse of Compute Prices,GOOGL,Yahoo RSS,negative,-0.9287824630737305
-2026-05-26 21:16:48,Stop Looking at Earnings: The Real Threat to AI Stocks Is the Collapse of Compute Prices,AMZN,Yahoo RSS,negative,-0.9287824630737305
+2026-05-26 21:16:48,Stop Looking at Earnings: The Real Threat to AI Stocks Is the Collapse of Compute Prices,GOOGL,Yahoo RSS,negative,-0.9287824630737304
+2026-05-26 21:16:48,Stop Looking at Earnings: The Real Threat to AI Stocks Is the Collapse of Compute Prices,AMZN,Yahoo RSS,negative,-0.9287824630737304
 2026-05-26 18:16:56,"Walmart’s Fastest-Growing Business Isn’t Retail, but It Still Needs to Justify Its Premium Valuation",AMZN,Yahoo RSS,neutral,0.0
-2026-05-26 21:16:48,Stop Looking at Earnings: The Real Threat to AI Stocks Is the Collapse of Compute Prices,MSFT,Yahoo RSS,negative,-0.9287824630737305
+2026-05-26 21:16:48,Stop Looking at Earnings: The Real Threat to AI Stocks Is the Collapse of Compute Prices,MSFT,Yahoo RSS,negative,-0.9287824630737304
 2026-05-26 14:34:17,17 New 4-Star Stocks This Week - Morningstar,NVDA,Google RSS,neutral,0.0
-2026-05-26 21:16:48,Stop Looking at Earnings: The Real Threat to AI Stocks Is the Collapse of Compute Prices,META,Yahoo RSS,negative,-0.9287824630737305
+2026-05-26 21:16:48,Stop Looking at Earnings: The Real Threat to AI Stocks Is the Collapse of Compute Prices,META,Yahoo RSS,negative,-0.9287824630737304
+2026-05-20 18:51:00,This Famous Investor Just Sold All Of His Alphabet Stock and Loaded Up On Microsoft Stock. Should You? - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-05-26 02:55:00,"Dow Jones Futures Rise, Oil Prices Dive On Iran Deal Hopes; Tesla, 5 AI Stocks Near Buy Points - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-05-27 05:27:39,HIMS stock heads for weekly loss — but ex-Netflix CFO is buying the dip despite BofA’s GLP-1 warning - MSN,NFLX,Google RSS,negative,-0.9261945486068726
