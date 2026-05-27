@@ -17,5 +17,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-26 11:17:21,TSLA stock trades near $430 as Tesla rallies 11.8% since latest earnings report - eciks.org,TSLA,Google RSS,positive,0.8732368350028992
 2026-05-26 19:31:25,"Tesla Investor Shares How Retail Investors Can Participate In Blockbuster SpaceX IPO Via Robinhood, Sofi",TSLA,Yahoo RSS,neutral,0.0
 2026-05-26 14:24:35,Micron stock surges as UBS triples price target on AI demand,TSLA,Yahoo RSS,positive,0.4536665380001068
-2026-05-24 17:19:55,Meta stock dips 6% YTD but analysts remain bullish on AI-driven growth potential. - Pluang,META,Google RSS,negative,-0.9226313829421997
+2026-05-24 17:19:55,Meta stock dips 6% YTD but analysts remain bullish on AI-driven growth potential. - Pluang,META,Google RSS,negative,-0.9226313829421996
 2026-05-26 14:24:35,Micron stock surges as UBS triples price target on AI demand,META,Yahoo RSS,positive,0.4536665380001068
+2026-05-22 15:19:47,"Apple stock hits all-time high, reaching 311.18 USD - Investing.com",AAPL,Google RSS,neutral,0.0
+2026-05-26 21:16:48,Stop Looking at Earnings: The Real Threat to AI Stocks Is the Collapse of Compute Prices,GOOGL,Yahoo RSS,negative,-0.9287824630737305
+2026-05-26 21:16:48,Stop Looking at Earnings: The Real Threat to AI Stocks Is the Collapse of Compute Prices,AMZN,Yahoo RSS,negative,-0.9287824630737305
+2026-05-26 18:16:56,"Walmart’s Fastest-Growing Business Isn’t Retail, but It Still Needs to Justify Its Premium Valuation",AMZN,Yahoo RSS,neutral,0.0
+2026-05-26 21:16:48,Stop Looking at Earnings: The Real Threat to AI Stocks Is the Collapse of Compute Prices,MSFT,Yahoo RSS,negative,-0.9287824630737305
+2026-05-26 14:34:17,17 New 4-Star Stocks This Week - Morningstar,NVDA,Google RSS,neutral,0.0
+2026-05-26 21:16:48,Stop Looking at Earnings: The Real Threat to AI Stocks Is the Collapse of Compute Prices,META,Yahoo RSS,negative,-0.9287824630737305
