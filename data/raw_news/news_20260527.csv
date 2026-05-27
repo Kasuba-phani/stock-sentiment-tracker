@@ -31,4 +31,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-27 05:27:39,HIMS stock heads for weekly loss — but ex-Netflix CFO is buying the dip despite BofA’s GLP-1 warning - MSN,NFLX,Google RSS,negative,-0.9261945486068726
 2026-05-27 11:18:04,Alphabet Inc. Class C stock (US02079K1079): AI investments and cloud momentum under investor scrutin - AD HOC NEWS,GOOGL,Google RSS,neutral,0.0
 2026-05-27 10:41:44,"Social Buzz: Wallstreetbets Stocks Mostly Advancing Pre-Bell Wednesday; Intuitive Machines, Rocket Lab to Open Higher",MSFT,Yahoo RSS,neutral,0.0
-2026-05-27 04:56:00,Tesla Logs Strong Growth in European Monthly Sales,TSLA,Yahoo RSS,positive,0.9554156064987183
+2026-05-27 04:56:00,Tesla Logs Strong Growth in European Monthly Sales,TSLA,Yahoo RSS,positive,0.9554156064987184
+2026-05-27 18:00:00,The next phase of the bull market,GOOGL,Yahoo RSS,neutral,0.0
+2026-05-27 15:04:00,"$20+ Bn AI Voice Generator Market by Voice Generation Platform, Technology, Application - Global Forecast to 2031 with Google, Microsoft, IBM, AWS, Adobe, NVIDIA, Meta, OpenAI Leading",GOOGL,Yahoo RSS,positive,0.51276695728302
+2026-05-27 14:39:00,UBS reiterates Amazon stock Buy rating on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-05-27 15:04:00,"$20+ Bn AI Voice Generator Market by Voice Generation Platform, Technology, Application - Global Forecast to 2031 with Google, Microsoft, IBM, AWS, Adobe, NVIDIA, Meta, OpenAI Leading",MSFT,Yahoo RSS,positive,0.51276695728302
+2026-05-27 18:00:00,The next phase of the bull market,NVDA,Yahoo RSS,neutral,0.0
+2026-05-27 16:18:51,Tesla stock (US88160R1014): investors weigh latest price rebound and delivery outlook - AD HOC NEWS,TSLA,Google RSS,neutral,0.0
+2026-05-27 15:04:00,"$20+ Bn AI Voice Generator Market by Voice Generation Platform, Technology, Application - Global Forecast to 2031 with Google, Microsoft, IBM, AWS, Adobe, NVIDIA, Meta, OpenAI Leading",META,Yahoo RSS,positive,0.51276695728302
