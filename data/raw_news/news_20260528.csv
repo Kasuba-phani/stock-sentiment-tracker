@@ -1,0 +1,17 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-05-26 16:33:10,Apple stock hits all-time high as analysts see AI-driven breakout - TradingView,AAPL,Google RSS,positive,0.6016198992729187
+2026-05-26 09:33:10,Apple stock hits all-time high as analysts see AI-driven breakout,AAPL,Bing RSS,positive,0.6955924034118652
+2026-05-27 18:00:00,The next phase of the bull market,GOOGL,Yahoo RSS,neutral,0.0
+2026-05-27 14:39:00,UBS reiterates Amazon stock Buy rating on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-05-23 15:43:00,"Amazon, GE Vernova Lead 5 Stocks Near Buy Points In Strong Market - Investor's Business Daily",AMZN,Google RSS,positive,0.8368610143661499
+2026-05-27 13:55:00,Snowflake stock jumps 34%. How Amazon and an earnings beat are fueling the gains.,AMZN,Bing RSS,positive,0.925304114818573
+2026-05-28 03:11:08,"Dow Jones Futures Waver, Snowflake Surges On Earnings; Fed Inflation Data Due",AMZN,Yahoo RSS,negative,-0.47795677185058594
+2026-05-26 19:36:00,Microsoft Stock Blues Persist Despite Earnings Beat; Is Microsoft A Sell Now? - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
+2026-05-26 15:21:30,Microsoft stock price trading near $419 ahead of Fed decision week - eciks.org,MSFT,Google RSS,neutral,0.0
+2026-05-26 12:00:00,"Quantum Stocks Surge On U.S. Funding. Were Google, Microsoft, IonQ Snubbed? - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-05-27 23:54:55,Microsoft Corporation stock (US5949181045): AI momentum meets fresh financial milestones - AD HOC NEWS,MSFT,Google RSS,positive,0.9182043075561523
+2026-05-27 22:13:00,Bond Yields Are Spiking Higher. Should Stock Investors Worry?,NVDA,Yahoo RSS,negative,-0.565900981426239
+2026-05-26 11:17:21,TSLA stock trades near $430 as Tesla rallies 11.8% since latest earnings report - eciks.org,TSLA,Google RSS,positive,0.873236894607544
+2026-05-27 19:31:51,Sector Update: Consumer Stocks Rise Late Afternoon,TSLA,Yahoo RSS,positive,0.7561114430427551
+2026-05-24 17:19:55,Meta stock dips 6% YTD but analysts remain bullish on AI-driven growth potential. - Pluang,META,Google RSS,negative,-0.9226315021514893
+2026-05-27 05:27:55,HIMS stock heads for weekly loss — but ex-Netflix CFO is buying the dip despite BofA’s GLP-1 warning - MSN,NFLX,Google RSS,negative,-0.9261946678161621
