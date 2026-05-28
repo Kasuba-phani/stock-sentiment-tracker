@@ -37,6 +37,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-28 15:40:37,ETFs Were Built to Make Investing Easier. They May Also Make Crashes Faster,META,Yahoo RSS,neutral,0.0
 2026-05-28 16:23:13,Looking for Cloud Stocks? Use This Zacks Tool - The Globe and Mail,GOOGL,Google RSS,neutral,0.0
 2026-05-28 18:40:42,"Stock Market Today, May 28: Tech Stocks Rise as Snowflake Surges After $6 Billion Amazon Deal and Strong Earnings - The Motley Fool",AMZN,Google RSS,positive,0.9147170186042786
-2026-05-28 11:32:00,"Stock Market Today, May 28: Tech Stocks Rise as Snowflake Surges After $6 Billion Amazon Deal and Strong Earnings",AMZN,Bing RSS,positive,0.9198790788650513
-2026-05-28 18:26:10,"Stock Market Today, May 28: Tech Stocks Rise as Snowflake Surges After $6 Billion Amazon Deal and Strong Earnings",MSFT,Yahoo RSS,positive,0.9198790788650513
+2026-05-28 11:32:00,"Stock Market Today, May 28: Tech Stocks Rise as Snowflake Surges After $6 Billion Amazon Deal and Strong Earnings",AMZN,Bing RSS,positive,0.9198790788650512
+2026-05-28 18:26:10,"Stock Market Today, May 28: Tech Stocks Rise as Snowflake Surges After $6 Billion Amazon Deal and Strong Earnings",MSFT,Yahoo RSS,positive,0.9198790788650512
 2026-05-28 17:40:28,"Stocks In AI Bottleneck Soar 1,000%. Now Nvidia Is Demanding 20X More Supply - 24/7 Wall St.",NVDA,Google RSS,neutral,0.0
+2026-05-28 14:12:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",MSFT,Bing RSS,neutral,0.0
+2026-05-28 21:12:00,Synopsys Was the Worst S&P 500 Stock Thursday Despite Earnings Beat With AI and Merger in Focus,NVDA,Yahoo RSS,negative,-0.9713708162307739
+2026-05-28 11:54:19,How is Tesla's stock performance compared to other consumer cyclical stocks?,TSLA,Bing RSS,neutral,0.0
