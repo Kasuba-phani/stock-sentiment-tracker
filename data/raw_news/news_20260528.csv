@@ -23,5 +23,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-28 12:08:00,"Dow Jones Futures Fall, Snowflake Surges On Earnings; Fed Inflation Data Due - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
 2026-05-27 23:15:00,"Snowflake’s stock blasts off, fueled by AI acceleration and deeper Amazon partnership - MarketWatch",AMZN,Google RSS,negative,-0.6322225332260132
 2026-05-28 12:08:16,"Dow Jones Futures Fall, Snowflake Surges On Earnings; Fed Inflation Data Due",AMZN,Yahoo RSS,negative,-0.7310915589332581
-2026-05-28 04:40:00,Tesla stock drops. 5-day winning streak at risk amid AI fog,TSLA,Bing RSS,negative,-0.9414365291595459
+2026-05-28 04:40:00,Tesla stock drops. 5-day winning streak at risk amid AI fog,TSLA,Bing RSS,negative,-0.941436529159546
 2026-05-28 12:23:00,"Snowflake’s stock blasts off, fueled by AI acceleration and deeper Amazon partnership",AMZN,MarketWatch Top,negative,-0.7314653992652893
+2026-05-28 15:40:37,ETFs Were Built to Make Investing Easier. They May Also Make Crashes Faster,AAPL,Yahoo RSS,neutral,0.0
+2026-05-28 15:40:37,ETFs Were Built to Make Investing Easier. They May Also Make Crashes Faster,GOOGL,Yahoo RSS,neutral,0.0
+2026-05-28 15:15:00,Looking for Cloud Stocks? Use This Zacks Tool,GOOGL,Yahoo RSS,neutral,0.0
+2026-05-28 15:43:00,Top Bank Says Ethereum’s Slump May Be Masking Major Upside,AMZN,Yahoo RSS,negative,-0.9409363865852356
+2026-05-28 15:40:37,ETFs Were Built to Make Investing Easier. They May Also Make Crashes Faster,AMZN,Yahoo RSS,neutral,0.0
+2026-05-28 16:22:53,"Microsoft: Not Cheap, But Shares Can Still Move Higher (NASDAQ:MSFT) - Seeking Alpha",MSFT,Google RSS,positive,0.7428572177886963
+2026-05-28 15:40:37,ETFs Were Built to Make Investing Easier. They May Also Make Crashes Faster,MSFT,Yahoo RSS,neutral,0.0
+2026-05-28 15:10:06,Nvidia stock trades flat despite $1 trillion sales target as ‘market expects Nvidia to keep beating expectations’ - MSN,NVDA,Google RSS,negative,-0.8944893479347229
+2026-05-28 15:40:37,ETFs Were Built to Make Investing Easier. They May Also Make Crashes Faster,NVDA,Yahoo RSS,neutral,0.0
+2026-05-28 15:40:37,ETFs Were Built to Make Investing Easier. They May Also Make Crashes Faster,META,Yahoo RSS,neutral,0.0
