@@ -19,3 +19,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-28 08:29:07,"Tesla, Inc. (NASDAQ:TSLA) Receives Average Recommendation of ""Hold"" from Analysts - MarketBeat",TSLA,Google RSS,positive,0.8995442390441895
 2026-05-27 12:06:46,Meta stock is rising today — is its reported new AI subscription push driving gains?,META,Bing RSS,positive,0.7762011885643005
 2026-05-28 06:28:58,"Netflix stock (US64110L1061): After Q1 2026 earnings, investors weigh slowing growth against cash fl - AD HOC NEWS",NFLX,Google RSS,negative,-0.7503557801246643
+2026-05-28 12:10:46,Bath & Body Works Stock Surged Despite Falling Sales—Here’s Why - MarketBeat,AMZN,Google RSS,negative,-0.5558232069015503
+2026-05-28 12:08:00,"Dow Jones Futures Fall, Snowflake Surges On Earnings; Fed Inflation Data Due - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-05-27 23:15:00,"Snowflake’s stock blasts off, fueled by AI acceleration and deeper Amazon partnership - MarketWatch",AMZN,Google RSS,negative,-0.6322225332260132
+2026-05-28 12:08:16,"Dow Jones Futures Fall, Snowflake Surges On Earnings; Fed Inflation Data Due",AMZN,Yahoo RSS,negative,-0.7310915589332581
+2026-05-28 04:40:00,Tesla stock drops. 5-day winning streak at risk amid AI fog,TSLA,Bing RSS,negative,-0.9414365291595459
+2026-05-28 12:23:00,"Snowflake’s stock blasts off, fueled by AI acceleration and deeper Amazon partnership",AMZN,MarketWatch Top,negative,-0.7314653992652893
