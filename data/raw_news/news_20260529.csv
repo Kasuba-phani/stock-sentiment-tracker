@@ -8,7 +8,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-27 14:39:00,UBS reiterates Amazon stock Buy rating on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
 2026-05-28 12:10:46,Bath & Body Works Stock Surged Despite Falling Sales—Here’s Why - MarketBeat,AMZN,Google RSS,negative,-0.5558232069015503
 2026-05-27 23:15:00,"Snowflake’s stock blasts off, fueled by AI acceleration and deeper Amazon partnership - MarketWatch",AMZN,Google RSS,negative,-0.6322225332260132
-2026-05-28 13:06:00,"Stock Market Today, May 28: Tech Stocks Rise as Snowflake Surges After $6 Billion Amazon Deal and Strong Earnings",AMZN,Bing RSS,positive,0.9198790788650513
+2026-05-28 13:06:00,"Stock Market Today, May 28: Tech Stocks Rise as Snowflake Surges After $6 Billion Amazon Deal and Strong Earnings",AMZN,Bing RSS,positive,0.9198790788650512
 2026-05-28 12:51:00,"Snowflake’s stock blasts off, fueled by AI acceleration and deeper Amazon partnership",AMZN,Bing RSS,negative,-0.7314653992652893
 2026-05-29 03:38:20,Dell shares rocket on bullish forecast for AI demand,AMZN,Yahoo RSS,positive,0.8763071298599243
 2026-05-26 19:36:00,Microsoft Stock Blues Persist Despite Earnings Beat; Is Microsoft A Sell Now? - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
@@ -17,7 +17,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-26 12:00:00,"Quantum Stocks Surge On U.S. Funding. Were Google, Microsoft, IonQ Snubbed? - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
 2026-05-28 14:12:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",MSFT,Bing RSS,neutral,0.0
 2026-05-29 00:50:32,Here’s Why Microsoft (MSFT) is Among the 12 Strong Buy Stocks to Buy and Hold for the Next 5 Years,MSFT,Yahoo RSS,neutral,0.0
-2026-05-28 18:26:10,"Stock Market Today, May 28: Tech Stocks Rise as Snowflake Surges After $6 Billion Amazon Deal and Strong Earnings",MSFT,Yahoo RSS,positive,0.9198790788650513
+2026-05-28 18:26:10,"Stock Market Today, May 28: Tech Stocks Rise as Snowflake Surges After $6 Billion Amazon Deal and Strong Earnings",MSFT,Yahoo RSS,positive,0.9198790788650512
 2026-05-28 17:40:28,"Stocks In AI Bottleneck Soar 1,000%. Now Nvidia Is Demanding 20X More Supply - 24/7 Wall St.",NVDA,Google RSS,neutral,0.0
-2026-05-28 13:42:00,Tesla stock drops. 5-day winning streak at risk amid AI fog,TSLA,Bing RSS,negative,-0.9414365291595459
+2026-05-28 13:42:00,Tesla stock drops. 5-day winning streak at risk amid AI fog,TSLA,Bing RSS,negative,-0.941436529159546
 2026-05-28 15:40:37,ETFs Were Built to Make Investing Easier. They May Also Make Crashes Faster,META,Yahoo RSS,neutral,0.0
+2026-05-28 15:15:00,Looking for Cloud Stocks? Use This Zacks Tool - TradingView,GOOGL,Google RSS,neutral,0.0
+2026-05-29 08:26:00,Treasury Yields Are Soaring -- and That's Not a Coincidence With Kevin Warsh Now Leading the Federal Reserve,NVDA,Yahoo RSS,neutral,0.0
