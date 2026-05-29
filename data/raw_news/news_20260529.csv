@@ -23,3 +23,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-28 15:40:37,ETFs Were Built to Make Investing Easier. They May Also Make Crashes Faster,META,Yahoo RSS,neutral,0.0
 2026-05-28 15:15:00,Looking for Cloud Stocks? Use This Zacks Tool - TradingView,GOOGL,Google RSS,neutral,0.0
 2026-05-29 08:26:00,Treasury Yields Are Soaring -- and That's Not a Coincidence With Kevin Warsh Now Leading the Federal Reserve,NVDA,Yahoo RSS,neutral,0.0
+2026-05-29 10:34:40,"Dell raises outlook on surging AI infrastructure demand, sending shares sharply higher (DELL)",GOOGL,Yahoo RSS,positive,0.5338807702064514
+2026-05-29 09:07:03,Dell rallies about 40% on strong Nvidia‑powered AI server demand,GOOGL,Yahoo RSS,positive,0.9315522909164429
+2026-05-29 10:34:40,"Dell raises outlook on surging AI infrastructure demand, sending shares sharply higher (DELL)",AMZN,Yahoo RSS,positive,0.5338807702064514
+2026-05-29 09:07:03,Dell rallies about 40% on strong Nvidia‑powered AI server demand,AMZN,Yahoo RSS,positive,0.9315522909164429
+2026-05-29 10:53:23,"Social Buzz: Wallstreetbets Stocks Mostly Advancing Premarket Friday; Dell Technologies, Super Micro Computer to Open Higher",MSFT,Yahoo RSS,neutral,0.0
+2026-05-29 10:53:23,"Social Buzz: Wallstreetbets Stocks Mostly Advancing Premarket Friday; Dell Technologies, Super Micro Computer to Open Higher",NVDA,Yahoo RSS,neutral,0.0
+2026-05-29 11:04:28,"Analysts Offer Insights on Consumer Cyclical Companies: Tesla (TSLA), Modine (MOD) and KB Home (KBH) - The Globe and Mail",TSLA,Google RSS,neutral,0.0
