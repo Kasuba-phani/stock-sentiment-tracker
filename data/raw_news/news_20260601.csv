@@ -53,5 +53,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-01 18:33:44,Microsoft’s share price climbs as Windows on Arm and NVIDIA N1X show strong momentum - Windows Central,MSFT,Google RSS,positive,0.9331852793693542
 2026-06-01 14:19:47,MSFT stock rises to $450.24 as AI spending outlook drives tech rally - eciks.org,MSFT,Google RSS,neutral,0.0
 2026-06-01 11:26:52,"Dear Microsoft stock fans, mark your calendars for June 2",MSFT,Bing RSS,neutral,0.0
-2026-06-01 13:17:00,"ServiceNow, Adobe stocks jump as Nvidia’s new AI chip sparks software rally - MarketWatch",NVDA,Google RSS,positive,0.43591246008872986
+2026-06-01 13:17:00,"ServiceNow, Adobe stocks jump as Nvidia’s new AI chip sparks software rally - MarketWatch",NVDA,Google RSS,positive,0.4359124600887298
 2026-06-01 13:22:12,Tesla May registrations jump in several European markets as recovery continues - AOL.com,TSLA,Google RSS,neutral,0.0
+2026-06-01 15:17:00,Microsoft’s share price climbs as Windows on Arm and NVIDIA N1X show strong momentum,MSFT,Bing RSS,positive,0.9271721839904785
+2026-06-01 22:53:31,"Stock Market Today, June 1: Stock Market Today, June 1: UiPath Rises After Strong Q1 Results and Raised Outlook",MSFT,Yahoo RSS,positive,0.9431554079055786
+2026-06-01 21:31:42,"Dow Jones futures: Broadcom, Micron, Nvidia, Sandisk, Tesla are big movers; AI stock Credo plunges on earnings - MSN",NVDA,Google RSS,negative,-0.9327594637870789
+2026-06-01 15:21:00,"Dow Jones futures: Broadcom, Micron, Nvidia, SanDisk, Tesla are big movers; AI stock Credo plunges on earnings",NVDA,Bing RSS,negative,-0.9566866159439087
+2026-06-01 23:00:00,"Top market stories to watch Tuesday, June 2",NVDA,Yahoo RSS,neutral,0.0
+2026-06-01 15:21:00,"Dow Jones futures: Broadcom, Micron, Nvidia, SanDisk, Tesla are big movers; AI stock Credo plunges on earnings",TSLA,Bing RSS,negative,-0.9566866159439087
