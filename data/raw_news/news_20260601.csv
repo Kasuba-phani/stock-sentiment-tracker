@@ -14,7 +14,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-28 14:12:00,"Microsoft Is a Mess. Is the ""Magnificent Seven"" Stock a Buy in May or Better Avoided?",MSFT,Bing RSS,neutral,0.0
 2026-06-01 04:26:00,NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI,MSFT,Yahoo RSS,neutral,0.0
 2026-05-31 23:07:07,Microsoft Tightens AI Tools As Investors Focus On Outcome Based Adoption,MSFT,Yahoo RSS,negative,-0.8480194807052612
-2026-05-31 11:07:57,Microsoft (MSFT) Is Up 7.6% After Revealing US$37B AI Run Rate And New EY Alliance,MSFT,Yahoo RSS,positive,0.9472411870956421
+2026-05-31 11:07:57,Microsoft (MSFT) Is Up 7.6% After Revealing US$37B AI Run Rate And New EY Alliance,MSFT,Yahoo RSS,positive,0.947241187095642
 2026-05-30 20:13:00,These Artificial Intelligence (AI) Stocks Have Crushed Nvidia in 2026 With Gains of 67% and 121%. They Can Still Soar Higher - The Motley Fool,NVDA,Google RSS,positive,0.6988192796707153
 2026-06-01 04:26:00,NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI,NVDA,Yahoo RSS,neutral,0.0
 2026-06-01 03:32:31,Tesla Resolves Graphite Supply Default With Syrah Resources - Gotrade,TSLA,Google RSS,neutral,0.0
@@ -22,3 +22,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-05-30 12:48:08,"Best Stocks to Buy: Meta Platforms vs. Microsoft | META Stock Analysis | MSFT Stock Analysis Overview 502 May 30, 2026 - Portal CNJ",META,Google RSS,neutral,0.0
 2026-05-31 10:50:22,"Netflix, Inc. $NFLX Shares Bought by Portland Global Advisors LLC - MarketBeat",NFLX,Google RSS,neutral,0.0
 2026-05-30 16:41:45,"Netflix, Inc. (NFLX) Expands Consumer Products With New Partnerships and Strong Growth Outlook",NFLX,Yahoo RSS,positive,0.9366454482078552
+2026-06-01 09:30:17,Citizens reiterates Amazon stock rating on cloud growth outlook - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-06-01 09:30:17,Citizens reiterates Amazon stock rating on cloud growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-06-01 03:08:00,"Dow Jones Futures, Oil Prices Rise As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points - Investor's Business Daily",AMZN,Google RSS,positive,0.7631128430366516
+2026-06-01 08:19:00,"U.S. Stocks Move | Dell, Microsoft, and HP Inc all rise in pre-market trading, set to launch AI PCs featuring NVIDIA RTX Spark this fall - 富途牛牛",MSFT,Google RSS,positive,0.5690304636955261
+2026-06-01 03:08:00,"Dow Jones Futures, Oil Prices Rise As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points - Investor's Business Daily",NVDA,Google RSS,positive,0.7631128430366516
+2026-06-01 09:40:00,Uncle Sam Is Buying Into Quantum Computing Stocks. Should You?,NVDA,Yahoo RSS,neutral,0.0
+2026-06-01 09:14:25,"U.S. Futures Edge Higher Despite Renewed U.S.-Iran Tensions; Nvidia Expands Into AI-Powered Windows PCs: Dow Jones, S&P, Nasdaq, Wall Street",NVDA,Yahoo RSS,positive,0.7881250381469727
+2026-06-01 03:08:00,"Dow Jones Futures, Oil Prices Rise As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points - Investor's Business Daily",TSLA,Google RSS,positive,0.7631128430366516
+2026-06-01 08:30:20,"Nasdaq, S&P 500 Futures Open June On Strong Footing: Why NVDA, DELL, HPE, TSM, TSLA, SPCE, RVMD Are In Focus",TSLA,Yahoo RSS,positive,0.843200147151947
+2026-06-01 10:18:05,3 Top AI Stocks to Buy in June - The Motley Fool,META,Google RSS,neutral,0.0
