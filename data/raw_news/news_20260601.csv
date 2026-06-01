@@ -34,7 +34,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-01 10:18:05,3 Top AI Stocks to Buy in June - The Motley Fool,META,Google RSS,neutral,0.0
 2026-06-01 12:03:00,This Tech Stocks Rally Can Rage Into June But Markets Face 3 Big Obstacles,AAPL,Yahoo RSS,neutral,0.0
 2026-06-01 13:46:17,Truist raises Alphabet stock price target on cloud growth outlook - Investing.com,GOOGL,Google RSS,neutral,0.0
-2026-06-01 15:14:15,"Dow's nearly 150-point fall led by losses for Procter & Gamble, Amazon.com Inc. stocks - MSN",AMZN,Google RSS,negative,-0.9505230188369751
+2026-06-01 15:14:15,"Dow's nearly 150-point fall led by losses for Procter & Gamble, Amazon.com Inc. stocks - MSN",AMZN,Google RSS,negative,-0.9505230188369752
 2026-05-28 12:51:00,"Snowflake’s stock blasts off, fueled by AI acceleration and deeper Amazon partnership",AMZN,Bing RSS,negative,-0.7314653992652893
 2026-06-01 15:51:00,"Wall St hovers near record highs as Nvidia, tech gains eclipse Iran war anxiety - Reuters",MSFT,Google RSS,neutral,0.0
 2026-06-01 16:08:15,"US Equity Indexes Mixed After Iran Halts Peace Process, Technology Marches Higher",MSFT,Yahoo RSS,negative,-0.6195604205131531
@@ -49,3 +49,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-01 10:35:00,3 Top AI Stocks to Buy in June - The Globe and Mail,META,Google RSS,neutral,0.0
 2026-05-31 03:19:52,Meta stock is rising today — is its reported new AI subscription push driving gains? - MSN,META,Google RSS,positive,0.6711620092391968
 2026-06-01 10:35:00,3 Top AI Stocks to Buy in June,META,Yahoo RSS,neutral,0.0
+2026-06-01 10:04:00,"Stock Market Live June 1, 2026: S&P 500 (SPY) Could See Higher Highs",AAPL,Bing RSS,positive,0.926921010017395
+2026-06-01 18:33:44,Microsoft’s share price climbs as Windows on Arm and NVIDIA N1X show strong momentum - Windows Central,MSFT,Google RSS,positive,0.9331852793693542
+2026-06-01 14:19:47,MSFT stock rises to $450.24 as AI spending outlook drives tech rally - eciks.org,MSFT,Google RSS,neutral,0.0
+2026-06-01 11:26:52,"Dear Microsoft stock fans, mark your calendars for June 2",MSFT,Bing RSS,neutral,0.0
+2026-06-01 13:17:00,"ServiceNow, Adobe stocks jump as Nvidia’s new AI chip sparks software rally - MarketWatch",NVDA,Google RSS,positive,0.43591246008872986
+2026-06-01 13:22:12,Tesla May registrations jump in several European markets as recovery continues - AOL.com,TSLA,Google RSS,neutral,0.0
