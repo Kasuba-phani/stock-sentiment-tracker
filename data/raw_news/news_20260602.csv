@@ -38,8 +38,21 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-01 18:33:44,Microsoft’s share price climbs as Windows on Arm and NVIDIA N1X show strong momentum - Windows Central,MSFT,Google RSS,positive,0.9331852793693542
 2026-06-02 13:50:00,"This ""Magnificent Seven"" Stock May Still Be the Best Bargain in Tech Right Now",MSFT,Yahoo RSS,neutral,0.0
 2026-06-02 11:35:43,"Stocks have wild start to June as AI rally continues, oil swings - qz.com",NVDA,Google RSS,neutral,0.0
-2026-06-02 12:04:31,U.S. stock futures dip after AI-driven record highs June 2026 - qz.com,NVDA,Google RSS,negative,-0.9227897524833679
+2026-06-02 12:04:31,U.S. stock futures dip after AI-driven record highs June 2026 - qz.com,NVDA,Google RSS,negative,-0.922789752483368
 2026-06-02 13:50:00,"This ""Magnificent Seven"" Stock May Still Be the Best Bargain in Tech Right Now",NVDA,Yahoo RSS,neutral,0.0
 2026-06-02 12:27:59,"Sam Altman backs Alfred, a physical AI startup for robotics",TSLA,Yahoo RSS,neutral,0.0
 2026-06-02 02:51:00,"META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans — Retail Sniffs Buying Opportunity - Stocktwits",META,Google RSS,neutral,0.0
 2026-06-02 12:00:00,AbbVie to Present at the Goldman Sachs 47th Annual Global Healthcare Conference,META,Yahoo RSS,neutral,0.0
+2026-06-02 14:58:50,"AI demand, earnings optimism lift tech giants' market value in May",AAPL,Yahoo RSS,positive,0.9422354102134705
+2026-06-02 17:30:26,Wall Street hangs around its records as the AI boom keeps growing - Pittsburgh Post-Gazette,GOOGL,Google RSS,neutral,0.0
+2026-06-02 14:33:30,Wall Street's record-breaking rally slows as Alphabet drags on the market - The Killeen Daily Herald,GOOGL,Google RSS,negative,-0.9363005757331848
+2026-06-02 13:51:44,Wall Street’s record-breaking rally slows as Alphabet drags on the market - Fort Bragg Advocate-News,GOOGL,Google RSS,negative,-0.926699697971344
+2026-06-02 15:48:26,How Much Upside Can AMZN Stock's Growth Deliver?,GOOGL,Yahoo RSS,neutral,0.0
+2026-06-02 15:48:26,How Much Upside Can AMZN Stock's Growth Deliver?,AMZN,Yahoo RSS,neutral,0.0
+2026-06-02 14:30:00,"This ""Magnificent Seven"" Stock May Still Be the Best Bargain in Tech Right Now - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-06-02 06:45:02,"Microsoft stock is up nearly 30% from its March lows, but you shouldn’t sell MSFT just yet",MSFT,Bing RSS,positive,0.9460569024085999
+2026-06-02 15:48:26,How Much Upside Can AMZN Stock's Growth Deliver?,MSFT,Yahoo RSS,neutral,0.0
+2026-06-02 14:58:50,"AI demand, earnings optimism lift tech giants' market value in May",MSFT,Yahoo RSS,positive,0.9422354102134705
+2026-06-02 18:21:16,Equities Mostly Rise Intraday as Traders Parse Labor Market Data,NVDA,Yahoo RSS,negative,-0.4828941822052002
+2026-06-02 15:48:26,How Much Upside Can AMZN Stock's Growth Deliver?,META,Yahoo RSS,neutral,0.0
+2026-06-02 15:48:26,How Much Upside Can AMZN Stock's Growth Deliver?,NFLX,Yahoo RSS,neutral,0.0
