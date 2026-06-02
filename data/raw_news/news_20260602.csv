@@ -62,3 +62,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-02 20:35:30,Microsoft Stock Just Hit a 3-Month High. Investors Can Thank a ‘New Era of PC.’ - Barchart,MSFT,Google RSS,neutral,0.0
 2026-06-02 19:19:00,"Dow Jones AI Giant Caterpillar, Nvidia Chipmaker TSMC In Or Near Buy Zones - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
 2026-06-02 13:03:00,"Stock market today: Dow, S&P 500 extend win streaks; Apple rises, Nvidia sinks",NVDA,Bing RSS,positive,0.6929690837860107
+2026-06-02 16:21:22,"Dow, S&P 500 scale peaks as HPE, Alphabet fuel AI momentum - KITCO",GOOGL,Google RSS,neutral,0.0
+2026-05-27 14:39:00,UBS reiterates Amazon stock Buy rating on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-06-02 13:35:30,Microsoft stock just hit a 3-month high. Investors can thank a 'new era of PC.',MSFT,Bing RSS,neutral,0.0
+2026-06-01 03:05:00,Microsoft's stock chart just flashed a bullish signal for a software comeback,MSFT,Bing RSS,positive,0.8348789215087891
+2026-06-02 22:08:53,"S&P 500, Nasdaq, Dow Rise To Record Highs As Strong Tech Gains Outpower US-Iran War Uncertainty — MSFT, UBER, MRVL, HPE, MSTR Stocks In Focus",MSFT,Yahoo RSS,positive,0.4985339343547821
+2026-06-02 22:08:53,"S&P 500, Nasdaq, Dow Rise To Record Highs As Strong Tech Gains Outpower US-Iran War Uncertainty — MSFT, UBER, MRVL, HPE, MSTR Stocks In Focus",NVDA,Yahoo RSS,positive,0.4985339343547821
