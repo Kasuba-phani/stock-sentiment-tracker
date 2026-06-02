@@ -43,16 +43,22 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-02 12:27:59,"Sam Altman backs Alfred, a physical AI startup for robotics",TSLA,Yahoo RSS,neutral,0.0
 2026-06-02 02:51:00,"META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans — Retail Sniffs Buying Opportunity - Stocktwits",META,Google RSS,neutral,0.0
 2026-06-02 12:00:00,AbbVie to Present at the Goldman Sachs 47th Annual Global Healthcare Conference,META,Yahoo RSS,neutral,0.0
-2026-06-02 14:58:50,"AI demand, earnings optimism lift tech giants' market value in May",AAPL,Yahoo RSS,positive,0.9422354102134705
+2026-06-02 14:58:50,"AI demand, earnings optimism lift tech giants' market value in May",AAPL,Yahoo RSS,positive,0.9422354102134703
 2026-06-02 17:30:26,Wall Street hangs around its records as the AI boom keeps growing - Pittsburgh Post-Gazette,GOOGL,Google RSS,neutral,0.0
 2026-06-02 14:33:30,Wall Street's record-breaking rally slows as Alphabet drags on the market - The Killeen Daily Herald,GOOGL,Google RSS,negative,-0.9363005757331848
 2026-06-02 13:51:44,Wall Street’s record-breaking rally slows as Alphabet drags on the market - Fort Bragg Advocate-News,GOOGL,Google RSS,negative,-0.926699697971344
 2026-06-02 15:48:26,How Much Upside Can AMZN Stock's Growth Deliver?,GOOGL,Yahoo RSS,neutral,0.0
 2026-06-02 15:48:26,How Much Upside Can AMZN Stock's Growth Deliver?,AMZN,Yahoo RSS,neutral,0.0
 2026-06-02 14:30:00,"This ""Magnificent Seven"" Stock May Still Be the Best Bargain in Tech Right Now - The Motley Fool",MSFT,Google RSS,neutral,0.0
-2026-06-02 06:45:02,"Microsoft stock is up nearly 30% from its March lows, but you shouldn’t sell MSFT just yet",MSFT,Bing RSS,positive,0.9460569024085999
+2026-06-02 06:45:02,"Microsoft stock is up nearly 30% from its March lows, but you shouldn’t sell MSFT just yet",MSFT,Bing RSS,positive,0.9460569024086
 2026-06-02 15:48:26,How Much Upside Can AMZN Stock's Growth Deliver?,MSFT,Yahoo RSS,neutral,0.0
-2026-06-02 14:58:50,"AI demand, earnings optimism lift tech giants' market value in May",MSFT,Yahoo RSS,positive,0.9422354102134705
+2026-06-02 14:58:50,"AI demand, earnings optimism lift tech giants' market value in May",MSFT,Yahoo RSS,positive,0.9422354102134703
 2026-06-02 18:21:16,Equities Mostly Rise Intraday as Traders Parse Labor Market Data,NVDA,Yahoo RSS,negative,-0.4828941822052002
 2026-06-02 15:48:26,How Much Upside Can AMZN Stock's Growth Deliver?,META,Yahoo RSS,neutral,0.0
 2026-06-02 15:48:26,How Much Upside Can AMZN Stock's Growth Deliver?,NFLX,Yahoo RSS,neutral,0.0
+2026-06-02 17:50:29,Apple Stock (AAPL) Hits All-Time High Ahead of Highly-Anticipated Developer Conference - TipRanks,AAPL,Google RSS,positive,0.7265971302986145
+2026-06-02 13:03:00,"Stock market today: Dow, S&P 500 extend win streaks; Apple rises, Nvidia sinks",AAPL,Bing RSS,positive,0.6929690837860107
+2026-06-02 20:42:35,Bad news for Alphabet stock is good news for copper investors - MSN,GOOGL,Google RSS,neutral,0.0
+2026-06-02 20:35:30,Microsoft Stock Just Hit a 3-Month High. Investors Can Thank a ‘New Era of PC.’ - Barchart,MSFT,Google RSS,neutral,0.0
+2026-06-02 19:19:00,"Dow Jones AI Giant Caterpillar, Nvidia Chipmaker TSMC In Or Near Buy Zones - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-06-02 13:03:00,"Stock market today: Dow, S&P 500 extend win streaks; Apple rises, Nvidia sinks",NVDA,Bing RSS,positive,0.6929690837860107
