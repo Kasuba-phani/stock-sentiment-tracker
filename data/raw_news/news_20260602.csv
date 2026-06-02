@@ -1,0 +1,23 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-06-01 13:46:17,Truist raises Alphabet stock price target on cloud growth outlook - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-06-01 23:17:55,"Stock market today: Dow, S&P 500, Nasdaq futures slip as US-Iran tensions weigh on AI optimism",GOOGL,Yahoo RSS,negative,-0.9652320742607117
+2026-06-01 09:30:17,Citizens reiterates Amazon stock rating on cloud growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-06-01 23:12:56,"Dow's nearly 150-point fall led by losses for Procter & Gamble, Amazon.com Inc. stocks - MSN",AMZN,Google RSS,negative,-0.9505230188369751
+2026-05-30 12:00:00,"Dow Jones Giants Amazon, Caterpillar Lead Five Stocks Near Buy Points - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-05-27 23:15:00,"Snowflake’s stock blasts off, fueled by AI acceleration and deeper Amazon partnership - MarketWatch",AMZN,Google RSS,negative,-0.6322225332260132
+2026-06-01 11:26:52,"Dear Microsoft stock fans, mark your calendars for June 2",MSFT,Bing RSS,neutral,0.0
+2026-05-29 16:55:00,"Stock Market Today, May 29: Microsoft Rises as $37 Billion AI Run Rate Highlights Cloud Growth",MSFT,Bing RSS,negative,-0.6411459445953369
+2026-06-01 22:53:31,"Stock Market Today, June 1: Stock Market Today, June 1: UiPath Rises After Strong Q1 Results and Raised Outlook",MSFT,Yahoo RSS,positive,0.9431554079055786
+2026-06-01 13:17:00,"ServiceNow, Adobe stocks jump as Nvidia’s new AI chip sparks software rally - MarketWatch",NVDA,Google RSS,positive,0.43591246008872986
+2026-06-01 12:33:57,Stock futures rise on Nvidia's PC chip and broader AI rally - qz.com,NVDA,Google RSS,neutral,0.0
+2026-06-01 12:03:00,"Dow Jones Futures, Oil Prices Rise As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points - Investor's Business Daily",NVDA,Google RSS,positive,0.7631128430366516
+2026-05-30 20:13:00,These Artificial Intelligence (AI) Stocks Have Crushed Nvidia in 2026 With Gains of 67% and 121%. They Can Still Soar Higher - The Motley Fool,NVDA,Google RSS,positive,0.6988192796707153
+2026-06-01 11:15:00,3 Top AI Stocks to Buy in June - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-06-01 17:54:00,"Dow Jones futures slide: Broadcom, Micron, Nvidia, Sandisk, Tesla are big movers; AI stock Credo plunges on earnings",NVDA,Bing RSS,negative,-0.9601682424545288
+2026-06-01 12:03:00,"Dow Jones Futures, Oil Prices Rise As Trump Makes This Iran Move; Nvidia, Tesla Lead 5 Titans Near Buy Points - Investor's Business Daily",TSLA,Google RSS,positive,0.7631128430366516
+2026-06-01 03:32:31,Tesla Resolves Graphite Supply Default With Syrah Resources - Gotrade,TSLA,Google RSS,neutral,0.0
+2026-06-01 17:54:00,"Dow Jones futures slide: Broadcom, Micron, Nvidia, Sandisk, Tesla are big movers; AI stock Credo plunges on earnings",TSLA,Bing RSS,negative,-0.9601682424545288
+2026-06-01 11:15:00,3 Top AI Stocks to Buy in June - The Motley Fool,META,Google RSS,neutral,0.0
+2026-06-02 02:47:55,"META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans — Retail Sniffs Buying Opportunity",META,Yahoo RSS,positive,0.7291436791419983
+2026-05-31 10:50:22,"Netflix, Inc. $NFLX Shares Bought by Portland Global Advisors LLC - MarketBeat",NFLX,Google RSS,neutral,0.0
+2026-05-30 16:41:45,"Netflix, Inc. (NFLX) Expands Consumer Products With New Partnerships and Strong Growth Outlook",NFLX,Yahoo RSS,positive,0.9366454482078552
