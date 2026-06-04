@@ -1,0 +1,26 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-06-03 17:45:36,"Apple Investors Looking For A WWDC Boost May Be Disappointed, UBS Warns - Stocktwits",AAPL,Google RSS,negative,-0.9243457913398743
+2026-06-03 03:42:56,S&P 500 Stocks Trading At 52-Week High - Trefis,AAPL,Google RSS,positive,0.538077712059021
+2026-06-03 08:42:08,Liberty Atlantic Advisors LLC Acquires New Stake in Apple Inc. $AAPL - MarketBeat,AAPL,Google RSS,neutral,0.0
+2026-06-03 16:07:26,"Apple Investors Looking For A WWDC Boost May Be Disappointed, UBS Warns",AAPL,Yahoo RSS,negative,-0.7368497848510742
+2026-06-03 14:06:25,UBS maintains Alphabet stock rating on cloud margin concerns - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-06-03 04:21:08,Bad news for Alphabet stock is good news for copper investors - MSN,GOOGL,Google RSS,neutral,0.0
+2026-06-03 23:43:31,"Dow Logs Worst Day Since March, S&P 500 And Nasdaq Snap Win Streak After US-Iran Exchange Fire — SNDK, TSLA, GOOGL, META, IREN In Focus",GOOGL,Yahoo RSS,negative,-0.9062460660934448
+2026-06-01 09:30:17,Citizens reiterates Amazon stock rating on cloud growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-06-03 18:40:00,Consumer Stocks Have Fallen Behind. These Retail Names Still Stand Out.,AMZN,Yahoo RSS,neutral,0.0
+2026-06-01 17:04:00,Microsoft’s stock chart just flashed a bullish signal for a software comeback - MarketWatch,MSFT,Google RSS,positive,0.7376468777656555
+2026-06-02 14:30:00,"This ""Magnificent Seven"" Stock May Still Be the Best Bargain in Tech Right Now - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-06-02 06:45:02,"Microsoft stock is up nearly 30% from its March lows, but you shouldn’t sell MSFT just yet",MSFT,Bing RSS,positive,0.9460569024085999
+2026-06-02 13:35:30,Microsoft stock just hit a 3-month high. Investors can thank a 'new era of PC.',MSFT,Bing RSS,neutral,0.0
+2026-05-29 16:55:00,"Stock Market Today, May 29: Microsoft Rises as $37 Billion AI Run Rate Highlights Cloud Growth",MSFT,Bing RSS,negative,-0.6411459445953369
+2026-06-04 03:06:21,"Stocks drop on AI, rate hike worries as Lebanon deal hits oil",NVDA,Yahoo RSS,negative,-0.9269195199012756
+2026-06-04 02:49:45,MRVL Stock Slides Overnight After Record Close: Retail Traders Keep The Faith,NVDA,Yahoo RSS,negative,-0.9560085535049438
+2026-06-04 01:00:00,"Cooler Master and Spingence Launch Global AI Manufacturing Initiative: Implementing NVIDIA Three-Computer Architecture to Create a Multinational ""Digital Brain""",NVDA,Yahoo RSS,neutral,0.0
+2026-06-01 10:07:17,Tesla Resolves Graphite Supply Default With Syrah Resources - Gotrade,TSLA,Google RSS,neutral,0.0
+2026-06-03 23:43:31,"Dow Logs Worst Day Since March, S&P 500 And Nasdaq Snap Win Streak After US-Iran Exchange Fire — SNDK, TSLA, GOOGL, META, IREN In Focus",TSLA,Yahoo RSS,negative,-0.9062460660934448
+2026-06-03 21:36:51,"Stock Market Today, June 3: Rivian Automotive Jumps on Strong R2 SUV Order Interest",TSLA,Yahoo RSS,positive,0.9450754523277283
+2026-06-04 00:03:27,"META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans — Retail Sniffs Buying Opportunity - Stocktwits",META,Google RSS,neutral,0.0
+2026-06-02 02:47:55,"META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans — Retail Sniffs Buying Opportunity - TradingView",META,Google RSS,positive,0.7001081705093384
+2026-06-04 01:27:33,"ACV Auctions, CarGurus, and LendingTree Shares Are Falling, What You Need To Know",META,Yahoo RSS,neutral,0.0
+2026-06-02 15:48:26,How Much Upside Can AMZN Stock's Growth Deliver?,NFLX,Yahoo RSS,neutral,0.0
+2026-05-30 16:41:45,"Netflix, Inc. (NFLX) Expands Consumer Products With New Partnerships and Strong Growth Outlook",NFLX,Yahoo RSS,positive,0.9366454482078552
