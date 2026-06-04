@@ -43,3 +43,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-04 11:45:01,"Microsoft stock is up nearly 30% from its March lows, but you shouldn’t sell MSFT just yet - MSN",MSFT,Google RSS,positive,0.9318295121192932
 2026-06-04 18:35:00,"As Global Markets Reach Historic Heights, a Distinguished Opportunity Emerges in Elektros INC. Lithium Mining, Rare Earth Minerals, and EV Patent Technology for a New Era of Growth",TSLA,Yahoo RSS,positive,0.7720864415168762
 2026-06-01 20:59:00,"META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans — Retail Sniffs Buying Opportunity",META,Bing RSS,positive,0.7291463017463684
+2026-06-04 21:11:50,"Stock Market Today, June 4: Dow Hits Record as Tech Stocks Falter - The Motley Fool",GOOGL,Google RSS,negative,-0.8187527060508728
+2026-06-04 21:28:36,"Stock Market Today, June 4: Dow Hits Record as Tech Stocks Falter",GOOGL,Yahoo RSS,negative,-0.5713541507720947
+2026-06-04 21:27:43,"Dow Jones Hits High, AI Stocks Shrug Off Broadcom, Ciena Sell-Offs; Jobs Report Looms",GOOGL,Yahoo RSS,negative,-0.8350685238838196
+2026-06-04 21:17:44,"Nvidia stock performance a sign of changing AI market, says investor - MSN",NVDA,Google RSS,positive,0.5662773847579956
+2026-06-04 21:23:39,"Stock Market Today, June 4: Broadcom Shares Plunge After AI Outlook Misses High Investor Expectations",NVDA,Yahoo RSS,negative,-0.9704571962356567
+2026-06-04 21:01:48,"Nvidia stock performance a sign of changing AI market, says investor",NVDA,Yahoo RSS,positive,0.7151457071304321
+2026-06-03 11:44:29,Netflix stock heads for worst losing streak in nearly four years,NFLX,Bing RSS,negative,-0.9357958436012268
+2026-06-03 13:46:15,Microsoft (MSFT) Slid Despite Top and Bottom-Line Beats,MSFT,Yahoo Global,negative,-0.966448187828064
