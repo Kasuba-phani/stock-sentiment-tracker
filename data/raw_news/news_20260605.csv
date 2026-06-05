@@ -50,11 +50,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-05 17:23:15,Nvidia Shares Sink After Strong U.S. Jobs Data Sparks Tech Selloff,NVDA,Yahoo RSS,negative,-0.954986810684204
 2026-06-05 16:41:15,"Tesla pushes Roadster demo to August amid thruster delays, report says - Investing.com",TSLA,Google RSS,neutral,0.0
 2026-06-05 16:51:44,Jobs Shock Hits Chip Stocks as J.P. Morgan Upgrades Tesla and Raspberry Pi Hits a Record High - Investorideas.com,TSLA,Google RSS,neutral,0.0
-2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",AMZN,Yahoo RSS,negative,-0.9652093052864075
-2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",MSFT,Yahoo RSS,negative,-0.9652093052864075
+2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",AMZN,Yahoo RSS,negative,-0.9652093052864076
+2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",MSFT,Yahoo RSS,negative,-0.9652093052864076
 2026-06-05 18:21:33,"Equities Fall, Yields Jump Intraday After Jobs Report; Tech Leads Sell-Off",MSFT,Yahoo RSS,negative,-0.942848801612854
 2026-06-03 01:01:00,What's next for Nvidia stock? Goldman Sachs points to major growth driver,NVDA,Bing RSS,neutral,0.0
 2026-06-05 20:18:32,How major US stock indexes fared Friday 6/5/2026,NVDA,Yahoo RSS,neutral,0.0
-2026-06-05 20:11:37,"Nasdaq plunges 1,100 points over renewed rate hike concerns",NVDA,Yahoo RSS,negative,-0.9278542995452881
-2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",TSLA,Yahoo RSS,negative,-0.9652093052864075
-2026-06-05 20:11:37,"Nasdaq plunges 1,100 points over renewed rate hike concerns",TSLA,Yahoo RSS,negative,-0.9278542995452881
+2026-06-05 20:11:37,"Nasdaq plunges 1,100 points over renewed rate hike concerns",NVDA,Yahoo RSS,negative,-0.927854299545288
+2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",TSLA,Yahoo RSS,negative,-0.9652093052864076
+2026-06-05 20:11:37,"Nasdaq plunges 1,100 points over renewed rate hike concerns",TSLA,Yahoo RSS,negative,-0.927854299545288
+2026-06-04 20:03:13,"Could $350 billion of fresh stock from Alphabet, Anthropic and SpaceX crash the AI bull market?",GOOGL,Bing RSS,neutral,0.0
+2026-06-05 21:44:12,Chips sector bloodbath drags Nasdaq down 4.2%,NVDA,Yahoo RSS,negative,-0.9693263173103333
+2026-06-05 21:44:12,Chips sector bloodbath drags Nasdaq down 4.2%,META,Yahoo RSS,negative,-0.9693263173103333
