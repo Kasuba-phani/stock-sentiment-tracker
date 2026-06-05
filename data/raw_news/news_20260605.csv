@@ -41,3 +41,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-05 15:29:11,Nvidia stock crashes another 3% today: why Computex failed to spark a rally - CryptoRank,NVDA,Google RSS,negative,-0.7898570895195007
 2026-06-05 08:00:46,Nvidia stock crashes another 3% today: why Computex failed to spark a rally,NVDA,Bing RSS,negative,-0.782033383846283
 2026-06-05 08:22:09,"JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth - Reuters",TSLA,Google RSS,positive,0.6305741667747498
+2026-06-05 16:58:26,"Good News for NVIDIA, Amazon, and Micron Investors: New Research Shows Trillion-Dollar Stocks May 10X - 24/7 Wall St.",AMZN,Google RSS,positive,0.8835403919219971
+2026-06-05 10:06:00,"Good News for NVIDIA, Amazon, and Micron Investors: New Research Shows Trillion-Dollar Stocks May 10X",AMZN,Bing RSS,positive,0.7292478680610657
+2026-06-05 17:48:00,Microsoft Bluechip Stock Story Looks Bigger Than AI Demand - Kalkine Media,MSFT,Google RSS,neutral,0.0
+2026-06-05 16:58:26,"Good News for NVIDIA, Amazon, and Micron Investors: New Research Shows Trillion-Dollar Stocks May 10X - 24/7 Wall St.",NVDA,Google RSS,positive,0.8835403919219971
+2026-06-05 18:00:23,Micron Gets Memory-Chip Approval From Nvidia. Why the Stock Is Falling. -- Barrons.com - Moomoo,NVDA,Google RSS,negative,-0.8167528510093689
+2026-06-05 10:06:00,"Good News for NVIDIA, Amazon, and Micron Investors: New Research Shows Trillion-Dollar Stocks May 10X",NVDA,Bing RSS,positive,0.7292478680610657
+2026-06-05 17:23:15,Nvidia Shares Sink After Strong U.S. Jobs Data Sparks Tech Selloff,NVDA,Yahoo RSS,negative,-0.9549868106842041
+2026-06-05 16:41:15,"Tesla pushes Roadster demo to August amid thruster delays, report says - Investing.com",TSLA,Google RSS,neutral,0.0
+2026-06-05 16:51:44,Jobs Shock Hits Chip Stocks as J.P. Morgan Upgrades Tesla and Raspberry Pi Hits a Record High - Investorideas.com,TSLA,Google RSS,neutral,0.0
