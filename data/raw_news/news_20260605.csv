@@ -47,6 +47,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-05 16:58:26,"Good News for NVIDIA, Amazon, and Micron Investors: New Research Shows Trillion-Dollar Stocks May 10X - 24/7 Wall St.",NVDA,Google RSS,positive,0.8835403919219971
 2026-06-05 18:00:23,Micron Gets Memory-Chip Approval From Nvidia. Why the Stock Is Falling. -- Barrons.com - Moomoo,NVDA,Google RSS,negative,-0.8167528510093689
 2026-06-05 10:06:00,"Good News for NVIDIA, Amazon, and Micron Investors: New Research Shows Trillion-Dollar Stocks May 10X",NVDA,Bing RSS,positive,0.7292478680610657
-2026-06-05 17:23:15,Nvidia Shares Sink After Strong U.S. Jobs Data Sparks Tech Selloff,NVDA,Yahoo RSS,negative,-0.9549868106842041
+2026-06-05 17:23:15,Nvidia Shares Sink After Strong U.S. Jobs Data Sparks Tech Selloff,NVDA,Yahoo RSS,negative,-0.954986810684204
 2026-06-05 16:41:15,"Tesla pushes Roadster demo to August amid thruster delays, report says - Investing.com",TSLA,Google RSS,neutral,0.0
 2026-06-05 16:51:44,Jobs Shock Hits Chip Stocks as J.P. Morgan Upgrades Tesla and Raspberry Pi Hits a Record High - Investorideas.com,TSLA,Google RSS,neutral,0.0
+2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",AMZN,Yahoo RSS,negative,-0.9652093052864075
+2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",MSFT,Yahoo RSS,negative,-0.9652093052864075
+2026-06-05 18:21:33,"Equities Fall, Yields Jump Intraday After Jobs Report; Tech Leads Sell-Off",MSFT,Yahoo RSS,negative,-0.942848801612854
+2026-06-03 01:01:00,What's next for Nvidia stock? Goldman Sachs points to major growth driver,NVDA,Bing RSS,neutral,0.0
+2026-06-05 20:18:32,How major US stock indexes fared Friday 6/5/2026,NVDA,Yahoo RSS,neutral,0.0
+2026-06-05 20:11:37,"Nasdaq plunges 1,100 points over renewed rate hike concerns",NVDA,Yahoo RSS,negative,-0.9278542995452881
+2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",TSLA,Yahoo RSS,negative,-0.9652093052864075
+2026-06-05 20:11:37,"Nasdaq plunges 1,100 points over renewed rate hike concerns",TSLA,Yahoo RSS,negative,-0.9278542995452881
