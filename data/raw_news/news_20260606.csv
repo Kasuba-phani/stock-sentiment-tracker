@@ -2,17 +2,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-03 07:42:36,"Alphabet's $80 billion stock sale leaves Wall Street in 'unprecedented territory,' says Goldman's Gutman - CNBC",GOOGL,Google RSS,negative,-0.9351064562797546
 2026-06-05 12:00:01,Alphabet is seeking fresh capital as stock's 4-week losing streak tests investor appetite - CNBC,GOOGL,Google RSS,neutral,0.0
 2026-06-03 14:06:25,UBS maintains Alphabet stock rating on cloud margin concerns - Investing.com,GOOGL,Google RSS,neutral,0.0
-2026-06-05 21:53:17,"Nasdaq Posts Worst Drop Since April 2025, S&P 500 And Dow Drop As Strong Jobs Data Ignites Rate Hike Bets — TSLA, GME, META, BA, MSTR, GOOGL In Focus",GOOGL,Yahoo RSS,negative,-0.9429392218589783
+2026-06-05 21:53:17,"Nasdaq Posts Worst Drop Since April 2025, S&P 500 And Dow Drop As Strong Jobs Data Ignites Rate Hike Bets — TSLA, GME, META, BA, MSTR, GOOGL In Focus",GOOGL,Yahoo RSS,negative,-0.9429392218589784
 2026-06-04 17:25:00,Amazon Lands $4 Billion AI Cloud Deal From Pinterest. Both Stocks Are Higher. - Investor's Business Daily,AMZN,Google RSS,positive,0.8417099714279175
 2026-06-05 16:58:26,"Good News for NVIDIA, Amazon, and Micron Investors: New Research Shows Trillion-Dollar Stocks May 10X - 24/7 Wall St.",AMZN,Google RSS,positive,0.8835403919219971
-2026-06-05 16:56:00,"Amazon, Microsoft fare better than most in Friday tech stock sell-off",AMZN,Bing RSS,positive,0.9026205539703369
-2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",AMZN,Yahoo RSS,negative,-0.9652093052864075
+2026-06-05 16:56:00,"Amazon, Microsoft fare better than most in Friday tech stock sell-off",AMZN,Bing RSS,positive,0.9026205539703368
+2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",AMZN,Yahoo RSS,negative,-0.9652093052864076
 2026-06-05 16:58:26,"Good News for NVIDIA, Amazon, and Micron Investors: New Research Shows Trillion-Dollar Stocks May 10X",AMZN,Yahoo RSS,positive,0.7292478680610657
 2026-06-02 20:35:30,Microsoft Stock Just Hit a 3-Month High. Investors Can Thank a ‘New Era of PC.’ - Barchart.com,MSFT,Google RSS,neutral,0.0
 2026-06-01 17:04:00,Microsoft’s stock chart just flashed a bullish signal for a software comeback - MarketWatch,MSFT,Google RSS,positive,0.7376468777656555
-2026-06-05 16:56:00,"Amazon, Microsoft fare better than most in Friday tech stock sell-off",MSFT,Bing RSS,positive,0.9026205539703369
+2026-06-05 16:56:00,"Amazon, Microsoft fare better than most in Friday tech stock sell-off",MSFT,Bing RSS,positive,0.9026205539703368
 2026-06-02 13:35:30,Microsoft stock just hit a 3-month high. Investors can thank a 'new era of PC.',MSFT,Bing RSS,neutral,0.0
-2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",MSFT,Yahoo RSS,negative,-0.9652093052864075
+2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",MSFT,Yahoo RSS,negative,-0.9652093052864076
 2026-06-05 18:21:33,"Equities Fall, Yields Jump Intraday After Jobs Report; Tech Leads Sell-Off",MSFT,Yahoo RSS,negative,-0.942848801612854
 2026-06-05 16:58:26,"Good News for NVIDIA, Amazon, and Micron Investors: New Research Shows Trillion-Dollar Stocks May 10X - 24/7 Wall St.",NVDA,Google RSS,positive,0.8835403919219971
 2026-06-05 12:00:01,Alphabet is seeking fresh capital as stock's 4-week losing streak tests investor appetite - CNBC,NVDA,Google RSS,neutral,0.0
@@ -20,11 +20,23 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-05 21:44:12,Chips sector bloodbath drags Nasdaq down 4.2%,NVDA,Yahoo RSS,negative,-0.9693263173103333
 2026-06-05 08:22:09,"JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth - Reuters",TSLA,Google RSS,positive,0.6305741667747498
 2026-06-05 16:41:15,"Tesla pushes Roadster demo to August amid thruster delays, report says - Investing.com",TSLA,Google RSS,neutral,0.0
-2026-06-05 21:53:17,"Nasdaq Posts Worst Drop Since April 2025, S&P 500 And Dow Drop As Strong Jobs Data Ignites Rate Hike Bets — TSLA, GME, META, BA, MSTR, GOOGL In Focus",TSLA,Yahoo RSS,negative,-0.9429392218589783
-2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",TSLA,Yahoo RSS,negative,-0.9652093052864075
-2026-06-05 20:11:37,"Nasdaq plunges 1,100 points over renewed rate hike concerns",TSLA,Yahoo RSS,negative,-0.9278542995452881
+2026-06-05 21:53:17,"Nasdaq Posts Worst Drop Since April 2025, S&P 500 And Dow Drop As Strong Jobs Data Ignites Rate Hike Bets — TSLA, GME, META, BA, MSTR, GOOGL In Focus",TSLA,Yahoo RSS,negative,-0.9429392218589784
+2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",TSLA,Yahoo RSS,negative,-0.9652093052864076
+2026-06-05 20:11:37,"Nasdaq plunges 1,100 points over renewed rate hike concerns",TSLA,Yahoo RSS,negative,-0.927854299545288
 2026-06-02 02:51:07,"META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans — Retail Sniffs Buying Opportunity - Stocktwits",META,Google RSS,neutral,0.0
-2026-06-05 21:53:17,"Nasdaq Posts Worst Drop Since April 2025, S&P 500 And Dow Drop As Strong Jobs Data Ignites Rate Hike Bets — TSLA, GME, META, BA, MSTR, GOOGL In Focus",META,Yahoo RSS,negative,-0.9429392218589783
+2026-06-05 21:53:17,"Nasdaq Posts Worst Drop Since April 2025, S&P 500 And Dow Drop As Strong Jobs Data Ignites Rate Hike Bets — TSLA, GME, META, BA, MSTR, GOOGL In Focus",META,Yahoo RSS,negative,-0.9429392218589784
 2026-06-05 21:44:12,Chips sector bloodbath drags Nasdaq down 4.2%,META,Yahoo RSS,negative,-0.9693263173103333
 2026-06-03 22:03:15,Netflix stock is on track for its longest losing streak since 2022 - MSN,NFLX,Google RSS,negative,-0.9109138250350952
-2026-06-03 18:44:29,Netflix stock heads for worst losing streak in nearly four years - TradingView,NFLX,Google RSS,negative,-0.9441120028495789
+2026-06-03 18:44:29,Netflix stock heads for worst losing streak in nearly four years - TradingView,NFLX,Google RSS,negative,-0.9441120028495787
+2026-06-06 04:19:27,S&P 500 Stocks Trading At 52-Week High - Trefis,AAPL,Google RSS,positive,0.538077712059021
+2026-06-05 20:36:34,Stocks Settle Sharply Lower as Tech Companies Routed,AAPL,Yahoo RSS,negative,-0.9453505873680115
+2026-06-05 20:36:34,Stocks Settle Sharply Lower as Tech Companies Routed,GOOGL,Yahoo RSS,negative,-0.9453505873680115
+2026-06-05 20:36:34,Stocks Settle Sharply Lower as Tech Companies Routed,AMZN,Yahoo RSS,negative,-0.9453505873680115
+2026-06-02 14:30:00,"This ""Magnificent Seven"" Stock May Still Be the Best Bargain in Tech Right Now - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-06-01 10:04:00,Microsoft’s stock chart just flashed a bullish signal for a software comeback,MSFT,Bing RSS,positive,0.7904302477836609
+2026-06-05 20:36:34,Stocks Settle Sharply Lower as Tech Companies Routed,MSFT,Yahoo RSS,negative,-0.9453505873680115
+2026-06-06 01:04:51,NVIDIA stock price fell more than -6.20% Friday closing at $205.10 - StockInvest.us,NVDA,Google RSS,negative,-0.9656249284744263
+2026-06-05 20:36:34,Stocks Settle Sharply Lower as Tech Companies Routed,TSLA,Yahoo RSS,negative,-0.9453505873680115
+2026-06-06 03:57:27,"Meta Investor Dumps Shares After AI Fundraising Report, Says Shareholders Don't Want 'Drunken Sailors' Sp - Benzinga",META,Google RSS,negative,-0.9177138805389404
+2026-06-05 22:33:23,Tech stocks lead market bloodbath as fears of Fed rate hikes add to worries about the AI-fueled chip boom petering out,META,Yahoo RSS,negative,-0.8975814580917358
+2026-06-05 20:36:34,Stocks Settle Sharply Lower as Tech Companies Routed,META,Yahoo RSS,negative,-0.9453505873680115
