@@ -54,3 +54,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-05 22:27:00,"S&P 500 sees $1.8 trillion wipeout, Nasdaq tallies biggest point drop on record: What investors need to know about Friday’s selloff",META,Yahoo RSS,negative,-0.9086623191833496
 2026-06-02 20:52:21,Bad news for Alphabet stock is good news for copper investors - MSN,GOOGL,Google RSS,neutral,0.0
 2026-06-02 02:47:55,"META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans — Retail Sniffs Buying Opportunity - TradingView",META,Google RSS,positive,0.7001081705093384
+2026-06-06 19:12:00,AI Chip Stocks Sold Off This Week. Is AMD a Buying Opportunity or a Falling Knife?,NVDA,Yahoo RSS,neutral,0.0
+2026-06-06 18:35:00,Is Beaten-Down GitLab Stock a Buy as Revenue Growth Remains Strong?,NVDA,Yahoo RSS,neutral,0.0
