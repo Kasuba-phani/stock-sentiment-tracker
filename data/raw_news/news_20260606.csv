@@ -29,14 +29,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-03 22:03:15,Netflix stock is on track for its longest losing streak since 2022 - MSN,NFLX,Google RSS,negative,-0.9109138250350952
 2026-06-03 18:44:29,Netflix stock heads for worst losing streak in nearly four years - TradingView,NFLX,Google RSS,negative,-0.9441120028495787
 2026-06-06 04:19:27,S&P 500 Stocks Trading At 52-Week High - Trefis,AAPL,Google RSS,positive,0.538077712059021
-2026-06-05 20:36:34,Stocks Settle Sharply Lower as Tech Companies Routed,AAPL,Yahoo RSS,negative,-0.9453505873680115
-2026-06-05 20:36:34,Stocks Settle Sharply Lower as Tech Companies Routed,GOOGL,Yahoo RSS,negative,-0.9453505873680115
-2026-06-05 20:36:34,Stocks Settle Sharply Lower as Tech Companies Routed,AMZN,Yahoo RSS,negative,-0.9453505873680115
+2026-06-05 20:36:34,Stocks Settle Sharply Lower as Tech Companies Routed,AAPL,Yahoo RSS,negative,-0.9453505873680116
+2026-06-05 20:36:34,Stocks Settle Sharply Lower as Tech Companies Routed,GOOGL,Yahoo RSS,negative,-0.9453505873680116
+2026-06-05 20:36:34,Stocks Settle Sharply Lower as Tech Companies Routed,AMZN,Yahoo RSS,negative,-0.9453505873680116
 2026-06-02 14:30:00,"This ""Magnificent Seven"" Stock May Still Be the Best Bargain in Tech Right Now - The Motley Fool",MSFT,Google RSS,neutral,0.0
 2026-06-01 10:04:00,Microsoft’s stock chart just flashed a bullish signal for a software comeback,MSFT,Bing RSS,positive,0.7904302477836609
-2026-06-05 20:36:34,Stocks Settle Sharply Lower as Tech Companies Routed,MSFT,Yahoo RSS,negative,-0.9453505873680115
-2026-06-06 01:04:51,NVIDIA stock price fell more than -6.20% Friday closing at $205.10 - StockInvest.us,NVDA,Google RSS,negative,-0.9656249284744263
-2026-06-05 20:36:34,Stocks Settle Sharply Lower as Tech Companies Routed,TSLA,Yahoo RSS,negative,-0.9453505873680115
+2026-06-05 20:36:34,Stocks Settle Sharply Lower as Tech Companies Routed,MSFT,Yahoo RSS,negative,-0.9453505873680116
+2026-06-06 01:04:51,NVIDIA stock price fell more than -6.20% Friday closing at $205.10 - StockInvest.us,NVDA,Google RSS,negative,-0.9656249284744264
+2026-06-05 20:36:34,Stocks Settle Sharply Lower as Tech Companies Routed,TSLA,Yahoo RSS,negative,-0.9453505873680116
 2026-06-06 03:57:27,"Meta Investor Dumps Shares After AI Fundraising Report, Says Shareholders Don't Want 'Drunken Sailors' Sp - Benzinga",META,Google RSS,negative,-0.9177138805389404
 2026-06-05 22:33:23,Tech stocks lead market bloodbath as fears of Fed rate hikes add to worries about the AI-fueled chip boom petering out,META,Yahoo RSS,negative,-0.8975814580917358
-2026-06-05 20:36:34,Stocks Settle Sharply Lower as Tech Companies Routed,META,Yahoo RSS,negative,-0.9453505873680115
+2026-06-05 20:36:34,Stocks Settle Sharply Lower as Tech Companies Routed,META,Yahoo RSS,negative,-0.9453505873680116
+2026-06-04 07:08:00,Microsoft (MSFT) Stock Climbs Following Build 2026 Conference Announcements,MSFT,Bing RSS,positive,0.7461521029472351
+2026-06-06 08:53:54,Profund Advisors LLC Has $414.63 Million Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,neutral,0.0
+2026-06-06 08:53:52,ProShare Advisors LLC Has $4.05 Billion Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,neutral,0.0
