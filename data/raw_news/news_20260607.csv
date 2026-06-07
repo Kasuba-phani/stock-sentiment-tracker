@@ -30,3 +30,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-03 22:03:15,Netflix stock is on track for its longest losing streak since 2022 - MSN,NFLX,Google RSS,negative,-0.9109138250350952
 2026-06-05 12:00:01,Alphabet is seeking fresh capital as stock's 4-week losing streak tests investor appetite - CNBC,NVDA,Google RSS,neutral,0.0
 2026-06-02 02:47:00,"META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans — Retail Sniffs Buying Opportunity - TradingView",META,Google RSS,positive,0.70010906457901
+2026-06-02 20:35:30,Microsoft Stock Just Hit a 3-Month High. Investors Can Thank a ‘New Era of PC.’ - Barchart.com,MSFT,Google RSS,neutral,0.0
+2026-06-01 10:04:00,Microsoft’s stock chart just flashed a bullish signal for a software comeback,MSFT,Bing RSS,positive,0.7904302477836609
+2026-06-07 09:04:00,"Inflation Is Surging, Trump Wants Rate Cuts -- and Kevin Warsh Is Caught in a Market-Moving Crossfire",NVDA,Yahoo RSS,neutral,0.0
