@@ -6,25 +6,27 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-04 17:25:00,Amazon Lands $4 Billion AI Cloud Deal From Pinterest. Both Stocks Are Higher. - Investor's Business Daily,AMZN,Google RSS,positive,0.8417099714279175
 2026-06-05 09:58:00,"Good News for NVIDIA, Amazon, and Micron Investors: New Research Shows Trillion-Dollar Stocks May 10X",AMZN,Bing RSS,positive,0.7292478680610657
 2026-06-06 17:00:02,The Dow's Split Personality: Why Some Winners Soar While Others Drag Down the Dow,AMZN,Yahoo RSS,neutral,0.0
-2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",AMZN,Yahoo RSS,negative,-0.9652093052864075
+2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",AMZN,Yahoo RSS,negative,-0.9652093052864076
 2026-06-04 22:54:39,Analysts Say Buy Microsoft Stock (MSFT) after Build 2026 Reinforces AI Growth Story - TipRanks,MSFT,Google RSS,neutral,0.0
 2026-06-02 20:35:30,Microsoft Stock Just Hit a 3-Month High. Investors Can Thank a ‘New Era of PC.’ - Barchart,MSFT,Google RSS,neutral,0.0
 2026-06-01 17:04:00,Microsoft’s stock chart just flashed a bullish signal for a software comeback - MarketWatch,MSFT,Google RSS,positive,0.7376468777656555
-2026-06-02 06:45:02,"Microsoft stock is up nearly 30% from its March lows, but you shouldn’t sell MSFT just yet",MSFT,Bing RSS,positive,0.9460569024085999
+2026-06-02 06:45:02,"Microsoft stock is up nearly 30% from its March lows, but you shouldn’t sell MSFT just yet",MSFT,Bing RSS,positive,0.9460569024086
 2026-06-06 17:00:02,The Dow's Split Personality: Why Some Winners Soar While Others Drag Down the Dow,MSFT,Yahoo RSS,neutral,0.0
 2026-06-05 16:58:26,"Good News for NVIDIA, Amazon, and Micron Investors: New Research Shows Trillion-Dollar Stocks May 10X - 24/7 Wall St.",NVDA,Google RSS,positive,0.8835403919219971
-2026-06-06 01:04:51,NVIDIA stock price fell more than -6.20% Friday closing at $205.10 - StockInvest.us,NVDA,Google RSS,negative,-0.9656249284744263
-2026-06-06 17:10:23,"Nvidia stock may drop to $125 by Oct 2026 despite strong AI-driven growth, warns analyst. - Pluang",NVDA,Google RSS,negative,-0.9628855586051941
+2026-06-06 01:04:51,NVIDIA stock price fell more than -6.20% Friday closing at $205.10 - StockInvest.us,NVDA,Google RSS,negative,-0.9656249284744264
+2026-06-06 17:10:23,"Nvidia stock may drop to $125 by Oct 2026 despite strong AI-driven growth, warns analyst. - Pluang",NVDA,Google RSS,negative,-0.962885558605194
 2026-06-05 08:00:46,Nvidia stock crashes another 3% today: why Computex failed to spark a rally,NVDA,Bing RSS,negative,-0.782033383846283
 2026-06-05 08:21:00,"JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth - Reuters",TSLA,Google RSS,positive,0.6305741667747498
-2026-06-05 21:53:17,"Nasdaq Posts Worst Drop Since April 2025, S&P 500 And Dow Drop As Strong Jobs Data Ignites Rate Hike Bets — TSLA, GME, META, BA, MSTR, GOOGL In Focus",TSLA,Yahoo RSS,negative,-0.9429392218589783
-2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",TSLA,Yahoo RSS,negative,-0.9652093052864075
-2026-06-05 20:11:37,"Nasdaq plunges 1,100 points over renewed rate hike concerns",TSLA,Yahoo RSS,negative,-0.9278542995452881
+2026-06-05 21:53:17,"Nasdaq Posts Worst Drop Since April 2025, S&P 500 And Dow Drop As Strong Jobs Data Ignites Rate Hike Bets — TSLA, GME, META, BA, MSTR, GOOGL In Focus",TSLA,Yahoo RSS,negative,-0.9429392218589784
+2026-06-05 20:35:28,"US Equity Indexes Slump This Week as Fed Rate Increase Expectations Sink Big Tech, Iran Demands Frozen Assets",TSLA,Yahoo RSS,negative,-0.9652093052864076
+2026-06-05 20:11:37,"Nasdaq plunges 1,100 points over renewed rate hike concerns",TSLA,Yahoo RSS,negative,-0.927854299545288
 2026-06-05 17:59:06,"META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans — Retail Sniffs Buying Opportunity - Stocktwits",META,Google RSS,neutral,0.0
-2026-06-06 22:02:50,Meta Shares Drop 5.5% on Report It May Raise Tens of Billions in Equity for AI - MLQ.ai,META,Google RSS,negative,-0.9487834572792053
+2026-06-06 22:02:50,Meta Shares Drop 5.5% on Report It May Raise Tens of Billions in Equity for AI - MLQ.ai,META,Google RSS,negative,-0.9487834572792052
 2026-06-05 22:33:23,Tech stocks lead market bloodbath as fears of Fed rate hikes add to worries about the AI-fueled chip boom petering out,META,Yahoo RSS,negative,-0.8975814580917358
 2026-06-05 22:27:00,"S&P 500 sees $1.8 trillion wipeout, Nasdaq tallies biggest point drop on record: What investors need to know about Friday’s selloff",META,Yahoo RSS,negative,-0.9086623191833496
-2026-06-05 21:53:17,"Nasdaq Posts Worst Drop Since April 2025, S&P 500 And Dow Drop As Strong Jobs Data Ignites Rate Hike Bets — TSLA, GME, META, BA, MSTR, GOOGL In Focus",META,Yahoo RSS,negative,-0.9429392218589783
+2026-06-05 21:53:17,"Nasdaq Posts Worst Drop Since April 2025, S&P 500 And Dow Drop As Strong Jobs Data Ignites Rate Hike Bets — TSLA, GME, META, BA, MSTR, GOOGL In Focus",META,Yahoo RSS,negative,-0.9429392218589784
 2026-06-05 21:44:12,Chips sector bloodbath drags Nasdaq down 4.2%,META,Yahoo RSS,negative,-0.9693263173103333
-2026-06-03 18:44:29,Netflix stock heads for worst losing streak in nearly four years - TradingView,NFLX,Google RSS,negative,-0.9441120028495789
+2026-06-03 18:44:29,Netflix stock heads for worst losing streak in nearly four years - TradingView,NFLX,Google RSS,negative,-0.9441120028495787
 2026-06-03 22:03:15,Netflix stock is on track for its longest losing streak since 2022 - MSN,NFLX,Google RSS,negative,-0.9109138250350952
+2026-06-05 12:00:01,Alphabet is seeking fresh capital as stock's 4-week losing streak tests investor appetite - CNBC,NVDA,Google RSS,neutral,0.0
+2026-06-02 02:47:00,"META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans — Retail Sniffs Buying Opportunity - TradingView",META,Google RSS,positive,0.70010906457901
