@@ -49,3 +49,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-07 19:55:00,"Strong Jobs Report Sends Nvidia (NASDAQ: NVDA), Intel (NASDAQ: INTC), Marvell (NASDAQ: MRVL) And Other AI Stocks Tumbling - foreignpolicyjournal.com",NVDA,Google RSS,negative,-0.8784716129302979
 2026-06-07 19:31:00,Why Microsoft Distancing Itself From OpenAI Is a Good Thing for Investors,NVDA,Yahoo RSS,neutral,0.0
 2026-06-07 18:38:12,Exxon Got Kicked Out of the Dow in 2020. It Has Since Beaten the S&P 500 by Nearly Double,NVDA,Yahoo RSS,positive,0.8423879742622375
+2026-06-02 13:35:30,Microsoft stock just hit a 3-month high. Investors can thank a 'new era of PC.',MSFT,Bing RSS,neutral,0.0
+2026-06-07 18:23:40,Navitas stock tumbles as Fed rate fears overshadow Nvidia boost - MSN,NVDA,Google RSS,negative,-0.9154019355773926
