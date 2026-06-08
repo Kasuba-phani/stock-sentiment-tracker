@@ -34,6 +34,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-01 10:04:00,Microsoft’s stock chart just flashed a bullish signal for a software comeback,MSFT,Bing RSS,positive,0.79043048620224
 2026-06-07 10:00:00,"What to Expect in Markets This Week: May CPI Report, Updates from Tech Giants - Investopedia",AAPL,Google RSS,neutral,0.0
 2026-06-08 08:58:10,"Nasdaq, S&P 500, Dow Futures Mixed As Iran-Israel Escalation Lifts Oil Prices: Why NVDA, STI, MRVL, LLY, SOC Are In Focus",AAPL,Yahoo RSS,negative,-0.6909548044204712
-2026-06-08 10:35:00,Why Micron Technology Stock Skyrocketed 87.8% Last Month But Is Falling in June,NVDA,Yahoo RSS,negative,-0.9703792333602905
+2026-06-08 10:35:00,Why Micron Technology Stock Skyrocketed 87.8% Last Month But Is Falling in June,NVDA,Yahoo RSS,negative,-0.9703792333602904
 2026-06-08 10:08:40,"Krane Funds Advisors LLC Acquires 3,162 Shares of Tesla, Inc. $TSLA - MarketBeat",TSLA,Google RSS,neutral,0.0
 2026-06-08 08:01:24,Panasonic to start US data centre battery production by fiscal 2028,TSLA,Yahoo RSS,neutral,0.0
+2026-06-08 12:12:00,"Nasdaq bounces as Micron and Marvell rebound, with rates and Gulf still in headlines",AAPL,Yahoo RSS,negative,-0.8015341758728027
+2026-06-08 13:10:00,Alphabet price tries to regain footing - Forecast today - 06-08-2026 - Economies.com,GOOGL,Google RSS,neutral,0.0
+2026-06-08 11:03:00,Oracle's cloud pivot remains a high-risk bet,AMZN,Yahoo RSS,neutral,0.0
+2026-06-08 14:29:37,Why Microsoft stock surged 10.4% last month but is sinking in June - MSN,MSFT,Google RSS,negative,-0.605424165725708
+2026-06-08 04:07:00,Microsoft (MSFT) Is A Top AI Stock In Billionaire Ken Fisher’s Portfolio,MSFT,Bing RSS,neutral,0.0
+2026-06-08 14:10:18,OpenAI Gets Kneecapped by a Major Investor at the Worst Possible Moment,MSFT,Yahoo RSS,negative,-0.7562291622161865
+2026-06-08 13:09:02,JPMorgan Sees Qualcomm (QCOM) Investor Day as Potential AI Growth Catalyst,MSFT,Yahoo RSS,positive,0.8319396376609802
+2026-06-08 15:33:27,US stocks rebound as Nvidia leads tech recovery after selloff - Anadolu Ajansı,NVDA,Google RSS,positive,0.6387309432029724
+2026-06-08 15:03:24,Tesla stock rebounds 3% after Friday's brutal selloff: what's behind the move? - CryptoRank,TSLA,Google RSS,neutral,0.0
+2026-06-08 15:06:51,Tesla caught at key support in bearish trend: Live levels - Investing.com,TSLA,Google RSS,neutral,0.0
+2026-06-08 07:48:43,Tesla stock rebounds 3% after Friday's brutal selloff: What's behind the move?,TSLA,Bing RSS,negative,-0.5352053642272949
