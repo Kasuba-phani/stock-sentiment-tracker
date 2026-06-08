@@ -52,9 +52,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-08 17:53:12,"Is Today's Tech Rally the Beginning of a Powerful Stock Market ""Summer Melt-Up"" That Will See Stocks Soar? - 24/7 Wall St.",GOOGL,Google RSS,neutral,0.0
 2026-06-08 19:13:38,"Forget Intel Corporation: As Rising Yields Shake Wall Street, This Unstoppable AI Powerhouse Is a No-Brainer Buy",GOOGL,Yahoo RSS,neutral,0.0
 2026-06-08 17:43:01,"US Equity Indexes Mixed as Trump's Call to Halt Iran-Israel Strikes Yields Results, Ceasefire Remains at Risk",GOOGL,Yahoo RSS,negative,-0.9445310831069946
-2026-06-05 16:56:00,"Amazon, Microsoft fare better than most in Friday tech stock sell-off",AMZN,Bing RSS,positive,0.9026205539703369
+2026-06-05 16:56:00,"Amazon, Microsoft fare better than most in Friday tech stock sell-off",AMZN,Bing RSS,positive,0.9026205539703368
 2026-06-08 07:08:26,Why Microsoft stock surged 10.4% last month but is sinking in June,MSFT,Bing RSS,negative,-0.6926195621490479
 2026-06-08 10:53:00,Dow turns red. Microsoft's stock is the biggest drag despite tech's rally.,MSFT,Bing RSS,negative,-0.8911145925521851
 2026-06-02 13:35:30,Microsoft stock just hit a 3-month high. Investors can thank a 'new era of PC.',MSFT,Bing RSS,neutral,0.0
 2026-06-08 19:13:38,"Forget Intel Corporation: As Rising Yields Shake Wall Street, This Unstoppable AI Powerhouse Is a No-Brainer Buy",NVDA,Yahoo RSS,neutral,0.0
 2026-06-08 18:35:50,Why Plug Power Stock Surged 26% in May But Is Falling Apart Again,NVDA,Yahoo RSS,negative,-0.8815030455589294
+2026-06-08 13:44:00,"Stock market today: Nasdaq ends higher in recovery move, Dow dips; Apple sinks on AI news",AAPL,Bing RSS,negative,-0.9289525747299194
+2026-06-08 21:17:53,Alphabet Intel Chip Pact Reshapes AI Supply Chain And Investor Outlook,GOOGL,Yahoo RSS,negative,-0.44697433710098267
+2026-06-08 19:58:00,"US Equity Indexes Mixed as Big-Tech Marches Higher, Trump Engineers Halt to Iran-Israel's Exchange of Strikes",GOOGL,Yahoo RSS,negative,-0.8016956448554993
+2026-06-08 19:47:33,"6 Stocks Retail Traders Sold Into Friday's 1,100-Point Nasdaq Rout - Amazon.com (NASDAQ:AMZN), Credo Tech - Benzinga",AMZN,Google RSS,neutral,0.0
+2026-06-08 18:56:26,Microsoft Stock (MSFT) Slips Despite a Strong Xbox Games Showcase 2026 Lineup - TipRanks,MSFT,Google RSS,negative,-0.9656460881233215
+2026-06-08 15:33:27,US stocks rebound as Nvidia leads tech recovery after selloff - aa.com.tr,NVDA,Google RSS,positive,0.4782402217388153
+2026-06-08 21:35:00,"After Skyrocketing 340% in Just 12 Months, Is Marvell Technology Stock Still a Good Buy?",NVDA,Yahoo RSS,positive,0.7623277306556702
+2026-06-02 02:51:00,"META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans — Retail Sniffs Buying Opportunity - Stocktwits",META,Google RSS,neutral,0.0
