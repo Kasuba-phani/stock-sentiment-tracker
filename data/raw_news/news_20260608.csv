@@ -59,10 +59,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-08 19:13:38,"Forget Intel Corporation: As Rising Yields Shake Wall Street, This Unstoppable AI Powerhouse Is a No-Brainer Buy",NVDA,Yahoo RSS,neutral,0.0
 2026-06-08 18:35:50,Why Plug Power Stock Surged 26% in May But Is Falling Apart Again,NVDA,Yahoo RSS,negative,-0.8815030455589294
 2026-06-08 13:44:00,"Stock market today: Nasdaq ends higher in recovery move, Dow dips; Apple sinks on AI news",AAPL,Bing RSS,negative,-0.9289525747299194
-2026-06-08 21:17:53,Alphabet Intel Chip Pact Reshapes AI Supply Chain And Investor Outlook,GOOGL,Yahoo RSS,negative,-0.44697433710098267
+2026-06-08 21:17:53,Alphabet Intel Chip Pact Reshapes AI Supply Chain And Investor Outlook,GOOGL,Yahoo RSS,negative,-0.4469743371009826
 2026-06-08 19:58:00,"US Equity Indexes Mixed as Big-Tech Marches Higher, Trump Engineers Halt to Iran-Israel's Exchange of Strikes",GOOGL,Yahoo RSS,negative,-0.8016956448554993
 2026-06-08 19:47:33,"6 Stocks Retail Traders Sold Into Friday's 1,100-Point Nasdaq Rout - Amazon.com (NASDAQ:AMZN), Credo Tech - Benzinga",AMZN,Google RSS,neutral,0.0
-2026-06-08 18:56:26,Microsoft Stock (MSFT) Slips Despite a Strong Xbox Games Showcase 2026 Lineup - TipRanks,MSFT,Google RSS,negative,-0.9656460881233215
+2026-06-08 18:56:26,Microsoft Stock (MSFT) Slips Despite a Strong Xbox Games Showcase 2026 Lineup - TipRanks,MSFT,Google RSS,negative,-0.9656460881233216
 2026-06-08 15:33:27,US stocks rebound as Nvidia leads tech recovery after selloff - aa.com.tr,NVDA,Google RSS,positive,0.4782402217388153
 2026-06-08 21:35:00,"After Skyrocketing 340% in Just 12 Months, Is Marvell Technology Stock Still a Good Buy?",NVDA,Yahoo RSS,positive,0.7623277306556702
 2026-06-02 02:51:00,"META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans — Retail Sniffs Buying Opportunity - Stocktwits",META,Google RSS,neutral,0.0
+2026-06-08 21:41:53,"Dow Jones futures: Trump, Iran comments spark tech rebound; Apple, Micron, Nvidia, Sandisk, Tesla are big movers - MSN",AAPL,Google RSS,neutral,0.0
+2026-06-08 23:08:22,"S&P 500 and Nasdaq Gain As Chipmaker Stocks Revive, While Israel-Iran Ceasefire Aids Sentiment — AAPL, INTC, AAL, PSKY, CBRS In Focus - Stocktwits",AAPL,Google RSS,positive,0.6251336932182312
+2026-06-03 07:02:00,"Stock Market News, June 2, 2026: Dow, S&P 500 end at fresh records and extend longest win streaks of the year; Alphabet, Microsoft slide; Bitcoin below $68,000 - MarketWatch",GOOGL,Google RSS,negative,-0.7451657652854919
