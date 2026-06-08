@@ -32,3 +32,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-05 11:08:00,Alphabet is seeking fresh capital as stock's 4-week losing streak tests investor appetite,GOOGL,Bing RSS,negative,-0.7255699634552002
 2026-06-08 01:18:12,"Microsoft stock is up nearly 30% from its March lows, but you shouldn’t sell MSFT just yet - MSN",MSFT,Google RSS,positive,0.9318295121192932
 2026-06-01 10:04:00,Microsoft’s stock chart just flashed a bullish signal for a software comeback,MSFT,Bing RSS,positive,0.79043048620224
+2026-06-07 10:00:00,"What to Expect in Markets This Week: May CPI Report, Updates from Tech Giants - Investopedia",AAPL,Google RSS,neutral,0.0
+2026-06-08 08:58:10,"Nasdaq, S&P 500, Dow Futures Mixed As Iran-Israel Escalation Lifts Oil Prices: Why NVDA, STI, MRVL, LLY, SOC Are In Focus",AAPL,Yahoo RSS,negative,-0.6909548044204712
+2026-06-08 10:35:00,Why Micron Technology Stock Skyrocketed 87.8% Last Month But Is Falling in June,NVDA,Yahoo RSS,negative,-0.9703792333602905
+2026-06-08 10:08:40,"Krane Funds Advisors LLC Acquires 3,162 Shares of Tesla, Inc. $TSLA - MarketBeat",TSLA,Google RSS,neutral,0.0
+2026-06-08 08:01:24,Panasonic to start US data centre battery production by fiscal 2028,TSLA,Yahoo RSS,neutral,0.0
