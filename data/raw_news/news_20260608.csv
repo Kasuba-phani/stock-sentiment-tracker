@@ -48,3 +48,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-08 15:03:24,Tesla stock rebounds 3% after Friday's brutal selloff: what's behind the move? - CryptoRank,TSLA,Google RSS,neutral,0.0
 2026-06-08 15:06:51,Tesla caught at key support in bearish trend: Live levels - Investing.com,TSLA,Google RSS,neutral,0.0
 2026-06-08 07:48:43,Tesla stock rebounds 3% after Friday's brutal selloff: What's behind the move?,TSLA,Bing RSS,negative,-0.5352053642272949
+2026-06-08 07:34:47,Apple stock gains ahead of WWDC: What are investors expecting?,AAPL,Bing RSS,neutral,0.0
+2026-06-08 17:53:12,"Is Today's Tech Rally the Beginning of a Powerful Stock Market ""Summer Melt-Up"" That Will See Stocks Soar? - 24/7 Wall St.",GOOGL,Google RSS,neutral,0.0
+2026-06-08 19:13:38,"Forget Intel Corporation: As Rising Yields Shake Wall Street, This Unstoppable AI Powerhouse Is a No-Brainer Buy",GOOGL,Yahoo RSS,neutral,0.0
+2026-06-08 17:43:01,"US Equity Indexes Mixed as Trump's Call to Halt Iran-Israel Strikes Yields Results, Ceasefire Remains at Risk",GOOGL,Yahoo RSS,negative,-0.9445310831069946
+2026-06-05 16:56:00,"Amazon, Microsoft fare better than most in Friday tech stock sell-off",AMZN,Bing RSS,positive,0.9026205539703369
+2026-06-08 07:08:26,Why Microsoft stock surged 10.4% last month but is sinking in June,MSFT,Bing RSS,negative,-0.6926195621490479
+2026-06-08 10:53:00,Dow turns red. Microsoft's stock is the biggest drag despite tech's rally.,MSFT,Bing RSS,negative,-0.8911145925521851
+2026-06-02 13:35:30,Microsoft stock just hit a 3-month high. Investors can thank a 'new era of PC.',MSFT,Bing RSS,neutral,0.0
+2026-06-08 19:13:38,"Forget Intel Corporation: As Rising Yields Shake Wall Street, This Unstoppable AI Powerhouse Is a No-Brainer Buy",NVDA,Yahoo RSS,neutral,0.0
+2026-06-08 18:35:50,Why Plug Power Stock Surged 26% in May But Is Falling Apart Again,NVDA,Yahoo RSS,negative,-0.8815030455589294
