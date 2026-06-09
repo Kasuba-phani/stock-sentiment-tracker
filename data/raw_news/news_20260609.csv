@@ -30,3 +30,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-05 08:21:00,"JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth - Reuters",TSLA,Google RSS,positive,0.6305741667747498
 2026-06-02 02:47:00,"META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans — Retail Sniffs Buying Opportunity - TradingView",META,Google RSS,positive,0.7001081705093384
 2026-06-02 02:51:00,"META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans — Retail Sniffs Buying Opportunity - Stocktwits",META,Google RSS,neutral,0.0
+2026-06-09 11:28:43,Interest Rate Jitters Just Crashed the Tech Rally — Here’s What I’d Lean Toward and What I’d Fade When Yields Spike - 24/7 Wall St.,AAPL,Google RSS,neutral,0.0
+2026-06-09 11:28:43,Interest Rate Jitters Just Crashed the Tech Rally — Here’s What I’d Lean Toward and What I’d Fade When Yields Spike,AAPL,Yahoo RSS,neutral,0.0
+2026-06-02 06:45:02,"Microsoft stock is up nearly 30% from its March lows, but you shouldn’t sell MSFT just yet",MSFT,Bing RSS,positive,0.946057140827179
+2026-06-09 11:28:43,Interest Rate Jitters Just Crashed the Tech Rally — Here’s What I’d Lean Toward and What I’d Fade When Yields Spike,NVDA,Yahoo RSS,neutral,0.0
