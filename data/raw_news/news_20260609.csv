@@ -1,0 +1,28 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-06-08 23:08:22,"S&P 500 and Nasdaq Gain As Chipmaker Stocks Revive, While Israel-Iran Ceasefire Aids Sentiment — AAPL, INTC, AAL, PSKY, CBRS In Focus - Stocktwits",AAPL,Google RSS,positive,0.6251336932182312
+2026-06-08 13:44:00,"Stock market today: Nasdaq ends higher in recovery move, Dow dips; Apple sinks on AI news",AAPL,Bing RSS,negative,-0.9289525747299194
+2026-06-08 07:39:00,Apple stock gains ahead of WWDC: What are investors expecting?,AAPL,Bing RSS,neutral,0.0
+2026-06-08 23:06:30,"S&P 500 and Nasdaq Gain As Chipmaker Stocks Revive, While Israel-Iran Ceasefire Aids Sentiment — AAPL, INTC, AAL, PSKY, CBRS In Focus",AAPL,Yahoo RSS,positive,0.6150899529457092
+2026-06-03 07:02:00,"Stock Market News, June 2, 2026: Dow, S&P 500 end at fresh records and extend longest win streaks of the year; Alphabet, Microsoft slide; Bitcoin below $68,000 - MarketWatch",GOOGL,Google RSS,negative,-0.7451657652854919
+2026-06-05 12:00:01,Alphabet is seeking fresh capital as stock's 4-week losing streak tests investor appetite - CNBC,GOOGL,Google RSS,neutral,0.0
+2026-06-03 07:42:36,"Alphabet's $80 billion stock sale leaves Wall Street in 'unprecedented territory,' says Goldman's Gutman - CNBC",GOOGL,Google RSS,negative,-0.9351064562797546
+2026-06-08 17:53:12,"Is Today's Tech Rally the Beginning of a Powerful Stock Market ""Summer Melt-Up"" That Will See Stocks Soar? - 24/7 Wall St.",GOOGL,Google RSS,neutral,0.0
+2026-06-05 11:08:00,Alphabet is seeking fresh capital as stock's 4-week losing streak tests investor appetite,GOOGL,Bing RSS,negative,-0.7255716919898987
+2026-06-08 23:06:30,"S&P 500 and Nasdaq Gain As Chipmaker Stocks Revive, While Israel-Iran Ceasefire Aids Sentiment — AAPL, INTC, AAL, PSKY, CBRS In Focus",GOOGL,Yahoo RSS,positive,0.6150899529457092
+2026-06-04 17:25:00,Amazon Lands $4 Billion AI Cloud Deal From Pinterest. Both Stocks Are Higher. - Investor's Business Daily,AMZN,Google RSS,positive,0.8417099714279175
+2026-06-08 19:47:33,"6 Stocks Retail Traders Sold Into Friday's 1,100-Point Nasdaq Rout - Amazon.com (NASDAQ:AMZN), Credo Tech - Benzinga",AMZN,Google RSS,neutral,0.0
+2026-06-05 16:58:26,"Good News for NVIDIA, Amazon, and Micron Investors: New Research Shows Trillion-Dollar Stocks May 10X - 24/7 Wall St.",AMZN,Google RSS,positive,0.8835403919219971
+2026-06-05 09:58:00,"Good News for NVIDIA, Amazon, and Micron Investors: New Research Shows Trillion-Dollar Stocks May 10X",AMZN,Bing RSS,positive,0.7292478680610657
+2026-06-02 20:35:30,Microsoft Stock Just Hit a 3-Month High. Investors Can Thank a ‘New Era of PC.’ - Barchart.com,MSFT,Google RSS,neutral,0.0
+2026-06-07 20:11:00,Why Microsoft Distancing Itself From OpenAI Is a Good Thing for Investors - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-06-08 07:08:26,Why Microsoft stock surged 10.4% last month but is sinking in June,MSFT,Bing RSS,negative,-0.6926195621490479
+2026-06-08 10:53:00,Dow turns red. Microsoft's stock is the biggest drag despite tech's rally.,MSFT,Bing RSS,negative,-0.8911145925521851
+2026-06-08 04:07:00,Microsoft (MSFT) Is A Top AI Stock In Billionaire Ken Fisher’s Portfolio,MSFT,Bing RSS,neutral,0.0
+2026-06-05 16:58:26,"Good News for NVIDIA, Amazon, and Micron Investors: New Research Shows Trillion-Dollar Stocks May 10X - 24/7 Wall St.",NVDA,Google RSS,positive,0.8835403919219971
+2026-06-08 15:33:27,US stocks rebound as Nvidia leads tech recovery after selloff - Anadolu Ajansı,NVDA,Google RSS,positive,0.6387309432029724
+2026-06-08 14:48:43,Tesla stock rebounds 3% after Friday's brutal selloff: what's behind the move? - TradingView,TSLA,Google RSS,neutral,0.0
+2026-06-08 15:03:24,Tesla stock rebounds 3% after Friday's brutal selloff: what's behind the move? - CryptoRank,TSLA,Google RSS,neutral,0.0
+2026-06-08 07:48:43,Tesla stock rebounds 3% after Friday's brutal selloff: What's behind the move?,TSLA,Bing RSS,negative,-0.5352053642272949
+2026-06-07 08:47:51,Meta Shares Drop 5.5% on Report It May Raise Tens of Billions in Equity for AI - MLQ.ai,META,Google RSS,negative,-0.9487834572792053
+2026-06-03 18:44:29,Netflix stock heads for worst losing streak in nearly four years - TradingView,NFLX,Google RSS,negative,-0.9441120028495789
+2026-06-03 22:03:15,Netflix stock is on track for its longest losing streak since 2022 - MSN,NFLX,Google RSS,negative,-0.9109138250350952
