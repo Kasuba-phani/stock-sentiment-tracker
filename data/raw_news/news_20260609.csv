@@ -42,3 +42,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-09 16:08:00,Apple’s AI could usher in a historic upgrade cycle that investors are overlooking - MarketWatch,AAPL,Google RSS,positive,0.6537793874740601
 2026-06-09 17:07:20,"Stocks slump as US tech rebound falters, oil dips below $90",AAPL,Yahoo RSS,negative,-0.9603958129882812
 2026-06-09 15:43:00,OKTA's Strong Backlog and AI Opportunity Drive Growth: What's Ahead?,MSFT,Yahoo RSS,neutral,0.0
+2026-06-09 10:09:00,Apple stock falls 4% after AI reveal despite analyst optimism on Siri,AAPL,Bing RSS,negative,-0.920864999294281
+2026-06-09 20:45:12,Nasdaq Composite Falls to 5-Week Low Amid Tech Pullback,AAPL,Yahoo RSS,negative,-0.9655554890632629
+2026-06-09 17:29:32,"All 30 Dow Jones Stocks Ranked: Buy, Sell or Hold?",AAPL,Yahoo RSS,neutral,0.0
+2026-06-05 16:56:00,"Amazon, Microsoft fare better than most in Friday tech stock sell-off",AMZN,Bing RSS,positive,0.9026205539703369
+2026-06-09 17:29:32,"All 30 Dow Jones Stocks Ranked: Buy, Sell or Hold?",AMZN,Yahoo RSS,neutral,0.0
+2026-06-09 20:45:12,Nasdaq Composite Falls to 5-Week Low Amid Tech Pullback,MSFT,Yahoo RSS,negative,-0.9655554890632629
+2026-06-09 17:29:32,"All 30 Dow Jones Stocks Ranked: Buy, Sell or Hold?",MSFT,Yahoo RSS,neutral,0.0
