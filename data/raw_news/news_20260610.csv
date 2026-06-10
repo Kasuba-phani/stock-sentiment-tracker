@@ -1,0 +1,21 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-06-09 22:25:23,Apple stock seen as a buy after WWDC and AI upgrades boost growth prospects - Pluang,AAPL,Google RSS,positive,0.8167815804481506
+2026-06-09 16:08:00,Apple’s AI could usher in a historic upgrade cycle that investors are overlooking - MarketWatch,AAPL,Google RSS,positive,0.6537784934043884
+2026-06-08 13:44:00,"Stock market today: Nasdaq ends higher in recovery move, Dow dips; Apple sinks on AI news",AAPL,Bing RSS,negative,-0.9289525747299194
+2026-06-09 20:45:12,Nasdaq Composite Falls to 5-Week Low Amid Tech Pullback,AAPL,Yahoo RSS,negative,-0.9655554890632629
+2026-06-05 12:00:01,Alphabet is seeking fresh capital as stock's 4-week losing streak tests investor appetite - CNBC,GOOGL,Google RSS,neutral,0.0
+2026-06-03 07:42:36,"Alphabet's $80 billion stock sale leaves Wall Street in 'unprecedented territory,' says Goldman's Gutman - CNBC",GOOGL,Google RSS,negative,-0.9351064562797546
+2026-06-08 17:53:12,"Is Today's Tech Rally the Beginning of a Powerful Stock Market ""Summer Melt-Up"" That Will See Stocks Soar? - 24/7 Wall St.",GOOGL,Google RSS,neutral,0.0
+2026-06-03 04:25:00,"Alphabet's $80 billion stock sale leaves Wall Street in 'unprecedented territory,' says Goldman's Gutman",GOOGL,Bing RSS,negative,-0.9430704712867737
+2026-06-04 17:25:00,Amazon Lands $4 Billion AI Cloud Deal From Pinterest. Both Stocks Are Higher. - Investor's Business Daily,AMZN,Google RSS,positive,0.8417099714279175
+2026-06-09 07:20:13,"Amazon.com, Inc. $AMZN Shares Purchased by Blue Bell Private Wealth Management LLC - MarketBeat",AMZN,Google RSS,neutral,0.0
+2026-06-05 09:58:00,"Good News for NVIDIA, Amazon, and Micron Investors: New Research Shows Trillion-Dollar Stocks May 10X",AMZN,Bing RSS,positive,0.7292478680610657
+2026-06-09 17:29:32,"All 30 Dow Jones Stocks Ranked: Buy, Sell or Hold?",AMZN,Yahoo RSS,neutral,0.0
+2026-06-07 20:11:00,Why Microsoft Distancing Itself From OpenAI Is a Good Thing for Investors - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-06-08 07:08:26,Why Microsoft stock surged 10.4% last month but is sinking in June,MSFT,Bing RSS,negative,-0.6926195621490479
+2026-06-09 20:45:12,Nasdaq Composite Falls to 5-Week Low Amid Tech Pullback,MSFT,Yahoo RSS,negative,-0.9655554890632629
+2026-06-09 19:35:00,Dow Jones AI Giant Nvidia Stock Tumbles To Key Support Level Amid Market Sell-Off - Investor's Business Daily,NVDA,Google RSS,negative,-0.9492037296295166
+2026-06-08 15:03:24,Tesla stock rebounds 3% after Friday's brutal selloff: what's behind the move? - CryptoRank,TSLA,Google RSS,neutral,0.0
+2026-06-09 06:27:54,"META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans — Retail Sniffs Buying Opportunity - Stocktwits",META,Google RSS,neutral,0.0
+2026-06-07 08:46:43,Meta Shares Drop 5.5% on Report It May Raise Tens of Billions in Equity for AI - MLQ.ai,META,Google RSS,negative,-0.9487834572792053
+2026-06-09 22:00:00,Apple’s AI could usher in a historic upgrade cycle that investors are overlooking,AAPL,MarketWatch Top,positive,0.7845319509506226
