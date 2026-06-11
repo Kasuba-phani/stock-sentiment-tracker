@@ -21,3 +21,16 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-08 15:03:24,Tesla stock rebounds 3% after Friday's brutal selloff: what's behind the move? - CryptoRank,TSLA,Google RSS,neutral,0.0
 2026-06-11 01:31:50,"S&P 500, Nasdaq, Dow Futures Extend Slide As US-Iran Hormuz Tensions Flare Again, Inflation Data Stings: ORCL, DJT, SMCI, TSLA In Focus",TSLA,Yahoo RSS,negative,-0.7979604601860046
 2026-06-11 02:22:49,Should You Buy Meta Stock Before The Massive Investor Update? Rcd Mallorca Vs Villarreal Cf Standings (DuQyyPRHep) - Fathom Journal,META,Google RSS,neutral,0.0
+2026-06-11 10:00:00,"'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",AAPL,Yahoo RSS,negative,-0.9582608938217163
+2026-06-11 10:00:00,"'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",GOOGL,Yahoo RSS,negative,-0.9582608938217163
+2026-06-11 05:30:00,"AI Stocks Underestimate the Technology’s Potential, Says This Tech Investor",GOOGL,Yahoo RSS,neutral,0.0
+2026-06-11 10:00:00,"'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",AMZN,Yahoo RSS,negative,-0.9582608938217163
+2026-06-07 20:11:00,Why Microsoft Distancing Itself From OpenAI Is a Good Thing for Investors - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-06-08 07:08:26,Why Microsoft stock surged 10.4% last month but is sinking in June,MSFT,Bing RSS,negative,-0.6926195621490479
+2026-06-11 10:00:00,"'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",MSFT,Yahoo RSS,negative,-0.9582608938217163
+2026-06-11 10:00:00,"'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",NVDA,Yahoo RSS,negative,-0.9582608938217163
+2026-06-11 10:00:00,"'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",TSLA,Yahoo RSS,negative,-0.9582608938217163
+2026-06-08 19:29:55,"META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans — Retail Sniffs Buying Opportunity - Stocktwits",META,Google RSS,neutral,0.0
+2026-06-11 10:00:00,"'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",META,Yahoo RSS,negative,-0.9582608938217163
+2026-06-11 10:02:20,"Metis Global Partners LLC Purchases 200,142 Shares of Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
+2026-06-04 15:18:00,Netflix stock rises after eight-day losing streak. What’s fueling the move? - MSN,NFLX,Google RSS,neutral,0.0
