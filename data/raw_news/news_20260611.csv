@@ -1,0 +1,18 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-06-09 15:42:16,Apple Stock (AAPL) Falls 5% Despite Several AI Updates at Developer Conference - TipRanks,AAPL,Google RSS,negative,-0.9581013917922974
+2026-06-10 21:15:33,"Apple’s AI could usher in a historic upgrade cycle, and Wall Street is missing it – Morgan Stanley - MacDailyNews",AAPL,Google RSS,neutral,0.0
+2026-06-10 09:20:04,"Analysts Offer Insights on Technology Companies: Apple (AAPL), Palantir Technologies (PLTR) and MongoDB (MDB) - The Globe and Mail",AAPL,Google RSS,neutral,0.0
+2026-06-10 16:52:19,TSMC Sales Jump as AI Demand Holds Strong,AAPL,Yahoo RSS,positive,0.8859671354293823
+2026-06-09 13:51:01,"‘A Four-Headed Monster,’ Says Top Investor About Alphabet Stock - TipRanks",GOOGL,Google RSS,neutral,0.0
+2026-06-05 12:00:01,Alphabet is seeking fresh capital as stock's 4-week losing streak tests investor appetite - CNBC,GOOGL,Google RSS,neutral,0.0
+2026-06-10 15:42:00,Amazon LTL Freight Launch Is Pothole For These S&P 500 Stocks - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
+2026-06-04 17:25:00,Amazon Lands $4 Billion AI Cloud Deal From Pinterest. Both Stocks Are Higher. - Investor's Business Daily,AMZN,Google RSS,positive,0.8417099714279175
+2026-06-05 09:58:00,"Good News for NVIDIA, Amazon, and Micron Investors: New Research Shows Trillion-Dollar Stocks May 10X",AMZN,Bing RSS,positive,0.7292478680610657
+2026-06-10 22:31:59,"S&P 500, Nasdaq, Dow Drop As US-Iran War Jitters, Inflation Risk Spur Tech Selloffs  — SMCI, AMZN, OPEN, SEGG, TSLA In Focus",AMZN,Yahoo RSS,negative,-0.8605300784111023
+2026-06-10 20:19:31,"Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",AMZN,Yahoo RSS,neutral,0.0
+2026-06-10 16:51:18,Microsoft Stock (MSFT) Slips as Xbox ‘Rethinks’ Project Helix Due to AI-Related Supply Shortages - TipRanks,MSFT,Google RSS,negative,-0.9687591791152954
+2026-06-09 19:35:00,Dow Jones AI Giant Nvidia Stock Tumbles To Key Support Level Amid Market Sell-Off - Investor's Business Daily,NVDA,Google RSS,negative,-0.9492037296295166
+2026-06-10 08:42:50,NVIDIA Corporation $NVDA Stock Position Boosted by Foundations Investment Advisors LLC - MarketBeat,NVDA,Google RSS,positive,0.9241681694984436
+2026-06-10 23:04:59,"Oracle Just Delivered a Record-Breaking Quarter, Complete with a Beat and Raise. So Why Is the Stock Falling?",NVDA,Yahoo RSS,negative,-0.8312409520149231
+2026-06-10 22:52:20,"US stocks tumble, dragged by tech and Iran war worries",NVDA,Yahoo RSS,negative,-0.9510473012924194
+2026-06-10 22:31:59,"S&P 500, Nasdaq, Dow Drop As US-Iran War Jitters, Inflation Risk Spur Tech Selloffs  — SMCI, AMZN, OPEN, SEGG, TSLA In Focus",TSLA,Yahoo RSS,negative,-0.8605300784111023
