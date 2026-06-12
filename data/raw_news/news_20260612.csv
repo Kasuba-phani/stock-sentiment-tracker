@@ -2,12 +2,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-11 22:48:00,"S&P 500, Nasdaq, Dow End Higher After Trump Signals Iran Deal Coming Soon — ADBE, INTC, AMC, GOOGL, ORCL In Focus",GOOGL,Yahoo RSS,neutral,0.0
 2026-06-11 10:31:00,Microsoft Corporation (MSFT) Is A Top AI Stock In Ken Griffin’s Portfolio,MSFT,Bing RSS,neutral,0.0
 2026-06-11 10:35:00,NVIDIA's outlook gains momentum: Stock price to follow,NVDA,Bing RSS,neutral,0.0
-2026-06-09 15:42:16,Apple Stock (AAPL) Falls 5% Despite Several AI Updates at Developer Conference - TipRanks,AAPL,Google RSS,negative,-0.9581015110015869
+2026-06-09 15:42:16,Apple Stock (AAPL) Falls 5% Despite Several AI Updates at Developer Conference - TipRanks,AAPL,Google RSS,negative,-0.9581015110015868
 2026-06-05 12:00:01,Alphabet is seeking fresh capital as stock's 4-week losing streak tests investor appetite - CNBC,GOOGL,Google RSS,neutral,0.0
 2026-06-10 15:42:00,Amazon LTL Freight Launch Is Pothole For These S&P 500 Stocks - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
 2026-06-11 14:30:55,2 Stocks I'm Looking To Buy If Inflation Sparks A Market Sell-Off - Seeking Alpha,MSFT,Google RSS,neutral,0.0
 2026-06-11 17:36:24,Microsoft Corporation (MSFT) Is A Top AI Stock In Ken Griffin’s Portfolio - Insider Monkey,MSFT,Google RSS,neutral,0.0
-2026-06-12 05:00:45,From Lagging to Leading? Microsoft Copilot’s Commercialization May Exceed Market Expectations - NAI500,MSFT,Google RSS,positive,0.9208657145500183
+2026-06-12 05:00:45,From Lagging to Leading? Microsoft Copilot’s Commercialization May Exceed Market Expectations - NAI500,MSFT,Google RSS,positive,0.9208657145500184
 2026-06-11 14:30:02,Micron Got a Major Vote of Confidence From Nvidia’s Jensen Huang on AI Returns. I Still Wouldn’t Chase MU Stock Here. - Barchart.com,NVDA,Google RSS,neutral,0.0
 2026-06-09 19:35:00,Dow Jones AI Giant Nvidia Stock Tumbles To Key Support Level Amid Market Sell-Off - Investor's Business Daily,NVDA,Google RSS,negative,-0.9492037296295166
 2026-06-11 20:46:28,S&P Global Ratings upgrades Nvidia to AA on explosive AI demand - Investing.com,NVDA,Google RSS,positive,0.808318018913269
@@ -15,3 +15,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-12 08:26:00,Treasury Yields Are Sending a Clear and Terrifying Message to Wall Street -- but Are Investors Paying Attention?,NVDA,Yahoo RSS,neutral,0.0
 2026-06-12 08:07:00,This Red-Hot Inflation Reading Just Hit Its Highest Level Since November 2022. 3 Takeaways for Investors.,NVDA,Yahoo RSS,neutral,0.0
 2026-06-11 10:02:20,"Metis Global Partners LLC Purchases 200,142 Shares of Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
+2026-06-05 09:58:00,"Good News for NVIDIA, Amazon, and Micron Investors: New Research Shows Trillion-Dollar Stocks May 10X",AMZN,Bing RSS,positive,0.7292478680610657
+2026-06-11 14:30:02,Micron Got a Major Vote of Confidence From Nvidia’s Jensen Huang on AI Returns. I Still Wouldn’t Chase MU Stock Here. - Barchart,NVDA,Google RSS,neutral,0.0
