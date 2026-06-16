@@ -25,7 +25,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-16 09:49:41,Nvidia raises over €21.5bn in first bond sale since 2021 as AI growth race continues,NVDA,Yahoo RSS,positive,0.9284130930900574
 2026-06-16 09:31:00,Premarket movers: SpaceX stock continues to climb on day three; chip stocks jump; Tesla slips - MarketWatch,TSLA,Google RSS,positive,0.8828628659248352
 2026-06-16 09:47:02,Goldman Sachs raises Tesla stock delivery forecast on Europe strength - Investing.com,TSLA,Google RSS,neutral,0.0
-2026-06-16 18:55:18,Here’s Why Apple Inc (AAPL) Is Falling Despite AI Advancements at WWDC 2026 - Insider Monkey,AAPL,Google RSS,negative,-0.9161815047264099
+2026-06-16 18:55:18,Here’s Why Apple Inc (AAPL) Is Falling Despite AI Advancements at WWDC 2026 - Insider Monkey,AAPL,Google RSS,negative,-0.91618150472641
 2026-06-16 11:49:00,Here’s Why Apple Inc (AAPL) Is Falling Despite AI Advancements at WWDC 2026,AAPL,Bing RSS,negative,-0.9250211715698242
 2026-06-16 18:49:32,Here’s Why Apple Inc (AAPL) Is Falling Despite AI Advancements at WWDC 2026,GOOGL,Yahoo RSS,negative,-0.9250211715698242
 2026-06-16 14:35:03,Amazon Stock And Inflation Rate Movers Facing Hidden AI Risks - simplywall.st,AMZN,Google RSS,neutral,0.0
@@ -35,10 +35,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-16 06:52:00,"Nvidia Raises $25 Billion in Bonds, Its Largest Debt Deal, Betting on Decades of AI Growth",NVDA,Bing RSS,positive,0.7510910034179688
 2026-06-16 12:00:00,Micron Technology Inc (MU) Gets Nvidia Nod For AI Memory Supply,NVDA,Bing RSS,positive,0.6321591138839722
 2026-06-16 19:38:00,Will a 2026 Fed Interest Rate Increase Help or Hurt Retirees?,NVDA,Yahoo RSS,neutral,0.0
-2026-06-16 19:37:39,Sector Update: Consumer Stocks Mixed Late Afternoon,TSLA,Yahoo RSS,negative,-0.9352520108222961
+2026-06-16 19:37:39,Sector Update: Consumer Stocks Mixed Late Afternoon,TSLA,Yahoo RSS,negative,-0.935252010822296
 2026-06-16 17:35:11,Sector Update: Consumer Stocks Edge Higher Tuesday Afternoon,TSLA,Yahoo RSS,positive,0.9417498111724854
 2026-06-16 12:10:00,Meta Platforms (NASDAQ: META) Stock Price Surges 4.7% As Hormuz Peace Deal Sends Yields And Oil Prices Lower - foreignpolicyjournal.com,META,Google RSS,negative,-0.7163490056991577
 2026-06-16 18:33:40,‘Tremendous Upside’: Investor Bullish About Falling Netflix Stock - TipRanks,NFLX,Google RSS,negative,-0.6629320979118347
-2026-06-16 11:03:28,"Strategic Global Advisors LLC Raises Stock Position in Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,positive,0.9094496369361877
-2026-06-16 19:37:39,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
+2026-06-16 11:03:28,"Strategic Global Advisors LLC Raises Stock Position in Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,positive,0.9094496369361876
+2026-06-16 19:37:39,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.935252010822296
 2026-06-15 11:25:00,Microsoft: Falling Knife or Once-in-a-Decade Buying Opportunity?,MSFT,Yahoo Global,neutral,0.0
+2026-06-16 21:22:32,"Dow Hits Record High On Strong Banks And Industrial Stocks, Nasdaq And S&P 500 Slip On Tech Weakness — SPCX, YUM, HOOD, RIVN, AAPL, SNAP In Focus",AAPL,Yahoo RSS,negative,-0.8981381058692932
+2026-06-16 10:17:42,Bad news for Alphabet stock is good news for copper investors - MSN,GOOGL,Google RSS,neutral,0.0
+2026-06-16 22:46:15,"Dow Jones Hits High, SpaceX Keeps Rising, But AI Stocks Skid; Warsh's Fed Debut On Tap",GOOGL,Yahoo RSS,negative,-0.5203983783721924
+2026-06-16 20:11:56,Dow Notches New High as Tech Stocks Drop: Stock Market Today,AMZN,Yahoo RSS,negative,-0.9562026262283325
+2026-06-16 20:39:19,Update: Dow Logs Back-to-Back Record High in Mixed Session Ahead of Fed Decision,MSFT,Yahoo RSS,positive,0.7110783457756042
+2026-06-15 18:22:00,"Dow Jones futures: Trump, Iran deal spark stock market surge; Nvidia, Micron, SanDisk, SpaceX are big winners",NVDA,Bing RSS,positive,0.646414041519165
+2026-06-16 20:39:19,Update: Dow Logs Back-to-Back Record High in Mixed Session Ahead of Fed Decision,NVDA,Yahoo RSS,positive,0.7110783457756042
+2026-06-16 13:14:22,"Meta stock price prediction: META to $825 bull, $700 bear - FinanceFeeds",META,Google RSS,neutral,0.0
