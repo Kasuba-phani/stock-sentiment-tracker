@@ -32,3 +32,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-16 19:37:39,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.935252010822296
 2026-06-17 02:36:59,"Dow Jones Futures Rise Before Warsh's Fed Debut; SpaceX Keeps Rising, Four Stocks In Buy Areas",GOOGL,Yahoo RSS,positive,0.6947473883628845
 2026-06-16 16:24:00,Pension fund claims Microsoft duped investors about AI growth,MSFT,Bing RSS,negative,-0.9315103888511658
+2026-06-17 11:34:35,"Dow Jones Futures: Techs Rebound, SpaceX Rises Despite Trump's Iran Threat; Warsh's Fed Debut Due",GOOGL,Yahoo RSS,positive,0.8635252118110657
+2026-06-17 09:21:01,Nvidia stock dips as $25 billion bond sale spikes AI debt market - TechStock²,NVDA,Google RSS,negative,-0.9489608407020569
+2026-06-14 22:05:00,NFLX Stock Is Down 40% From All-Time High: Are Retail Investors Buying The Dip Or Leaving Battered Streamer?,NFLX,Bing RSS,negative,-0.9689890742301941
