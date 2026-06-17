@@ -43,3 +43,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-17 15:00:00,Vultr taps HPE and NVIDIA for global AI cloud buildout - Stock Titan,NVDA,Google RSS,positive,0.7548690438270569
 2026-06-17 12:58:00,"Tesla Defies Auto Industry Sales Slump, Goldman Raises Q2 Delivery Forecast - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
 2026-06-17 13:00:00,"Global Hedge Funds Doubled Down on Technology and Semiconductor Names in May Despite Persistent Macro Risks, According to Hazeltree",META,Yahoo RSS,negative,-0.895078182220459
+2026-06-14 18:53:46,"‘This is Incredible,’ Says Top Investor About Alphabet Stock - TipRanks",GOOGL,Google RSS,positive,0.6673637628555298
+2026-06-15 04:33:40,"‘A Generational Opportunity,’ Says Top Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-06-17 16:25:00,"Up 30% in 1 Month, Is Dutch Bros Stock Still a Strong Buy Before July?",NVDA,Yahoo RSS,positive,0.8470868468284607
+2026-06-17 14:11:00,SpaceX Stock Is Falling. The Real Test Comes When  Lockups End.,TSLA,Yahoo RSS,negative,-0.9183147549629211
