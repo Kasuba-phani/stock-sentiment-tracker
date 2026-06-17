@@ -1,5 +1,5 @@
 date,headline,ticker,source,sentiment_label,compound
-2026-06-16 18:56:40,Here’s Why Apple Inc (AAPL) Is Falling Despite AI Advancements at WWDC 2026 - Insider Monkey,AAPL,Google RSS,negative,-0.9161815047264099
+2026-06-16 18:56:40,Here’s Why Apple Inc (AAPL) Is Falling Despite AI Advancements at WWDC 2026 - Insider Monkey,AAPL,Google RSS,negative,-0.91618150472641
 2026-06-16 11:49:00,Here’s Why Apple Inc (AAPL) Is Falling Despite AI Advancements at WWDC 2026,AAPL,Bing RSS,negative,-0.9250211715698242
 2026-06-16 21:22:32,"Dow Hits Record High On Strong Banks And Industrial Stocks, Nasdaq And S&P 500 Slip On Tech Weakness — SPCX, YUM, HOOD, RIVN, AAPL, SNAP In Focus",AAPL,Yahoo RSS,negative,-0.8981381058692932
 2026-06-15 15:13:10,Alphabet shares jump 3% as cloud services and AI demand accelerate - eciks.org,GOOGL,Google RSS,positive,0.7070010304450989
@@ -9,7 +9,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-15 14:06:33,9 New 4-Star Stocks This Week - Morningstar,AMZN,Google RSS,neutral,0.0
 2026-06-16 17:16:44,Moody's stock gains on Amazon Quick integration news - MSN,AMZN,Google RSS,neutral,0.0
 2026-06-16 20:57:59,Analysts' Top S&P 500 Stocks to Buy Now,AMZN,Yahoo RSS,neutral,0.0
-2026-06-16 20:11:56,Dow Notches New High as Tech Stocks Drop: Stock Market Today,AMZN,Yahoo RSS,negative,-0.9562026262283325
+2026-06-16 20:11:56,Dow Notches New High as Tech Stocks Drop: Stock Market Today,AMZN,Yahoo RSS,negative,-0.9562026262283324
 2026-06-15 12:05:00,Microsoft: Falling Knife or Once-in-a-Decade Buying Opportunity? - The Motley Fool,MSFT,Google RSS,neutral,0.0
 2026-06-15 15:15:27,"MSFT shares climb despite 17% YTD decline, with valuation models suggesting significant recovery potential - eciks.org",MSFT,Google RSS,positive,0.8959230184555054
 2026-06-15 14:25:21,"Microsoft shares climb 1.79% to nearly $398 on Monday, rebounding from year's steep losses - eciks.org",MSFT,Google RSS,positive,0.9390742778778076
@@ -23,10 +23,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-16 09:31:00,Premarket movers: SpaceX stock continues to climb on day three; chip stocks jump; Tesla slips - MarketWatch,TSLA,Google RSS,positive,0.8828628659248352
 2026-06-16 09:47:02,Goldman Sachs raises Tesla stock delivery forecast on Europe strength - Investing.com,TSLA,Google RSS,neutral,0.0
 2026-06-15 11:41:00,MAGS To Rags? Magnificent Seven Stocks Are Market Drags - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
-2026-06-16 19:37:39,Sector Update: Consumer Stocks Mixed Late Afternoon,TSLA,Yahoo RSS,negative,-0.9352520108222961
+2026-06-16 19:37:39,Sector Update: Consumer Stocks Mixed Late Afternoon,TSLA,Yahoo RSS,negative,-0.935252010822296
 2026-06-16 17:35:11,Sector Update: Consumer Stocks Edge Higher Tuesday Afternoon,TSLA,Yahoo RSS,positive,0.9417498111724854
 2026-06-16 13:14:22,"Meta stock price prediction: META to $825 bull, $700 bear - FinanceFeeds",META,Google RSS,neutral,0.0
 2026-06-16 12:10:00,Meta Platforms (NASDAQ: META) Stock Price Surges 4.7% As Hormuz Peace Deal Sends Yields And Oil Prices Lower - foreignpolicyjournal.com,META,Google RSS,negative,-0.7163490056991577
 2026-06-16 18:33:40,‘Tremendous Upside’: Investor Bullish About Falling Netflix Stock - TipRanks,NFLX,Google RSS,negative,-0.6629320979118347
-2026-06-16 11:03:28,"Strategic Global Advisors LLC Raises Stock Position in Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,positive,0.9094496369361877
-2026-06-16 19:37:39,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
+2026-06-16 11:03:28,"Strategic Global Advisors LLC Raises Stock Position in Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,positive,0.9094496369361876
+2026-06-16 19:37:39,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.935252010822296
+2026-06-17 02:36:59,"Dow Jones Futures Rise Before Warsh's Fed Debut; SpaceX Keeps Rising, Four Stocks In Buy Areas",GOOGL,Yahoo RSS,positive,0.6947473883628845
+2026-06-16 16:24:00,Pension fund claims Microsoft duped investors about AI growth,MSFT,Bing RSS,negative,-0.9315103888511658
