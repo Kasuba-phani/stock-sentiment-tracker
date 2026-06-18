@@ -47,4 +47,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-17 09:16:00,Tesla stock slips below $400: why upbeat EV sales estimates are not helping,TSLA,Bing RSS,neutral,0.0
 2026-06-18 20:19:52,US Equity Markets Close Higher as Chipmakers Surge; US and Iran Sign Hormuz Deal,AAPL,Yahoo RSS,positive,0.915304958820343
 2026-06-18 20:05:00,"With SpaceX Ready to Be Included in the Russell 1000 Index, Should You Buy the Vanguard Russell 1000 Growth Index (VONG) ETF?",NVDA,Yahoo RSS,neutral,0.0
-2026-06-14 22:05:00,NFLX Stock Is Down 40% From All-Time High: Are Retail Investors Buying The Dip Or Leaving Battered Streamer?,NFLX,Bing RSS,negative,-0.9689890742301941
+2026-06-14 22:05:00,NFLX Stock Is Down 40% From All-Time High: Are Retail Investors Buying The Dip Or Leaving Battered Streamer?,NFLX,Bing RSS,negative,-0.968989074230194
+2026-06-18 15:04:13,Apple shares gain after Cook signals price increases to offset chip pressure - TechStock²,AAPL,Google RSS,positive,0.8934282660484314
+2026-06-18 19:01:03,Apple Is Raising Prices Over a Chip Shortage: These Stocks Could Benefit - Stocks Down Under,AAPL,Google RSS,negative,-0.7207634449005127
+2026-06-18 22:07:48,"S&P 500, Nasdaq And Dow End Holiday-Shortened Week Higher As Investors Cheer US-Iran Peace Deal — SPCX, AMZN, ONDS, NFLX, TTWO In Focus",AAPL,Yahoo RSS,positive,0.8087322115898132
+2026-06-18 22:07:48,"S&P 500, Nasdaq And Dow End Holiday-Shortened Week Higher As Investors Cheer US-Iran Peace Deal — SPCX, AMZN, ONDS, NFLX, TTWO In Focus",AMZN,Yahoo RSS,positive,0.8087322115898132
+2026-06-17 14:46:27,Tech stocks face mixed fortunes: Broadcom surges while Microsoft tumbles - TradingView,MSFT,Google RSS,negative,-0.8778690099716187
+2026-06-18 22:47:00,Netflix stock shows recovery signs after bombshell takeover report - thestreet.com,NFLX,Google RSS,neutral,0.0
+2026-06-18 22:07:48,"S&P 500, Nasdaq And Dow End Holiday-Shortened Week Higher As Investors Cheer US-Iran Peace Deal — SPCX, AMZN, ONDS, NFLX, TTWO In Focus",NFLX,Yahoo RSS,positive,0.8087322115898132
