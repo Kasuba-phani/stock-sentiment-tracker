@@ -1,0 +1,27 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-06-17 20:35:47,Stocks Retreat as Fed Signals Possible Higher Interest Rates,AAPL,Yahoo RSS,negative,-0.824801504611969
+2026-06-15 15:13:10,Alphabet shares jump 3% as cloud services and AI demand accelerate - eciks.org,GOOGL,Google RSS,positive,0.7070010304450989
+2026-06-17 20:35:47,Stocks Retreat as Fed Signals Possible Higher Interest Rates,GOOGL,Yahoo RSS,negative,-0.824801504611969
+2026-06-15 14:06:33,9 New 4-Star Stocks This Week - Morningstar,AMZN,Google RSS,neutral,0.0
+2026-06-17 20:35:47,Stocks Retreat as Fed Signals Possible Higher Interest Rates,AMZN,Yahoo RSS,negative,-0.824801504611969
+2026-06-17 20:15:25,"Nasdaq, US stocks slide as Fed forecasts possible rate hike",AMZN,Yahoo RSS,negative,-0.9166679382324219
+2026-06-17 14:46:15,Tech stocks face mixed fortunes: Broadcom surges while Microsoft tumbles - investingLive,MSFT,Google RSS,negative,-0.8509318828582764
+2026-06-15 15:15:27,"MSFT shares climb despite 17% YTD decline, with valuation models suggesting significant recovery potential - eciks.org",MSFT,Google RSS,positive,0.8959230184555054
+2026-06-15 12:05:00,Microsoft: Falling Knife or Once-in-a-Decade Buying Opportunity? - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-06-17 19:20:00,"Salesforce, Microsoft Share Losses Contribute To Dow's 312-Point Drop - 富途牛牛",MSFT,Google RSS,negative,-0.9722765684127808
+2026-06-15 14:01:24,12 New 5-Star Stocks This Week - Morningstar,MSFT,Google RSS,neutral,0.0
+2026-06-17 20:35:47,Stocks Retreat as Fed Signals Possible Higher Interest Rates,MSFT,Yahoo RSS,negative,-0.824801504611969
+2026-06-17 20:15:25,"Nasdaq, US stocks slide as Fed forecasts possible rate hike",MSFT,Yahoo RSS,negative,-0.9166679382324219
+2026-06-17 09:21:01,Nvidia stock dips as $25 billion bond sale spikes AI debt market - TechStock²,NVDA,Google RSS,negative,-0.9489608407020569
+2026-06-17 15:00:00,Vultr taps HPE and NVIDIA for global AI cloud buildout - Stock Titan,NVDA,Google RSS,positive,0.7548690438270569
+2026-06-18 00:36:36,Nvidia NVDA Stock Risks Falling Below $200 as Geopolitical and Competition Risks Build - FXLeaders,NVDA,Google RSS,negative,-0.9332082271575928
+2026-06-17 15:31:00,"Tesla Defies Auto Industry Sales Slump, Goldman Raises Q2 Delivery Forecast - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-06-16 09:47:02,Goldman Sachs raises Tesla stock delivery forecast on Europe strength - Investing.com,TSLA,Google RSS,neutral,0.0
+2026-06-17 20:35:47,Stocks Retreat as Fed Signals Possible Higher Interest Rates,TSLA,Yahoo RSS,negative,-0.824801504611969
+2026-06-16 12:10:00,Meta Platforms (NASDAQ: META) Stock Price Surges 4.7% As Hormuz Peace Deal Sends Yields And Oil Prices Lower - foreignpolicyjournal.com,META,Google RSS,negative,-0.7163490056991577
+2026-06-17 21:29:51,"Stock Market Today, June 17: Stocks Slide on Fed Rate Hike Fears",META,Yahoo RSS,negative,-0.9643583297729492
+2026-06-17 20:35:47,Stocks Retreat as Fed Signals Possible Higher Interest Rates,META,Yahoo RSS,negative,-0.824801504611969
+2026-06-17 20:15:25,"Nasdaq, US stocks slide as Fed forecasts possible rate hike",META,Yahoo RSS,negative,-0.9166679382324219
+2026-06-16 11:03:28,"Strategic Global Advisors LLC Raises Stock Position in Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,positive,0.9094496369361877
+2026-06-18 02:19:52,"Dow, S&P 500, Nasdaq Futures Climb On US-Iran Agreement Despite Hawkish Fed Outlook: RUM, INTC, NFLX, RXT In Focus",NFLX,Yahoo RSS,positive,0.6272268891334534
+2026-06-16 19:37:39,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
