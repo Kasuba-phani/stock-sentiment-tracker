@@ -24,3 +24,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-18 02:19:52,"Dow, S&P 500, Nasdaq Futures Climb On US-Iran Agreement Despite Hawkish Fed Outlook: RUM, INTC, NFLX, RXT In Focus",NFLX,Yahoo RSS,positive,0.6272268891334534
 2026-06-19 03:07:00,JPMorgan latest Broadcom outlook sends key signal,GOOGL,Yahoo RSS,neutral,0.0
 2026-06-19 03:00:00,"Dow Jones Futures Fall; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-06-19 10:20:00,"Just 4 ""Magnificent Seven"" Stocks Are Still More Valuable Than SpaceX. Could SpaceX Be a Better Buy Than All of Them?",AAPL,Yahoo RSS,neutral,0.0
+2026-06-19 10:33:43,"Just 4 ""Magnificent Seven"" Stocks Are Still More Valuable Than SpaceX. Could SpaceX Be a Better Buy Than All of Them? - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-06-19 10:20:00,"Just 4 ""Magnificent Seven"" Stocks Are Still More Valuable Than SpaceX. Could SpaceX Be a Better Buy Than All of Them?",GOOGL,Yahoo RSS,neutral,0.0
+2026-06-17 14:11:00,"Southwest shifts to AWS cloud, targets AI airline by 2028 - Stock Titan",AMZN,Google RSS,neutral,0.0
+2026-06-19 10:20:00,"Just 4 ""Magnificent Seven"" Stocks Are Still More Valuable Than SpaceX. Could SpaceX Be a Better Buy Than All of Them?",AMZN,Yahoo RSS,neutral,0.0
+2026-06-19 10:20:00,"Just 4 ""Magnificent Seven"" Stocks Are Still More Valuable Than SpaceX. Could SpaceX Be a Better Buy Than All of Them?",MSFT,Yahoo RSS,neutral,0.0
+2026-06-19 11:57:58,"Dow Jones Futures Fall With U.S. Markets Shut; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This",NVDA,Yahoo RSS,negative,-0.9136181473731995
+2026-06-19 10:20:00,"Just 4 ""Magnificent Seven"" Stocks Are Still More Valuable Than SpaceX. Could SpaceX Be a Better Buy Than All of Them?",NVDA,Yahoo RSS,neutral,0.0
+2026-06-19 10:20:00,"Just 4 ""Magnificent Seven"" Stocks Are Still More Valuable Than SpaceX. Could SpaceX Be a Better Buy Than All of Them?",TSLA,Yahoo RSS,neutral,0.0
+2026-06-19 10:20:00,"Just 4 ""Magnificent Seven"" Stocks Are Still More Valuable Than SpaceX. Could SpaceX Be a Better Buy Than All of Them?",META,Yahoo RSS,neutral,0.0
