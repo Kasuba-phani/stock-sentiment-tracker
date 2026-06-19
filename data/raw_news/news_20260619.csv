@@ -1,0 +1,24 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-06-18 22:07:48,"S&P 500, Nasdaq And Dow End Holiday-Shortened Week Higher As Investors Cheer US-Iran Peace Deal — SPCX, AMZN, ONDS, NFLX, TTWO In Focus",AAPL,Yahoo RSS,positive,0.8087322115898132
+2026-06-18 20:19:52,US Equity Markets Close Higher as Chipmakers Surge; US and Iran Sign Hormuz Deal,AAPL,Yahoo RSS,positive,0.915304958820343
+2026-06-19 01:00:32,Amazon May Start Selling Its Custom AI Chips to Outside Companies. Should Nvidia Investors Be Worried? - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-06-18 17:40:00,Amazon May Start Selling Its Custom AI Chips to Outside Companies. Should Nvidia Investors Be Worried?,AMZN,Bing RSS,neutral,0.0
+2026-06-18 22:07:48,"S&P 500, Nasdaq And Dow End Holiday-Shortened Week Higher As Investors Cheer US-Iran Peace Deal — SPCX, AMZN, ONDS, NFLX, TTWO In Focus",AMZN,Yahoo RSS,positive,0.8087322115898132
+2026-06-18 15:21:32,"‘Don’t Bet Against It,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-06-15 15:15:27,"MSFT shares climb despite 17% YTD decline, with valuation models suggesting significant recovery potential - eciks.org",MSFT,Google RSS,positive,0.8959230184555054
+2026-06-15 12:05:00,Microsoft: Falling Knife or Once-in-a-Decade Buying Opportunity? - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-06-17 14:46:27,Tech stocks face mixed fortunes: Broadcom surges while Microsoft tumbles - TradingView,MSFT,Google RSS,negative,-0.8778690099716187
+2026-06-18 13:36:56,Microsoft (MSFT) Sees Strong Options Activity Amid Growing Open Interest - GuruFocus,MSFT,Google RSS,positive,0.9531510472297668
+2026-06-19 01:00:32,Amazon May Start Selling Its Custom AI Chips to Outside Companies. Should Nvidia Investors Be Worried? - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-06-18 08:00:40,"The Zacks Analyst Blog Highlights NVIDIA, Oracle, Home Depot, Catalyst Bancorp and Hour Loop - Zacks Investment Research",NVDA,Google RSS,neutral,0.0
+2026-06-19 01:25:15,"Dow Jones Futures Fall; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This",NVDA,Yahoo RSS,negative,-0.8037733435630798
+2026-06-19 00:53:04,Amazon May Start Selling Its Custom AI Chips to Outside Companies. Should Nvidia Investors Be Worried?,NVDA,Yahoo RSS,neutral,0.0
+2026-06-17 15:31:00,"Tesla Defies Auto Industry Sales Slump, Goldman Raises Q2 Delivery Forecast - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-06-16 09:47:02,Goldman Sachs raises Tesla stock delivery forecast on Europe strength - Investing.com,TSLA,Google RSS,neutral,0.0
+2026-06-17 15:52:47,Tesla stock slips below $400: why upbeat EV sales estimates are not helping - TradingView,TSLA,Google RSS,negative,-0.5370069146156311
+2026-06-17 09:16:00,Tesla stock slips below $400: why upbeat EV sales estimates are not helping,TSLA,Bing RSS,neutral,0.0
+2026-06-16 12:10:00,Meta Platforms (NASDAQ: META) Stock Price Surges 4.7% As Hormuz Peace Deal Sends Yields And Oil Prices Lower - foreignpolicyjournal.com,META,Google RSS,negative,-0.7163490056991577
+2026-06-18 22:47:00,Netflix stock shows recovery signs after bombshell takeover report - thestreet.com,NFLX,Google RSS,neutral,0.0
+2026-06-14 22:05:00,NFLX Stock Is Down 40% From All-Time High: Are Retail Investors Buying The Dip Or Leaving Battered Streamer?,NFLX,Bing RSS,negative,-0.9689890742301941
+2026-06-18 22:07:48,"S&P 500, Nasdaq And Dow End Holiday-Shortened Week Higher As Investors Cheer US-Iran Peace Deal — SPCX, AMZN, ONDS, NFLX, TTWO In Focus",NFLX,Yahoo RSS,positive,0.8087322115898132
+2026-06-18 02:19:52,"Dow, S&P 500, Nasdaq Futures Climb On US-Iran Agreement Despite Hawkish Fed Outlook: RUM, INTC, NFLX, RXT In Focus",NFLX,Yahoo RSS,positive,0.6272268891334534
