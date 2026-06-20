@@ -36,3 +36,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-20 12:11:51,"Netflix, Inc. (NFLX) Still One of the Best Falling Stocks to Buy despite Roku and Warner Bros Acquisition Blows",NFLX,Yahoo RSS,positive,0.8873996138572693
 2026-06-20 15:20:00,Is AI a Threat to S&P Global? The Answer May Surprise Investors.,NVDA,Yahoo RSS,neutral,0.0
 2026-06-20 18:20:00,Buying Bonds? This International Bond ETF Has Outperformed U.S. Bonds for 10 Years,NVDA,Yahoo RSS,positive,0.9450439810752868
+2026-06-20 23:05:02,"Is Tesla’s High Valuation Solely Supported by SpaceX? Executives Don’t Rule Out a Merger, and Failed Expectations Threaten a Valuation Collapse - TradingKey",TSLA,Google RSS,negative,-0.8323423862457275
