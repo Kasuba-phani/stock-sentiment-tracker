@@ -39,18 +39,32 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-22 20:19:45,"S&P 500, Nasdaq close lower, dragged by Alphabet and megacap tech; focus on Iran - The Standard (HK)",GOOGL,Google RSS,negative,-0.9572423696517944
 2026-06-22 20:14:24,"US Equity Markets Mixed as Communication Services Stocks Fall, Bond Yields Move Up",GOOGL,Yahoo RSS,negative,-0.95670485496521
 2026-06-22 19:59:06,SpaceX initiates first bond sale while the stock sheds post-IPO gains,GOOGL,Yahoo RSS,negative,-0.553740918636322
-2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",GOOGL,Yahoo RSS,negative,-0.9675930738449097
+2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",GOOGL,Yahoo RSS,negative,-0.9675930738449096
 2026-06-18 17:40:00,Amazon May Start Selling Its Custom AI Chips to Outside Companies. Should Nvidia Investors Be Worried?,AMZN,Bing RSS,neutral,0.0
 2026-06-22 20:14:24,"US Equity Markets Mixed as Communication Services Stocks Fall, Bond Yields Move Up",AMZN,Yahoo RSS,negative,-0.95670485496521
-2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",AMZN,Yahoo RSS,negative,-0.9675930738449097
+2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",AMZN,Yahoo RSS,negative,-0.9675930738449096
 2026-06-22 18:04:35,"Update: US Equity Indexes Mixed Amid Steep Decline in Communication Services, Surging Treasury Yields",AMZN,Yahoo RSS,negative,-0.9646363854408264
-2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",MSFT,Yahoo RSS,negative,-0.9675930738449097
+2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",MSFT,Yahoo RSS,negative,-0.9675930738449096
 2026-06-22 18:04:35,"Update: US Equity Indexes Mixed Amid Steep Decline in Communication Services, Surging Treasury Yields",MSFT,Yahoo RSS,negative,-0.9646363854408264
-2026-06-22 17:44:42,The Nasdaq Keeps Falling. The Rotation From Big Tech Continues.,MSFT,Yahoo RSS,negative,-0.9082348942756653
-2026-06-22 19:03:00,Nvidia Stock Is Falling on a Good Day for Intel and Other Chip Stocks - Barron's,NVDA,Google RSS,negative,-0.9612967371940613
+2026-06-22 17:44:42,The Nasdaq Keeps Falling. The Rotation From Big Tech Continues.,MSFT,Yahoo RSS,negative,-0.9082348942756652
+2026-06-22 19:03:00,Nvidia Stock Is Falling on a Good Day for Intel and Other Chip Stocks - Barron's,NVDA,Google RSS,negative,-0.9612967371940612
 2026-06-22 20:14:24,"US Equity Markets Mixed as Communication Services Stocks Fall, Bond Yields Move Up",NVDA,Yahoo RSS,negative,-0.95670485496521
 2026-06-22 19:06:52,NFLX Stock Sinks To Near 52-Week Low: Retail Traders Think It Is A Great Buying Opportunity,META,Yahoo RSS,negative,-0.9478632807731628
-2026-06-22 17:44:42,The Nasdaq Keeps Falling. The Rotation From Big Tech Continues.,META,Yahoo RSS,negative,-0.9082348942756653
-2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",NFLX,Yahoo RSS,negative,-0.9675930738449097
+2026-06-22 17:44:42,The Nasdaq Keeps Falling. The Rotation From Big Tech Continues.,META,Yahoo RSS,negative,-0.9082348942756652
+2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",NFLX,Yahoo RSS,negative,-0.9675930738449096
 2026-06-22 19:06:52,NFLX Stock Sinks To Near 52-Week Low: Retail Traders Think It Is A Great Buying Opportunity,NFLX,Yahoo RSS,negative,-0.9478632807731628
 2026-06-22 18:04:35,"Update: US Equity Indexes Mixed Amid Steep Decline in Communication Services, Surging Treasury Yields",NFLX,Yahoo RSS,negative,-0.9646363854408264
+2026-06-22 21:13:00,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunge; Amazon, Alphabet, Nvidia Sell Off - Investor's Business Daily",GOOGL,Google RSS,negative,-0.9357154965400696
+2026-06-22 21:04:40,"S&P 500, Nasdaq close lower, dragged by Alphabet and megacap tech; focus on Iran - Reuters",GOOGL,Google RSS,negative,-0.9572704434394836
+2026-06-22 00:07:03,Alphabet weighs on S&P 500 and Nasdaq while Dow ekes out gain in mixed session - Investing.com,GOOGL,Google RSS,negative,-0.4497474730014801
+2026-06-22 21:13:48,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunges; Amazon, Alphabet, Nvidia Sell Off",GOOGL,Yahoo RSS,negative,-0.9643233418464661
+2026-06-22 20:51:31,"Update: Sliding Communication Services, Surging Treasury Yields Push US Equity Indexes in Mixed Territory",GOOGL,Yahoo RSS,negative,-0.968001127243042
+2026-06-22 21:13:00,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunge; Amazon, Alphabet, Nvidia Sell Off - Investor's Business Daily",AMZN,Google RSS,negative,-0.9357154965400696
+2026-06-22 21:13:48,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunges; Amazon, Alphabet, Nvidia Sell Off",AMZN,Yahoo RSS,negative,-0.9643233418464661
+2026-06-22 20:51:31,"Update: Sliding Communication Services, Surging Treasury Yields Push US Equity Indexes in Mixed Territory",AMZN,Yahoo RSS,negative,-0.968001127243042
+2026-06-22 21:13:00,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunge; Amazon, Alphabet, Nvidia Sell Off - Investor's Business Daily",NVDA,Google RSS,negative,-0.9357154965400696
+2026-06-22 17:56:38,Nvidia Still Down From Its High. History Says This Is the Buy Window Investors Beg For - 24/7 Wall St.,NVDA,Google RSS,negative,-0.9277971982955933
+2026-06-22 21:13:48,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunges; Amazon, Alphabet, Nvidia Sell Off",NVDA,Yahoo RSS,negative,-0.9643233418464661
+2026-06-22 22:21:41,"U.S. Stocks Overnight | The three major indices moved mixed; among the 'Magnificent Seven,' only Tesla (TSLA.US) closed higher, while SpaceX (SPCX.US) plunged over 16% - Moomoo",TSLA,Google RSS,negative,-0.9021615982055664
+2026-06-22 22:00:00,Global EV Industry Faces Outsized Risk From Cobalt Supply Disruptions,TSLA,Yahoo RSS,negative,-0.961560845375061
+2026-06-22 20:51:31,"Update: Sliding Communication Services, Surging Treasury Yields Push US Equity Indexes in Mixed Territory",NFLX,Yahoo RSS,negative,-0.968001127243042
