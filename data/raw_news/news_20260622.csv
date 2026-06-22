@@ -31,5 +31,26 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-22 16:41:13,"Stock Market Today: Dow Up, Big Tech Falls Amid These Rate Hike Calls; This AI Stock Tests Entry (Live Coverage)",MSFT,Yahoo RSS,negative,-0.6749658584594727
 2026-06-22 13:07:38,"Tesla’s Missing 10,000: Is Optimus Falling Behind The Robotics Pack? - Trefis",TSLA,Google RSS,neutral,0.0
 2026-06-22 13:08:17,"Tesla's Missing 10,000: Is Optimus Falling Behind The Robotics Pack?",TSLA,Yahoo RSS,negative,-0.5619036555290222
-2026-06-22 15:29:39,Netflix (NFLX) Stock Plummets to 52-Week Low — Why Analysts Still See Upside - Blockonomi,NFLX,Google RSS,negative,-0.9680991172790527
+2026-06-22 15:29:39,Netflix (NFLX) Stock Plummets to 52-Week Low — Why Analysts Still See Upside - Blockonomi,NFLX,Google RSS,negative,-0.9680991172790528
 2026-06-22 08:33:00,Netflix (NFLX) Stock Plummets to 52-Week Low — Why Analysts Still See Upside,NFLX,Bing RSS,negative,-0.9672274589538574
+2026-06-22 18:37:21,"S&P 500, Nasdaq fall, dragged by Alphabet and megacap tech; focus on Iran - Reuters",GOOGL,Google RSS,negative,-0.9483449459075928
+2026-06-22 13:43:29,"‘Go Big or Go Home,’ Says Investor About Alphabet Stock’s Risk and Reward - TipRanks",GOOGL,Google RSS,neutral,0.0
+2026-06-22 00:07:03,Alphabet weighs on S&P and Nasdaq while Dow holds gains in mixed trading - Investing.com,GOOGL,Google RSS,negative,-0.6414444446563721
+2026-06-22 20:19:45,"S&P 500, Nasdaq close lower, dragged by Alphabet and megacap tech; focus on Iran - The Standard (HK)",GOOGL,Google RSS,negative,-0.9572423696517944
+2026-06-22 20:14:24,"US Equity Markets Mixed as Communication Services Stocks Fall, Bond Yields Move Up",GOOGL,Yahoo RSS,negative,-0.95670485496521
+2026-06-22 19:59:06,SpaceX initiates first bond sale while the stock sheds post-IPO gains,GOOGL,Yahoo RSS,negative,-0.553740918636322
+2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",GOOGL,Yahoo RSS,negative,-0.9675930738449097
+2026-06-18 17:40:00,Amazon May Start Selling Its Custom AI Chips to Outside Companies. Should Nvidia Investors Be Worried?,AMZN,Bing RSS,neutral,0.0
+2026-06-22 20:14:24,"US Equity Markets Mixed as Communication Services Stocks Fall, Bond Yields Move Up",AMZN,Yahoo RSS,negative,-0.95670485496521
+2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",AMZN,Yahoo RSS,negative,-0.9675930738449097
+2026-06-22 18:04:35,"Update: US Equity Indexes Mixed Amid Steep Decline in Communication Services, Surging Treasury Yields",AMZN,Yahoo RSS,negative,-0.9646363854408264
+2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",MSFT,Yahoo RSS,negative,-0.9675930738449097
+2026-06-22 18:04:35,"Update: US Equity Indexes Mixed Amid Steep Decline in Communication Services, Surging Treasury Yields",MSFT,Yahoo RSS,negative,-0.9646363854408264
+2026-06-22 17:44:42,The Nasdaq Keeps Falling. The Rotation From Big Tech Continues.,MSFT,Yahoo RSS,negative,-0.9082348942756653
+2026-06-22 19:03:00,Nvidia Stock Is Falling on a Good Day for Intel and Other Chip Stocks - Barron's,NVDA,Google RSS,negative,-0.9612967371940613
+2026-06-22 20:14:24,"US Equity Markets Mixed as Communication Services Stocks Fall, Bond Yields Move Up",NVDA,Yahoo RSS,negative,-0.95670485496521
+2026-06-22 19:06:52,NFLX Stock Sinks To Near 52-Week Low: Retail Traders Think It Is A Great Buying Opportunity,META,Yahoo RSS,negative,-0.9478632807731628
+2026-06-22 17:44:42,The Nasdaq Keeps Falling. The Rotation From Big Tech Continues.,META,Yahoo RSS,negative,-0.9082348942756653
+2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",NFLX,Yahoo RSS,negative,-0.9675930738449097
+2026-06-22 19:06:52,NFLX Stock Sinks To Near 52-Week Low: Retail Traders Think It Is A Great Buying Opportunity,NFLX,Yahoo RSS,negative,-0.9478632807731628
+2026-06-22 18:04:35,"Update: US Equity Indexes Mixed Amid Steep Decline in Communication Services, Surging Treasury Yields",NFLX,Yahoo RSS,negative,-0.9646363854408264
