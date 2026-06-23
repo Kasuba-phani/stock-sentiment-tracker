@@ -62,5 +62,22 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-22 19:03:00,Nvidia Stock Is Falling on a Good Day for Intel and Other Chip Stocks - Barron's,NVDA,Google RSS,negative,-0.9612967371940612
 2026-06-23 16:29:31,Tesla's stock price decline has widened to 5% - WEEX,TSLA,Google RSS,negative,-0.9310526847839355
 2026-06-23 00:24:54,Tech sell-off weighs on Nasdaq and S&P while Dow holds gains in mixed trading - Investing.com,GOOGL,Google RSS,negative,-0.7301381826400757
-2026-06-23 19:29:25,Sector Update: Consumer Stocks Mixed Late Afternoon,AMZN,Yahoo RSS,negative,-0.9352520108222961
+2026-06-23 19:29:25,Sector Update: Consumer Stocks Mixed Late Afternoon,AMZN,Yahoo RSS,negative,-0.935252010822296
 2026-06-23 13:03:49,What Makes Microsoft (MSFT) a Strong Position Amid Challenges? - Insider Monkey,MSFT,Google RSS,neutral,0.0
+2026-06-23 21:50:33,"Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",AAPL,Yahoo RSS,neutral,0.0
+2026-06-23 21:23:59,"Alphabet added to Dow Jones Industrial Average, replacing Verizon - CNBC",GOOGL,Google RSS,neutral,0.0
+2026-06-23 21:41:00,Dow Jones Adds 5th Magnificent Seven Stock - Investor's Business Daily,GOOGL,Google RSS,neutral,0.0
+2026-06-23 22:02:00,"Alphabet to Join Dow Jones Industrial Average, Replacing Verizon - Barron's",GOOGL,Google RSS,neutral,0.0
+2026-06-23 22:45:26,Alphabet to replace Verizon in blue-chip Dow Jones Industrial Average - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-06-23 22:10:00,Google-Parent Alphabet to Replace Verizon in Dow Jones Industrial Average - WSJ,GOOGL,Google RSS,neutral,0.0
+2026-06-23 21:32:40,Alphabet to replace Verizon in blue-chip Dow Jones Industrial Average - Investing.com Nigeria,GOOGL,Google RSS,neutral,0.0
+2026-06-23 22:12:10,Alphabet Set to Join and Honeywell International to Remain in Dow Jones Industrial Average - 富途牛牛,GOOGL,Google RSS,neutral,0.0
+2026-06-23 22:57:19,"Dow Jones Futures: Nasdaq Breaks Support; FedEx, Cerebras Tumble Late With Micron Due",GOOGL,Yahoo RSS,negative,-0.6001603603363037
+2026-06-23 22:13:00,"Alphabet to Join Dow Jones Industrial Average, Replacing Verizon",GOOGL,Yahoo RSS,neutral,0.0
+2026-06-23 22:02:00,Alphabet Set to Join and Honeywell International to Remain in Dow Jones Industrial Average,GOOGL,Yahoo RSS,neutral,0.0
+2026-06-23 21:50:33,"Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",GOOGL,Yahoo RSS,neutral,0.0
+2026-06-23 21:50:33,"Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",AMZN,Yahoo RSS,neutral,0.0
+2026-06-23 21:50:33,"Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",MSFT,Yahoo RSS,neutral,0.0
+2026-06-23 20:41:50,"NVIDIA stock dips near $200 amid broad chip selloff, testing key support level. - Pluang",NVDA,Google RSS,negative,-0.9028284549713135
+2026-06-23 22:48:57,Nasdaq closes down more than 2% as global tech sell-off deepens,NVDA,Yahoo RSS,negative,-0.9709275364875793
+2026-06-23 22:40:46,"Sensata Technologies, Skyworks Solutions, and Impinj Shares Are Falling, What You Need To Know",NVDA,Yahoo RSS,negative,-0.5284647941589355
