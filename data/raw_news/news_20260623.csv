@@ -55,5 +55,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-23 06:36:04,MSFT Stock Enters Bear Market After 21% Drop From Peak: Retail Cautious But Analysts Stay Overwhelmingly Bullish,MSFT,Yahoo RSS,negative,-0.9508169293403624
 2026-06-23 08:05:00,"Oil Prices Are Falling, but the Fed's Decision to Hold Interest Rates Steady May Challenge Opendoor Stock",NVDA,Yahoo RSS,negative,-0.9411044716835022
 2026-06-17 15:52:47,Tesla stock slips below $400: why upbeat EV sales estimates are not helping - TradingView,TSLA,Google RSS,negative,-0.5370069146156311
-2026-06-23 12:10:00,"Up 24% in 1 Month Amid Falling Fuel Prices, Is Carnival Still a Strong Buy Before June 23?",NVDA,Yahoo RSS,positive,0.9277613162994385
-2026-06-23 12:02:37,Netflix (NFLX) Hits a 52-Week Low — Why 37 Analysts Still See 56% Upside - TradingKey,NFLX,Google RSS,negative,-0.9517979025840759
+2026-06-23 12:10:00,"Up 24% in 1 Month Amid Falling Fuel Prices, Is Carnival Still a Strong Buy Before June 23?",NVDA,Yahoo RSS,positive,0.9277613162994384
+2026-06-23 12:02:37,Netflix (NFLX) Hits a 52-Week Low — Why 37 Analysts Still See 56% Upside - TradingKey,NFLX,Google RSS,negative,-0.951797902584076
+2026-06-23 14:40:37,Tech stocks lead broad market decline on concerns about AI companies' heavy spending and rising rate expectations - eciks.org,GOOGL,Google RSS,negative,-0.9535270929336548
+2026-06-23 00:24:54,"Stocks pare some losses, Dow turns green but tech sell-off remains major focus - Investing.com",GOOGL,Google RSS,neutral,0.0
+2026-06-22 19:03:00,Nvidia Stock Is Falling on a Good Day for Intel and Other Chip Stocks - Barron's,NVDA,Google RSS,negative,-0.9612967371940613
