@@ -59,4 +59,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-23 12:02:37,Netflix (NFLX) Hits a 52-Week Low — Why 37 Analysts Still See 56% Upside - TradingKey,NFLX,Google RSS,negative,-0.951797902584076
 2026-06-23 14:40:37,Tech stocks lead broad market decline on concerns about AI companies' heavy spending and rising rate expectations - eciks.org,GOOGL,Google RSS,negative,-0.9535270929336548
 2026-06-23 00:24:54,"Stocks pare some losses, Dow turns green but tech sell-off remains major focus - Investing.com",GOOGL,Google RSS,neutral,0.0
-2026-06-22 19:03:00,Nvidia Stock Is Falling on a Good Day for Intel and Other Chip Stocks - Barron's,NVDA,Google RSS,negative,-0.9612967371940613
+2026-06-22 19:03:00,Nvidia Stock Is Falling on a Good Day for Intel and Other Chip Stocks - Barron's,NVDA,Google RSS,negative,-0.9612967371940612
+2026-06-23 16:29:31,Tesla's stock price decline has widened to 5% - WEEX,TSLA,Google RSS,negative,-0.9310526847839355
