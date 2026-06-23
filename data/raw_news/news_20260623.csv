@@ -3,29 +3,29 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-22 13:43:29,"‘Go Big or Go Home,’ Says Investor About Alphabet Stock’s Risk and Reward - TipRanks",GOOGL,Google RSS,neutral,0.0
 2026-06-22 21:13:00,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunge; Amazon, Alphabet, Nvidia Sell Off - Investor's Business Daily",GOOGL,Google RSS,negative,-0.9357154965400696
 2026-06-22 21:04:40,"S&P 500, Nasdaq close lower, dragged by Alphabet and megacap tech; focus on Iran - Reuters",GOOGL,Google RSS,negative,-0.9572704434394836
-2026-06-22 22:10:00,"S&P 500, Nasdaq close lower, dragged by Alphabet, tech - galvnews.com",GOOGL,Google RSS,negative,-0.9521103501319885
-2026-06-22 23:43:33,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunges; Amazon, Alphabet, Nvidia Sell Off",GOOGL,Yahoo RSS,negative,-0.9643233418464661
+2026-06-22 22:10:00,"S&P 500, Nasdaq close lower, dragged by Alphabet, tech - galvnews.com",GOOGL,Google RSS,negative,-0.9521103501319884
+2026-06-22 23:43:33,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunges; Amazon, Alphabet, Nvidia Sell Off",GOOGL,Yahoo RSS,negative,-0.964323341846466
 2026-06-22 23:15:19,"Domo and DigitalOcean Shares Are Falling, What You Need To Know",GOOGL,Yahoo RSS,neutral,0.0
 2026-06-22 20:51:31,"Update: Sliding Communication Services, Surging Treasury Yields Push US Equity Indexes in Mixed Territory",GOOGL,Yahoo RSS,negative,-0.968001127243042
 2026-06-22 15:43:44,"Amazon shares hold steady as Prime Day kicks off June 23, with investors watching consumer demand signals - eciks.org",AMZN,Google RSS,neutral,0.0
 2026-06-22 21:13:00,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunge; Amazon, Alphabet, Nvidia Sell Off - Investor's Business Daily",AMZN,Google RSS,negative,-0.9357154965400696
-2026-06-22 23:43:33,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunges; Amazon, Alphabet, Nvidia Sell Off",AMZN,Yahoo RSS,negative,-0.9643233418464661
+2026-06-22 23:43:33,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunges; Amazon, Alphabet, Nvidia Sell Off",AMZN,Yahoo RSS,negative,-0.964323341846466
 2026-06-22 20:51:31,"Update: Sliding Communication Services, Surging Treasury Yields Push US Equity Indexes in Mixed Territory",AMZN,Yahoo RSS,negative,-0.968001127243042
 2026-06-22 20:14:24,"US Equity Markets Mixed as Communication Services Stocks Fall, Bond Yields Move Up",AMZN,Yahoo RSS,negative,-0.95670485496521
-2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",AMZN,Yahoo RSS,negative,-0.9675930738449097
+2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",AMZN,Yahoo RSS,negative,-0.9675930738449096
 2026-06-22 14:11:12,Microsoft in bearish downtrend near 52-week low: Live levels - Investing.com,MSFT,Google RSS,negative,-0.7408661246299744
 2026-06-19 10:44:29,"Microsoft stock drops below 200-week average, signaling potential buying opportunity amid June slump. - Pluang",MSFT,Google RSS,negative,-0.9168217182159424
 2026-06-21 13:50:58,"Dear Microsoft stock fans, mark your calendars for June 30",MSFT,Bing RSS,neutral,0.0
 2026-06-22 23:15:19,"Domo and DigitalOcean Shares Are Falling, What You Need To Know",MSFT,Yahoo RSS,neutral,0.0
-2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",MSFT,Yahoo RSS,negative,-0.9675930738449097
+2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",MSFT,Yahoo RSS,negative,-0.9675930738449096
 2026-06-22 21:13:00,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunge; Amazon, Alphabet, Nvidia Sell Off - Investor's Business Daily",NVDA,Google RSS,negative,-0.9357154965400696
-2026-06-22 17:56:38,Nvidia Still Down From Its High. History Says This Is the Buy Window Investors Beg For - 24/7 Wall St.,NVDA,Google RSS,negative,-0.9277971982955933
-2026-06-22 23:43:33,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunges; Amazon, Alphabet, Nvidia Sell Off",NVDA,Yahoo RSS,negative,-0.9643233418464661
+2026-06-22 17:56:38,Nvidia Still Down From Its High. History Says This Is the Buy Window Investors Beg For - 24/7 Wall St.,NVDA,Google RSS,negative,-0.9277971982955932
+2026-06-22 23:43:33,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunges; Amazon, Alphabet, Nvidia Sell Off",NVDA,Yahoo RSS,negative,-0.964323341846466
 2026-06-22 13:07:38,"Tesla’s Missing 10,000: Is Optimus Falling Behind The Robotics Pack? - Trefis",TSLA,Google RSS,neutral,0.0
 2026-06-22 05:27:50,Tesla Stock And 2 Founder Led AI Stocks With Strong Profit Margins - simplywall.st,TSLA,Google RSS,positive,0.7205893397331238
 2026-06-22 22:00:00,Global EV Industry Faces Outsized Risk From Cobalt Supply Disruptions,TSLA,Yahoo RSS,negative,-0.961560845375061
 2026-06-22 13:08:17,"Tesla's Missing 10,000: Is Optimus Falling Behind The Robotics Pack?",TSLA,Yahoo RSS,negative,-0.5619047284126282
-2026-06-21 17:36:33,Meta stock seen rising 48% to $838 as earnings beat and AI growth drive optimism. - Pluang,META,Google RSS,positive,0.9423921704292297
+2026-06-21 17:36:33,Meta stock seen rising 48% to $838 as earnings beat and AI growth drive optimism. - Pluang,META,Google RSS,positive,0.9423921704292296
 2026-06-22 14:21:00,NFLX Stock Sinks To Near 52-Week Low: Retail Traders Think It Is A Great Buying Opportunity,META,Bing RSS,negative,-0.9478632807731628
 2026-06-22 17:44:42,The Nasdaq Keeps Falling. The Rotation From Big Tech Continues.,META,Yahoo RSS,negative,-0.9082346558570862
 2026-06-18 22:47:00,Netflix stock shows recovery signs after bombshell takeover report - thestreet.com,NFLX,Google RSS,neutral,0.0
@@ -33,5 +33,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-22 14:21:00,NFLX Stock Sinks To Near 52-Week Low: Retail Traders Think It Is A Great Buying Opportunity,NFLX,Bing RSS,negative,-0.9478632807731628
 2026-06-18 15:47:00,Netflix stock shows recovery signs after bombshell Lionsgate takeover report,NFLX,Bing RSS,positive,0.8992493748664856
 2026-06-22 20:51:31,"Update: Sliding Communication Services, Surging Treasury Yields Push US Equity Indexes in Mixed Territory",NFLX,Yahoo RSS,negative,-0.968001127243042
-2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",NFLX,Yahoo RSS,negative,-0.9675930738449097
-2026-06-22 18:04:35,"Update: US Equity Indexes Mixed Amid Steep Decline in Communication Services, Surging Treasury Yields",NFLX,Yahoo RSS,negative,-0.9646362662315369
+2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",NFLX,Yahoo RSS,negative,-0.9675930738449096
+2026-06-22 18:04:35,"Update: US Equity Indexes Mixed Amid Steep Decline in Communication Services, Surging Treasury Yields",NFLX,Yahoo RSS,negative,-0.9646362662315368
+2026-06-23 00:26:22,"US stock futures fall as tech remains skittish after Alphabet, SpaceX losses - Investing.com",GOOGL,Google RSS,negative,-0.9125098586082458
+2026-06-22 21:57:00,"Stock Market Ends Mixed As SpaceX, Software Names Cast Pall On Nasdaq; Small Caps Shine - Investor's Business Daily",GOOGL,Google RSS,negative,-0.4887176752090454
+2026-06-22 20:59:20,[Key Points on NY Stocks] Caterpillar and Micron traded firmly; Alphabet declined (22nd). - Moomoo,GOOGL,Google RSS,negative,-0.554671049118042
+2026-06-23 01:15:19,"Tenable, PagerDuty, and HubSpot Shares Are Falling, What You Need To Know",GOOGL,Yahoo RSS,negative,-0.5822139382362366
+2026-06-23 00:35:19,"Upstart, Atlassian, and Asure Software Shares Are Falling, What You Need To Know",GOOGL,Yahoo RSS,negative,-0.5531814694404602
+2026-06-18 17:40:00,Amazon May Start Selling Its Custom AI Chips to Outside Companies. Should Nvidia Investors Be Worried?,AMZN,Bing RSS,neutral,0.0
+2026-06-23 01:15:19,"Tenable, PagerDuty, and HubSpot Shares Are Falling, What You Need To Know",MSFT,Yahoo RSS,negative,-0.5822139382362366
+2026-06-23 00:35:19,"Upstart, Atlassian, and Asure Software Shares Are Falling, What You Need To Know",MSFT,Yahoo RSS,negative,-0.5531814694404602
+2026-06-22 21:40:31,"Netflix, Inc.’s stock price takes a hit, plummeting to $72.88 with a sharp 5.82% decrease - Smartkarma",NFLX,Google RSS,negative,-0.9661549925804138
