@@ -44,7 +44,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-23 01:15:19,"Tenable, PagerDuty, and HubSpot Shares Are Falling, What You Need To Know",MSFT,Yahoo RSS,negative,-0.5822139382362366
 2026-06-23 00:35:19,"Upstart, Atlassian, and Asure Software Shares Are Falling, What You Need To Know",MSFT,Yahoo RSS,negative,-0.5531814694404602
 2026-06-22 21:40:31,"Netflix, Inc.’s stock price takes a hit, plummeting to $72.88 with a sharp 5.82% decrease - Smartkarma",NFLX,Google RSS,negative,-0.9661549925804138
-2026-06-23 00:28:39,"US stock futures fall as tech remains skittish after Alphabet, SpaceX losses - Investing.com Nigeria",GOOGL,Google RSS,negative,-0.9168015122413635
+2026-06-23 00:28:39,"US stock futures fall as tech remains skittish after Alphabet, SpaceX losses - Investing.com Nigeria",GOOGL,Google RSS,negative,-0.9168015122413636
 2026-06-23 06:44:03,"SpaceX Plunges 5%, Falling Below Amazon's Market Cap. Which Growth Stock Is the Better Buy Now? - The Motley Fool",AMZN,Google RSS,negative,-0.8451108336448669
 2026-06-23 06:48:48,"SpaceX Plunges 5%, Falling Below Amazon's Market Cap. Which Growth Stock Is the Better Buy Now? - AOL.com",AMZN,Google RSS,negative,-0.7194779515266418
 2026-06-22 09:33:00,Should Amazon Investors Be Concerned That New Fed Chair Kevin Warsh Isn't Cutting Interest Rates? - The Motley Fool,AMZN,Google RSS,neutral,0.0
@@ -52,6 +52,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-23 08:53:52,SpaceX sheds $600 billion in three days as it taps the bond market for the first time,AMZN,Yahoo RSS,neutral,0.0
 2026-06-23 06:36:00,MSFT Stock Enters Bear Market After 21% Drop From Peak: Retail Cautious But Analysts Stay Overwhelmingly Bullish - TradingView,MSFT,Google RSS,negative,-0.9586390852928162
 2026-06-23 08:53:52,SpaceX sheds $600 billion in three days as it taps the bond market for the first time,MSFT,Yahoo RSS,neutral,0.0
-2026-06-23 06:36:04,MSFT Stock Enters Bear Market After 21% Drop From Peak: Retail Cautious But Analysts Stay Overwhelmingly Bullish,MSFT,Yahoo RSS,negative,-0.9508169293403625
+2026-06-23 06:36:04,MSFT Stock Enters Bear Market After 21% Drop From Peak: Retail Cautious But Analysts Stay Overwhelmingly Bullish,MSFT,Yahoo RSS,negative,-0.9508169293403624
 2026-06-23 08:05:00,"Oil Prices Are Falling, but the Fed's Decision to Hold Interest Rates Steady May Challenge Opendoor Stock",NVDA,Yahoo RSS,negative,-0.9411044716835022
 2026-06-17 15:52:47,Tesla stock slips below $400: why upbeat EV sales estimates are not helping - TradingView,TSLA,Google RSS,negative,-0.5370069146156311
+2026-06-23 12:10:00,"Up 24% in 1 Month Amid Falling Fuel Prices, Is Carnival Still a Strong Buy Before June 23?",NVDA,Yahoo RSS,positive,0.9277613162994385
+2026-06-23 12:02:37,Netflix (NFLX) Hits a 52-Week Low — Why 37 Analysts Still See 56% Upside - TradingKey,NFLX,Google RSS,negative,-0.9517979025840759
