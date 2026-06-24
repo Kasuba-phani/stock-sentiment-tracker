@@ -77,3 +77,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-24 11:03:02,Why Prime Day is lifting Amazon stock amid a brutal tech sector sell-off,AMZN,Bing RSS,positive,0.5399625301361084
 2026-06-24 19:56:55,"Sunrun Shares Rise on Deal With Tesla, Renew Home to Supply Power for Data Centers",TSLA,Yahoo RSS,positive,0.8137118816375732
 2026-06-23 12:49:02,What Makes Microsoft (MSFT) a Strong Position Amid Challenges?,MSFT,Yahoo Global,neutral,0.0
+2026-06-24 22:51:16,"S&P 500, Nasdaq Close Lower On Tech Weakness But Recover After-Hours On Strong Micron Earnings — MU, AVGO, GOOGL In Focus - Stocktwits",GOOGL,Google RSS,negative,-0.9289575219154358
+2026-06-24 22:45:54,"S&P 500, Nasdaq Close Lower On Tech Weakness But Recover After-Hours On Strong Micron Earnings — MU, AVGO, GOOGL In Focus",GOOGL,Yahoo RSS,negative,-0.9301149249076843
+2026-06-24 21:52:00,Chip stocks surge after-hours on Micron’s record quarter,NVDA,Yahoo RSS,positive,0.6362735629081726
