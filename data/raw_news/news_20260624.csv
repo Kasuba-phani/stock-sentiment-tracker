@@ -23,11 +23,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-22 15:43:44,"Amazon shares hold steady as Prime Day kicks off June 23, with investors watching consumer demand signals - eciks.org",AMZN,Google RSS,neutral,0.0
 2026-06-22 09:33:00,Should Amazon Investors Be Concerned That New Fed Chair Kevin Warsh Isn't Cutting Interest Rates? - The Motley Fool,AMZN,Google RSS,neutral,0.0
 2026-06-23 21:50:33,"Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",AMZN,Yahoo RSS,neutral,0.0
-2026-06-23 19:29:25,Sector Update: Consumer Stocks Mixed Late Afternoon,AMZN,Yahoo RSS,negative,-0.9352520108222961
+2026-06-23 19:29:25,Sector Update: Consumer Stocks Mixed Late Afternoon,AMZN,Yahoo RSS,negative,-0.935252010822296
 2026-06-23 06:36:00,MSFT Stock Enters Bear Market After 21% Drop From Peak: Retail Cautious But Analysts Stay Overwhelmingly Bullish - TradingView,MSFT,Google RSS,negative,-0.9586390852928162
 2026-06-23 21:50:33,"Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",MSFT,Yahoo RSS,neutral,0.0
-2026-06-22 19:03:00,Nvidia Stock Is Falling on a Good Day for Intel and Other Chip Stocks - Barron's,NVDA,Google RSS,negative,-0.9612967371940613
-2026-06-23 20:41:50,"NVIDIA stock dips near $200 amid broad chip selloff, testing key support level. - Pluang",NVDA,Google RSS,negative,-0.9028284549713135
+2026-06-22 19:03:00,Nvidia Stock Is Falling on a Good Day for Intel and Other Chip Stocks - Barron's,NVDA,Google RSS,negative,-0.9612967371940612
+2026-06-23 20:41:50,"NVIDIA stock dips near $200 amid broad chip selloff, testing key support level. - Pluang",NVDA,Google RSS,negative,-0.9028284549713136
 2026-06-23 02:01:00,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunge; Amazon, Alphabet, Nvidia Sell Off - Investor's Business Daily",NVDA,Google RSS,negative,-0.9357154965400696
 2026-06-24 00:19:00,"The Dow Jones Industrial Average Will Change Forever on June 29, With Verizon Getting the Boot and a Virtual Monopoly Joining the Index",NVDA,Yahoo RSS,neutral,0.0
 2026-06-22 05:27:50,Tesla Stock And 2 Founder Led AI Stocks With Strong Profit Margins - simplywall.st,TSLA,Google RSS,positive,0.7205893397331238
@@ -35,8 +35,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-23 16:29:31,Tesla's stock price decline has widened to 5% - WEEX,TSLA,Google RSS,negative,-0.9310526847839355
 2026-06-17 15:52:47,Tesla stock slips below $400: why upbeat EV sales estimates are not helping - TradingView,TSLA,Google RSS,negative,-0.5370069146156311
 2026-06-18 22:47:00,Netflix stock shows recovery signs after bombshell takeover report - thestreet.com,NFLX,Google RSS,neutral,0.0
-2026-06-23 12:02:37,Netflix (NFLX) Hits a 52-Week Low — Why 37 Analysts Still See 56% Upside - TradingKey,NFLX,Google RSS,negative,-0.9517979025840759
+2026-06-23 12:02:37,Netflix (NFLX) Hits a 52-Week Low — Why 37 Analysts Still See 56% Upside - TradingKey,NFLX,Google RSS,negative,-0.951797902584076
 2026-06-22 14:21:00,NFLX Stock Sinks To Near 52-Week Low: Retail Traders Think It Is A Great Buying Opportunity,NFLX,Bing RSS,negative,-0.9478632807731628
 2026-06-22 08:33:00,Netflix (NFLX) Stock Plummets to 52-Week Low — Why Analysts Still See Upside,NFLX,Bing RSS,negative,-0.9672274589538574
-2026-06-22 20:51:31,"Update: Sliding Communication Services, Surging Treasury Yields Push US Equity Indexes in Mixed Territory",NFLX,Yahoo RSS,negative,-0.9680012464523315
-2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",NFLX,Yahoo RSS,negative,-0.9675930738449097
+2026-06-22 20:51:31,"Update: Sliding Communication Services, Surging Treasury Yields Push US Equity Indexes in Mixed Territory",NFLX,Yahoo RSS,negative,-0.9680012464523317
+2026-06-22 19:50:09,"Update: US Equity Indexes Mixed as Communication Services Sector Slides, Treasury Yields Surge",NFLX,Yahoo RSS,negative,-0.9675930738449096
+2026-06-23 17:35:01,GOOGL stock gains after-hours as Alphabet is set to replace Verizon in Dow Jones — retail eyes $400 level,GOOGL,Bing RSS,neutral,0.0
+2026-06-23 06:31:00,"SpaceX Plunges 5%, Falling Below Amazon's Market Cap. Which Growth Stock Is the Better Buy Now? - The Globe and Mail",AMZN,Google RSS,negative,-0.9132364988327026
