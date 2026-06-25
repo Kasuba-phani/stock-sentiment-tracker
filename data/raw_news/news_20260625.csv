@@ -83,3 +83,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-25 18:01:35,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",META,Yahoo RSS,negative,-0.9155545234680176
 2026-06-25 12:28:00,Netflix stock craters to lowest level in 20 months,NFLX,Bing RSS,negative,-0.9599654078483582
 2026-06-25 11:41:35,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",NFLX,Bing RSS,negative,-0.9155545234680176
+2026-06-25 20:56:00,"Nasdaq falls again on mixed day for US stocks, oil prices rise",AAPL,Yahoo RSS,negative,-0.9449567794799805
+2026-06-25 20:04:21,"US Equity Markets Mixed After Micron Technology's Results, Surge in Annual Inflation Rate",AAPL,Yahoo RSS,positive,0.7313408851623535
+2026-06-25 13:30:07,MSFT stock slides 4.5% — Microsoft price target revision by Stifel and Xbox pricing changes in focus,MSFT,Bing RSS,negative,-0.9436952471733093
+2026-06-25 10:40:34,META PLATFORMS INC-CLASS A (NASDAQ:META): Strong Growth Stock with a 7/10 Technical Setup Poised for a Breakout - ChartMill,META,Google RSS,positive,0.9429550170898438
+2026-06-25 20:51:00,Microsoft’s stock is suffering a historic June rout as investors balk at heavy spending,MSFT,MarketWatch Top,negative,-0.9670944213867188
