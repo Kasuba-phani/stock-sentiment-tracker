@@ -11,8 +11,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-24 17:20:37,Alphabet Joins Dow Jones Industrial Average: Here's How The Last Three Additions Performed - Benzinga,GOOGL,Google RSS,neutral,0.0
 2026-06-23 02:01:00,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunge; Amazon, Alphabet, Nvidia Sell Off - Investor's Business Daily",GOOGL,Google RSS,negative,-0.9357154965400696
 2026-06-24 06:55:00,"Alphabet added to Dow Jones Industrial Average, replacing Verizon",GOOGL,Bing RSS,neutral,0.0
-2026-06-24 08:25:00,Alphabet stock gains after Dow Jones inclusion announcement,GOOGL,Bing RSS,positive,0.39668816328048706
-2026-06-24 22:45:54,"S&P 500, Nasdaq Close Lower On Tech Weakness But Recover After-Hours On Strong Micron Earnings — MU, AVGO, GOOGL In Focus",GOOGL,Yahoo RSS,negative,-0.9301149249076843
+2026-06-24 08:25:00,Alphabet stock gains after Dow Jones inclusion announcement,GOOGL,Bing RSS,positive,0.396688163280487
+2026-06-24 22:45:54,"S&P 500, Nasdaq Close Lower On Tech Weakness But Recover After-Hours On Strong Micron Earnings — MU, AVGO, GOOGL In Focus",GOOGL,Yahoo RSS,negative,-0.9301149249076844
 2026-06-24 19:48:02,GOOGL Stock Alert: What to Know as Alphabet Joins the Dow Jones Industrial Average,GOOGL,Yahoo RSS,neutral,0.0
 2026-06-23 02:01:00,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunge; Amazon, Alphabet, Nvidia Sell Off - Investor's Business Daily",AMZN,Google RSS,negative,-0.9357154965400696
 2026-06-23 07:11:00,"SpaceX Plunges 5%, Falling Below Amazon's Market Cap. Which Growth Stock Is the Better Buy Now? - The Motley Fool",AMZN,Google RSS,negative,-0.8451108336448669
@@ -23,12 +23,21 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-24 18:32:38,"Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",MSFT,Yahoo RSS,neutral,0.0
 2026-06-24 10:36:04,WESPAC Advisors SoCal LLC Has $10.88 Million Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,neutral,0.0
 2026-06-24 09:26:56,"15 AI Stocks Analysts Are Watching: Microsoft, Nvidia, and More - Insider Monkey",NVDA,Google RSS,neutral,0.0
-2026-06-22 19:03:00,Nvidia Stock Is Falling on a Good Day for Intel and Other Chip Stocks - Barron's,NVDA,Google RSS,negative,-0.9612967371940613
+2026-06-22 19:03:00,Nvidia Stock Is Falling on a Good Day for Intel and Other Chip Stocks - Barron's,NVDA,Google RSS,negative,-0.9612967371940612
 2026-06-23 02:01:00,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunge; Amazon, Alphabet, Nvidia Sell Off - Investor's Business Daily",NVDA,Google RSS,negative,-0.9357154965400696
 2026-06-25 01:59:07,"Nasdaq, S&P 500, Dow Futures Rise As Micron, Qualcomm Calm AI Jitters: Why WEN, SPCX, NVDA Stocks Are Also In Focus",NVDA,Yahoo RSS,neutral,0.0
 2026-06-22 13:07:38,"Tesla’s Missing 10,000: Is Optimus Falling Behind The Robotics Pack? - Trefis",TSLA,Google RSS,neutral,0.0
 2026-06-24 19:56:55,"Sunrun Shares Rise on Deal With Tesla, Renew Home to Supply Power for Data Centers",TSLA,Yahoo RSS,positive,0.8137118816375732
 2026-06-25 01:59:07,"Nasdaq, S&P 500, Dow Futures Rise As Micron, Qualcomm Calm AI Jitters: Why WEN, SPCX, NVDA Stocks Are Also In Focus",META,Yahoo RSS,neutral,0.0
 2026-06-18 22:47:00,Netflix stock shows recovery signs after bombshell takeover report - thestreet.com,NFLX,Google RSS,neutral,0.0
-2026-06-23 12:02:37,Netflix (NFLX) Hits a 52-Week Low — Why 37 Analysts Still See 56% Upside - TradingKey,NFLX,Google RSS,negative,-0.9517979025840759
+2026-06-23 12:02:37,Netflix (NFLX) Hits a 52-Week Low — Why 37 Analysts Still See 56% Upside - TradingKey,NFLX,Google RSS,negative,-0.951797902584076
 2026-06-22 08:33:00,Netflix (NFLX) Stock Plummets to 52-Week Low — Why Analysts Still See Upside,NFLX,Bing RSS,negative,-0.9672274589538574
+2026-06-25 05:05:41,I Correctly Predicted Alphabet Would Join the Dow Jones Industrial Average in June. Here's What the Index Shake-Up Means for Investors. - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-06-24 11:56:00,Alphabet replacing Verizon in Dow Jones Industrial Average index - Proactive financial news,GOOGL,Google RSS,neutral,0.0
+2026-06-24 23:00:00,I Correctly Predicted Alphabet Would Join the Dow Jones Industrial Average in June. Here's What the Index Shake-Up Means for Investors.,GOOGL,Bing RSS,neutral,0.0
+2026-06-23 19:12:32,"‘History Suggests a Rebound Ahead,’ Says Top Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,positive,0.8251162767410278
+2026-06-24 00:44:56,"Microsoft stock seen as a buy with 33% upside after sharp drop, strong AI and cloud growth. - Pluang",MSFT,Google RSS,positive,0.9047301411628723
+2026-06-25 01:25:00,MSFT Stock Heads For Worst H1 Since 2000: Retail Traders Blame Chips Supercycle As Mood Dips,MSFT,Bing RSS,negative,-0.9663158059120178
+2026-06-21 16:06:32,Analysts see Nvidia stock climbing up to 46% despite slump - MSN,NVDA,Google RSS,positive,0.9500291347503662
+2026-06-25 05:20:00,I Correctly Predicted Alphabet Would Join the Dow Jones Industrial Average in June. Here's What the Index Shake-Up Means for Investors.,NVDA,Yahoo RSS,neutral,0.0
+2026-06-25 08:09:13,"Meet the Growth Stock That's Cheaper Than 6 ""Magnificent Seven"" Stocks. Here's Why It's a No-Brainer Buy Before the End of June. - The Motley Fool",NFLX,Google RSS,neutral,0.0
