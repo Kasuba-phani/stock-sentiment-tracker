@@ -66,3 +66,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-25 16:19:08,Microsoft Forecast: Strong Buy With Near-Unanimous Analyst Support,MSFT,Yahoo RSS,positive,0.9487183094024658
 2026-06-25 15:12:01,"Dow Soars Over 750 Points, Hits Record High As Investors Look Beyond Tech Stocks — PCE Inflation Comes In Hottest Since October 2023",MSFT,Yahoo RSS,positive,0.8566737771034241
 2026-06-25 16:19:08,Microsoft Forecast: Strong Buy With Near-Unanimous Analyst Support,NVDA,Yahoo RSS,positive,0.9487183094024658
+2026-06-25 17:24:24,Apple stock is Thursday’s worst DOW performer - MacDailyNews,AAPL,Google RSS,negative,-0.9584752321243286
+2026-06-25 19:44:00,"NASDAQ Index, SP500, Dow Jones Forecasts – NASDAQ Pulls Back As Apple Dives 5.5% - FXEmpire",AAPL,Google RSS,negative,-0.9147121906280518
+2026-06-25 19:15:35,Big Tech stocks tumble while Micron continues to gain on Q3 earnings,AAPL,Yahoo RSS,negative,-0.9390195608139038
+2026-06-25 18:15:12,"Moody’s Top Economist Warns AI Is ‘Juicing Up’ Inflation, and It’s Not Going Away",AAPL,Yahoo RSS,negative,-0.7861959934234619
+2026-06-25 18:01:35,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",AAPL,Yahoo RSS,negative,-0.9155545234680176
+2026-06-25 02:07:19,GOOGL Stock Gains After-Hours As Alphabet Is Set To Replace Verizon In Dow Jones — Retail Eyes ‘$400’ Level - Stocktwits,GOOGL,Google RSS,neutral,0.0
+2026-06-25 19:45:00,Micron earnings beat fuels hopes for Tech rally rebound,GOOGL,Yahoo RSS,positive,0.9006258249282837
+2026-06-25 18:01:35,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",GOOGL,Yahoo RSS,negative,-0.9155545234680176
+2026-06-25 18:01:35,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",AMZN,Yahoo RSS,negative,-0.9155545234680176
+2026-06-25 11:30:25,MSFT on track for worst H1 performance in 26 years as retail traders turn bearish amid chip supercycle - eciks.org,MSFT,Google RSS,negative,-0.9692083597183228
+2026-06-25 19:45:00,Micron earnings beat fuels hopes for Tech rally rebound,MSFT,Yahoo RSS,positive,0.9006258249282837
+2026-06-25 19:27:54,"Microsoft stock tumbles, Micron sparks memory chip rally, Qualcomm's data center venture",MSFT,Yahoo RSS,negative,-0.6729360818862915
+2026-06-25 19:45:00,Micron earnings beat fuels hopes for Tech rally rebound,NVDA,Yahoo RSS,positive,0.9006258249282837
+2026-06-25 18:04:45,Why Is DraftKings Stock Falling On Thursday? - Benzinga,META,Google RSS,negative,-0.9198026061058044
+2026-06-25 18:01:35,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",META,Yahoo RSS,negative,-0.9155545234680176
+2026-06-25 12:28:00,Netflix stock craters to lowest level in 20 months,NFLX,Bing RSS,negative,-0.9599654078483582
+2026-06-25 11:41:35,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",NFLX,Bing RSS,negative,-0.9155545234680176
