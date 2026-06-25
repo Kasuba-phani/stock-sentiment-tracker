@@ -43,12 +43,26 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-25 08:09:13,"Meet the Growth Stock That's Cheaper Than 6 ""Magnificent Seven"" Stocks. Here's Why It's a No-Brainer Buy Before the End of June. - The Motley Fool",NFLX,Google RSS,neutral,0.0
 2026-06-25 11:15:00,"With No Interest Rate Cut, Should You Sell SoFi Stock?",NVDA,Yahoo RSS,neutral,0.0
 2026-06-25 08:25:00,"Meet the Growth Stock That's Cheaper Than 6 ""Magnificent Seven"" Stocks. Here's Why It's a No-Brainer Buy Before the End of June.",NFLX,Yahoo RSS,neutral,0.0
-2026-06-25 14:35:13,[New York Stock Market] Dow Hits Record High... Nasdaq Falls on Apple Price Hikes - 아시아경제,AAPL,Google RSS,negative,-0.9503316879272461
-2026-06-25 13:52:00,May PCE: Inflation ticks up to highest level since 2023,AAPL,Yahoo RSS,positive,0.9289223551750183
+2026-06-25 14:35:13,[New York Stock Market] Dow Hits Record High... Nasdaq Falls on Apple Price Hikes - 아시아경제,AAPL,Google RSS,negative,-0.950331687927246
+2026-06-25 13:52:00,May PCE: Inflation ticks up to highest level since 2023,AAPL,Yahoo RSS,positive,0.9289223551750184
 2026-06-25 14:30:00,"[Latest] Global AI Voice Agents in Healthcare Market Size/Share Worth USD 14.37 Billion by 2035 at a 18.3% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",GOOGL,Yahoo RSS,neutral,0.0
 2026-06-25 07:50:00,MSFT Stock Heads For Worst H1 Since 2000: Retail Traders Blame Chips Supercycle As Mood Dips - Stocktwits,MSFT,Google RSS,negative,-0.9537500143051147
 2026-06-25 14:30:00,"[Latest] Global AI Voice Agents in Healthcare Market Size/Share Worth USD 14.37 Billion by 2035 at a 18.3% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",MSFT,Yahoo RSS,neutral,0.0
-2026-06-25 14:37:07,U.S. Stocks Move Lower | Major Tech Stocks Decline Broadly; NVIDIA (NVDA.US) Drops Over 2% - Moomoo,NVDA,Google RSS,negative,-0.9676371216773987
-2026-06-25 13:52:00,May PCE: Inflation ticks up to highest level since 2023,NVDA,Yahoo RSS,positive,0.9289223551750183
+2026-06-25 14:37:07,U.S. Stocks Move Lower | Major Tech Stocks Decline Broadly; NVIDIA (NVDA.US) Drops Over 2% - Moomoo,NVDA,Google RSS,negative,-0.9676371216773988
+2026-06-25 13:52:00,May PCE: Inflation ticks up to highest level since 2023,NVDA,Yahoo RSS,positive,0.9289223551750184
 2026-06-25 13:43:00,Chevron Has Surged Over 14% in 2026 and Still Yields 4.1%. Is It Still Worth Buying for Passive Income Now?,NVDA,Yahoo RSS,neutral,0.0
 2026-06-25 00:19:32,Global chip stocks jump as blowout Micron results reignite AI rally,TSLA,Yahoo RSS,negative,-0.6086941957473755
+2026-06-25 16:45:34,"Apple's stock price fell 6%, marking the largest decline since April 2025 - WEEX",AAPL,Google RSS,negative,-0.9728596806526184
+2026-06-25 16:10:35,Apple Weighs on Nasdaq; Dow Hits Record High - Schaeffer's Investment Research,AAPL,Google RSS,positive,0.7234062552452087
+2026-06-25 00:18:36,Stocks mixed in choppy trade as Apple slide counters Micron gain; Dow hits record - Investing.com,AAPL,Google RSS,negative,-0.883355438709259
+2026-06-25 14:46:25,"US stock market today: Dow jumps 598 points as Micron surges, while Apple drags Nasdaq lower | Hindustan Times - Hindustan Times",AAPL,Google RSS,negative,-0.7946207523345947
+2026-06-25 07:46:25,"US stock market today: Dow jumps 598 points as Micron surges, while Apple drags Nasdaq lower",AAPL,Bing RSS,negative,-0.6862730383872986
+2026-06-25 15:15:32,Why the Dow Is Soaring But the Nasdaq Is Falling,AAPL,Yahoo RSS,neutral,0.0
+2026-06-25 15:12:01,"Dow Soars Over 750 Points, Hits Record High As Investors Look Beyond Tech Stocks — PCE Inflation Comes In Hottest Since October 2023",AAPL,Yahoo RSS,positive,0.8566737771034241
+2026-06-25 15:15:32,Why the Dow Is Soaring But the Nasdaq Is Falling,GOOGL,Yahoo RSS,neutral,0.0
+2026-06-25 14:13:16,Amazon Stock Forecast: Trending Strong Buy Among Analysts - TipRanks,AMZN,Google RSS,positive,0.9139438271522522
+2026-06-25 15:12:01,"Dow Soars Over 750 Points, Hits Record High As Investors Look Beyond Tech Stocks — PCE Inflation Comes In Hottest Since October 2023",AMZN,Yahoo RSS,positive,0.8566737771034241
+2026-06-25 16:19:08,Microsoft Forecast: Strong Buy With Near-Unanimous Analyst Support - 24/7 Wall St.,MSFT,Google RSS,positive,0.9444310069084167
+2026-06-25 16:19:08,Microsoft Forecast: Strong Buy With Near-Unanimous Analyst Support,MSFT,Yahoo RSS,positive,0.9487183094024658
+2026-06-25 15:12:01,"Dow Soars Over 750 Points, Hits Record High As Investors Look Beyond Tech Stocks — PCE Inflation Comes In Hottest Since October 2023",MSFT,Yahoo RSS,positive,0.8566737771034241
+2026-06-25 16:19:08,Microsoft Forecast: Strong Buy With Near-Unanimous Analyst Support,NVDA,Yahoo RSS,positive,0.9487183094024658
