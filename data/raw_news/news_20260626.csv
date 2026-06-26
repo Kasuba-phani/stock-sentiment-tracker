@@ -83,8 +83,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-23 14:17:32,"‘This Is Overdone,’ Says Top Investor About Netflix Stock - TipRanks",NFLX,Google RSS,negative,-0.6969181299209595
 2026-06-24 02:59:01,NFLX Stock Is Down 40% From All-Time High: Are Retail Investors Buying The Dip Or Leaving Battered Streamer? - Stocktwits,NFLX,Google RSS,negative,-0.9668086171150208
 2026-06-26 11:26:00,"Ranking the FAANG Stocks From Most to Least Attractive, Based on Future Cash Flow",NFLX,Yahoo RSS,positive,0.9064344167709352
-2026-06-26 07:27:00,"Stock Market Today (June 26, 2026): Nasdaq and S&P 500 tumble on tech sell-off, reported OpenAI IPO delay",AAPL,Bing RSS,negative,-0.9644283056259155
-2026-06-26 14:35:59,Stocks drop in tech sell-off,AAPL,Yahoo RSS,negative,-0.9440439939498901
+2026-06-26 07:27:00,"Stock Market Today (June 26, 2026): Nasdaq and S&P 500 tumble on tech sell-off, reported OpenAI IPO delay",AAPL,Bing RSS,negative,-0.9644283056259156
+2026-06-26 14:35:59,Stocks drop in tech sell-off,AAPL,Yahoo RSS,negative,-0.94404399394989
 2026-06-24 06:55:00,"Alphabet added to Dow Jones Industrial Average, replacing Verizon",GOOGL,Bing RSS,neutral,0.0
 2026-06-26 15:04:00,Wedbush brushes off tech sell-off as buying chance in multi-year AI bull run,GOOGL,Yahoo RSS,positive,0.5070240497589111
 2026-06-26 15:04:00,Wedbush brushes off tech sell-off as buying chance in multi-year AI bull run,AMZN,Yahoo RSS,positive,0.5070240497589111
@@ -94,5 +94,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-26 14:59:53,Nvidia stock continues decline on Friday: what's hurting the AI darling? - Invezz,NVDA,Google RSS,negative,-0.9620928764343262
 2026-06-26 15:04:00,Wedbush brushes off tech sell-off as buying chance in multi-year AI bull run,NVDA,Yahoo RSS,positive,0.5070240497589111
 2026-06-26 14:21:56,Why Cerebras’ Mind-Boggling LLM Raw Speed Is Still Falling Into Nvidia’s Massive Software Trap,NVDA,Yahoo RSS,neutral,0.0
-2026-06-26 14:29:15,Falling SpaceX and Tesla Stocks Erase Elon Musk’s Trillionaire Status Weeks After Historic Public Market Debut - TIKR.com,TSLA,Google RSS,negative,-0.9102495908737183
+2026-06-26 14:29:15,Falling SpaceX and Tesla Stocks Erase Elon Musk’s Trillionaire Status Weeks After Historic Public Market Debut - TIKR.com,TSLA,Google RSS,negative,-0.9102495908737184
 2026-06-26 15:04:00,Wedbush brushes off tech sell-off as buying chance in multi-year AI bull run,META,Yahoo RSS,positive,0.5070240497589111
+2026-06-26 16:05:41,Stocks recover from tech tremors as oil prices fall,AAPL,Yahoo RSS,negative,-0.6679225564002991
+2026-06-26 14:50:24,Microsoft stock hits one-year low amid AI spending concerns - qz.com,MSFT,Google RSS,negative,-0.9260715246200562
+2026-06-26 17:16:26,Stock Market Today: Dow Index Turns Higher After Soft Start; Microsoft Leads Software Rally (Live Coverage),MSFT,Yahoo RSS,positive,0.8869777321815491
+2026-06-26 16:39:40,Update: US Equity Indexes Mixed as Steepest Decliner Technology Eats into Consumer Discretionary Gains,MSFT,Yahoo RSS,negative,-0.9476617574691772
+2026-06-26 16:05:41,Stocks recover from tech tremors as oil prices fall,MSFT,Yahoo RSS,negative,-0.6679225564002991
+2026-06-26 15:58:47,Update: Consumer Discretionary Helps Push US Equity Indexes Higher in Midday Trading,MSFT,Yahoo RSS,positive,0.944794774055481
+2026-06-26 07:56:00,Nvidia stock continues slide amid tech sell-off,NVDA,Bing RSS,negative,-0.969738245010376
+2026-06-26 17:16:26,Stock Market Today: Dow Index Turns Higher After Soft Start; Microsoft Leads Software Rally (Live Coverage),NVDA,Yahoo RSS,positive,0.8869777321815491
