@@ -47,10 +47,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-26 01:58:49,"S&P 500, Dow Futures Climb As Markets Look Past Big Tech Declines, Hotter-Than-Expected Inflation: AAPL, MSFT, BABA, MSTR, SNDK, FIG In Focus",AAPL,Yahoo RSS,neutral,0.0
 2026-06-24 14:26:38,Alphabet to replace Verizon in Dow Jones Industrial Average - qz.com,GOOGL,Google RSS,neutral,0.0
 2026-06-26 04:13:40,"AMZN Stock Heads For H1 Drop, First Since 2022 — Retail Traders Smell Buying Opportunity",GOOGL,Yahoo RSS,negative,-0.9640061259269714
-2026-06-26 04:13:00,"AMZN Stock Heads For H1 Drop, First Since 2022 — Retail Traders Smell Buying Opportunity - Stocktwits",AMZN,Google RSS,negative,-0.9579067826271057
+2026-06-26 04:13:00,"AMZN Stock Heads For H1 Drop, First Since 2022 — Retail Traders Smell Buying Opportunity - Stocktwits",AMZN,Google RSS,negative,-0.9579067826271056
 2026-06-26 04:13:40,"AMZN Stock Heads For H1 Drop, First Since 2022 — Retail Traders Smell Buying Opportunity",AMZN,Yahoo RSS,negative,-0.9640061259269714
 2026-06-25 16:19:08,Microsoft Forecast: Strong Buy With Near-Unanimous Analyst Support - 24/7 Wall St.,MSFT,Google RSS,positive,0.9444310069084167
 2026-06-26 00:29:01,Microsoft stock faces historic June rout amid heavy AI spending - Crypto Briefing,MSFT,Google RSS,negative,-0.9510797262191772
 2026-06-26 04:13:40,"AMZN Stock Heads For H1 Drop, First Since 2022 — Retail Traders Smell Buying Opportunity",MSFT,Yahoo RSS,negative,-0.9640061259269714
 2026-06-26 01:58:49,"S&P 500, Dow Futures Climb As Markets Look Past Big Tech Declines, Hotter-Than-Expected Inflation: AAPL, MSFT, BABA, MSTR, SNDK, FIG In Focus",MSFT,Yahoo RSS,neutral,0.0
 2026-06-25 18:41:00,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July? - The Motley Fool",NFLX,Google RSS,negative,-0.8976306319236755
+2026-06-25 20:26:35,Apple Is Hiking Macbook and iPad Prices. AAPL Stock Is Falling - Barchart.com,AAPL,Google RSS,negative,-0.9362935423851013
+2026-06-26 07:53:51,Asia stocks fall to two-week low as Apple price hike sparks tech selloff - marketscreener.com,AAPL,Google RSS,negative,-0.9194398522377014
+2026-06-24 23:00:00,I Correctly Predicted Alphabet Would Join the Dow Jones Industrial Average in June. Here's What the Index Shake-Up Means for Investors.,GOOGL,Bing RSS,neutral,0.0
+2026-06-26 04:13:00,"AMZN Stock Heads For H1 Drop, First Since 2022 — Retail Traders Smell Buying Opportunity - TradingView",AMZN,Google RSS,negative,-0.9606439471244812
+2026-06-25 20:51:00,Microsoft’s stock is suffering a historic June rout as investors balk at heavy spending - MarketWatch,MSFT,Google RSS,negative,-0.9694660902023315
+2026-06-25 18:33:41,Microsoft stock seen rising 33% to $486 as AI growth and cloud business drive strong fundamentals. - Pluang,MSFT,Google RSS,positive,0.947933554649353
+2026-06-26 08:26:00,"The Probability of a Federal Reserve Rate Hike Is Soaring, Which Poses a Serious Problem for Wall Street",NVDA,Yahoo RSS,negative,-0.9269754886627197
+2026-06-26 08:52:03,"Fifth Third Wealth Advisors LLC Buys 4,861 Shares of Tesla, Inc. $TSLA - MarketBeat",TSLA,Google RSS,neutral,0.0
