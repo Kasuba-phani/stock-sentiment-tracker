@@ -1,0 +1,43 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-06-25 20:45:04,Apple stock drops 6.2% after price hikes to offset rising chip costs spark debate on demand impact. - Pluang,AAPL,Google RSS,negative,-0.9453315138816833
+2026-06-25 17:24:24,Apple stock is Thursday’s worst DOW performer - MacDailyNews,AAPL,Google RSS,negative,-0.9584752321243286
+2026-06-25 16:45:34,"Apple's stock price fell 6%, marking the largest decline since April 2025 - WEEX",AAPL,Google RSS,negative,-0.9728596806526184
+2026-06-25 20:56:00,"Nasdaq falls again on mixed day for US stocks, oil prices rise",AAPL,Yahoo RSS,negative,-0.9449567794799805
+2026-06-25 20:04:21,"US Equity Markets Mixed After Micron Technology's Results, Surge in Annual Inflation Rate",AAPL,Yahoo RSS,positive,0.7313408851623535
+2026-06-23 21:23:59,"Alphabet added to Dow Jones Industrial Average, replacing Verizon - CNBC",GOOGL,Google RSS,neutral,0.0
+2026-06-24 17:57:00,"Oil Crashes, Gold Dumps, Stocks Yawn -- Oh, and Alphabet's Joining the Dow - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-06-23 22:10:00,Google-Parent Alphabet to Replace Verizon in Dow Jones Industrial Average - WSJ,GOOGL,Google RSS,neutral,0.0
+2026-06-23 22:13:00,Alphabet Stock (GOOGL) Joins Dow Jones as Mag 7 Takeover Nears Completion - Barron's,GOOGL,Google RSS,neutral,0.0
+2026-06-25 19:35:55,"Alphabet stock falls 9% amid market fears, but bullish outlook remains on AI growth potential. - Pluang",GOOGL,Google RSS,negative,-0.8254245519638062
+2026-06-24 17:17:00,"Oil Crashes, Gold Dumps, Stocks Yawn -- Oh, and Alphabet's Joining the Dow - The Globe and Mail",GOOGL,Google RSS,neutral,0.0
+2026-06-25 06:00:00,I Correctly Predicted Alphabet Would Join the Dow Jones Industrial Average in June. Here's What the Index Shake-Up Means for Investors. - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-06-24 18:32:00,Dow Jones Adds 5th Magnificent Seven Stock - Investor's Business Daily,GOOGL,Google RSS,neutral,0.0
+2026-06-24 11:29:27,Alphabet (GOOG) Stock Surges After Securing Dow Jones Inclusion - Blockonomi,GOOGL,Google RSS,positive,0.8998767733573914
+2026-06-25 02:07:19,GOOGL Stock Gains After-Hours As Alphabet Is Set To Replace Verizon In Dow Jones — Retail Eyes ‘$400’ Level - Stocktwits,GOOGL,Google RSS,neutral,0.0
+2026-06-23 02:01:00,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunge; Amazon, Alphabet, Nvidia Sell Off - Investor's Business Daily",GOOGL,Google RSS,negative,-0.9357154965400696
+2026-06-25 19:45:00,Micron earnings beat fuels hopes for Tech rally rebound,GOOGL,Yahoo RSS,positive,0.9006258249282837
+2026-06-25 18:01:35,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",GOOGL,Yahoo RSS,negative,-0.9155545234680176
+2026-06-25 14:13:16,Amazon Stock Forecast: Trending Strong Buy Among Analysts - TipRanks,AMZN,Google RSS,positive,0.9139434695243835
+2026-06-23 02:01:00,"Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunge; Amazon, Alphabet, Nvidia Sell Off - Investor's Business Daily",AMZN,Google RSS,negative,-0.9357154965400696
+2026-06-23 07:11:00,"SpaceX Plunges 5%, Falling Below Amazon's Market Cap. Which Growth Stock Is the Better Buy Now? - The Motley Fool",AMZN,Google RSS,negative,-0.8451108336448669
+2026-06-22 15:43:44,"Amazon shares hold steady as Prime Day kicks off June 23, with investors watching consumer demand signals - eciks.org",AMZN,Google RSS,neutral,0.0
+2026-06-25 22:31:09,"Investor Anthony Scaramucci Says When People Start Missing Mortgage Payments, Immigrants Become A Threat. 'That's Not Racism. That's Economics'",AMZN,Yahoo RSS,negative,-0.6847702860832214
+2026-06-25 18:01:35,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",AMZN,Yahoo RSS,negative,-0.9155545234680176
+2026-06-25 15:12:01,"Dow Soars Over 750 Points, Hits Record High As Investors Look Beyond Tech Stocks — PCE Inflation Comes In Hottest Since October 2023",AMZN,Yahoo RSS,positive,0.8566735982894897
+2026-06-25 11:30:25,MSFT on track for worst H1 performance in 26 years as retail traders turn bearish amid chip supercycle - eciks.org,MSFT,Google RSS,negative,-0.9692083597183228
+2026-06-25 12:52:00,"Microsoft stock tumbles, Micron sparks memory chip rally, Qualcomm's data center venture",MSFT,Bing RSS,negative,-0.6729360818862915
+2026-06-25 13:30:07,MSFT stock slides 4.5% — Microsoft price target revision by Stifel and Xbox pricing changes in focus,MSFT,Bing RSS,negative,-0.9436952471733093
+2026-06-25 19:45:00,Micron earnings beat fuels hopes for Tech rally rebound,MSFT,Yahoo RSS,positive,0.9006258249282837
+2026-06-25 14:37:07,U.S. Stocks Move Lower | Major Tech Stocks Decline Broadly; NVIDIA (NVDA.US) Drops Over 2% - Moomoo,NVDA,Google RSS,negative,-0.9676371216773987
+2026-06-22 19:03:00,Nvidia Stock Is Falling on a Good Day for Intel and Other Chip Stocks - Barron's,NVDA,Google RSS,negative,-0.9612967371940613
+2026-06-21 16:06:32,Analysts see Nvidia stock climbing up to 46% despite slump - MSN,NVDA,Google RSS,positive,0.9500291347503662
+2026-06-25 10:40:34,META PLATFORMS INC-CLASS A (NASDAQ:META): Strong Growth Stock with a 7/10 Technical Setup Poised for a Breakout - ChartMill,META,Google RSS,positive,0.9429550170898438
+2026-06-25 18:04:45,Why Is DraftKings Stock Falling On Thursday? - Benzinga,META,Google RSS,negative,-0.9198026061058044
+2026-06-25 18:01:35,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",META,Yahoo RSS,negative,-0.9155545234680176
+2026-06-25 09:05:00,"Meet the Growth Stock That's Cheaper Than 6 ""Magnificent Seven"" Stocks. Here's Why It's a No-Brainer Buy Before the End of June. - The Motley Fool",NFLX,Google RSS,neutral,0.0
+2026-06-23 12:02:37,Netflix (NFLX) Hits a 52-Week Low — Why 37 Analysts Still See 56% Upside - TradingKey,NFLX,Google RSS,negative,-0.9517979025840759
+2026-06-25 14:05:00,Netflix stock craters to lowest level in 20 months,NFLX,Bing RSS,negative,-0.9599654078483582
+2026-06-25 11:41:35,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",NFLX,Bing RSS,negative,-0.9155545234680176
+2026-06-22 08:33:00,Netflix (NFLX) Stock Plummets to 52-Week Low — Why Analysts Still See Upside,NFLX,Bing RSS,negative,-0.9672274589538574
+2026-06-25 08:25:00,"Meet the Growth Stock That's Cheaper Than 6 ""Magnificent Seven"" Stocks. Here's Why It's a No-Brainer Buy Before the End of June.",NFLX,Yahoo RSS,neutral,0.0
+2026-06-25 20:51:00,Microsoft’s stock is suffering a historic June rout as investors balk at heavy spending,MSFT,MarketWatch Top,negative,-0.9670944213867188
