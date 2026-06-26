@@ -54,11 +54,32 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-26 04:13:40,"AMZN Stock Heads For H1 Drop, First Since 2022 — Retail Traders Smell Buying Opportunity",MSFT,Yahoo RSS,negative,-0.9640061259269714
 2026-06-26 01:58:49,"S&P 500, Dow Futures Climb As Markets Look Past Big Tech Declines, Hotter-Than-Expected Inflation: AAPL, MSFT, BABA, MSTR, SNDK, FIG In Focus",MSFT,Yahoo RSS,neutral,0.0
 2026-06-25 18:41:00,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July? - The Motley Fool",NFLX,Google RSS,negative,-0.8976306319236755
-2026-06-25 20:26:35,Apple Is Hiking Macbook and iPad Prices. AAPL Stock Is Falling - Barchart.com,AAPL,Google RSS,negative,-0.9362935423851013
+2026-06-25 20:26:35,Apple Is Hiking Macbook and iPad Prices. AAPL Stock Is Falling - Barchart.com,AAPL,Google RSS,negative,-0.9362935423851012
 2026-06-26 07:53:51,Asia stocks fall to two-week low as Apple price hike sparks tech selloff - marketscreener.com,AAPL,Google RSS,negative,-0.9194398522377014
 2026-06-24 23:00:00,I Correctly Predicted Alphabet Would Join the Dow Jones Industrial Average in June. Here's What the Index Shake-Up Means for Investors.,GOOGL,Bing RSS,neutral,0.0
 2026-06-26 04:13:00,"AMZN Stock Heads For H1 Drop, First Since 2022 — Retail Traders Smell Buying Opportunity - TradingView",AMZN,Google RSS,negative,-0.9606439471244812
-2026-06-25 20:51:00,Microsoft’s stock is suffering a historic June rout as investors balk at heavy spending - MarketWatch,MSFT,Google RSS,negative,-0.9694660902023315
+2026-06-25 20:51:00,Microsoft’s stock is suffering a historic June rout as investors balk at heavy spending - MarketWatch,MSFT,Google RSS,negative,-0.9694660902023317
 2026-06-25 18:33:41,Microsoft stock seen rising 33% to $486 as AI growth and cloud business drive strong fundamentals. - Pluang,MSFT,Google RSS,positive,0.947933554649353
-2026-06-26 08:26:00,"The Probability of a Federal Reserve Rate Hike Is Soaring, Which Poses a Serious Problem for Wall Street",NVDA,Yahoo RSS,negative,-0.9269754886627197
+2026-06-26 08:26:00,"The Probability of a Federal Reserve Rate Hike Is Soaring, Which Poses a Serious Problem for Wall Street",NVDA,Yahoo RSS,negative,-0.9269754886627196
 2026-06-26 08:52:03,"Fifth Third Wealth Advisors LLC Buys 4,861 Shares of Tesla, Inc. $TSLA - MarketBeat",TSLA,Google RSS,neutral,0.0
+2026-06-26 11:52:08,"Stocks slip as Apple price hikes fan tech jitters, oil slides - Reuters",AAPL,Google RSS,negative,-0.930009126663208
+2026-06-26 12:11:00,Dow Jones Futures: S&P 500 Set To Break Key Level As Techs Tumble; What To Do Now - Investor's Business Daily,AAPL,Google RSS,neutral,0.0
+2026-06-26 11:10:39,"Ranking the FAANG Stocks From Most to Least Attractive, Based on Future Cash Flow - The Motley Fool",AAPL,Google RSS,neutral,0.0
+2026-06-25 07:46:25,"US stock market today: Dow jumps 598 points as Micron surges, while Apple drags Nasdaq lower",AAPL,Bing RSS,negative,-0.6862717866897583
+2026-06-26 11:26:00,"Ranking the FAANG Stocks From Most to Least Attractive, Based on Future Cash Flow",AAPL,Yahoo RSS,positive,0.9064344167709351
+2026-06-26 11:19:46,"Stocks slide on renewed tech slump, oil prices fall",AAPL,Yahoo RSS,negative,-0.960351824760437
+2026-06-26 10:34:58,Market Fear Index Flashes Red as Wall Street Dumps Tech Stocks,AAPL,Yahoo RSS,negative,-0.890257716178894
+2026-06-26 11:10:39,"Ranking the FAANG Stocks From Most to Least Attractive, Based on Future Cash Flow - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-06-24 05:54:00,"U. S Stock Market today: Alphabet stock price up, Micron Technology, Sandisk, Cerebras Systems share prices jump, FedEx shares drop. Top stocks to follow on Wednesday at Wall ...",GOOGL,Bing RSS,negative,-0.9343367218971252
+2026-06-26 11:26:00,"Ranking the FAANG Stocks From Most to Least Attractive, Based on Future Cash Flow",GOOGL,Yahoo RSS,positive,0.9064344167709351
+2026-06-26 11:10:39,"Ranking the FAANG Stocks From Most to Least Attractive, Based on Future Cash Flow - The Motley Fool",AMZN,Google RSS,neutral,0.0
+2026-06-26 11:26:00,"Ranking the FAANG Stocks From Most to Least Attractive, Based on Future Cash Flow",AMZN,Yahoo RSS,positive,0.9064344167709351
+2026-06-26 03:28:00,"Stock Market Today (June 26, 2026): Nasdaq futures fall on tech sell-off",MSFT,Bing RSS,negative,-0.9713455438613892
+2026-06-26 11:19:46,"Stocks slide on renewed tech slump, oil prices fall",MSFT,Yahoo RSS,negative,-0.960351824760437
+2026-06-26 12:02:00,How Much of Your Portfolio Should Be in Index Funds?,NVDA,Yahoo RSS,neutral,0.0
+2026-06-26 11:26:00,"Ranking the FAANG Stocks From Most to Least Attractive, Based on Future Cash Flow",NVDA,Yahoo RSS,positive,0.9064344167709351
+2026-06-25 08:54:03,GOOGL Stock Gains After-Hours As Alphabet Is Set To Replace Verizon In Dow Jones — Retail Eyes ‘$400’ Level - Stocktwits,META,Google RSS,neutral,0.0
+2026-06-26 11:26:00,"Ranking the FAANG Stocks From Most to Least Attractive, Based on Future Cash Flow",META,Yahoo RSS,positive,0.9064344167709351
+2026-06-23 14:17:32,"‘This Is Overdone,’ Says Top Investor About Netflix Stock - TipRanks",NFLX,Google RSS,negative,-0.6969181299209595
+2026-06-24 02:59:01,NFLX Stock Is Down 40% From All-Time High: Are Retail Investors Buying The Dip Or Leaving Battered Streamer? - Stocktwits,NFLX,Google RSS,negative,-0.9668086171150208
+2026-06-26 11:26:00,"Ranking the FAANG Stocks From Most to Least Attractive, Based on Future Cash Flow",NFLX,Yahoo RSS,positive,0.9064344167709351
