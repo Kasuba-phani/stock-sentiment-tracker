@@ -1,0 +1,37 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-06-26 02:22:00,World stocks edge lower as tech selloff drags markets - Reuters,AAPL,Google RSS,negative,-0.9471687078475952
+2026-06-26 19:36:00,Dow Jones Futures: S&P 500 Set To Break Key Level As Techs Tumble; What To Do Now - Investor's Business Daily,AAPL,Google RSS,neutral,0.0
+2026-06-25 20:26:35,Apple Is Hiking Macbook and iPad Prices. AAPL Stock Is Falling - Barchart.com,AAPL,Google RSS,negative,-0.9362935423851013
+2026-06-26 20:44:56,US stocks recover from tech tremors as oil prices fall,AAPL,Yahoo RSS,negative,-0.7840015292167664
+2026-06-23 22:10:00,Google-Parent Alphabet to Replace Verizon in Dow Jones Industrial Average - WSJ,GOOGL,Google RSS,neutral,0.0
+2026-06-24 13:02:00,Alphabet Stock (GOOGL) Joins Dow Jones as Mag 7 Takeover Nears Completion - Barron's,GOOGL,Google RSS,neutral,0.0
+2026-06-24 17:17:00,"Oil Crashes, Gold Dumps, Stocks Yawn -- Oh, and Alphabet's Joining the Dow - The Globe and Mail",GOOGL,Google RSS,neutral,0.0
+2026-06-24 17:57:00,"Oil Crashes, Gold Dumps, Stocks Yawn -- Oh, and Alphabet's Joining the Dow - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-06-24 13:59:41,Alphabet to replace Verizon in Dow Jones Industrial Average - qz.com,GOOGL,Google RSS,neutral,0.0
+2026-06-24 18:32:00,Dow Jones Adds 5th Magnificent Seven Stock - Investor's Business Daily,GOOGL,Google RSS,neutral,0.0
+2026-06-26 12:06:00,"Ranking the FAANG Stocks From Most to Least Attractive, Based on Future Cash Flow - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-06-25 08:54:03,GOOGL Stock Gains After-Hours As Alphabet Is Set To Replace Verizon In Dow Jones — Retail Eyes ‘$400’ Level - Stocktwits,GOOGL,Google RSS,neutral,0.0
+2026-06-24 23:00:00,I Correctly Predicted Alphabet Would Join the Dow Jones Industrial Average in June. Here's What the Index Shake-Up Means for Investors.,GOOGL,Bing RSS,neutral,0.0
+2026-06-26 12:06:00,"Ranking the FAANG Stocks From Most to Least Attractive, Based on Future Cash Flow - The Motley Fool",AMZN,Google RSS,neutral,0.0
+2026-06-23 07:11:00,"SpaceX Plunges 5%, Falling Below Amazon's Market Cap. Which Growth Stock Is the Better Buy Now? - The Motley Fool",AMZN,Google RSS,negative,-0.8451104164123535
+2026-06-26 04:13:00,"AMZN Stock Heads For H1 Drop, First Since 2022 — Retail Traders Smell Buying Opportunity - TradingView",AMZN,Google RSS,negative,-0.9606439471244812
+2026-06-26 21:13:45,Rubrik (RBRK) Among Most Promising New Technology Stocks To Buy Now,AMZN,Yahoo RSS,positive,0.8372383713722229
+2026-06-26 21:12:40,X-Energy (XE) Among Our Most Promising New Technology Stocks,AMZN,Yahoo RSS,positive,0.8185325264930725
+2026-06-26 14:51:34,Microsoft stock hits one-year low amid AI spending concerns - qz.com,MSFT,Google RSS,negative,-0.9260715246200562
+2026-06-25 20:51:00,Microsoft’s stock is suffering a historic June rout as investors balk at heavy spending - MarketWatch,MSFT,Google RSS,negative,-0.9694660902023315
+2026-06-25 11:30:25,MSFT on track for worst H1 performance in 26 years as retail traders turn bearish amid chip supercycle - eciks.org,MSFT,Google RSS,negative,-0.9692083597183228
+2026-06-25 16:19:08,Microsoft Forecast: Strong Buy With Near-Unanimous Analyst Support - 24/7 Wall St.,MSFT,Google RSS,positive,0.9444310069084167
+2026-06-26 16:39:01,Why Microsoft stock rose today,MSFT,Bing RSS,neutral,0.0
+2026-06-27 02:27:57,NVIDIA Stock Leads 3 High ROE Picks Backed By Strong Balance Sheets - simplywall.st,NVDA,Google RSS,positive,0.9017111659049988
+2026-06-22 19:03:00,Nvidia Stock Is Falling on a Good Day for Intel and Other Chip Stocks - Barron's,NVDA,Google RSS,negative,-0.9612967371940613
+2026-06-25 14:37:07,U.S. Stocks Move Lower | Major Tech Stocks Decline Broadly; NVIDIA (NVDA.US) Drops Over 2% - Moomoo,NVDA,Google RSS,negative,-0.9676371216773987
+2026-06-26 13:25:00,Nvidia stock continues slide amid tech sell-off,NVDA,Bing RSS,negative,-0.969738245010376
+2026-06-26 14:29:15,Falling SpaceX and Tesla Stocks Erase Elon Musk’s Trillionaire Status Weeks After Historic Public Market Debut - TIKR.com,TSLA,Google RSS,negative,-0.9102497696876526
+2026-06-25 10:40:34,META PLATFORMS INC-CLASS A (NASDAQ:META): Strong Growth Stock with a 7/10 Technical Setup Poised for a Breakout - ChartMill,META,Google RSS,positive,0.9429550170898438
+2026-06-26 15:04:00,Wedbush brushes off tech sell-off as buying chance in multi-year AI bull run,META,Yahoo RSS,positive,0.5070247054100037
+2026-06-25 09:05:00,"Meet the Growth Stock That's Cheaper Than 6 ""Magnificent Seven"" Stocks. Here's Why It's a No-Brainer Buy Before the End of June. - The Motley Fool",NFLX,Google RSS,neutral,0.0
+2026-06-25 11:41:35,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",NFLX,Bing RSS,negative,-0.9155547022819519
+2026-06-22 08:33:00,Netflix (NFLX) Stock Plummets to 52-Week Low — Why Analysts Still See Upside,NFLX,Bing RSS,negative,-0.9672274589538574
+2026-06-25 01:46:00,"Meet the Growth Stock That's Cheaper Than 6 ""Magnificent Seven"" Stocks. Here's Why It's a No-Brainer Buy Before the End of June.",NFLX,Bing RSS,neutral,0.0
+2026-06-26 11:26:00,"Ranking the FAANG Stocks From Most to Least Attractive, Based on Future Cash Flow",NFLX,Yahoo RSS,positive,0.9064344763755798
+2026-06-24 23:26:50,"Stock market today: Dow rises, S&P 500 and Nasdaq slip as Micron soars, Apple drags Big Tech lower",AAPL,Yahoo Global,negative,-0.9551937580108643
