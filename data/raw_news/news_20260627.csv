@@ -39,3 +39,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-26 00:29:01,Microsoft stock faces historic June rout amid heavy AI spending - Crypto Briefing,MSFT,Google RSS,negative,-0.9510797262191772
 2026-06-26 08:01:00,Microsoft stock hits one-year low amid AI spending concerns,MSFT,Bing RSS,negative,-0.9600117802619934
 2026-06-26 18:05:31,Tesla stock rises as buyers gain ground despite sluggish momentum - Traders Union,TSLA,Google RSS,positive,0.8419967889785767
+2026-06-24 06:55:00,"Alphabet added to Dow Jones Industrial Average, replacing Verizon",GOOGL,Bing RSS,neutral,0.0
+2026-06-24 10:36:04,WESPAC Advisors SoCal LLC Has $10.88 Million Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,neutral,0.0
