@@ -39,3 +39,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-27 20:24:00,Alphabet Is Joining the Dow Jones Industrial Average. 3 Surprising Reasons Why SpaceX Could Be Next. - AOL.com,GOOGL,Google RSS,neutral,0.0
 2026-06-26 22:35:59,Microsoft stock hits one-year low amid AI spending concerns - qz.com,MSFT,Google RSS,negative,-0.9260715246200562
 2026-06-22 08:33:00,Netflix (NFLX) Stock Plummets to 52-Week Low — Why Analysts Still See Upside,NFLX,Bing RSS,negative,-0.9672274589538574
+2026-06-28 07:47:04,Fifth Third Wealth Advisors LLC Has $31.87 Million Position in Alphabet Inc. $GOOG - MarketBeat,GOOGL,Google RSS,neutral,0.0
+2026-06-26 16:45:00,"AMZN Stock Heads For H1 Drop, First Since 2022 — Retail Traders Smell Buying Opportunity - Stocktwits",AMZN,Google RSS,negative,-0.9579067826271057
+2026-06-28 07:47:04,"Meta Platforms, Inc. $META Shares Acquired by Fifth Third Wealth Advisors LLC - MarketBeat",META,Google RSS,neutral,0.0
