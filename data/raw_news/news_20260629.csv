@@ -44,16 +44,16 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-29 08:26:00,"The Dow Jones Industrial Average Changes Forever Today: Google Parent Alphabet Is In, Verizon Is Out, and a Longtime Component Is on Thin Ice",NVDA,Yahoo RSS,negative,-0.7004576921463013
 2026-06-29 07:19:20,"Meta Platforms, Inc. (NASDAQ:META) Receives Average Recommendation of ""Moderate Buy"" from Analysts - MarketBeat",META,Google RSS,positive,0.9267210960388184
 2026-06-29 07:46:19,Asian Apple suppliers extend losses as memory-cost woes weigh on tech sentiment - Investing.com,AAPL,Google RSS,negative,-0.9699662923812866
-2026-06-29 09:11:53,GOOGL Stock Falls Out Of Favor In June – Analysts See More Upside In These Big Tech - Stocktwits,GOOGL,Google RSS,negative,-0.9520880579948425
+2026-06-29 09:11:53,GOOGL Stock Falls Out Of Favor In June – Analysts See More Upside In These Big Tech - Stocktwits,GOOGL,Google RSS,negative,-0.9520880579948424
 2026-06-29 13:01:37,SpaceX pushes US share sales to record $251 billion at midyear - TradingView,GOOGL,Google RSS,positive,0.903810441493988
-2026-06-29 10:25:28,Alphabet Inc.(NasdaqGS: GOOG) dropped from Russell Top 200 Value Benchmark - marketscreener.com,GOOGL,Google RSS,negative,-0.9699302911758423
+2026-06-29 10:25:28,Alphabet Inc.(NasdaqGS: GOOG) dropped from Russell Top 200 Value Benchmark - marketscreener.com,GOOGL,Google RSS,negative,-0.9699302911758424
 2026-06-29 10:25:00,"Comcast, Alphabet, Palantir, SpaceX, Microsoft, and More Stocks That Explain Today's Market -- Barrons.com - 富途牛牛",GOOGL,Google RSS,neutral,0.0
-2026-06-29 10:23:55,Alphabet Inc.(NasdaqGS: GOOGL) dropped from Russell Top 200 Value Benchmark - marketscreener.com,GOOGL,Google RSS,negative,-0.9703492522239685
+2026-06-29 10:23:55,Alphabet Inc.(NasdaqGS: GOOGL) dropped from Russell Top 200 Value Benchmark - marketscreener.com,GOOGL,Google RSS,negative,-0.9703492522239684
 2026-06-24 19:10:00,GOOGL Stock Alert: What to Know as Alphabet Joins the Dow Jones Industrial Average,GOOGL,Bing RSS,neutral,0.0
 2026-06-29 12:32:00,Alphabet Stock Joins the Dow but It’s Rising for a Different Reason,GOOGL,Yahoo RSS,neutral,0.0
 2026-06-29 05:57:00,"Amazon stock steadies after Prime Day data, cloud price increase",AMZN,Bing RSS,negative,-0.8777033090591431
 2026-06-29 12:32:00,Alphabet Stock Joins the Dow but It’s Rising for a Different Reason,AMZN,Yahoo RSS,neutral,0.0
-2026-06-29 11:55:18,Microsoft shares face worst month since dot-com era amid AI concerns - Crypto Briefing,MSFT,Google RSS,negative,-0.9605346918106079
+2026-06-29 11:55:18,Microsoft shares face worst month since dot-com era amid AI concerns - Crypto Briefing,MSFT,Google RSS,negative,-0.960534691810608
 2026-06-29 12:33:11,Microsoft’s $570 billion rout sets up its worst month since 2000 - Moneycontrol.com,MSFT,Google RSS,negative,-0.8755526542663574
 2026-06-29 14:09:04,Microsoft stock is headed for its worst month since 2000,MSFT,Yahoo RSS,negative,-0.9675196409225464
 2026-06-29 12:32:00,Alphabet Stock Joins the Dow but It’s Rising for a Different Reason,MSFT,Yahoo RSS,neutral,0.0
@@ -65,3 +65,34 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-29 12:00:35,Is Meta (META) Still One of Billionaire Dan Loeb’s Best Growth Stocks to Buy While It Holds Out on Trump’s AI Review? - Insider Monkey,META,Google RSS,neutral,0.0
 2026-06-29 12:32:00,Alphabet Stock Joins the Dow but It’s Rising for a Different Reason,META,Yahoo RSS,neutral,0.0
 2026-06-29 11:57:18,Is Meta (META) Still One of Billionaire Dan Loeb’s Best Growth Stocks to Buy While It Holds Out on Trump’s AI Review?,META,Yahoo RSS,neutral,0.0
+2026-06-29 03:52:51,Apple (AAPL) Raising Device Prices May Not Hurt Earnings as Much as Investors Fear - TipRanks,AAPL,Google RSS,negative,-0.6249874234199524
+2026-06-29 09:25:00,"Apple’s pricing woes will worsen through 2027, report claims",AAPL,Bing RSS,negative,-0.9438637495040894
+2026-06-29 16:50:26,"Alphabet joins Dow Jones Industrial Average, shares rise 3.7%",AAPL,Yahoo RSS,positive,0.7227432131767273
+2026-06-29 15:20:12,Alphabet debuts in Dow Jones Industrial Average as index tilts toward tech,AAPL,Yahoo RSS,positive,0.39268213510513306
+2026-06-29 15:12:55,Amazon Stock's Climb Leads Strong Day For Magnificent Seven,AAPL,Yahoo RSS,positive,0.9129719138145447
+2026-06-29 14:33:08,Micron Extorts the Supply Chain to Leave Apple Carrying the Consumer Backlash,AAPL,Yahoo RSS,negative,-0.7053011655807495
+2026-06-29 16:13:20,Alphabet debuts in Dow Jones Industrial Average as index tilts toward tech - Reuters,GOOGL,Google RSS,neutral,0.0
+2026-06-29 16:24:19,"Alphabet joins Dow Jones Industrial Average, shares rise 3.7% - Investing.com",GOOGL,Google RSS,neutral,0.0
+2026-06-29 16:31:34,"Here Are My Top ""Magnificent Seven"" Stocks to Buy Now - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-06-29 08:45:01,"The Dow Jones Industrial Average Changes Forever Today: Google Parent Alphabet Is In, Verizon Is Out, and a Longtime Component Is on Thin Ice - AOL.com",GOOGL,Google RSS,neutral,0.0
+2026-06-29 16:13:52,Flaws In The Dow Jones Index: Can Alphabet Make It Better? (NYSEARCA:DJI) - Seeking Alpha,GOOGL,Google RSS,neutral,0.0
+2026-06-29 16:50:26,"Alphabet joins Dow Jones Industrial Average, shares rise 3.7%",GOOGL,Yahoo RSS,positive,0.7227432131767273
+2026-06-29 16:20:00,"Here Are My Top ""Magnificent Seven"" Stocks to Buy Now",GOOGL,Yahoo RSS,neutral,0.0
+2026-06-29 15:20:12,Alphabet debuts in Dow Jones Industrial Average as index tilts toward tech,GOOGL,Yahoo RSS,positive,0.39268213510513306
+2026-06-29 15:12:00,Amazon Stock's Climb Leads Strong Day For Magnificent Seven - Investor's Business Daily,AMZN,Google RSS,positive,0.9183050990104675
+2026-06-29 14:13:00,Bears Scream That a Falling $47.66 Average Prime Day Order Proves the Consumer Is Dead: This Is Why I Keep Buying The Stock - 24/7 Wall St.,AMZN,Google RSS,negative,-0.943976879119873
+2026-06-29 14:46:12,Consumer cyclical surge: Amazon and Tesla drive market optimism - investingLive,AMZN,Google RSS,neutral,0.0
+2026-06-29 08:14:00,Amazon stock's climb leads strong day for Magnificent Seven,AMZN,Bing RSS,positive,0.9129719138145447
+2026-06-29 16:50:26,"Alphabet joins Dow Jones Industrial Average, shares rise 3.7%",AMZN,Yahoo RSS,positive,0.7227432131767273
+2026-06-29 15:20:12,Alphabet debuts in Dow Jones Industrial Average as index tilts toward tech,AMZN,Yahoo RSS,positive,0.39268213510513306
+2026-06-29 15:12:55,Amazon Stock's Climb Leads Strong Day For Magnificent Seven,AMZN,Yahoo RSS,positive,0.9129719138145447
+2026-06-29 14:13:00,Bears Scream That a Falling $47.66 Average Prime Day Order Proves the Consumer Is Dead: This Is Why I Keep Buying The Stock,AMZN,Yahoo RSS,negative,-0.9432390928268433
+2026-06-29 09:57:00,Microsoft heads for worst month since dot-com crash as AI fears wipe out $570 billion,MSFT,Bing RSS,negative,-0.956229031085968
+2026-06-29 16:50:26,"Alphabet joins Dow Jones Industrial Average, shares rise 3.7%",MSFT,Yahoo RSS,positive,0.7227432131767273
+2026-06-29 15:20:12,Alphabet debuts in Dow Jones Industrial Average as index tilts toward tech,MSFT,Yahoo RSS,positive,0.39268213510513306
+2026-06-29 15:12:55,Amazon Stock's Climb Leads Strong Day For Magnificent Seven,MSFT,Yahoo RSS,positive,0.9129719138145447
+2026-06-29 17:30:00,Bitcoin ETFs see worst month of outflows as investors pile into AI trade,NVDA,Yahoo RSS,negative,-0.9667587280273438
+2026-06-29 14:46:12,Consumer cyclical surge: Amazon and Tesla drive market optimism - investingLive,TSLA,Google RSS,neutral,0.0
+2026-06-29 15:12:55,Amazon Stock's Climb Leads Strong Day For Magnificent Seven,TSLA,Yahoo RSS,positive,0.9129719138145447
+2026-06-29 05:25:46,S&P 500 Stocks Trading At 52-Week High - Trefis,META,Google RSS,positive,0.538077712059021
+2026-06-29 15:12:55,Amazon Stock's Climb Leads Strong Day For Magnificent Seven,META,Yahoo RSS,positive,0.9129719138145447
