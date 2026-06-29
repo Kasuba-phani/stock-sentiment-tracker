@@ -33,7 +33,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-25 08:25:00,"Meet the Growth Stock That's Cheaper Than 6 ""Magnificent Seven"" Stocks. Here's Why It's a No-Brainer Buy Before the End of June.",NFLX,Yahoo RSS,neutral,0.0
 2026-06-29 02:06:48,"Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MU, MSFT, INFQ, RKLB - Stocktwits",AAPL,Google RSS,neutral,0.0
 2026-06-25 20:26:35,Apple Is Hiking Macbook and iPad Prices. AAPL Stock Is Falling - Barchart,AAPL,Google RSS,negative,-0.9636081457138062
-2026-06-29 07:48:39,Asian Apple suppliers extend losses as memory-cost woes weigh on tech sentiment - Investing.com Nigeria,AAPL,Google RSS,negative,-0.9703686237335205
+2026-06-29 07:48:39,Asian Apple suppliers extend losses as memory-cost woes weigh on tech sentiment - Investing.com Nigeria,AAPL,Google RSS,negative,-0.9703686237335204
 2026-06-29 08:36:51,"The Dow Jones Industrial Average Changes Forever Today: Google Parent Alphabet Is In, Verizon Is Out, and a Longtime Component Is on Thin Ice - The Motley Fool",GOOGL,Google RSS,negative,-0.7512883543968201
 2026-06-29 09:33:45,Alphabet Joins The Dow Jones Industrial Average - Real Investment Advice,GOOGL,Google RSS,neutral,0.0
 2026-06-29 02:31:00,GOOGL Stock Falls Out Of Favor In June – Analysts See More Upside In These Big Tech,GOOGL,Bing RSS,negative,-0.9482305645942688
@@ -43,3 +43,25 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-29 09:10:01,GOOGL Stock Falls Out Of Favor In June – Analysts See More Upside In These Big Tech,MSFT,Yahoo RSS,negative,-0.9482305645942688
 2026-06-29 08:26:00,"The Dow Jones Industrial Average Changes Forever Today: Google Parent Alphabet Is In, Verizon Is Out, and a Longtime Component Is on Thin Ice",NVDA,Yahoo RSS,negative,-0.7004576921463013
 2026-06-29 07:19:20,"Meta Platforms, Inc. (NASDAQ:META) Receives Average Recommendation of ""Moderate Buy"" from Analysts - MarketBeat",META,Google RSS,positive,0.9267210960388184
+2026-06-29 07:46:19,Asian Apple suppliers extend losses as memory-cost woes weigh on tech sentiment - Investing.com,AAPL,Google RSS,negative,-0.9699662923812866
+2026-06-29 09:11:53,GOOGL Stock Falls Out Of Favor In June – Analysts See More Upside In These Big Tech - Stocktwits,GOOGL,Google RSS,negative,-0.9520880579948425
+2026-06-29 13:01:37,SpaceX pushes US share sales to record $251 billion at midyear - TradingView,GOOGL,Google RSS,positive,0.903810441493988
+2026-06-29 10:25:28,Alphabet Inc.(NasdaqGS: GOOG) dropped from Russell Top 200 Value Benchmark - marketscreener.com,GOOGL,Google RSS,negative,-0.9699302911758423
+2026-06-29 10:25:00,"Comcast, Alphabet, Palantir, SpaceX, Microsoft, and More Stocks That Explain Today's Market -- Barrons.com - 富途牛牛",GOOGL,Google RSS,neutral,0.0
+2026-06-29 10:23:55,Alphabet Inc.(NasdaqGS: GOOGL) dropped from Russell Top 200 Value Benchmark - marketscreener.com,GOOGL,Google RSS,negative,-0.9703492522239685
+2026-06-24 19:10:00,GOOGL Stock Alert: What to Know as Alphabet Joins the Dow Jones Industrial Average,GOOGL,Bing RSS,neutral,0.0
+2026-06-29 12:32:00,Alphabet Stock Joins the Dow but It’s Rising for a Different Reason,GOOGL,Yahoo RSS,neutral,0.0
+2026-06-29 05:57:00,"Amazon stock steadies after Prime Day data, cloud price increase",AMZN,Bing RSS,negative,-0.8777033090591431
+2026-06-29 12:32:00,Alphabet Stock Joins the Dow but It’s Rising for a Different Reason,AMZN,Yahoo RSS,neutral,0.0
+2026-06-29 11:55:18,Microsoft shares face worst month since dot-com era amid AI concerns - Crypto Briefing,MSFT,Google RSS,negative,-0.9605346918106079
+2026-06-29 12:33:11,Microsoft’s $570 billion rout sets up its worst month since 2000 - Moneycontrol.com,MSFT,Google RSS,negative,-0.8755526542663574
+2026-06-29 14:09:04,Microsoft stock is headed for its worst month since 2000,MSFT,Yahoo RSS,negative,-0.9675196409225464
+2026-06-29 12:32:00,Alphabet Stock Joins the Dow but It’s Rising for a Different Reason,MSFT,Yahoo RSS,neutral,0.0
+2026-06-29 12:16:00,Nvidia Stock Rises Amid Signs of Strong AI Chip Demand - Barron's,NVDA,Google RSS,positive,0.798330545425415
+2026-06-29 06:54:00,Nvidia stock rises amid signs of strong AI chip demand,NVDA,Bing RSS,positive,0.8650381565093994
+2026-06-29 12:02:55,"Tesla (TSLA) Set for Strong Q2 Deliveries Report, Exceeding Expe - GuruFocus",TSLA,Google RSS,positive,0.951834499835968
+2026-06-29 12:32:00,Alphabet Stock Joins the Dow but It’s Rising for a Different Reason,TSLA,Yahoo RSS,neutral,0.0
+2026-06-27 07:00:00,How Much Upside Can META Stock's Growth Deliver? - Trefis,META,Google RSS,neutral,0.0
+2026-06-29 12:00:35,Is Meta (META) Still One of Billionaire Dan Loeb’s Best Growth Stocks to Buy While It Holds Out on Trump’s AI Review? - Insider Monkey,META,Google RSS,neutral,0.0
+2026-06-29 12:32:00,Alphabet Stock Joins the Dow but It’s Rising for a Different Reason,META,Yahoo RSS,neutral,0.0
+2026-06-29 11:57:18,Is Meta (META) Still One of Billionaire Dan Loeb’s Best Growth Stocks to Buy While It Holds Out on Trump’s AI Review?,META,Yahoo RSS,neutral,0.0
