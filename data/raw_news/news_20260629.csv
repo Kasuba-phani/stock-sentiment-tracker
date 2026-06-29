@@ -1,0 +1,33 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-06-29 02:06:48,"Why Retail Traders Couldn't Take Their Eyes Off These Stocks Last Week: AAPL, MU, MSFT, INFQ, RKLB - Stocktwits",AAPL,Google RSS,neutral,0.0
+2026-06-26 20:51:50,World stocks edge lower as tech selloff drags markets - Reuters,AAPL,Google RSS,negative,-0.9471687078475952
+2026-06-25 20:26:35,Apple Is Hiking Macbook and iPad Prices. AAPL Stock Is Falling - Barchart.com,AAPL,Google RSS,negative,-0.9362937808036804
+2026-06-29 02:05:01,"Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MU, MSFT, INFQ, RKLB",AAPL,Yahoo RSS,neutral,0.0
+2026-06-25 19:35:55,"Alphabet stock falls 9% amid market fears, but bullish outlook remains on AI growth potential. - Pluang",GOOGL,Google RSS,negative,-0.8254245519638062
+2026-06-24 23:00:00,I Correctly Predicted Alphabet Would Join the Dow Jones Industrial Average in June. Here's What the Index Shake-Up Means for Investors.,GOOGL,Bing RSS,neutral,0.0
+2026-06-28 13:13:45,AI Demand Is Outstripping Supply — Even Google Can’t Keep Up,GOOGL,Yahoo RSS,negative,-0.8735331892967224
+2026-06-26 16:45:00,"AMZN Stock Heads For H1 Drop, First Since 2022 — Retail Traders Smell Buying Opportunity - Stocktwits",AMZN,Google RSS,negative,-0.9579067826271057
+2026-06-25 20:51:00,Microsoft’s stock is suffering a historic June rout as investors balk at heavy spending - MarketWatch,MSFT,Google RSS,negative,-0.9694660902023315
+2026-06-29 02:06:48,"Why Retail Traders Couldn't Take Their Eyes Off These Stocks Last Week: AAPL, MU, MSFT, INFQ, RKLB - Stocktwits",MSFT,Google RSS,neutral,0.0
+2026-06-25 16:19:08,Microsoft Forecast: Strong Buy With Near-Unanimous Analyst Support - 24/7 Wall St.,MSFT,Google RSS,positive,0.9444310069084167
+2026-06-25 11:30:25,MSFT on track for worst H1 performance in 26 years as retail traders turn bearish amid chip supercycle - eciks.org,MSFT,Google RSS,negative,-0.9692083597183228
+2026-06-26 00:29:01,Microsoft stock faces historic June rout amid heavy AI spending - Crypto Briefing,MSFT,Google RSS,negative,-0.9510797262191772
+2026-06-26 16:39:01,Why Microsoft stock rose today,MSFT,Bing RSS,neutral,0.0
+2026-06-26 08:01:00,Microsoft stock hits one-year low amid AI spending concerns,MSFT,Bing RSS,negative,-0.9600117802619934
+2026-06-29 02:05:01,"Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MU, MSFT, INFQ, RKLB",MSFT,Yahoo RSS,neutral,0.0
+2026-06-28 12:12:46,"‘Downright Pedestrian,’ Says Top Investor About Nvidia Stock - TipRanks",NVDA,Google RSS,negative,-0.6086441278457642
+2026-06-22 19:03:00,Nvidia Stock Is Falling on a Good Day for Intel and Other Chip Stocks - Barron's,NVDA,Google RSS,negative,-0.9612967371940613
+2026-06-27 02:27:57,NVIDIA Stock Leads 3 High ROE Picks Backed By Strong Balance Sheets - simplywall.st,NVDA,Google RSS,positive,0.9017111659049988
+2026-06-26 13:25:00,Nvidia stock continues slide amid tech sell-off,NVDA,Bing RSS,negative,-0.969738245010376
+2026-06-29 02:45:02,"FNDF Pays Twice Yearly From 800 Global Companies, But Tariffs and Oil Prices Threaten Payouts",NVDA,Yahoo RSS,negative,-0.7904651165008545
+2026-06-26 14:29:15,Falling SpaceX and Tesla Stocks Erase Elon Musk’s Trillionaire Status Weeks After Historic Public Market Debut - TIKR.com,TSLA,Google RSS,negative,-0.9102495908737183
+2026-06-28 07:47:04,"Meta Platforms, Inc. $META Shares Acquired by Fifth Third Wealth Advisors LLC - MarketBeat",META,Google RSS,neutral,0.0
+2026-06-25 10:40:34,META PLATFORMS INC-CLASS A (NASDAQ:META): Strong Growth Stock with a 7/10 Technical Setup Poised for a Breakout - ChartMill,META,Google RSS,positive,0.9429550170898438
+2026-06-28 13:13:45,AI Demand Is Outstripping Supply — Even Google Can’t Keep Up,META,Yahoo RSS,negative,-0.8735331892967224
+2026-06-25 18:41:00,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July? - The Motley Fool",NFLX,Google RSS,negative,-0.8976306319236755
+2026-06-25 09:05:00,"Meet the Growth Stock That's Cheaper Than 6 ""Magnificent Seven"" Stocks. Here's Why It's a No-Brainer Buy Before the End of June. - The Motley Fool",NFLX,Google RSS,neutral,0.0
+2026-06-25 11:41:35,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",NFLX,Bing RSS,negative,-0.9155545234680176
+2026-06-25 12:28:00,Netflix stock craters to lowest level in 20 months,NFLX,Bing RSS,negative,-0.9599654078483582
+2026-06-22 08:33:00,Netflix (NFLX) Stock Plummets to 52-Week Low — Why Analysts Still See Upside,NFLX,Bing RSS,negative,-0.9672274589538574
+2026-06-26 11:26:00,"Ranking the FAANG Stocks From Most to Least Attractive, Based on Future Cash Flow",NFLX,Yahoo RSS,positive,0.9064344167709351
+2026-06-25 08:25:00,"Meet the Growth Stock That's Cheaper Than 6 ""Magnificent Seven"" Stocks. Here's Why It's a No-Brainer Buy Before the End of June.",NFLX,Yahoo RSS,neutral,0.0
