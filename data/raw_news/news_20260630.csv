@@ -66,3 +66,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-30 02:52:00,Meta Platforms (NASDAQ: META) Stock Price Outpaces S&P 500 With Strong Single-Session Gain - foreignpolicyjournal.com,META,Google RSS,positive,0.939357578754425
 2026-06-29 05:25:31,Small Cap Stocks Trading At 52-Week High - Trefis,META,Google RSS,positive,0.5745680332183838
 2026-06-25 18:41:00,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July? - The Motley Fool",NFLX,Google RSS,negative,-0.8976306319236755
+2026-06-29 23:13:00,Dow Hits Record as Tech Starts Week Strong - WSJ,GOOGL,Google RSS,positive,0.7329075932502747
+2026-06-30 08:26:00,"Oil Is Below $70, but the Federal Reserve's June Inflation Forecast Has an Unpleasant Surprise in Store for Wall Street",NVDA,Yahoo RSS,negative,-0.8248737454414368
+2026-06-30 09:47:27,"Fox Outbid Netflix to Buy Roku, So Why Are Both Stocks Falling? - The Motley Fool",NFLX,Google RSS,negative,-0.8663879632949829
+2026-06-30 02:49:00,"Fox Outbid Netflix to Buy Roku, So Why Are Both Stocks Falling?",NFLX,Bing RSS,negative,-0.9106246829032898
