@@ -70,3 +70,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-30 08:26:00,"Oil Is Below $70, but the Federal Reserve's June Inflation Forecast Has an Unpleasant Surprise in Store for Wall Street",NVDA,Yahoo RSS,negative,-0.8248737454414368
 2026-06-30 09:47:27,"Fox Outbid Netflix to Buy Roku, So Why Are Both Stocks Falling? - The Motley Fool",NFLX,Google RSS,negative,-0.8663879632949829
 2026-06-30 02:49:00,"Fox Outbid Netflix to Buy Roku, So Why Are Both Stocks Falling?",NFLX,Bing RSS,negative,-0.9106246829032898
+2026-06-30 09:38:46,"Dow Builds on 52,000 Breakthrough as Markets Rise to Close a Strong First Half",AAPL,Yahoo RSS,positive,0.9222866892814636
+2026-06-30 04:00:18,Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation,AAPL,Yahoo RSS,negative,-0.9731666445732117
+2026-06-30 10:09:59,Alphabet Just Joined the Dow Jones Industrial Average. 3 Dow Dividend Stocks to Buy Now. - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-06-30 10:25:00,Alphabet Just Joined the Dow Jones Industrial Average. 3 Dow Dividend Stocks to Buy Now. - Yahoo Finance,GOOGL,Google RSS,neutral,0.0
+2026-06-30 07:41:52,"Google's Alphabet Enters the Dow Jones, Verizon Exits: The 130-Year-Old Index Finally Bows to Big Tech - Disruption Banking",GOOGL,Google RSS,neutral,0.0
+2026-06-30 10:45:12,Alphabet Just Joined the Dow Jones Industrial Average. 3 Dow Dividend Stocks to Buy Now. - AOL.com,GOOGL,Google RSS,neutral,0.0
+2026-06-30 10:25:00,Alphabet Just Joined the Dow Jones Industrial Average. 3 Dow Dividend Stocks to Buy Now.,GOOGL,Yahoo RSS,neutral,0.0
+2026-06-30 09:38:46,"Dow Builds on 52,000 Breakthrough as Markets Rise to Close a Strong First Half",GOOGL,Yahoo RSS,positive,0.9222866892814636
+2026-06-30 09:38:46,"Dow Builds on 52,000 Breakthrough as Markets Rise to Close a Strong First Half",AMZN,Yahoo RSS,positive,0.9222866892814636
+2026-06-30 04:00:18,Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation,AMZN,Yahoo RSS,negative,-0.9731666445732117
+2026-06-30 09:38:46,"Dow Builds on 52,000 Breakthrough as Markets Rise to Close a Strong First Half",MSFT,Yahoo RSS,positive,0.9222866892814636
+2026-06-30 04:00:18,Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation,MSFT,Yahoo RSS,negative,-0.9731666445732117
+2026-06-30 04:00:18,Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation,TSLA,Yahoo RSS,negative,-0.9731666445732117
+2026-06-30 04:00:18,Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation,META,Yahoo RSS,negative,-0.9731666445732117
