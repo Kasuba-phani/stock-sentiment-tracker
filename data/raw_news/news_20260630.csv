@@ -98,3 +98,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-23 21:23:59,"Alphabet added to Dow Jones Industrial Average, replacing Verizon - CNBC",GOOGL,Google RSS,neutral,0.0
 2026-06-30 20:00:37,"Top Stock Reports for Microsoft, Exxon Mobil & Dell - Zacks Investment Research",MSFT,Google RSS,neutral,0.0
 2026-06-29 11:57:18,Is Meta (META) Still One of Billionaire Dan Loeb’s Best Growth Stocks to Buy While It Holds Out on Trump’s AI Review?,META,Yahoo Global,neutral,0.0
+2026-06-30 20:34:00,"Top Stock Reports for Microsoft, Exxon Mobil & Dell",MSFT,Yahoo RSS,neutral,0.0
+2026-06-29 14:09:04,Microsoft stock is headed for its worst month since 2000,MSFT,Yahoo Global,negative,-0.9675196409225464
