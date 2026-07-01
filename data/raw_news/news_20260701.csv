@@ -41,3 +41,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-01 08:50:00,Which Financial Stocks Actually Benefit When Interest Rates Stay High?,NVDA,Yahoo RSS,neutral,0.0
 2026-07-01 07:26:50,Asian stocks mostly up as traders eye crucial US jobs data,NVDA,Yahoo RSS,positive,0.4862397313117981
 2026-07-01 09:25:31,"Nasdaq, S&P 500, Dow Futures Slip After Historic First-Half Rally As Investors Await Labor Data, Fed Signals: Why NKE, TSLA, NIO, MU, LUNR, CVKD Are In Focus",TSLA,Yahoo RSS,negative,-0.6226542592048645
+2026-07-01 11:16:46,Joby Aviation's Stock Is Rising After Teaming Up With Toyota For a New Manufacturing Venture,NVDA,Yahoo RSS,positive,0.9518454074859619
+2026-07-01 11:01:18,"Michael Burry shorts Tesla at $416, betting on a long-term decline despite recent stock rally. - Pluang",TSLA,Google RSS,negative,-0.9155768752098083
+2026-07-01 10:56:44,Tesla Q2 deliveries seen rising as European demand gathers pace (TSLA),TSLA,Yahoo RSS,positive,0.931519627571106
+2026-06-25 18:41:00,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July? - The Motley Fool",NFLX,Google RSS,negative,-0.8976306319236755
