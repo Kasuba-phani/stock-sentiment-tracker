@@ -35,3 +35,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-01 01:31:32,Stronger technical forecast for Tesla stock price after Tuesday trading - StockInvest.us,TSLA,Google RSS,positive,0.5122299194335938
 2026-07-01 04:42:08,SpaceX and Tesla Stocks Show Strong Correlation in Market Moveme - GuruFocus,TSLA,Google RSS,positive,0.8115023970603943
 2026-06-25 21:59:00,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",NFLX,Bing RSS,negative,-0.9155545234680176
+2026-07-01 07:04:07,"Microsoft stock price forecasts target 2026, 2027, 2030 - Let's Data Science",MSFT,Google RSS,neutral,0.0
+2026-06-29 07:18:00,Microsoft stock is headed for its worst month since 2000,MSFT,Bing RSS,negative,-0.9675196409225464
+2026-07-01 09:43:00,Should You Invest a Lump Sum or Dollar-Cost Average Into ETFs?,NVDA,Yahoo RSS,neutral,0.0
+2026-07-01 08:50:00,Which Financial Stocks Actually Benefit When Interest Rates Stay High?,NVDA,Yahoo RSS,neutral,0.0
+2026-07-01 07:26:50,Asian stocks mostly up as traders eye crucial US jobs data,NVDA,Yahoo RSS,positive,0.4862397313117981
+2026-07-01 09:25:31,"Nasdaq, S&P 500, Dow Futures Slip After Historic First-Half Rally As Investors Await Labor Data, Fed Signals: Why NKE, TSLA, NIO, MU, LUNR, CVKD Are In Focus",TSLA,Yahoo RSS,negative,-0.6226542592048645
