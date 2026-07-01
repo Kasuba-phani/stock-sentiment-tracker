@@ -66,3 +66,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-01 17:55:09,Price Prediction: We’re Bearish on Bloom Energy and See Shares Falling,NVDA,Yahoo RSS,negative,-0.6227189302444458
 2026-07-01 08:16:00,Meta stock surges on report it’s building a cloud business. CoreWeave drops.,META,Bing RSS,negative,-0.8590810894966125
 2026-07-01 06:11:00,Meta stock drops 6% after announcing 2026 AI spending boost,META,Bing RSS,negative,-0.9633550643920898
+2026-07-01 20:38:43,"Update: Dow Snaps Record Stretch Following Labor Data, Warsh Remarks",GOOGL,Yahoo RSS,negative,-0.5378610491752625
+2026-07-01 20:29:51,US Equity Markets End Lower as Technology Sector Slides,GOOGL,Yahoo RSS,negative,-0.9486644268035889
+2026-07-01 19:57:52,"Update: US Equity Indexes Mixed as Technology Slides, Warsh Reinforces Fed's Focus on Inflation",GOOGL,Yahoo RSS,negative,-0.9609717726707458
+2026-07-01 20:38:43,"Update: Dow Snaps Record Stretch Following Labor Data, Warsh Remarks",AMZN,Yahoo RSS,negative,-0.5378610491752625
+2026-07-01 20:29:51,US Equity Markets End Lower as Technology Sector Slides,AMZN,Yahoo RSS,negative,-0.9486644268035889
+2026-07-01 19:57:52,"Update: US Equity Indexes Mixed as Technology Slides, Warsh Reinforces Fed's Focus on Inflation",AMZN,Yahoo RSS,negative,-0.9609717726707458
+2026-07-01 18:21:04,"Update: US Equities Mixed as Traders Parse Labor Data, Warsh Remarks",AMZN,Yahoo RSS,negative,-0.9333474636077881
+2026-07-01 17:59:08,Update: US Equity Indexes Mixed as Technology Slide Undermines Top Sector Gainers,AMZN,Yahoo RSS,negative,-0.9709904789924622
+2026-07-01 20:38:43,"Update: Dow Snaps Record Stretch Following Labor Data, Warsh Remarks",MSFT,Yahoo RSS,negative,-0.5378610491752625
+2026-07-01 20:29:51,US Equity Markets End Lower as Technology Sector Slides,MSFT,Yahoo RSS,negative,-0.9486644268035889
+2026-07-01 19:57:52,"Update: US Equity Indexes Mixed as Technology Slides, Warsh Reinforces Fed's Focus on Inflation",MSFT,Yahoo RSS,negative,-0.9609717726707458
+2026-07-01 19:53:22,Chevron Corporation (CVX) A Top Dividend Aristocrat Stock to Buy amid Growth on New Energies and Strategic Partnerships,MSFT,Yahoo RSS,positive,0.8248414397239685
+2026-07-01 18:21:04,"Update: US Equities Mixed as Traders Parse Labor Data, Warsh Remarks",MSFT,Yahoo RSS,negative,-0.9333474636077881
+2026-07-01 18:45:04,"S&P 500 near flat, Meta shares jump - StreetInsider",META,Google RSS,positive,0.6036761403083801
+2026-07-01 20:38:43,"Update: Dow Snaps Record Stretch Following Labor Data, Warsh Remarks",META,Yahoo RSS,negative,-0.5378610491752625
+2026-07-01 20:29:51,US Equity Markets End Lower as Technology Sector Slides,META,Yahoo RSS,negative,-0.9486644268035889
+2026-07-01 19:57:52,"Update: US Equity Indexes Mixed as Technology Slides, Warsh Reinforces Fed's Focus on Inflation",META,Yahoo RSS,negative,-0.9609717726707458
