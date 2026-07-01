@@ -1,0 +1,30 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-06-30 14:36:00,"Caterpillar, Apple Share Gains Lead Dow's 159-Point Jump - 富途牛牛",AAPL,Google RSS,positive,0.8051884770393372
+2026-06-30 14:34:36,Suzuki Stock Analysis: Supply Chain Pressure Impact in June 2026 - The Cryptonomist,AAPL,Google RSS,neutral,0.0
+2026-06-30 13:16:00,Apple Price Hikes Sent AAPL Stock Falling. They May Not Even Matter in the Long Term.,AAPL,Bing RSS,negative,-0.9370905756950378
+2026-06-29 16:13:20,Alphabet debuts in Dow Jones Industrial Average as index tilts toward tech - Reuters,GOOGL,Google RSS,neutral,0.0
+2026-06-29 12:32:00,Alphabet Stock Joins the Dow but It’s Rising for a Different Reason - Barron's,GOOGL,Google RSS,neutral,0.0
+2026-06-30 10:25:00,Alphabet Just Joined the Dow Jones Industrial Average. 3 Dow Dividend Stocks to Buy Now. - Yahoo Finance,GOOGL,Google RSS,neutral,0.0
+2026-06-30 11:05:00,Alphabet Just Joined the Dow Jones Industrial Average. 3 Dow Dividend Stocks to Buy Now. - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-06-30 07:41:52,"Google's Alphabet Enters the Dow Jones, Verizon Exits: The 130-Year-Old Index Finally Bows to Big Tech - Disruption Banking",GOOGL,Google RSS,neutral,0.0
+2026-06-30 17:42:32,Dozens of Major Companies Become Open USD Launch Partners,GOOGL,Yahoo RSS,neutral,0.0
+2026-06-29 20:32:00,Amazon Stock Climbs During Strong Day For Magnificent Seven - Investor's Business Daily,AMZN,Google RSS,positive,0.9022425413131714
+2026-06-29 14:13:00,Bears Scream That a Falling $47.66 Average Prime Day Order Proves the Consumer Is Dead: This Is Why I Keep Buying The Stock - 24/7 Wall St.,AMZN,Google RSS,negative,-0.943976879119873
+2026-06-30 16:24:52,Amazon stock seen rising over 29% as AWS price hikes and AI partnerships boost growth outlook. - Pluang,AMZN,Google RSS,positive,0.9430835843086243
+2026-06-30 13:04:05,Amazon (AMZN) Stock Rises on Strong AWS Growth and Record 2026 Earnings - FXLeaders,AMZN,Google RSS,positive,0.9417983293533325
+2026-06-29 08:14:00,Amazon stock climbs during strong day for Magnificent Seven,AMZN,Bing RSS,positive,0.8909292221069336
+2026-06-25 20:51:00,Microsoft’s stock is suffering a historic June rout as investors balk at heavy spending - MarketWatch,MSFT,Google RSS,negative,-0.9694660902023315
+2026-06-26 14:50:24,Microsoft stock hits one-year low amid AI spending concerns - qz.com,MSFT,Google RSS,negative,-0.9260715246200562
+2026-06-30 20:00:37,"Top Stock Reports for Microsoft, Exxon Mobil & Dell - Zacks Investment Research",MSFT,Google RSS,neutral,0.0
+2026-06-29 10:07:00,Investor Announcement: Microsoft Investors are Notified to - GlobeNewswire,MSFT,Google RSS,neutral,0.0
+2026-06-30 20:34:00,"Top Stock Reports for Microsoft, Exxon Mobil & Dell",MSFT,Yahoo RSS,neutral,0.0
+2026-06-29 13:54:00,Nvidia Stock Rises Amid Signs of Strong AI Chip Demand - Barron's,NVDA,Google RSS,positive,0.798330545425415
+2026-06-29 11:30:46,Palantir stock climbs as Nvidia partnership boosts AI growth outlook,NVDA,Bing RSS,positive,0.9414153099060059
+2026-06-30 04:32:59,Tesla Stock And 2 High Growth Tech Names With Strong Insider Ownership - simplywall.st,TSLA,Google RSS,neutral,0.0
+2026-06-30 15:29:19,"Tesla Q2 delivery preview: Europe, international sales the driver as US sales in decline",TSLA,Yahoo RSS,negative,-0.885603666305542
+2026-06-30 02:52:00,Meta Platforms (NASDAQ: META) Stock Price Outpaces S&P 500 With Strong Single-Session Gain - foreignpolicyjournal.com,META,Google RSS,positive,0.939357578754425
+2026-06-27 07:00:00,How Much Upside Can META Stock's Growth Deliver? - Trefis,META,Google RSS,neutral,0.0
+2026-06-29 05:25:46,S&P 500 Stocks Trading At 52-Week High - Trefis,META,Google RSS,positive,0.538077712059021
+2026-06-29 05:25:31,Small Cap Stocks Trading At 52-Week High - Trefis,META,Google RSS,positive,0.5745680332183838
+2026-06-30 10:45:00,"Fox Outbid Netflix to Buy Roku, So Why Are Both Stocks Falling? - The Motley Fool",NFLX,Google RSS,negative,-0.8663879632949829
+2026-06-30 03:45:00,"Fox Outbid Netflix to Buy Roku, So Why Are Both Stocks Falling?",NFLX,Bing RSS,negative,-0.9106246829032898
