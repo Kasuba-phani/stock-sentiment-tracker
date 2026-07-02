@@ -4,24 +4,24 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-30 10:25:00,Alphabet Just Joined the Dow Jones Industrial Average. 3 Dow Dividend Stocks to Buy Now. - Yahoo Finance,GOOGL,Google RSS,neutral,0.0
 2026-06-29 09:06:00,"The Dow Jones Industrial Average Changes Forever Today: Google Parent Alphabet Is In, Verizon Is Out, and a Longtime Component Is on Thin Ice - The Motley Fool",GOOGL,Google RSS,negative,-0.7512887716293335
 2026-07-01 17:42:11,"EXCLUSIVE: Market Expert Jay Woods Picks Top 2 Magnificent Seven Stocks For Rest of 2026, 2027 - Benzinga",GOOGL,Google RSS,neutral,0.0
-2026-07-01 21:04:59,"Update: US Equity Indexes Fall as Technology Slides, Warsh's Inflation Focus Lifts Treasury Yields",GOOGL,Yahoo RSS,negative,-0.9670946598052979
+2026-07-01 21:04:59,"Update: US Equity Indexes Fall as Technology Slides, Warsh's Inflation Focus Lifts Treasury Yields",GOOGL,Yahoo RSS,negative,-0.967094659805298
 2026-07-01 20:38:43,"Update: Dow Snaps Record Stretch Following Labor Data, Warsh Remarks",GOOGL,Yahoo RSS,negative,-0.5378610491752625
-2026-07-01 20:29:51,US Equity Markets End Lower as Technology Sector Slides,GOOGL,Yahoo RSS,negative,-0.9486644268035889
+2026-07-01 20:29:51,US Equity Markets End Lower as Technology Sector Slides,GOOGL,Yahoo RSS,negative,-0.9486644268035888
 2026-06-29 20:32:00,Amazon Stock Climbs During Strong Day For Magnificent Seven - Investor's Business Daily,AMZN,Google RSS,positive,0.9022426009178162
 2026-06-29 14:13:00,Bears Scream That a Falling $47.66 Average Prime Day Order Proves the Consumer Is Dead: This Is Why I Keep Buying The Stock - 24/7 Wall St.,AMZN,Google RSS,negative,-0.943976879119873
-2026-06-30 16:24:52,Amazon stock seen rising over 29% as AWS price hikes and AI partnerships boost growth outlook. - Pluang,AMZN,Google RSS,positive,0.9430835843086243
+2026-06-30 16:24:52,Amazon stock seen rising over 29% as AWS price hikes and AI partnerships boost growth outlook. - Pluang,AMZN,Google RSS,positive,0.9430835843086244
 2026-06-29 13:36:00,Amazon stock climbs during strong day for Magnificent Seven,AMZN,Bing RSS,positive,0.8909294009208679
-2026-07-01 21:04:59,"Update: US Equity Indexes Fall as Technology Slides, Warsh's Inflation Focus Lifts Treasury Yields",AMZN,Yahoo RSS,negative,-0.9670946598052979
+2026-07-01 21:04:59,"Update: US Equity Indexes Fall as Technology Slides, Warsh's Inflation Focus Lifts Treasury Yields",AMZN,Yahoo RSS,negative,-0.967094659805298
 2026-07-01 20:38:43,"Update: Dow Snaps Record Stretch Following Labor Data, Warsh Remarks",AMZN,Yahoo RSS,negative,-0.5378610491752625
-2026-07-01 20:29:51,US Equity Markets End Lower as Technology Sector Slides,AMZN,Yahoo RSS,negative,-0.9486644268035889
+2026-07-01 20:29:51,US Equity Markets End Lower as Technology Sector Slides,AMZN,Yahoo RSS,negative,-0.9486644268035888
 2026-07-01 19:57:52,"Update: US Equity Indexes Mixed as Technology Slides, Warsh Reinforces Fed's Focus on Inflation",AMZN,Yahoo RSS,negative,-0.9609717726707458
 2026-06-26 14:50:24,Microsoft stock hits one-year low amid AI spending concerns - qz.com,MSFT,Google RSS,negative,-0.9260715246200562
-2026-06-25 20:51:00,Microsoft’s stock is suffering a historic June rout as investors balk at heavy spending - MarketWatch,MSFT,Google RSS,negative,-0.9694660902023315
+2026-06-25 20:51:00,Microsoft’s stock is suffering a historic June rout as investors balk at heavy spending - MarketWatch,MSFT,Google RSS,negative,-0.9694660902023317
 2026-07-01 07:04:07,"Microsoft stock price forecasts target 2026, 2027, 2030 - Let's Data Science",MSFT,Google RSS,neutral,0.0
 2026-07-01 16:35:00,Microsoft stock suffers worst month since 2000,MSFT,Bing RSS,negative,-0.9665484428405762
-2026-07-01 21:04:59,"Update: US Equity Indexes Fall as Technology Slides, Warsh's Inflation Focus Lifts Treasury Yields",MSFT,Yahoo RSS,negative,-0.9670946598052979
+2026-07-01 21:04:59,"Update: US Equity Indexes Fall as Technology Slides, Warsh's Inflation Focus Lifts Treasury Yields",MSFT,Yahoo RSS,negative,-0.967094659805298
 2026-07-01 20:38:43,"Update: Dow Snaps Record Stretch Following Labor Data, Warsh Remarks",MSFT,Yahoo RSS,negative,-0.5378610491752625
-2026-07-01 20:29:51,US Equity Markets End Lower as Technology Sector Slides,MSFT,Yahoo RSS,negative,-0.9486644268035889
+2026-07-01 20:29:51,US Equity Markets End Lower as Technology Sector Slides,MSFT,Yahoo RSS,negative,-0.9486644268035888
 2026-07-01 19:57:52,"Update: US Equity Indexes Mixed as Technology Slides, Warsh Reinforces Fed's Focus on Inflation",MSFT,Yahoo RSS,negative,-0.9609717726707458
 2026-07-01 19:53:22,Chevron Corporation (CVX) A Top Dividend Aristocrat Stock to Buy amid Growth on New Energies and Strategic Partnerships,MSFT,Yahoo RSS,positive,0.8248414397239685
 2026-06-29 20:09:03,Nvidia Is Still a Bargain. Analysts See 57% Upside in NVDA Stock. - Barchart.com,NVDA,Google RSS,neutral,0.0
@@ -30,15 +30,21 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-01 01:31:31,Stronger technical forecast for NVIDIA stock price after Tuesday trading - StockInvest.us,NVDA,Google RSS,positive,0.8331997990608215
 2026-06-30 04:32:59,Tesla Stock And 2 High Growth Tech Names With Strong Insider Ownership - simplywall.st,TSLA,Google RSS,neutral,0.0
 2026-07-01 01:31:32,Stronger technical forecast for Tesla stock price after Tuesday trading - StockInvest.us,TSLA,Google RSS,positive,0.5122296214103699
-2026-07-01 11:01:18,"Michael Burry shorts Tesla at $416, betting on a long-term decline despite recent stock rally. - Pluang",TSLA,Google RSS,negative,-0.9155765771865845
-2026-07-01 23:34:20,Wall Street ends choppy session lower as tech shares drop - Reuters,META,Google RSS,negative,-0.9578700065612793
+2026-07-01 11:01:18,"Michael Burry shorts Tesla at $416, betting on a long-term decline despite recent stock rally. - Pluang",TSLA,Google RSS,negative,-0.9155765771865844
+2026-07-01 23:34:20,Wall Street ends choppy session lower as tech shares drop - Reuters,META,Google RSS,negative,-0.9578700065612792
 2026-07-01 18:44:43,"S&P 500 near flat, Meta shares jump - marketscreener.com",META,Google RSS,neutral,0.0
 2026-06-30 02:52:00,Meta Platforms (NASDAQ: META) Stock Price Outpaces S&P 500 With Strong Single-Session Gain - foreignpolicyjournal.com,META,Google RSS,positive,0.939357578754425
 2026-06-27 07:00:00,How Much Upside Can META Stock's Growth Deliver? - Trefis,META,Google RSS,neutral,0.0
 2026-07-01 15:06:05,Meta stock jumps on report of AI cloud business expansion plans - Invezz,META,Google RSS,neutral,0.0
-2026-07-01 21:04:59,"Update: US Equity Indexes Fall as Technology Slides, Warsh's Inflation Focus Lifts Treasury Yields",META,Yahoo RSS,negative,-0.9670946598052979
+2026-07-01 21:04:59,"Update: US Equity Indexes Fall as Technology Slides, Warsh's Inflation Focus Lifts Treasury Yields",META,Yahoo RSS,negative,-0.967094659805298
 2026-07-01 20:38:43,"Update: Dow Snaps Record Stretch Following Labor Data, Warsh Remarks",META,Yahoo RSS,negative,-0.5378610491752625
-2026-07-01 20:29:51,US Equity Markets End Lower as Technology Sector Slides,META,Yahoo RSS,negative,-0.9486644268035889
+2026-07-01 20:29:51,US Equity Markets End Lower as Technology Sector Slides,META,Yahoo RSS,negative,-0.9486644268035888
 2026-07-01 20:11:32,Dow Closes Lower as Caterpillar Stock Slumps: Stock Market Today,META,Yahoo RSS,negative,-0.9629278779029846
 2026-06-30 10:45:00,"Fox Outbid Netflix to Buy Roku, So Why Are Both Stocks Falling? - The Motley Fool",NFLX,Google RSS,negative,-0.8663879632949829
 2026-06-25 18:41:00,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July? - The Motley Fool",NFLX,Google RSS,negative,-0.8976302742958069
+2026-06-30 07:41:52,"Google's Alphabet Enters the Dow Jones, Verizon Exits: The 130-Year-Old Index Finally Bows to Big Tech - Disruption Banking",GOOGL,Google RSS,neutral,0.0
+2026-07-02 03:11:00,"Dow Jones Futures: Techs Rise With Tesla, Jobs Report Ahead; Meta Jumps On AI Move - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-07-01 04:42:08,SpaceX and Tesla Stocks Show Strong Correlation in Market Moveme - GuruFocus,TSLA,Google RSS,positive,0.8115023970603943
+2026-07-02 01:46:52,"Meta's AI pivot triggers global chip sell-off, sending Kospi below 8,000 - The Korea Economic Daily Global Edition",META,Google RSS,negative,-0.9649081826210022
+2026-07-02 03:11:00,"Dow Jones Futures: Techs Rise With Tesla, Jobs Report Ahead; Meta Jumps On AI Move - Investor's Business Daily",META,Google RSS,neutral,0.0
+2026-07-01 20:00:05,Meta shares surge on report of new AI cloud business - Tech Xplore,META,Google RSS,positive,0.7364486455917358
