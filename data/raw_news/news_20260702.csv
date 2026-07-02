@@ -54,9 +54,35 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-01 19:27:47,Jefferies reiterates Meta stock Buy rating on cloud business entry By Investing.com - Investing.com Nigeria,META,Google RSS,neutral,0.0
 2026-07-02 11:51:03,"Analysts Offer Insights on Technology Companies: Tyler Technologies (TYL), Datadog (DDOG) and Apple (AAPL) - The Globe and Mail",AAPL,Google RSS,neutral,0.0
 2026-07-02 00:42:00,Microsoft stock suffers worst month since 2000 - The Daily Gazette,MSFT,Google RSS,negative,-0.965095043182373
-2026-07-02 10:52:30,Microsoft stock defies tech slump as its biggest weakness becomes its strength - MSN,MSFT,Google RSS,negative,-0.43396803736686707
+2026-07-02 10:52:30,Microsoft stock defies tech slump as its biggest weakness becomes its strength - MSN,MSFT,Google RSS,negative,-0.433968037366867
 2026-07-02 11:43:41,Chip stocks sell off globally ahead of June jobs report,NVDA,Yahoo RSS,negative,-0.9553198218345642
 2026-07-02 11:33:25,"Tesla (TSLA) Stock Surges Above $420, Igniting Retail Investor E - GuruFocus",TSLA,Google RSS,positive,0.3743378221988678
-2026-07-02 12:08:56,Tesla China sales climb for eighth straight month in June - Investing.com,TSLA,Google RSS,positive,0.44151586294174194
+2026-07-02 12:08:56,Tesla China sales climb for eighth straight month in June - Investing.com,TSLA,Google RSS,positive,0.4415158629417419
 2026-07-02 08:52:59,"Nasdaq, S&P 500, Dow Futures Subdued Ahead Of June Jobs Report: Why TSLA, MU, NBIS, NVDA, SMCI, IREN Are In Focus",TSLA,Yahoo RSS,negative,-0.6383235454559326
 2026-06-25 11:41:35,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",NFLX,Bing RSS,negative,-0.9155545234680176
+2026-06-30 11:05:00,Alphabet Just Joined the Dow Jones Industrial Average. 3 Dow Dividend Stocks to Buy Now. - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-07-02 13:30:15,3 Top AI Stocks to Buy in July,GOOGL,Yahoo RSS,neutral,0.0
+2026-07-02 13:26:00,Prediction: Nike Will Be Booted From the Dow Jones Industrial Average Within 12 Months and Replaced by One of 2 Consumer-Facing Giants,GOOGL,Yahoo RSS,neutral,0.0
+2026-07-01 13:18:03,"‘Cheap for a Reason,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-07-02 15:03:30,Microsoft Has $627B in Locked-In Revenue and AI Demand Is Outrunning Supply — Can MSFT Reclaim $437? - TradingKey,MSFT,Google RSS,neutral,0.0
+2026-07-02 08:48:54,Why Microsoft (NASDAQ:MSFT) Is Surging While AI Chip Stocks Crash - Stocks Down Under,MSFT,Google RSS,negative,-0.9446127414703369
+2026-07-02 13:30:15,3 Top AI Stocks to Buy in July,MSFT,Yahoo RSS,neutral,0.0
+2026-07-02 13:56:00,"Nvidia Partners With 'Neoclouds' Sharon AI, Firmus Technologies - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-07-02 13:51:33,Nvidia And 3 AI Hardware Stocks Retail Investors Are Watching - simplywall.st,NVDA,Google RSS,neutral,0.0
+2026-06-29 11:30:46,Palantir stock climbs as Nvidia partnership boosts AI growth outlook,NVDA,Bing RSS,positive,0.9414153099060059
+2026-07-02 13:07:44,"Tesla deliveries jump 25% over last year, blowing past expectations - CNBC",TSLA,Google RSS,positive,0.9263544082641602
+2026-07-02 14:19:34,US Open: Nasdaq surges amid semiconductor rebound 🔼 Tesla shares down despite strong deliveries report - XTB.com,TSLA,Google RSS,negative,-0.9647502899169922
+2026-07-02 13:52:00,"Tesla (TSLA) Q2 2026 deliveries jump 25% to 480,126, beating estimates - Electrek",TSLA,Google RSS,positive,0.9467023015022278
+2026-07-02 14:54:11,"Tesla Reports Strong Deliveries, Yet Investors Remain Unimpressed - Investopedia",TSLA,Google RSS,positive,0.5764620900154114
+2026-07-02 12:13:00,"Dow Jones Futures Rise With Tesla, Jobs Report Ahead - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-07-02 15:07:57,Tesla sales rose last quarter in a possible sign the worst of the Musk backlash is behind it - BNN Bloomberg,TSLA,Google RSS,positive,0.9210155010223389
+2026-07-02 13:26:00,Prediction: Nike Will Be Booted From the Dow Jones Industrial Average Within 12 Months and Replaced by One of 2 Consumer-Facing Giants,TSLA,Yahoo RSS,neutral,0.0
+2026-07-02 13:24:44,Tesla sales rose last quarter in a possible sign the worst of the Musk backlash is behind it,TSLA,Yahoo RSS,positive,0.9468734860420227
+2026-07-02 13:20:15,Tesla saw a massive sales jump in the second quarter,TSLA,Yahoo RSS,positive,0.9449402689933777
+2026-07-02 12:13:00,"Dow Jones Futures Rise With Tesla, Jobs Report Ahead - Investor's Business Daily",META,Google RSS,neutral,0.0
+2026-07-02 12:49:10,3 Stocks Due for a Major Rally in July - The Motley Fool,META,Google RSS,neutral,0.0
+2026-07-02 12:43:29,3 Stocks Due for a Major Rally in July - The Globe and Mail,META,Google RSS,neutral,0.0
+2026-07-02 07:04:00,Meta stock falls as AI cloud plans hit an immediate snag,META,Bing RSS,negative,-0.8652611374855042
+2026-07-01 06:11:00,Meta stock drops 6% after announcing 2026 AI spending boost,META,Bing RSS,negative,-0.9633550643920898
+2026-07-02 13:30:15,3 Top AI Stocks to Buy in July,META,Yahoo RSS,neutral,0.0
+2026-07-02 13:17:00,"Virtuix to Present Recent Meta, Defense, and Financial Milestones at the Emerging Growth Conference",META,Yahoo RSS,neutral,0.0
