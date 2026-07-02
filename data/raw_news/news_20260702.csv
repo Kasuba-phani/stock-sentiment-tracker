@@ -49,6 +49,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-02 03:11:00,"Dow Jones Futures: Techs Rise With Tesla, Jobs Report Ahead; Meta Jumps On AI Move - Investor's Business Daily",META,Google RSS,neutral,0.0
 2026-07-01 20:00:05,Meta shares surge on report of new AI cloud business - Tech Xplore,META,Google RSS,positive,0.7364486455917358
 2026-07-02 08:46:26,"Meyer Handelman Co. Purchases 7,534 Shares of Amazon.com, Inc. $AMZN - MarketBeat",AMZN,Google RSS,neutral,0.0
-2026-07-02 08:48:54,Why Microsoft Is Surging While AI Chip Stocks Crash - Stocks Down Under,MSFT,Google RSS,negative,-0.9506144523620605
+2026-07-02 08:48:54,Why Microsoft Is Surging While AI Chip Stocks Crash - Stocks Down Under,MSFT,Google RSS,negative,-0.9506144523620604
 2026-07-02 06:20:00,New Fed Chair Kevin Warsh Recently Said 36 Words That Could Forever Change the Fed's Relationship With the Stock Market,NVDA,Yahoo RSS,neutral,0.0
 2026-07-01 19:27:47,Jefferies reiterates Meta stock Buy rating on cloud business entry By Investing.com - Investing.com Nigeria,META,Google RSS,neutral,0.0
+2026-07-02 11:51:03,"Analysts Offer Insights on Technology Companies: Tyler Technologies (TYL), Datadog (DDOG) and Apple (AAPL) - The Globe and Mail",AAPL,Google RSS,neutral,0.0
+2026-07-02 00:42:00,Microsoft stock suffers worst month since 2000 - The Daily Gazette,MSFT,Google RSS,negative,-0.965095043182373
+2026-07-02 10:52:30,Microsoft stock defies tech slump as its biggest weakness becomes its strength - MSN,MSFT,Google RSS,negative,-0.43396803736686707
+2026-07-02 11:43:41,Chip stocks sell off globally ahead of June jobs report,NVDA,Yahoo RSS,negative,-0.9553198218345642
+2026-07-02 11:33:25,"Tesla (TSLA) Stock Surges Above $420, Igniting Retail Investor E - GuruFocus",TSLA,Google RSS,positive,0.3743378221988678
+2026-07-02 12:08:56,Tesla China sales climb for eighth straight month in June - Investing.com,TSLA,Google RSS,positive,0.44151586294174194
+2026-07-02 08:52:59,"Nasdaq, S&P 500, Dow Futures Subdued Ahead Of June Jobs Report: Why TSLA, MU, NBIS, NVDA, SMCI, IREN Are In Focus",TSLA,Yahoo RSS,negative,-0.6383235454559326
+2026-06-25 11:41:35,"Down 46%, Is Netflix a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",NFLX,Bing RSS,negative,-0.9155545234680176
