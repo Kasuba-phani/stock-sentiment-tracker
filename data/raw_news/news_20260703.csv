@@ -64,8 +64,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-02 11:41:00,Why Microsoft stock is rebounding after its worst first half since 2000,MSFT,Bing RSS,negative,-0.8870502710342407
 2026-07-01 09:33:00,Microsoft stock suffers worst month since 2000,MSFT,Bing RSS,negative,-0.9665484428405762
 2026-07-03 07:38:46,Tesla: Shares Fall Despite Strong Second-Quarter Deliveries Growth; Raising Valuation - Morningstar,TSLA,Google RSS,negative,-0.9709331393241882
-2026-07-02 10:44:00,Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers,TSLA,Bing RSS,negative,-0.9143766760826111
-2026-07-02 06:08:00,"Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",TSLA,Bing RSS,negative,-0.9707358479499817
+2026-07-02 10:44:00,Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers,TSLA,Bing RSS,negative,-0.9143766760826112
+2026-07-02 06:08:00,"Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",TSLA,Bing RSS,negative,-0.9707358479499816
 2026-07-03 01:56:04,Tesla quarterly deliveries set record; European recovery raises hopes of annual growth,TSLA,Bing RSS,positive,0.9427127838134766
 2026-07-03 09:19:37,"U.S. holiday pause, softer Fed expectations and Asia rebound shape global markets: Dow Jones, S&P, Nasdaq, Wall Street Futures",TSLA,Yahoo RSS,neutral,0.0
 2026-07-01 20:00:05,Meta shares surge on report of new AI cloud business - Tech Xplore,META,Google RSS,positive,0.7364486455917358
+2026-07-03 11:51:00,"Dow Jones Futures Fall Techs Rise After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-07-03 11:51:00,"Dow Jones Futures Fall Techs Rise After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-07-02 15:06:53,Tesla sales jumped last quarter in a possible sign the worst of the Musk backlash is behind it - Boston Herald,TSLA,Google RSS,positive,0.5862796306610107
+2026-07-03 11:12:07,Entergy (ETR) Stock May Be Above Fair Value Despite Equity Raise,META,Yahoo RSS,positive,0.7341012358665466
