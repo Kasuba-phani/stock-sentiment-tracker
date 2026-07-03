@@ -1,0 +1,57 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-07-03 03:00:00,"Dow Jones Futures Rise After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-07-03 03:07:18,"AMP Says Bonds No Longer a Hedge, Cuts From Some Pension Funds",AAPL,Yahoo RSS,negative,-0.7750720381736755
+2026-07-02 21:02:06,"Stock Market Today: Dow Runs 590 Points To New High But Meta, Chip, Optical Stocks Slammed",AAPL,Yahoo RSS,positive,0.7279190421104431
+2026-07-02 20:38:15,Update: US Equity Indexes Mixed as Weak Jobs Data Trigger Rotation Out of Growth Stocks,AAPL,Yahoo RSS,negative,-0.9677416086196899
+2026-06-29 16:13:20,Alphabet debuts in Dow Jones Industrial Average as index tilts toward tech - Reuters,GOOGL,Google RSS,neutral,0.0
+2026-06-30 11:05:00,Alphabet Just Joined the Dow Jones Industrial Average. 3 Dow Dividend Stocks to Buy Now. - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-06-29 09:06:00,"The Dow Jones Industrial Average Changes Forever Today: Google Parent Alphabet Is In, Verizon Is Out, and a Longtime Component Is on Thin Ice - The Motley Fool",GOOGL,Google RSS,negative,-0.7512901425361633
+2026-06-30 07:41:52,"Google's Alphabet Enters the Dow Jones, Verizon Exits: The 130-Year-Old Index Finally Bows to Big Tech - Disruption Banking",GOOGL,Google RSS,neutral,0.0
+2026-06-29 21:03:00,"Dow Jones futures: Stock market rallies on US.-Iran news; Alphabet, Rocket Lab, SpaceX, Tesla are big winners",GOOGL,Bing RSS,neutral,0.0
+2026-07-03 03:07:18,"AMP Says Bonds No Longer a Hedge, Cuts From Some Pension Funds",GOOGL,Yahoo RSS,negative,-0.7750720381736755
+2026-06-29 20:32:00,Amazon Stock Climbs During Strong Day For Magnificent Seven - Investor's Business Daily,AMZN,Google RSS,positive,0.9022425413131714
+2026-06-29 14:13:00,Bears Scream That a Falling $47.66 Average Prime Day Order Proves the Consumer Is Dead: This Is Why I Keep Buying The Stock - 24/7 Wall St.,AMZN,Google RSS,negative,-0.943976879119873
+2026-07-02 23:54:47,"Why Is Microsoft Stock Falling, and is it a Generational Buying Opportunity? - The Motley Fool",MSFT,Google RSS,negative,-0.7872371077537537
+2026-07-03 00:45:00,"Why Is Microsoft Stock Falling, and is it a Generational Buying Opportunity? - The Globe and Mail",MSFT,Google RSS,negative,-0.9052901864051819
+2026-07-02 11:52:40,Microsoft stock hits one-year low amid AI spending concerns - qz.com,MSFT,Google RSS,negative,-0.9260715246200562
+2026-07-02 13:23:00,3 Stocks Due for a Major Rally in July - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-07-01 07:04:07,"Microsoft stock price forecasts target 2026, 2027, 2030 - Let's Data Science",MSFT,Google RSS,neutral,0.0
+2026-07-02 17:27:59,"Why Is Microsoft Stock Falling, And Is It a Generational Buying Opportunity?",MSFT,Bing RSS,negative,-0.8417186141014099
+2026-07-02 20:07:00,"Nvidia Partners With 'Neoclouds' Sharon AI, Firmus Technologies - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-06-29 13:54:00,Nvidia Stock Rises Amid Signs of Strong AI Chip Demand - Barron's,NVDA,Google RSS,positive,0.798330545425415
+2026-06-29 20:09:03,Nvidia Is Still a Bargain. Analysts See 57% Upside in NVDA Stock. - Barchart.com,NVDA,Google RSS,neutral,0.0
+2026-07-02 19:09:00,3 AI Stocks to Still Buy If Inflation Stays Sticky - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-07-02 13:51:33,Nvidia And 3 AI Hardware Stocks Retail Investors Are Watching - simplywall.st,NVDA,Google RSS,neutral,0.0
+2026-07-02 13:07:44,"Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year - CNBC",TSLA,Google RSS,negative,-0.9578706622123718
+2026-07-02 21:02:00,"Stock Market Today: Dow Runs 590 Points To New High But Meta, Chip, Optical Stocks Slammed - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-07-02 21:05:00,Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers - MarketWatch,TSLA,Google RSS,negative,-0.9040796756744385
+2026-07-02 17:42:06,Tesla: Shares Fall Despite Strong Second-Quarter Deliveries Growth - Morningstar,TSLA,Google RSS,negative,-0.9698497653007507
+2026-07-02 14:19:34,US Open: Nasdaq surges amid semiconductor rebound 🔼 Tesla shares down despite strong deliveries report - XTB.com,TSLA,Google RSS,negative,-0.9647502899169922
+2026-07-02 17:11:55,Strong quarterly sales failed to boost Tesla's stock price as analysts await further progress on AI. - 富途牛牛,TSLA,Google RSS,positive,0.49835070967674255
+2026-07-02 14:54:11,"Tesla Reports Strong Deliveries, Yet Investors Remain Unimpressed - Investopedia",TSLA,Google RSS,positive,0.5764620900154114
+2026-07-02 13:52:00,"Tesla (TSLA) Q2 2026 deliveries jump 25% to 480,126, beating estimates - Electrek",TSLA,Google RSS,positive,0.9467023015022278
+2026-07-03 03:00:00,"Dow Jones Futures Rise After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-07-02 16:01:37,Tesla Stock Falls Over 6% Even As EV Maker Reports Strong Q2 Sales Figures - NDTV,TSLA,Google RSS,negative,-0.48950424790382385
+2026-07-02 17:55:29,Tesla stock sinks to worst day in a year despite strong deliveries - Crypto Briefing,TSLA,Google RSS,negative,-0.9374088048934937
+2026-07-02 12:13:00,"Dow Jones Futures Rise With Tesla, Jobs Report Ahead - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-07-02 16:07:07,Tesla (TSLA) Sees Stock Decline Despite Strong Q2 Delivery Numbe - GuruFocus,TSLA,Google RSS,negative,-0.9725661873817444
+2026-07-02 13:24:44,Tesla sales rose last quarter in a possible sign the worst of the Musk backlash is behind it - dailyjournal.net,TSLA,Google RSS,positive,0.870643675327301
+2026-07-02 17:47:32,Tesla sales jumped last quarter in a possible sign the worst of the Musk backlash is behind it - BNN Bloomberg,TSLA,Google RSS,positive,0.627685546875
+2026-07-02 11:33:25,"Tesla (TSLA) Stock Surges Above $420, Igniting Retail Investor E - GuruFocus",TSLA,Google RSS,positive,0.3743378221988678
+2026-07-02 11:16:52,S&P 500 Stocks Trading At 52-Week High - Trefis,TSLA,Google RSS,positive,0.538077712059021
+2026-07-02 20:20:34,Tesla quarterly deliveries set record; European recovery raises hopes of annual growth By Reuters - Investing.com,TSLA,Google RSS,positive,0.9169781804084778
+2026-07-02 20:25:00,Tesla's Latest Deliveries Report Exceeded Expectations. TSLA Stock Is Falling Anyway.,TSLA,Bing RSS,negative,-0.9692736864089966
+2026-07-02 20:19:00,Tesla stock update: Why is TSLA down despite strong Q2 delivery beat? Tesla falls 7%+ as margin concerns and EV competition weigh on sentiment,TSLA,Bing RSS,negative,-0.9703965783119202
+2026-07-02 07:57:00,"Tesla Reports Strong Deliveries, Yet Investors Remain Unimpressed",TSLA,Bing RSS,positive,0.5604276061058044
+2026-07-02 18:49:00,"Stock market today: Dow notches fresh record, Nasdaq slides as Tesla sinks, semiconductors extend decline",TSLA,Bing RSS,negative,-0.9501134753227234
+2026-07-02 21:26:46,Tesla deliveries beat forecasts as Europe's rebound brightens outlook,TSLA,Yahoo RSS,positive,0.9349039793014526
+2026-07-02 21:02:06,"Stock Market Today: Dow Runs 590 Points To New High But Meta, Chip, Optical Stocks Slammed",TSLA,Yahoo RSS,positive,0.7279190421104431
+2026-07-02 20:38:15,Update: US Equity Indexes Mixed as Weak Jobs Data Trigger Rotation Out of Growth Stocks,TSLA,Yahoo RSS,negative,-0.9677416086196899
+2026-07-02 20:03:26,"Tesla blows past Q2 delivery forecasts, but the stock is falling",TSLA,Yahoo RSS,positive,0.521345853805542
+2026-07-02 13:23:00,3 Stocks Due for a Major Rally in July - The Motley Fool,META,Google RSS,neutral,0.0
+2026-07-01 23:34:20,Wall Street ends choppy session lower as tech shares drop - Reuters,META,Google RSS,negative,-0.9578700065612793
+2026-07-02 12:13:00,"Dow Jones Futures Rise With Tesla, Jobs Report Ahead - Investor's Business Daily",META,Google RSS,neutral,0.0
+2026-07-02 08:55:21,Meta stock rises despite layoffs as AI expansion and cloud computing plans raise concerns about long-term margins,META,Bing RSS,negative,-0.8495577573776245
+2026-07-03 02:12:24,"Amkor, Penguin Solutions, and Entegris Shares Are Falling, What You Need To Know",META,Yahoo RSS,neutral,0.0
+2026-06-30 10:45:00,"Fox Outbid Netflix to Buy Roku, So Why Are Both Stocks Falling? - The Motley Fool",NFLX,Google RSS,negative,-0.8663879632949829
+2026-07-02 11:12:26,Netflix stock defies tech sell-off Thursday: What's going on?,NFLX,Bing RSS,negative,-0.7047080397605896
