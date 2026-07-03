@@ -73,3 +73,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-03 11:51:00,"Dow Jones Futures Fall Techs Rise After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
 2026-07-02 15:06:53,Tesla sales jumped last quarter in a possible sign the worst of the Musk backlash is behind it - Boston Herald,TSLA,Google RSS,positive,0.5862796306610107
 2026-07-03 11:12:07,Entergy (ETR) Stock May Be Above Fair Value Despite Equity Raise,META,Yahoo RSS,positive,0.7341012358665466
+2026-07-03 08:08:00,"Dow Jones futures fall, techs rise after Tesla, SanDisk, AI stocks dive; Apple, Robinhood flash buy signals",AAPL,Bing RSS,negative,-0.7267026901245117
+2026-07-03 15:05:00,"2 Stocks That Could Soar, Driven by Billions From Software Innovations. Hint: They Aren't Even Tech Stocks.",NVDA,Yahoo RSS,neutral,0.0
+2026-07-03 14:09:14,Tesla Stock Falls 8% Despite Strong Vehicle Deliveries - The Globe and Mail,TSLA,Google RSS,negative,-0.9640638828277588
+2026-07-03 13:13:25,Tesla sales soar 25% in sign its troubles may be easing,TSLA,Yahoo RSS,positive,0.7057450413703918
