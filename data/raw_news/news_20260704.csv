@@ -5,10 +5,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-03 16:27:53,"The Economy Is Losing Steam After Adding Just 57,000 Jobs in June — But I’m Still Bullish On These 3 Unstoppable AI Stocks - 24/7 Wall St.",GOOGL,Google RSS,negative,-0.9587125182151794
 2026-07-03 17:30:00,Alphabet Stock at $356: Is Google Still a Strong Buy in July 2026?,GOOGL,Bing RSS,neutral,0.0
 2026-07-02 12:12:00,"Alphabet Inc stock today: GOOG shares trading low at -0.76% during intra-day trading amid Dow Jones inclusion, Berkshire Hathaway investments & more",GOOGL,Bing RSS,negative,-0.9649354219436646
-2026-07-03 16:27:53,"The Economy Is Losing Steam After Adding Just 57,000 Jobs in June — But I’m Still Bullish On These 3 Unstoppable AI Stocks",GOOGL,Yahoo RSS,negative,-0.9577420949935913
+2026-07-03 16:27:53,"The Economy Is Losing Steam After Adding Just 57,000 Jobs in June — But I’m Still Bullish On These 3 Unstoppable AI Stocks",GOOGL,Yahoo RSS,negative,-0.9577420949935912
 2026-06-29 20:32:00,Amazon Stock Climbs During Strong Day For Magnificent Seven - Investor's Business Daily,AMZN,Google RSS,positive,0.9022425413131714
 2026-07-02 23:55:13,"Why Is Microsoft Stock Falling, and is it a Generational Buying Opportunity? - The Motley Fool",MSFT,Google RSS,negative,-0.7872371077537537
-2026-07-02 23:47:00,"Why Is Microsoft Stock Falling, and is it a Generational Buying Opportunity? - The Globe and Mail",MSFT,Google RSS,negative,-0.9052901864051819
+2026-07-02 23:47:00,"Why Is Microsoft Stock Falling, and is it a Generational Buying Opportunity? - The Globe and Mail",MSFT,Google RSS,negative,-0.905290186405182
 2026-07-02 11:52:40,Microsoft stock hits one-year low amid AI spending concerns - qz.com,MSFT,Google RSS,negative,-0.9260715246200562
 2026-07-02 13:23:00,3 Stocks Due for a Major Rally in July - The Motley Fool,MSFT,Google RSS,neutral,0.0
 2026-07-01 07:04:07,"Microsoft stock price forecasts target 2026, 2027, 2030 - Let's Data Science",MSFT,Google RSS,neutral,0.0
@@ -19,26 +19,29 @@ date,headline,ticker,source,sentiment_label,compound
 2026-06-29 20:09:03,Nvidia Is Still a Bargain. Analysts See 57% Upside in NVDA Stock. - Barchart.com,NVDA,Google RSS,neutral,0.0
 2026-07-02 19:09:00,3 AI Stocks to Still Buy If Inflation Stays Sticky - The Motley Fool,NVDA,Google RSS,neutral,0.0
 2026-07-02 13:07:44,"Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year - CNBC",TSLA,Google RSS,negative,-0.9578706622123718
-2026-07-03 08:22:41,Tesla: Shares Fall Despite Strong Second-Quarter Deliveries Growth - Morningstar,TSLA,Google RSS,negative,-0.9698497653007507
-2026-07-02 21:05:00,Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers - MarketWatch,TSLA,Google RSS,negative,-0.9040796756744385
+2026-07-03 08:22:41,Tesla: Shares Fall Despite Strong Second-Quarter Deliveries Growth - Morningstar,TSLA,Google RSS,negative,-0.9698497653007508
+2026-07-02 21:05:00,Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers - MarketWatch,TSLA,Google RSS,negative,-0.9040796756744384
 2026-07-02 14:19:34,US Open: Nasdaq surges amid semiconductor rebound 🔼 Tesla shares down despite strong deliveries report - XTB.com,TSLA,Google RSS,negative,-0.9647502899169922
 2026-07-03 14:09:00,Tesla Stock Falls 8% Despite Strong Vehicle Deliveries - The Globe and Mail,TSLA,Google RSS,negative,-0.9640638828277588
-2026-07-02 17:11:55,Strong quarterly sales failed to boost Tesla's stock price as analysts await further progress on AI. - 富途牛牛,TSLA,Google RSS,positive,0.49835070967674255
-2026-07-02 21:00:29,Tesla's Latest Deliveries Report Exceeded Expectations. TSLA Stock Is Falling Anyway. - Barchart.com,TSLA,Google RSS,negative,-0.9364122748374939
+2026-07-02 17:11:55,Strong quarterly sales failed to boost Tesla's stock price as analysts await further progress on AI. - 富途牛牛,TSLA,Google RSS,positive,0.4983507096767425
+2026-07-02 21:00:29,Tesla's Latest Deliveries Report Exceeded Expectations. TSLA Stock Is Falling Anyway. - Barchart.com,TSLA,Google RSS,negative,-0.936412274837494
 2026-07-02 13:52:00,"Tesla (TSLA) Q2 2026 deliveries jump 25% to 480,126, beating estimates - Electrek",TSLA,Google RSS,positive,0.9467023015022278
 2026-07-02 14:54:11,"Tesla Reports Strong Deliveries, Yet Investors Remain Unimpressed - Investopedia",TSLA,Google RSS,positive,0.5764620900154114
 2026-07-02 15:06:53,Tesla sales jumped last quarter in a possible sign the worst of the Musk backlash is behind it - Boston Herald,TSLA,Google RSS,positive,0.5862796306610107
-2026-07-02 16:01:37,Tesla Stock Falls Over 6% Even As EV Maker Reports Strong Q2 Sales Figures - NDTV,TSLA,Google RSS,negative,-0.48950424790382385
+2026-07-02 16:01:37,Tesla Stock Falls Over 6% Even As EV Maker Reports Strong Q2 Sales Figures - NDTV,TSLA,Google RSS,negative,-0.4895042479038238
 2026-07-02 12:13:00,"Dow Jones Futures Rise With Tesla, Jobs Report Ahead - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
-2026-07-02 06:08:00,"Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",TSLA,Bing RSS,negative,-0.9707358479499817
+2026-07-02 06:08:00,"Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",TSLA,Bing RSS,negative,-0.9707358479499816
 2026-07-02 05:30:00,Tesla's Latest Deliveries Report Exceeded Expectations. TSLA Stock Is Falling Anyway.,TSLA,Bing RSS,negative,-0.9692736864089966
 2026-07-03 13:13:25,Tesla sales soar 25% in sign its troubles may be easing,TSLA,Yahoo RSS,positive,0.7057450413703918
-2026-07-01 23:34:20,Wall Street ends choppy session lower as tech shares drop - Reuters,META,Google RSS,negative,-0.9578700065612793
+2026-07-01 23:34:20,Wall Street ends choppy session lower as tech shares drop - Reuters,META,Google RSS,negative,-0.9578700065612792
 2026-07-01 20:00:05,Meta shares surge on report of new AI cloud business - Tech Xplore,META,Google RSS,positive,0.7364486455917358
-2026-07-03 06:26:05,SK Hynix stock plunges 14.5% as chip sector rout deepens over AI demand fears - eciks.org,META,Google RSS,negative,-0.9337741732597351
+2026-07-03 06:26:05,SK Hynix stock plunges 14.5% as chip sector rout deepens over AI demand fears - eciks.org,META,Google RSS,negative,-0.9337741732597352
 2026-07-02 10:43:00,Meta stock falls as AI cloud plans hit an immediate snag,META,Bing RSS,negative,-0.8652611374855042
 2026-07-02 08:55:21,Meta stock rises despite layoffs as AI expansion and cloud computing plans raise concerns about long-term margins,META,Bing RSS,negative,-0.8495577573776245
-2026-07-03 16:27:53,"The Economy Is Losing Steam After Adding Just 57,000 Jobs in June — But I’m Still Bullish On These 3 Unstoppable AI Stocks",META,Yahoo RSS,negative,-0.9577420949935913
+2026-07-03 16:27:53,"The Economy Is Losing Steam After Adding Just 57,000 Jobs in June — But I’m Still Bullish On These 3 Unstoppable AI Stocks",META,Yahoo RSS,negative,-0.9577420949935912
 2026-06-30 10:45:00,"Fox Outbid Netflix to Buy Roku, So Why Are Both Stocks Falling? - The Motley Fool",NFLX,Google RSS,negative,-0.8663879632949829
 2026-07-02 21:02:06,"Stock Market Today: Dow Runs 590 Points To New High But Meta, Chip, Optical Stocks Slammed",META,Yahoo Global,positive,0.7279190421104431
 2026-07-02 21:26:46,Tesla deliveries beat forecasts as Europe's rebound brightens outlook,TSLA,Yahoo Global,positive,0.9349039793014526
+2026-07-02 17:27:59,"Why Is Microsoft Stock Falling, And Is It a Generational Buying Opportunity?",MSFT,Bing RSS,negative,-0.8417186141014099
+2026-07-02 21:02:00,"Stock Market Today: Dow Runs 590 Points To New High But Meta, Chip, Optical Stocks Slammed - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-07-01 15:03:43,Meta stock jumps on report of AI cloud business expansion plans - TradingView,META,Google RSS,neutral,0.0
