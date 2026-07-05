@@ -60,3 +60,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-02 14:54:11,"Tesla Reports Strong Deliveries, Yet Investors Remain Unimpressed - Investopedia",TSLA,Google RSS,positive,0.5764620900154114
 2026-07-05 15:50:00,Nike Now Yields More Than Coca-Cola. Which Dow Dividend Stock Is the Better Buy in July?,NVDA,Yahoo RSS,neutral,0.0
 2026-07-02 14:07:01,Tesla quarterly deliveries jump 25%. Here’s why the stock fell anyway,TSLA,Bing RSS,neutral,0.0
+2026-07-02 20:19:00,Tesla stock update: Why is TSLA down despite strong Q2 delivery beat? Tesla falls 7%+ as margin concerns and EV competition weigh on sentiment,TSLA,Bing RSS,negative,-0.9703965783119202
+2026-07-02 08:55:21,Meta stock rises despite layoffs as AI expansion and cloud computing plans raise concerns about long-term margins,META,Bing RSS,negative,-0.8495577573776245
