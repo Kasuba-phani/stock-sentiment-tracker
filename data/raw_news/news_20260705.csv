@@ -55,6 +55,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-05 11:20:00,"Down 35%, Is MercadoLibre Stock a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",META,Yahoo RSS,negative,-0.8714576959609985
 2026-07-05 13:45:48,"Consumer Tech (June 29-July 2): Microsoft Announces Layoffs, Meta & Google Sued In Several States & More - Benzinga",GOOGL,Google RSS,negative,-0.9547874927520752
 2026-07-02 13:07:44,"Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year - CNBC",TSLA,Google RSS,negative,-0.9578706622123718
-2026-07-02 21:05:00,Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers - MarketWatch,TSLA,Google RSS,negative,-0.9040796756744385
+2026-07-02 21:05:00,Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers - MarketWatch,TSLA,Google RSS,negative,-0.9040796756744384
 2026-07-02 21:02:00,"Stock Market Today: Dow Runs 590 Points To New High But Meta, Chip, Optical Stocks Slammed - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
 2026-07-02 14:54:11,"Tesla Reports Strong Deliveries, Yet Investors Remain Unimpressed - Investopedia",TSLA,Google RSS,positive,0.5764620900154114
+2026-07-05 15:50:00,Nike Now Yields More Than Coca-Cola. Which Dow Dividend Stock Is the Better Buy in July?,NVDA,Yahoo RSS,neutral,0.0
+2026-07-02 14:07:01,Tesla quarterly deliveries jump 25%. Here’s why the stock fell anyway,TSLA,Bing RSS,neutral,0.0
