@@ -72,17 +72,24 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-06 13:55:07,Tesla shares nudge higher as Q2 inventory dip weighs on delivery hopes - TechStock²,TSLA,Google RSS,negative,-0.6994713544845581
 2026-07-06 14:37:00,"Retail Traders Watch META, MU, BABA, TSLA, And RKLB As AI, Regulation, And Space M&A Drive Markets - foreignpolicyjournal.com",AAPL,Google RSS,neutral,0.0
 2026-07-06 14:30:00,"[Latest] Global Healthcare Mobility Solutions Market Size/Share Worth USD 1411.37 Billion by 2035 at a 21.62% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, SWOT Analysis)",AAPL,Yahoo RSS,neutral,0.0
-2026-07-06 17:44:37,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",GOOGL,Google RSS,positive,0.9462510347366333
+2026-07-06 17:44:37,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",GOOGL,Google RSS,positive,0.9462510347366332
 2026-07-06 17:37:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet",GOOGL,Yahoo RSS,positive,0.9450973868370056
 2026-07-06 16:20:19,Morgan Stanley sees smarter AI cloud path for Meta,GOOGL,Yahoo RSS,positive,0.6040136814117432
-2026-07-06 17:41:55,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",AMZN,Google RSS,positive,0.9462510347366333
+2026-07-06 17:41:55,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",AMZN,Google RSS,positive,0.9462510347366332
 2026-07-06 16:20:19,Morgan Stanley sees smarter AI cloud path for Meta,AMZN,Yahoo RSS,positive,0.6040136814117432
 2026-07-06 17:41:00,Microsoft Stock Selloff Is Creating Value Opportunities In Overlooked Industrial Names - simplywall.st,MSFT,Google RSS,neutral,0.0
 2026-07-06 17:37:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet",MSFT,Yahoo RSS,positive,0.9450973868370056
 2026-07-06 16:20:19,Morgan Stanley sees smarter AI cloud path for Meta,MSFT,Yahoo RSS,positive,0.6040136814117432
 2026-07-06 14:34:03,Tesla stock up 3% today after Thursday's selloff: what's behind the rebound? - Invezz,TSLA,Google RSS,positive,0.9131059050559998
 2026-07-06 07:51:00,Tesla stock up 3% today after Thursday's selloff: what's behind the rebound?,TSLA,Bing RSS,positive,0.7014004588127136
-2026-07-06 17:44:37,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",META,Google RSS,positive,0.9462510347366333
+2026-07-06 17:44:37,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",META,Google RSS,positive,0.9462510347366332
 2026-07-06 14:37:00,"Retail Traders Watch META, MU, BABA, TSLA, And RKLB As AI, Regulation, And Space M&A Drive Markets - foreignpolicyjournal.com",META,Google RSS,neutral,0.0
 2026-07-06 17:37:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet",META,Yahoo RSS,positive,0.9450973868370056
 2026-07-06 16:20:19,Morgan Stanley sees smarter AI cloud path for Meta,META,Yahoo RSS,positive,0.6040136814117432
+2026-07-06 18:24:14,Wall Street climbs as Broadcom and other chipmakers rally - Reuters,AAPL,Google RSS,positive,0.5836206674575806
+2026-07-06 18:10:03,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Globe and Mail",GOOGL,Google RSS,positive,0.945020854473114
+2026-07-06 18:10:03,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Globe and Mail",AMZN,Google RSS,positive,0.945020854473114
+2026-07-06 18:46:59,Shopify Stock And The Peril Of A Personal Best,AMZN,Yahoo RSS,negative,-0.6294011473655701
+2026-07-06 17:37:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet",AMZN,Yahoo RSS,positive,0.9450973868370056
+2026-07-06 11:50:00,"The Second-Biggest Stock Sale in History Hits the Nasdaq Friday, and Chip Stocks Are Ripping",NVDA,Bing RSS,neutral,0.0
+2026-07-06 18:10:03,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Globe and Mail",META,Google RSS,positive,0.945020854473114
