@@ -1,0 +1,44 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-07-05 16:55:00,"Dow Jones futures: Techs jump with Apple, SpaceX, SanDisk, Robinhood in focus",AAPL,Bing RSS,negative,-0.4167355000972748
+2026-07-05 11:20:00,"Down 35%, Is MercadoLibre Stock a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",AAPL,Yahoo RSS,negative,-0.8714576959609985
+2026-07-04 12:20:28,Alphabet Inc-CL C (NASDAQ:GOOG) Emerges as a Strong Growth Stock with a Favorable Technical Setup - ChartMill,GOOGL,Google RSS,positive,0.9545316100120544
+2026-07-02 10:21:40,Wells Fargo cuts Alphabet stock price target to $416 on cloud forecast - Investing.com,GOOGL,Google RSS,negative,-0.4989969730377197
+2026-07-05 21:30:14,Alphabet (NASDAQ:GOOGL) Joins the Dow but Faces a Brutal Month: What Investors Are Missing - Stocks Down Under,GOOGL,Google RSS,negative,-0.9536981582641602
+2026-07-03 17:46:00,Alphabet Stock at $356: Is Google Still a Strong Buy in July 2026?,GOOGL,Bing RSS,neutral,0.0
+2026-07-05 11:20:00,"Down 35%, Is MercadoLibre Stock a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",GOOGL,Yahoo RSS,negative,-0.8714576959609985
+2026-07-04 16:30:56,Why Arm Is a Strong Buy Despite the 35% Pullback From Peak Levels,GOOGL,Yahoo RSS,positive,0.9470171928405762
+2026-06-29 20:32:00,Amazon Stock Climbs During Strong Day For Magnificent Seven - Investor's Business Daily,AMZN,Google RSS,positive,0.9022425413131714
+2026-07-05 11:20:00,"Down 35%, Is MercadoLibre Stock a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",AMZN,Yahoo RSS,negative,-0.8714576959609985
+2026-07-04 11:25:31,Microsoft stock hits one-year low amid AI spending concerns - qz.com,MSFT,Google RSS,negative,-0.9260715246200562
+2026-07-02 23:55:13,"Why Is Microsoft Stock Falling, and is it a Generational Buying Opportunity? - The Motley Fool",MSFT,Google RSS,negative,-0.7872371077537537
+2026-07-03 00:45:00,"Why Is Microsoft Stock Falling, and is it a Generational Buying Opportunity? - The Globe and Mail",MSFT,Google RSS,negative,-0.9052901864051819
+2026-07-02 13:23:00,3 Stocks Due for a Major Rally in July - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-07-01 16:35:00,Microsoft stock suffers worst month since 2000,MSFT,Bing RSS,negative,-0.9665484428405762
+2026-07-02 11:41:00,Why Microsoft stock is rebounding after its worst first half since 2000,MSFT,Bing RSS,negative,-0.8870502710342407
+2026-07-05 11:20:00,"Down 35%, Is MercadoLibre Stock a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",MSFT,Yahoo RSS,negative,-0.8714576959609985
+2026-07-04 16:30:56,Why Arm Is a Strong Buy Despite the 35% Pullback From Peak Levels,MSFT,Yahoo RSS,positive,0.9470171928405762
+2026-07-02 20:07:00,"Nvidia Partners With 'Neoclouds' Sharon AI, Firmus Technologies - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-06-29 13:54:00,Nvidia Stock Rises Amid Signs of Strong AI Chip Demand - Barron's,NVDA,Google RSS,positive,0.798330545425415
+2026-07-02 19:09:00,3 AI Stocks to Still Buy If Inflation Stays Sticky - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-07-03 08:22:41,Tesla: Shares Fall Despite Strong Second-Quarter Deliveries Growth - Morningstar,TSLA,Google RSS,negative,-0.9698497653007507
+2026-07-02 21:05:00,Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers - MarketWatch,TSLA,Google RSS,negative,-0.9040796756744385
+2026-07-02 13:07:44,"Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year - CNBC",TSLA,Google RSS,negative,-0.9578706622123718
+2026-07-02 14:19:34,US Open: Nasdaq surges amid semiconductor rebound 🔼 Tesla shares down despite strong deliveries report - XTB.com,TSLA,Google RSS,negative,-0.9647502899169922
+2026-07-02 17:06:23,Strong quarterly sales failed to boost Tesla's stock price as analysts await further progress on AI. - 富途牛牛,TSLA,Google RSS,positive,0.49835070967674255
+2026-07-02 14:54:11,"Tesla Reports Strong Deliveries, Yet Investors Remain Unimpressed - Investopedia",TSLA,Google RSS,positive,0.5764620900154114
+2026-07-02 21:00:29,Tesla's Latest Deliveries Report Exceeded Expectations. TSLA Stock Is Falling Anyway. - Barchart,TSLA,Google RSS,negative,-0.9577228426933289
+2026-07-03 14:09:00,Tesla Stock Falls 8% Despite Strong Vehicle Deliveries - The Globe and Mail,TSLA,Google RSS,negative,-0.9640638828277588
+2026-07-02 13:52:00,"Tesla (TSLA) Q2 2026 deliveries jump 25% to 480,126, beating estimates - Electrek",TSLA,Google RSS,positive,0.9467023015022278
+2026-07-02 16:01:37,Tesla Stock Falls Over 6% Even As EV Maker Reports Strong Q2 Sales Figures - NDTV,TSLA,Google RSS,negative,-0.48950424790382385
+2026-07-02 19:00:00,Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers,TSLA,Bing RSS,negative,-0.9143766760826111
+2026-07-02 11:18:00,"Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",TSLA,Bing RSS,negative,-0.9707358479499817
+2026-07-02 20:25:00,Tesla's Latest Deliveries Report Exceeded Expectations. TSLA Stock Is Falling Anyway.,TSLA,Bing RSS,negative,-0.9692736864089966
+2026-07-05 11:20:00,"Down 35%, Is MercadoLibre Stock a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",TSLA,Yahoo RSS,negative,-0.8714576959609985
+2026-07-01 23:34:20,Wall Street ends choppy session lower as tech shares drop - Reuters,META,Google RSS,negative,-0.9578700065612793
+2026-07-01 15:03:43,Meta stock jumps on report of AI cloud business expansion plans - TradingView,META,Google RSS,neutral,0.0
+2026-07-05 12:01:47,"Meta Platforms, SpaceX, Micron Technology and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Benzinga",META,Google RSS,neutral,0.0
+2026-07-01 05:56:00,Meta stock drops 6% after announcing 2026 AI spending boost,META,Bing RSS,negative,-0.9633550643920898
+2026-07-05 11:20:00,"Down 35%, Is MercadoLibre Stock a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in July?",META,Yahoo RSS,negative,-0.8714576959609985
+2026-07-04 16:30:56,Why Arm Is a Strong Buy Despite the 35% Pullback From Peak Levels,META,Yahoo RSS,positive,0.9470171928405762
+2026-07-04 20:04:00,Netflix (NASDAQ:NFLX) stock’s holiday bounce gives investors clear July watch - TechStock²,NFLX,Google RSS,positive,0.5236369967460632
+2026-06-30 10:45:00,"Fox Outbid Netflix to Buy Roku, So Why Are Both Stocks Falling? - The Motley Fool",NFLX,Google RSS,negative,-0.8663879632949829
