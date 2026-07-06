@@ -48,7 +48,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-06 02:11:01,"Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: META, MU, BABA, TSLA, RKLB",TSLA,Yahoo RSS,neutral,0.0
 2026-07-06 02:11:01,"Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: META, MU, BABA, TSLA, RKLB",META,Yahoo RSS,neutral,0.0
 2026-07-06 03:30:00,"Dow Jones futures rise, Nasdaq set to reclaim key level; Apple, SpaceX, SanDisk, Robinhood in focus",AAPL,Bing RSS,positive,0.7445738911628723
-2026-07-06 01:46:00,AAPL Stock Dips Premarket: Analyst Warns Foldable iPhone Supply Issues Could Blow September Launch Window,AAPL,Bing RSS,negative,-0.9679272174835205
+2026-07-06 01:46:00,AAPL Stock Dips Premarket: Analyst Warns Foldable iPhone Supply Issues Could Blow September Launch Window,AAPL,Bing RSS,negative,-0.9679272174835204
 2026-07-06 06:39:34,AI Stocks Retail Investors Are Watching in Broadcom ServiceNow and Alphabet - simplywall.st,GOOGL,Google RSS,neutral,0.0
 2026-07-04 11:44:00,Alphabet Officially Joins the Dow. These 3 Dow Dividend Stocks Are Better Buys for July. - The Motley Fool,GOOGL,Google RSS,neutral,0.0
 2026-06-29 13:36:00,Amazon stock climbs during strong day for Magnificent Seven,AMZN,Bing RSS,positive,0.8909292221069336
@@ -57,5 +57,16 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-06 10:03:39,NVIDIA Stock Forecast 2026: Is NVDA Still a Good Investment After the $4 Trillion AI Rally? - WEEX,NVDA,Google RSS,positive,0.6320408582687378
 2026-07-06 10:01:00,Fed Chairman Kevin Warsh Just Said 6 Words That Completely Shifted Investor Expectations,NVDA,Yahoo RSS,neutral,0.0
 2026-07-03 16:36:00,Tesla sales jumped last quarter in a possible sign the worst of the Musk backlash is behind it - WCAX,TSLA,Google RSS,positive,0.684289813041687
-2026-07-02 21:00:29,Tesla's Latest Deliveries Report Exceeded Expectations. TSLA Stock Is Falling Anyway. - Barchart.com,TSLA,Google RSS,negative,-0.9364122748374939
+2026-07-02 21:00:29,Tesla's Latest Deliveries Report Exceeded Expectations. TSLA Stock Is Falling Anyway. - Barchart.com,TSLA,Google RSS,negative,-0.936412274837494
 2026-07-06 10:00:40,Guardian Metal Resources Advances a Strategic US Tungsten Project with Strong Economics and National Significance,META,Yahoo Global,positive,0.8254377245903015
+2026-07-06 14:18:00,Broadcom Stock Rises On New Apple Supply Deal - Investor's Business Daily,AAPL,Google RSS,positive,0.5850635170936584
+2026-07-06 12:41:21,"Apple’s stock jump adds $209B, but foldable iPhone numbers lag price rise - TechStock²",AAPL,Google RSS,neutral,0.0
+2026-07-06 06:32:00,Live Nasdaq Composite: Tech Propels Broader Markets Higher on Memory Stock Strength,AAPL,Bing RSS,positive,0.9404155015945435
+2026-07-06 10:45:08,These 3 Growth Stocks Can Outperform Through AI Tailwinds and Everyday Consumer Strength - The Motley Fool,GOOGL,Google RSS,positive,0.49878403544425964
+2026-07-06 11:02:00,These 3 Growth Stocks Can Outperform Through AI Tailwinds and Everyday Consumer Strength,GOOGL,Yahoo RSS,positive,0.7145761251449585
+2026-07-06 11:02:00,These 3 Growth Stocks Can Outperform Through AI Tailwinds and Everyday Consumer Strength,AMZN,Yahoo RSS,positive,0.7145761251449585
+2026-07-05 15:14:54,The Microsoft stock outlook remains upbeat despite layoffs,MSFT,Bing RSS,positive,0.9318521022796631
+2026-07-06 11:02:00,These 3 Growth Stocks Can Outperform Through AI Tailwinds and Everyday Consumer Strength,MSFT,Yahoo RSS,positive,0.7145761251449585
+2026-07-06 14:05:32,Record Heat Dome Drove the Grid to All-Time Peak Demand Friday: Here’s 4 Stocks To Buy As Things Heat Up,NVDA,Yahoo RSS,neutral,0.0
+2026-07-06 13:26:00,Coca-Cola Just Hit an All-Time High -- and Pepsi Trades 16% Below Its 52-Week High. Which Dividend Giant Is the Better Buy?,NVDA,Yahoo RSS,negative,-0.7288928031921387
+2026-07-06 13:55:07,Tesla shares nudge higher as Q2 inventory dip weighs on delivery hopes - TechStock²,TSLA,Google RSS,negative,-0.6994713544845581
