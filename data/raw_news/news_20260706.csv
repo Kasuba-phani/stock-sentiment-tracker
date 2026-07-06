@@ -93,3 +93,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-06 17:37:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet",AMZN,Yahoo RSS,positive,0.9450973868370056
 2026-07-06 11:50:00,"The Second-Biggest Stock Sale in History Hits the Nasdaq Friday, and Chip Stocks Are Ripping",NVDA,Bing RSS,neutral,0.0
 2026-07-06 18:10:03,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Globe and Mail",META,Google RSS,positive,0.945020854473114
+2026-07-06 21:43:44,"S&P 500, Nasdaq close sharply higher as Broadcom rallies - Reuters",AAPL,Google RSS,positive,0.5704227089881897
+2026-07-06 21:01:15,"Amid Strong, Positive Catalysts and the Endorsement of Goldman Sachs, Amazon Stock Looks Very Attractive - Barchart.com",AMZN,Google RSS,positive,0.8514055609703064
+2026-07-06 16:39:59,Why Is Microsoft Stock Falling Monday? - Microsoft (NASDAQ:MSFT) - Benzinga,MSFT,Google RSS,negative,-0.9028961658477783
+2026-07-06 21:24:38,"S&P 500, Nasdaq End Higher On Support From Strong Tech Gains Led By Nvidia, Dow Hits Record Highs — MSFT, NVDA, LMT, AVGO, SPCX In Focus",MSFT,Yahoo RSS,positive,0.9290770888328552
+2026-07-06 21:12:00,"Dow Jones Futures: AI Stocks Astera, Bloom, Tesla Rebound; SpaceX Slides Ahead Of Nasdaq-100 Inclusion - Investor's Business Daily",NVDA,Google RSS,negative,-0.8786640167236328
+2026-07-06 21:24:38,"S&P 500, Nasdaq End Higher On Support From Strong Tech Gains Led By Nvidia, Dow Hits Record Highs — MSFT, NVDA, LMT, AVGO, SPCX In Focus",NVDA,Yahoo RSS,positive,0.9290770888328552
+2026-07-06 21:12:12,"Dow Jones Futures: AI Stocks Astera, Bloom, Tesla Rebound; SpaceX Slides Ahead Of Nasdaq-100 Inclusion",NVDA,Yahoo RSS,negative,-0.8914389610290527
+2026-07-06 21:12:00,"Dow Jones Futures: AI Stocks Astera, Bloom, Tesla Rebound; SpaceX Slides Ahead Of Nasdaq-100 Inclusion - Investor's Business Daily",TSLA,Google RSS,negative,-0.8786640167236328
+2026-07-06 15:00:00,"Dow Jones futures: AI stocks Astera, Bloom, Tesla rebound; SpaceX slides ahead of Nasdaq-100 inclusion",TSLA,Bing RSS,negative,-0.8914389610290527
+2026-07-06 21:18:09,"Update: US Equity Indexes Advance as Communication Services, Technology Top Sector Charts While Crude Oil Trades Steady",TSLA,Yahoo RSS,positive,0.8828747272491455
+2026-07-06 21:12:12,"Dow Jones Futures: AI Stocks Astera, Bloom, Tesla Rebound; SpaceX Slides Ahead Of Nasdaq-100 Inclusion",TSLA,Yahoo RSS,negative,-0.8914389610290527
