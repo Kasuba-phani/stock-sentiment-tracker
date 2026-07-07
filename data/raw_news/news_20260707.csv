@@ -57,3 +57,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-07 10:50:00,Tesla (NASDAQ: TSLA) Posts Strong Q2 Deliveries But Stock Selloff Signals Deeper Investor Concerns - foreignpolicyjournal.com,TSLA,Google RSS,negative,-0.8224143981933594
 2026-07-07 07:55:22,NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity - Stocktwits,META,Google RSS,negative,-0.9709031581878662
 2026-07-07 07:54:24,NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity,META,Yahoo RSS,negative,-0.9684922099113464
+2026-07-07 12:46:00,Update: Market Chatter: Amazon Looking to Raise at Least $25 Billion From US Bond Sale,AMZN,Yahoo RSS,positive,0.8689067363739014
+2026-07-07 12:44:50,"Marvell Technology Poised to Sustain 40%+ Growth for Next 3 Years on Strong AI Demand, RBC Says",AMZN,Yahoo RSS,positive,0.9514613151550293
+2026-07-07 12:44:50,"Marvell Technology Poised to Sustain 40%+ Growth for Next 3 Years on Strong AI Demand, RBC Says",MSFT,Yahoo RSS,positive,0.9514613151550293
+2026-07-07 13:09:59,"IREN stock jumps on analyst upgrade, sees nearly 50% upside",META,Yahoo RSS,positive,0.9355378746986389
