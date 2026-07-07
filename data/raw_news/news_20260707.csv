@@ -77,4 +77,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-06 15:06:12,Meta stock edges higher as AI delays meet cloud ambitions - MSN,META,Google RSS,positive,0.7960854768753052
 2026-07-02 10:43:00,Meta stock falls as AI cloud plans hit an immediate snag,META,Bing RSS,negative,-0.8652611374855042
 2026-07-07 17:02:41,Traders Are Dumping Tech Bonds to Make Room for Amazon Debt Deal,META,Yahoo RSS,negative,-0.942617654800415
-2026-07-07 19:46:07,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
+2026-07-07 19:46:07,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.935252010822296
+2026-07-07 20:09:46,"US Equity Markets Lower as Semiconductor Stocks Fall, Crude Oil Prices Rise",GOOGL,Yahoo RSS,negative,-0.9535715579986572
+2026-07-07 21:29:00,Amazon Stocks Climbs As AI Push Drives $25 Billion Bond Sale - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
+2026-07-07 17:50:15,Microsoft stock rebounds; analyst keeps Buy rat... - Pluang,MSFT,Google RSS,negative,-0.8860474228858948
+2026-07-07 11:03:00,Jim Cramer sends strong signal to Nvidia stock investors amid rumors,NVDA,Bing RSS,positive,0.8621912002563477
+2026-07-07 21:45:24,"Nasdaq Slides Nearly 2% As Higher Treasury Yields, Soaring Oil Prices Pressure Tech And Chip Stocks — META, AMZN, SPCX, MSFT In Focus - Stocktwits",META,Google RSS,negative,-0.9517477750778198
