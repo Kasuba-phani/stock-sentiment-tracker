@@ -40,13 +40,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-06 11:25:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet",META,Bing RSS,positive,0.9450973868370056
 2026-07-06 16:20:19,Morgan Stanley sees smarter AI cloud path for Meta,META,Yahoo RSS,positive,0.6040136814117432
 2026-07-04 20:04:00,Netflix (NASDAQ:NFLX) stock’s holiday bounce gives investors clear July watch - TechStock²,NFLX,Google RSS,positive,0.5236369967460632
-2026-07-06 08:22:00,AAPL Stock Dips Premarket: Analyst Warns Foldable iPhone Supply Issues Could Blow September Launch Window - Stocktwits,AAPL,Google RSS,negative,-0.9555870890617371
+2026-07-06 08:22:00,AAPL Stock Dips Premarket: Analyst Warns Foldable iPhone Supply Issues Could Blow September Launch Window - Stocktwits,AAPL,Google RSS,negative,-0.9555870890617372
 2026-07-06 14:37:00,"Retail Traders Watch META, MU, BABA, TSLA, And RKLB As AI, Regulation, And Space M&A Drive Markets - foreignpolicyjournal.com",AAPL,Google RSS,neutral,0.0
 2026-07-06 21:01:15,"Amid Strong, Positive Catalysts and the Endorsement of Goldman Sachs, Amazon Stock Looks Very Attractive",AMZN,Yahoo RSS,positive,0.9232522249221802
-2026-07-06 16:39:59,Why Is Microsoft Stock Falling Monday? - Microsoft (NASDAQ:MSFT) - Benzinga,MSFT,Google RSS,negative,-0.9028966426849365
+2026-07-06 16:39:59,Why Is Microsoft Stock Falling Monday? - Microsoft (NASDAQ:MSFT) - Benzinga,MSFT,Google RSS,negative,-0.9028966426849364
 2026-07-07 00:35:01,This Tech Giant Was the Worst-Performing Mega-Cap in the Dow Jones Industrial Average in the First Half. Stock to Avoid or No-Brainer Buying Opportunity? - The Globe and Mail,MSFT,Google RSS,negative,-0.8847668170928955
 2026-07-01 16:35:00,Microsoft stock suffers worst month since 2000,MSFT,Bing RSS,negative,-0.9665484428405762
-2026-07-02 11:18:00,"Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",TSLA,Bing RSS,negative,-0.9707358479499817
-2026-07-02 19:00:00,Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers,TSLA,Bing RSS,negative,-0.9143766760826111
+2026-07-02 11:18:00,"Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",TSLA,Bing RSS,negative,-0.9707358479499816
+2026-07-02 19:00:00,Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers,TSLA,Bing RSS,negative,-0.9143766760826112
 2026-07-02 20:25:00,Tesla's Latest Deliveries Report Exceeded Expectations. TSLA Stock Is Falling Anyway.,TSLA,Bing RSS,negative,-0.9692736864089966
-2026-07-06 18:17:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",META,Google RSS,positive,0.9462510347366333
+2026-07-06 18:17:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",META,Google RSS,positive,0.9462510347366332
+2026-07-07 08:00:00,Recent Rumblings From the Fed Could Make This Vanguard Bond ETF a Better Buy,NVDA,Yahoo RSS,positive,0.861805260181427
+2026-07-06 13:55:07,Tesla shares nudge higher as Q2 inventory dip weighs on delivery hopes - TechStock²,TSLA,Google RSS,negative,-0.6994713544845581
