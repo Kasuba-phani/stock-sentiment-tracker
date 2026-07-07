@@ -52,3 +52,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-06 18:17:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",META,Google RSS,positive,0.9462510347366332
 2026-07-07 08:00:00,Recent Rumblings From the Fed Could Make This Vanguard Bond ETF a Better Buy,NVDA,Yahoo RSS,positive,0.861805260181427
 2026-07-06 13:55:07,Tesla shares nudge higher as Q2 inventory dip weighs on delivery hopes - TechStock²,TSLA,Google RSS,negative,-0.6994713544845581
+2026-07-07 10:18:13,"US futures edge lower as investors assess Samsung results and Fed outlook: Dow Jones, S&P, Nasdaq, Wall Street",AAPL,Yahoo RSS,negative,-0.8950697183609009
+2026-07-06 21:01:15,"Amid Strong, Positive Catalysts and the Endorsement of Goldman Sachs, Amazon Stock Looks Very Attractive - Barchart",AMZN,Google RSS,positive,0.923684298992157
+2026-07-07 10:50:00,Tesla (NASDAQ: TSLA) Posts Strong Q2 Deliveries But Stock Selloff Signals Deeper Investor Concerns - foreignpolicyjournal.com,TSLA,Google RSS,negative,-0.8224143981933594
+2026-07-07 07:55:22,NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity - Stocktwits,META,Google RSS,negative,-0.9709031581878662
+2026-07-07 07:54:24,NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity,META,Yahoo RSS,negative,-0.9684922099113464
