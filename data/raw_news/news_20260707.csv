@@ -64,3 +64,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-07 15:50:13,July Is the S&P 500's Best Month: These 5 Tech Stocks Beat the Market,AAPL,Yahoo RSS,positive,0.7490282654762268
 2026-07-07 15:42:00,Amazon Readies $25 Billion Bond With AI Costs Rising - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
 2026-07-07 16:20:00,"Microsoft and Palantir Stocks Both Hit 52-Week Lows, but Only 1 Is a Buy Right Now (the Answer May Surprise You)",MSFT,Yahoo RSS,negative,-0.6044442653656006
+2026-07-07 17:15:00,"Apple App Store growth slows in June quarter, UBS analysis shows",AAPL,Yahoo RSS,negative,-0.96505206823349
+2026-07-07 17:36:40,Google's Pixel 11 Set for August Release with Higher Prices (GOO - GuruFocus,GOOGL,Google RSS,positive,0.5158445239067078
+2026-07-07 17:02:41,Traders Are Dumping Tech Bonds to Make Room for Amazon Debt Deal,GOOGL,Yahoo RSS,negative,-0.942617654800415
+2026-07-07 17:25:57,Update: US Equity Indexes Retreat as Chipmakers Hit Technology While Crude Oil Jumps Following Hormuz Missile Strike,AMZN,Yahoo RSS,negative,-0.9555636048316956
+2026-07-07 17:02:41,Traders Are Dumping Tech Bonds to Make Room for Amazon Debt Deal,AMZN,Yahoo RSS,negative,-0.942617654800415
+2026-07-07 17:00:00,"Microsoft and Palantir Stocks Both Hit 52-Week Lows, but Only 1 Is a Buy Right Now (the Answer May Surprise You) - The Motley Fool",MSFT,Google RSS,negative,-0.6946479678153992
+2026-07-07 01:05:00,This Tech Giant Was the Worst-Performing Mega-Cap in the Dow Jones Industrial Average in the First Half. Stock to Avoid or No-Brainer Buying Opportunity? - The Motley Fool,MSFT,Google RSS,negative,-0.8266436457633972
+2026-07-07 18:03:00,Jim Cramer sends strong signal to Nvidia stock investors amid rumors - thestreet.com,NVDA,Google RSS,positive,0.7141926288604736
+2026-07-07 18:40:00,"Tesla sales jump 25%, topping forecasts as Musk boycott backlash appears to fade - The Cool Down",TSLA,Google RSS,positive,0.9376816749572754
+2026-07-06 07:51:00,Tesla stock up 3% today after Thursday's selloff: what's behind the rebound?,TSLA,Bing RSS,positive,0.7014004588127136
+2026-07-06 15:06:12,Meta stock edges higher as AI delays meet cloud ambitions - MSN,META,Google RSS,positive,0.7960854768753052
+2026-07-02 10:43:00,Meta stock falls as AI cloud plans hit an immediate snag,META,Bing RSS,negative,-0.8652611374855042
+2026-07-07 17:02:41,Traders Are Dumping Tech Bonds to Make Room for Amazon Debt Deal,META,Yahoo RSS,negative,-0.942617654800415
+2026-07-07 19:46:07,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
