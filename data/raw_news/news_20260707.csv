@@ -58,6 +58,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-07 07:55:22,NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity - Stocktwits,META,Google RSS,negative,-0.9709031581878662
 2026-07-07 07:54:24,NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity,META,Yahoo RSS,negative,-0.9684922099113464
 2026-07-07 12:46:00,Update: Market Chatter: Amazon Looking to Raise at Least $25 Billion From US Bond Sale,AMZN,Yahoo RSS,positive,0.8689067363739014
-2026-07-07 12:44:50,"Marvell Technology Poised to Sustain 40%+ Growth for Next 3 Years on Strong AI Demand, RBC Says",AMZN,Yahoo RSS,positive,0.9514613151550293
-2026-07-07 12:44:50,"Marvell Technology Poised to Sustain 40%+ Growth for Next 3 Years on Strong AI Demand, RBC Says",MSFT,Yahoo RSS,positive,0.9514613151550293
-2026-07-07 13:09:59,"IREN stock jumps on analyst upgrade, sees nearly 50% upside",META,Yahoo RSS,positive,0.9355378746986389
+2026-07-07 12:44:50,"Marvell Technology Poised to Sustain 40%+ Growth for Next 3 Years on Strong AI Demand, RBC Says",AMZN,Yahoo RSS,positive,0.9514613151550292
+2026-07-07 12:44:50,"Marvell Technology Poised to Sustain 40%+ Growth for Next 3 Years on Strong AI Demand, RBC Says",MSFT,Yahoo RSS,positive,0.9514613151550292
+2026-07-07 13:09:59,"IREN stock jumps on analyst upgrade, sees nearly 50% upside",META,Yahoo RSS,positive,0.9355378746986388
+2026-07-07 15:50:13,July Is the S&P 500's Best Month: These 5 Tech Stocks Beat the Market,AAPL,Yahoo RSS,positive,0.7490282654762268
+2026-07-07 15:42:00,Amazon Readies $25 Billion Bond With AI Costs Rising - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
+2026-07-07 16:20:00,"Microsoft and Palantir Stocks Both Hit 52-Week Lows, but Only 1 Is a Buy Right Now (the Answer May Surprise You)",MSFT,Yahoo RSS,negative,-0.6044442653656006
