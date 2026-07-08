@@ -59,7 +59,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-08 05:19:00,Tesla Has a New Car but the Stock Is Falling,TSLA,Bing RSS,neutral,0.0
 2026-07-08 03:22:00,Why July 16 could be a turning point for the Netflix stock price,NFLX,Bing RSS,neutral,0.0
 2026-07-08 12:18:00,Why Apple’s $30 Billion Broadcom Chip Deal Has Both Stocks Falling,AAPL,Yahoo RSS,neutral,0.0
-2026-07-06 16:39:59,Why Is Microsoft Stock Falling Monday? - Microsoft (NASDAQ:MSFT) - Benzinga,MSFT,Google RSS,negative,-0.9028966426849365
+2026-07-06 16:39:59,Why Is Microsoft Stock Falling Monday? - Microsoft (NASDAQ:MSFT) - Benzinga,MSFT,Google RSS,negative,-0.9028966426849364
 2026-07-08 12:42:32,NVIDIA Stock Rises as Strong AI Demand Offsets Valuation and Supply Concerns - FXLeaders,NVDA,Google RSS,positive,0.8366405963897705
-2026-07-08 12:33:01,Tesla Has a New Car but the Stock Is Falling -- Barrons.com - Moomoo,TSLA,Google RSS,negative,-0.9319077730178833
+2026-07-08 12:33:01,Tesla Has a New Car but the Stock Is Falling -- Barrons.com - Moomoo,TSLA,Google RSS,negative,-0.9319077730178832
 2026-07-08 08:10:00,Mark Zuckerberg's Meta stock surged 9% on new cloud business plan,META,Bing RSS,positive,0.9471092224121094
+2026-07-08 17:27:47,'Sticker Shock' Powers Open-Source AI Growth. What It Means For Top AI Stocks.,GOOGL,Yahoo RSS,neutral,0.0
+2026-07-07 20:13:00,"Samsung Fails to Impress, Amazon Issues AI Bonds and Oil Jumps | Markets P.M. for July 7 - WSJ",AMZN,Google RSS,neutral,0.0
+2026-07-08 17:27:47,'Sticker Shock' Powers Open-Source AI Growth. What It Means For Top AI Stocks.,MSFT,Yahoo RSS,neutral,0.0
+2026-07-08 17:27:47,'Sticker Shock' Powers Open-Source AI Growth. What It Means For Top AI Stocks.,NVDA,Yahoo RSS,neutral,0.0
+2026-07-08 17:27:00,'Sticker Shock' Powers Open-Source AI Growth. What It Means For Top AI Stocks. - Investor's Business Daily,META,Google RSS,neutral,0.0
+2026-07-08 17:27:47,'Sticker Shock' Powers Open-Source AI Growth. What It Means For Top AI Stocks.,META,Yahoo RSS,neutral,0.0
