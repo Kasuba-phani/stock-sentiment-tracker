@@ -45,5 +45,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-08 00:20:00,Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report?,NFLX,Yahoo RSS,negative,-0.9640374183654784
 2026-07-08 03:31:04,"Foldable iPhone May Not Hit Store Shelves Until Months After iPhone 18 Launch, Says Ming-Chi Kuo: Apple Analyst Predicts Strong Demand, Limited Supply",AAPL,Yahoo RSS,negative,-0.7813648581504822
 2026-07-07 17:00:00,"Microsoft and Palantir Stocks Both Hit 52-Week Lows, but Only 1 Is a Buy Right Now (the Answer May Surprise You) - The Motley Fool",MSFT,Google RSS,negative,-0.6946479678153992
-2026-07-02 19:00:00,Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers,TSLA,Bing RSS,negative,-0.9143766760826111
-2026-07-08 00:28:27,Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report? - The Globe and Mail,NFLX,Google RSS,negative,-0.9645596146583557
+2026-07-02 19:00:00,Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers,TSLA,Bing RSS,negative,-0.9143766760826112
+2026-07-08 00:28:27,Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report? - The Globe and Mail,NFLX,Google RSS,negative,-0.9645596146583556
+2026-07-08 08:57:00,Nvidia Lands Crunch Perplexity Deal But the Stock Is Falling - Barron's,NVDA,Google RSS,negative,-0.9173489809036255
+2026-07-08 08:26:00,"The Federal Reserve's Initial July Inflation Forecast Looks Fantastic on the Surface, but Something Sinister Lurks in the Details",NVDA,Yahoo RSS,negative,-0.6933789253234863
+2026-07-08 08:36:47,"The Netflix Paradox: Strong Fundamentals, Falling Stock — Is the Market Wrong? - NAI500",NFLX,Google RSS,negative,-0.904272735118866
