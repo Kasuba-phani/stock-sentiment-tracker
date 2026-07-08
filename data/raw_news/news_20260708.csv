@@ -1,0 +1,40 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-07-06 20:20:00,Broadcom Stock Rises On New Apple Supply Deal - Investor's Business Daily,AAPL,Google RSS,positive,0.5850635170936584
+2026-07-07 17:15:00,"Apple App Store growth slows in June quarter, UBS analysis shows",AAPL,Yahoo RSS,negative,-0.96505206823349
+2026-07-07 15:50:13,July Is the S&P 500's Best Month: These 5 Tech Stocks Beat the Market,AAPL,Yahoo RSS,positive,0.7490282654762268
+2026-07-04 11:44:00,Alphabet Officially Joins the Dow. These 3 Dow Dividend Stocks Are Better Buys for July. - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-07-06 18:17:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",GOOGL,Google RSS,positive,0.9462510347366333
+2026-07-07 17:36:40,Google's Pixel 11 Set for August Release with Higher Prices (GOO - GuruFocus,GOOGL,Google RSS,positive,0.5158445239067078
+2026-07-06 11:28:11,AI Stocks Retail Investors Are Watching in Broadcom ServiceNow and Alphabet - simplywall.st,GOOGL,Google RSS,neutral,0.0
+2026-07-06 17:37:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Globe and Mail",GOOGL,Google RSS,positive,0.945020854473114
+2026-07-07 20:09:46,"US Equity Markets Lower as Semiconductor Stocks Fall, Crude Oil Prices Rise",GOOGL,Yahoo RSS,negative,-0.9535715579986572
+2026-07-07 21:29:00,Amazon Stocks Climbs As AI Push Drives $25 Billion Bond Sale - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
+2026-07-06 21:01:15,"Amid Strong, Positive Catalysts and the Endorsement of Goldman Sachs, Amazon Stock Looks Very Attractive - Barchart.com",AMZN,Google RSS,positive,0.8514057397842407
+2026-07-06 18:17:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",AMZN,Google RSS,positive,0.9462510347366333
+2026-07-07 21:43:09,"Nasdaq Slides Nearly 2% As Higher Treasury Yields, Soaring Oil Prices Pressure Tech And Chip Stocks — META, AMZN, SPCX, MSFT In Focus",AMZN,Yahoo RSS,negative,-0.9579514861106873
+2026-07-07 17:25:57,Update: US Equity Indexes Retreat as Chipmakers Hit Technology While Crude Oil Jumps Following Hormuz Missile Strike,AMZN,Yahoo RSS,negative,-0.9555636048316956
+2026-07-07 17:02:41,Traders Are Dumping Tech Bonds to Make Room for Amazon Debt Deal,AMZN,Yahoo RSS,negative,-0.942617654800415
+2026-07-07 17:50:15,Microsoft stock rebounds; analyst keeps Buy rat... - Pluang,MSFT,Google RSS,negative,-0.8860474228858948
+2026-07-02 23:55:13,"Why Is Microsoft Stock Falling, and is it a Generational Buying Opportunity? - The Motley Fool",MSFT,Google RSS,negative,-0.7872371077537537
+2026-07-07 01:05:00,This Tech Giant Was the Worst-Performing Mega-Cap in the Dow Jones Industrial Average in the First Half. Stock to Avoid or No-Brainer Buying Opportunity? - The Motley Fool,MSFT,Google RSS,negative,-0.8266436457633972
+2026-07-07 00:35:01,This Tech Giant Was the Worst-Performing Mega-Cap in the Dow Jones Industrial Average in the First Half. Stock to Avoid or No-Brainer Buying Opportunity? - The Globe and Mail,MSFT,Google RSS,negative,-0.8847668170928955
+2026-07-01 16:35:00,Microsoft stock suffers worst month since 2000,MSFT,Bing RSS,negative,-0.9665484428405762
+2026-07-07 21:43:09,"Nasdaq Slides Nearly 2% As Higher Treasury Yields, Soaring Oil Prices Pressure Tech And Chip Stocks — META, AMZN, SPCX, MSFT In Focus",MSFT,Yahoo RSS,negative,-0.9579514861106873
+2026-07-07 18:03:00,Jim Cramer sends strong signal to Nvidia stock investors amid rumors - thestreet.com,NVDA,Google RSS,positive,0.7141926288604736
+2026-07-07 11:03:00,Jim Cramer sends strong signal to Nvidia stock investors amid rumors,NVDA,Bing RSS,positive,0.8621912002563477
+2026-07-07 23:25:00,2 Fast-Growing Industrial Mid-Cap Stocks to Buy Now,NVDA,Yahoo RSS,neutral,0.0
+2026-07-03 08:22:41,Tesla: Shares Fall Despite Strong Second-Quarter Deliveries Growth - Morningstar,TSLA,Google RSS,negative,-0.9698497653007507
+2026-07-02 13:07:44,"Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year - CNBC",TSLA,Google RSS,negative,-0.9578706622123718
+2026-07-02 21:05:00,Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers - MarketWatch,TSLA,Google RSS,negative,-0.9040796756744385
+2026-07-07 10:50:00,Tesla (NASDAQ: TSLA) Posts Strong Q2 Deliveries But Stock Selloff Signals Deeper Investor Concerns - foreignpolicyjournal.com,TSLA,Google RSS,negative,-0.8224143981933594
+2026-07-02 14:19:34,US Open: Nasdaq surges amid semiconductor rebound 🔼 Tesla shares down despite strong deliveries report - XTB.com,TSLA,Google RSS,negative,-0.9647502899169922
+2026-07-02 17:06:23,Strong quarterly sales failed to boost Tesla's stock price as analysts await further progress on AI. - 富途牛牛,TSLA,Google RSS,positive,0.49835070967674255
+2026-07-07 18:40:00,"Tesla sales jump 25%, topping forecasts as Musk boycott backlash appears to fade - The Cool Down",TSLA,Google RSS,positive,0.9376816749572754
+2026-07-06 13:55:07,Tesla shares nudge higher as Q2 inventory dip weighs on delivery hopes - TechStock²,TSLA,Google RSS,negative,-0.6994713544845581
+2026-07-06 15:06:12,Meta stock edges higher as AI delays meet cloud ambitions - MSN,META,Google RSS,positive,0.7960854768753052
+2026-07-06 17:40:13,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Globe and Mail",META,Google RSS,positive,0.945020854473114
+2026-07-07 21:45:24,"Nasdaq Slides Nearly 2% As Higher Treasury Yields, Soaring Oil Prices Pressure Tech And Chip Stocks — META, AMZN, SPCX, MSFT In Focus - Stocktwits",META,Google RSS,negative,-0.9517477750778198
+2026-07-07 07:55:22,NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat — But Retail Still Believes In Neocloud Opportunity - Stocktwits,META,Google RSS,negative,-0.9709031581878662
+2026-07-08 00:01:01,Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report? - The Motley Fool,NFLX,Google RSS,negative,-0.9589993357658386
+2026-07-04 20:04:00,Netflix (NASDAQ:NFLX) stock’s holiday bounce gives investors clear July watch - TechStock²,NFLX,Google RSS,positive,0.5236369967460632
+2026-07-07 19:46:07,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
