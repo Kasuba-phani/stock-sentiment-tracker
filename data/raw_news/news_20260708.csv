@@ -47,6 +47,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-07 17:00:00,"Microsoft and Palantir Stocks Both Hit 52-Week Lows, but Only 1 Is a Buy Right Now (the Answer May Surprise You) - The Motley Fool",MSFT,Google RSS,negative,-0.6946479678153992
 2026-07-02 19:00:00,Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers,TSLA,Bing RSS,negative,-0.9143766760826112
 2026-07-08 00:28:27,Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report? - The Globe and Mail,NFLX,Google RSS,negative,-0.9645596146583556
-2026-07-08 08:57:00,Nvidia Lands Crunch Perplexity Deal But the Stock Is Falling - Barron's,NVDA,Google RSS,negative,-0.9173489809036255
+2026-07-08 08:57:00,Nvidia Lands Crunch Perplexity Deal But the Stock Is Falling - Barron's,NVDA,Google RSS,negative,-0.9173489809036256
 2026-07-08 08:26:00,"The Federal Reserve's Initial July Inflation Forecast Looks Fantastic on the Surface, but Something Sinister Lurks in the Details",NVDA,Yahoo RSS,negative,-0.6933789253234863
 2026-07-08 08:36:47,"The Netflix Paradox: Strong Fundamentals, Falling Stock — Is the Market Wrong? - NAI500",NFLX,Google RSS,negative,-0.904272735118866
+2026-07-08 12:18:00,Why Apple’s $30 Billion Broadcom Chip Deal Has Both Stocks Falling - Barron's,AAPL,Google RSS,negative,-0.9441592693328857
+2026-07-07 23:14:14,Apple Shares New Details Of Chip Supply Deal With AVGO – iPhone Maker Commits $1.5B To Expand Broadcom’s Manufacturing - Stocktwits,AAPL,Google RSS,positive,0.7964580059051514
+2026-07-08 11:34:38,Apple Shares New Details Of Chip Supply Deal With AVGO – iPhone Maker Commits $1.5B To Expand Broadcom’s Manufacturing,AAPL,Yahoo RSS,positive,0.7644732594490051
+2026-07-08 11:27:47,"Oracle Stock's Price Is Falling, But Its Business Is Building. What Gives?",GOOGL,Yahoo RSS,negative,-0.6198644042015076
+2026-07-08 11:27:47,"Oracle Stock's Price Is Falling, But Its Business Is Building. What Gives?",AMZN,Yahoo RSS,negative,-0.6198644042015076
+2026-07-08 11:27:47,"Oracle Stock's Price Is Falling, But Its Business Is Building. What Gives?",MSFT,Yahoo RSS,negative,-0.6198644042015076
+2026-07-08 05:19:00,Tesla Has a New Car but the Stock Is Falling,TSLA,Bing RSS,neutral,0.0
+2026-07-08 03:22:00,Why July 16 could be a turning point for the Netflix stock price,NFLX,Bing RSS,neutral,0.0
