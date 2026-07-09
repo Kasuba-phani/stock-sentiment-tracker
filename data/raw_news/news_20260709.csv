@@ -1,18 +1,18 @@
 date,headline,ticker,source,sentiment_label,compound
 2026-07-06 20:20:00,Broadcom Stock Rises On New Apple Supply Deal - Investor's Business Daily,AAPL,Google RSS,positive,0.5850635170936584
 2026-07-07 23:14:14,Apple Shares New Details Of Chip Supply Deal With AVGO – iPhone Maker Commits $1.5B To Expand Broadcom’s Manufacturing - Stocktwits,AAPL,Google RSS,positive,0.7964580059051514
-2026-07-08 22:00:20,"Dow Ends Lower To Record Worst Day In Nearly A Month As US-Iran Jitters Push Oil Prices — TSLA, NVDA, BE, AAPL, WBD  In Focus",AAPL,Yahoo RSS,negative,-0.9545000195503235
-2026-07-06 18:17:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",GOOGL,Google RSS,positive,0.9462510347366333
+2026-07-08 22:00:20,"Dow Ends Lower To Record Worst Day In Nearly A Month As US-Iran Jitters Push Oil Prices — TSLA, NVDA, BE, AAPL, WBD  In Focus",AAPL,Yahoo RSS,negative,-0.9545000195503236
+2026-07-06 18:17:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",GOOGL,Google RSS,positive,0.9462510347366332
 2026-07-06 11:28:11,AI Stocks Retail Investors Are Watching in Broadcom ServiceNow and Alphabet - simplywall.st,GOOGL,Google RSS,neutral,0.0
 2026-07-08 22:20:00,SK Hynix hits Nasdaq July 10. SKUU and SKDD are expected to launch on July 13.,GOOGL,Yahoo RSS,neutral,0.0
 2026-07-08 17:27:47,'Sticker Shock' Powers Open-Source AI Growth. What It Means For Top AI Stocks.,GOOGL,Yahoo RSS,neutral,0.0
 2026-07-07 21:29:00,Amazon Stocks Climbs As AI Push Drives $25 Billion Bond Sale - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
 2026-07-06 21:01:15,"Amid Strong, Positive Catalysts and the Endorsement of Goldman Sachs, Amazon Stock Looks Very Attractive - Barchart",AMZN,Google RSS,positive,0.923684298992157
 2026-07-07 20:13:00,"Samsung Fails to Impress, Amazon Issues AI Bonds and Oil Jumps | Markets P.M. for July 7 - WSJ",AMZN,Google RSS,neutral,0.0
-2026-07-06 18:17:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",AMZN,Google RSS,positive,0.9462510347366333
+2026-07-06 18:17:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",AMZN,Google RSS,positive,0.9462510347366332
 2026-07-08 22:20:00,SK Hynix hits Nasdaq July 10. SKUU and SKDD are expected to launch on July 13.,AMZN,Yahoo RSS,neutral,0.0
 2026-07-08 22:07:27,The Pro-Focused Pivot That Puts Home Depot Stock's Core Engine At Risk,AMZN,Yahoo RSS,neutral,0.0
-2026-07-06 16:39:59,Why Is Microsoft Stock Falling Monday? - Microsoft (NASDAQ:MSFT) - Benzinga,MSFT,Google RSS,negative,-0.9028966426849365
+2026-07-06 16:39:59,Why Is Microsoft Stock Falling Monday? - Microsoft (NASDAQ:MSFT) - Benzinga,MSFT,Google RSS,negative,-0.9028966426849364
 2026-07-07 17:00:00,"Microsoft and Palantir Stocks Both Hit 52-Week Lows, but Only 1 Is a Buy Right Now (the Answer May Surprise You) - The Motley Fool",MSFT,Google RSS,negative,-0.6946479678153992
 2026-07-07 17:50:15,Microsoft stock rebounds; analyst keeps Buy rat... - Pluang,MSFT,Google RSS,negative,-0.8860474228858948
 2026-07-07 01:05:00,This Tech Giant Was the Worst-Performing Mega-Cap in the Dow Jones Industrial Average in the First Half. Stock to Avoid or No-Brainer Buying Opportunity? - The Motley Fool,MSFT,Google RSS,negative,-0.8266436457633972
@@ -22,17 +22,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-08 20:45:00,"Nvidia, Chip Stocks Rally Despite U.S.-Iran War Flare-Up - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
 2026-07-08 18:19:39,Few bright spots in Wednesday's tough market — why Nvidia stock is one of them - CNBC,NVDA,Google RSS,neutral,0.0
 2026-07-07 18:03:00,Jim Cramer sends strong signal to Nvidia stock investors amid rumors - thestreet.com,NVDA,Google RSS,positive,0.7141926288604736
-2026-07-08 08:57:00,Nvidia Lands Crunch Perplexity Deal But the Stock Is Falling - Barron's,NVDA,Google RSS,negative,-0.9173489809036255
+2026-07-08 08:57:00,Nvidia Lands Crunch Perplexity Deal But the Stock Is Falling - Barron's,NVDA,Google RSS,negative,-0.9173489809036256
 2026-07-08 17:27:00,'Sticker Shock' Powers Open-Source AI Growth. What It Means For Top AI Stocks. - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
-2026-07-03 08:22:41,Tesla: Shares Fall Despite Strong Second-Quarter Deliveries Growth - Morningstar,TSLA,Google RSS,negative,-0.9698497653007507
+2026-07-03 08:22:41,Tesla: Shares Fall Despite Strong Second-Quarter Deliveries Growth - Morningstar,TSLA,Google RSS,negative,-0.9698497653007508
 2026-07-02 13:07:44,"Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year - CNBC",TSLA,Google RSS,negative,-0.9578706622123718
-2026-07-02 21:05:00,Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers - MarketWatch,TSLA,Google RSS,negative,-0.9040796756744385
-2026-07-08 12:33:01,Tesla Has a New Car but the Stock Is Falling -- Barrons.com - Moomoo,TSLA,Google RSS,negative,-0.9319077730178833
+2026-07-02 21:05:00,Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers - MarketWatch,TSLA,Google RSS,negative,-0.9040796756744384
+2026-07-08 12:33:01,Tesla Has a New Car but the Stock Is Falling -- Barrons.com - Moomoo,TSLA,Google RSS,negative,-0.9319077730178832
 2026-07-02 14:19:34,US Open: Nasdaq surges amid semiconductor rebound 🔼 Tesla shares down despite strong deliveries report - XTB.com,TSLA,Google RSS,negative,-0.9647502899169922
-2026-07-02 17:06:23,Strong quarterly sales failed to boost Tesla's stock price as analysts await further progress on AI. - 富途牛牛,TSLA,Google RSS,positive,0.49835070967674255
+2026-07-02 17:06:23,Strong quarterly sales failed to boost Tesla's stock price as analysts await further progress on AI. - 富途牛牛,TSLA,Google RSS,positive,0.4983507096767425
 2026-07-07 10:50:00,Tesla (NASDAQ: TSLA) Posts Strong Q2 Deliveries But Stock Selloff Signals Deeper Investor Concerns - foreignpolicyjournal.com,TSLA,Google RSS,negative,-0.8224143981933594
-2026-07-08 22:00:20,"Dow Ends Lower To Record Worst Day In Nearly A Month As US-Iran Jitters Push Oil Prices — TSLA, NVDA, BE, AAPL, WBD  In Focus",TSLA,Yahoo RSS,negative,-0.9545000195503235
-2026-07-08 19:47:48,Sector Update: Consumer Stocks Lower in Late Afternoon Trading,TSLA,Yahoo RSS,negative,-0.9695523977279663
+2026-07-08 22:00:20,"Dow Ends Lower To Record Worst Day In Nearly A Month As US-Iran Jitters Push Oil Prices — TSLA, NVDA, BE, AAPL, WBD  In Focus",TSLA,Yahoo RSS,negative,-0.9545000195503236
+2026-07-08 19:47:48,Sector Update: Consumer Stocks Lower in Late Afternoon Trading,TSLA,Yahoo RSS,negative,-0.9695523977279664
 2026-07-08 17:27:00,'Sticker Shock' Powers Open-Source AI Growth. What It Means For Top AI Stocks. - Investor's Business Daily,META,Google RSS,neutral,0.0
 2026-07-06 15:06:12,Meta stock edges higher as AI delays meet cloud ambitions - MSN,META,Google RSS,positive,0.7960854768753052
 2026-07-06 17:39:08,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Globe and Mail",META,Google RSS,positive,0.945020854473114
@@ -40,5 +40,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-08 21:20:00,"Best Stocks to Buy Now in July: CEG for Value, Growth, and 70% Upside",META,Yahoo RSS,neutral,0.0
 2026-07-08 08:36:47,"The Netflix Paradox: Strong Fundamentals, Falling Stock — Is the Market Wrong? - NAI500",NFLX,Google RSS,negative,-0.904272735118866
 2026-07-08 01:00:00,Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report? - The Motley Fool,NFLX,Google RSS,negative,-0.9589993357658386
-2026-07-08 00:20:00,Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report?,NFLX,Yahoo RSS,negative,-0.9640374183654785
-2026-07-07 19:46:07,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
+2026-07-08 00:20:00,Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report?,NFLX,Yahoo RSS,negative,-0.9640374183654784
+2026-07-07 19:46:07,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.935252010822296
+2026-07-06 21:01:15,"Amid Strong, Positive Catalysts and the Endorsement of Goldman Sachs, Amazon Stock Looks Very Attractive - Barchart.com",AMZN,Google RSS,positive,0.8514057397842407
+2026-07-06 18:17:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",META,Google RSS,positive,0.9462510347366333
+2026-07-08 12:46:00,Mark Zuckerberg's Meta is entering what could be a $2 trillion cloud market. CoreWeave stock fell 14% on the news,META,Bing RSS,negative,-0.9731680154800415
+2026-07-08 03:22:00,Why July 16 could be a turning point for the Netflix stock price,NFLX,Bing RSS,neutral,0.0
