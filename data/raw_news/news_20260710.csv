@@ -55,6 +55,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-08 06:07:43,Here's why Oracle stock slumped in the first half of 2026 (hint: Microsoft was also impacted),MSFT,Bing RSS,negative,-0.96271812915802
 2026-07-10 14:33:00,Citi sends strong signal to Nvidia investors amid rumors - thestreet.com,NVDA,Google RSS,positive,0.8874613642692566
 2026-07-10 14:01:48,SK Hynix hits the U.S. stock market as demand for memory chips soars amid AI frenzy - Newsday,NVDA,Google RSS,negative,-0.8143035173416138
-2026-07-10 12:30:00,Nvidia Stock’s Falling. Blame Meta. - Barron's,META,Google RSS,negative,-0.9273742437362671
+2026-07-10 12:30:00,Nvidia Stock’s Falling. Blame Meta. - Barron's,META,Google RSS,negative,-0.9273742437362672
 2026-07-10 12:30:00,Nvidia Stock’s Falling. Blame Meta.,META,Yahoo RSS,negative,-0.95318204164505
 2026-07-10 13:31:10,"U.S. Futures Drift as Investors Await Earnings Season and Inflation Data: Dow Jones, S&P, Nasdaq",NFLX,Yahoo RSS,neutral,0.0
+2026-07-03 07:00:00,Microsoft stock hits one-year low amid AI spending concerns - qz.com,MSFT,Google RSS,negative,-0.9260715246200562
+2026-07-10 12:39:21,Nvidia Stock's Falling. Blame Meta. -- Barrons.com - Moomoo,NVDA,Google RSS,negative,-0.8964473009109497
+2026-07-10 15:50:00,3 Top Dividend Stocks to Buy Right Now -- With Dividend Yields Above 5%,NVDA,Yahoo RSS,positive,0.618702232837677
