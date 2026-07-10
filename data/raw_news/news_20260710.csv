@@ -61,3 +61,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-03 07:00:00,Microsoft stock hits one-year low amid AI spending concerns - qz.com,MSFT,Google RSS,negative,-0.9260715246200562
 2026-07-10 12:39:21,Nvidia Stock's Falling. Blame Meta. -- Barrons.com - Moomoo,NVDA,Google RSS,negative,-0.8964473009109497
 2026-07-10 15:50:00,3 Top Dividend Stocks to Buy Right Now -- With Dividend Yields Above 5%,NVDA,Yahoo RSS,positive,0.618702232837677
+2026-07-10 17:08:05,Nasdaq Composite Treads Water While SK Hynix Makes a $26 Billion Splash,GOOGL,Yahoo RSS,neutral,0.0
+2026-07-10 19:33:22,"Strong Gains for Major Tech Stocks Boost US Markets, NVIDIA (NVD - GuruFocus",NVDA,Google RSS,positive,0.9334829449653625
+2026-07-10 11:22:00,Citi sends strong signal to Nvidia investors amid rumors,NVDA,Bing RSS,positive,0.9148749113082886
