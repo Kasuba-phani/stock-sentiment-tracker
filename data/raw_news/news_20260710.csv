@@ -48,4 +48,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-10 11:39:21,"Stock market today: Dow, S&P 500, Nasdaq futures diverge ahead of SK Hynix's mega US IPO",NVDA,Yahoo RSS,negative,-0.824131190776825
 2026-07-10 11:05:00,3 Top Dividend ETFs Built for Long-Term Buy-and-Hold Investors,NVDA,Yahoo RSS,neutral,0.0
 2026-07-10 09:25:49,"LRCX, APLD, KLAC: Why Chip Equipment Stocks Are Falling Premarket Today",META,Yahoo RSS,negative,-0.9330077171325684
-2026-07-08 00:28:27,Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report? - The Globe and Mail,NFLX,Google RSS,negative,-0.9645596146583557
+2026-07-08 00:28:27,Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report? - The Globe and Mail,NFLX,Google RSS,negative,-0.9645596146583556
+2026-07-10 14:03:44,KeyBanc raises Alphabet stock price target on cloud strength - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-07-10 12:30:00,Nvidia Stock’s Falling. Blame Meta.,AMZN,Yahoo RSS,negative,-0.95318204164505
+2026-07-10 12:38:37,"Analysts’ Top Technology Picks: Microsoft (MSFT), Amphenol (APH) - The Globe and Mail",MSFT,Google RSS,neutral,0.0
+2026-07-08 06:07:43,Here's why Oracle stock slumped in the first half of 2026 (hint: Microsoft was also impacted),MSFT,Bing RSS,negative,-0.96271812915802
+2026-07-10 14:33:00,Citi sends strong signal to Nvidia investors amid rumors - thestreet.com,NVDA,Google RSS,positive,0.8874613642692566
+2026-07-10 14:01:48,SK Hynix hits the U.S. stock market as demand for memory chips soars amid AI frenzy - Newsday,NVDA,Google RSS,negative,-0.8143035173416138
+2026-07-10 12:30:00,Nvidia Stock’s Falling. Blame Meta. - Barron's,META,Google RSS,negative,-0.9273742437362671
+2026-07-10 12:30:00,Nvidia Stock’s Falling. Blame Meta.,META,Yahoo RSS,negative,-0.95318204164505
+2026-07-10 13:31:10,"U.S. Futures Drift as Investors Await Earnings Season and Inflation Data: Dow Jones, S&P, Nasdaq",NFLX,Yahoo RSS,neutral,0.0
