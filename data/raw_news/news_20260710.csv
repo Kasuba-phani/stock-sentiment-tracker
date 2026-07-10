@@ -1,0 +1,34 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-07-06 20:20:00,Broadcom Stock Rises On New Apple Supply Deal - Investor's Business Daily,AAPL,Google RSS,positive,0.5850635170936584
+2026-07-09 08:30:36,GOOGL (Alphabet Inc.) Rides Strong Growth and a Tight Technical Setup for a Potential Breakout - ChartMill,GOOGL,Google RSS,positive,0.7759990096092224
+2026-07-06 18:17:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",GOOGL,Google RSS,positive,0.9462510347366333
+2026-07-07 21:29:00,Amazon Stocks Climbs As AI Push Drives $25 Billion Bond Sale - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
+2026-07-06 21:01:15,"Amid Strong, Positive Catalysts and the Endorsement of Goldman Sachs, Amazon Stock Looks Very Attractive - Barchart.com",AMZN,Google RSS,positive,0.8514057397842407
+2026-07-07 20:13:00,"Samsung Fails to Impress, Amazon Issues AI Bonds and Oil Jumps | Markets P.M. for July 7 - WSJ",AMZN,Google RSS,neutral,0.0
+2026-07-09 08:25:17,Amazon Stock Falls Despite Strong AWS Growth and Record Prime Day Sales - FXLeaders,AMZN,Google RSS,negative,-0.9619808793067932
+2026-07-06 18:17:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",AMZN,Google RSS,positive,0.9462510347366333
+2026-07-09 15:13:34,Amazon Vs. Microsoft: What Amazon’s $25 Billion Bond Tranche Says About Mag 7 Competition,AMZN,Yahoo RSS,neutral,0.0
+2026-07-09 12:22:55,"Why Are Microsoft and IBM Stocks Falling in Pre-Market Trading Today, 7/9/26? - TipRanks",MSFT,Google RSS,negative,-0.9508332014083862
+2026-07-07 17:00:00,"Microsoft and Palantir Stocks Both Hit 52-Week Lows, but Only 1 Is a Buy Right Now (the Answer May Surprise You) - The Motley Fool",MSFT,Google RSS,negative,-0.6946479678153992
+2026-07-06 16:39:59,Why Is Microsoft Stock Falling Monday? - Microsoft (NASDAQ:MSFT) - Benzinga,MSFT,Google RSS,negative,-0.9028966426849365
+2026-07-07 17:50:15,Microsoft stock rebounds; analyst keeps Buy rat... - Pluang,MSFT,Google RSS,negative,-0.8860474228858948
+2026-07-07 01:05:00,This Tech Giant Was the Worst-Performing Mega-Cap in the Dow Jones Industrial Average in the First Half. Stock to Avoid or No-Brainer Buying Opportunity? - The Motley Fool,MSFT,Google RSS,negative,-0.8266436457633972
+2026-07-08 18:19:39,Few bright spots in Wednesday's tough market — why Nvidia stock is one of them - CNBC,NVDA,Google RSS,neutral,0.0
+2026-07-07 18:03:00,Jim Cramer sends strong signal to Nvidia stock investors amid rumors - thestreet.com,NVDA,Google RSS,positive,0.7141926288604736
+2026-07-08 20:45:00,"Nvidia, Chip Stocks Rally Despite U.S.-Iran War Flare-Up - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-07-08 08:57:00,Nvidia Lands Crunch Perplexity Deal But the Stock Is Falling - Barron's,NVDA,Google RSS,negative,-0.9173489809036255
+2026-07-09 22:25:00,Micron Technology Is Quietly Setting Up for a Strong Earnings Catalyst,NVDA,Yahoo RSS,positive,0.9244803190231323
+2026-07-03 08:22:41,Tesla: Shares Fall Despite Strong Second-Quarter Deliveries Growth - Morningstar,TSLA,Google RSS,negative,-0.9698497653007507
+2026-07-06 07:51:00,Tesla stock up 3% today after Thursday's selloff: what's behind the rebound?,TSLA,Bing RSS,positive,0.7014004588127136
+2026-07-09 20:58:00,Meta’s stock rebounds as agentic AI coding and custom chips ease spending fears - MarketWatch,META,Google RSS,negative,-0.6729409694671631
+2026-07-09 15:43:57,Meta Stock Falls despite Report of September AI Chip Production Start - TipRanks,META,Google RSS,negative,-0.9624633193016052
+2026-07-06 18:17:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",META,Google RSS,positive,0.9462510347366333
+2026-07-08 17:27:00,'Sticker Shock' Powers Open-Source AI Growth. What It Means For Top AI Stocks. - Investor's Business Daily,META,Google RSS,neutral,0.0
+2026-07-09 09:15:32,Meta (META) Stock Falls Despite Strong Q1 Earnings and Advertising Growth - FXLeaders,META,Google RSS,negative,-0.9642803072929382
+2026-07-09 13:58:00,Meta’s stock rebounds as agentic AI coding and custom chips ease spending fears,META,Bing RSS,negative,-0.6742950677871704
+2026-07-09 09:32:00,Live Nasdaq Composite: Tech Rises on Chip Stock Tailwinds but Software Sinks,META,Bing RSS,positive,0.8499122858047485
+2026-07-09 22:05:41,Coinbase and Grayscale Executives Step Down After Major Crypto Wins,META,Yahoo RSS,negative,-0.7983493804931641
+2026-07-08 08:36:47,"The Netflix Paradox: Strong Fundamentals, Falling Stock — Is the Market Wrong? - NAI500",NFLX,Google RSS,negative,-0.904272735118866
+2026-07-08 01:00:00,Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report? - The Motley Fool,NFLX,Google RSS,negative,-0.9589993357658386
+2026-07-09 15:13:22,Netflix options signal 7.3% move on July 16 earnings report By Investing.com - Investing.com Nigeria,NFLX,Google RSS,neutral,0.0
+2026-07-07 18:00:00,Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report?,NFLX,Bing RSS,negative,-0.9640374183654785
