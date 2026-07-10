@@ -62,5 +62,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-10 12:39:21,Nvidia Stock's Falling. Blame Meta. -- Barrons.com - Moomoo,NVDA,Google RSS,negative,-0.8964473009109497
 2026-07-10 15:50:00,3 Top Dividend Stocks to Buy Right Now -- With Dividend Yields Above 5%,NVDA,Yahoo RSS,positive,0.618702232837677
 2026-07-10 17:08:05,Nasdaq Composite Treads Water While SK Hynix Makes a $26 Billion Splash,GOOGL,Yahoo RSS,neutral,0.0
-2026-07-10 19:33:22,"Strong Gains for Major Tech Stocks Boost US Markets, NVIDIA (NVD - GuruFocus",NVDA,Google RSS,positive,0.9334829449653625
+2026-07-10 19:33:22,"Strong Gains for Major Tech Stocks Boost US Markets, NVIDIA (NVD - GuruFocus",NVDA,Google RSS,positive,0.9334829449653624
 2026-07-10 11:22:00,Citi sends strong signal to Nvidia investors amid rumors,NVDA,Bing RSS,positive,0.9148749113082886
+2026-07-10 20:02:14,PC shipments fall as AI demand spikes memory prices,AAPL,Yahoo RSS,negative,-0.9708465337753296
+2026-07-10 20:02:14,PC shipments fall as AI demand spikes memory prices,MSFT,Yahoo RSS,negative,-0.9708465337753296
+2026-07-10 13:29:18,Morgan Stanley reiterates Overweight on Nvidia stock citing diversified growth - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-07-10 19:46:37,Sector Update: Consumer Stocks Rise Late Afternoon,TSLA,Yahoo RSS,positive,0.7561094760894775
+2026-07-10 07:39:00,Meta stock surges 7.5% as report says AI chip production could begin this year,META,Bing RSS,positive,0.8924797177314758
+2026-07-10 20:01:17,"US Equity Markets End Higher Amid Broad Rally, US-Iran Diplomatic Progress",META,Yahoo RSS,positive,0.9307498335838318
+2026-07-10 20:01:17,"US Equity Markets End Higher Amid Broad Rally, US-Iran Diplomatic Progress",NFLX,Yahoo RSS,positive,0.9307498335838318
+2026-07-10 19:46:37,Sector Update: Consumer Stocks Rise Late Afternoon,NFLX,Yahoo RSS,positive,0.7561094760894775
