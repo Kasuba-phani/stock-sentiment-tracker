@@ -9,7 +9,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-10 18:06:38,"Samsung Fails to Impress, Amazon Issues AI Bonds and Oil Jumps | Markets P.M. for July 7 - WSJ",AMZN,Google RSS,neutral,0.0
 2026-07-10 21:21:43,The Real Risk Inside Home Depot Stock,AMZN,Yahoo RSS,neutral,0.0
 2026-07-10 12:51:36,"Analysts’ Top Technology Picks: Microsoft (MSFT), Amphenol (APH) - The Globe and Mail",MSFT,Google RSS,neutral,0.0
-2026-07-06 16:39:59,Why Is Microsoft Stock Falling Monday? - Microsoft (NASDAQ:MSFT) - Benzinga,MSFT,Google RSS,negative,-0.9028966426849365
+2026-07-06 16:39:59,Why Is Microsoft Stock Falling Monday? - Microsoft (NASDAQ:MSFT) - Benzinga,MSFT,Google RSS,negative,-0.9028966426849364
 2026-07-07 17:00:00,"Microsoft and Palantir Stocks Both Hit 52-Week Lows, but Only 1 Is a Buy Right Now (the Answer May Surprise You) - The Motley Fool",MSFT,Google RSS,negative,-0.6946479678153992
 2026-07-08 06:07:43,Here's why Oracle stock slumped in the first half of 2026 (hint: Microsoft was also impacted),MSFT,Bing RSS,negative,-0.96271812915802
 2026-07-10 20:02:14,PC shipments fall as AI demand spikes memory prices,MSFT,Yahoo RSS,negative,-0.9708465337753296
@@ -19,17 +19,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-10 12:39:21,Nvidia Stock's Falling. Blame Meta. -- Barrons.com - Moomoo,NVDA,Google RSS,negative,-0.8964473009109497
 2026-07-07 18:03:00,Jim Cramer sends strong signal to Nvidia stock investors amid rumors - thestreet.com,NVDA,Google RSS,positive,0.7141926288604736
 2026-07-10 14:33:00,Citi sends strong signal to Nvidia investors amid rumors - thestreet.com,NVDA,Google RSS,positive,0.8874613642692566
-2026-07-08 08:57:00,Nvidia Lands Crunch Perplexity Deal But the Stock Is Falling - Barron's,NVDA,Google RSS,negative,-0.9173489809036255
-2026-07-10 19:33:22,"Strong Gains for Major Tech Stocks Boost US Markets, NVIDIA (NVD - GuruFocus",NVDA,Google RSS,positive,0.9334829449653625
+2026-07-08 08:57:00,Nvidia Lands Crunch Perplexity Deal But the Stock Is Falling - Barron's,NVDA,Google RSS,negative,-0.9173489809036256
+2026-07-10 19:33:22,"Strong Gains for Major Tech Stocks Boost US Markets, NVIDIA (NVD - GuruFocus",NVDA,Google RSS,positive,0.9334829449653624
 2026-07-10 19:46:37,Sector Update: Consumer Stocks Rise Late Afternoon,TSLA,Yahoo RSS,positive,0.7561094760894775
 2026-07-09 20:58:00,Meta’s stock rebounds as agentic AI coding and custom chips ease spending fears - MarketWatch,META,Google RSS,negative,-0.6729409694671631
 2026-07-11 00:22:10,"Meta stock surges 15% in best weekly rally since early 2024, fueled by AI momentum - Crypto Briefing",META,Google RSS,positive,0.8747701048851013
-2026-07-06 18:17:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",META,Google RSS,positive,0.9462510347366333
+2026-07-06 18:17:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",META,Google RSS,positive,0.9462510347366332
 2026-07-10 19:02:00,Meta stock surges 7.5% as report says AI chip production could begin this year,META,Bing RSS,positive,0.8924797177314758
 2026-07-10 20:01:17,"US Equity Markets End Higher Amid Broad Rally, US-Iran Diplomatic Progress",META,Yahoo RSS,positive,0.9307498335838318
 2026-07-09 15:07:46,"‘It’s Brilliant,’ Says Top Investor About Netflix Stock - TipRanks",NFLX,Google RSS,positive,0.6795009970664978
 2026-07-08 01:00:00,Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report? - The Motley Fool,NFLX,Google RSS,negative,-0.9589993357658386
-2026-07-08 00:20:00,Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report? - The Globe and Mail,NFLX,Google RSS,negative,-0.9645596146583557
+2026-07-08 00:20:00,Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report? - The Globe and Mail,NFLX,Google RSS,negative,-0.9645596146583556
 2026-07-10 20:01:17,"US Equity Markets End Higher Amid Broad Rally, US-Iran Diplomatic Progress",NFLX,Yahoo RSS,positive,0.9307498335838318
 2026-07-10 19:46:37,Sector Update: Consumer Stocks Rise Late Afternoon,NFLX,Yahoo RSS,positive,0.7561094760894775
 2026-07-10 13:31:10,"U.S. Futures Drift as Investors Await Earnings Season and Inflation Data: Dow Jones, S&P, Nasdaq",NFLX,Yahoo RSS,neutral,0.0
+2026-07-11 05:53:25,"Meta stock surges on AI cost breakthrough, easing spending fears - eciks.org",META,Google RSS,positive,0.6406413912773132
