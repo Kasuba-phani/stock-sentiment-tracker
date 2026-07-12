@@ -1,0 +1,29 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-07-10 14:03:44,KeyBanc raises Alphabet stock price target on cloud strength - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-07-09 08:30:36,GOOGL (Alphabet Inc.) Rides Strong Growth and a Tight Technical Setup for a Potential Breakout - ChartMill,GOOGL,Google RSS,positive,0.7759990096092224
+2026-07-07 21:29:00,Amazon Stocks Climbs As AI Push Drives $25 Billion Bond Sale - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
+2026-07-06 21:01:15,"Amid Strong, Positive Catalysts and the Endorsement of Goldman Sachs, Amazon Stock Looks Very Attractive - Barchart.com",AMZN,Google RSS,positive,0.8514057397842407
+2026-07-10 21:21:43,The Real Risk Inside Home Depot Stock,AMZN,Yahoo RSS,neutral,0.0
+2026-07-11 20:20:00,5 Top AI Stocks Investors Own on Robinhood,MSFT,Yahoo RSS,neutral,0.0
+2026-07-08 18:19:39,Few bright spots in Wednesday's tough market — why Nvidia stock is one of them - CNBC,NVDA,Google RSS,neutral,0.0
+2026-07-10 13:29:18,Morgan Stanley reiterates Overweight on Nvidia stock citing diversified growth - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-07-08 20:45:00,"Nvidia, Chip Stocks Rally Despite U.S.-Iran War Flare-Up - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-07-07 18:03:00,Jim Cramer sends strong signal to Nvidia stock investors amid rumors - thestreet.com,NVDA,Google RSS,positive,0.7141926288604736
+2026-07-11 20:39:00,Artificial Intelligence (AI) Stocks Have Crushed the Broader Market in 2026. Here Are 2 Top Stocks to Buy Before They Soar Higher This Earnings Season and Beyond - The Motley Fool,NVDA,Google RSS,negative,-0.5924354791641235
+2026-07-08 08:57:00,Nvidia Lands Crunch Perplexity Deal But the Stock Is Falling - Barron's,NVDA,Google RSS,negative,-0.9173489809036255
+2026-07-10 12:39:21,Nvidia Stock's Falling. Blame Meta. -- Barrons.com - Moomoo,NVDA,Google RSS,negative,-0.8964473009109497
+2026-07-11 20:20:00,5 Top AI Stocks Investors Own on Robinhood,NVDA,Yahoo RSS,neutral,0.0
+2026-07-11 19:59:00,Artificial Intelligence (AI) Stocks Have Crushed the Broader Market in 2026. Here Are 2 Top Stocks to Buy Before They Soar Higher This Earnings Season and Beyond,NVDA,Yahoo RSS,neutral,0.0
+2026-07-11 18:20:00,Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy the Stock in July.,NVDA,Yahoo RSS,neutral,0.0
+2026-07-10 19:46:37,Sector Update: Consumer Stocks Rise Late Afternoon,TSLA,Yahoo RSS,positive,0.7561094760894775
+2026-07-11 05:53:25,"Meta stock surges on AI cost breakthrough, easing spending fears - eciks.org",META,Google RSS,positive,0.6406391859054565
+2026-07-09 20:58:00,Meta’s stock rebounds as agentic AI coding and custom chips ease spending fears - MarketWatch,META,Google RSS,negative,-0.6729409694671631
+2026-07-06 18:17:00,"Meta Stock Surged 9% to $612.91 on July 1 After Reports That Mark Zuckerberg Is Building a Cloud Business to Compete With Amazon, Microsoft, and Alphabet - The Motley Fool",META,Google RSS,positive,0.9462510347366333
+2026-07-08 17:27:00,'Sticker Shock' Powers Open-Source AI Growth. What It Means For Top AI Stocks. - Investor's Business Daily,META,Google RSS,neutral,0.0
+2026-07-11 00:22:10,"Meta stock surges 15% in best weekly rally since early 2024, fueled by AI momentum - Crypto Briefing",META,Google RSS,positive,0.8747701048851013
+2026-07-10 19:02:00,Meta stock surges 7.5% as report says AI chip production could begin this year,META,Bing RSS,positive,0.8924797177314758
+2026-07-08 01:00:00,Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report? - The Motley Fool,NFLX,Google RSS,negative,-0.9589993357658386
+2026-07-08 00:20:00,Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report? - The Globe and Mail,NFLX,Google RSS,negative,-0.9645596146583557
+2026-07-10 20:01:17,"US Equity Markets End Higher Amid Broad Rally, US-Iran Diplomatic Progress",NFLX,Yahoo RSS,positive,0.9307498335838318
+2026-07-10 19:46:37,Sector Update: Consumer Stocks Rise Late Afternoon,NFLX,Yahoo RSS,positive,0.7561094760894775
+2026-07-10 13:31:10,"U.S. Futures Drift as Investors Await Earnings Season and Inflation Data: Dow Jones, S&P, Nasdaq",NFLX,Yahoo RSS,neutral,0.0
