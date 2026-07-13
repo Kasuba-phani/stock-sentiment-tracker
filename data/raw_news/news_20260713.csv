@@ -40,3 +40,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-13 11:32:50,Alphabet stock edges higher as investors await fresh AI clues - ad-hoc-news.de,GOOGL,Google RSS,positive,0.5983676910400391
 2026-07-13 09:09:57,ORCL Eyes 52-Week Low After Sharp Slide: Retail Traders Say Stock Is 'Ridiculously Undervalued',MSFT,Yahoo RSS,negative,-0.9684041142463684
 2026-07-13 10:44:00,"If the Fed Hikes Interest Rates in 2026, History Says This Is the Best Move Investors Can Make Now",NVDA,Yahoo RSS,neutral,0.0
+2026-07-13 12:49:34,Global smartphone shipments in second quarter hit lowest in 13 years on memory chip crunch,AAPL,Yahoo RSS,negative,-0.9659157395362854
+2026-07-13 13:51:00,Tesla Stock Is Falling. Can Robots Arrive Soon Enough to Save It?,GOOGL,Yahoo RSS,negative,-0.8994364738464355
+2026-07-13 12:38:13,Why Is NVIDIA Stock Falling Monday? - Benzinga,NVDA,Google RSS,negative,-0.9250187277793884
+2026-07-13 13:51:00,Tesla Stock Is Falling. Can Robots Arrive Soon Enough to Save It? - Barron's,TSLA,Google RSS,negative,-0.8828741908073425
+2026-07-13 13:51:00,Tesla Stock Is Falling. Can Robots Arrive Soon Enough to Save It?,TSLA,Yahoo RSS,negative,-0.8994364738464355
+2026-07-13 12:00:00,Apex Fintech Solutions Releases Q2 2026 Investor Pulse Report: SpaceX IPO Draws Universal Demand as Retail Rotates Into the AI Buildout,TSLA,Yahoo RSS,positive,0.9017674922943115
