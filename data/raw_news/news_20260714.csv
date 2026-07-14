@@ -1,0 +1,34 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-07-13 17:09:41,Apple (AAPL) Reaches New All-Time High Amid Strong Sales and AI Optimism - GuruFocus,AAPL,Google RSS,positive,0.9387185573577881
+2026-07-13 15:53:46,Apple's record rally puts these ETFs with the biggest exposure in focus (AAPL:NASDAQ) - Seeking Alpha,AAPL,Google RSS,neutral,0.0
+2026-07-13 20:41:31,Why Apple (AAPL) Is Rising While Nvidia and Other Tech Stocks Fall - Stocks Down Under,AAPL,Google RSS,negative,-0.9543312788009644
+2026-07-13 17:15:30,Apple hits record high as Wall Street sees demand surviving price increases - Crypto Briefing,AAPL,Google RSS,positive,0.7748016715049744
+2026-07-13 19:50:54,Global smartphone shipments at 13-year low amid memory chip crunch,AAPL,Yahoo RSS,negative,-0.9653168320655823
+2026-07-10 14:03:44,KeyBanc raises Alphabet stock price target on cloud strength - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-07-12 12:00:00,The 3 Top Chip Stocks Investors Own on Robinhood - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-07-13 22:36:49,"S&P 500, Nasdaq, Dow End Lower As US-Iran War Fear Remerges — PSKY, META, GOOGL, INTC, NFLX In Focus",GOOGL,Yahoo RSS,negative,-0.7486525177955627
+2026-07-13 20:13:00,Tesla Stock Is Falling. Can Robots Arrive Soon Enough to Save It?,GOOGL,Yahoo RSS,negative,-0.8994364738464355
+2026-07-13 16:49:00,"AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta - Investor's Business Daily",AMZN,Google RSS,positive,0.47307923436164856
+2026-07-12 13:36:35,"‘Opportunity is Knocking,’ Says Top Investor About Amazon Stock - TipRanks",AMZN,Google RSS,neutral,0.0
+2026-07-12 02:31:04,"Amazon.com (AMZN) Sells Fresh Bonds, Is The Stock Still Cheap? - simplywall.st",AMZN,Google RSS,neutral,0.0
+2026-07-12 07:18:46,Microsoft Stock Is Falling but AI Spending Still Points to Long Term Upside - simplywall.st,MSFT,Google RSS,negative,-0.9159258008003235
+2026-07-13 15:50:07,Microsoft stock trades low despite strong growt... - Pluang,MSFT,Google RSS,negative,-0.9664189219474792
+2026-07-13 21:24:10,Microsoft trades near lowest valuation in over a decade amid AI spending concerns - Crypto Briefing,MSFT,Google RSS,negative,-0.9543077945709229
+2026-07-08 18:19:39,Few bright spots in Wednesday's tough market — why Nvidia stock is one of them - CNBC,NVDA,Google RSS,neutral,0.0
+2026-07-08 20:45:00,"Nvidia, Chip Stocks Rally Despite U.S.-Iran War Flare-Up - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-07-10 13:29:18,Morgan Stanley reiterates Overweight on Nvidia stock citing diversified growth - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-07-07 18:03:00,Jim Cramer sends strong signal to Nvidia stock investors amid rumors - thestreet.com,NVDA,Google RSS,positive,0.7141926288604736
+2026-07-13 20:13:00,Tesla Stock Is Falling. Can Robots Arrive Soon Enough to Save It? - Barron's,TSLA,Google RSS,negative,-0.8828741908073425
+2026-07-13 20:13:00,Tesla Stock Is Falling. Can Robots Arrive Soon Enough to Save It?,TSLA,Yahoo RSS,negative,-0.8994364738464355
+2026-07-13 12:00:00,Apex Fintech Solutions Releases Q2 2026 Investor Pulse Report: SpaceX IPO Draws Universal Demand as Retail Rotates Into the AI Buildout,TSLA,Yahoo RSS,positive,0.9017674922943115
+2026-07-09 20:58:00,Meta’s stock rebounds as agentic AI coding and custom chips ease spending fears - MarketWatch,META,Google RSS,negative,-0.6729409694671631
+2026-07-13 16:49:00,"AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta - Investor's Business Daily",META,Google RSS,positive,0.47307923436164856
+2026-07-11 05:53:25,"Meta stock surges on AI cost breakthrough, easing spending fears - eciks.org",META,Google RSS,positive,0.6406391859054565
+2026-07-09 21:55:04,Meta stock jumps on AI model pricing and cloud plans - MSN,META,Google RSS,negative,-0.6252493858337402
+2026-07-13 22:36:49,"S&P 500, Nasdaq, Dow End Lower As US-Iran War Fear Remerges — PSKY, META, GOOGL, INTC, NFLX In Focus",META,Yahoo RSS,negative,-0.7486525177955627
+2026-07-13 17:18:05,TSMC Reports 36% Sales Growth as AI Demand Stays Strong,META,Yahoo RSS,positive,0.9526655673980713
+2026-07-13 16:44:36,Traders are betting on a comeback quarter for Netflix - CNBC,NFLX,Google RSS,neutral,0.0
+2026-07-13 13:00:02,"Netflix Stock is at New Lows, But Its FCF Is Strong - Is NFLX Too Cheap? - Barchart.com",NFLX,Google RSS,negative,-0.6692575216293335
+2026-07-08 01:00:00,Netflix Stock Is Down 42% From Its High With Earnings Due July 16. Is It a Buy Before the Report? - The Motley Fool,NFLX,Google RSS,negative,-0.9589993357658386
+2026-07-13 22:36:49,"S&P 500, Nasdaq, Dow End Lower As US-Iran War Fear Remerges — PSKY, META, GOOGL, INTC, NFLX In Focus",NFLX,Yahoo RSS,negative,-0.7486525177955627
+2026-07-13 13:00:02,"Netflix Stock is at New Lows, But Its FCF Is Strong - Is NFLX Too Cheap?",NFLX,Yahoo RSS,negative,-0.8635166883468628
