@@ -28,3 +28,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-14 20:59:03,Here’s How Much Traders See Netflix Stock Moving After Earnings This Week,NFLX,Yahoo RSS,neutral,0.0
 2026-07-13 22:36:49,"S&P 500, Nasdaq, Dow End Lower As US-Iran War Fear Remerges — PSKY, META, GOOGL, INTC, NFLX In Focus",NFLX,Yahoo RSS,negative,-0.7486525177955627
 2026-07-15 05:14:36,"NBIS, IREN, CRWV, APLD: Retail Traders Shrug Off AI Pullback, Buy The Dip In Neocloud Stocks",META,Yahoo RSS,positive,0.5269975662231445
+2026-07-15 08:26:00,"Despite Falling Oil Prices, There's Now a 73% Chance of an Interest Rate Hike by September -- Here Are the 2 Culprits to Blame",NVDA,Yahoo RSS,neutral,0.0
