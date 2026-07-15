@@ -1,0 +1,29 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-07-14 20:59:03,Here’s How Much Traders See Netflix Stock Moving After Earnings This Week - Investopedia,AAPL,Google RSS,neutral,0.0
+2026-07-14 13:16:47,Apple downgraded to Underweight as KeyBanc believes rising prices will slow growth - Seeking Alpha,AAPL,Google RSS,negative,-0.9301595091819763
+2026-07-14 20:14:26,It's a 'perfect market' for Goldman Sachs: What that suggests for Morgan Stanley earnings,AAPL,Yahoo RSS,neutral,0.0
+2026-07-14 20:29:37,"Morgan Stanley (NYSE: MS) prices auto-callable notes tied to Alphabet, Meta and Microsoft - Stock Titan",GOOGL,Google RSS,neutral,0.0
+2026-07-10 14:03:44,KeyBanc raises Alphabet stock price target on cloud strength - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-07-13 16:49:00,"AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta - Investor's Business Daily",AMZN,Google RSS,positive,0.47307923436164856
+2026-07-12 13:36:35,"‘Opportunity is Knocking,’ Says Top Investor About Amazon Stock - TipRanks",AMZN,Google RSS,neutral,0.0
+2026-07-12 02:31:04,"Amazon.com (AMZN) Sells Fresh Bonds, Is The Stock Still Cheap? - simplywall.st",AMZN,Google RSS,neutral,0.0
+2026-07-14 23:30:00,AI Stocks: Falling Knife or Once-in-a-Decade Buying Opportunity?,AMZN,Yahoo RSS,neutral,0.0
+2026-07-14 17:33:37,Microsoft shares drop on investor worries over AI spending despite strong cloud growth - eciks.org,MSFT,Google RSS,negative,-0.9556639790534973
+2026-07-12 07:18:46,Microsoft Stock Is Falling but AI Spending Still Points to Long Term Upside - simplywall.st,MSFT,Google RSS,negative,-0.9159258008003235
+2026-07-13 15:50:07,Microsoft stock trades low despite strong growt... - Pluang,MSFT,Google RSS,negative,-0.9664189219474792
+2026-07-13 22:04:59,"Retail Investors Are Selling Apple, Tesla, and Nvidia Stocks – Here’s Why - TipRanks",NVDA,Google RSS,neutral,0.0
+2026-07-08 18:19:39,Few bright spots in Wednesday's tough market — why Nvidia stock is one of them - CNBC,NVDA,Google RSS,neutral,0.0
+2026-07-08 20:45:00,"Nvidia, Chip Stocks Rally Despite U.S.-Iran War Flare-Up - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-07-15 02:55:40,"Dow Jones Futures: Goldman, CrowdStrike Jump, But AI Stocks Need To Do This",NVDA,Yahoo RSS,neutral,0.0
+2026-07-14 23:30:00,AI Stocks: Falling Knife or Once-in-a-Decade Buying Opportunity?,NVDA,Yahoo RSS,neutral,0.0
+2026-07-13 20:13:00,Tesla Stock Is Falling. Can Robots Arrive Soon Enough to Save It? - Barron's,TSLA,Google RSS,negative,-0.8828741908073425
+2026-07-09 20:58:00,Meta’s stock rebounds as agentic AI coding and custom chips ease spending fears - MarketWatch,META,Google RSS,negative,-0.6729409694671631
+2026-07-13 16:49:00,"AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta - Investor's Business Daily",META,Google RSS,positive,0.47307923436164856
+2026-07-14 20:29:37,"Morgan Stanley (NYSE: MS) prices auto-callable notes tied to Alphabet, Meta and Microsoft - Stock Titan",META,Google RSS,neutral,0.0
+2026-07-09 21:55:04,Meta stock jumps on AI model pricing and cloud plans - MSN,META,Google RSS,negative,-0.6252493858337402
+2026-07-13 16:44:36,Traders are betting on a comeback quarter for Netflix - CNBC,NFLX,Google RSS,neutral,0.0
+2026-07-14 20:59:03,Here’s How Much Traders See Netflix Stock Moving After Earnings This Week - Investopedia,NFLX,Google RSS,neutral,0.0
+2026-07-14 22:42:45,"Ahead of Earnings, Traders Can Tune Into These Netflix ETFs - ETF Database",NFLX,Google RSS,neutral,0.0
+2026-07-13 13:00:02,"Netflix Stock is at New Lows, But Its FCF Is Strong - Is NFLX Too Cheap? - Barchart.com",NFLX,Google RSS,negative,-0.6692575216293335
+2026-07-14 20:59:03,Here’s How Much Traders See Netflix Stock Moving After Earnings This Week,NFLX,Yahoo RSS,neutral,0.0
+2026-07-13 22:36:49,"S&P 500, Nasdaq, Dow End Lower As US-Iran War Fear Remerges — PSKY, META, GOOGL, INTC, NFLX In Focus",NFLX,Yahoo RSS,negative,-0.7486525177955627
