@@ -47,3 +47,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-15 18:11:15,Microsoft Stock (NASDAQ:MSFT) Jumps as Microsoft Arms Sales Teams to Tackle AI Competitors - TipRanks,MSFT,Google RSS,positive,0.6614883542060852
 2026-07-15 17:20:00,"In 7 Words, Fed Chair Kevin Warsh May Have Just Confirmed the Stock Market's Biggest Fear",NVDA,Yahoo RSS,neutral,0.0
 2026-07-15 20:19:00,"Nasdaq closes higher as Apple, soft PPI lift stocks - Proactive financial news",AAPL,Google RSS,positive,0.8119913339614868
+2026-07-15 21:34:07,"[Key Points on NY Stocks] Apple rose 4%, PayPal surged, while SpaceX declined (as of the 15th). - Moomoo",AAPL,Google RSS,positive,0.7894685864448547
+2026-07-15 10:54:31,"Markets News, July 15, 2026: Indexes End Higher After Earnings Flurry; Inflation Reading Unexpectedly Declines; PayPal Jumps on $53B Bid Report",TSLA,Yahoo RSS,negative,-0.7153581976890564
