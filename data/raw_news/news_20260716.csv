@@ -39,7 +39,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-16 11:34:50,Microsoft stock drops 30% despite strong AI-dri... - Pluang,MSFT,Google RSS,negative,-0.9677785634994508
 2026-07-16 11:15:51,8 Small Stocks Soar So Explosively You'll Forget About The 'Mag 7',TSLA,Yahoo RSS,neutral,0.0
 2026-07-16 11:55:19,"Stocks Mostly Down Pre-Bell as Investors Await More Earnings, Retail Sales Data",AAPL,Yahoo RSS,negative,-0.9348323941230774
-2026-07-16 13:35:37,Amazon's AWS growth and strong retail sales boo... - Pluang,AMZN,Google RSS,positive,0.9309467077255249
+2026-07-16 13:35:37,Amazon's AWS growth and strong retail sales boo... - Pluang,AMZN,Google RSS,positive,0.9309467077255248
 2026-07-16 12:50:00,Retail Sales Rise Just 0.2% in June,AMZN,Yahoo RSS,negative,-0.4560680389404297
 2026-07-16 12:44:51,"Retail sales up just 0.2% in June, but excluding business at the gas pump, shoppers are resilient",AMZN,Yahoo RSS,positive,0.9360855221748352
 2026-07-16 13:25:00,Investors Should Stop Overlooking the World's Top 3 Auto Stocks,NVDA,Yahoo RSS,neutral,0.0
@@ -47,3 +47,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-13 13:00:02,"Netflix Stock is at New Lows, But Its FCF Is Strong - Is NFLX Too Cheap? - Barchart",NFLX,Google RSS,negative,-0.7152521014213562
 2026-07-16 11:55:19,"Stocks Mostly Down Pre-Bell as Investors Await More Earnings, Retail Sales Data",NFLX,Yahoo RSS,negative,-0.9348323941230774
 2026-07-16 10:31:16,"Stock market today: Dow rises, S&P 500 and Nasdaq fall as chip stocks slide after TSMC earnings",NFLX,Yahoo RSS,negative,-0.9616928100585938
+2026-07-16 14:06:00,Retail Sales Rose Less Than Expected in June as Gasoline Prices Fell,AMZN,Yahoo RSS,negative,-0.5539894104003906
+2026-07-15 14:41:03,"‘The Trajectory is Off,’ Says Top Investor About Nvidia Stock - TipRanks",NVDA,Google RSS,negative,-0.8119216561317444
+2026-07-16 16:04:32,Analysts’ Opinions Are Mixed on These Consumer Cyclical Stocks: Tesla (TSLA) and Adient (ADNT) - The Globe and Mail,TSLA,Google RSS,negative,-0.6338022351264954
+2026-07-16 15:46:00,Netflix heads into earnings with bulls unfazed by stock's rough year - Proactive financial news,NFLX,Google RSS,positive,0.6263529658317566
+2026-07-16 15:46:00,Netflix heads into earnings with bulls unfazed by stock's rough year,NFLX,Yahoo RSS,negative,-0.5946201086044312
+2026-07-16 15:21:04,Netflix (NFLX) Slid in Q2 Despite Strong Results,NFLX,Yahoo RSS,negative,-0.9752342700958252
