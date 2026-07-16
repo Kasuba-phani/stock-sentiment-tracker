@@ -2,23 +2,25 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-16 02:39:00,"Dow Jones Futures: Apple, Google Mask Dell, Sandisk, Micron Sell-Off; J.B. Hunt Jumps Late - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
 2026-07-15 21:34:07,"[Key Points on NY Stocks] Apple rose 4%, PayPal surged, while SpaceX declined (as of the 15th). - Moomoo",AAPL,Google RSS,positive,0.7894685864448547
 2026-07-16 01:29:39,"Dow, S&P 500 Futures Edge Higher As Record Bank Earnings, Cooling Inflation Lift Risk Appetite: ASTS, ATAI, AAPL, PYPL in Focus",AAPL,Yahoo RSS,positive,0.7203507423400879
-2026-07-15 23:03:05,TSMC's second-quarter profit seen hitting record on AI boom,AAPL,Yahoo RSS,positive,0.9242627620697021
+2026-07-15 23:03:05,TSMC's second-quarter profit seen hitting record on AI boom,AAPL,Yahoo RSS,positive,0.924262762069702
 2026-07-15 14:35:52,Alphabet stock may move 5.1% on July 22 earnings report - Investing.com,GOOGL,Google RSS,neutral,0.0
 2026-07-10 14:03:44,KeyBanc raises Alphabet stock price target on cloud strength - Investing.com,GOOGL,Google RSS,neutral,0.0
-2026-07-13 16:49:00,"AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta - Investor's Business Daily",AMZN,Google RSS,positive,0.47307923436164856
+2026-07-13 16:49:00,"AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta - Investor's Business Daily",AMZN,Google RSS,positive,0.4730792343616485
 2026-07-15 17:17:43,Is Amazon Stock Still Worth Buying Despite Its High Premium P/E? - The Globe and Mail,AMZN,Google RSS,neutral,0.0
 2026-07-15 12:15:42,Evercore ISI raises Microsoft stock price target on AI investment outlook By Investing.com - Investing.com,MSFT,Google RSS,neutral,0.0
-2026-07-12 07:18:46,Microsoft Stock Is Falling but AI Spending Still Points to Long Term Upside - simplywall.st,MSFT,Google RSS,negative,-0.9159258008003235
-2026-07-14 17:33:37,Microsoft shares drop on investor worries over AI spending despite strong cloud growth - eciks.org,MSFT,Google RSS,negative,-0.9556639790534973
+2026-07-12 07:18:46,Microsoft Stock Is Falling but AI Spending Still Points to Long Term Upside - simplywall.st,MSFT,Google RSS,negative,-0.9159258008003236
+2026-07-14 17:33:37,Microsoft shares drop on investor worries over AI spending despite strong cloud growth - eciks.org,MSFT,Google RSS,negative,-0.9556639790534972
 2026-07-15 12:49:30,"AI predicts Nvidia stock price for August 1, 2026 - Finbold",NVDA,Google RSS,neutral,0.0
 2026-07-13 20:13:00,Tesla Stock Is Falling. Can Robots Arrive Soon Enough to Save It? - Barron's,TSLA,Google RSS,negative,-0.8828741908073425
 2026-07-15 14:38:24,Tesla stock may move 5.7% on July 22 earnings report - Investing.com,TSLA,Google RSS,neutral,0.0
 2026-07-09 20:58:00,Meta’s stock rebounds as agentic AI coding and custom chips ease spending fears - MarketWatch,META,Google RSS,negative,-0.6729409694671631
-2026-07-13 16:49:00,"AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta - Investor's Business Daily",META,Google RSS,positive,0.47307923436164856
+2026-07-13 16:49:00,"AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta - Investor's Business Daily",META,Google RSS,positive,0.4730792343616485
 2026-07-09 21:55:04,Meta stock jumps on AI model pricing and cloud plans - MSN,META,Google RSS,negative,-0.6252493858337402
-2026-07-15 16:30:00,"Dell, Micron, SanDisk tumble as AI hardware rally hits reversal",META,Yahoo RSS,negative,-0.9123944044113159
+2026-07-15 16:30:00,"Dell, Micron, SanDisk tumble as AI hardware rally hits reversal",META,Yahoo RSS,negative,-0.912394404411316
 2026-07-13 16:44:36,Traders are betting on a comeback quarter for Netflix - CNBC,NFLX,Google RSS,neutral,0.0
 2026-07-13 13:00:02,"Netflix Stock is at New Lows, But Its FCF Is Strong - Is NFLX Too Cheap? - Barchart.com",NFLX,Google RSS,negative,-0.6692575216293335
 2026-07-14 22:51:22,"Ahead of Earnings, Traders Can Tune Into These Netflix ETFs - ETF Database",NFLX,Google RSS,neutral,0.0
-2026-07-15 11:37:35,Netflix stock is down 20% in 2026: can Thursday's earnings reverse the slide? - Invezz,NFLX,Google RSS,negative,-0.9396685361862183
+2026-07-15 11:37:35,Netflix stock is down 20% in 2026: can Thursday's earnings reverse the slide? - Invezz,NFLX,Google RSS,negative,-0.9396685361862184
 2026-07-14 20:59:03,Here’s How Much Traders See Netflix Stock Moving After Earnings This Week,NFLX,Yahoo RSS,neutral,0.0
+2026-07-14 13:16:47,Apple downgraded to Underweight as KeyBanc believes rising prices will slow growth - Seeking Alpha,AAPL,Google RSS,negative,-0.9301595091819763
+2026-07-16 05:36:02,"TSMC Q2 profit jumps 77% to record, far surpasses expectations",NVDA,Yahoo RSS,positive,0.9472313523292542
