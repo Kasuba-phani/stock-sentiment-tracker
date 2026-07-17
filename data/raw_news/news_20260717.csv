@@ -73,17 +73,25 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-17 13:40:16,Apple stock's 12-day momentum triggers sell signal not seen since 2020 (AAPL:NASDAQ) - Seeking Alpha,AAPL,Google RSS,neutral,0.0
 2026-07-17 14:02:12,Apple stock's 12-day momentum triggers sell signal not seen since 2020 - MSN,AAPL,Google RSS,neutral,0.0
 2026-07-17 13:51:22,Apple moves back ahead of Nvidia in the stock market on renewed investor confidence - marketscreener.com,AAPL,Google RSS,positive,0.7770360112190247
-2026-07-17 07:00:00,Dow Jones| Nasdaq | S&P 500 | US Stock Market Today | Live: US stocks open lower as chip rout extends; Netflix slides,AAPL,Bing RSS,negative,-0.9669937491416931
+2026-07-17 07:00:00,Dow Jones| Nasdaq | S&P 500 | US Stock Market Today | Live: US stocks open lower as chip rout extends; Netflix slides,AAPL,Bing RSS,negative,-0.9669937491416932
 2026-07-17 12:30:13,3 Stocks Smart Investors Are Buying in July,GOOGL,Yahoo RSS,neutral,0.0
 2026-07-17 13:46:00,"Stocks slide, oil prices jump as tech, Mideast war in focus",AMZN,Yahoo RSS,negative,-0.8610855937004089
 2026-07-17 13:51:22,Apple moves back ahead of Nvidia in the stock market on renewed investor confidence - marketscreener.com,NVDA,Google RSS,positive,0.7770360112190247
 2026-07-17 13:46:00,"Stocks slide, oil prices jump as tech, Mideast war in focus",NVDA,Yahoo RSS,negative,-0.8610855937004089
 2026-07-17 11:15:00,Here’s How Much Traders See Tesla Stock Moving After Earnings,TSLA,Yahoo RSS,neutral,0.0
 2026-07-13 16:44:36,Traders are betting on a comeback quarter for Netflix - CNBC,NFLX,Google RSS,neutral,0.0
-2026-07-17 13:17:00,Netflix stock hits a 52-week low after earnings—but analysts say investors are missing the bigger picture - Fortune,NFLX,Google RSS,negative,-0.9493022561073303
+2026-07-17 13:17:00,Netflix stock hits a 52-week low after earnings—but analysts say investors are missing the bigger picture - Fortune,NFLX,Google RSS,negative,-0.9493022561073304
 2026-07-17 14:13:11,Netflix stock plummets as streamer forecasts slower growth - Fox Business,NFLX,Google RSS,negative,-0.9458714127540588
-2026-07-17 11:56:58,"Netflix tumbles as slowing growth, less viewership data spook investors - Reuters",NFLX,Google RSS,negative,-0.9568256139755249
+2026-07-17 11:56:58,"Netflix tumbles as slowing growth, less viewership data spook investors - Reuters",NFLX,Google RSS,negative,-0.9568256139755248
 2026-07-17 09:35:11,“Lacks excitement”: Netflix tumbles 9% as weak earnings forecast deepens doubts over growth - The Mighty 790 KFGO,NFLX,Google RSS,negative,-0.967398464679718
 2026-07-16 15:02:00,"S&P 500 falls, heads for losing week, led by chipmakers; Netflix plunges: Live updates",NFLX,Bing RSS,negative,-0.8628040552139282
 2026-07-17 11:49:00,"Nasdaq under pressure after chip rout, Netflix miss weighs on sentiment",NFLX,Yahoo RSS,negative,-0.9272111058235168
 2026-07-17 09:23:45,"Stock market today: Nasdaq hammered by chips sell-off, Dow and S&P 500 fall after Netflix whiff",NFLX,Yahoo Global,negative,-0.9645923376083374
+2026-07-17 15:12:21,"Alphabet’s AI outlook: bull case, bear signals, and the Gemini delay - Investing.com",GOOGL,Google RSS,neutral,0.0
+2026-07-17 15:44:10,AWS Just Hit a $150 Billion Annual Run Rate. So Why Is Amazon Stock Still 9% Below Its High? - TIKR.com,AMZN,Google RSS,negative,-0.6283700466156006
+2026-07-17 15:59:13,"Tech share selloff rolls on, oil prices climb on Mideast clashes",AMZN,Yahoo RSS,positive,0.4225256145000458
+2026-07-17 15:00:54,Oracle is Falling Fast. Here’s Why This Wall Street Firm Believes The Stock Will Triple in 12 Months,MSFT,Yahoo RSS,neutral,0.0
+2026-07-17 15:59:13,"Tech share selloff rolls on, oil prices climb on Mideast clashes",NVDA,Yahoo RSS,positive,0.4225256145000458
+2026-07-17 14:48:45,Q2 Earnings Report Could Shift These Tesla ETFs Into High Gear - ETF Database,TSLA,Google RSS,negative,-0.6487720012664795
+2026-07-17 15:15:54,Analysts Still See Massive Upside for SK Hynix — The AI Cycle Isn’t Done But Questions Remain,META,Yahoo RSS,neutral,0.0
+2026-07-17 14:47:51,S&P 500 and Nasdaq slip as chip rout extends; Netflix slides - Reuters,NFLX,Google RSS,negative,-0.9506294131278992
