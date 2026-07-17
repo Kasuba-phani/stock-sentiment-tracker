@@ -123,3 +123,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-17 20:11:17,"US stocks sink this week, semiconductors walloped amid sell-off",MSFT,Yahoo RSS,negative,-0.960590124130249
 2026-07-17 20:43:04,"Tech share selloff rolls on, oil prices jump on Mideast clashes",NVDA,Yahoo RSS,positive,0.3671397864818573
 2026-07-17 20:29:13,Wall St ends lower for the day and week as chip selloff broadens - Reuters,NFLX,Google RSS,negative,-0.957243025302887
+2026-07-17 22:33:00,Top analyst resets Apple stock price target ahead of earnings,AAPL,Yahoo RSS,neutral,0.0
+2026-07-17 22:15:00,Netflix stock plunges to 52-week low following mixed earnings report - Times West Virginian,NFLX,Google RSS,negative,-0.9477234482765198
+2026-07-16 15:21:04,Netflix (NFLX) Slid in Q2 Despite Strong Results,NFLX,Yahoo Global,negative,-0.9752342700958252
