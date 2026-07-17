@@ -107,13 +107,19 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-17 09:29:01,Netflix stock plunges to 52-week low following mixed earnings report,NFLX,Bing RSS,negative,-0.9643348455429076
 2026-07-17 07:13:11,Netflix stock plummets as streamer forecasts slower growth,NFLX,Bing RSS,negative,-0.9608691930770874
 2026-07-17 17:13:45,"Update: US Equity Indexes Drop Amid Declines in Growth Sectors, Surge in Crude Oil as Washington-Tehran Widen Strikes",NFLX,Yahoo RSS,negative,-0.9668020606040956
-2026-07-17 19:34:00,"Berkshire’s Equity Portfolio Is Rallying, but the Apple Sales Still Sting - Barron's",AAPL,Google RSS,positive,0.48129913210868835
+2026-07-17 19:34:00,"Berkshire’s Equity Portfolio Is Rallying, but the Apple Sales Still Sting - Barron's",AAPL,Google RSS,positive,0.4812991321086883
 2026-07-17 19:33:00,Top analyst resets Apple stock price target ahead of earnings - thestreet.com,AAPL,Google RSS,neutral,0.0
 2026-07-17 20:00:17,"Dow Jones Falls as U.S.-Iran Conflict Escalates, Oil Prices Surge",GOOGL,Yahoo RSS,negative,-0.9069716334342957
 2026-07-17 17:13:00,5 Solid Stocks to Boost Your Portfolio as Retail Sales Continue to Surge,AMZN,Yahoo RSS,positive,0.9390409588813782
-2026-07-17 18:43:06,Microsoft stock trades higher as cloud growth supports valuation - ad-hoc-news.de,MSFT,Google RSS,positive,0.9210376143455505
+2026-07-17 18:43:06,Microsoft stock trades higher as cloud growth supports valuation - ad-hoc-news.de,MSFT,Google RSS,positive,0.9210376143455504
 2026-07-17 20:09:37,"Microsoft stock falls, analysts trim price targets ahead of Q4 earnings - Invezz",MSFT,Google RSS,negative,-0.9083669781684875
 2026-07-17 20:00:17,"Dow Jones Falls as U.S.-Iran Conflict Escalates, Oil Prices Surge",MSFT,Yahoo RSS,negative,-0.9069716334342957
 2026-07-17 20:00:17,"Dow Jones Falls as U.S.-Iran Conflict Escalates, Oil Prices Surge",NVDA,Yahoo RSS,negative,-0.9069716334342957
-2026-07-17 06:17:28,Netflix stock hits a 52-week low after earnings—but analysts say investors are missing the bigger picture,NFLX,Bing RSS,negative,-0.9521226286888123
+2026-07-17 06:17:28,Netflix stock hits a 52-week low after earnings—but analysts say investors are missing the bigger picture,NFLX,Bing RSS,negative,-0.9521226286888124
 2026-07-17 19:44:12,Sector Update: Consumer Stocks Decline Late Afternoon,NFLX,Yahoo RSS,negative,-0.9715571403503418
+2026-07-17 20:43:04,"Tech share selloff rolls on, oil prices jump on Mideast clashes",AAPL,Yahoo RSS,positive,0.3671397864818573
+2026-07-17 20:11:17,"US stocks sink this week, semiconductors walloped amid sell-off",AAPL,Yahoo RSS,negative,-0.960590124130249
+2026-07-17 19:34:00,"Berkshire’s Equity Portfolio Is Rallying, but the Apple Sales Still Sting",AAPL,Yahoo RSS,positive,0.9260887503623962
+2026-07-17 20:11:17,"US stocks sink this week, semiconductors walloped amid sell-off",MSFT,Yahoo RSS,negative,-0.960590124130249
+2026-07-17 20:43:04,"Tech share selloff rolls on, oil prices jump on Mideast clashes",NVDA,Yahoo RSS,positive,0.3671397864818573
+2026-07-17 20:29:13,Wall St ends lower for the day and week as chip selloff broadens - Reuters,NFLX,Google RSS,negative,-0.957243025302887
