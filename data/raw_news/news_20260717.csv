@@ -6,28 +6,32 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-16 13:57:47,"Alphabet stock rises on AI, cloud growth, and s... - Pluang",GOOGL,Google RSS,positive,0.8215815424919128
 2026-07-16 21:12:22,"Google (Goog) Stock Fails at Resistance as Gemini Setbacks, Rising Costs Test Investor Confidence - FXLeaders",GOOGL,Google RSS,negative,-0.9295563101768494
 2026-07-15 15:03:00,Dow drops 100 points; S&P 500 closes lower as Alphabet and chip shares sell off: Live updates,GOOGL,Bing RSS,negative,-0.8927090167999268
-2026-07-16 21:31:03,"S&P 500, Nasdaq, Dow End Lower As Chip Stocks Slide On TSMC Capex Concerns — TSM, MU, NVDA, UNH, GOOGL In Focus",GOOGL,Yahoo RSS,negative,-0.9465689063072205
+2026-07-16 21:31:03,"S&P 500, Nasdaq, Dow End Lower As Chip Stocks Slide On TSMC Capex Concerns — TSM, MU, NVDA, UNH, GOOGL In Focus",GOOGL,Yahoo RSS,negative,-0.9465689063072203
 2026-07-16 20:44:09,GOOGL Stock Falls 5% As Google’s Flagship AI Model Reportedly Runs Behind Schedule — Why Retail Traders Aren’t Worried,GOOGL,Yahoo RSS,negative,-0.9627952575683594
-2026-07-13 16:49:00,"AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta - Investor's Business Daily",AMZN,Google RSS,positive,0.47307923436164856
-2026-07-16 17:58:48,Amazon's AWS sales surge boosts stock outlook w... - Pluang,AMZN,Google RSS,positive,0.9468976855278015
-2026-07-16 13:35:37,Amazon's AWS growth and strong retail sales boo... - Pluang,AMZN,Google RSS,positive,0.9309467077255249
+2026-07-13 16:49:00,"AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta - Investor's Business Daily",AMZN,Google RSS,positive,0.4730792343616485
+2026-07-16 17:58:48,Amazon's AWS sales surge boosts stock outlook w... - Pluang,AMZN,Google RSS,positive,0.9468976855278016
+2026-07-16 13:35:37,Amazon's AWS growth and strong retail sales boo... - Pluang,AMZN,Google RSS,positive,0.9309467077255248
 2026-07-16 18:56:06,Microsoft (NASDAQ: MSFT) Stock Rallies Against Nasdaq Slide Despite AI Spending Discount - TechStock²,MSFT,Google RSS,negative,-0.9275469183921814
-2026-07-16 11:34:50,Microsoft stock drops 30% despite strong AI-dri... - Pluang,MSFT,Google RSS,negative,-0.9677784442901611
-2026-07-12 07:18:46,Microsoft Stock Is Falling but AI Spending Still Points to Long Term Upside - simplywall.st,MSFT,Google RSS,negative,-0.9159258008003235
+2026-07-16 11:34:50,Microsoft stock drops 30% despite strong AI-dri... - Pluang,MSFT,Google RSS,negative,-0.9677784442901612
+2026-07-12 07:18:46,Microsoft Stock Is Falling but AI Spending Still Points to Long Term Upside - simplywall.st,MSFT,Google RSS,negative,-0.9159258008003236
 2026-07-15 12:15:42,Evercore ISI raises Microsoft stock price target on AI investment outlook By Investing.com - Investing.com,MSFT,Google RSS,neutral,0.0
-2026-07-14 17:33:37,Microsoft shares drop on investor worries over AI spending despite strong cloud growth - eciks.org,MSFT,Google RSS,negative,-0.9556639790534973
-2026-07-16 16:00:35,Oracle Risks Falling Behind in AI Race as Spending Binge Bites,MSFT,Yahoo RSS,negative,-0.9668582081794739
+2026-07-14 17:33:37,Microsoft shares drop on investor worries over AI spending despite strong cloud growth - eciks.org,MSFT,Google RSS,negative,-0.9556639790534972
+2026-07-16 16:00:35,Oracle Risks Falling Behind in AI Race as Spending Binge Bites,MSFT,Yahoo RSS,negative,-0.966858208179474
 2026-07-16 18:12:02,"Why AI Chip Stocks Are Falling: Nvidia, Micron, AMD and TSMC All Slide - Stocks Down Under",NVDA,Google RSS,negative,-0.9685561656951904
-2026-07-16 21:31:03,"S&P 500, Nasdaq, Dow End Lower As Chip Stocks Slide On TSMC Capex Concerns — TSM, MU, NVDA, UNH, GOOGL In Focus",NVDA,Yahoo RSS,negative,-0.9465689063072205
+2026-07-16 21:31:03,"S&P 500, Nasdaq, Dow End Lower As Chip Stocks Slide On TSMC Capex Concerns — TSM, MU, NVDA, UNH, GOOGL In Focus",NVDA,Yahoo RSS,negative,-0.9465689063072203
 2026-07-13 20:13:00,Tesla Stock Is Falling. Can Robots Arrive Soon Enough to Save It? - Barron's,TSLA,Google RSS,negative,-0.8828741908073425
 2026-07-15 15:12:09,Tesla stock may move 5.7% on July 22 earnings report - Investing.com,TSLA,Google RSS,neutral,0.0
 2026-07-16 16:31:00,Here’s How Much Traders See Netflix Stock Moving After Earnings - Investopedia,TSLA,Google RSS,neutral,0.0
-2026-07-13 16:49:00,"AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta - Investor's Business Daily",META,Google RSS,positive,0.47307923436164856
+2026-07-13 16:49:00,"AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta - Investor's Business Daily",META,Google RSS,positive,0.4730792343616485
 2026-07-16 20:44:09,GOOGL Stock Falls 5% As Google’s Flagship AI Model Reportedly Runs Behind Schedule — Why Retail Traders Aren’t Worried,META,Yahoo RSS,negative,-0.9627952575683594
-2026-07-16 22:20:36,"Netflix earnings forecast disappoints Wall Street, shares tumble - Reuters",NFLX,Google RSS,negative,-0.9524059891700745
+2026-07-16 22:20:36,"Netflix earnings forecast disappoints Wall Street, shares tumble - Reuters",NFLX,Google RSS,negative,-0.9524059891700744
 2026-07-14 20:59:03,Here’s How Much Traders See Netflix Stock Moving After Earnings This Week - Investopedia,NFLX,Google RSS,neutral,0.0
 2026-07-16 22:51:21,Netflix shares fell 8% after it turned in lukewarm earnings and cut back on how frequently it releases viewing data - Business Insider,NFLX,Google RSS,negative,-0.9732763171195984
-2026-07-16 21:13:23,Netflix reports Q2 earnings today after stock falls 40% in a year amid growth concerns - eciks.org,NFLX,Google RSS,negative,-0.9482753872871399
-2026-07-16 21:43:00,"Netflix shares fall as sales forecast disappoints, growth slows - Ad Age",NFLX,Google RSS,negative,-0.9632595181465149
+2026-07-16 21:13:23,Netflix reports Q2 earnings today after stock falls 40% in a year amid growth concerns - eciks.org,NFLX,Google RSS,negative,-0.94827538728714
+2026-07-16 21:43:00,"Netflix shares fall as sales forecast disappoints, growth slows - Ad Age",NFLX,Google RSS,negative,-0.9632595181465148
 2026-07-13 13:00:02,"Netflix Stock is at New Lows, But Its FCF Is Strong - Is NFLX Too Cheap? - Barchart.com",NFLX,Google RSS,negative,-0.6692575216293335
 2026-07-16 21:50:02,Netflix reports higher profits as investors worry about growth,NFLX,Yahoo RSS,positive,0.911710798740387
+2026-07-16 03:31:00,"Stock market today: Dow, S&P 500, Nasdaq drop as chip stocks tumble, Alphabet stock sinks",GOOGL,Bing RSS,negative,-0.9573728442192078
+2026-07-16 20:02:34,Netflix shares slide on disappointing growth forecasts - Financial Times,NFLX,Google RSS,negative,-0.9563596248626709
+2026-07-17 00:56:00,Netflix (NASDAQ: NFLX) Share Price Drops 21% Despite Dominant Streaming Position And Strong Revenue Outlook - foreignpolicyjournal.com,NFLX,Google RSS,negative,-0.9676226377487183
+2026-07-17 01:36:42,"Nasdaq, Dow, S&P 500 Futures Slip As Chip Selloff Overshadows Strong Earnings Season: NFLX, SNDK, SPCX, MRVL Stocks In Focus",NFLX,Yahoo RSS,negative,-0.944940984249115
