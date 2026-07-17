@@ -43,5 +43,30 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-17 07:16:09,Netflix disappoints Wall Street 🚩 Stock drops 9% after disappointing outlook - XTB.com,NFLX,Google RSS,negative,-0.9622533321380616
 2026-07-17 04:23:40,Netflix stock plunges 9% after earnings: why more downside may be ahead - Invezz,NFLX,Google RSS,negative,-0.7818600535392761
 2026-07-15 09:18:13,"Stock market today: Dow, S&P 500, Nasdaq rise as Apple notches record high",AAPL,Yahoo Global,positive,0.8929269909858704
-2026-07-17 09:23:45,"Stock market today: Stocks fall after Netflix whiff, chips sell-off hammers Nasdaq",NFLX,Yahoo RSS,negative,-0.9670285582542419
+2026-07-17 09:23:45,"Stock market today: Stocks fall after Netflix whiff, chips sell-off hammers Nasdaq",NFLX,Yahoo RSS,negative,-0.967028558254242
 2026-07-17 09:15:49,"""Lacks excitement"": Netflix tumbles 9% as weak earnings forecast deepens doubts over growth",NFLX,Yahoo RSS,negative,-0.9723427295684814
+2026-07-17 11:15:00,Here’s How Much Traders See Tesla Stock Moving After Earnings - Investopedia,AAPL,Google RSS,neutral,0.0
+2026-07-17 10:53:13,"HSBC upgrades Apple to Buy, sees ""strong cycle ahead"" - Investing.com",AAPL,Google RSS,positive,0.6070912480354309
+2026-07-17 11:21:08,"HSBC upgrades Apple to Buy, sees ""strong cycle ahead""",AAPL,Yahoo RSS,positive,0.9424792528152466
+2026-07-16 20:31:28,Dow drops 100 points; S&P 500 closes lower as Alphabet and chip shares sell off: Live updates - CNBC,GOOGL,Google RSS,negative,-0.9145923256874084
+2026-07-17 08:19:00,"20 hottest tech stocks of the week: IBM, SK Hynix, SpaceX, Alphabet - Interactive Investor",GOOGL,Google RSS,neutral,0.0
+2026-07-17 12:05:16,"Dow Jones Futures Fall As Netflix Dives, SpaceX Scrubs Launch; AI Stocks Try To Halt Sell-Off",GOOGL,Yahoo RSS,negative,-0.9583012461662292
+2026-07-17 10:21:31,Investors rotate within AI trade as slowing hyperscaler spending becomes a growing concern,GOOGL,Yahoo RSS,negative,-0.7629462480545044
+2026-07-17 10:05:00,These 2 Industrial Stocks Will Benefit From the Trillion-Dollar AI Spending Boom,GOOGL,Yahoo RSS,positive,0.8067883253097534
+2026-07-17 10:21:31,Investors rotate within AI trade as slowing hyperscaler spending becomes a growing concern,AMZN,Yahoo RSS,negative,-0.7629462480545044
+2026-07-17 10:05:00,These 2 Industrial Stocks Will Benefit From the Trillion-Dollar AI Spending Boom,AMZN,Yahoo RSS,positive,0.8067883253097534
+2026-07-17 09:22:00,"Microsoft (NASDAQ: MSFT) Stock Price Surges 1.8% As Nasdaq Drops, Valuation Discount Draws Investor Attention - foreignpolicyjournal.com",MSFT,Google RSS,negative,-0.6471517086029053
+2026-07-17 10:21:31,Investors rotate within AI trade as slowing hyperscaler spending becomes a growing concern,MSFT,Yahoo RSS,negative,-0.7629462480545044
+2026-07-17 10:05:00,These 2 Industrial Stocks Will Benefit From the Trillion-Dollar AI Spending Boom,MSFT,Yahoo RSS,positive,0.8067883253097534
+2026-07-17 11:36:33,"Chip stocks fall globally, pulling U.S. stock futures lower",NVDA,Yahoo RSS,negative,-0.9649630188941956
+2026-07-17 11:15:00,Here’s How Much Traders See Tesla Stock Moving After Earnings - Investopedia,TSLA,Google RSS,neutral,0.0
+2026-07-17 08:47:29,Meta plans to appoint an Amazon computing exec amid cloud business push: report - Seeking Alpha,META,Google RSS,neutral,0.0
+2026-07-17 10:21:31,Investors rotate within AI trade as slowing hyperscaler spending becomes a growing concern,META,Yahoo RSS,negative,-0.7629462480545044
+2026-07-17 10:05:00,These 2 Industrial Stocks Will Benefit From the Trillion-Dollar AI Spending Boom,META,Yahoo RSS,positive,0.8067883253097534
+2026-07-17 09:16:09,"""Lacks excitement"": Netflix tumbles 9% as weak earnings forecast deepens doubts over growth - Reuters",NFLX,Google RSS,negative,-0.9685407280921936
+2026-07-17 11:55:29,KGI Securities downgrades Netflix stock rating on growth concerns - Investing.com,NFLX,Google RSS,neutral,0.0
+2026-07-17 12:02:06,"Intuitive Surgical, Netflix And Other Big Stocks Moving Lower In Friday’s Pre-Market Session - Benzinga",NFLX,Google RSS,negative,-0.9605907797813416
+2026-07-17 04:53:00,"Stock Market Today (July 17, 2026): Nasdaq futures slide as global tech sell-off deepens, Netflix sinks",NFLX,Bing RSS,negative,-0.9646316766738892
+2026-07-17 12:05:16,"Dow Jones Futures Fall As Netflix Dives, SpaceX Scrubs Launch; AI Stocks Try To Halt Sell-Off",NFLX,Yahoo RSS,negative,-0.9583012461662292
+2026-07-17 12:00:00,Nasdaq to lead US stocks lower as chip sell-off deepens; Netflix disappoints,NFLX,Yahoo RSS,negative,-0.9581092000007629
+2026-07-17 09:15:49,"Netflix tumbles as slowing growth, less viewership data spook investors",NFLX,Yahoo RSS,negative,-0.9691368341445923
