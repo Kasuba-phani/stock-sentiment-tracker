@@ -5,7 +5,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-16 06:57:00,AAPL: Apple Stock Closes at New All-Time High as Traders Expect Bumper Earnings - TradingView,AAPL,Google RSS,negative,-0.5702929496765137
 2026-07-18 17:01:38,The Chip Index Just Fell Into a Bear Market. Apple Is Sitting Near an All-Time High Anyway. - The Globe and Mail,AAPL,Google RSS,negative,-0.5620990991592407
 2026-07-17 19:34:00,"Berkshire’s Equity Portfolio Is Rallying, but the Apple Sales Still Sting - Barron's",AAPL,Google RSS,positive,0.4813007414340973
-2026-07-18 15:03:10,Apple (AAPL) Upgraded to Buy as HSBC Anticipates Strong Growth C - GuruFocus,AAPL,Google RSS,positive,0.9455291628837585
+2026-07-18 15:03:10,Apple (AAPL) Upgraded to Buy as HSBC Anticipates Strong Growth C - GuruFocus,AAPL,Google RSS,positive,0.9455291628837584
 2026-07-17 12:33:00,HSBC upgrades Apple stock price target ahead of earnings,AAPL,Bing RSS,neutral,0.0
 2026-07-18 10:41:00,The Chip Index Just Fell Into a Bear Market. Apple Is Sitting Near an All-Time High Anyway.,AAPL,Bing RSS,negative,-0.7129508256912231
 2026-07-18 14:21:32,The S&P 500 Is Becoming a Tech Index in Disguise — But That May Not Be the Risk Investors Think,AAPL,Yahoo RSS,neutral,0.0
@@ -16,7 +16,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-16 06:30:03,Earnings growth & price strength make Alphabet (GOOGL) a stock to watch,GOOGL,Bing RSS,neutral,0.0
 2026-07-18 14:21:32,The S&P 500 Is Becoming a Tech Index in Disguise — But That May Not Be the Risk Investors Think,GOOGL,Yahoo RSS,neutral,0.0
 2026-07-18 12:05:00,Prediction: The Most Important Stock in the Dow Jones Will Issue a 4-for-1 Stock Split Before the End of 2026,GOOGL,Yahoo RSS,neutral,0.0
-2026-07-13 16:49:00,"AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta - Investor's Business Daily",AMZN,Google RSS,positive,0.47307923436164856
+2026-07-13 16:49:00,"AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta - Investor's Business Daily",AMZN,Google RSS,positive,0.4730792343616485
 2026-07-17 15:44:10,AWS Just Hit a $150 Billion Annual Run Rate. So Why Is Amazon Stock Still 9% Below Its High? - TIKR.com,AMZN,Google RSS,negative,-0.6283689141273499
 2026-07-18 14:21:32,The S&P 500 Is Becoming a Tech Index in Disguise — But That May Not Be the Risk Investors Think,AMZN,Yahoo RSS,neutral,0.0
 2026-07-18 04:44:58,Should You Buy Microsoft Stock Before the Huge Investor Update? - The Globe and Mail,MSFT,Google RSS,neutral,0.0
@@ -25,8 +25,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-17 12:09:35,Microsoft stock bull vs. bear case: what the $401 price tag really means - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-07-16 18:56:06,Microsoft (NASDAQ: MSFT) Stock Rallies Against Nasdaq Slide Despite AI Spending Discount - TechStock²,MSFT,Google RSS,negative,-0.9275469183921814
 2026-07-15 12:15:42,Evercore ISI raises Microsoft stock price target on AI investment outlook By Investing.com - Investing.com,MSFT,Google RSS,neutral,0.0
-2026-07-16 11:34:50,Microsoft stock drops 30% despite strong AI-dri... - Pluang,MSFT,Google RSS,negative,-0.9677784442901611
-2026-07-14 17:33:37,Microsoft shares drop on investor worries over AI spending despite strong cloud growth - eciks.org,MSFT,Google RSS,negative,-0.9556639790534973
+2026-07-16 11:34:50,Microsoft stock drops 30% despite strong AI-dri... - Pluang,MSFT,Google RSS,negative,-0.9677784442901612
+2026-07-14 17:33:37,Microsoft shares drop on investor worries over AI spending despite strong cloud growth - eciks.org,MSFT,Google RSS,negative,-0.9556639790534972
 2026-07-17 09:22:00,"Microsoft (NASDAQ: MSFT) Stock Price Surges 1.8% As Nasdaq Drops, Valuation Discount Draws Investor Attention - foreignpolicyjournal.com",MSFT,Google RSS,negative,-0.6471517086029053
 2026-07-18 14:21:32,The S&P 500 Is Becoming a Tech Index in Disguise — But That May Not Be the Risk Investors Think,MSFT,Yahoo RSS,neutral,0.0
 2026-07-17 20:11:17,"US stocks sink this week, semiconductors walloped amid sell-off",MSFT,Yahoo RSS,negative,-0.960590124130249
@@ -40,16 +40,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-17 08:47:29,Meta plans to appoint an Amazon computing exec amid cloud business push: report - Seeking Alpha,META,Google RSS,neutral,0.0
 2026-07-18 14:21:32,The S&P 500 Is Becoming a Tech Index in Disguise — But That May Not Be the Risk Investors Think,META,Yahoo RSS,neutral,0.0
 2026-07-16 16:31:00,Here’s How Much Traders See Netflix Stock Moving After Earnings - Investopedia,NFLX,Google RSS,neutral,0.0
-2026-07-16 20:02:34,Netflix shares slide on disappointing growth forecasts - Financial Times,NFLX,Google RSS,negative,-0.9563596248626709
+2026-07-16 20:02:34,Netflix shares slide on disappointing growth forecasts - Financial Times,NFLX,Google RSS,negative,-0.9563596248626708
 2026-07-17 20:44:00,Netflix stock plunges to 52-week low following mixed earnings report - Los Angeles Times,NFLX,Google RSS,negative,-0.9494255781173706
-2026-07-16 20:04:09,"Netflix earnings forecast disappoints Wall Street, shares tumble - Reuters",NFLX,Google RSS,negative,-0.9524059891700745
-2026-07-17 03:44:13,Netflix stock falls over 8% after disappointing earnings forecast - In Business Madison,NFLX,Google RSS,negative,-0.9727985262870789
+2026-07-16 20:04:09,"Netflix earnings forecast disappoints Wall Street, shares tumble - Reuters",NFLX,Google RSS,negative,-0.9524059891700744
+2026-07-17 03:44:13,Netflix stock falls over 8% after disappointing earnings forecast - In Business Madison,NFLX,Google RSS,negative,-0.9727985262870787
 2026-07-17 14:13:11,Netflix stock plummets as streamer forecasts slower growth - Fox Business,NFLX,Google RSS,negative,-0.9458714127540588
-2026-07-17 13:48:30,"Netflix tumbles as slowing growth, less viewership data spook investors - Reuters",NFLX,Google RSS,negative,-0.9568256139755249
+2026-07-17 13:48:30,"Netflix tumbles as slowing growth, less viewership data spook investors - Reuters",NFLX,Google RSS,negative,-0.9568256139755248
 2026-07-18 08:30:37,Netflix (NASDAQ:NFLX): A Top Affordable Growth Stock With Strong Momentum - ChartMill,NFLX,Google RSS,positive,0.8036542534828186
 2026-07-17 22:31:24,Wall St ends lower for the day and week as chip selloff broadens - Reuters,NFLX,Google RSS,negative,-0.957243025302887
 2026-07-16 20:19:00,Netflix shares fell 8% after it turned in lukewarm earnings and cut back on how frequently it releases viewing data - Business Insider,NFLX,Google RSS,negative,-0.9732763171195984
-2026-07-16 21:13:23,Netflix reports Q2 earnings today after stock falls 40% in a year amid growth concerns - eciks.org,NFLX,Google RSS,negative,-0.9482753872871399
-2026-07-17 17:15:00,Netflix stock plunges to 52-week low following mixed earnings report - The Derrick,NFLX,Google RSS,negative,-0.9584247469902039
+2026-07-16 21:13:23,Netflix reports Q2 earnings today after stock falls 40% in a year amid growth concerns - eciks.org,NFLX,Google RSS,negative,-0.94827538728714
+2026-07-17 17:15:00,Netflix stock plunges to 52-week low following mixed earnings report - The Derrick,NFLX,Google RSS,negative,-0.958424746990204
 2026-07-17 11:55:29,KGI Securities downgrades Netflix stock rating on growth concerns - Investing.com,NFLX,Google RSS,neutral,0.0
-2026-07-17 06:17:28,Netflix stock hits a 52-week low after earnings—but analysts say investors are missing the bigger picture,NFLX,Bing RSS,negative,-0.9521226286888123
+2026-07-17 06:17:28,Netflix stock hits a 52-week low after earnings—but analysts say investors are missing the bigger picture,NFLX,Bing RSS,negative,-0.9521226286888124
+2026-07-19 02:27:58,South Korean stocks emerge as key gauge for global AI sentiment,NVDA,Yahoo RSS,positive,0.9174444079399109
+2026-07-19 01:35:00,Mark Zuckerberg's Meta and Other Hyperscalers Face a Major Bottleneck. Here Are 2 Industrial Stocks That Will Benefit,META,Yahoo RSS,neutral,0.0
