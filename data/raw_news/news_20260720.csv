@@ -6,9 +6,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-19 13:33:32,"‘This is a Must,’ Says Top Investor About Alphabet Stock - TipRanks",GOOGL,Google RSS,positive,0.4767250716686249
 2026-07-18 12:10:55,"Smart Investor: Top Sector Stock Picks, What to Watch in Tesla and Alphabet Earnings, and the AI Debt Wave - Morningstar",GOOGL,Google RSS,neutral,0.0
 2026-07-19 13:17:16,Alphabet prepares to report earnings that could shift AI trading and chip stocks - Межа. Новини України.,GOOGL,Google RSS,neutral,0.0
-2026-07-13 16:49:00,"AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta - Investor's Business Daily",AMZN,Google RSS,positive,0.47307923436164856
+2026-07-13 16:49:00,"AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta - Investor's Business Daily",AMZN,Google RSS,positive,0.4730792343616485
 2026-07-17 15:44:10,AWS Just Hit a $150 Billion Annual Run Rate. So Why Is Amazon Stock Still 9% Below Its High? - TIKR.com,AMZN,Google RSS,negative,-0.6283689141273499
-2026-07-20 02:23:42,Amazon stock trades near record highs as retail and cloud growth support valuation - ad-hoc-news.de,AMZN,Google RSS,positive,0.9242019057273865
+2026-07-20 02:23:42,Amazon stock trades near record highs as retail and cloud growth support valuation - ad-hoc-news.de,AMZN,Google RSS,positive,0.9242019057273864
 2026-07-18 14:21:32,The S&P 500 Is Becoming a Tech Index in Disguise — But That May Not Be the Risk Investors Think,AMZN,Yahoo RSS,neutral,0.0
 2026-07-19 14:22:00,Microsoft Stock Sits at $394 as Analysts Cut Targets. Why Most Still Say Buy - TIKR.com,MSFT,Google RSS,neutral,0.0
 2026-07-18 03:43:43,Should You Buy Microsoft Stock Before the Huge Investor Update? - The Motley Fool,MSFT,Google RSS,neutral,0.0
@@ -20,7 +20,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-18 13:35:22,"3M (MMM) Partners With Microsoft, Is The Stock Still Cheap? - simplywall.st",MSFT,Google RSS,neutral,0.0
 2026-07-19 13:15:02,Why Analysts Still See Nvidia as the Top Chip Stock to Buy for Q2 Earnings Season - Barchart.com,NVDA,Google RSS,neutral,0.0
 2026-07-17 20:55:29,"Chip stock pullback sparks worries about AI rally strength, leveraged trades - Reuters",NVDA,Google RSS,negative,-0.5134575963020325
-2026-07-20 00:03:00,Memory Chips Just Fell Into a Bear Market. Micron Is Down 30% From Its High Even as AI Demand Booms.,NVDA,Yahoo RSS,negative,-0.9738196134567261
+2026-07-20 00:03:00,Memory Chips Just Fell Into a Bear Market. Micron Is Down 30% From Its High Even as AI Demand Booms.,NVDA,Yahoo RSS,negative,-0.973819613456726
 2026-07-17 11:15:00,Here’s How Much Traders See Tesla Stock Moving After Earnings - Investopedia,TSLA,Google RSS,neutral,0.0
 2026-07-18 11:23:08,Tesla (TSLA) Stock Looks Strong On Returns But Rich On Sales - simplywall.st,TSLA,Google RSS,positive,0.8151999711990356
 2026-07-17 14:09:17,Tesla stock faces headwinds from chip selloff ahead of July 22 earnings - eciks.org,TSLA,Google RSS,negative,-0.9131072759628296
@@ -28,18 +28,23 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-17 08:47:29,Meta plans to appoint an Amazon computing exec amid cloud business push: report - Seeking Alpha,META,Google RSS,neutral,0.0
 2026-07-19 01:35:00,Mark Zuckerberg's Meta and Other Hyperscalers Face a Major Bottleneck. Here Are 2 Industrial Stocks That Will Benefit,META,Yahoo RSS,neutral,0.0
 2026-07-18 14:21:32,The S&P 500 Is Becoming a Tech Index in Disguise — But That May Not Be the Risk Investors Think,META,Yahoo RSS,neutral,0.0
-2026-07-16 20:04:09,"Netflix earnings forecast disappoints Wall Street, shares tumble - Reuters",NFLX,Google RSS,negative,-0.9524059891700745
-2026-07-16 20:02:34,Netflix shares slide on disappointing growth forecasts - Financial Times,NFLX,Google RSS,negative,-0.9563596248626709
+2026-07-16 20:04:09,"Netflix earnings forecast disappoints Wall Street, shares tumble - Reuters",NFLX,Google RSS,negative,-0.9524059891700744
+2026-07-16 20:02:34,Netflix shares slide on disappointing growth forecasts - Financial Times,NFLX,Google RSS,negative,-0.9563596248626708
 2026-07-16 16:31:00,Here’s How Much Traders See Netflix Stock Moving After Earnings - Investopedia,NFLX,Google RSS,neutral,0.0
 2026-07-17 20:44:00,Netflix stock plunges to 52-week low following mixed earnings report - Los Angeles Times,NFLX,Google RSS,negative,-0.9494255781173706
 2026-07-19 09:00:00,Netflix stock plunges to 52-week low following mixed earnings report - Jefferson City News Tribune,NFLX,Google RSS,negative,-0.9320164918899536
-2026-07-17 13:48:30,"Netflix tumbles as slowing growth, less viewership data spook investors - Reuters",NFLX,Google RSS,negative,-0.9568256139755249
-2026-07-17 03:44:13,Netflix stock falls over 8% after disappointing earnings forecast - In Business Madison,NFLX,Google RSS,negative,-0.9727985262870789
+2026-07-17 13:48:30,"Netflix tumbles as slowing growth, less viewership data spook investors - Reuters",NFLX,Google RSS,negative,-0.9568256139755248
+2026-07-17 03:44:13,Netflix stock falls over 8% after disappointing earnings forecast - In Business Madison,NFLX,Google RSS,negative,-0.9727985262870787
 2026-07-17 14:13:11,Netflix stock plummets as streamer forecasts slower growth - Fox Business,NFLX,Google RSS,negative,-0.9458714127540588
-2026-07-16 22:30:45,Netflix stock tumbles as weak outlook fuels investor doubts - MSN,NFLX,Google RSS,negative,-0.9530088901519775
+2026-07-16 22:30:45,Netflix stock tumbles as weak outlook fuels investor doubts - MSN,NFLX,Google RSS,negative,-0.9530088901519777
 2026-07-16 20:19:00,Netflix shares fell 8% after it turned in lukewarm earnings and cut back on how frequently it releases viewing data - Business Insider,NFLX,Google RSS,negative,-0.9732763171195984
 2026-07-17 22:31:24,Wall St ends lower for the day and week as chip selloff broadens - Reuters,NFLX,Google RSS,negative,-0.957243025302887
-2026-07-17 09:29:01,Netflix stock plunges to 52-week low following mixed earnings report,NFLX,Bing RSS,negative,-0.9643348455429077
-2026-07-17 06:17:28,Netflix stock hits a 52-week low after earnings—but analysts say investors are missing the bigger picture,NFLX,Bing RSS,negative,-0.9521226286888123
+2026-07-17 09:29:01,Netflix stock plunges to 52-week low following mixed earnings report,NFLX,Bing RSS,negative,-0.9643348455429076
+2026-07-17 06:17:28,Netflix stock hits a 52-week low after earnings—but analysts say investors are missing the bigger picture,NFLX,Bing RSS,negative,-0.9521226286888124
 2026-07-16 09:31:00,Here’s How Much Traders See Netflix Stock Moving After Earnings,NFLX,Bing RSS,neutral,0.0
 2026-07-18 17:01:00,The Chip Index Just Fell Into a Bear Market. Apple Is Sitting Near an All-Time High Anyway.,AAPL,Yahoo Global,negative,-0.7129508256912231
+2026-07-16 11:34:50,Microsoft stock drops 30% despite strong AI-dri... - Pluang,MSFT,Google RSS,negative,-0.9677785634994507
+2026-07-20 06:20:00,Inflation in June Was Lower Than Anticipated. Could That Support a New Crypto Bull Market?,NVDA,Yahoo RSS,neutral,0.0
+2026-07-20 04:50:00,Fed Chair Kevin Warsh Vowed to End 5 Years of High Inflation in First Congressional Testimony,NVDA,Yahoo RSS,positive,0.3999651372432709
+2026-07-18 12:10:55,"Smart Investor: Top Sector Stock Picks, What to Watch in Tesla and Alphabet Earnings, and the AI Debt Wave - Morningstar",TSLA,Google RSS,neutral,0.0
+2026-07-18 11:06:00,Bank of America raises Tesla forecasts ahead of July 22 earnings,TSLA,Bing RSS,neutral,0.0
