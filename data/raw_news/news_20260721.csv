@@ -54,4 +54,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-21 12:21:06,"7 stocks, 7 earnings reports: What could move the Magnificent Seven next (TSLA:NASDAQ) - Seeking Alpha",GOOGL,Google RSS,neutral,0.0
 2026-07-21 11:07:07,Amazon stock trades near record territory as cloud and advertising growth support valuation - Ad-hoc-news.de,AMZN,Google RSS,positive,0.937946617603302
 2026-07-21 11:52:41,Microsoft's Stock Recovers From a June Trough as a Class Action and a Cloud Expansion Test Investor - Ad-hoc-news.de,MSFT,Google RSS,positive,0.6312330365180969
-2026-07-19 10:25:01,Netflix stock tumbles as weak outlook fuels investor doubts - MSN,NFLX,Google RSS,negative,-0.9530088901519775
+2026-07-19 10:25:01,Netflix stock tumbles as weak outlook fuels investor doubts - MSN,NFLX,Google RSS,negative,-0.9530088901519777
+2026-07-21 14:07:53,"Alphabet's Gemini delay, spending worries loom over earnings - Reuters",GOOGL,Google RSS,negative,-0.7895050644874573
+2026-07-21 14:01:36,Stocks rise despite climbing oil prices,GOOGL,Yahoo RSS,positive,0.8264179229736328
+2026-07-21 14:01:36,Stocks rise despite climbing oil prices,MSFT,Yahoo RSS,positive,0.8264179229736328
+2026-07-21 13:28:41,"3M Sparks Dow Jones, Flashes Buy Signal As Growth Accelerates",MSFT,Yahoo RSS,positive,0.656369686126709
+2026-07-20 13:51:00,Here’s How Much Traders See Tesla Stock Moving After Earnings,TSLA,Bing RSS,neutral,0.0
+2026-07-21 14:14:08,SpaceX to report first earnings on Aug. 4: What to expect,TSLA,Yahoo RSS,neutral,0.0
+2026-07-21 14:01:36,Stocks rise despite climbing oil prices,TSLA,Yahoo RSS,positive,0.8264179229736328
+2026-07-21 14:01:36,Stocks rise despite climbing oil prices,META,Yahoo RSS,positive,0.8264179229736328
