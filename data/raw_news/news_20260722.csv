@@ -63,9 +63,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-22 11:31:43,"Oil price hits $95, rate hike odds rise ahead of Alphabet earnings",GOOGL,Yahoo RSS,positive,0.6885829567909241
 2026-07-22 10:07:26,"Wall Street awaits major tech earnings as oil prices extend gains: Dow Jones, S&P, Nasdaq, Futures",GOOGL,Yahoo RSS,neutral,0.0
 2026-07-20 18:50:01,"‘Hitting a Limit,’ Says Investor About Nvidia Stock — And It Doesn’t Look Good - TipRanks",NVDA,Google RSS,neutral,0.0
-2026-07-22 09:58:14,Prediction: Nvidia Stock Will Jump Higher After August Earnings - The Globe and Mail,NVDA,Google RSS,positive,0.9282369017601013
+2026-07-22 09:58:14,Prediction: Nvidia Stock Will Jump Higher After August Earnings - The Globe and Mail,NVDA,Google RSS,positive,0.9282369017601012
 2026-07-22 10:01:56,Prediction: Nvidia Stock Will Jump Higher After August Earnings - Longbridge,NVDA,Google RSS,positive,0.9479054808616638
 2026-07-22 08:09:08,"Tesla enters earnings with shorts piling in, technicals weakening: S3 Partners (TSLA:NASDAQ) - Seeking Alpha",TSLA,Google RSS,positive,0.862269937992096
 2026-07-22 10:07:26,"Wall Street awaits major tech earnings as oil prices extend gains: Dow Jones, S&P, Nasdaq, Futures",TSLA,Yahoo RSS,neutral,0.0
 2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq futures slide with Alphabet, Tesla earnings on deck",GOOGL,Yahoo Global,negative,-0.9629367589950562
 2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq futures slide with Alphabet, Tesla earnings on deck",TSLA,Yahoo Global,negative,-0.9629367589950562
+2026-07-22 11:44:41,Apple stock steadies as investors weigh iPhone and services momentum after latest quarterly results - Ad-hoc-news.de,AAPL,Google RSS,negative,-0.7401187419891357
+2026-07-22 01:21:57,"S&P, Nasdaq open lower as investors eye tech earnings for AI cues, led by Alphabet By Investing.com - Investing.com",GOOGL,Google RSS,negative,-0.9674902558326721
+2026-07-22 13:00:49,"Alphabet earnings report sparks focus on GOOG, GOOGL stocks and related ETFs. - Pluang",GOOGL,Google RSS,neutral,0.0
+2026-07-22 13:56:33,Truist reiterates Microsoft stock rating on Azure growth outlook - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-07-21 21:27:00,Here’s How Much Traders See Tesla Stock Moving After Earnings - Investopedia,TSLA,Google RSS,neutral,0.0
+2026-07-21 15:09:05,Tesla stock gains as options traders price in ~6% post-earnings swing (TSLA:NASDAQ) - Seeking Alpha,TSLA,Google RSS,positive,0.9310383200645447
+2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq mixed with Alphabet, Tesla earnings on deck",GOOGL,Yahoo Global,negative,-0.7115262150764465
+2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq mixed with Alphabet, Tesla earnings on deck",TSLA,Yahoo Global,negative,-0.7115262150764465
