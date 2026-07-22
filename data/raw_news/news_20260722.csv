@@ -97,3 +97,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-22 09:00:00,Tesla set to report second-quarter results after the bell,TSLA,Bing RSS,neutral,0.0
 2026-07-22 17:29:33,Update: US Equity Indexes Mixed as Treasury Yields Jump With Crude Oil Amid Red Sea Chokepoint Disruption,TSLA,Yahoo RSS,negative,-0.9385138750076294
 2026-07-22 16:27:00,"US Equity Indexes Mixed Amid Higher Crude Oil Prices, Treasury Yields",TSLA,Yahoo RSS,negative,-0.8660651445388794
+2026-07-21 16:50:33,Apple Reinvents the upgrade cycle. Stock price moves higher - TradingView,AAPL,Google RSS,neutral,0.0
+2026-07-22 19:44:00,"Nasdaq drops again as investors brace for Alphabet, Tesla earnings - Proactive financial news",GOOGL,Google RSS,negative,-0.9325929284095764
+2026-07-22 20:05:43,Google quarterly cloud revenue growth beats expectations - Reuters,GOOGL,Google RSS,neutral,0.0
+2026-07-22 08:12:00,"Nasdaq levels, Dow climbs as investors brace for Alphabet, Tesla earnings - Proactive financial news",GOOGL,Google RSS,positive,0.593202531337738
+2026-07-22 18:58:32,"CapEx Is in Focus for Microsoft Stock Ahead of Q4 Earnings, But the Bull Case Remains Strong - Barchart.com",MSFT,Google RSS,neutral,0.0
+2026-07-22 20:05:17,Google quarterly cloud revenue growth beats expectations,MSFT,Yahoo RSS,positive,0.9241712093353271
+2026-07-22 19:53:33,Nvidia stock surges 4% amid bullish analyst rat... - Pluang,NVDA,Google RSS,positive,0.8172393441200256
+2026-07-22 03:25:00,Prediction: Nvidia stock will jump higher after August earnings,NVDA,Bing RSS,positive,0.9483159780502319
+2026-07-21 15:28:02,Tesla stock surges around 4% ahead of earnings: what to expect? - TradingView,TSLA,Google RSS,neutral,0.0
