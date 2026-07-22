@@ -1,0 +1,50 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-07-21 16:34:52,Apple Reinvents the upgrade cycle. Stock price moves higher - investingLive,AAPL,Google RSS,neutral,0.0
+2026-07-20 22:35:08,Apple Will Report FQ3 Earnings on July 30. Here’s What This Top Investor Expects for AAPL Stock - TipRanks,AAPL,Google RSS,neutral,0.0
+2026-07-17 13:40:16,Apple stock's 12-day momentum triggers sell signal not seen since 2020 (AAPL:NASDAQ) - Seeking Alpha,AAPL,Google RSS,neutral,0.0
+2026-07-17 20:19:25,Top analyst resets Apple stock price target ahead of earnings - thestreet.com,AAPL,Google RSS,neutral,0.0
+2026-07-21 19:45:16,The Mag 7 Stocks Are in a Rut—Can Strong Earnings Get Them Out of It?,AAPL,Yahoo RSS,negative,-0.8933958411216736
+2026-07-21 14:07:53,"Alphabet's Gemini delay, spending worries loom over earnings - Reuters",GOOGL,Google RSS,negative,-0.7895050644874573
+2026-07-21 19:45:16,The Mag 7 Stocks Are in a Rut—Can Strong Earnings Get Them Out of It? - Investopedia,GOOGL,Google RSS,negative,-0.8344143629074097
+2026-07-21 21:37:53,Alphabet (NASDAQ:GOOGL) shares fall ahead of earnings amid rising capex outpacing revenue gains - TechStock²,GOOGL,Google RSS,negative,-0.9675220847129822
+2026-07-21 19:39:27,Beyond 'meh': What it takes for Alphabet to trigger bullish reversal (GOOGL:NASDAQ) - Seeking Alpha,GOOGL,Google RSS,neutral,0.0
+2026-07-21 09:18:35,Alphabet Q2 preview: Stock on sale? Analyst says ‘attractive entry’ ahead of earnings,GOOGL,Bing RSS,positive,0.568637490272522
+2026-07-21 06:27:00,"What to expect from Alphabet's Q2 earnings: AI, Gemini and cloud in focus",GOOGL,Bing RSS,neutral,0.0
+2026-07-21 20:18:00,"The Best ""Strong Buy"" Stocks to Buy as Q2 Earnings Season Heats Up",GOOGL,Yahoo RSS,neutral,0.0
+2026-07-21 18:31:26,NVIDIA and Amazon: 2 Growth Stocks to Buy as Inflation Eases - Zacks Investment Research,AMZN,Google RSS,neutral,0.0
+2026-07-20 17:30:43,Amazon Stock And 2 E Commerce Shares Facing Europe’s Retail Crackdown - simplywall.st,AMZN,Google RSS,neutral,0.0
+2026-07-17 15:44:10,AWS Just Hit a $150 Billion Annual Run Rate. So Why Is Amazon Stock Still 9% Below Its High? - TIKR.com,AMZN,Google RSS,negative,-0.6283689141273499
+2026-07-22 01:57:30,Amazon stock steadies as cloud and retail growth support valuation after stronger Q1 earnings - Ad-hoc-news.de,AMZN,Google RSS,positive,0.6109689474105835
+2026-07-21 19:45:16,The Mag 7 Stocks Are in a Rut—Can Strong Earnings Get Them Out of It?,AMZN,Yahoo RSS,negative,-0.8933958411216736
+2026-07-21 19:00:00,NVIDIA and Amazon: 2 Growth Stocks to Buy as Inflation Eases,AMZN,Yahoo RSS,positive,0.6329807043075562
+2026-07-18 03:43:43,Should You Buy Microsoft Stock Before the Huge Investor Update? - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-07-19 14:22:00,Microsoft Stock Sits at $394 as Analysts Cut Targets. Why Most Still Say Buy - TIKR.com,MSFT,Google RSS,neutral,0.0
+2026-07-21 15:37:55,Microsoft (MSFT) Faces Challenges Despite Azure Growth Ahead of Q4 Earnings - GuruFocus,MSFT,Google RSS,positive,0.6784107685089111
+2026-07-18 04:44:58,Should You Buy Microsoft Stock Before the Huge Investor Update? - The Globe and Mail,MSFT,Google RSS,neutral,0.0
+2026-07-21 00:49:34,Stronger technical forecast for Microsoft stock price after Monday trading - StockInvest.us,MSFT,Google RSS,positive,0.8347436189651489
+2026-07-21 19:45:16,The Mag 7 Stocks Are in a Rut—Can Strong Earnings Get Them Out of It?,MSFT,Yahoo RSS,negative,-0.8933958411216736
+2026-07-21 19:03:00,Dow Jones Banking Giant JPMorgan In A Buy Zone; Nvidia Stock Tests Key Level - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
+2026-07-21 18:31:26,NVIDIA and Amazon: 2 Growth Stocks to Buy as Inflation Eases - Zacks Investment Research,NVDA,Google RSS,neutral,0.0
+2026-07-21 18:31:26,NVIDIA Isn't Leading AI Stocks in 2026 - These 2 Are Up Over 180% - Zacks Investment Research,NVDA,Google RSS,neutral,0.0
+2026-07-21 23:56:00,Wistron Celebrates Grand Opening of First U.S. Smart Factory Marking Milestone in Global Smart Manufacturing Strategy,NVDA,Yahoo RSS,positive,0.9217060208320618
+2026-07-21 22:30:37,Supermicro stock jumps on gross margin raise amid record $60 billion backlog,NVDA,Yahoo RSS,positive,0.8228806853294373
+2026-07-21 19:27:00,"Tesla (TSLA) Q2 2026 earnings preview: strong deliveries, murky profits - Electrek",TSLA,Google RSS,positive,0.3873491585254669
+2026-07-21 19:45:16,The Mag 7 Stocks Are in a Rut—Can Strong Earnings Get Them Out of It? - Investopedia,TSLA,Google RSS,negative,-0.8344143629074097
+2026-07-22 01:23:40,"US stock futures steady after tech rebound; Tesla, Alphabet earnings in focus - Investing.com",TSLA,Google RSS,neutral,0.0
+2026-07-21 18:45:43,Tesla’s Q2 Deliveries Could Lift Results. But TSLA Stock Needs More Than Strong EV Sales. - Barchart.com,TSLA,Google RSS,positive,0.7755724787712097
+2026-07-21 18:17:14,Where options pricing suggests Tesla stock is headed after Q2 earnings - Invezz,TSLA,Google RSS,neutral,0.0
+2026-07-21 19:44:00,"Dow Jones futures: S&P 500 regains 50-day as SanDisk, Micron soar; Google, Tesla earnings due",TSLA,Bing RSS,positive,0.821002185344696
+2026-07-21 20:18:00,"The Best ""Strong Buy"" Stocks to Buy as Q2 Earnings Season Heats Up",TSLA,Yahoo RSS,neutral,0.0
+2026-07-21 19:45:16,The Mag 7 Stocks Are in a Rut—Can Strong Earnings Get Them Out of It?,TSLA,Yahoo RSS,negative,-0.8933958411216736
+2026-07-18 20:36:23,Meta stock jumps 21% as AI cloud strategy wins over investors - MSN,META,Google RSS,positive,0.8538997769355774
+2026-07-21 19:45:16,The Mag 7 Stocks Are in a Rut—Can Strong Earnings Get Them Out of It?,META,Yahoo RSS,negative,-0.8933958411216736
+2026-07-17 13:17:00,Netflix stock hits a 52-week low after earnings—but analysts say investors are missing the bigger picture - Fortune,NFLX,Google RSS,negative,-0.9493022561073303
+2026-07-16 16:31:00,Here’s How Much Traders See Netflix Stock Moving After Earnings - Investopedia,NFLX,Google RSS,neutral,0.0
+2026-07-17 13:35:27,Netflix shares slide on disappointing growth forecasts - Financial Times,NFLX,Google RSS,negative,-0.9563596248626709
+2026-07-17 20:44:00,Netflix stock plunges to 52-week low following mixed earnings report - Los Angeles Times,NFLX,Google RSS,negative,-0.9494255781173706
+2026-07-21 21:27:00,Here’s How Much Traders See Tesla Stock Moving After Earnings - Investopedia,NFLX,Google RSS,neutral,0.0
+2026-07-17 14:13:11,Netflix stock plummets as streamer forecasts slower growth - Fox Business,NFLX,Google RSS,negative,-0.9458714127540588
+2026-07-19 09:00:00,Netflix stock plunges to 52-week low following mixed earnings report - Jefferson City News Tribune,NFLX,Google RSS,negative,-0.9320164918899536
+2026-07-17 03:44:13,Netflix stock falls over 8% after disappointing earnings forecast - In Business Madison,NFLX,Google RSS,negative,-0.9727985262870789
+2026-07-19 10:25:01,Netflix stock tumbles as weak outlook fuels investor doubts - MSN,NFLX,Google RSS,negative,-0.9530088901519775
+2026-07-20 09:47:00,BofA trims Netflix stock target while betting on a rebound,NFLX,Bing RSS,positive,0.5435605645179749
