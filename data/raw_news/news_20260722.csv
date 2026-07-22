@@ -70,10 +70,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq futures slide with Alphabet, Tesla earnings on deck",GOOGL,Yahoo Global,negative,-0.9629367589950562
 2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq futures slide with Alphabet, Tesla earnings on deck",TSLA,Yahoo Global,negative,-0.9629367589950562
 2026-07-22 11:44:41,Apple stock steadies as investors weigh iPhone and services momentum after latest quarterly results - Ad-hoc-news.de,AAPL,Google RSS,negative,-0.7401187419891357
-2026-07-22 01:21:57,"S&P, Nasdaq open lower as investors eye tech earnings for AI cues, led by Alphabet By Investing.com - Investing.com",GOOGL,Google RSS,negative,-0.9674902558326721
+2026-07-22 01:21:57,"S&P, Nasdaq open lower as investors eye tech earnings for AI cues, led by Alphabet By Investing.com - Investing.com",GOOGL,Google RSS,negative,-0.967490255832672
 2026-07-22 13:00:49,"Alphabet earnings report sparks focus on GOOG, GOOGL stocks and related ETFs. - Pluang",GOOGL,Google RSS,neutral,0.0
 2026-07-22 13:56:33,Truist reiterates Microsoft stock rating on Azure growth outlook - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-07-21 21:27:00,Here’s How Much Traders See Tesla Stock Moving After Earnings - Investopedia,TSLA,Google RSS,neutral,0.0
-2026-07-21 15:09:05,Tesla stock gains as options traders price in ~6% post-earnings swing (TSLA:NASDAQ) - Seeking Alpha,TSLA,Google RSS,positive,0.9310383200645447
+2026-07-21 15:09:05,Tesla stock gains as options traders price in ~6% post-earnings swing (TSLA:NASDAQ) - Seeking Alpha,TSLA,Google RSS,positive,0.9310383200645448
 2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq mixed with Alphabet, Tesla earnings on deck",GOOGL,Yahoo Global,negative,-0.7115262150764465
 2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq mixed with Alphabet, Tesla earnings on deck",TSLA,Yahoo Global,negative,-0.7115262150764465
+2026-07-22 16:09:50,"Stock Market Today: Dow Climbs Even As Oil Jumps; This Industrial Name Rallies, SMCI Surges (Live Coverage)",GOOGL,Yahoo RSS,positive,0.728533148765564
+2026-07-22 14:11:31,Microsoft stock may move 6.7% on July 29 earnings report - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-07-22 14:55:42,Bernstein reiterates Microsoft stock rating on AI growth outlook - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-07-22 16:09:50,"Stock Market Today: Dow Climbs Even As Oil Jumps; This Industrial Name Rallies, SMCI Surges (Live Coverage)",TSLA,Yahoo RSS,positive,0.728533148765564
+2026-07-22 14:10:47,Meta stock may move 7.9% on July 29 earnings report - Investing.com,META,Google RSS,neutral,0.0
+2026-07-22 15:05:16,"Meta Platforms Set to Report Strong Q2 Amid Solid Ad Market, Wedbush Says",META,Yahoo RSS,positive,0.9523180723190308
+2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq waver with Alphabet, Tesla earnings on deck",GOOGL,Yahoo Global,negative,-0.8407355546951294
+2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq waver with Alphabet, Tesla earnings on deck",TSLA,Yahoo Global,negative,-0.8407355546951294
