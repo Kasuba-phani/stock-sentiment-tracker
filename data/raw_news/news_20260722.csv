@@ -104,5 +104,22 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-22 18:58:32,"CapEx Is in Focus for Microsoft Stock Ahead of Q4 Earnings, But the Bull Case Remains Strong - Barchart.com",MSFT,Google RSS,neutral,0.0
 2026-07-22 20:05:17,Google quarterly cloud revenue growth beats expectations,MSFT,Yahoo RSS,positive,0.9241712093353271
 2026-07-22 19:53:33,Nvidia stock surges 4% amid bullish analyst rat... - Pluang,NVDA,Google RSS,positive,0.8172393441200256
-2026-07-22 03:25:00,Prediction: Nvidia stock will jump higher after August earnings,NVDA,Bing RSS,positive,0.9483159780502319
+2026-07-22 03:25:00,Prediction: Nvidia stock will jump higher after August earnings,NVDA,Bing RSS,positive,0.948315978050232
 2026-07-21 15:28:02,Tesla stock surges around 4% ahead of earnings: what to expect? - TradingView,TSLA,Google RSS,neutral,0.0
+2026-07-16 06:57:00,AAPL: Apple Stock Closes at New All-Time High as Traders Expect Bumper Earnings - TradingView,AAPL,Google RSS,negative,-0.5702929496765137
+2026-07-22 21:47:40,Evercore ISI reiterates Alphabet stock rating on strong cloud growth - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-07-22 21:21:13,"Alphabet beats expectations in second quarter, cloud revenue nearly doubles - France 24",GOOGL,Google RSS,positive,0.9321344494819641
+2026-07-22 21:46:07,"Dow Jones Futures: Google, Tesla Fall On Earnings, But Strong Capex Lifts AI Stocks",GOOGL,Yahoo RSS,negative,-0.9573102593421936
+2026-07-22 21:29:09,Google reports 12th consecutive quarter of strong revenue gains,GOOGL,Yahoo RSS,positive,0.9479026794433594
+2026-07-22 21:19:25,"Alphabet beats expectations in second quarter, cloud revenue nearly doubles",GOOGL,Yahoo RSS,positive,0.9507023692131042
+2026-07-22 21:07:17,"Update: US Equity Indexes Fall as Treasury Yields, Crude Oil Gains Reflect Concern Over Widening Disruption to Energy Supplies",GOOGL,Yahoo RSS,negative,-0.9701131582260132
+2026-07-22 21:03:28,Here’s Why Retail Investors Are Buying Microsoft (MSFT) on the Dip,GOOGL,Yahoo RSS,neutral,0.0
+2026-07-22 20:38:45,Alphabet's cloud revenue is its 'single most linear' indicator of AI ROI,GOOGL,Yahoo RSS,neutral,0.0
+2026-07-22 21:34:05,How Investors May Respond To Amazon.com (AMZN) AWS’s AI-Driven Strength Ahead Of July 30 Earnings - simplywall.st,AMZN,Google RSS,neutral,0.0
+2026-07-22 21:03:28,Here’s Why Retail Investors Are Buying Microsoft (MSFT) on the Dip,MSFT,Yahoo RSS,neutral,0.0
+2026-07-22 03:25:00,Prediction: Nvidia Stock Will Jump Higher After August Earnings,NVDA,Bing RSS,positive,0.9483159780502319
+2026-07-22 22:00:06,Tesla Earnings Miss Despite Strong EV Sales; Elon Musk On Call (Live Coverage),TSLA,Yahoo RSS,negative,-0.4512472152709961
+2026-07-22 21:46:07,"Dow Jones Futures: Google, Tesla Fall On Earnings, But Strong Capex Lifts AI Stocks",TSLA,Yahoo RSS,negative,-0.9573102593421936
+2026-07-22 21:07:17,"Update: US Equity Indexes Fall as Treasury Yields, Crude Oil Gains Reflect Concern Over Widening Disruption to Energy Supplies",TSLA,Yahoo RSS,negative,-0.9701131582260132
+2026-07-22 18:17:00,Netflix stock analysis: No technical bottom yet despite solid fundamentals - Investing.com,NFLX,Google RSS,neutral,0.0
+2026-07-19 10:25:01,Netflix stock tumbles as weak outlook fuels investor doubts - msn.com,NFLX,Google RSS,negative,-0.9351692795753479
