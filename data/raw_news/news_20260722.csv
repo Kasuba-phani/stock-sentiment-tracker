@@ -52,3 +52,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-22 02:16:28,Alphabet stock trades near record levels as AI and cloud growth underpin earnings momentum - Ad-hoc-news.de,GOOGL,Google RSS,positive,0.662544846534729
 2026-07-22 05:08:42,Microsoft stock holds near highs as cloud and AI drive earnings momentum - Ad-hoc-news.de,MSFT,Google RSS,positive,0.7705920934677124
 2026-07-21 02:20:47,"[Earnings Outlook] Tesla scheduled to report Q2 earnings on the 22nd! Deliveries hit a record high, but is profitability strong enough to support its AI investments? - Moomoo",TSLA,Google RSS,positive,0.8789081573486328
+2026-07-22 08:48:00,"Stock Market Today: Dow, S&P 500 and Nasdaq set to fall ahead of Alphabet and Tesla earnings; Oil prices rise following 11th night of strikes between U.S. and Iran - MarketWatch",GOOGL,Google RSS,negative,-0.9603320360183716
+2026-07-22 01:57:39,"US stock futures fall as tech rebound falters ahead of Tesla, Alphabet earnings - Investing.com",GOOGL,Google RSS,negative,-0.9195700883865356
+2026-07-22 01:22:00,"US stock futures steady after tech rebound; Tesla, Alphabet earnings in focus - Investing.com UK",GOOGL,Google RSS,neutral,0.0
+2026-07-22 09:28:43,Prediction: Nvidia Stock Will Jump Higher After August Earnings - The Motley Fool,NVDA,Google RSS,positive,0.9396296143531799
+2026-07-22 01:57:39,"US stock futures fall as tech rebound falters ahead of Tesla, Alphabet earnings - Investing.com",TSLA,Google RSS,negative,-0.9195700883865356
+2026-07-21 11:16:55,Where options pricing suggests Tesla stock is headed after Q2 earnings,TSLA,Bing RSS,neutral,0.0
