@@ -85,3 +85,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-22 15:05:16,"Meta Platforms Set to Report Strong Q2 Amid Solid Ad Market, Wedbush Says",META,Yahoo RSS,positive,0.9523180723190308
 2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq waver with Alphabet, Tesla earnings on deck",GOOGL,Yahoo Global,negative,-0.8407355546951294
 2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq waver with Alphabet, Tesla earnings on deck",TSLA,Yahoo Global,negative,-0.8407355546951294
+2026-07-22 16:53:03,Intel Earnings Might Prove the AI Boom Is Still Going Strong — Or About to Stall,AAPL,Yahoo RSS,positive,0.8662676215171814
+2026-07-22 16:08:00,"Google earnings live updates: Alphabet's AI outlook, cloud growth in focus - CNBC",GOOGL,Google RSS,neutral,0.0
+2026-07-22 17:40:00,Nasdaq Index: Dow Gains as Tech Stocks Wait on Alphabet and Tesla - FXEmpire,GOOGL,Google RSS,positive,0.5261473655700684
+2026-07-22 16:58:00,Alphabet set for blockbuster quarter as AI bets collide with spending fears - Proactive financial news,GOOGL,Google RSS,neutral,0.0
+2026-07-22 17:29:33,Update: US Equity Indexes Mixed as Treasury Yields Jump With Crude Oil Amid Red Sea Chokepoint Disruption,GOOGL,Yahoo RSS,negative,-0.9385138750076294
+2026-07-22 17:12:19,Dow Jones Shrugs Off Oil Shock While Nasdaq Takes a Breather,NVDA,Yahoo RSS,neutral,0.0
+2026-07-22 17:09:00,Missed Out on the AI Bull Market? These Industrial Stocks Might Still Be Screaming Buys.,NVDA,Yahoo RSS,negative,-0.6246063113212585
+2026-07-22 16:00:01,Tesla set to report second-quarter results after the bell - CNBC,TSLA,Google RSS,neutral,0.0
+2026-07-22 17:40:00,Nasdaq Index: Dow Gains as Tech Stocks Wait on Alphabet and Tesla - FXEmpire,TSLA,Google RSS,positive,0.5261473655700684
+2026-07-22 09:00:00,Tesla set to report second-quarter results after the bell,TSLA,Bing RSS,neutral,0.0
+2026-07-22 17:29:33,Update: US Equity Indexes Mixed as Treasury Yields Jump With Crude Oil Amid Red Sea Chokepoint Disruption,TSLA,Yahoo RSS,negative,-0.9385138750076294
+2026-07-22 16:27:00,"US Equity Indexes Mixed Amid Higher Crude Oil Prices, Treasury Yields",TSLA,Yahoo RSS,negative,-0.8660651445388794
