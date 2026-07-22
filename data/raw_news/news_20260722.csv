@@ -38,13 +38,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-21 19:45:16,The Mag 7 Stocks Are in a Rut—Can Strong Earnings Get Them Out of It?,TSLA,Yahoo RSS,negative,-0.8933958411216736
 2026-07-18 20:36:23,Meta stock jumps 21% as AI cloud strategy wins over investors - MSN,META,Google RSS,positive,0.8538997769355774
 2026-07-21 19:45:16,The Mag 7 Stocks Are in a Rut—Can Strong Earnings Get Them Out of It?,META,Yahoo RSS,negative,-0.8933958411216736
-2026-07-17 13:17:00,Netflix stock hits a 52-week low after earnings—but analysts say investors are missing the bigger picture - Fortune,NFLX,Google RSS,negative,-0.9493022561073303
+2026-07-17 13:17:00,Netflix stock hits a 52-week low after earnings—but analysts say investors are missing the bigger picture - Fortune,NFLX,Google RSS,negative,-0.9493022561073304
 2026-07-16 16:31:00,Here’s How Much Traders See Netflix Stock Moving After Earnings - Investopedia,NFLX,Google RSS,neutral,0.0
-2026-07-17 13:35:27,Netflix shares slide on disappointing growth forecasts - Financial Times,NFLX,Google RSS,negative,-0.9563596248626709
+2026-07-17 13:35:27,Netflix shares slide on disappointing growth forecasts - Financial Times,NFLX,Google RSS,negative,-0.9563596248626708
 2026-07-17 20:44:00,Netflix stock plunges to 52-week low following mixed earnings report - Los Angeles Times,NFLX,Google RSS,negative,-0.9494255781173706
 2026-07-21 21:27:00,Here’s How Much Traders See Tesla Stock Moving After Earnings - Investopedia,NFLX,Google RSS,neutral,0.0
 2026-07-17 14:13:11,Netflix stock plummets as streamer forecasts slower growth - Fox Business,NFLX,Google RSS,negative,-0.9458714127540588
 2026-07-19 09:00:00,Netflix stock plunges to 52-week low following mixed earnings report - Jefferson City News Tribune,NFLX,Google RSS,negative,-0.9320164918899536
-2026-07-17 03:44:13,Netflix stock falls over 8% after disappointing earnings forecast - In Business Madison,NFLX,Google RSS,negative,-0.9727985262870789
-2026-07-19 10:25:01,Netflix stock tumbles as weak outlook fuels investor doubts - MSN,NFLX,Google RSS,negative,-0.9530088901519775
+2026-07-17 03:44:13,Netflix stock falls over 8% after disappointing earnings forecast - In Business Madison,NFLX,Google RSS,negative,-0.9727985262870787
+2026-07-19 10:25:01,Netflix stock tumbles as weak outlook fuels investor doubts - MSN,NFLX,Google RSS,negative,-0.9530088901519777
 2026-07-20 09:47:00,BofA trims Netflix stock target while betting on a rebound,NFLX,Bing RSS,positive,0.5435605645179749
+2026-07-22 01:23:40,"US stock futures steady after tech rebound; Tesla, Alphabet earnings in focus - Investing.com",GOOGL,Google RSS,neutral,0.0
+2026-07-22 02:16:28,Alphabet stock trades near record levels as AI and cloud growth underpin earnings momentum - Ad-hoc-news.de,GOOGL,Google RSS,positive,0.662544846534729
+2026-07-22 05:08:42,Microsoft stock holds near highs as cloud and AI drive earnings momentum - Ad-hoc-news.de,MSFT,Google RSS,positive,0.7705920934677124
+2026-07-21 02:20:47,"[Earnings Outlook] Tesla scheduled to report Q2 earnings on the 22nd! Deliveries hit a record high, but is profitability strong enough to support its AI investments? - Moomoo",TSLA,Google RSS,positive,0.8789081573486328
