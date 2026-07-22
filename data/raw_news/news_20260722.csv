@@ -55,6 +55,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-22 08:48:00,"Stock Market Today: Dow, S&P 500 and Nasdaq set to fall ahead of Alphabet and Tesla earnings; Oil prices rise following 11th night of strikes between U.S. and Iran - MarketWatch",GOOGL,Google RSS,negative,-0.9603320360183716
 2026-07-22 01:57:39,"US stock futures fall as tech rebound falters ahead of Tesla, Alphabet earnings - Investing.com",GOOGL,Google RSS,negative,-0.9195700883865356
 2026-07-22 01:22:00,"US stock futures steady after tech rebound; Tesla, Alphabet earnings in focus - Investing.com UK",GOOGL,Google RSS,neutral,0.0
-2026-07-22 09:28:43,Prediction: Nvidia Stock Will Jump Higher After August Earnings - The Motley Fool,NVDA,Google RSS,positive,0.9396296143531799
+2026-07-22 09:28:43,Prediction: Nvidia Stock Will Jump Higher After August Earnings - The Motley Fool,NVDA,Google RSS,positive,0.93962961435318
 2026-07-22 01:57:39,"US stock futures fall as tech rebound falters ahead of Tesla, Alphabet earnings - Investing.com",TSLA,Google RSS,negative,-0.9195700883865356
 2026-07-21 11:16:55,Where options pricing suggests Tesla stock is headed after Q2 earnings,TSLA,Bing RSS,neutral,0.0
+2026-07-22 07:17:15,"US stock futures fall as tech rebound falters ahead of Tesla, Alphabet earnings - Investing.com Nigeria",GOOGL,Google RSS,negative,-0.917547881603241
+2026-07-22 11:42:35,"Oil price hits $95, rate hike odds rise ahead of Alphabet earnings - qz.com",GOOGL,Google RSS,neutral,0.0
+2026-07-22 11:31:43,"Oil price hits $95, rate hike odds rise ahead of Alphabet earnings",GOOGL,Yahoo RSS,positive,0.6885829567909241
+2026-07-22 10:07:26,"Wall Street awaits major tech earnings as oil prices extend gains: Dow Jones, S&P, Nasdaq, Futures",GOOGL,Yahoo RSS,neutral,0.0
+2026-07-20 18:50:01,"‘Hitting a Limit,’ Says Investor About Nvidia Stock — And It Doesn’t Look Good - TipRanks",NVDA,Google RSS,neutral,0.0
+2026-07-22 09:58:14,Prediction: Nvidia Stock Will Jump Higher After August Earnings - The Globe and Mail,NVDA,Google RSS,positive,0.9282369017601013
+2026-07-22 10:01:56,Prediction: Nvidia Stock Will Jump Higher After August Earnings - Longbridge,NVDA,Google RSS,positive,0.9479054808616638
+2026-07-22 08:09:08,"Tesla enters earnings with shorts piling in, technicals weakening: S3 Partners (TSLA:NASDAQ) - Seeking Alpha",TSLA,Google RSS,positive,0.862269937992096
+2026-07-22 10:07:26,"Wall Street awaits major tech earnings as oil prices extend gains: Dow Jones, S&P, Nasdaq, Futures",TSLA,Yahoo RSS,neutral,0.0
+2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq futures slide with Alphabet, Tesla earnings on deck",GOOGL,Yahoo Global,negative,-0.9629367589950562
+2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq futures slide with Alphabet, Tesla earnings on deck",TSLA,Yahoo Global,negative,-0.9629367589950562
