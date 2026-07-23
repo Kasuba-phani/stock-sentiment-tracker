@@ -98,7 +98,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-23 11:19:00,"Google’s AI Spending, Rising Oil Prices Spell Trouble for Stocks",META,Yahoo RSS,negative,-0.9500163197517396
 2026-07-23 10:34:01,"Analysts Are Bullish on Top Communication Services Stocks: Netflix (NFLX), Gray Television (GTN) - The Globe and Mail",NFLX,Google RSS,neutral,0.0
 2026-07-23 00:23:00,Why we're sticking with Alphabet despite an imperfect quarter and more AI spending - CNBC,GOOGL,Google RSS,neutral,0.0
-2026-07-23 14:06:31,"Alphabet Inc. (GOOGL.US) hit by simultaneous stock and bond sell-off! AI spending fears crush share price, while its 'century bond' drops below 90% of par value. - Moomoo",GOOGL,Google RSS,negative,-0.9598512053489685
+2026-07-23 14:06:31,"Alphabet Inc. (GOOGL.US) hit by simultaneous stock and bond sell-off! AI spending fears crush share price, while its 'century bond' drops below 90% of par value. - Moomoo",GOOGL,Google RSS,negative,-0.9598512053489684
 2026-07-23 14:10:54,"Brent oil tops $100 per barrel, as Tesla and Alphabet drag Wall Street lower - WOODTV.com",GOOGL,Google RSS,negative,-0.7810782194137573
 2026-07-23 14:34:51,"Oil tops $100 US per barrel, as Tesla and Alphabet drag stocks lower - CBC",GOOGL,Google RSS,negative,-0.9136890172958374
 2026-07-23 13:46:00,"Brent oil's price briefly tops $100 per barrel, as Tesla and Alphabet drag Wall Street lower - Spectrum News",GOOGL,Google RSS,negative,-0.8707686066627502
@@ -111,13 +111,31 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-23 13:41:12,"‘Both Sides of the Coin,’ Says Top Investor About Amazon Stock - TipRanks",AMZN,Google RSS,neutral,0.0
 2026-07-23 14:40:00,Amazon stock may swing 6.4% on July 30 earnings report By Investing.com - Investing.com UK,AMZN,Google RSS,negative,-0.9142031073570251
 2026-07-23 13:40:19,Microsoft Stock Sits 11% Below Its 200-Day Average as Earnings Approach - Benzinga,MSFT,Google RSS,negative,-0.9731624722480774
-2026-07-23 12:45:43,Microsoft: Strong Buy Despite The AI CapEx Problem (NASDAQ:MSFT) - Seeking Alpha,MSFT,Google RSS,positive,0.9462190866470337
+2026-07-23 12:45:43,Microsoft: Strong Buy Despite The AI CapEx Problem (NASDAQ:MSFT) - Seeking Alpha,MSFT,Google RSS,positive,0.9462190866470336
 2026-07-23 14:48:01,15 Billion Reasons Alphabet Shares Are Sinking After Reporting Strong Earnings Growth,NVDA,Yahoo RSS,negative,-0.9606502056121826
 2026-07-23 14:10:42,"As Analysts Bet on Boeing Turnaround, Retail Investors Fixate on One Uncomfortable Fact",NVDA,Yahoo RSS,neutral,0.0
 2026-07-23 12:06:00,"Dow Jones Futures Fall As Oil Prices Top $90; Google, Tesla Skid On Earnings, Capital Spending - Investor's Business Daily",TSLA,Google RSS,negative,-0.9245508313179016
 2026-07-23 13:14:43,Here’s How Much Traders See Intel Stock Moving After Earnings - Investopedia,TSLA,Google RSS,neutral,0.0
-2026-07-23 03:24:00,Tesla shares fall 6% in premarket as S&P 500 futures slide ahead of earnings,TSLA,Bing RSS,negative,-0.9659672379493713
+2026-07-23 03:24:00,Tesla shares fall 6% in premarket as S&P 500 futures slide ahead of earnings,TSLA,Bing RSS,negative,-0.9659672379493712
 2026-07-23 14:25:42,"Tesla’s $28B quarter fueled by record deliveries, Semi production ramp",TSLA,Yahoo RSS,positive,0.7481577396392822
 2026-07-23 13:21:23,"Wall Street set for lower open as Alphabet and Tesla disappoint while oil prices climb: Dow Jones, S&P, Nasdaq, Futures",TSLA,Yahoo RSS,negative,-0.8631215691566467
 2026-07-23 13:06:26,"Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Major Tech Stocks Sell-Off",TSLA,Yahoo RSS,negative,-0.9519372582435608
 2026-07-23 13:17:00,Virtuix Expects to Report Major Sales Growth Following Meta Launch; Announces First Quarter FY2027 Results Conference Call,META,Yahoo RSS,neutral,0.0
+2026-07-23 17:03:00,Why Alphabet Stock Is Falling: The 1 Key Metric Rattling Investors - Barron's,GOOGL,Google RSS,neutral,0.0
+2026-07-23 16:26:03,Freedom Broker upgrades Alphabet stock rating to buy on cloud growth - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-07-23 12:27:04,Wall Street poised to open lower as Mideast tensions push Brent crude past $98 a barrel - WJTV,GOOGL,Google RSS,negative,-0.892062246799469
+2026-07-23 14:10:54,"Brent oil tops $100 per barrel, as Tesla and Alphabet drag Wall Street lower - Union-Bulletin",GOOGL,Google RSS,negative,-0.926115095615387
+2026-07-23 16:59:50,Tesla and Google’s AI splurge sparks tech sell-off,GOOGL,Yahoo RSS,negative,-0.9487746357917786
+2026-07-23 14:59:02,Amazon stock may swing 6.4% on July 30 earnings report - Investing.com,AMZN,Google RSS,negative,-0.8457552194595337
+2026-07-23 13:15:40,Amazon AWS sales growth boosts bullish outlook with 26.6% upside target by Bank of America - Pluang,AMZN,Google RSS,positive,0.9492078423500061
+2026-07-23 14:44:00,Alphabet Stock Is Falling as AI Spending Continues to Mount,AMZN,Yahoo RSS,negative,-0.973176121711731
+2026-07-23 14:44:00,Alphabet Stock Is Falling as AI Spending Continues to Mount,MSFT,Yahoo RSS,negative,-0.973176121711731
+2026-07-23 17:01:00,"Quantum Computing Stocks Are Falling. Should You Buy IonQ or D-Wave, or Just Stick With Nvidia? - The Motley Fool",NVDA,Google RSS,negative,-0.7716382741928101
+2026-07-23 17:04:31,"Quantum Computing Stocks Are Falling. Should You Buy IonQ or D-Wave, or Just Stick With Nvidia? - AOL.com",NVDA,Google RSS,negative,-0.6658321619033813
+2026-07-22 03:25:00,Prediction: Nvidia stock will jump higher after August earnings,NVDA,Bing RSS,positive,0.9483159780502319
+2026-07-23 16:50:00,"Quantum Computing Stocks Are Falling. Should You Buy IonQ or D-Wave, or Just Stick With Nvidia?",NVDA,Yahoo RSS,negative,-0.7758679389953613
+2026-07-23 15:26:35,Tesla stock stumbles after latest earnings report - CNBC,TSLA,Google RSS,negative,-0.959102988243103
+2026-07-23 16:59:00,Tesla plunges most in a year amid angst over AI spending - AFR,TSLA,Google RSS,negative,-0.9662083983421326
+2026-07-23 08:42:00,Tesla stock plunges 14% as weak earnings override AI hype,TSLA,Bing RSS,negative,-0.967703104019165
+2026-07-23 16:59:50,Tesla and Google’s AI splurge sparks tech sell-off,TSLA,Yahoo RSS,negative,-0.9487746357917786
+2026-07-23 06:18:48,Meta stock trades below three of its four key averages ahead of earnings,META,Bing RSS,negative,-0.9327185153961182
