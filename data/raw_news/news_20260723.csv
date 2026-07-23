@@ -5,7 +5,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-16 06:57:00,AAPL: Apple Stock Closes at New All-Time High as Traders Expect Bumper Earnings - TradingView,AAPL,Google RSS,negative,-0.5702929496765137
 2026-07-21 16:50:33,Apple Reinvents the upgrade cycle. Stock price moves higher - TradingView,AAPL,Google RSS,neutral,0.0
 2026-07-22 16:53:03,Intel Earnings Might Prove the AI Boom Is Still Going Strong — Or About to Stall,AAPL,Yahoo RSS,positive,0.8662676215171814
-2026-07-22 22:15:00,"Stock Market Today: Dow ends fractionally lower, S&P 500 and Nasdaq fall with Alphabet and Tesla earnings on deck. Oil prices rise sharply as Trump threatens to bomb Iranian infrastructure - MarketWatch",GOOGL,Google RSS,negative,-0.9687535166740417
+2026-07-22 22:15:00,"Stock Market Today: Dow ends fractionally lower, S&P 500 and Nasdaq fall with Alphabet and Tesla earnings on deck. Oil prices rise sharply as Trump threatens to bomb Iranian infrastructure - MarketWatch",GOOGL,Google RSS,negative,-0.9687535166740416
 2026-07-22 21:12:33,'Fast Money' traders react to Alphabet earnings as stock dips in extended trading - CNBC,GOOGL,Google RSS,negative,-0.7477507591247559
 2026-07-22 21:47:40,Evercore ISI reiterates Alphabet stock rating on strong cloud growth - Investing.com,GOOGL,Google RSS,neutral,0.0
 2026-07-21 14:07:53,"Alphabet's Gemini delay, spending worries loom over earnings - Reuters",GOOGL,Google RSS,negative,-0.7895050644874573
@@ -28,23 +28,31 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-21 00:49:34,Stronger technical forecast for Microsoft stock price after Monday trading - StockInvest.us,MSFT,Google RSS,positive,0.8347436189651489
 2026-07-22 21:03:28,Here’s Why Retail Investors Are Buying Microsoft (MSFT) on the Dip,MSFT,Yahoo RSS,neutral,0.0
 2026-07-21 19:03:00,Dow Jones Banking Giant JPMorgan In A Buy Zone; Nvidia Stock Tests Key Level - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
-2026-07-22 10:25:00,Prediction: Nvidia Stock Will Jump Higher After August Earnings - The Motley Fool,NVDA,Google RSS,positive,0.9396296143531799
+2026-07-22 10:25:00,Prediction: Nvidia Stock Will Jump Higher After August Earnings - The Motley Fool,NVDA,Google RSS,positive,0.93962961435318
 2026-07-22 19:53:33,Nvidia stock surges 4% amid bullish analyst rat... - Pluang,NVDA,Google RSS,positive,0.8172393441200256
-2026-07-22 03:25:00,Prediction: Nvidia Stock Will Jump Higher After August Earnings,NVDA,Bing RSS,positive,0.9483159780502319
+2026-07-22 03:25:00,Prediction: Nvidia Stock Will Jump Higher After August Earnings,NVDA,Bing RSS,positive,0.948315978050232
 2026-07-22 23:05:00,Tesla Earnings Miss Despite Strong EV Sales; Elon Musk Preaches Robotaxi Caution - Investor's Business Daily,TSLA,Google RSS,negative,-0.7416743040084839
 2026-07-21 21:27:00,Here’s How Much Traders See Tesla Stock Moving After Earnings - Investopedia,TSLA,Google RSS,neutral,0.0
 2026-07-21 19:27:00,"Tesla (TSLA) Q2 2026 earnings preview: strong deliveries, murky profits - Electrek",TSLA,Google RSS,positive,0.3873491585254669
-2026-07-21 15:09:05,Tesla stock gains as options traders price in ~6% post-earnings swing (TSLA:NASDAQ) - Seeking Alpha,TSLA,Google RSS,positive,0.9310383200645447
+2026-07-21 15:09:05,Tesla stock gains as options traders price in ~6% post-earnings swing (TSLA:NASDAQ) - Seeking Alpha,TSLA,Google RSS,positive,0.9310383200645448
 2026-07-22 08:09:08,"Tesla enters earnings with shorts piling in, technicals weakening: S3 Partners (TSLA:NASDAQ) - Seeking Alpha",TSLA,Google RSS,positive,0.862269937992096
 2026-07-22 23:17:36,"S&P 500, Nasdaq close lower ahead of technology earnings",TSLA,Yahoo RSS,negative,-0.946113109588623
 2026-07-22 23:05:11,Tesla Earnings Miss Despite Strong EV Sales; Elon Musk Preaches Robotaxi Caution,TSLA,Yahoo RSS,negative,-0.9250357151031494
 2026-07-22 14:10:47,Meta stock may move 7.9% on July 29 earnings report - Investing.com,META,Google RSS,neutral,0.0
-2026-07-17 13:17:00,Netflix stock hits a 52-week low after earnings—but analysts say investors are missing the bigger picture - Fortune,NFLX,Google RSS,negative,-0.9493022561073303
+2026-07-17 13:17:00,Netflix stock hits a 52-week low after earnings—but analysts say investors are missing the bigger picture - Fortune,NFLX,Google RSS,negative,-0.9493022561073304
 2026-07-22 18:17:00,Netflix stock analysis: No technical bottom yet despite solid fundamentals - Investing.com,NFLX,Google RSS,neutral,0.0
 2026-07-16 16:31:00,Here’s How Much Traders See Netflix Stock Moving After Earnings - Investopedia,NFLX,Google RSS,neutral,0.0
-2026-07-17 13:35:27,Netflix shares slide on disappointing growth forecasts - Financial Times,NFLX,Google RSS,negative,-0.9563596248626709
+2026-07-17 13:35:27,Netflix shares slide on disappointing growth forecasts - Financial Times,NFLX,Google RSS,negative,-0.9563596248626708
 2026-07-17 20:44:00,Netflix stock plunges to 52-week low following mixed earnings report - Los Angeles Times,NFLX,Google RSS,negative,-0.9494255781173706
 2026-07-19 09:00:00,Netflix stock plunges to 52-week low following mixed earnings report - Jefferson City News Tribune,NFLX,Google RSS,negative,-0.9320164918899536
-2026-07-17 03:44:13,Netflix stock falls over 8% after disappointing earnings forecast - In Business Madison,NFLX,Google RSS,negative,-0.9727985262870789
-2026-07-19 10:25:01,Netflix stock tumbles as weak outlook fuels investor doubts - MSN,NFLX,Google RSS,negative,-0.9530088901519775
+2026-07-17 03:44:13,Netflix stock falls over 8% after disappointing earnings forecast - In Business Madison,NFLX,Google RSS,negative,-0.9727985262870787
+2026-07-19 10:25:01,Netflix stock tumbles as weak outlook fuels investor doubts - MSN,NFLX,Google RSS,negative,-0.9530088901519777
 2026-07-20 09:47:00,BofA trims Netflix stock target while betting on a rebound,NFLX,Bing RSS,positive,0.5435605645179749
+2026-07-23 01:28:38,"US stock futures edge higher; Tesla, Alphabet dip after Q2 earnings - Investing.com",GOOGL,Google RSS,negative,-0.9010369181632996
+2026-07-23 00:49:27,"[US Stock After-Hours Trading] Alphabet A fell nearly 3% in after-hours trading, as it raised its full-year capital expenditure outlook and the CFO stated that investment expansion will continue. Tesla declined after earnings, dropping nearly 4% in after- - Moomoo",GOOGL,Google RSS,negative,-0.9740374088287354
+2026-07-22 11:08:48,"Stock market futures slide ahead of Alphabet, Tesla earnings - eciks.org",GOOGL,Google RSS,negative,-0.7682177424430847
+2026-07-22 16:59:00,Why we're sticking with Alphabet despite an imperfect quarter and more AI spending,GOOGL,Bing RSS,neutral,0.0
+2026-07-22 11:58:00,"CapEx Is in Focus for Microsoft Stock Ahead of Q4 Earnings, But the Bull Case Remains Strong",MSFT,Bing RSS,neutral,0.0
+2026-07-23 02:35:00,Donald Trump's Iran Blockade Announcement Sent Oil Prices Surging and the Dow Falling,NVDA,Yahoo RSS,negative,-0.7855755090713501
+2026-07-23 02:12:05,Analysts Say This Robotics Stock Could Be One of 2026’s Biggest Industrial Winners,NVDA,Yahoo RSS,neutral,0.0
+2026-07-23 01:28:38,"US stock futures edge higher; Tesla, Alphabet dip after Q2 earnings - Investing.com",TSLA,Google RSS,negative,-0.9010369181632996
