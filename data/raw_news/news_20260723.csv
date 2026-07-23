@@ -145,5 +145,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-23 18:00:56,GOOGL Stock Sinks 8% A Day After Strong Q2 Earnings — But Wall Street Isn’t Backing Away Despite Price Target Cuts,GOOGL,Yahoo RSS,negative,-0.952107846736908
 2026-07-23 18:23:00,"With a 13% Yield but an Uncertain Interest Rate Environment, Is AGNC Stock a Buy?",NVDA,Yahoo RSS,neutral,0.0
 2026-07-23 18:25:00,"Tesla Stock Is Falling After a Lousy Quarter, Wall Street Is Still Buying the Future - Barron's",TSLA,Google RSS,negative,-0.8937009572982788
-2026-07-23 11:25:00,"Tesla stock is falling after a lousy quarter, Wall Street is still buying the future",TSLA,Bing RSS,negative,-0.9179589152336121
-2026-07-23 18:25:00,"Tesla Stock Is Falling After a Lousy Quarter, Wall Street Is Still Buying the Future",TSLA,Yahoo RSS,negative,-0.9179589152336121
+2026-07-23 11:25:00,"Tesla stock is falling after a lousy quarter, Wall Street is still buying the future",TSLA,Bing RSS,negative,-0.917958915233612
+2026-07-23 18:25:00,"Tesla Stock Is Falling After a Lousy Quarter, Wall Street Is Still Buying the Future",TSLA,Yahoo RSS,negative,-0.917958915233612
+2026-07-23 19:57:19,59% of Berkshire Hathaway's Portfolio Sits in 5 Dow Stocks. This Is My Top Pick to Buy Now. - The Globe and Mail,AAPL,Google RSS,neutral,0.0
+2026-07-23 19:58:44,59% of Berkshire Hathaway's Portfolio Sits in 5 Dow Stocks. This Is My Top Pick to Buy Now. - The Motley Fool,AAPL,Google RSS,neutral,0.0
+2026-07-23 20:10:52,"Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower - Pittsburgh Post-Gazette",GOOGL,Google RSS,negative,-0.8761534690856934
+2026-07-23 20:06:49,"Brent oil tops $100 per barrel, as Tesla and Alphabet drag Wall Street lower - Sentinel Colorado",GOOGL,Google RSS,negative,-0.94083571434021
+2026-07-23 03:48:28,"Stock market today: Major indexes close sharply lower as Alphabet, Tesla shares sink, oil tops $100 a barrel",GOOGL,Bing RSS,negative,-0.9698165059089661
+2026-07-23 18:25:00,"Tesla Stock Is Falling After a Lousy Quarter, and Wall Street Is Still Buying the Future - Barron's",TSLA,Google RSS,negative,-0.946723997592926
+2026-07-23 13:17:00,"Tesla stock is falling after a lousy quarter, and Wall Street is still buying the future",TSLA,Bing RSS,negative,-0.9636178016662598
+2026-07-23 05:30:00,"Tesla tumbles 14% to 11-month low as profit miss, capex spending outlook weighs on stock",TSLA,Bing RSS,negative,-0.966623067855835
+2026-07-23 03:48:28,"Stock market today: Major indexes close sharply lower as Alphabet, Tesla shares sink, oil tops $100 a barrel",TSLA,Bing RSS,negative,-0.9698165059089661
+2026-07-23 20:47:00,"S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",AAPL,MarketWatch Top,neutral,0.0
+2026-07-23 20:47:00,"S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",MSFT,MarketWatch Top,neutral,0.0
+2026-07-23 20:47:00,"S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",META,MarketWatch Top,neutral,0.0
