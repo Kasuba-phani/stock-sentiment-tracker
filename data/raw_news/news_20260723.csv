@@ -71,29 +71,53 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-23 09:53:00,Alphabet Stock Is Falling as AI Spending Continues to Mount,META,Yahoo RSS,negative,-0.973176121711731
 2026-07-21 11:25:07,"‘It’s a Miserable Stretch,’ Says Top Investor About Netflix Stock - TipRanks",NFLX,Google RSS,negative,-0.9465451836586
 2026-07-23 11:02:00,"Stock Market Today: Dow, S&P 500 and Nasdaq set to fall as Alphabet and Tesla results reignite fears over spending - MarketWatch",GOOGL,Google RSS,negative,-0.9649764895439148
-2026-07-23 09:32:11,"UBS cuts Alphabet stock price target on capex, hiring concerns - Investing.com",GOOGL,Google RSS,negative,-0.49686214327812195
+2026-07-23 09:32:11,"UBS cuts Alphabet stock price target on capex, hiring concerns - Investing.com",GOOGL,Google RSS,negative,-0.4968621432781219
 2026-07-23 11:05:15,"Alphabet stock falls after Q2 earnings beat, capex guidance surge - eciks.org",GOOGL,Google RSS,neutral,0.0
 2026-07-23 11:11:30,"1 Number Every Investor Needs to Look For When Nvidia, Alphabet, and Amazon Report Earnings, Whether You Own the Stocks or Not - The Motley Fool",GOOGL,Google RSS,neutral,0.0
 2026-07-23 05:13:00,"Dow Jones| Nasdaq | S&P 500 | US Stock Market Today | Live: US stock futures ease as Big Tech earnings rekindle AI spending worries, oil jumps",GOOGL,Bing RSS,positive,0.5089476108551025
 2026-07-23 12:06:53,"Dow Jones Futures Fall As Oil Prices Top $90; Google, Tesla Skid On Earnings, Capital Spending",GOOGL,Yahoo RSS,negative,-0.9616050720214844
 2026-07-23 12:00:42,"Oil prices hit 7-week high, Dow futures drop 340 points",GOOGL,Yahoo RSS,negative,-0.8712502121925354
-2026-07-23 11:19:00,"Google’s AI Spending, Rising Oil Prices Spell Trouble for Stocks",GOOGL,Yahoo RSS,negative,-0.9500163197517395
+2026-07-23 11:19:00,"Google’s AI Spending, Rising Oil Prices Spell Trouble for Stocks",GOOGL,Yahoo RSS,negative,-0.9500163197517396
 2026-07-23 11:03:00,"1 Number Every Investor Needs to Look For When Nvidia, Alphabet, and Amazon Report Earnings, Whether You Own the Stocks or Not",GOOGL,Yahoo RSS,neutral,0.0
 2026-07-23 11:11:30,"1 Number Every Investor Needs to Look For When Nvidia, Alphabet, and Amazon Report Earnings, Whether You Own the Stocks or Not - The Motley Fool",AMZN,Google RSS,neutral,0.0
-2026-07-23 11:19:00,"Google’s AI Spending, Rising Oil Prices Spell Trouble for Stocks",AMZN,Yahoo RSS,negative,-0.9500163197517395
+2026-07-23 11:19:00,"Google’s AI Spending, Rising Oil Prices Spell Trouble for Stocks",AMZN,Yahoo RSS,negative,-0.9500163197517396
 2026-07-23 11:03:00,"1 Number Every Investor Needs to Look For When Nvidia, Alphabet, and Amazon Report Earnings, Whether You Own the Stocks or Not",AMZN,Yahoo RSS,neutral,0.0
 2026-07-23 12:01:00,Knox Systems Partners with Microsoft to Accelerate Secure Government Access to Commercial Innovation on Microsoft Azure,MSFT,Yahoo RSS,positive,0.8742169141769409
-2026-07-23 11:19:00,"Google’s AI Spending, Rising Oil Prices Spell Trouble for Stocks",MSFT,Yahoo RSS,negative,-0.9500163197517395
+2026-07-23 11:19:00,"Google’s AI Spending, Rising Oil Prices Spell Trouble for Stocks",MSFT,Yahoo RSS,negative,-0.9500163197517396
 2026-07-23 10:50:34,NVIDIA Corp (NASDAQ:NVDA) is a Quality Stock with a 125% ROIC and Strong Growth Profile - ChartMill,NVDA,Google RSS,positive,0.706002414226532
 2026-07-20 18:50:01,"‘Hitting a Limit,’ Says Investor About Nvidia Stock — And It Doesn’t Look Good - TipRanks",NVDA,Google RSS,neutral,0.0
 2026-07-23 11:11:30,"1 Number Every Investor Needs to Look For When Nvidia, Alphabet, and Amazon Report Earnings, Whether You Own the Stocks or Not - The Motley Fool",NVDA,Google RSS,neutral,0.0
 2026-07-23 11:54:40,"Here Are Thursday’s Top Wall Street Analyst Research Calls: AT&T, Applied Digital, Autodesk, Duke Energy, Exxon Mobil, JPMorgan Chase & Company, Live Nation Entertainment, and More",NVDA,Yahoo RSS,neutral,0.0
 2026-07-23 11:03:00,"1 Number Every Investor Needs to Look For When Nvidia, Alphabet, and Amazon Report Earnings, Whether You Own the Stocks or Not",NVDA,Yahoo RSS,neutral,0.0
-2026-07-23 10:42:40,Tesla shares fall 6% in premarket as S&P 500 futures slide ahead of earnings - Crypto Briefing,TSLA,Google RSS,negative,-0.9609347581863403
-2026-07-23 00:12:21,Tesla drops 5% after earnings miss on softer automotive margins - Investing.com,TSLA,Google RSS,negative,-0.9669841527938843
+2026-07-23 10:42:40,Tesla shares fall 6% in premarket as S&P 500 futures slide ahead of earnings - Crypto Briefing,TSLA,Google RSS,negative,-0.9609347581863404
+2026-07-23 00:12:21,Tesla drops 5% after earnings miss on softer automotive margins - Investing.com,TSLA,Google RSS,negative,-0.9669841527938844
 2026-07-23 12:06:53,"Dow Jones Futures Fall As Oil Prices Top $90; Google, Tesla Skid On Earnings, Capital Spending",TSLA,Yahoo RSS,negative,-0.9616050720214844
 2026-07-23 12:00:42,"Oil prices hit 7-week high, Dow futures drop 340 points",TSLA,Yahoo RSS,negative,-0.8712502121925354
-2026-07-23 11:19:00,"Google’s AI Spending, Rising Oil Prices Spell Trouble for Stocks",TSLA,Yahoo RSS,negative,-0.9500163197517395
-2026-07-23 10:30:43,Tesla shares fall after earnings miss despite record deliveries and AI investment (NASDAQ:TSLA),TSLA,Yahoo RSS,negative,-0.9691770076751709
-2026-07-23 11:19:00,"Google’s AI Spending, Rising Oil Prices Spell Trouble for Stocks",META,Yahoo RSS,negative,-0.9500163197517395
+2026-07-23 11:19:00,"Google’s AI Spending, Rising Oil Prices Spell Trouble for Stocks",TSLA,Yahoo RSS,negative,-0.9500163197517396
+2026-07-23 10:30:43,Tesla shares fall after earnings miss despite record deliveries and AI investment (NASDAQ:TSLA),TSLA,Yahoo RSS,negative,-0.9691770076751708
+2026-07-23 11:19:00,"Google’s AI Spending, Rising Oil Prices Spell Trouble for Stocks",META,Yahoo RSS,negative,-0.9500163197517396
 2026-07-23 10:34:01,"Analysts Are Bullish on Top Communication Services Stocks: Netflix (NFLX), Gray Television (GTN) - The Globe and Mail",NFLX,Google RSS,neutral,0.0
+2026-07-23 00:23:00,Why we're sticking with Alphabet despite an imperfect quarter and more AI spending - CNBC,GOOGL,Google RSS,neutral,0.0
+2026-07-23 14:06:31,"Alphabet Inc. (GOOGL.US) hit by simultaneous stock and bond sell-off! AI spending fears crush share price, while its 'century bond' drops below 90% of par value. - Moomoo",GOOGL,Google RSS,negative,-0.9598512053489685
+2026-07-23 14:10:54,"Brent oil tops $100 per barrel, as Tesla and Alphabet drag Wall Street lower - WOODTV.com",GOOGL,Google RSS,negative,-0.7810782194137573
+2026-07-23 14:34:51,"Oil tops $100 US per barrel, as Tesla and Alphabet drag stocks lower - CBC",GOOGL,Google RSS,negative,-0.9136890172958374
+2026-07-23 13:46:00,"Brent oil's price briefly tops $100 per barrel, as Tesla and Alphabet drag Wall Street lower - Spectrum News",GOOGL,Google RSS,negative,-0.8707686066627502
+2026-07-23 14:02:10,DA Davidson cuts Alphabet stock price target on higher capex outlook - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-07-23 01:27:22,"Stocks slide at the open as oil prices surge, Alphabet & Tesla fall after earnings - Investing.com",GOOGL,Google RSS,negative,-0.949264645576477
+2026-07-23 12:54:00,"U.S. Stocks May Come Under Pressure Amid Negative Reaction To Alphabet, Tesla Earnings - RTTNews",GOOGL,Google RSS,negative,-0.9216580390930176
+2026-07-22 18:29:00,15 Billion Reasons Alphabet Shares Are Sinking After Reporting Strong Earnings Growth,GOOGL,Bing RSS,negative,-0.9606502056121826
+2026-07-23 06:34:34,"Stock market today: Major indexes fall as Alphabet, Tesla shares drop, oil hits $100 a barrel",GOOGL,Bing RSS,negative,-0.9701684713363647
+2026-07-23 14:42:09,Amazon stock may swing 6.4% on July 30 earnings report By Investing.com - Investing.com Nigeria,AMZN,Google RSS,negative,-0.9213899970054626
+2026-07-23 13:41:12,"‘Both Sides of the Coin,’ Says Top Investor About Amazon Stock - TipRanks",AMZN,Google RSS,neutral,0.0
+2026-07-23 14:40:00,Amazon stock may swing 6.4% on July 30 earnings report By Investing.com - Investing.com UK,AMZN,Google RSS,negative,-0.9142031073570251
+2026-07-23 13:40:19,Microsoft Stock Sits 11% Below Its 200-Day Average as Earnings Approach - Benzinga,MSFT,Google RSS,negative,-0.9731624722480774
+2026-07-23 12:45:43,Microsoft: Strong Buy Despite The AI CapEx Problem (NASDAQ:MSFT) - Seeking Alpha,MSFT,Google RSS,positive,0.9462190866470337
+2026-07-23 14:48:01,15 Billion Reasons Alphabet Shares Are Sinking After Reporting Strong Earnings Growth,NVDA,Yahoo RSS,negative,-0.9606502056121826
+2026-07-23 14:10:42,"As Analysts Bet on Boeing Turnaround, Retail Investors Fixate on One Uncomfortable Fact",NVDA,Yahoo RSS,neutral,0.0
+2026-07-23 12:06:00,"Dow Jones Futures Fall As Oil Prices Top $90; Google, Tesla Skid On Earnings, Capital Spending - Investor's Business Daily",TSLA,Google RSS,negative,-0.9245508313179016
+2026-07-23 13:14:43,Here’s How Much Traders See Intel Stock Moving After Earnings - Investopedia,TSLA,Google RSS,neutral,0.0
+2026-07-23 03:24:00,Tesla shares fall 6% in premarket as S&P 500 futures slide ahead of earnings,TSLA,Bing RSS,negative,-0.9659672379493713
+2026-07-23 14:25:42,"Tesla’s $28B quarter fueled by record deliveries, Semi production ramp",TSLA,Yahoo RSS,positive,0.7481577396392822
+2026-07-23 13:21:23,"Wall Street set for lower open as Alphabet and Tesla disappoint while oil prices climb: Dow Jones, S&P, Nasdaq, Futures",TSLA,Yahoo RSS,negative,-0.8631215691566467
+2026-07-23 13:06:26,"Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Major Tech Stocks Sell-Off",TSLA,Yahoo RSS,negative,-0.9519372582435608
+2026-07-23 13:17:00,Virtuix Expects to Report Major Sales Growth Following Meta Launch; Announces First Quarter FY2027 Results Conference Call,META,Yahoo RSS,neutral,0.0
