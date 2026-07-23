@@ -151,11 +151,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-23 19:58:44,59% of Berkshire Hathaway's Portfolio Sits in 5 Dow Stocks. This Is My Top Pick to Buy Now. - The Motley Fool,AAPL,Google RSS,neutral,0.0
 2026-07-23 20:10:52,"Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower - Pittsburgh Post-Gazette",GOOGL,Google RSS,negative,-0.8761534690856934
 2026-07-23 20:06:49,"Brent oil tops $100 per barrel, as Tesla and Alphabet drag Wall Street lower - Sentinel Colorado",GOOGL,Google RSS,negative,-0.94083571434021
-2026-07-23 03:48:28,"Stock market today: Major indexes close sharply lower as Alphabet, Tesla shares sink, oil tops $100 a barrel",GOOGL,Bing RSS,negative,-0.9698165059089661
+2026-07-23 03:48:28,"Stock market today: Major indexes close sharply lower as Alphabet, Tesla shares sink, oil tops $100 a barrel",GOOGL,Bing RSS,negative,-0.969816505908966
 2026-07-23 18:25:00,"Tesla Stock Is Falling After a Lousy Quarter, and Wall Street Is Still Buying the Future - Barron's",TSLA,Google RSS,negative,-0.946723997592926
 2026-07-23 13:17:00,"Tesla stock is falling after a lousy quarter, and Wall Street is still buying the future",TSLA,Bing RSS,negative,-0.9636178016662598
 2026-07-23 05:30:00,"Tesla tumbles 14% to 11-month low as profit miss, capex spending outlook weighs on stock",TSLA,Bing RSS,negative,-0.966623067855835
-2026-07-23 03:48:28,"Stock market today: Major indexes close sharply lower as Alphabet, Tesla shares sink, oil tops $100 a barrel",TSLA,Bing RSS,negative,-0.9698165059089661
+2026-07-23 03:48:28,"Stock market today: Major indexes close sharply lower as Alphabet, Tesla shares sink, oil tops $100 a barrel",TSLA,Bing RSS,negative,-0.969816505908966
 2026-07-23 20:47:00,"S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",AAPL,MarketWatch Top,neutral,0.0
 2026-07-23 20:47:00,"S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",MSFT,MarketWatch Top,neutral,0.0
 2026-07-23 20:47:00,"S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",META,MarketWatch Top,neutral,0.0
+2026-07-23 22:34:00,"S&P 500, Dow, Nasdaq End Lower Over Capex Concerns, Surging Oil — CBRS, AMD, GOOGL, TSLA, MSTR In Focus",GOOGL,Yahoo RSS,negative,-0.9263368248939514
+2026-07-23 22:31:07,"Markets News, July 23, 2026: Stocks Close Sharply Lower as Alphabet, Tesla Shares Sink, Oil Prices Surge - Investopedia",TSLA,Google RSS,negative,-0.9440840482711792
+2026-07-23 20:17:00,"Tesla Stock Is Falling After Lousy Quarter, and Wall Street Keeps Buying the Future - Barron's",TSLA,Google RSS,negative,-0.9539019465446472
+2026-07-23 23:00:36,"Tesla stock tumbles after earnings, one of its sharpest single-day declines - Teslarati",TSLA,Google RSS,negative,-0.969720721244812
+2026-07-23 15:19:00,"Tesla stock drops sharply amid glut of unsold EVs, crash report uptick",TSLA,Bing RSS,negative,-0.963784396648407
+2026-07-23 22:34:00,"S&P 500, Dow, Nasdaq End Lower Over Capex Concerns, Surging Oil — CBRS, AMD, GOOGL, TSLA, MSTR In Focus",TSLA,Yahoo RSS,negative,-0.9263368248939514
+2026-07-23 20:17:00,"Tesla Stock Is Falling After a Lousy Quarter, and Wall Street Is Still Buying the Future",TSLA,Yahoo RSS,negative,-0.9636178016662598
