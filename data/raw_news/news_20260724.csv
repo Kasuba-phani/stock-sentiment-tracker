@@ -72,7 +72,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-23 21:10:22,Dow drops 500 points as Brent crude surges above $100; Alphabet and Tesla tank: Live updates - CNBC,GOOGL,Google RSS,negative,-0.5662183165550232
 2026-07-24 03:03:58,NVIDIA (NVDA) Shares Decline Despite Strong Alphabet Earnings Re - GuruFocus,GOOGL,Google RSS,negative,-0.9713232517242432
 2026-07-23 16:31:00,"CapEx Fears Eclipse Alphabet’s Strong Q2, but GOOGL Stock Still Looks Attractive",GOOGL,Bing RSS,negative,-0.57080078125
-2026-07-23 13:19:40,Oil tops $100 per barrel as Tesla and Alphabet declines yank Wall Street lower,GOOGL,Bing RSS,negative,-0.9343922138214111
+2026-07-23 13:19:40,Oil tops $100 per barrel as Tesla and Alphabet declines yank Wall Street lower,GOOGL,Bing RSS,negative,-0.9343922138214112
 2026-07-23 20:17:00,"Tesla Stock Is Falling After Lousy Quarter, and Wall Street Keeps Buying the Future - Barron's",TSLA,Google RSS,negative,-0.9539019465446472
 2026-07-23 21:59:00,Tesla plunges most in a year amid angst over AI spending - AFR,TSLA,Google RSS,negative,-0.9662083983421326
 2026-07-22 18:58:32,"CapEx Is in Focus for Microsoft Stock Ahead of Q4 Earnings, But the Bull Case Remains Strong",MSFT,Yahoo Global,neutral,0.0
+2026-07-23 20:44:16,"Oil tops $100 US per barrel, as Tesla and Alphabet drag stocks lower - CBC",GOOGL,Google RSS,negative,-0.9136890172958374
+2026-07-24 09:19:03,Alphabet Inc. $GOOG Shares Sold by Welch Capital Partners LLC NY - MarketBeat,GOOGL,Google RSS,neutral,0.0
+2026-07-24 08:18:54,"Stock market today: Dow, S&P 500, Nasdaq futures steady from tech rout as new tariffs take effect",GOOGL,Yahoo RSS,positive,0.8591514825820923
+2026-07-23 20:17:00,"Tesla Stock Is Falling After a Lousy Quarter, and Wall Street Is Still Buying the Future - Barron's",TSLA,Google RSS,negative,-0.946723997592926
+2026-07-24 07:25:14,Tesla (TSLA) Faces Stock Plunge Despite Strong Q2 Revenue - GuruFocus,TSLA,Google RSS,negative,-0.9690932631492615
+2026-07-23 13:06:00,"Tesla tumbles 14% to 11-month low as profit miss, capex spending outlook weighs on stock",TSLA,Bing RSS,negative,-0.966623067855835
+2026-07-24 08:18:54,"Stock market today: Dow, S&P 500, Nasdaq futures steady from tech rout as new tariffs take effect",TSLA,Yahoo RSS,positive,0.8591514825820923
+2026-07-23 01:05:41,Meta stock may move 7.9% on July 29 earnings report By Investing.com - Investing.com Nigeria,META,Google RSS,neutral,0.0
+2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",GOOGL,Yahoo Global,negative,-0.9675696492195129
+2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",TSLA,Yahoo Global,negative,-0.9675696492195129
+2026-07-22 23:05:11,Tesla Earnings Miss Despite Strong EV Sales; Elon Musk Preaches Robotaxi Caution,TSLA,Yahoo Global,negative,-0.9250357151031494
