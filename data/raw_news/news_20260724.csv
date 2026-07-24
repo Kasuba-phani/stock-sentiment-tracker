@@ -80,10 +80,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-24 09:19:03,Alphabet Inc. $GOOG Shares Sold by Welch Capital Partners LLC NY - MarketBeat,GOOGL,Google RSS,neutral,0.0
 2026-07-24 08:18:54,"Stock market today: Dow, S&P 500, Nasdaq futures steady from tech rout as new tariffs take effect",GOOGL,Yahoo RSS,positive,0.8591514825820923
 2026-07-23 20:17:00,"Tesla Stock Is Falling After a Lousy Quarter, and Wall Street Is Still Buying the Future - Barron's",TSLA,Google RSS,negative,-0.946723997592926
-2026-07-24 07:25:14,Tesla (TSLA) Faces Stock Plunge Despite Strong Q2 Revenue - GuruFocus,TSLA,Google RSS,negative,-0.9690932631492615
+2026-07-24 07:25:14,Tesla (TSLA) Faces Stock Plunge Despite Strong Q2 Revenue - GuruFocus,TSLA,Google RSS,negative,-0.9690932631492616
 2026-07-23 13:06:00,"Tesla tumbles 14% to 11-month low as profit miss, capex spending outlook weighs on stock",TSLA,Bing RSS,negative,-0.966623067855835
 2026-07-24 08:18:54,"Stock market today: Dow, S&P 500, Nasdaq futures steady from tech rout as new tariffs take effect",TSLA,Yahoo RSS,positive,0.8591514825820923
 2026-07-23 01:05:41,Meta stock may move 7.9% on July 29 earnings report By Investing.com - Investing.com Nigeria,META,Google RSS,neutral,0.0
-2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",GOOGL,Yahoo Global,negative,-0.9675696492195129
-2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",TSLA,Yahoo Global,negative,-0.9675696492195129
+2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",GOOGL,Yahoo Global,negative,-0.9675696492195128
+2026-07-22 08:36:44,"Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise, Alphabet and Tesla earnings in focus",TSLA,Yahoo Global,negative,-0.9675696492195128
 2026-07-22 23:05:11,Tesla Earnings Miss Despite Strong EV Sales; Elon Musk Preaches Robotaxi Caution,TSLA,Yahoo Global,negative,-0.9250357151031494
+2026-07-24 08:58:12,Why Is Alphabet (GOOGL) Still Falling After a Record Q2 Beat? - TradingKey,GOOGL,Google RSS,negative,-0.8127870559692383
+2026-07-24 10:04:38,GOOGL Stock Inches Up Premarket: Retail Traders Are Buying The Dip After CapEx-Fueled Selloff,GOOGL,Yahoo RSS,positive,0.8740207552909851
+2026-07-24 08:18:54,"Stock market today: Dow, S&P 500, Nasdaq futures rise after tech rout as new Trump tariffs take effect",GOOGL,Yahoo RSS,positive,0.8167535662651062
+2026-07-24 11:08:00,Why Nvidia Is Falling When Other Chip Stocks Are Rising,AMZN,Yahoo RSS,negative,-0.8878054022789001
+2026-07-24 11:08:00,Why Nvidia Is Falling When Other Chip Stocks Are Rising,MSFT,Yahoo RSS,negative,-0.8878054022789001
+2026-07-24 11:08:00,Why Nvidia Is Falling When Other Chip Stocks Are Rising - Barron's,NVDA,Google RSS,negative,-0.4550037384033203
+2026-07-24 11:08:00,Nvidia Stock Is Falling When Other Chip Names Are Rising - Barron's,NVDA,Google RSS,negative,-0.9234711527824402
+2026-07-23 22:00:00,Nvidia stock is barely beating the S&P 500 index in 2026 despite record revenue. Here's what this performance might suggest.,NVDA,Bing RSS,neutral,0.0
+2026-07-24 11:08:00,Why Nvidia Is Falling When Other Chip Stocks Are Rising,NVDA,Yahoo RSS,negative,-0.8878054022789001
+2026-07-24 10:34:24,Intel rises as strong forecasts signal AI boost for turnaround,NVDA,Yahoo RSS,positive,0.9199461340904236
