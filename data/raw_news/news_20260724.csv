@@ -128,8 +128,19 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-24 19:07:00,Rising Interest Rates Are a Danger for Markets—and a Reason to Own TIPS,GOOGL,Yahoo RSS,negative,-0.5136557817459106
 2026-07-24 19:07:00,Rising Interest Rates Are a Danger for Markets—and a Reason to Own TIPS,AMZN,Yahoo RSS,negative,-0.5136557817459106
 2026-07-24 19:07:00,Rising Interest Rates Are a Danger for Markets—and a Reason to Own TIPS,MSFT,Yahoo RSS,negative,-0.5136557817459106
-2026-07-24 20:04:12,"Tesla Shares Plunge: Falling Profits, Robotaxi Delays Spook Investors - MarketWise",TSLA,Google RSS,negative,-0.9666832089424133
+2026-07-24 20:04:12,"Tesla Shares Plunge: Falling Profits, Robotaxi Delays Spook Investors - MarketWise",TSLA,Google RSS,negative,-0.9666832089424132
 2026-07-24 20:22:49,"US Equity Indexes Fall This Week as Mag-7 Disappoint Bulls, Treasury Yields Jump With Crude Oil Amid Houthis' Red Sea Attacks",TSLA,Yahoo RSS,negative,-0.9557597637176514
-2026-07-24 18:00:15,Magnificent 7 stocks shed hundreds of billions amid AI spending fears,TSLA,Yahoo RSS,negative,-0.9706573486328125
+2026-07-24 18:00:15,Magnificent 7 stocks shed hundreds of billions amid AI spending fears,TSLA,Yahoo RSS,negative,-0.9706573486328124
 2026-07-24 19:07:00,Rising Interest Rates Are a Danger for Markets—and a Reason to Own TIPS,META,Yahoo RSS,negative,-0.5136557817459106
-2026-07-17 03:44:13,Netflix stock falls over 8% after disappointing earnings forecast - In Business Madison,NFLX,Google RSS,negative,-0.9727985262870789
+2026-07-17 03:44:13,Netflix stock falls over 8% after disappointing earnings forecast - In Business Madison,NFLX,Google RSS,negative,-0.9727985262870787
+2026-07-24 14:49:00,"Dow Jones futures: Apple earnings, Iran news, Fed meeting loom as AI stocks sell off",AAPL,Bing RSS,negative,-0.6027222871780396
+2026-07-24 22:19:46,Nasdaq lags on angst over AI spending ahead of earnings reports,GOOGL,Yahoo RSS,negative,-0.9617021083831787
+2026-07-24 22:00:00,"What to watch next week: Big Tech earnings, the Fed, and Consumer Confidence",GOOGL,Yahoo RSS,neutral,0.0
+2026-07-24 22:00:00,"What to watch next week: Big Tech earnings, the Fed, and Consumer Confidence",MSFT,Yahoo RSS,neutral,0.0
+2026-07-24 22:57:00,Oracle Just Hit a New 52-Week Low. Wall Street's Average Target Is Still More Than Double the Stock.,NVDA,Yahoo RSS,neutral,0.0
+2026-07-24 22:50:00,"Is SoFi Technologies Stock a Bargain After Its Big Drop, or a Falling Knife?",NVDA,Yahoo RSS,neutral,0.0
+2026-07-24 21:16:32,Boeing Has a $695B Backlog and Analysts See 29% Upside. Should You Buy Before July 28 Earnings?,NVDA,Yahoo RSS,negative,-0.6138694882392883
+2026-07-24 22:00:00,"What to watch next week: Big Tech earnings, the Fed, and Consumer Confidence",TSLA,Yahoo RSS,neutral,0.0
+2026-07-24 20:21:00,Meta (META) Expected to Report Strong Earnings Driven by AI Tools - GuruFocus,META,Google RSS,positive,0.9478585720062256
+2026-07-24 22:00:00,"What to watch next week: Big Tech earnings, the Fed, and Consumer Confidence",META,Yahoo RSS,neutral,0.0
+2026-07-20 12:14:14,Netflix stock analysis: bulls vs. bears after a 43% selloff - Investing.com,NFLX,Google RSS,neutral,0.0
