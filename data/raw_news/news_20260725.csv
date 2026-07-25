@@ -69,5 +69,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-25 09:41:00,3 Major Reasons to Buy Microsoft Before July 29 Q4 Earnings,MSFT,Bing RSS,neutral,0.0
 2026-07-25 16:41:03,3 Major Reasons to Buy Microsoft Before July 29 Q4 Earnings,NVDA,Yahoo RSS,neutral,0.0
 2026-07-25 15:30:51,Billionaire Investor Seth Klarman’s Top 5 Stocks: Would He Buy More Today?,NVDA,Yahoo RSS,neutral,0.0
-2026-07-23 14:06:31,"Alphabet Inc. (GOOGL.US) hit by simultaneous stock and bond sell-off! AI spending fears crush share price, while its 'century bond' drops below 90% of par value. - Moomoo",GOOGL,Google RSS,negative,-0.9598512053489685
+2026-07-23 14:06:31,"Alphabet Inc. (GOOGL.US) hit by simultaneous stock and bond sell-off! AI spending fears crush share price, while its 'century bond' drops below 90% of par value. - Moomoo",GOOGL,Google RSS,negative,-0.9598512053489684
 2026-07-23 10:54:00,"Tesla stock drops sharply amid glut of unsold EVs, crash report uptick",TSLA,Bing RSS,negative,-0.963784396648407
+2026-07-23 22:26:53,"Tesla stock tumbles after earnings, one of its sharpest single-day declines - Teslarati",TSLA,Google RSS,negative,-0.969720721244812
