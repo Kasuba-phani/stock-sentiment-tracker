@@ -72,3 +72,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-23 14:06:31,"Alphabet Inc. (GOOGL.US) hit by simultaneous stock and bond sell-off! AI spending fears crush share price, while its 'century bond' drops below 90% of par value. - Moomoo",GOOGL,Google RSS,negative,-0.9598512053489684
 2026-07-23 10:54:00,"Tesla stock drops sharply amid glut of unsold EVs, crash report uptick",TSLA,Bing RSS,negative,-0.963784396648407
 2026-07-23 22:26:53,"Tesla stock tumbles after earnings, one of its sharpest single-day declines - Teslarati",TSLA,Google RSS,negative,-0.969720721244812
+2026-07-24 19:10:48,Megacap earnings and Fed meeting could test a market on edge next week. Here’s what’s ahead - CNBC,MSFT,Google RSS,neutral,0.0
+2026-07-25 09:45:00,Microsoft stock is near a 1-year low. That could change on July 29.,MSFT,Bing RSS,negative,-0.9311854243278503
+2026-07-23 13:04:00,"Tesla tumbles 14% to 11-month low as profit miss, capex spending outlook weighs on stock",TSLA,Bing RSS,negative,-0.966623067855835
+2026-07-23 06:18:48,Meta stock trades below three of its four key averages ahead of earnings,META,Bing RSS,negative,-0.9327182769775391
