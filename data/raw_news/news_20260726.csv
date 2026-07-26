@@ -80,3 +80,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-23 12:45:43,Microsoft: Strong Buy Despite The AI CapEx Problem (NASDAQ:MSFT) - Seeking Alpha,MSFT,Google RSS,positive,0.9462190866470336
 2026-07-23 13:17:00,"Tesla stock is falling after a lousy quarter, and Wall Street is still buying the future",TSLA,Bing RSS,negative,-0.9636178016662598
 2026-07-20 13:26:37,Why Is Netflix Stock Falling Monday? - Benzinga,NFLX,Google RSS,negative,-0.9047105312347412
+2026-07-26 18:42:00,"Dow Jones Futures: U.S., Iran Seek Deal; Apple Leads Earnings Wave, Fed Meeting Ahead - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-07-26 18:00:00,"Fed Meeting, Inflation, Boeing, Meta, Apple, Exxon, and More to Watch This Week",AAPL,Yahoo RSS,neutral,0.0
+2026-07-26 18:00:32,Alphabet Raises AI Spending But Still Can't Meet Demand: 'We're Still in a Supply Constraint Environment',GOOGL,Yahoo RSS,negative,-0.9609790444374084
+2026-07-26 10:30:02,Amazon stock just hit a major hurdle ahead of earnings,AMZN,Bing RSS,negative,-0.4163975715637207
+2026-07-26 18:00:00,"Fed Meeting, Inflation, Boeing, Meta, Apple, Exxon, and More to Watch This Week",MSFT,Yahoo RSS,neutral,0.0
+2026-07-26 19:37:00,3 Absurdly Cheap Dividend Stocks to Buy Before August,NVDA,Yahoo RSS,neutral,0.0
+2026-07-26 18:50:00,Buy These 2 Boring Industrial Infrastructure Stocks This Month,NVDA,Yahoo RSS,neutral,0.0
+2026-07-26 18:00:00,"Fed Meeting, Inflation, Boeing, Meta, Apple, Exxon, and More to Watch This Week",META,Yahoo RSS,neutral,0.0
