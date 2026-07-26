@@ -62,4 +62,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-26 10:00:00,"4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",TSLA,Yahoo RSS,neutral,0.0
 2026-07-26 10:00:00,"4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",META,Yahoo RSS,neutral,0.0
 2026-07-26 05:45:19,Microsoft stock holds on AI and cloud growth - AD HOC NEWS,MSFT,Google RSS,neutral,0.0
-2026-07-24 08:24:13,"Meta’s Q2 earnings: Strong revenue expected, but AI spending could limit stock gains",META,Bing RSS,negative,-0.9230430722236633
+2026-07-24 08:24:13,"Meta’s Q2 earnings: Strong revenue expected, but AI spending could limit stock gains",META,Bing RSS,negative,-0.9230430722236632
+2026-07-26 05:40:00,"What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft Earnings; Fed Interest Rate Decision",AAPL,Bing RSS,neutral,0.0
+2026-07-26 13:13:21,Companies with aggressive buybacks have lagged the S&P 500 in the AI era,AAPL,Yahoo RSS,negative,-0.8995172381401062
+2026-07-26 13:13:21,Companies with aggressive buybacks have lagged the S&P 500 in the AI era,GOOGL,Yahoo RSS,negative,-0.8995172381401062
+2026-07-26 05:40:00,"What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft Earnings; Fed Interest Rate Decision",AMZN,Bing RSS,neutral,0.0
+2026-07-26 13:13:21,Companies with aggressive buybacks have lagged the S&P 500 in the AI era,AMZN,Yahoo RSS,negative,-0.8995172381401062
+2026-07-26 12:20:17,Microsoft Stock and 2 Software Names Built on Strong Fundamentals - simplywall.st,MSFT,Google RSS,positive,0.869621217250824
+2026-07-26 12:13:01,Microsoft stock trades near record territory as cloud and AI growth support valuation - AD HOC NEWS,MSFT,Google RSS,positive,0.8934713006019592
+2026-07-26 13:13:21,Companies with aggressive buybacks have lagged the S&P 500 in the AI era,MSFT,Yahoo RSS,negative,-0.8995172381401062
+2026-07-26 12:40:00,"What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft Earnings; Fed Interest Rate Decision",MSFT,Yahoo RSS,neutral,0.0
+2026-07-26 13:13:21,Companies with aggressive buybacks have lagged the S&P 500 in the AI era,NVDA,Yahoo RSS,negative,-0.8995172381401062
+2026-07-26 12:35:00,3 High-Yielding Dividend Stocks Worth Loading Up On Now (1 Yields Over 5.5%),NVDA,Yahoo RSS,neutral,0.0
+2026-07-23 20:17:00,"Tesla Stock Is Falling After Lousy Quarter, and Wall Street Keeps Buying the Future - Barron's",TSLA,Google RSS,negative,-0.9539019465446472
+2026-07-26 05:40:00,"What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft Earnings; Fed Interest Rate Decision",META,Bing RSS,neutral,0.0
+2026-07-26 13:13:21,Companies with aggressive buybacks have lagged the S&P 500 in the AI era,META,Yahoo RSS,negative,-0.8995172381401062
