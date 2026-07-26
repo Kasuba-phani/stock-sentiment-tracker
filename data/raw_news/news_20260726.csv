@@ -45,5 +45,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-24 13:47:07,Netflix stock drops 44% amid slowing growth and opaque new engagement metrics. - Pluang,NFLX,Google RSS,negative,-0.9678401947021484
 2026-07-20 12:14:14,Netflix stock analysis: bulls vs. bears after a 43% selloff - Investing.com,NFLX,Google RSS,neutral,0.0
 2026-07-26 02:17:00,Morgan Stanley resets Microsoft stock forecast ahead of earnings - thestreet.com,MSFT,Google RSS,neutral,0.0
-2026-07-25 13:42:24,"Microsoft (MSFT) Week in Review: Down 18% YTD, July 29 Earnings, Azure 40% Growth - TradingKey",MSFT,Google RSS,negative,-0.9695273041725159
+2026-07-25 13:42:24,"Microsoft (MSFT) Week in Review: Down 18% YTD, July 29 Earnings, Azure 40% Growth - TradingKey",MSFT,Google RSS,negative,-0.969527304172516
 2026-07-23 10:54:00,"Tesla stock drops sharply amid glut of unsold EVs, crash report uptick",TSLA,Bing RSS,negative,-0.963784396648407
+2026-07-26 05:17:00,Morgan Stanley resets Microsoft stock forecast ahead of earnings,AAPL,Yahoo RSS,neutral,0.0
+2026-07-23 20:44:16,"Oil tops $100 US per barrel, as Tesla and Alphabet drag stocks lower - CBC",GOOGL,Google RSS,negative,-0.9136890172958374
+2026-07-26 05:17:00,Morgan Stanley resets Microsoft stock forecast ahead of earnings,GOOGL,Yahoo RSS,neutral,0.0
+2026-07-26 06:39:28,Amazon stock trades steady as cloud and retail growth support valuation - AD HOC NEWS,AMZN,Google RSS,positive,0.8955566883087158
+2026-07-25 19:17:00,Morgan Stanley resets Microsoft stock forecast ahead of earnings,MSFT,Bing RSS,neutral,0.0
+2026-07-26 05:17:00,Morgan Stanley resets Microsoft stock forecast ahead of earnings,NVDA,Yahoo RSS,neutral,0.0
+2026-07-26 05:17:00,Morgan Stanley resets Microsoft stock forecast ahead of earnings,TSLA,Yahoo RSS,neutral,0.0
+2026-07-26 05:17:00,Morgan Stanley resets Microsoft stock forecast ahead of earnings,META,Yahoo RSS,neutral,0.0
