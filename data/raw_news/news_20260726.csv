@@ -61,3 +61,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-26 10:00:00,"4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",MSFT,Yahoo RSS,neutral,0.0
 2026-07-26 10:00:00,"4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",TSLA,Yahoo RSS,neutral,0.0
 2026-07-26 10:00:00,"4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",META,Yahoo RSS,neutral,0.0
+2026-07-26 05:45:19,Microsoft stock holds on AI and cloud growth - AD HOC NEWS,MSFT,Google RSS,neutral,0.0
+2026-07-24 08:24:13,"Meta’s Q2 earnings: Strong revenue expected, but AI spending could limit stock gains",META,Bing RSS,negative,-0.9230430722236633
