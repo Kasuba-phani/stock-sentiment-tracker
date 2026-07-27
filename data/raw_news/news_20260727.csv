@@ -102,7 +102,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-27 16:00:27,Options prices currently imply an almost 4% move for Apple after July 30 earnings report - MacDailyNews,AAPL,Google RSS,neutral,0.0
 2026-07-27 17:22:30,How to Play GOOGL Stock as Shares Fall Below Their 200-Day Moving Average - Barchart.com,GOOGL,Google RSS,negative,-0.5857702493667603
 2026-07-27 17:28:36,"Microsoft earnings preview: Record AI spending, and a stock near a one-year low - GeekWire",MSFT,Google RSS,negative,-0.7429113388061523
-2026-07-27 10:28:36,"Microsoft earnings preview: Record AI spending, and a stock near a one-year low",MSFT,Bing RSS,negative,-0.9239068031311035
+2026-07-27 10:28:36,"Microsoft earnings preview: Record AI spending, and a stock near a one-year low",MSFT,Bing RSS,negative,-0.9239068031311036
 2026-07-27 16:42:38,"Stock Market Midday, July 27: Dow Edges Higher as Nvidia Drop Weighs on Nasdaq - The Motley Fool",NVDA,Google RSS,positive,0.7593446373939514
-2026-07-27 17:14:16,Dow Jones Holds Gains While S&P 500 Turns Negative on Semiconductor Weakness,NVDA,Yahoo RSS,negative,-0.9099206924438477
+2026-07-27 17:14:16,Dow Jones Holds Gains While S&P 500 Turns Negative on Semiconductor Weakness,NVDA,Yahoo RSS,negative,-0.9099206924438475
 2026-07-27 10:31:00,Michael Burry just sent a fresh signal to stock market investors,TSLA,Bing RSS,neutral,0.0
+2026-07-27 19:33:09,"Nvidia drops 4%, leading chip stocks lower amid renewed worries of circular financing",AAPL,Yahoo RSS,negative,-0.9678657054901123
+2026-07-27 16:42:46,Here’s How Much Traders See Seagate Stock Moving After Earnings - Investopedia,GOOGL,Google RSS,neutral,0.0
+2026-07-27 18:46:00,Oracle Stock Is Down 64% in 10 Months. Is This the Best Buying Opportunity in AI -- or a Falling Knife?,GOOGL,Yahoo RSS,negative,-0.9420478343963623
+2026-07-27 11:18:04,"Microsoft earnings preview: AI spending, cloud margins, and why the stock keeps falling",MSFT,Bing RSS,neutral,0.0
+2026-07-27 16:44:45,"Stock Market Midday, July 27: Dow Edges Higher as Nvidia Drop Weighs on Nasdaq - The Globe and Mail",NVDA,Google RSS,positive,0.49259164929389954
+2026-07-27 19:33:09,"Nvidia drops 4%, leading chip stocks lower amid renewed worries of circular financing",NVDA,Yahoo RSS,negative,-0.9678657054901123
+2026-07-27 18:46:00,Oracle Stock Is Down 64% in 10 Months. Is This the Best Buying Opportunity in AI -- or a Falling Knife?,NVDA,Yahoo RSS,negative,-0.9420478343963623
+2026-07-23 10:54:00,"Tesla stock drops sharply amid glut of unsold EVs, crash report uptick",TSLA,Bing RSS,negative,-0.963784396648407
+2026-07-27 14:39:02,Benchmark maintains Meta stock rating ahead of earnings report - Investing.com,META,Google RSS,neutral,0.0
+2026-07-22 18:21:38,Netflix stock analysis: No technical bottom yet despite solid fundamentals - Investing.com,NFLX,Google RSS,neutral,0.0
