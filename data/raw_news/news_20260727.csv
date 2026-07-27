@@ -106,13 +106,35 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-27 16:42:38,"Stock Market Midday, July 27: Dow Edges Higher as Nvidia Drop Weighs on Nasdaq - The Motley Fool",NVDA,Google RSS,positive,0.7593446373939514
 2026-07-27 17:14:16,Dow Jones Holds Gains While S&P 500 Turns Negative on Semiconductor Weakness,NVDA,Yahoo RSS,negative,-0.9099206924438475
 2026-07-27 10:31:00,Michael Burry just sent a fresh signal to stock market investors,TSLA,Bing RSS,neutral,0.0
-2026-07-27 19:33:09,"Nvidia drops 4%, leading chip stocks lower amid renewed worries of circular financing",AAPL,Yahoo RSS,negative,-0.9678657054901123
+2026-07-27 19:33:09,"Nvidia drops 4%, leading chip stocks lower amid renewed worries of circular financing",AAPL,Yahoo RSS,negative,-0.9678657054901124
 2026-07-27 16:42:46,Here’s How Much Traders See Seagate Stock Moving After Earnings - Investopedia,GOOGL,Google RSS,neutral,0.0
-2026-07-27 18:46:00,Oracle Stock Is Down 64% in 10 Months. Is This the Best Buying Opportunity in AI -- or a Falling Knife?,GOOGL,Yahoo RSS,negative,-0.9420478343963623
+2026-07-27 18:46:00,Oracle Stock Is Down 64% in 10 Months. Is This the Best Buying Opportunity in AI -- or a Falling Knife?,GOOGL,Yahoo RSS,negative,-0.9420478343963624
 2026-07-27 11:18:04,"Microsoft earnings preview: AI spending, cloud margins, and why the stock keeps falling",MSFT,Bing RSS,neutral,0.0
-2026-07-27 16:44:45,"Stock Market Midday, July 27: Dow Edges Higher as Nvidia Drop Weighs on Nasdaq - The Globe and Mail",NVDA,Google RSS,positive,0.49259164929389954
-2026-07-27 19:33:09,"Nvidia drops 4%, leading chip stocks lower amid renewed worries of circular financing",NVDA,Yahoo RSS,negative,-0.9678657054901123
-2026-07-27 18:46:00,Oracle Stock Is Down 64% in 10 Months. Is This the Best Buying Opportunity in AI -- or a Falling Knife?,NVDA,Yahoo RSS,negative,-0.9420478343963623
+2026-07-27 16:44:45,"Stock Market Midday, July 27: Dow Edges Higher as Nvidia Drop Weighs on Nasdaq - The Globe and Mail",NVDA,Google RSS,positive,0.4925916492938995
+2026-07-27 19:33:09,"Nvidia drops 4%, leading chip stocks lower amid renewed worries of circular financing",NVDA,Yahoo RSS,negative,-0.9678657054901124
+2026-07-27 18:46:00,Oracle Stock Is Down 64% in 10 Months. Is This the Best Buying Opportunity in AI -- or a Falling Knife?,NVDA,Yahoo RSS,negative,-0.9420478343963624
 2026-07-23 10:54:00,"Tesla stock drops sharply amid glut of unsold EVs, crash report uptick",TSLA,Bing RSS,negative,-0.963784396648407
 2026-07-27 14:39:02,Benchmark maintains Meta stock rating ahead of earnings report - Investing.com,META,Google RSS,neutral,0.0
 2026-07-22 18:21:38,Netflix stock analysis: No technical bottom yet despite solid fundamentals - Investing.com,NFLX,Google RSS,neutral,0.0
+2026-07-27 20:16:42,US Market Close: Major Indexes Mixed as Apple Overtakes Nvidia; Nasdaq Composite Index Falls for Fourth Day as Chip Stocks Lead Declines While Software Shares Rise - TradingKey,AAPL,Google RSS,negative,-0.9602446556091309
+2026-07-27 20:47:59,"Update: Wall Street Wavers as Oil Slides; Fed Decision, Major Earnings in Focus",AAPL,Yahoo RSS,negative,-0.8949012160301208
+2026-07-27 20:24:10,"Elon Musk's Tesla, SpaceX shed $1.2T in July, while Apple sprints ahead: Chart of the Day",AAPL,Yahoo RSS,neutral,0.0
+2026-07-27 19:33:09,"Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries of circular financing",AAPL,Yahoo RSS,negative,-0.9698503613471985
+2026-07-27 13:33:00,Alphabet's massive AI investment push signals more gains ahead for Nvidia,GOOGL,Bing RSS,positive,0.9484257698059082
+2026-07-27 20:24:10,"Elon Musk's Tesla, SpaceX shed $1.2T in July, while Apple sprints ahead: Chart of the Day",GOOGL,Yahoo RSS,neutral,0.0
+2026-07-27 19:03:50,Good Isn't Good Enough When It Comes to Tech Earnings,GOOGL,Yahoo RSS,neutral,0.0
+2026-07-27 20:47:59,"Update: Wall Street Wavers as Oil Slides; Fed Decision, Major Earnings in Focus",AMZN,Yahoo RSS,negative,-0.8949012160301208
+2026-07-27 19:03:50,Good Isn't Good Enough When It Comes to Tech Earnings,AMZN,Yahoo RSS,neutral,0.0
+2026-07-27 17:28:36,"Microsoft earnings preview: AI spending, cloud margins, and why the stock keeps falling - GeekWire",MSFT,Google RSS,negative,-0.6507489085197449
+2026-07-27 13:16:00,Options data reveals how MSFT stock may react to earnings on July 29,MSFT,Bing RSS,neutral,0.0
+2026-07-27 20:47:59,"Update: Wall Street Wavers as Oil Slides; Fed Decision, Major Earnings in Focus",MSFT,Yahoo RSS,negative,-0.8949012160301208
+2026-07-27 19:03:50,Good Isn't Good Enough When It Comes to Tech Earnings,MSFT,Yahoo RSS,neutral,0.0
+2026-07-27 20:45:00,"Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off - Investor's Business Daily",NVDA,Google RSS,negative,-0.7405600547790527
+2026-07-27 20:16:42,US Market Close: Major Indexes Mixed as Apple Overtakes Nvidia; Nasdaq Composite Index Falls for Fourth Day as Chip Stocks Lead Declines While Software Shares Rise - TradingKey,NVDA,Google RSS,negative,-0.9602446556091309
+2026-07-27 20:50:00,"SpaceX Stock Plummets 50% Below Its Post-IPO High. History Says a $5,000 Investment Will Be Worth This Much by June 2027.",NVDA,Yahoo RSS,negative,-0.9515721201896667
+2026-07-27 20:47:59,"Update: Wall Street Wavers as Oil Slides; Fed Decision, Major Earnings in Focus",NVDA,Yahoo RSS,negative,-0.8949012160301208
+2026-07-27 13:00:00,Prediction: Tesla stock will plunge to $100 if the Nasdaq enters a bear market,TSLA,Bing RSS,negative,-0.9598953723907471
+2026-07-27 20:24:10,"Elon Musk's Tesla, SpaceX shed $1.2T in July, while Apple sprints ahead: Chart of the Day",TSLA,Yahoo RSS,neutral,0.0
+2026-07-27 19:03:50,Good Isn't Good Enough When It Comes to Tech Earnings,TSLA,Yahoo RSS,neutral,0.0
+2026-07-27 20:47:59,"Update: Wall Street Wavers as Oil Slides; Fed Decision, Major Earnings in Focus",META,Yahoo RSS,negative,-0.8949012160301208
+2026-07-27 19:03:50,Good Isn't Good Enough When It Comes to Tech Earnings,META,Yahoo RSS,neutral,0.0
