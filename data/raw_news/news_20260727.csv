@@ -6,7 +6,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-26 13:13:21,Companies with aggressive buybacks have lagged the S&P 500 in the AI era,AAPL,Yahoo RSS,negative,-0.8995172381401062
 2026-07-26 10:00:00,"4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",AAPL,Yahoo RSS,neutral,0.0
 2026-07-26 05:17:00,Morgan Stanley resets Microsoft stock forecast ahead of earnings,AAPL,Yahoo RSS,neutral,0.0
-2026-07-24 18:01:00,Magnificent 7 stocks shed hundreds of billions amid AI spending fears - Fox Business,GOOGL,Google RSS,negative,-0.9394374489784241
+2026-07-24 18:01:00,Magnificent 7 stocks shed hundreds of billions amid AI spending fears - Fox Business,GOOGL,Google RSS,negative,-0.939437448978424
 2026-07-23 22:31:07,"Markets News, July 23, 2026: Stocks Close Sharply Lower as Alphabet, Tesla Shares Sink, Oil Prices Surge - Investopedia",GOOGL,Google RSS,negative,-0.9440840482711792
 2026-07-23 20:55:00,Why Alphabet Stock Is Falling: The 1 Key Metric Rattling Investors - Barron's,GOOGL,Google RSS,neutral,0.0
 2026-07-23 16:15:23,Alphabet stock outlook: why GOOGL is falling despite a record quarter - Investing.com,GOOGL,Google RSS,negative,-0.9073326587677002
@@ -42,7 +42,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-26 13:13:21,Companies with aggressive buybacks have lagged the S&P 500 in the AI era,MSFT,Yahoo RSS,negative,-0.8995172381401062
 2026-07-26 10:00:00,"4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",MSFT,Yahoo RSS,neutral,0.0
 2026-07-21 19:03:00,Dow Jones Banking Giant JPMorgan In A Buy Zone; Nvidia Stock Tests Key Level - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
-2026-07-22 10:25:00,Prediction: Nvidia Stock Will Jump Higher After August Earnings - The Motley Fool,NVDA,Google RSS,positive,0.9396296143531799
+2026-07-22 10:25:00,Prediction: Nvidia Stock Will Jump Higher After August Earnings - The Motley Fool,NVDA,Google RSS,positive,0.93962961435318
 2026-07-26 19:37:00,3 Absurdly Cheap Dividend Stocks to Buy Before August,NVDA,Yahoo RSS,neutral,0.0
 2026-07-23 22:31:07,"Markets News, July 23, 2026: Stocks Close Sharply Lower as Alphabet, Tesla Shares Sink, Oil Prices Surge - Investopedia",TSLA,Google RSS,negative,-0.9440840482711792
 2026-07-23 15:26:00,Tesla stock stumbles after latest earnings report - CNBC,TSLA,Google RSS,negative,-0.9591030478477478
@@ -61,3 +61,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-26 10:00:00,"4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",META,Yahoo RSS,neutral,0.0
 2026-07-26 05:17:00,Morgan Stanley resets Microsoft stock forecast ahead of earnings,META,Yahoo RSS,neutral,0.0
 2026-07-24 13:47:07,Netflix stock drops 44% amid slowing growth and opaque new engagement metrics. - Pluang,NFLX,Google RSS,negative,-0.9678401947021484
+2026-07-27 04:09:00,"Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-07-23 23:30:02,"CapEx Fears Eclipse Alphabet’s Strong Q2, but GOOGL Stock Still Looks Attractive - Barchart.com",GOOGL,Google RSS,positive,0.7875955104827881
+2026-07-27 02:05:25,"Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: NVDA, GOOGL, ORCL, TSLA, INTC",GOOGL,Yahoo RSS,neutral,0.0
+2026-07-26 10:30:02,Amazon stock just hit a major hurdle ahead of earnings,AMZN,Bing RSS,negative,-0.4163983166217804
+2026-07-23 17:30:00,"Quantum Computing Stocks Are Falling. Should You Buy IonQ or D-Wave, or Just Stick With Nvidia? - The Motley Fool",NVDA,Google RSS,negative,-0.771638035774231
+2026-07-27 02:22:28,"Nasdaq, S&P 500, Dow Futures Rise As Iran Pause Eases Oil Fears Ahead Of Big Tech Earnings, Fed Meeting: ORCL, NVDA, VG, DEL In Focus",NVDA,Yahoo RSS,neutral,0.0
+2026-07-27 02:05:25,"Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: NVDA, GOOGL, ORCL, TSLA, INTC",NVDA,Yahoo RSS,neutral,0.0
+2026-07-23 20:17:00,"Tesla Stock Is Falling After Lousy Quarter, and Wall Street Keeps Buying the Future - Barron's",TSLA,Google RSS,negative,-0.9539019465446472
+2026-07-27 02:05:25,"Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: NVDA, GOOGL, ORCL, TSLA, INTC",TSLA,Yahoo RSS,neutral,0.0
