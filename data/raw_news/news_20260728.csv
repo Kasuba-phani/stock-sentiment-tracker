@@ -1,6 +1,6 @@
 date,headline,ticker,source,sentiment_label,compound
 2026-07-27 21:16:17,"Investors Have Been Giving Tech Stocks a Hard Time Lately, Despite Strong Earnings - Investopedia",AAPL,Google RSS,negative,-0.7817765474319458
-2026-07-27 12:32:30,"Apple stock surges 20% since June, seen as mark... - Pluang",AAPL,Google RSS,positive,0.9438091516494751
+2026-07-27 12:32:30,"Apple stock surges 20% since June, seen as mark... - Pluang",AAPL,Google RSS,positive,0.9438091516494752
 2026-07-27 16:00:27,Options prices currently imply an almost 4% move for Apple after July 30 earnings report - MacDailyNews,AAPL,Google RSS,neutral,0.0
 2026-07-27 22:29:03,"Dow Ends Higher On Support From Weak Oil, But AI Concerns Weigh On Nasdaq, S&P 500 — ASML, MSFT, NVDA, AMZN, PSKY In Focus",AAPL,Yahoo RSS,positive,0.5486974120140076
 2026-07-27 20:47:59,"Update: Wall Street Wavers as Oil Slides; Fed Decision, Major Earnings in Focus",AAPL,Yahoo RSS,negative,-0.8949015736579895
@@ -42,3 +42,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-27 20:47:59,"Update: Wall Street Wavers as Oil Slides; Fed Decision, Major Earnings in Focus",META,Yahoo RSS,negative,-0.8949015736579895
 2026-07-27 19:03:50,Good Isn't Good Enough When It Comes to Tech Earnings,META,Yahoo RSS,neutral,0.0
 2026-07-22 18:21:38,Netflix stock analysis: No technical bottom yet despite solid fundamentals - Investing.com,NFLX,Google RSS,neutral,0.0
+2026-07-26 05:42:00,"What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft Earnings; Fed Interest Rate Decision",AMZN,Bing RSS,neutral,0.0
+2026-07-27 17:28:36,"Microsoft earnings preview: AI spending, cloud margins, and why the stock keeps falling - GeekWire",MSFT,Google RSS,negative,-0.6507489085197449
+2026-07-28 02:11:00,"Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off - Investor's Business Daily",NVDA,Google RSS,negative,-0.7405593991279602
+2026-07-28 03:05:00,Prediction: This Beaten-Down Growth Stock Will Soar in August,NVDA,Yahoo RSS,positive,0.4163723587989807
+2026-07-23 02:14:28,Meta stock may move 7.9% on July 29 earnings report By Investing.com - Investing.com Nigeria,META,Google RSS,neutral,0.0
