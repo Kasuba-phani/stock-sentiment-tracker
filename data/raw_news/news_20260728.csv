@@ -74,3 +74,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-28 10:53:00,"UPS hikes full-year forecasts after Amazon delivery reductions, shares drop on investor skepticism - marketscreener.com",AMZN,Google RSS,negative,-0.9512876868247986
 2026-07-28 12:00:01,"Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off - CNBC",MSFT,Google RSS,negative,-0.7318146228790283
 2026-07-28 15:13:20,Microsoft earnings setup: Options market prices in roughly a 6% post-results move (MSFT:NASDAQ) - Seeking Alpha,MSFT,Google RSS,neutral,0.0
+2026-07-28 19:30:00,"Global Digital Transformation in Healthcare Market Size/Share Worth USD 270.9 Billion by 2035 at a 14.13% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, SWOT Analysis)",GOOGL,Yahoo RSS,neutral,0.0
+2026-07-28 19:30:00,"Global Digital Transformation in Healthcare Market Size/Share Worth USD 270.9 Billion by 2035 at a 14.13% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, SWOT Analysis)",MSFT,Yahoo RSS,neutral,0.0
+2026-07-28 18:31:23,2 AI Stocks That Beat NVIDIA - and Could Soar Even Higher - Zacks Investment Research,NVDA,Google RSS,positive,0.8283956050872803
+2026-07-28 12:00:01,"Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off - CNBC",META,Google RSS,negative,-0.7318147420883179
