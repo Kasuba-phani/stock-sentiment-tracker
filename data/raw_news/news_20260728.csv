@@ -62,4 +62,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-26 12:40:00,"What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft Earnings; Fed Interest Rate Decision - Investopedia",AMZN,Google RSS,neutral,0.0
 2026-07-27 21:16:17,"Investors Have Been Giving Tech Stocks a Hard Time Lately, Despite Strong Earnings - Investopedia",MSFT,Google RSS,negative,-0.781777560710907
 2026-07-28 13:03:34,"Nvidia stock dips late July, wiping out gains f... - Pluang",NVDA,Google RSS,negative,-0.96947181224823
-2026-07-28 11:32:20,"Tesla stock hits oversold level, signaling poss... - Pluang",TSLA,Google RSS,negative,-0.9438832998275757
+2026-07-28 11:32:20,"Tesla stock hits oversold level, signaling poss... - Pluang",TSLA,Google RSS,negative,-0.9438832998275756
+2026-07-28 15:46:35,"UPS hikes full-year forecasts after Amazon delivery reductions, shares drop on investor skepticism - Reuters",AMZN,Google RSS,negative,-0.9590421915054321
+2026-07-27 21:16:17,"Investors Have Been Giving Tech Stocks a Hard Time Lately, Despite Strong Earnings - Investopedia",AMZN,Google RSS,negative,-0.781777560710907
+2026-07-28 14:25:00,UPS raises 2026 outlook after second quarter results exceed expectations,AMZN,Yahoo RSS,positive,0.8906854391098022
+2026-07-26 02:17:00,Morgan Stanley resets Microsoft stock forecast ahead of earnings - thestreet.com,MSFT,Google RSS,neutral,0.0
+2026-07-28 03:21:00,Will earnings be the turning point for Microsoft stock?,MSFT,Bing RSS,neutral,0.0
+2026-07-28 02:37:00,Microsoft Stock Is Beaten Down Heading Into Earnings - But Analysts Still See Big Upside,MSFT,Bing RSS,negative,-0.9684363007545471
+2026-07-27 08:14:00,Tesla stock falls as post-earnings selloff continues,TSLA,Bing RSS,negative,-0.9555590152740479
+2026-07-28 16:01:06,Meta earnings setup: Options market prices in nearly 7% stock swing post-Q2 - Seeking Alpha,META,Google RSS,positive,0.43205198645591736
