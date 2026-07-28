@@ -51,9 +51,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-22 18:58:32,"CapEx Is in Focus for Microsoft Stock Ahead of Q4 Earnings, But the Bull Case Remains Strong - Barchart.com",MSFT,Google RSS,neutral,0.0
 2026-07-28 08:28:32,"Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens",NVDA,Yahoo RSS,negative,-0.9663764834403992
 2026-07-28 09:45:24,Sustainable Insight Capital Management LLC Increases Stock Position in Alphabet Inc. $GOOG - MarketBeat,GOOGL,Google RSS,positive,0.8987963199615479
-2026-07-28 09:37:00,Microsoft Stock Is Beaten Down Heading Into Earnings - But Analysts Still See Big Upside - FinanceBuzz,MSFT,Google RSS,negative,-0.9665170311927795
+2026-07-28 09:37:00,Microsoft Stock Is Beaten Down Heading Into Earnings - But Analysts Still See Big Upside - FinanceBuzz,MSFT,Google RSS,negative,-0.9665170311927797
 2026-07-28 09:21:51,Microsoft Earnings Preview: Azure Growth and AI Capex in Focus; Will Microsoft Shares Surge or Remain Under Pressure? - TradingKey,MSFT,Google RSS,neutral,0.0
 2026-07-28 09:31:22,U.S. Chip Stocks Suffering from Fragile Investor Sentiment,MSFT,Yahoo RSS,negative,-0.9669915437698364
 2026-07-23 20:17:00,"Tesla Stock Is Falling After Lousy Quarter, and Wall Street Keeps Buying the Future - Barron's",TSLA,Google RSS,negative,-0.9539019465446472
 2026-07-27 21:05:25,Meta Reports Earnings Wednesday. Here’s How Much Traders Expect Its Stock to Move - Investopedia,TSLA,Google RSS,neutral,0.0
 2026-07-28 09:31:22,U.S. Chip Stocks Suffering from Fragile Investor Sentiment,META,Yahoo RSS,negative,-0.9669915437698364
+2026-07-28 12:00:01,"Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off - CNBC",GOOGL,Google RSS,negative,-0.7318147420883179
+2026-07-28 12:00:01,"Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off - CNBC",AMZN,Google RSS,negative,-0.7318147420883179
+2026-07-26 12:40:00,"What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft Earnings; Fed Interest Rate Decision - Investopedia",AMZN,Google RSS,neutral,0.0
+2026-07-27 21:16:17,"Investors Have Been Giving Tech Stocks a Hard Time Lately, Despite Strong Earnings - Investopedia",MSFT,Google RSS,negative,-0.781777560710907
+2026-07-28 13:03:34,"Nvidia stock dips late July, wiping out gains f... - Pluang",NVDA,Google RSS,negative,-0.96947181224823
+2026-07-28 11:32:20,"Tesla stock hits oversold level, signaling poss... - Pluang",TSLA,Google RSS,negative,-0.9438832998275757
