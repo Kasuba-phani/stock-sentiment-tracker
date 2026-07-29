@@ -100,3 +100,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-29 16:41:00,Amazon heads into Q2 earnings with UBS bullish on cloud growth and e-commerce margins,AMZN,Yahoo RSS,positive,0.8504528403282166
 2026-07-29 16:04:12,"Microsoft is set to report earnings after the bell, and all eyes are on its spending plans - CNBC",MSFT,Google RSS,neutral,0.0
 2026-07-29 09:04:00,"Microsoft is set to report earnings after the bell, and all eyes are on its spending plans",MSFT,Bing RSS,neutral,0.0
+2026-07-29 11:54:22,Microsoft Likely To Report Higher Q4 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call - benzinga.com,MSFT,Google RSS,neutral,0.0
+2026-07-23 13:40:19,Microsoft Stock Sits 11% Below Its 200-Day Average as Earnings Approach - benzinga.com,MSFT,Google RSS,negative,-0.9200798273086548
+2026-07-29 18:37:01,"Stock Market Today: Nasdaq, Dow Pare Losses As Fed Stands Pat On Key Rate; Meta Wobbles (Live Coverage)",MSFT,Yahoo RSS,negative,-0.860002338886261
+2026-07-29 18:25:00,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans",NVDA,Yahoo RSS,negative,-0.9742087125778198
+2026-07-29 18:29:24,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - The Globe and Mail",TSLA,Google RSS,negative,-0.9731068015098572
+2026-07-29 19:14:29,Tesla stock plunged 18% in its worst week since 2022 over concerns about Elon Musk's robotaxi and AI investments. - Pluang,TSLA,Google RSS,negative,-0.9593892693519592
+2026-07-29 11:26:00,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans",TSLA,Bing RSS,negative,-0.9742087125778198
+2026-07-29 08:15:10,Meta slides into earnings after longest losing streak on record (META:NASDAQ) - Seeking Alpha,META,Google RSS,negative,-0.6904761791229248
+2026-07-29 18:37:01,"Stock Market Today: Nasdaq, Dow Pare Losses As Fed Stands Pat On Key Rate; Meta Wobbles (Live Coverage)",META,Yahoo RSS,negative,-0.860002338886261
