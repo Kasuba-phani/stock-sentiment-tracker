@@ -91,6 +91,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-29 15:40:45,"Top Midday Stories: Stocks Down, Oil Up as Trump Vows Strong Response to Iran Attacks; Vertiv Q2 Revenue Misses Estimates",MSFT,Yahoo RSS,negative,-0.7015272974967957
 2026-07-29 13:17:48,"U.S. Futures Hold Steady as Investors Await Federal Reserve Decision: Dow Jones, S&P, Nasdaq, Wall Street",MSFT,Yahoo RSS,neutral,0.0
 2026-07-29 13:26:07,Crypto markets set Nvidia stock price for end of August 2026 - Finbold,NVDA,Google RSS,neutral,0.0
-2026-07-29 14:09:40,Tesla (TSLA) Stock Still Trades At A Premium On Sales Despite Weaker Earnings,TSLA,Yahoo RSS,positive,0.9009813666343689
+2026-07-29 14:09:40,Tesla (TSLA) Stock Still Trades At A Premium On Sales Despite Weaker Earnings,TSLA,Yahoo RSS,positive,0.9009813666343688
 2026-07-27 15:36:43,Benchmark maintains Meta stock rating ahead of earnings report By Investing.com - Investing.com Nigeria,META,Google RSS,neutral,0.0
 2026-07-29 13:17:48,"U.S. Futures Hold Steady as Investors Await Federal Reserve Decision: Dow Jones, S&P, Nasdaq, Wall Street",META,Yahoo RSS,neutral,0.0
+2026-07-29 15:59:00,Apple's Q3 Earnings: Strong iPhone 17 Shipment to Aid Top-Line Growth,AAPL,Yahoo RSS,positive,0.950465738773346
+2026-07-29 14:50:00,Vertiv Earnings Beat Estimates. Why the Stock Is Falling.,GOOGL,Yahoo RSS,negative,-0.801726758480072
+2026-07-28 17:12:11,"UPS hikes full-year forecasts after Amazon delivery reductions, shares drop on investor skepticism - reuters.com",AMZN,Google RSS,negative,-0.9268828630447388
+2026-07-29 16:41:00,Amazon heads into Q2 earnings with UBS bullish on cloud growth and e-commerce margins,AMZN,Yahoo RSS,positive,0.8504528403282166
+2026-07-29 16:04:12,"Microsoft is set to report earnings after the bell, and all eyes are on its spending plans - CNBC",MSFT,Google RSS,neutral,0.0
+2026-07-29 09:04:00,"Microsoft is set to report earnings after the bell, and all eyes are on its spending plans",MSFT,Bing RSS,neutral,0.0
