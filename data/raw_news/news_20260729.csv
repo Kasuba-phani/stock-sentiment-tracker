@@ -50,7 +50,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-28 13:57:21,Amazon stock falls as Mizuho cuts price target ahead of earnings - eciks.org,AMZN,Google RSS,negative,-0.7822628617286682
 2026-07-28 20:01:40,Microsoft short interest hits decade high ahead of Q2 earnings as AI spending raises new questions - CNBC,MSFT,Google RSS,neutral,0.0
 2026-07-29 01:37:22,Satya Nadella's Microsoft Needs Power. Joe Creed's Caterpillar Sells It. - The Motley Fool,MSFT,Google RSS,neutral,0.0
-2026-07-28 02:37:00,Microsoft stock is beaten down heading into earnings - but analysts still see big upside,MSFT,Bing RSS,negative,-0.9684363007545471
+2026-07-28 02:37:00,Microsoft stock is beaten down heading into earnings - but analysts still see big upside,MSFT,Bing RSS,negative,-0.9684363007545472
 2026-07-27 09:13:00,Options data reveals how MSFT stock may react to earnings on July 29,MSFT,Bing RSS,neutral,0.0
 2026-07-25 09:41:00,3 Major Reasons to Buy Microsoft Before July 29 Q4 Earnings,MSFT,Bing RSS,neutral,0.0
 2026-07-29 01:35:00,Satya Nadella's Microsoft Needs Power. Joe Creed's Caterpillar Sells It.,MSFT,Yahoo RSS,neutral,0.0
@@ -58,3 +58,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-28 22:57:20,"SK Hynix's record profit misses forecasts, shares slump 13% despite robust AI chip demand",NVDA,Yahoo RSS,negative,-0.9734269380569458
 2026-07-29 01:35:00,Satya Nadella's Microsoft Needs Power. Joe Creed's Caterpillar Sells It.,META,Yahoo RSS,neutral,0.0
 2026-07-27 17:22:30,How to Play GOOGL Stock as Shares Fall Below Their 200-Day Moving Average,GOOGL,Yahoo Global,negative,-0.8009473085403442
+2026-07-28 14:23:37,Will earnings be the turning point for Microsoft stock? - Invezz,MSFT,Google RSS,neutral,0.0
+2026-07-29 07:17:17,Munster Warns Microsoft Is Falling Into AI ‘Value Trap’ Ahead of Earnings - TradingKey,MSFT,Google RSS,negative,-0.9495461583137512
+2026-07-27 13:42:50,Microsoft Will Report Q4 Earnings on July 29 — Here’s Who Owns MSFT Stock - TipRanks,MSFT,Google RSS,neutral,0.0
+2026-07-27 19:33:09,"Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries of circular financing",NVDA,Yahoo Global,negative,-0.9698503613471985
