@@ -109,26 +109,53 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-29 11:26:00,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans",TSLA,Bing RSS,negative,-0.9742087125778198
 2026-07-29 08:15:10,Meta slides into earnings after longest losing streak on record (META:NASDAQ) - Seeking Alpha,META,Google RSS,negative,-0.6904761791229248
 2026-07-29 18:37:01,"Stock Market Today: Nasdaq, Dow Pare Losses As Fed Stands Pat On Key Rate; Meta Wobbles (Live Coverage)",META,Yahoo RSS,negative,-0.860002338886261
-2026-07-29 20:01:55,"Qualcomm forecasts weak quarterly profit, expects Apple revenue drop to accelerate - marketscreener.com",AAPL,Google RSS,negative,-0.9610744118690491
-2026-07-29 13:31:00,"Apple stock misses the $5 trillion mark, snapping three-day winning streak",AAPL,Bing RSS,negative,-0.44041693210601807
+2026-07-29 20:01:55,"Qualcomm forecasts weak quarterly profit, expects Apple revenue drop to accelerate - marketscreener.com",AAPL,Google RSS,negative,-0.9610744118690492
+2026-07-29 13:31:00,"Apple stock misses the $5 trillion mark, snapping three-day winning streak",AAPL,Bing RSS,negative,-0.440416932106018
 2026-07-29 20:01:52,"Qualcomm forecasts weak quarterly profit, expects Apple revenue drop to accelerate",AAPL,Yahoo RSS,negative,-0.9747470617294312
 2026-07-28 12:00:01,"Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off - CNBC",GOOGL,Google RSS,negative,-0.7318147420883179
 2026-07-29 10:57:00,Amazon earnings preview: Wall Street looks for more cloud growth as AI spending hits a record,AMZN,Bing RSS,positive,0.926041305065155
-2026-07-29 20:47:00,Microsoft (MSFT) Stock Jumps After Earnings as Azure Growth Hits 43%- Is AI Spending Paying Off? - Stocks Down Under,MSFT,Google RSS,negative,-0.9429164528846741
+2026-07-29 20:47:00,Microsoft (MSFT) Stock Jumps After Earnings as Azure Growth Hits 43%- Is AI Spending Paying Off? - Stocks Down Under,MSFT,Google RSS,negative,-0.942916452884674
 2026-07-29 20:32:00,"Microsoft Crushes Q4 as Azure Growth Fuels AI Boom, How Should Traders Position? - BeInCrypto",MSFT,Google RSS,neutral,0.0
 2026-07-29 13:12:09,"Microsoft set for US$190 billion market value swing after earnings results, options indicate - BNN Bloomberg",MSFT,Google RSS,neutral,0.0
 2026-07-29 13:33:00,Microsoft stock rises on strong earnings. The cloud—and software—are bright spots.,MSFT,Bing RSS,positive,0.7973098754882812
-2026-07-29 13:15:00,"Stock Market Today (July 29, 2026): Dow tumbles 800 points as Fed holds interest rates steady",MSFT,Bing RSS,negative,-0.9583486914634705
+2026-07-29 13:15:00,"Stock Market Today (July 29, 2026): Dow tumbles 800 points as Fed holds interest rates steady",MSFT,Bing RSS,negative,-0.9583486914634703
 2026-07-29 20:32:48,"Microsoft Crushes Q4 as Azure Growth Fuels AI Boom, How Should Traders Position?",MSFT,Yahoo RSS,neutral,0.0
 2026-07-29 20:27:02,Microsoft Azure growth reaches 43% as cloud backlog climbs to $678 billion,MSFT,Yahoo RSS,positive,0.9453251957893372
 2026-07-29 20:25:00,Microsoft Q4 earnings top estimates on cloud momentum,MSFT,Yahoo RSS,neutral,0.0
 2026-07-29 20:04:28,"Microsoft tops quarterly cloud growth estimates, easing spending concerns",MSFT,Yahoo RSS,positive,0.9197663068771362
-2026-07-29 18:30:07,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - The Motley Fool",TSLA,Google RSS,negative,-0.9730916023254395
+2026-07-29 18:30:07,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - The Motley Fool",TSLA,Google RSS,negative,-0.9730916023254396
 2026-07-29 20:55:00,"Stocks Dive, Oil Soars On Trump's Iran Threat; Meta, Microsoft Report - Investor's Business Daily",META,Google RSS,neutral,0.0
 2026-07-29 10:25:29,"Microsoft set for $190 billion market value swing after earnings results, options indicate - Reuters",META,Google RSS,neutral,0.0
 2026-07-29 13:35:00,Meta stock falls sharply on weak earnings and capex boost,META,Bing RSS,negative,-0.9720511436462402
-2026-07-29 04:21:00,"Meta's stock sinks as earnings report disappoints, capex guidance nudged higher",META,Bing RSS,negative,-0.9662385582923889
+2026-07-29 04:21:00,"Meta's stock sinks as earnings report disappoints, capex guidance nudged higher",META,Bing RSS,negative,-0.9662385582923888
 2026-07-29 13:24:00,Meta stock falls 5% as capex outlook climbs to $145 billion,META,Bing RSS,negative,-0.9535058736801147
 2026-07-29 20:55:22,"Dow Jones Futures: Stock Market Tumbles, Oil Prices Soar On Trump's Iran Threats; Microsoft, Meta, Fortinet Earnings Late",META,Yahoo RSS,neutral,0.0
 2026-07-29 20:52:18,Meta Stock Slides After Sales Outlook Disappoints Amid Rising AI Costs,META,Yahoo RSS,negative,-0.9631928205490112
-2026-07-29 19:42:38,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
+2026-07-29 19:42:38,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.935252010822296
+2026-07-29 21:20:00,Microsoft Stock Rises on Strong Earnings. The Cloud—And Software—Are Bright Spots.,GOOGL,Yahoo RSS,positive,0.7973098754882812
+2026-07-28 12:00:01,"Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off - cnbc.com",AMZN,Google RSS,negative,-0.5440486669540405
+2026-07-29 21:20:00,Microsoft Stock Rises on Strong Earnings. The Cloud—And Software—Are Bright Spots.,AMZN,Yahoo RSS,positive,0.7973098754882812
+2026-07-29 21:12:38,"MSFT Stock Jumps 3% After-Hours — Lower-Than-Expected Q4 Capex, Strong Azure Sales Boost Sentiment",AMZN,Yahoo RSS,positive,0.7563136219978333
+2026-07-29 06:15:00,"Microsoft Stock Rises on Strong Earnings. Most Important, CapEx Holds Steady - Barron's",MSFT,Google RSS,positive,0.8104328513145447
+2026-07-29 21:34:08,"Microsoft tops quarterly cloud growth estimates, easing spending concerns - reuters.com",MSFT,Google RSS,positive,0.8218147158622742
+2026-07-29 21:34:36,"Microsoft Reports Strong Q4 Earnings, Driven by Azure Growth (MS - GuruFocus",MSFT,Google RSS,positive,0.9559624791145325
+2026-07-29 22:12:49,Microsoft Reports Strong Q4 Earnings Amid AI Investments (MSFT) - GuruFocus,MSFT,Google RSS,positive,0.9499151706695557
+2026-07-29 21:02:00,"Stocks Dive, Oil Soars On Trump's Iran Threat; Meta, Microsoft Report - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-07-29 20:30:47,Microsoft’s cloud business boosts sales as capex climbs to $41bn - Financial Times,MSFT,Google RSS,positive,0.9262160062789917
+2026-07-28 20:01:40,Microsoft short interest hits decade high ahead of Q2 earnings as AI spending raises new questions - cnbc.com,MSFT,Google RSS,neutral,0.0
+2026-07-29 02:15:00,Satya Nadella's Microsoft Needs Power. Joe Creed's Caterpillar Sells It. - fool.com,MSFT,Google RSS,neutral,0.0
+2026-07-29 21:22:44,Microsoft shares rise as Azure growth beats forecasts despite cash-flow squeeze - TechStock²,MSFT,Google RSS,positive,0.8709772825241089
+2026-07-29 15:30:00,"Microsoft stock rises on strong earnings. Most important, CapEx holds steady",MSFT,Bing RSS,positive,0.8610048890113831
+2026-07-29 15:20:00,Microsoft stock surges 3% after beating Q4 estimates,MSFT,Bing RSS,positive,0.9294881224632263
+2026-07-29 15:20:00,Microsoft’s AI Business Keeps Accelerating. Meta’s Profit Miss Shakes Investor Confidence And Its Stock Plunges,MSFT,Bing RSS,negative,-0.9679661989212036
+2026-07-29 22:54:48,"Dow Jones Futures: Stock Market Tumbles, Oil Prices Soar On Trump's Iran Threats; Microsoft, Meta, Fortinet Earnings Late",MSFT,Yahoo RSS,neutral,0.0
+2026-07-29 21:20:00,Microsoft Stock Rises on Strong Earnings. The Cloud—And Software—Are Bright Spots.,MSFT,Yahoo RSS,positive,0.7973098754882812
+2026-07-29 21:12:38,"MSFT Stock Jumps 3% After-Hours — Lower-Than-Expected Q4 Capex, Strong Azure Sales Boost Sentiment",MSFT,Yahoo RSS,positive,0.7563136219978333
+2026-07-29 21:02:17,"Stock Market Today: Dow Craters 1,110 Points As Bond Yields Jump On Fed Worries; Meta Extends Losses",MSFT,Yahoo RSS,negative,-0.6453862190246582
+2026-07-29 19:05:00,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - fool.com",TSLA,Google RSS,negative,-0.9739684462547302
+2026-07-23 15:26:00,Tesla stock stumbles after latest earnings report - cnbc.com,TSLA,Google RSS,negative,-0.9522018432617188
+2026-07-29 19:14:29,Tesla stock plunged 18% in its worst week since 2022 over concerns about Elon Musk's robotaxi and AI investments. - pluang.com,TSLA,Google RSS,negative,-0.9550126791000366
+2026-07-29 20:01:59,"Meta reports mixed quarter, stock slides more than 8% - cnbc.com",META,Google RSS,negative,-0.8851211071014404
+2026-07-29 15:20:00,Microsoft’s AI Business Keeps Accelerating. Meta’s Profit Miss Shakes Investor Confidence And Its Stock Plunges,META,Bing RSS,negative,-0.9679661989212036
+2026-07-29 21:12:38,"MSFT Stock Jumps 3% After-Hours — Lower-Than-Expected Q4 Capex, Strong Azure Sales Boost Sentiment",META,Yahoo RSS,positive,0.7563136219978333
+2026-07-29 21:02:17,"Stock Market Today: Dow Craters 1,110 Points As Bond Yields Jump On Fed Worries; Meta Extends Losses",META,Yahoo RSS,negative,-0.6453862190246582
