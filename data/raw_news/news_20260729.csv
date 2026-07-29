@@ -81,3 +81,16 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-29 11:00:00,Capital Power reports second quarter 2026 results,META,Yahoo RSS,neutral,0.0
 2026-07-29 10:53:52,"Dow Drops, S&P 500 and Nasdaq Rise as Fed Rate Decision Looms",META,Yahoo RSS,negative,-0.6695410013198853
 2026-07-29 10:13:34,"Markets Hold Steady Ahead of Fed Decision as Investors Await Microsoft and Meta Results: Dow Jones, S&P, Nasdaq, Wall Street Futures",META,Yahoo RSS,neutral,0.0
+2026-07-29 14:10:50,Apple (AAPL) Faces Supply Challenges Despite Market Valuation Su - GuruFocus,AAPL,Google RSS,positive,0.4748142659664154
+2026-07-29 13:00:35,Apple poised for strongest June-quarter sales growth in five years - MacDailyNews,AAPL,Google RSS,positive,0.7810333967208862
+2026-07-28 07:45:00,"Berkshire stock rises as Apple rally, UBS upgrade lift investor sentiment",AAPL,Bing RSS,positive,0.8592029213905334
+2026-07-29 13:46:23,Alphabet's $44.9B AI investment triggers historic stock selloff despite strong Q2 revenue growth. - Pluang,GOOGL,Google RSS,negative,-0.6887431740760803
+2026-07-29 07:42:28,"Fed decision ahead; Meta, Microsoft to report - what’s moving markets - Investing.com",MSFT,Google RSS,neutral,0.0
+2026-07-29 08:02:00,"Stock Market Today (July 29, 2026): Nasdaq edges lower ahead of Fed decision, big tech earnings",MSFT,Bing RSS,negative,-0.9605059027671814
+2026-07-29 04:15:41,Microsoft stock outlook: Is Wall Street bullish or bearish?,MSFT,Bing RSS,neutral,0.0
+2026-07-29 15:40:45,"Top Midday Stories: Stocks Down, Oil Up as Trump Vows Strong Response to Iran Attacks; Vertiv Q2 Revenue Misses Estimates",MSFT,Yahoo RSS,negative,-0.7015272974967957
+2026-07-29 13:17:48,"U.S. Futures Hold Steady as Investors Await Federal Reserve Decision: Dow Jones, S&P, Nasdaq, Wall Street",MSFT,Yahoo RSS,neutral,0.0
+2026-07-29 13:26:07,Crypto markets set Nvidia stock price for end of August 2026 - Finbold,NVDA,Google RSS,neutral,0.0
+2026-07-29 14:09:40,Tesla (TSLA) Stock Still Trades At A Premium On Sales Despite Weaker Earnings,TSLA,Yahoo RSS,positive,0.9009813666343689
+2026-07-27 15:36:43,Benchmark maintains Meta stock rating ahead of earnings report By Investing.com - Investing.com Nigeria,META,Google RSS,neutral,0.0
+2026-07-29 13:17:48,"U.S. Futures Hold Steady as Investors Await Federal Reserve Decision: Dow Jones, S&P, Nasdaq, Wall Street",META,Yahoo RSS,neutral,0.0
