@@ -82,8 +82,38 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-30 08:24:31,Explained: Why Microsoft shares rallied 9% in extended trading after Q4 earnings despite AI worries - The Economic Times,MSFT,Google RSS,positive,0.88432377576828
 2026-07-29 04:10:00,Microsoft's stock pops as cloud growth impresses,MSFT,Bing RSS,positive,0.8610292673110962
 2026-07-30 08:22:55,"Stock market today: Dow, S&P 500, Nasdaq futures edge up ahead of inflation data",MSFT,Yahoo RSS,positive,0.8995529413223267
-2026-07-29 18:25:20,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - theglobeandmail.com",TSLA,Google RSS,negative,-0.9733224511146545
+2026-07-29 18:25:20,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - theglobeandmail.com",TSLA,Google RSS,negative,-0.9733224511146544
 2026-07-29 19:14:29,Tesla stock plunged 18% in its worst week since 2022 over concerns about Elon Musk's robotaxi and AI investments. - Pluang,TSLA,Google RSS,negative,-0.9593892693519592
 2026-07-27 14:39:02,Benchmark maintains Meta stock rating ahead of earnings report - Investing.com,META,Google RSS,neutral,0.0
 2026-07-29 21:03:00,Meta stock sheds billions after earnings but this analyst thinks Wall Street is wrong,META,Bing RSS,negative,-0.6936415433883667
 2026-07-30 08:22:55,"Stock market today: Dow, S&P 500, Nasdaq futures edge up ahead of inflation data",META,Yahoo RSS,positive,0.8995529413223267
+2026-07-30 11:10:41,"Qualcomm shares slide as higher costs, Apple-related weakness cloud profit forecast By Reuters - Investing.com",AAPL,Google RSS,negative,-0.9660535454750061
+2026-07-30 04:07:00,"Stock Market Today (July 30, 2026): Nasdaq futures rise as Microsoft surges, Fed holds rates steady",AAPL,Bing RSS,positive,0.7923583984375
+2026-07-30 11:04:15,"Qualcomm shares slide as higher costs, Apple-related weakness cloud profit forecast",AAPL,Yahoo RSS,negative,-0.9702935814857483
+2026-07-29 20:40:23,Qualcomm stock dips on weak fourth quarter earnings guidance,AAPL,Yahoo RSS,negative,-0.9691662788391113
+2026-07-28 09:45:24,Sustainable Insight Capital Management LLC Increases Stock Position in Alphabet Inc. $GOOG - MarketBeat,GOOGL,Google RSS,positive,0.8987963199615479
+2026-07-30 09:46:00,"Microsoft Stock Rises on Strong Earnings. Most Important, CapEx Holds Steady.",GOOGL,Yahoo RSS,positive,0.9070972800254822
+2026-07-30 04:07:00,"Stock Market Today (July 30, 2026): Nasdaq futures rise as Microsoft surges, Fed holds rates steady",AMZN,Bing RSS,positive,0.7923583984375
+2026-07-30 09:46:00,"Microsoft Stock Rises on Strong Earnings. Most Important, CapEx Holds Steady.",AMZN,Yahoo RSS,positive,0.9070972800254822
+2026-07-30 09:46:00,Microsoft Earnings: Stock Rises on Strong Earnings. Cloud Is Bright Spot. - Barron's,MSFT,Google RSS,positive,0.863170862197876
+2026-07-30 10:35:59,Morgan Stanley reiterates Overweight on Microsoft stock after strong results - Investing.com,MSFT,Google RSS,negative,-0.710174024105072
+2026-07-30 10:59:54,US stock futures steady as Microsoft offsets Fed concerns - Reuters,MSFT,Google RSS,neutral,0.0
+2026-07-30 10:29:37,Bernstein raises Microsoft stock price target on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-07-29 23:15:16,"Microsoft surges after hours on strong revenue outlook, maintained capex guidance - Investing.com",MSFT,Google RSS,positive,0.827737033367157
+2026-07-29 23:22:47,"MSFT Stock Extends Gains After-Hours, Up 8% — Unchanged 2026 Capex Outlook, Strong Azure Sales Boost Sentiment - TradingView",MSFT,Google RSS,positive,0.950271725654602
+2026-07-30 11:10:42,US stock futures steady as Microsoft offsets Fed concerns By Reuters - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-07-30 10:41:23,Microsoft shares jump nearly 9% after Q4 FY2026 earnings beat expectations. - pluang.com,MSFT,Google RSS,positive,0.6221962571144104
+2026-07-29 13:33:00,"Microsoft stock rises on strong earnings. Most important, CapEx holds steady.",MSFT,Bing RSS,positive,0.9070972800254822
+2026-07-30 04:07:00,"Stock Market Today (July 30, 2026): Nasdaq futures rise as Microsoft surges, Fed holds rates steady",MSFT,Bing RSS,positive,0.7923583984375
+2026-07-30 10:39:35,Microsoft Shares Jump After Strong Outlook and Solid AI-Driven Growth,MSFT,Yahoo RSS,positive,0.9051917791366577
+2026-07-30 09:46:00,"Microsoft Stock Rises on Strong Earnings. Most Important, CapEx Holds Steady.",MSFT,Yahoo RSS,positive,0.9070972800254822
+2026-07-30 09:11:33,"Fed Decision and Big Tech Earnings Dominate Market Attention: Dow Jones, S&P, Nasdaq, Wall Street Futures",MSFT,Yahoo RSS,neutral,0.0
+2026-07-30 08:22:55,"Stock market today: Dow, S&P 500, Nasdaq futures rebound ahead of inflation data",MSFT,Yahoo RSS,positive,0.7924284338951111
+2026-07-27 17:55:01,Good News for NVDA Stock: Wall Street Says SpaceX Is Proving That Compute Demand Is Still High - barchart.com,NVDA,Google RSS,positive,0.6157776117324829
+2026-07-30 09:58:00,Why Qualcomm Stock Is Falling Sharply After Earnings,NVDA,Yahoo RSS,negative,-0.9382107257843018
+2026-07-29 18:25:20,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - The Globe and Mail",TSLA,Google RSS,negative,-0.9731068015098572
+2026-07-29 12:05:00,"Tesla stock suffered its worst week since 2022, falling 18% as investors balked at Elon Musk's robotaxi and AI spending plans",TSLA,Bing RSS,negative,-0.9742087125778198
+2026-07-30 09:09:36,"META Stock Dips Premarket After Q2 Report: Meta’s Forecast Miss Has Investors Worried, Retail Turns More Bearish - Stocktwits",META,Google RSS,negative,-0.9606093764305115
+2026-07-30 09:11:33,"Fed Decision and Big Tech Earnings Dominate Market Attention: Dow Jones, S&P, Nasdaq, Wall Street Futures",META,Yahoo RSS,neutral,0.0
+2026-07-30 09:08:27,"META Stock Dips Premarket After Q2 Report: Meta’s Forecast Miss Has Investors Worried, Retail Turns More Bearish",META,Yahoo RSS,negative,-0.9600877165794373
+2026-07-30 08:22:55,"Stock market today: Dow, S&P 500, Nasdaq futures rebound ahead of inflation data",META,Yahoo RSS,positive,0.7924284338951111
