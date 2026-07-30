@@ -1,0 +1,59 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-07-29 23:29:23,"Qualcomm forecasts weak quarterly profit, expects Apple revenue drop to accelerate - Reuters",AAPL,Google RSS,negative,-0.9713719487190247
+2026-07-29 20:01:55,"Qualcomm forecasts weak quarterly profit, expects Apple revenue drop to accelerate - marketscreener.com",AAPL,Google RSS,negative,-0.9610744118690491
+2026-07-29 13:31:00,"Apple stock misses the $5 trillion mark, snapping three-day winning streak",AAPL,Bing RSS,negative,-0.44041693210601807
+2026-07-29 20:01:52,"Qualcomm forecasts weak quarterly profit, expects Apple revenue drop to accelerate",AAPL,Yahoo RSS,negative,-0.9747470617294312
+2026-07-29 15:59:00,Apple's Q3 Earnings: Strong iPhone 17 Shipment to Aid Top-Line Growth,AAPL,Yahoo RSS,positive,0.950465738773346
+2026-07-23 20:55:00,Why Alphabet Stock Is Falling: The 1 Key Metric Rattling Investors - Barron's,GOOGL,Google RSS,neutral,0.0
+2026-07-28 12:00:01,"Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off - cnbc.com",GOOGL,Google RSS,negative,-0.5440486669540405
+2026-07-23 16:15:23,Alphabet stock outlook: why GOOGL is falling despite a record quarter - Investing.com,GOOGL,Google RSS,negative,-0.9073326587677002
+2026-07-29 22:30:00,"Microsoft Stock Rises on Strong Earnings. Most Important, CapEx Holds Steady",GOOGL,Yahoo RSS,positive,0.8610048890113831
+2026-07-29 20:13:00,Vertiv Earnings Beat Estimates. Why the Stock Is Falling.,GOOGL,Yahoo RSS,negative,-0.801726758480072
+2026-07-28 12:00:01,"Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off - cnbc.com",AMZN,Google RSS,negative,-0.5440486669540405
+2026-07-28 17:12:11,"UPS hikes full-year forecasts after Amazon delivery reductions, shares drop on investor skepticism - Reuters",AMZN,Google RSS,negative,-0.9590421915054321
+2026-07-28 13:57:21,Amazon stock falls as Mizuho cuts price target ahead of earnings - eciks.org,AMZN,Google RSS,negative,-0.7822628617286682
+2026-07-30 01:53:15,Trucking Earnings: Why UPS Is Falling Behind in a Robust Market,AMZN,Yahoo RSS,negative,-0.9277113080024719
+2026-07-29 23:22:47,"MSFT Stock Extends Gains After-Hours, Up 8% — Unchanged 2026 Capex Outlook, Strong Azure Sales Boost Sentiment",AMZN,Yahoo RSS,positive,0.949903130531311
+2026-07-29 22:30:00,"Microsoft Stock Rises on Strong Earnings. Most Important, CapEx Holds Steady",AMZN,Yahoo RSS,positive,0.8610048890113831
+2026-07-29 21:12:38,"MSFT Stock Jumps 3% After-Hours — Lower-Than-Expected Q4 Capex, Strong Azure Sales Boost Sentiment",AMZN,Yahoo RSS,positive,0.7563136219978333
+2026-07-30 00:44:06,Microsoft’s stock rises 9% on strong Azure revenue growth and steady capex spending - SiliconANGLE,MSFT,Google RSS,positive,0.947528064250946
+2026-07-29 22:12:49,Microsoft Reports Strong Q4 Earnings Amid AI Investments (MSFT) - GuruFocus,MSFT,Google RSS,positive,0.9499151706695557
+2026-07-29 06:15:00,"Microsoft Stock Rises on Strong Earnings. Most Important, CapEx Holds Steady - Barron's",MSFT,Google RSS,positive,0.8104328513145447
+2026-07-29 21:34:36,"Microsoft Reports Strong Q4 Earnings, Driven by Azure Growth (MS - GuruFocus",MSFT,Google RSS,positive,0.9559624791145325
+2026-07-29 20:46:30,Microsoft (MSFT) Stock Jumps After Earnings as Azure Growth Hits 43%- Is AI Spending Paying Off? - Stocks Down Under,MSFT,Google RSS,negative,-0.9429164528846741
+2026-07-30 00:33:07,US stock futures rise as Microsoft surges on strong earnings - Investing.com,MSFT,Google RSS,positive,0.8933428525924683
+2026-07-28 20:01:40,Microsoft short interest hits decade high ahead of Q2 earnings as AI spending raises new questions - cnbc.com,MSFT,Google RSS,neutral,0.0
+2026-07-26 02:17:00,Morgan Stanley resets Microsoft stock forecast ahead of earnings - thestreet.com,MSFT,Google RSS,neutral,0.0
+2026-07-29 22:30:00,Microsoft shares jump as cloud growth dazzles - Capital Brief,MSFT,Google RSS,negative,-0.5141697525978088
+2026-07-26 16:06:47,Microsoft Stock and 2 Software Names Built on Strong Fundamentals - simplywall.st,MSFT,Google RSS,positive,0.869621217250824
+2026-07-29 20:32:00,"Microsoft Crushes Q4 as Azure Growth Fuels AI Boom, How Should Traders Position? - BeInCrypto",MSFT,Google RSS,neutral,0.0
+2026-07-29 11:54:22,Microsoft Likely To Report Higher Q4 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call - Benzinga,MSFT,Google RSS,positive,0.6851255893707275
+2026-07-28 11:25:51,Microsoft Stock Is Beaten Down Heading Into Earnings - But Analysts Still See Big Upside - AOL.com,MSFT,Google RSS,negative,-0.9471408724784851
+2026-07-29 21:22:44,Microsoft shares rise as Azure growth beats forecasts despite cash-flow squeeze - TechStock²,MSFT,Google RSS,positive,0.8709772825241089
+2026-07-29 13:07:00,Microsoft Stock Rises on Strong Earnings,MSFT,Bing RSS,positive,0.8614420294761658
+2026-07-29 17:44:00,Microsoft’s stock rises 9% on strong Azure revenue growth and steady capex spending,MSFT,Bing RSS,positive,0.9507315754890442
+2026-07-27 11:18:04,"Microsoft earnings preview: AI spending, cloud margins, and why the stock keeps falling",MSFT,Bing RSS,neutral,0.0
+2026-07-29 15:20:00,Microsoft’s AI Business Keeps Accelerating. Meta’s Profit Miss Shakes Investor Confidence And Its Stock Plunges,MSFT,Bing RSS,negative,-0.9679661989212036
+2026-07-30 02:11:20,"Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar",MSFT,Yahoo RSS,positive,0.8817158937454224
+2026-07-30 01:44:39,"Dow, S&P 500, Nasdaq Futures Rise As Investors Shrug Off Fed Hold, Big Tech Earnings: IBRX, MSFT, SOFI, META In Focus",MSFT,Yahoo RSS,neutral,0.0
+2026-07-29 23:22:47,"MSFT Stock Extends Gains After-Hours, Up 8% — Unchanged 2026 Capex Outlook, Strong Azure Sales Boost Sentiment",MSFT,Yahoo RSS,positive,0.949903130531311
+2026-07-29 23:00:13,"Dow Sees Worst Day In Over A Year, Nasdaq Enters Correction Territory As Fed Decision Piques Inflation Concerns — SPCX, CAT, ADBE, SOFI, HIMS Stock In Focus",MSFT,Yahoo RSS,negative,-0.7803694605827332
+2026-07-29 22:30:00,"Microsoft Stock Rises on Strong Earnings. Most Important, CapEx Holds Steady",MSFT,Yahoo RSS,positive,0.8610048890113831
+2026-07-29 22:02:21,Microsoft’s cloud just hit a new milestone—Azure crosses $100 billion in annual revenue,MSFT,Yahoo RSS,positive,0.8273684978485107
+2026-07-27 17:55:01,Good News for NVDA Stock: Wall Street Says SpaceX Is Proving That Compute Demand Is Still High - Barchart.com,NVDA,Google RSS,positive,0.6157776117324829
+2026-07-29 13:26:07,Crypto markets set Nvidia stock price for end of August 2026 - Finbold,NVDA,Google RSS,neutral,0.0
+2026-07-23 15:26:00,Tesla stock stumbles after latest earnings report - cnbc.com,TSLA,Google RSS,negative,-0.9522018432617188
+2026-07-23 20:17:00,"Tesla Stock Is Falling After Lousy Quarter, and Wall Street Keeps Buying the Future - Barron's",TSLA,Google RSS,negative,-0.9539019465446472
+2026-07-29 19:14:29,Tesla stock plunged 18% in its worst week since 2022 over concerns about Elon Musk's robotaxi and AI investments. - pluang.com,TSLA,Google RSS,negative,-0.9550126791000366
+2026-07-29 11:41:00,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans",TSLA,Bing RSS,negative,-0.9742087125778198
+2026-07-29 14:09:40,Tesla (TSLA) Stock Still Trades At A Premium On Sales Despite Weaker Earnings,TSLA,Yahoo RSS,positive,0.9009813666343689
+2026-07-29 20:52:00,Meta Stock Slides After Sales Outlook Disappoints Amid Rising AI Costs - Investor's Business Daily,META,Google RSS,negative,-0.9552271366119385
+2026-07-29 21:02:00,"Stock Market Today: Dow Craters 1,110 Points As Bond Yields Jump On Fed Worries; Meta Extends Losses - Investor's Business Daily",META,Google RSS,neutral,0.0
+2026-07-29 10:25:29,"Microsoft set for $190 billion market value swing after earnings results, options indicate - Reuters",META,Google RSS,neutral,0.0
+2026-07-29 14:53:00,Meta Q2 earnings recap: Stock tumbles nearly 10% after profits miss Wall Street estimates,META,Bing RSS,negative,-0.9694627523422241
+2026-07-30 02:11:20,"Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar",META,Yahoo RSS,positive,0.8817158937454224
+2026-07-30 01:44:39,"Dow, S&P 500, Nasdaq Futures Rise As Investors Shrug Off Fed Hold, Big Tech Earnings: IBRX, MSFT, SOFI, META In Focus",META,Yahoo RSS,neutral,0.0
+2026-07-29 23:22:47,"MSFT Stock Extends Gains After-Hours, Up 8% — Unchanged 2026 Capex Outlook, Strong Azure Sales Boost Sentiment",META,Yahoo RSS,positive,0.949903130531311
+2026-07-29 23:00:13,"Dow Sees Worst Day In Over A Year, Nasdaq Enters Correction Territory As Fed Decision Piques Inflation Concerns — SPCX, CAT, ADBE, SOFI, HIMS Stock In Focus",META,Yahoo RSS,negative,-0.7803694605827332
+2026-07-29 21:12:38,"MSFT Stock Jumps 3% After-Hours — Lower-Than-Expected Q4 Capex, Strong Azure Sales Boost Sentiment",META,Yahoo RSS,positive,0.7563136219978333
+2026-07-29 19:42:38,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
