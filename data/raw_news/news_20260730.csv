@@ -58,14 +58,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-29 21:12:38,"MSFT Stock Jumps 3% After-Hours — Lower-Than-Expected Q4 Capex, Strong Azure Sales Boost Sentiment",META,Yahoo RSS,positive,0.7563136219978333
 2026-07-29 19:42:38,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.935252010822296
 2026-07-29 11:45:39,"Apple Q3 preview: Stock hits all-time highs, will earnings justify the momentum?",AAPL,Bing RSS,neutral,0.0
-2026-07-27 17:22:30,How to Play GOOGL Stock as Shares Fall Below Their 200-Day Moving Average - finance.yahoo.com,GOOGL,Google RSS,negative,-0.49867701530456543
+2026-07-27 17:22:30,How to Play GOOGL Stock as Shares Fall Below Their 200-Day Moving Average - finance.yahoo.com,GOOGL,Google RSS,negative,-0.4986770153045654
 2026-07-28 12:00:01,"Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off - CNBC",AMZN,Google RSS,negative,-0.7318147420883179
 2026-07-29 21:12:38,"MSFT Stock Jumps 3% After-Hours — Lower-Than-Expected Q4 Capex, Strong Azure Sales Boost Sentiment - finance.yahoo.com",MSFT,Google RSS,positive,0.7398332953453064
 2026-07-29 10:25:29,"Microsoft set for $190 billion market value swing after earnings results, options indicate - Reuters",MSFT,Google RSS,neutral,0.0
 2026-07-30 03:07:00,"Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
 2026-07-28 20:01:40,Microsoft short interest hits decade high ahead of Q2 earnings as AI spending raises new questions - CNBC,MSFT,Google RSS,neutral,0.0
 2026-07-29 13:33:00,"Microsoft stock rises on strong earnings. Most important, CapEx holds steady",MSFT,Bing RSS,positive,0.8610048890113831
-2026-07-29 15:20:00,Microsoft stock surges 3% after beating Q4 estimates,MSFT,Bing RSS,positive,0.9294881224632263
+2026-07-29 15:20:00,Microsoft stock surges 3% after beating Q4 estimates,MSFT,Bing RSS,positive,0.9294881224632264
 2026-07-29 07:06:00,"Microsoft is set to report earnings after the bell, and all eyes are on its spending plans",MSFT,Bing RSS,neutral,0.0
 2026-07-27 20:05:55,"Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries of circular financing - finance.yahoo.com",NVDA,Google RSS,negative,-0.9651353359222412
 2026-07-28 19:00:00,2 AI Stocks That Beat NVIDIA - and Could Soar Even Higher - finance.yahoo.com,NVDA,Google RSS,neutral,0.0
@@ -74,4 +74,16 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-23 15:26:00,Tesla stock stumbles after latest earnings report - CNBC,TSLA,Google RSS,negative,-0.9591030478477478
 2026-07-23 20:06:17,"Tesla tumbles 14% to 11-month low as profit miss, capex spending outlook weighs on stock - finance.yahoo.com",TSLA,Google RSS,negative,-0.960153341293335
 2026-07-30 03:07:00,"Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar - Investor's Business Daily",META,Google RSS,neutral,0.0
-2026-07-29 13:22:00,"Meta reports mixed quarter, stock slides more than 8%",META,Bing RSS,negative,-0.9563469886779785
+2026-07-29 13:22:00,"Meta reports mixed quarter, stock slides more than 8%",META,Bing RSS,negative,-0.9563469886779784
+2026-07-30 07:57:44,"The 'light-capital AI' strategy faces a major performance test! Apple (AAPL.US) reports earnings tonight, with options markets cautiously bullish. - Moomoo",AAPL,Google RSS,positive,0.7909872531890869
+2026-07-29 10:45:57,Amazon earnings preview: Wall Street looks for more cloud growth as AI spending hits a record,AMZN,Bing RSS,positive,0.926041305065155
+2026-07-30 02:43:17,"US stock futures rise as Microsoft surges; Fed, Iran uncertainty weigh - Investing.com",MSFT,Google RSS,neutral,0.0
+2026-07-30 08:30:35,Why Microsoft Shares Are Trading Higher By 8%; Here Are 20 Stocks Moving Premarket - Benzinga,MSFT,Google RSS,neutral,0.0
+2026-07-30 08:24:31,Explained: Why Microsoft shares rallied 9% in extended trading after Q4 earnings despite AI worries - The Economic Times,MSFT,Google RSS,positive,0.88432377576828
+2026-07-29 04:10:00,Microsoft's stock pops as cloud growth impresses,MSFT,Bing RSS,positive,0.8610292673110962
+2026-07-30 08:22:55,"Stock market today: Dow, S&P 500, Nasdaq futures edge up ahead of inflation data",MSFT,Yahoo RSS,positive,0.8995529413223267
+2026-07-29 18:25:20,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - theglobeandmail.com",TSLA,Google RSS,negative,-0.9733224511146545
+2026-07-29 19:14:29,Tesla stock plunged 18% in its worst week since 2022 over concerns about Elon Musk's robotaxi and AI investments. - Pluang,TSLA,Google RSS,negative,-0.9593892693519592
+2026-07-27 14:39:02,Benchmark maintains Meta stock rating ahead of earnings report - Investing.com,META,Google RSS,neutral,0.0
+2026-07-29 21:03:00,Meta stock sheds billions after earnings but this analyst thinks Wall Street is wrong,META,Bing RSS,negative,-0.6936415433883667
+2026-07-30 08:22:55,"Stock market today: Dow, S&P 500, Nasdaq futures edge up ahead of inflation data",META,Yahoo RSS,positive,0.8995529413223267
