@@ -255,15 +255,24 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-31 12:34:00,"Tim Cook’s last quarter as Apple CEO: record iPhone sales, stock still falls - fortune.com",AAPL,Google RSS,neutral,0.0
 2026-07-31 20:02:39,"US stocks rally to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - rutlandherald.com",AAPL,Google RSS,neutral,0.0
 2026-07-31 20:40:00,"US stocks rise to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - The Journal Gazette",AAPL,Google RSS,negative,-0.4591063857078552
-2026-07-31 03:54:00,"Markets News, July 31: Dow Logs Slim July Gains as Nasdaq, S&P 500 Slip; Amazon Stock Soars, Apple Sinks Friday",AAPL,Bing RSS,negative,-0.9092540740966797
-2026-07-31 20:37:59,"Stock Market Today: Dow, Nasdaq End Higher Despite Spiking Yields; Amazon Soars",AAPL,Yahoo RSS,positive,0.9251585006713867
+2026-07-31 03:54:00,"Markets News, July 31: Dow Logs Slim July Gains as Nasdaq, S&P 500 Slip; Amazon Stock Soars, Apple Sinks Friday",AAPL,Bing RSS,negative,-0.9092540740966796
+2026-07-31 20:37:59,"Stock Market Today: Dow, Nasdaq End Higher Despite Spiking Yields; Amazon Soars",AAPL,Yahoo RSS,positive,0.9251585006713868
 2026-07-31 20:19:42,"Update: US Equity Indexes Rise as Amazon's Results Boost Consumer Discretionary, Crude Oil Trades Off Session Highs",AAPL,Yahoo RSS,positive,0.8735052347183228
 2026-07-31 20:02:39,"US stocks rally to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - rutlandherald.com",AMZN,Google RSS,neutral,0.0
 2026-07-31 20:40:00,"US stocks rise to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - The Journal Gazette",AMZN,Google RSS,negative,-0.4591063857078552
 2026-07-31 20:38:23,Stocks Finish Higher as Amazon Leads Megacaps Higher - Barchart.com,AMZN,Google RSS,positive,0.6325361132621765
 2026-07-31 06:53:00,"Wall Street rises as Amazon and chip stocks jump, even as oil prices add to worries about inflation",AMZN,Bing RSS,positive,0.5561060309410095
-2026-07-31 03:54:00,"Markets News, July 31: Dow Logs Slim July Gains as Nasdaq, S&P 500 Slip; Amazon Stock Soars, Apple Sinks Friday",AMZN,Bing RSS,negative,-0.9092540740966797
-2026-07-31 20:37:59,"Stock Market Today: Dow, Nasdaq End Higher Despite Spiking Yields; Amazon Soars",AMZN,Yahoo RSS,positive,0.9251585006713867
+2026-07-31 03:54:00,"Markets News, July 31: Dow Logs Slim July Gains as Nasdaq, S&P 500 Slip; Amazon Stock Soars, Apple Sinks Friday",AMZN,Bing RSS,negative,-0.9092540740966796
+2026-07-31 20:37:59,"Stock Market Today: Dow, Nasdaq End Higher Despite Spiking Yields; Amazon Soars",AMZN,Yahoo RSS,positive,0.9251585006713868
 2026-07-31 20:19:42,"Update: US Equity Indexes Rise as Amazon's Results Boost Consumer Discretionary, Crude Oil Trades Off Session Highs",AMZN,Yahoo RSS,positive,0.8735052347183228
 2026-07-30 19:45:00,"Microsoft’s stock has biggest one-day gain since 2008, adding $480 billion in market value as cloud business booms - fortune.com",MSFT,Google RSS,positive,0.5273633003234863
 2026-07-31 20:05:00,SpaceX to release first earnings report: What investors are looking for,TSLA,Yahoo RSS,neutral,0.0
+2026-07-31 20:02:39,"US stocks rally to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - Union-Bulletin",AAPL,Google RSS,negative,-0.5351995229721069
+2026-07-31 21:13:00,"US stocks rise to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - AP News",AAPL,Google RSS,positive,0.5490879416465759
+2026-07-31 22:11:00,"Stock Market News July 31: Dow, S&P 500 and Nasdaq finish higher, capping off volatile month in the green; Nasdaq sees biggest monthly drop since March - MarketWatch",AMZN,Google RSS,negative,-0.9646749496459961
+2026-07-31 20:37:00,"Stock Market Today: Dow, Nasdaq End Higher Despite Spiking Yields; Amazon Soars - Investor's Business Daily",AMZN,Google RSS,positive,0.651013970375061
+2026-07-31 21:13:00,"US stocks rise to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - AP News",AMZN,Google RSS,positive,0.5490879416465759
+2026-07-31 20:02:39,"US stocks rally to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - Rutland Herald",AMZN,Google RSS,negative,-0.5290626883506775
+2026-07-31 11:46:57,US Stocks Falter as AI-Driven Rally Fades Despite Amazon Blowout - Bloomberg,AMZN,Google RSS,negative,-0.9297390580177307
+2026-07-31 19:14:30,"Wall Street's wild July is ending with more swings as Amazon leaps, Apple sinks and oil prices rise - Star Beacon",AMZN,Google RSS,neutral,0.0
+2026-07-31 13:29:00,Elon Musk cools off Tesla-SpaceX merger speculation as SpaceX stock hits record low,TSLA,Bing RSS,neutral,0.0
