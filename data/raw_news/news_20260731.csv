@@ -103,19 +103,36 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-30 23:36:14,Amazon lifts investment plans after strong cloud sales; shares jump - Reuters,AMZN,Google RSS,positive,0.7535206079483032
 2026-07-31 00:55:58,US stock futures rise after upbeat Amazon earnings; Apple slides - Investing.com,AMZN,Google RSS,positive,0.4561755657196045
 2026-07-31 01:05:15,"Wall St ends sharply higher, lifted by Microsoft gains - CommBank",AMZN,Google RSS,positive,0.8506807684898376
-2026-07-30 18:43:06,"Meta shares tumble 9% in record losing streak while Microsoft, chip stocks jump on AI earnings - New York Post",MSFT,Google RSS,negative,-0.9493682980537415
+2026-07-30 18:43:06,"Meta shares tumble 9% in record losing streak while Microsoft, chip stocks jump on AI earnings - New York Post",MSFT,Google RSS,negative,-0.9493682980537416
 2026-07-30 16:13:54,"Stocks making the biggest moves midday: Meta, Microsoft, MarketAxess, Crocs & more - CNBC",MSFT,Google RSS,neutral,0.0
 2026-07-30 19:54:55,"Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market - Yakima Herald-Republic",MSFT,Google RSS,neutral,0.0
 2026-07-30 00:44:06,Microsoft’s stock rises 9% on strong Azure revenue growth and steady capex spending - SiliconANGLE,MSFT,Google RSS,positive,0.947528064250946
 2026-07-30 21:13:01,"Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market - Oconee Enterprise",MSFT,Google RSS,positive,0.5276540517807007
 2026-07-29 21:08:42,Microsoft Stock Rises on Strong Earnings. The Cloud -- And Software -- Are Bright Spots. -- Barrons.com - Moomoo,MSFT,Google RSS,neutral,0.0
-2026-07-30 19:41:10,"Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market - New Castle News",MSFT,Google RSS,positive,0.38401487469673157
+2026-07-30 19:41:10,"Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market - New Castle News",MSFT,Google RSS,positive,0.3840148746967315
 2026-07-30 11:30:00,"Nasdaq leads major US stock indexes higher, fueled by Microsoft rally",MSFT,Bing RSS,positive,0.7932171821594238
 2026-07-30 06:54:00,Why microsoft’s stock is soaring toward a historic gain after earnings,MSFT,Bing RSS,positive,0.6869665384292603
 2026-07-30 04:37:00,Nvidia’s Stock Price Pullback Tests 200-day Moving Average (Again) - See It Market,NVDA,Google RSS,neutral,0.0
 2026-07-31 01:50:00,Iran Tensions Illustrate Defense Supply Shortages That Will Benefit These 3 Stocks,NVDA,Yahoo RSS,positive,0.8355180621147156
 2026-07-31 04:13:00,The Tesla-China Twist That Has Retail Traders Talking About A $450 SpaceX Buyout Scenario - Stocktwits,TSLA,Google RSS,neutral,0.0
-2026-07-29 19:05:00,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - The Motley Fool",TSLA,Google RSS,negative,-0.9730916023254395
-2026-07-30 18:43:06,"Meta shares tumble 9% in record losing streak while Microsoft, chip stocks jump on AI earnings - New York Post",META,Google RSS,negative,-0.9493682980537415
+2026-07-29 19:05:00,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - The Motley Fool",TSLA,Google RSS,negative,-0.9730916023254396
+2026-07-30 18:43:06,"Meta shares tumble 9% in record losing streak while Microsoft, chip stocks jump on AI earnings - New York Post",META,Google RSS,negative,-0.9493682980537416
 2026-07-30 16:13:54,"Stocks making the biggest moves midday: Meta, Microsoft, MarketAxess, Crocs & more - CNBC",META,Google RSS,neutral,0.0
-2026-07-30 09:08:27,"META Stock Dips Premarket After Q2 Report: Meta’s Forecast Miss Has Investors Worried, Retail Turns More Bearish - tradingview.com",META,Google RSS,negative,-0.9516603350639343
+2026-07-30 09:08:27,"META Stock Dips Premarket After Q2 Report: Meta’s Forecast Miss Has Investors Worried, Retail Turns More Bearish - tradingview.com",META,Google RSS,negative,-0.9516603350639344
+2026-07-30 19:08:36,New highs for major indices. Tim Cook's last earnings release at Apple - investinglive.com,AAPL,Google RSS,neutral,0.0
+2026-07-30 15:20:00,Apple earnings recap: Stock tumbles 6% as Tim Cook warns of 'very significant' supply constraints,AAPL,Bing RSS,negative,-0.9700204730033875
+2026-07-31 03:54:11,US stock futures rise further as tech extends recovery rally - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-07-31 07:44:51,"Amazon Stock Price Forecast: AWS Growth Hits Four-Year High as Earnings Beat Across the Board, Shares May Reach $350 - TradingKey",AMZN,Google RSS,positive,0.9199382662773132
+2026-07-31 05:07:20,Amazon beats expectations with cloud and AI growth - The Hindu,AMZN,Google RSS,positive,0.7742322087287903
+2026-07-30 22:10:00,Amazon shares jump after cloud revenue beats and capex rises - Capital Brief,AMZN,Google RSS,positive,0.5316502451896667
+2026-07-30 16:43:00,Amazon’s stock pops on roaring cloud growth and soaring AI demand,AMZN,Bing RSS,negative,-0.6753990054130554
+2026-07-30 18:38:00,"Oracle Stock Jumps on Expanded Google Gemini Partnership, Strong Microsoft Cloud Results - Investor's Business Daily",MSFT,Google RSS,positive,0.754270076751709
+2026-07-30 14:23:00,"Stock market today: Nasdaq soars nearly 3%, Dow and S&P 500 rebound as Microsoft posts record 1-day value gain",MSFT,Bing RSS,positive,0.6869174838066101
+2026-07-29 09:04:00,"Microsoft jumps 8% as it boosts capital spending plans, citing demand",MSFT,Bing RSS,positive,0.9416145086288452
+2026-07-27 11:18:04,"Microsoft earnings preview: AI spending, cloud margins, and why the stock keeps falling",MSFT,Bing RSS,neutral,0.0
+2026-07-30 04:33:00,Analysts say Microsoft’s earnings may be a turning point for the struggling tech stock,MSFT,Bing RSS,positive,0.6374264359474182
+2026-07-31 06:05:00,Chip Stocks Are Falling: Here Are 2 to Buy on the Dip,NVDA,Yahoo RSS,negative,-0.898133397102356
+2026-07-31 07:35:00,NCLH Stock Heads For Fifth Weekly Loss: Norwegian Cruise Line Says Demand Recovery May Not Arrive Until Late 2027 - Stocktwits,META,Google RSS,negative,-0.9594494104385376
+2026-07-30 08:37:00,Meta stock extends historic losing streak after weak earnings report,META,Bing RSS,negative,-0.9695818424224854
+2026-07-29 20:01:52,"Qualcomm forecasts weak quarterly profit, expects Apple revenue drop to accelerate",AAPL,Yahoo Global,negative,-0.9747470617294312
+2026-07-29 21:02:17,"Stock Market Today: Dow Craters 1,110 Points As Bond Yields Jump On Fed Worries; Meta Extends Losses",META,Yahoo Global,negative,-0.6453862190246582
