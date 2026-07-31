@@ -161,7 +161,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-30 23:39:10,"Meta stock outperformed GOOG, TSLA in July despite earnings selloff — analyst says shares are ‘attractively priced’ now",META,Bing RSS,positive,0.9263300895690918
 2026-07-31 11:48:45,"Amazon stock surges 13% on Q2 earnings, Apple stock drops 7% - qz.com",AAPL,Google RSS,negative,-0.8010793924331665
 2026-07-31 12:00:00,"Dow Jones Futures: Apple, Amazon Diverge Late; What To Do As AI Stocks Rally - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
-2026-07-31 04:31:00,"Amazon stock surges 13% on Q2 earnings, Apple stock drops 7%",AAPL,Bing RSS,negative,-0.9297274351119995
+2026-07-31 04:31:00,"Amazon stock surges 13% on Q2 earnings, Apple stock drops 7%",AAPL,Bing RSS,negative,-0.9297274351119996
 2026-07-31 12:09:45,Amazon fuels AI optimism; Apple sinks premarket on weak outlook,AAPL,Yahoo RSS,negative,-0.9509045481681824
 2026-07-31 12:00:58,"Dow Jones Futures: Apple, Amazon Diverge Late; What To Do As AI Stocks Rally",AAPL,Yahoo RSS,neutral,0.0
 2026-07-31 11:01:00,Stock Markets Look to Close July With a Bang But the August Lull Looms,AAPL,Yahoo RSS,negative,-0.8869770765304565
@@ -175,15 +175,34 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-31 12:32:00,"Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Gain Amid Cooler June PCE Inflation Data and Slower - Benzinga",AMZN,Google RSS,negative,-0.5711939334869385
 2026-07-31 12:09:45,Amazon fuels AI optimism; Apple sinks premarket on weak outlook,AMZN,Yahoo RSS,negative,-0.9509045481681824
 2026-07-31 12:00:58,"Dow Jones Futures: Apple, Amazon Diverge Late; What To Do As AI Stocks Rally",AMZN,Yahoo RSS,neutral,0.0
-2026-07-31 11:31:52,"Amazon stock surges 13% on Q2 earnings, Apple stock drops 7%",AMZN,Yahoo RSS,negative,-0.9297274351119995
+2026-07-31 11:31:52,"Amazon stock surges 13% on Q2 earnings, Apple stock drops 7%",AMZN,Yahoo RSS,negative,-0.9297274351119996
 2026-07-30 08:53:39,"Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits - CNBC",MSFT,Google RSS,negative,-0.9156963229179382
 2026-07-31 01:31:00,"Stocks climb as Amazon, Microsoft results reignite AI trade, yen swings - Reuters",MSFT,Google RSS,neutral,0.0
 2026-07-30 19:40:45,"Microsoft’s best day since 2008 leads US stocks, while inflation worries remain in the bond market - Orlando Sentinel",MSFT,Google RSS,negative,-0.4845116436481476
 2026-07-31 12:00:58,"Dow Jones Futures: Apple, Amazon Diverge Late; What To Do As AI Stocks Rally",MSFT,Yahoo RSS,neutral,0.0
-2026-07-31 11:31:52,"Amazon stock surges 13% on Q2 earnings, Apple stock drops 7%",MSFT,Yahoo RSS,negative,-0.9297274351119995
-2026-07-31 11:26:29,Microsoft posts record one-day market cap gain after earnings,MSFT,Yahoo RSS,positive,0.9223199486732483
+2026-07-31 11:31:52,"Amazon stock surges 13% on Q2 earnings, Apple stock drops 7%",MSFT,Yahoo RSS,negative,-0.9297274351119996
+2026-07-31 11:26:29,Microsoft posts record one-day market cap gain after earnings,MSFT,Yahoo RSS,positive,0.9223199486732484
 2026-07-31 11:01:00,Stock Markets Look to Close July With a Bang But the August Lull Looms,MSFT,Yahoo RSS,negative,-0.8869770765304565
-2026-07-31 11:46:00,"Robinhood Set Records on Revenue, Net Deposits, and Gold Subscribers. The Stock Is Still 44% Below Its High.",NVDA,Yahoo RSS,negative,-0.9594244956970215
-2026-07-31 11:26:29,Microsoft posts record one-day market cap gain after earnings,NVDA,Yahoo RSS,positive,0.9223199486732483
-2026-07-29 20:16:16,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - AOL.com",TSLA,Google RSS,negative,-0.9739920496940613
+2026-07-31 11:46:00,"Robinhood Set Records on Revenue, Net Deposits, and Gold Subscribers. The Stock Is Still 44% Below Its High.",NVDA,Yahoo RSS,negative,-0.9594244956970216
+2026-07-31 11:26:29,Microsoft posts record one-day market cap gain after earnings,NVDA,Yahoo RSS,positive,0.9223199486732484
+2026-07-29 20:16:16,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - AOL.com",TSLA,Google RSS,negative,-0.9739920496940612
 2026-07-31 12:00:58,"Dow Jones Futures: Apple, Amazon Diverge Late; What To Do As AI Stocks Rally",META,Yahoo RSS,neutral,0.0
+2026-07-31 13:51:00,Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years - MarketWatch,AAPL,Google RSS,negative,-0.9597724676132202
+2026-07-31 12:34:00,"Tim Cook’s last quarter as Apple CEO: record iPhone sales, stock still falls - Fortune",AAPL,Google RSS,negative,-0.9164952635765076
+2026-07-31 08:14:04,Apple Earnings: Supply and Memory Costs Cloud Immense iPhone Demand Picture - Morningstar,AAPL,Google RSS,neutral,0.0
+2026-07-31 11:32:00,Supply Shortage Takes Bite Out of Apple: 8 Key Items Shaping the Stock Market Friday - TheStreet Pro,AAPL,Google RSS,neutral,0.0
+2026-07-31 15:16:27,"US stocks swing as Amazon leaps, Apple sinks and rising oil prices add to worries about inflation - reflector.com",AAPL,Google RSS,negative,-0.9027253985404968
+2026-07-31 07:47:00,"The $2.3 Trillion Reason Amazon, Alphabet, and Microsoft May Still Be the Smartest AI Investments",GOOGL,Bing RSS,neutral,0.0
+2026-07-31 13:48:48,Amazon soars as cloud revenue surge allays fears over ballooning AI bets - Reuters,AMZN,Google RSS,neutral,0.0
+2026-07-31 15:11:15,US stocks swing as Wall Street’s wild July keeps swerving and inflation worries keep squeezing - Boston Herald,AMZN,Google RSS,negative,-0.6367928385734558
+2026-07-31 13:35:00,Stock market climbs as Amazon earnings lift tech sentiment (SPX:) - Seeking Alpha,AMZN,Google RSS,positive,0.9065641164779663
+2026-07-31 14:22:43,Amazon’s Stock Jumps 12% On Strong Cloud Growth - The Globe and Mail,AMZN,Google RSS,positive,0.9277411103248596
+2026-07-31 11:46:57,US Stocks Falter as AI-Driven Rally Fades Despite Amazon Blowout - Bloomberg.com,AMZN,Google RSS,negative,-0.7697144150733948
+2026-07-31 01:31:00,"Stocks climb as strong tech results reignite AI trade, yen swings - Reuters",AMZN,Google RSS,neutral,0.0
+2026-07-31 13:51:16,"Wall Street rises as Amazon and chip stocks jump, even as oil prices add to worries about inflation - Star Beacon",AMZN,Google RSS,negative,-0.45787835121154785
+2026-07-31 14:03:20,Amazon soars as cloud revenue surge allays fears over ballooning AI bets By Reuters - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-07-31 07:05:00,US stock market rises as Amazon and chipmaker gains; oil prices hike prompt worries amid inflation concerns,AMZN,Bing RSS,positive,0.5756403207778931
+2026-07-31 07:47:00,"The $2.3 Trillion Reason Amazon, Alphabet, and Microsoft May Still Be the Smartest AI Investments",AMZN,Bing RSS,neutral,0.0
+2026-07-31 11:27:02,Microsoft posts record one-day market cap gain after earnings - qz.com,MSFT,Google RSS,positive,0.8540335893630981
+2026-07-31 14:47:35,"The $2.3 Trillion Reason Amazon, Alphabet, and Microsoft May Still Be the Smartest AI Investments",MSFT,Yahoo RSS,neutral,0.0
+2026-07-31 13:49:22,Stock markets rally on tech rebound,MSFT,Yahoo RSS,negative,-0.44993385672569275
