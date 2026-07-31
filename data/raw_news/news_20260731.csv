@@ -1,0 +1,91 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-07-30 20:30:00,"Sandisk, Micron, Apple, SpaceX, Samsung, Microsoft, Meta, and More Stocks That Explain Today's Market -- Barrons.com - Moomoo",AAPL,Google RSS,neutral,0.0
+2026-07-30 19:08:36,New highs for major indices. Tim Cook's last earnings release at Apple - investingLive,AAPL,Google RSS,neutral,0.0
+2026-07-30 23:26:30,Apple's shares plunge $20 despite strong iPhone sales in fiscal Q3 - PhoneArena,AAPL,Google RSS,negative,-0.9705285429954529
+2026-07-30 22:25:10,Apple earnings recap: Stock tumbles 6% as Tim Cook warns of 'very significant' supply constraints - LinkedIn,AAPL,Google RSS,negative,-0.9679164886474609
+2026-07-30 22:44:13,"Tim Cook's final Apple earnings report is out: strong results, but short of expectations - Moomoo",AAPL,Google RSS,neutral,0.0
+2026-07-30 23:33:17,"Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",AAPL,Yahoo RSS,neutral,0.0
+2026-07-30 22:24:38,Apple Slides After Supply Shortages Hurts Sales Forecast,AAPL,Yahoo RSS,negative,-0.9479414820671082
+2026-07-28 12:00:01,"Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off - CNBC",GOOGL,Google RSS,negative,-0.7318147420883179
+2026-07-30 23:43:51,Amazon’s stock pops on roaring cloud growth and soaring AI demand - siliconangle.com,GOOGL,Google RSS,neutral,0.0
+2026-07-30 15:30:04,Why Microsoft Is Winning The AI War And Alphabet Is Falling Behind (NASDAQ:MSFT) - Seeking Alpha,GOOGL,Google RSS,neutral,0.0
+2026-07-30 19:00:00,2 Stocks From Top Growth Sectors to Buy in August for the Rest of 2026 - TradingView,GOOGL,Google RSS,neutral,0.0
+2026-07-30 09:30:00,Why Microsoft Is Winning The AI War And Alphabet Is Falling Behind,GOOGL,Bing RSS,neutral,0.0
+2026-07-30 21:58:00,"S&P 500, Nasdaq End Best Day In A Month On Support From Microsoft Gains, AI Stocks  — ORCL, GOOGL, MSFT, BE, TSLA Stock In Focus",GOOGL,Yahoo RSS,positive,0.7119327187538147
+2026-07-30 20:49:30,Update: US Equity Indexes Surge as Microsoft Triggers Rebound in Chipmakers While Inflation Rate Falls in June,GOOGL,Yahoo RSS,positive,0.801569938659668
+2026-07-30 19:35:49,Sector Update: Tech Stocks Sharply Higher Late Afternoon,GOOGL,Yahoo RSS,positive,0.906806230545044
+2026-07-30 22:08:00,"Nasdaq futures rise after strong rebound on Wall Street, Amazon surges after earnings: Live updates - CNBC",AMZN,Google RSS,positive,0.5724807381629944
+2026-07-30 21:41:00,Amazon Stock Jumps As Cloud Growth Accelerates. AI Pushes Capex Higher. - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
+2026-07-30 22:31:33,Amazon lifts capex plan after strong cloud sales; shares jump - Reuters,AMZN,Google RSS,positive,0.8033829927444458
+2026-07-30 20:19:29,"Amazon's AWS posts fastest growth since 2021, citing AI and chip demand - CNBC",AMZN,Google RSS,positive,0.7376840114593506
+2026-07-30 23:43:51,Amazon’s stock pops on roaring cloud growth and soaring AI demand - siliconangle.com,AMZN,Google RSS,neutral,0.0
+2026-07-30 17:21:00,Meta's Big Bet On Consumer AI Stands Out. That Hasn't Been Good For The Stock. - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
+2026-07-30 20:59:45,[Key Points on NY Stocks] Microsoft surged; Amazon rose in after-hours trading (30th). - Moomoo,AMZN,Google RSS,positive,0.7561091780662537
+2026-07-28 12:00:01,"Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off - CNBC",AMZN,Google RSS,negative,-0.7318147420883179
+2026-07-28 13:57:21,Amazon stock falls as Mizuho cuts price target ahead of earnings - eciks.org,AMZN,Google RSS,negative,-0.7822628617286682
+2026-07-30 21:24:15,Amazon beats cloud sales growth estimates; shares jump - The Standard (HK),AMZN,Google RSS,positive,0.9095838665962219
+2026-07-30 20:06:00,Amazon beats cloud sales growth estimates; shares jump - CNA,AMZN,Google RSS,positive,0.9233865141868591
+2026-07-30 22:24:00,Amazon beats cloud sales growth estimates; shares jump - The Business Times,AMZN,Google RSS,positive,0.8383975625038147
+2026-07-30 04:29:00,Amazon's stock climbs after earnings. Why investors are cheering the results.,AMZN,Bing RSS,positive,0.5575219988822937
+2026-07-30 23:58:29,"Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",AMZN,Yahoo RSS,neutral,0.0
+2026-07-30 22:39:59,Amazon beats expectations with cloud and AI growth,AMZN,Yahoo RSS,positive,0.8788164258003235
+2026-07-30 21:12:04,Amazon earnings: AWS's growth rate 'no doubt' justifies the big AI spending,AMZN,Yahoo RSS,positive,0.5289248824119568
+2026-07-30 20:21:00,Why Microsoft’s stock soared to a historic gain after earnings - MarketWatch,MSFT,Google RSS,neutral,0.0
+2026-07-30 16:42:05,"Stock market today: Nasdaq soars, Dow and S&P 500 rebound as Microsoft leads tech gains, bond yields rise - Yahoo Finance",MSFT,Google RSS,positive,0.7626169919967651
+2026-07-30 22:49:38,"Wall Street ends sharply higher, lifted by soaring Microsoft - Reuters",MSFT,Google RSS,positive,0.9154654741287231
+2026-07-30 00:44:06,Microsoft’s stock rises 9% on strong Azure revenue growth and steady capex spending - siliconangle.com,MSFT,Google RSS,positive,0.9359331727027893
+2026-07-30 19:45:00,"Microsoft’s stock has biggest one-day gain since 2008, adding $480 billion in market value as cloud business booms - Fortune",MSFT,Google RSS,positive,0.8797517418861389
+2026-07-30 18:29:00,"Nasdaq Leads Major U.S. Stock Indexes Higher, Fueled by Microsoft Rally - WSJ",MSFT,Google RSS,positive,0.8510373830795288
+2026-07-30 21:13:00,"Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market - apnews.com",MSFT,Google RSS,neutral,0.0
+2026-07-29 16:04:12,"Microsoft jumps 8% as it boosts capital spending plans, citing demand - CNBC",MSFT,Google RSS,positive,0.9107068181037903
+2026-07-30 22:57:26,"Microsoft stock price rips on earnings, jumping a rather insane 18% - Windows Central",MSFT,Google RSS,negative,-0.9583714604377747
+2026-07-30 11:40:05,"Microsoft stock jumps 8%, Meta stock falls 9% on AI earnings - qz.com",MSFT,Google RSS,neutral,0.0
+2026-07-30 22:10:00,"Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market - The Journal Gazette",MSFT,Google RSS,negative,-0.4912357032299042
+2026-07-30 22:03:04,"S&P 500, Nasdaq End Best Day In A Month On Support From Microsoft Gains, AI Stocks — ORCL, GOOGL, MSFT, BE, TSLA Stock In Focus - Stocktwits",MSFT,Google RSS,neutral,0.0
+2026-07-30 18:43:06,"Meta shares tumble 9% in record losing streak while Microsoft, chip stocks jump on AI earnings - nypost.com",MSFT,Google RSS,negative,-0.8355432152748108
+2026-07-30 17:32:00,"Stock Market Midday, July 30: Microsoft Soars 15%, Boosting Tech Stocks - The Motley Fool",MSFT,Google RSS,positive,0.9425583481788635
+2026-07-30 08:37:15,Microsoft stock surges 8% after beating Q4 earnings expectations - eciks.org,MSFT,Google RSS,positive,0.9263297915458679
+2026-07-30 12:15:00,"Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-07-30 10:35:59,Morgan Stanley reiterates Overweight on Microsoft stock after strong results - Investing.com,MSFT,Google RSS,negative,-0.710174024105072
+2026-07-30 19:41:10,"Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market - Oskaloosa Herald",MSFT,Google RSS,neutral,0.0
+2026-07-30 11:22:12,"Microsoft stock holds at outperform, $550 target on strong Azure growth - Investing.com",MSFT,Google RSS,neutral,0.0
+2026-07-30 10:29:37,Bernstein raises Microsoft stock price target on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-07-30 20:28:00,"Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market - Castanet",MSFT,Google RSS,positive,0.5507776737213135
+2026-07-30 22:29:58,NASDAQ Rebounds with Microsoft (MSFT) and Strong Tech Sector Per - GuruFocus,MSFT,Google RSS,positive,0.9212931394577026
+2026-07-30 19:41:10,"Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market - couriernews.com",MSFT,Google RSS,neutral,0.0
+2026-07-26 02:17:00,Morgan Stanley resets Microsoft stock forecast ahead of earnings - thestreet.com,MSFT,Google RSS,neutral,0.0
+2026-07-30 06:40:43,"Meta tanks 9%, continuing record losing streak, while Microsoft jumps 14% as AI trade splits",MSFT,Bing RSS,negative,-0.882133424282074
+2026-07-30 12:45:21,"Microsoft’s stock has biggest one-day gain since 2008, adding $480 billion in market value as cloud business booms",MSFT,Bing RSS,positive,0.9216002225875854
+2026-07-30 13:22:00,"Stock Market Today (July 30, 2026): Dow rises as Microsoft surges, Fed holds rates steady",MSFT,Bing RSS,positive,0.6149737238883972
+2026-07-29 22:09:00,"Microsoft’s best day since 2008 leads US stocks, while inflation worries remain in the bond market",MSFT,Bing RSS,negative,-0.5464674234390259
+2026-07-30 05:30:00,"Microsoft stock surges on strong quarter, record cloud revenue",MSFT,Bing RSS,positive,0.9063150882720947
+2026-07-30 23:58:29,"Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",MSFT,Yahoo RSS,neutral,0.0
+2026-07-30 22:45:15,"Wall Street ends sharply higher, lifted by soaring Microsoft",MSFT,Yahoo RSS,positive,0.9276257753372192
+2026-07-30 21:58:00,"S&P 500, Nasdaq End Best Day In A Month On Support From Microsoft Gains, AI Stocks  — ORCL, GOOGL, MSFT, BE, TSLA Stock In Focus",MSFT,Yahoo RSS,positive,0.7119327187538147
+2026-07-30 20:49:30,Update: US Equity Indexes Surge as Microsoft Triggers Rebound in Chipmakers While Inflation Rate Falls in June,MSFT,Yahoo RSS,positive,0.801569938659668
+2026-07-30 20:44:16,Update: Nasdaq Composite Snaps 6-Day Slump as Microsoft Soars,MSFT,Yahoo RSS,negative,-0.9694203734397888
+2026-07-30 13:14:00,"Microsoft, Meta, Samsung, Micron, Nvidia, Apple, Amazon, and More Stocks That Explain Today's Market -- Barrons.com - 富途牛牛",NVDA,Google RSS,neutral,0.0
+2026-07-30 13:18:04,Six key risks facing NVIDIA stock ahead of August earnings - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-07-29 18:25:20,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - theglobeandmail.com",TSLA,Google RSS,negative,-0.9733224511146545
+2026-07-30 14:33:00,Tesla stock rises. How Microsoft helped end its 6-day losing streak.,TSLA,Bing RSS,neutral,0.0
+2026-07-29 11:26:00,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans",TSLA,Bing RSS,negative,-0.9742087125778198
+2026-07-30 21:58:00,"S&P 500, Nasdaq End Best Day In A Month On Support From Microsoft Gains, AI Stocks  — ORCL, GOOGL, MSFT, BE, TSLA Stock In Focus",TSLA,Yahoo RSS,positive,0.7119327187538147
+2026-07-30 08:53:39,"Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits - CNBC",META,Google RSS,negative,-0.9156963229179382
+2026-07-30 17:21:00,Meta's Big Bet On Consumer AI Stands Out. That Hasn't Been Good For The Stock. - Investor's Business Daily,META,Google RSS,neutral,0.0
+2026-07-30 11:40:05,"Microsoft stock jumps 8%, Meta stock falls 9% on AI earnings - qz.com",META,Google RSS,neutral,0.0
+2026-07-30 18:43:06,"Meta shares tumble 9% in record losing streak while Microsoft, chip stocks jump on AI earnings - nypost.com",META,Google RSS,negative,-0.8355432152748108
+2026-07-30 14:10:46,"Microsoft, Meta Stocks Bookend the Nasdaq After Earnings - Schaeffer's Investment Research",META,Google RSS,neutral,0.0
+2026-07-30 09:09:36,"META Stock Dips Premarket After Q2 Report: Meta’s Forecast Miss Has Investors Worried, Retail Turns More Bearish - Stocktwits",META,Google RSS,negative,-0.9606093764305115
+2026-07-30 09:08:27,"META Stock Dips Premarket After Q2 Report: Meta’s Forecast Miss Has Investors Worried, Retail Turns More Bearish - TradingView",META,Google RSS,negative,-0.9575400352478027
+2026-07-30 12:15:00,"Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar - Investor's Business Daily",META,Google RSS,neutral,0.0
+2026-07-29 11:26:00,Meta Q2 earnings recap: Stock tumbles nearly 10% after profits miss Wall Street estimates,META,Bing RSS,negative,-0.9694627523422241
+2026-07-30 04:36:00,"Microsoft stock jumps 8%, Meta stock falls 9% on AI earnings",META,Bing RSS,negative,-0.8262091279029846
+2026-07-30 05:48:00,"Meta stock sinks 10% on earnings miss, 'barely passable' quarter",META,Bing RSS,negative,-0.9719703793525696
+2026-07-30 23:58:29,"Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",META,Yahoo RSS,neutral,0.0
+2026-07-30 20:44:16,Update: Nasdaq Composite Snaps 6-Day Slump as Microsoft Soars,META,Yahoo RSS,negative,-0.9694203734397888
+2026-07-30 19:35:49,Sector Update: Tech Stocks Sharply Higher Late Afternoon,META,Yahoo RSS,positive,0.906806230545044
+2026-07-30 19:31:01,Meta Platforms vs. Microsoft: What Recent Revenue Trends Tell Investors About These Artificial Intelligence Companies,META,Yahoo RSS,neutral,0.0
+2026-07-29 19:42:38,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
+2026-07-30 17:29:50,"Stocks making the biggest moves midday: Meta, Microsoft, MarketAxess, Crocs & more",MSFT,CNBC Finance,neutral,0.0
+2026-07-30 17:29:50,"Stocks making the biggest moves midday: Meta, Microsoft, MarketAxess, Crocs & more",META,CNBC Finance,neutral,0.0
+2026-07-30 20:21:00,Why Microsoft’s stock soared to a historic gain after earnings,MSFT,MarketWatch Top,positive,0.5192069411277771
