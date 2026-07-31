@@ -195,14 +195,38 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-31 07:47:00,"The $2.3 Trillion Reason Amazon, Alphabet, and Microsoft May Still Be the Smartest AI Investments",GOOGL,Bing RSS,neutral,0.0
 2026-07-31 13:48:48,Amazon soars as cloud revenue surge allays fears over ballooning AI bets - Reuters,AMZN,Google RSS,neutral,0.0
 2026-07-31 15:11:15,US stocks swing as Wall Street’s wild July keeps swerving and inflation worries keep squeezing - Boston Herald,AMZN,Google RSS,negative,-0.6367928385734558
-2026-07-31 13:35:00,Stock market climbs as Amazon earnings lift tech sentiment (SPX:) - Seeking Alpha,AMZN,Google RSS,positive,0.9065641164779663
+2026-07-31 13:35:00,Stock market climbs as Amazon earnings lift tech sentiment (SPX:) - Seeking Alpha,AMZN,Google RSS,positive,0.9065641164779664
 2026-07-31 14:22:43,Amazon’s Stock Jumps 12% On Strong Cloud Growth - The Globe and Mail,AMZN,Google RSS,positive,0.9277411103248596
 2026-07-31 11:46:57,US Stocks Falter as AI-Driven Rally Fades Despite Amazon Blowout - Bloomberg.com,AMZN,Google RSS,negative,-0.7697144150733948
 2026-07-31 01:31:00,"Stocks climb as strong tech results reignite AI trade, yen swings - Reuters",AMZN,Google RSS,neutral,0.0
-2026-07-31 13:51:16,"Wall Street rises as Amazon and chip stocks jump, even as oil prices add to worries about inflation - Star Beacon",AMZN,Google RSS,negative,-0.45787835121154785
+2026-07-31 13:51:16,"Wall Street rises as Amazon and chip stocks jump, even as oil prices add to worries about inflation - Star Beacon",AMZN,Google RSS,negative,-0.4578783512115478
 2026-07-31 14:03:20,Amazon soars as cloud revenue surge allays fears over ballooning AI bets By Reuters - Investing.com,AMZN,Google RSS,neutral,0.0
 2026-07-31 07:05:00,US stock market rises as Amazon and chipmaker gains; oil prices hike prompt worries amid inflation concerns,AMZN,Bing RSS,positive,0.5756403207778931
 2026-07-31 07:47:00,"The $2.3 Trillion Reason Amazon, Alphabet, and Microsoft May Still Be the Smartest AI Investments",AMZN,Bing RSS,neutral,0.0
 2026-07-31 11:27:02,Microsoft posts record one-day market cap gain after earnings - qz.com,MSFT,Google RSS,positive,0.8540335893630981
 2026-07-31 14:47:35,"The $2.3 Trillion Reason Amazon, Alphabet, and Microsoft May Still Be the Smartest AI Investments",MSFT,Yahoo RSS,neutral,0.0
-2026-07-31 13:49:22,Stock markets rally on tech rebound,MSFT,Yahoo RSS,negative,-0.44993385672569275
+2026-07-31 13:49:22,Stock markets rally on tech rebound,MSFT,Yahoo RSS,negative,-0.4499338567256927
+2026-07-31 16:47:00,"Stock Market Today: Dow, S&P 500 and Nasdaq turn higher as Amazon's gain helps offset Apple's loss - MarketWatch",AAPL,Google RSS,positive,0.9405672550201416
+2026-07-31 17:02:00,Why Wall Street Likes Apple's AI Strategy Despite Friday's Stock Tumble - Investor's Business Daily,AAPL,Google RSS,neutral,0.0
+2026-07-31 16:38:00,"Stock Market Rises Amid Apple, Amazon, Meta, Microsoft Earnings, Soaring Yields: Weekly Review - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-07-31 15:16:00,"US stocks swing as Amazon leaps, Apple sinks and rising oil prices add to worries about inflation - apnews.com",AAPL,Google RSS,negative,-0.7612918019294739
+2026-07-31 06:51:00,Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years,AAPL,Bing RSS,negative,-0.9658278822898865
+2026-07-31 17:23:45,Update: Consumer Discretionary Helps Push US Equity Indexes Higher Following Amazon's Blowout Results,AAPL,Yahoo RSS,positive,0.9411436319351196
+2026-07-31 16:38:30,"Stock Market Rises Amid Apple, Amazon, Meta, Microsoft Earnings, Soaring Yields: Weekly Review",AAPL,Yahoo RSS,positive,0.4573271870613098
+2026-07-31 17:01:28,"Stock Market Today: Major Indexes Rise at End of Wild Week; Amazon Soars, Apple Sinks; Bond Yields Jump - Investopedia",AMZN,Google RSS,positive,0.480997771024704
+2026-07-31 16:38:00,"Stock Market Rises Amid Apple, Amazon, Meta, Microsoft Earnings, Soaring Yields: Weekly Review - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-07-30 20:19:29,"Amazon's AWS posts fastest growth since 2021, citing AI and chip demand - cnbc.com",AMZN,Google RSS,positive,0.5701758861541748
+2026-07-31 13:53:52,"Wall Street rises as Amazon and chip stocks jump, even as oil prices add to worries about inflation - Fort Bragg Advocate-News",AMZN,Google RSS,positive,0.590167760848999
+2026-07-31 14:52:03,JPMorgan raises Amazon stock price target on AWS acceleration - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-07-31 14:02:03,"Wall Street rises as Amazon and chip stocks jump, even as oil prices add to worries about inflation - San Antonio Express-News",AMZN,Google RSS,positive,0.6775195002555847
+2026-07-31 15:16:00,"US stocks swing as Amazon leaps, Apple sinks and rising oil prices add to worries about inflation - apnews.com",AMZN,Google RSS,negative,-0.7612918019294739
+2026-07-31 00:56:15,"Stocks seesaw as Amazon surge countered by Apple slide, bond sell-off - Investing.com",AMZN,Google RSS,neutral,0.0
+2026-07-31 17:23:45,Update: Consumer Discretionary Helps Push US Equity Indexes Higher Following Amazon's Blowout Results,AMZN,Yahoo RSS,positive,0.9411436319351196
+2026-07-31 16:38:30,"Stock Market Rises Amid Apple, Amazon, Meta, Microsoft Earnings, Soaring Yields: Weekly Review",AMZN,Yahoo RSS,positive,0.4573271870613098
+2026-07-31 16:38:00,"Stock Market Rises Amid Apple, Amazon, Meta, Microsoft Earnings, Soaring Yields: Weekly Review - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-07-29 16:04:12,"Microsoft jumps 8% as it boosts capital spending plans, citing demand - cnbc.com",MSFT,Google RSS,positive,0.8793010711669922
+2026-07-29 20:07:00,Microsoft Stock Rises on Strong Earnings -- Barrons.com - Moomoo,MSFT,Google RSS,positive,0.7551791071891785
+2026-07-31 16:38:30,"Stock Market Rises Amid Apple, Amazon, Meta, Microsoft Earnings, Soaring Yields: Weekly Review",MSFT,Yahoo RSS,positive,0.4573271870613098
+2026-07-30 08:53:39,"Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits - cnbc.com",META,Google RSS,negative,-0.811806321144104
+2026-07-31 16:38:00,"Stock Market Rises Amid Apple, Amazon, Meta, Microsoft Earnings, Soaring Yields: Weekly Review - Investor's Business Daily",META,Google RSS,neutral,0.0
+2026-07-31 16:38:30,"Stock Market Rises Amid Apple, Amazon, Meta, Microsoft Earnings, Soaring Yields: Weekly Review",META,Yahoo RSS,positive,0.4573271870613098
