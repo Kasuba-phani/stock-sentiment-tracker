@@ -210,7 +210,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-31 17:02:00,Why Wall Street Likes Apple's AI Strategy Despite Friday's Stock Tumble - Investor's Business Daily,AAPL,Google RSS,neutral,0.0
 2026-07-31 16:38:00,"Stock Market Rises Amid Apple, Amazon, Meta, Microsoft Earnings, Soaring Yields: Weekly Review - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
 2026-07-31 15:16:00,"US stocks swing as Amazon leaps, Apple sinks and rising oil prices add to worries about inflation - apnews.com",AAPL,Google RSS,negative,-0.7612918019294739
-2026-07-31 06:51:00,Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years,AAPL,Bing RSS,negative,-0.9658278822898865
+2026-07-31 06:51:00,Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years,AAPL,Bing RSS,negative,-0.9658278822898864
 2026-07-31 17:23:45,Update: Consumer Discretionary Helps Push US Equity Indexes Higher Following Amazon's Blowout Results,AAPL,Yahoo RSS,positive,0.9411436319351196
 2026-07-31 16:38:30,"Stock Market Rises Amid Apple, Amazon, Meta, Microsoft Earnings, Soaring Yields: Weekly Review",AAPL,Yahoo RSS,positive,0.4573271870613098
 2026-07-31 17:01:28,"Stock Market Today: Major Indexes Rise at End of Wild Week; Amazon Soars, Apple Sinks; Bond Yields Jump - Investopedia",AMZN,Google RSS,positive,0.480997771024704
@@ -230,3 +230,25 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-30 08:53:39,"Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits - cnbc.com",META,Google RSS,negative,-0.811806321144104
 2026-07-31 16:38:00,"Stock Market Rises Amid Apple, Amazon, Meta, Microsoft Earnings, Soaring Yields: Weekly Review - Investor's Business Daily",META,Google RSS,neutral,0.0
 2026-07-31 16:38:30,"Stock Market Rises Amid Apple, Amazon, Meta, Microsoft Earnings, Soaring Yields: Weekly Review",META,Yahoo RSS,positive,0.4573271870613098
+2026-07-31 18:58:00,"Apple Falls, But Amazon, Other Stocks Push Nasdaq Composite Higher - WSJ",AAPL,Google RSS,positive,0.6982900500297546
+2026-07-31 16:38:00,Stocks Rise After Huge Earnings And Surging Yields: Weekly Review - Investor's Business Daily,AAPL,Google RSS,neutral,0.0
+2026-07-31 02:13:00,AAPL Stock Slides 6% On Forecast Miss: Retail Mood Turns Dim But Traders Urge A Closer Look - stocktwits.com,AAPL,Google RSS,negative,-0.6026574969291687
+2026-07-31 18:36:13,Stock Market Today: Nasdaq Advances Despite Spiking Yields; Coinbase Tumbles (Live Coverage),AAPL,Yahoo RSS,negative,-0.7057190537452698
+2026-07-31 19:12:53,AWS Achieves Fastest Growth in 18 Quarters. And That May Not Even Be the Best Part of Amazon’s Latest Earnings Report.,GOOGL,Yahoo RSS,neutral,0.0
+2026-07-31 17:46:00,"Stock Market Today: Dow, S&P 500 and Nasdaq push higher, as Amazon, chip stocks rally - MarketWatch",AMZN,Google RSS,positive,0.8751015663146973
+2026-07-31 19:18:00,Dow jumps more than 300 points propelled by Amazon as July trading winds down: Live updates - CNBC,AMZN,Google RSS,neutral,0.0
+2026-07-31 18:58:00,"Apple Falls, But Amazon, Other Stocks Push Nasdaq Composite Higher - WSJ",AMZN,Google RSS,positive,0.6982900500297546
+2026-07-31 16:38:00,Stocks Rise After Huge Earnings And Surging Yields: Weekly Review - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
+2026-07-31 00:56:15,"Stocks mostly holding gains as Amazon surge counters Apple slide, bond sell-off - Investing.com",AMZN,Google RSS,neutral,0.0
+2026-07-31 19:12:53,AWS Achieves Fastest Growth in 18 Quarters. And That May Not Even Be the Best Part of Amazon’s Latest Earnings Report.,AMZN,Yahoo RSS,neutral,0.0
+2026-07-31 18:36:13,Stock Market Today: Nasdaq Advances Despite Spiking Yields; Coinbase Tumbles (Live Coverage),AMZN,Yahoo RSS,negative,-0.7057190537452698
+2026-07-31 16:38:00,Stocks Rise After Huge Earnings And Surging Yields: Weekly Review - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
+2026-07-31 19:12:53,AWS Achieves Fastest Growth in 18 Quarters. And That May Not Even Be the Best Part of Amazon’s Latest Earnings Report.,MSFT,Yahoo RSS,neutral,0.0
+2026-07-31 19:00:00,Microsoft's $450 billion one-day surge tops Turkey's entire stock market as Azure hits $100B milestone,MSFT,Yahoo RSS,positive,0.7329618334770203
+2026-07-31 18:17:26,These 3 Dividend ETFs Own Nvidia and Microsoft and Still Pay Up to 8 Percent,MSFT,Yahoo RSS,neutral,0.0
+2026-07-31 19:29:00,"Pfizer Yields 6.8%, Trades at 8.5X Earnings, and Has a Promising Late-Stage Weight Loss Drug. Why Are So Many Investors Still Ignoring the Stock?",NVDA,Yahoo RSS,neutral,0.0
+2026-07-31 19:12:53,AWS Achieves Fastest Growth in 18 Quarters. And That May Not Even Be the Best Part of Amazon’s Latest Earnings Report.,NVDA,Yahoo RSS,neutral,0.0
+2026-07-31 18:17:26,These 3 Dividend ETFs Own Nvidia and Microsoft and Still Pay Up to 8 Percent,NVDA,Yahoo RSS,neutral,0.0
+2026-07-31 17:20:00,Top Stocks Set to Benefit From Rising EV and AV Adoption,TSLA,Yahoo RSS,positive,0.9456503391265869
+2026-07-31 16:38:00,Stocks Rise After Huge Earnings And Surging Yields: Weekly Review - Investor's Business Daily,META,Google RSS,neutral,0.0
+2026-07-30 09:09:36,"META Stock Dips Premarket After Q2 Report: Meta’s Forecast Miss Has Investors Worried, Retail Turns More Bearish - stocktwits.com",META,Google RSS,negative,-0.9500276446342468
