@@ -120,7 +120,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-30 16:13:54,"Stocks making the biggest moves midday: Meta, Microsoft, MarketAxess, Crocs & more - CNBC",META,Google RSS,neutral,0.0
 2026-07-30 09:08:27,"META Stock Dips Premarket After Q2 Report: Meta’s Forecast Miss Has Investors Worried, Retail Turns More Bearish - tradingview.com",META,Google RSS,negative,-0.9516603350639344
 2026-07-30 19:08:36,New highs for major indices. Tim Cook's last earnings release at Apple - investinglive.com,AAPL,Google RSS,neutral,0.0
-2026-07-30 15:20:00,Apple earnings recap: Stock tumbles 6% as Tim Cook warns of 'very significant' supply constraints,AAPL,Bing RSS,negative,-0.9700204730033875
+2026-07-30 15:20:00,Apple earnings recap: Stock tumbles 6% as Tim Cook warns of 'very significant' supply constraints,AAPL,Bing RSS,negative,-0.9700204730033876
 2026-07-31 03:54:11,US stock futures rise further as tech extends recovery rally - Investing.com,AMZN,Google RSS,neutral,0.0
 2026-07-31 07:44:51,"Amazon Stock Price Forecast: AWS Growth Hits Four-Year High as Earnings Beat Across the Board, Shares May Reach $350 - TradingKey",AMZN,Google RSS,positive,0.9199382662773132
 2026-07-31 05:07:20,Amazon beats expectations with cloud and AI growth - The Hindu,AMZN,Google RSS,positive,0.7742322087287903
@@ -136,3 +136,26 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-30 08:37:00,Meta stock extends historic losing streak after weak earnings report,META,Bing RSS,negative,-0.9695818424224854
 2026-07-29 20:01:52,"Qualcomm forecasts weak quarterly profit, expects Apple revenue drop to accelerate",AAPL,Yahoo Global,negative,-0.9747470617294312
 2026-07-29 21:02:17,"Stock Market Today: Dow Craters 1,110 Points As Bond Yields Jump On Fed Worries; Meta Extends Losses",META,Yahoo Global,negative,-0.6453862190246582
+2026-07-31 08:14:04,Apple Earnings: Supply and Memory Cloud an Illustrious Demand Picture - Morningstar,AAPL,Google RSS,neutral,0.0
+2026-07-31 08:38:38,Apple shares sink on disappointing September quarter sales outlook - Investing.com,AAPL,Google RSS,negative,-0.9541213512420654
+2026-07-31 08:28:12,"Apple slides as supply snags cloud outlook, putting iPhone demand in focus",AAPL,Yahoo RSS,negative,-0.9579252600669861
+2026-07-31 08:12:27,"Stock market today: Nasdaq, Dow, S&P 500, Nasdaq set for more gains as Big Tech's AI spending shows no sign of letting up",AAPL,Yahoo RSS,positive,0.8941109776496887
+2026-07-31 09:14:07,Amazon jumps as AWS growth soothes fears over rising AI spending,GOOGL,Yahoo RSS,positive,0.7668086290359497
+2026-07-31 09:43:00,Nasdaq futures rise as tech stocks lead sharp Wall Street rebound: Live updates - CNBC,AMZN,Google RSS,neutral,0.0
+2026-07-31 09:18:01,Amazon shares rally as cloud growth surges and spending outlook climbs - Investing.com Nigeria,AMZN,Google RSS,neutral,0.0
+2026-07-31 10:11:37,Stock index futures climb as Amazon earnings lift tech sentiment (SPX:) - Seeking Alpha,AMZN,Google RSS,positive,0.7116644978523254
+2026-07-31 09:13:45,"Stock Market Today: S&P 500, Dow Jones Futures Rise After Cooler June PCE Inflation Data—Apple, Amazon, C - Benzinga",AMZN,Google RSS,positive,0.4528128504753113
+2026-07-31 10:40:14,"Stock Market Today (July 31, 2026): Nasdaq futures rise as Amazon earnings lift tech stocks - thestreet.com",AMZN,Google RSS,positive,0.922112226486206
+2026-07-31 09:39:30,Amazon shares surge after AWS posts fastest cloud growth in over four years - Межа. Новини України.,AMZN,Google RSS,positive,0.9022910594940186
+2026-07-31 09:14:07,Amazon jumps as AWS growth soothes fears over rising AI spending,AMZN,Yahoo RSS,positive,0.7668086290359497
+2026-07-31 08:12:27,"Stock market today: Nasdaq, Dow, S&P 500, Nasdaq set for more gains as Big Tech's AI spending shows no sign of letting up",AMZN,Yahoo RSS,positive,0.8941109776496887
+2026-07-30 19:54:55,"Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market - yakimaherald.com",MSFT,Google RSS,neutral,0.0
+2026-07-30 15:49:00,"Microsoft stock soars 15% after strong earnings, Copilot super app is coming this quarter - Neowin",MSFT,Google RSS,positive,0.7419952750205994
+2026-07-31 08:12:27,"Stock market today: Nasdaq, Dow, S&P 500, Nasdaq set for more gains as Big Tech's AI spending shows no sign of letting up",MSFT,Yahoo RSS,positive,0.8941109776496887
+2026-07-30 13:14:00,"Microsoft, Meta, Samsung, Micron, Nvidia, Apple, Amazon, and More Stocks That Explain Today's Market -- Barrons.com - news.futunn.com",NVDA,Google RSS,neutral,0.0
+2026-07-31 10:10:00,Bitcoin and XRP Are Missing From This Key New Crypto Index. Are They Still Worth Buying?,NVDA,Yahoo RSS,neutral,0.0
+2026-07-31 08:26:00,"The Federal Reserve's Latest Interest Rate Decision Featured Something We Haven't Seen in 10 Years, and It Should Rightly Worry Wall Street",NVDA,Yahoo RSS,negative,-0.496551513671875
+2026-07-31 04:00:00,"Stock Hyped as Turkey’s Tesla Sinks 90%, Burning Retail Traders - Bloomberg.com",TSLA,Google RSS,neutral,0.0
+2026-07-30 13:13:00,Tesla stock is gaining. How Microsoft is helping end its six-day losing streak.,TSLA,Bing RSS,positive,0.6315013766288757
+2026-07-31 04:00:00,"Stock Hyped as Turkey’s Tesla Sinks 90%, Burning Retail Traders",TSLA,Yahoo RSS,negative,-0.8538838028907776
+2026-07-30 23:39:10,"Meta stock outperformed GOOG, TSLA in July despite earnings selloff — analyst says shares are ‘attractively priced’ now",META,Bing RSS,positive,0.9263300895690918
