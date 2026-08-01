@@ -134,9 +134,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-30 14:10:46,"Microsoft, Meta Stocks Bookend the Nasdaq After Earnings - Schaeffer's Investment Research",META,Google RSS,neutral,0.0
 2026-08-01 14:30:36,Should You Buy Billionaire Investor Chase Coleman’s Top 5 Growth Stocks in August?,GOOGL,Yahoo RSS,neutral,0.0
 2026-07-31 16:34:46,"US stocks swing as Amazon leaps, Apple sinks and rising oil prices add to worries about inflation - kfor.com",AMZN,Google RSS,negative,-0.6383278369903564
-2026-07-31 03:54:00,"Markets News, July 31: Dow Logs Slim July Gains as Nasdaq, S&P 500 Slip; Amazon Stock Soars, Apple Sinks Friday",AMZN,Bing RSS,negative,-0.9092540740966797
+2026-07-31 03:54:00,"Markets News, July 31: Dow Logs Slim July Gains as Nasdaq, S&P 500 Slip; Amazon Stock Soars, Apple Sinks Friday",AMZN,Bing RSS,negative,-0.9092540740966796
 2026-08-01 14:30:36,Should You Buy Billionaire Investor Chase Coleman’s Top 5 Growth Stocks in August?,AMZN,Yahoo RSS,neutral,0.0
 2026-07-29 10:25:29,"Microsoft set for $190 billion market value swing after earnings results, options indicate - Reuters",MSFT,Google RSS,neutral,0.0
 2026-08-01 09:07:00,S&P 500 and Dow Jones Forecast: Microsoft Rally Lifts Stocks as Tariff Risks Grow - fxempire.com,MSFT,Google RSS,neutral,0.0
 2026-08-01 14:30:36,Should You Buy Billionaire Investor Chase Coleman’s Top 5 Growth Stocks in August?,NVDA,Yahoo RSS,neutral,0.0
 2026-08-01 14:30:36,Should You Buy Billionaire Investor Chase Coleman’s Top 5 Growth Stocks in August?,META,Yahoo RSS,neutral,0.0
+2026-07-30 08:53:39,"Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits - CNBC",MSFT,Google RSS,negative,-0.9156963229179382
+2026-08-01 16:46:00,Applied Materials Rose 15% on Thursday and Is Still More Than 30% Below Its High. It Reports on Aug. 13.,NVDA,Yahoo RSS,positive,0.5371540784835815
+2026-08-01 02:33:00,Tesla Just Had a Rough Quarter and the Stock Is Falling - Wall Street Is Buying Anyway,TSLA,Bing RSS,negative,-0.9666728377342224
