@@ -125,10 +125,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-31 21:10:00,S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff.,AAPL,Yahoo RSS,negative,-0.8825173377990723
 2026-07-30 19:45:00,"Microsoft’s stock has biggest one-day gain since 2008, adding $480 billion in market value as cloud business booms - fortune.com",MSFT,Google RSS,positive,0.5273637175559998
 2026-08-01 09:07:00,S&P 500 and Dow Jones Forecast: Microsoft Rally Lifts Stocks as Tariff Risks Grow - FXEmpire,MSFT,Google RSS,positive,0.5930735468864441
-2026-07-30 04:50:07,US stock futures rise as Microsoft offsets Fed concerns,MSFT,Bing RSS,positive,0.49578335881233215
+2026-07-30 04:50:07,US stock futures rise as Microsoft offsets Fed concerns,MSFT,Bing RSS,positive,0.4957833588123321
 2026-07-31 21:10:00,S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff.,MSFT,Yahoo RSS,negative,-0.8825173377990723
 2026-07-31 22:57:17,See how Tesla stocks performed for week ending July 31 - usatoday.com,TSLA,Google RSS,neutral,0.0
 2026-08-01 12:19:00,"Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
 2026-08-01 10:46:39,Tesla Just Had a Rough Quarter and the Stock Is Falling - Wall Street Is Buying Anyway - AOL.com,TSLA,Google RSS,negative,-0.9138469696044922
 2026-08-01 02:34:00,Tesla just had a rough quarter and the stock is falling - Wall Street is buying anyway,TSLA,Bing RSS,negative,-0.9666728377342224
 2026-07-30 14:10:46,"Microsoft, Meta Stocks Bookend the Nasdaq After Earnings - Schaeffer's Investment Research",META,Google RSS,neutral,0.0
+2026-08-01 14:30:36,Should You Buy Billionaire Investor Chase Coleman’s Top 5 Growth Stocks in August?,GOOGL,Yahoo RSS,neutral,0.0
+2026-07-31 16:34:46,"US stocks swing as Amazon leaps, Apple sinks and rising oil prices add to worries about inflation - kfor.com",AMZN,Google RSS,negative,-0.6383278369903564
+2026-07-31 03:54:00,"Markets News, July 31: Dow Logs Slim July Gains as Nasdaq, S&P 500 Slip; Amazon Stock Soars, Apple Sinks Friday",AMZN,Bing RSS,negative,-0.9092540740966797
+2026-08-01 14:30:36,Should You Buy Billionaire Investor Chase Coleman’s Top 5 Growth Stocks in August?,AMZN,Yahoo RSS,neutral,0.0
+2026-07-29 10:25:29,"Microsoft set for $190 billion market value swing after earnings results, options indicate - Reuters",MSFT,Google RSS,neutral,0.0
+2026-08-01 09:07:00,S&P 500 and Dow Jones Forecast: Microsoft Rally Lifts Stocks as Tariff Risks Grow - fxempire.com,MSFT,Google RSS,neutral,0.0
+2026-08-01 14:30:36,Should You Buy Billionaire Investor Chase Coleman’s Top 5 Growth Stocks in August?,NVDA,Yahoo RSS,neutral,0.0
+2026-08-01 14:30:36,Should You Buy Billionaire Investor Chase Coleman’s Top 5 Growth Stocks in August?,META,Yahoo RSS,neutral,0.0
