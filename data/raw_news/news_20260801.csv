@@ -149,4 +149,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-29 14:12:38,"MSFT stock jumps 3% after-hours — lower-than-expected Q4 capex, strong Azure sales boost sentiment",MSFT,Bing RSS,positive,0.7563136219978333
 2026-08-01 18:08:49,Microsoft (MSFT) Faces Consumer Probes Over Microsoft 365 And Copilot Changes,MSFT,Yahoo RSS,negative,-0.9577418565750122
 2026-07-29 21:03:00,Meta stock sheds billions after earnings but this analyst thinks Wall Street is wrong,META,Bing RSS,negative,-0.6936415433883667
-2026-07-30 17:32:00,"Stock Market Midday, July 30: Microsoft Soars 15%, Boosting Tech Stocks - The Motley Fool",MSFT,Google RSS,positive,0.9425583481788635
+2026-07-30 17:32:00,"Stock Market Midday, July 30: Microsoft Soars 15%, Boosting Tech Stocks - The Motley Fool",MSFT,Google RSS,positive,0.9425583481788636
+2026-07-30 08:22:55,"Stock market today: Dow, S&P 500, Nasdaq futures edge up ahead of inflation data - finance.yahoo.com",MSFT,Google RSS,positive,0.5179823040962219
+2026-08-01 20:58:00,McDonald's Sits 21% Below Its High and 4% Above Its 52-Week Low. The Dividend Yields 2.7%.,NVDA,Yahoo RSS,negative,-0.9657620191574097
+2026-07-30 09:08:00,"META Stock Dips Premarket After Q2 Report: Meta’s Forecast Miss Has Investors Worried, Retail Turns More Bearish - stocktwits.com",META,Google RSS,negative,-0.9500276446342468
