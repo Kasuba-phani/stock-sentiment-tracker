@@ -115,10 +115,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-29 19:05:00,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - fool.com",TSLA,Google RSS,negative,-0.9739684462547302
 2026-07-31 20:02:39,"US stocks rally to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - Union-Bulletin",AMZN,Google RSS,negative,-0.5351995229721069
 2026-07-31 00:56:15,"Nasdaq falls 3% in July, driven by worst month for chips since financial crisis - Investing.com",AMZN,Google RSS,negative,-0.9686893820762634
-2026-07-31 01:31:00,Stocks boosted by tech earnings; bond yields hit multi-year highs - Reuters,AMZN,Google RSS,positive,0.9262098073959351
+2026-07-31 01:31:00,Stocks boosted by tech earnings; bond yields hit multi-year highs - Reuters,AMZN,Google RSS,positive,0.9262098073959352
 2026-07-30 18:43:06,"Meta shares tumble 9% in record losing streak while Microsoft, chip stocks jump on AI earnings - nypost.com",MSFT,Google RSS,negative,-0.8355432152748108
 2026-07-30 11:22:12,"Microsoft stock holds at outperform, $550 target on strong Azure growth - Investing.com",MSFT,Google RSS,neutral,0.0
 2026-07-30 19:54:55,"Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market - Yakima Herald-Republic",MSFT,Google RSS,neutral,0.0
 2026-08-01 02:26:00,"Microsoft ‘breaks’ Nvidia’s record, registers biggest one-day gain in stock market history",MSFT,Bing RSS,positive,0.7408043146133423
 2026-08-01 10:46:39,Tesla Just Had a Rough Quarter and the Stock Is Falling - Wall Street Is Buying Anyway - aol.com,TSLA,Google RSS,negative,-0.9138469696044922
 2026-07-30 18:43:06,"Meta shares tumble 9% in record losing streak while Microsoft, chip stocks jump on AI earnings - nypost.com",META,Google RSS,negative,-0.8355432152748108
+2026-07-31 21:10:00,S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff.,AAPL,Yahoo RSS,negative,-0.8825173377990723
+2026-07-30 19:45:00,"Microsoft’s stock has biggest one-day gain since 2008, adding $480 billion in market value as cloud business booms - fortune.com",MSFT,Google RSS,positive,0.5273637175559998
+2026-08-01 09:07:00,S&P 500 and Dow Jones Forecast: Microsoft Rally Lifts Stocks as Tariff Risks Grow - FXEmpire,MSFT,Google RSS,positive,0.5930735468864441
+2026-07-30 04:50:07,US stock futures rise as Microsoft offsets Fed concerns,MSFT,Bing RSS,positive,0.49578335881233215
+2026-07-31 21:10:00,S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff.,MSFT,Yahoo RSS,negative,-0.8825173377990723
+2026-07-31 22:57:17,See how Tesla stocks performed for week ending July 31 - usatoday.com,TSLA,Google RSS,neutral,0.0
+2026-08-01 12:19:00,"Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-08-01 10:46:39,Tesla Just Had a Rough Quarter and the Stock Is Falling - Wall Street Is Buying Anyway - AOL.com,TSLA,Google RSS,negative,-0.9138469696044922
+2026-08-01 02:34:00,Tesla just had a rough quarter and the stock is falling - Wall Street is buying anyway,TSLA,Bing RSS,negative,-0.9666728377342224
+2026-07-30 14:10:46,"Microsoft, Meta Stocks Bookend the Nasdaq After Earnings - Schaeffer's Investment Research",META,Google RSS,neutral,0.0
