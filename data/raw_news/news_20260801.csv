@@ -81,7 +81,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-30 20:44:39,"Microsoft rally lifts stocks, 30-year Treasury yield hits 19-year peak",MSFT,Yahoo Global,positive,0.5874943137168884
 2026-07-31 13:51:00,Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years - MarketWatch,AAPL,Google RSS,negative,-0.9597725868225098
 2026-07-31 18:58:00,"Apple Falls, But Amazon, Other Stocks Push Nasdaq Composite Higher - WSJ",AAPL,Google RSS,positive,0.6982900500297546
-2026-07-31 20:40:00,"US stocks rise to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - journalgazette.net",AMZN,Google RSS,positive,0.45684191584587097
+2026-07-31 20:40:00,"US stocks rise to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - journalgazette.net",AMZN,Google RSS,positive,0.4568419158458709
 2026-07-31 18:58:00,"Apple Falls, But Amazon, Other Stocks Push Nasdaq Composite Higher - WSJ",AMZN,Google RSS,positive,0.6982900500297546
 2026-07-31 16:34:46,"US stocks swing as Amazon leaps, Apple sinks and rising oil prices add to worries about inflation - KFOR",AMZN,Google RSS,negative,-0.9076902270317078
 2026-07-30 23:43:51,Amazon’s stock pops on roaring cloud growth and soaring AI demand - SiliconANGLE,AMZN,Google RSS,positive,0.7033694982528687
@@ -93,3 +93,23 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-29 20:33:00,Microsoft Stock Rises on Strong Earnings. The Cloud -- And Software -- Are Bright Spots. -- Barrons.com - Moomoo,MSFT,Google RSS,neutral,0.0
 2026-07-31 04:00:00,"Stock Hyped as Turkey’s Tesla Sinks 90%, Burning Retail Traders - bloomberg.com",TSLA,Google RSS,neutral,0.0
 2026-07-29 13:21:10,"Meta reports mixed quarter, stock slides more than 8%",META,Bing RSS,negative,-0.9563467502593994
+2026-07-31 20:58:24,Apple stock drops 7% as chip squeeze clouds record quarter - finance.yahoo.com,AAPL,Google RSS,negative,-0.926025927066803
+2026-07-30 15:06:31,Apple stock is at a record — how to cushion gains ahead of earnings: AlphaSpace Options Playbook - finance.yahoo.com,AAPL,Google RSS,neutral,0.0
+2026-07-31 20:15:49,Apple stock falls on weak guidance despite earnings beat - eciks.org,AAPL,Google RSS,negative,-0.9415678977966309
+2026-08-01 06:59:57,AAPL Q2 Deep Dive: Supply Chain Strains and Product Demand Set Stage for Deceleration,AAPL,Yahoo RSS,negative,-0.9441649317741394
+2026-07-31 20:02:39,"US stocks rally to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - union-bulletin.com",AMZN,Google RSS,neutral,0.0
+2026-07-31 00:56:15,"Nasdaq falls 3% in July, driven by worst month for chips since financial crisis - investing.com",AMZN,Google RSS,negative,-0.9686893820762634
+2026-07-31 16:36:50,"Amazon stock surges on strong Q2 earnings beat, AWS cloud growth - eciks.org",AMZN,Google RSS,neutral,0.0
+2026-07-31 14:52:03,JPMorgan raises Amazon stock price target on AWS acceleration - investing.com,AMZN,Google RSS,neutral,0.0
+2026-07-31 12:52:53,AWS Achieves Fastest Growth in 18 Quarters. And That May Not Even Be the Best Part of Amazon’s Latest Earnings Report.,AMZN,Bing RSS,neutral,0.0
+2026-07-30 18:50:27,"Microsoft stock surges on strong quarter, record cloud revenue - finance.yahoo.com",MSFT,Google RSS,positive,0.8905032277107239
+2026-07-30 10:39:35,Microsoft Shares Jump After Strong Outlook and Solid AI-Driven Growth - finance.yahoo.com,MSFT,Google RSS,positive,0.8924593329429626
+2026-07-30 22:57:26,"Microsoft stock price rips on earnings, jumping a rather insane 18% - windowscentral.com",MSFT,Google RSS,negative,-0.9392962455749512
+2026-07-31 15:03:21,Microsoft's 16% rally powers stock market rebound as Nasdaq snaps 6-day losing streak - eciks.org,MSFT,Google RSS,neutral,0.0
+2026-07-30 15:46:33,Top Midday Stories: Microsoft Shares Rise After Strong Fiscal Q4 Earnings; Meta Shares Fall Following Q2 Earnings Miss - finance.yahoo.com,MSFT,Google RSS,negative,-0.9081096053123474
+2026-07-30 10:35:59,Morgan Stanley reiterates Overweight on Microsoft stock after strong results - investing.com,MSFT,Google RSS,negative,-0.710174024105072
+2026-07-28 19:00:00,2 AI Stocks That Beat NVIDIA - and Could Soar Even Higher - finance.yahoo.com,NVDA,Google RSS,neutral,0.0
+2026-07-30 13:18:04,Six key risks facing NVIDIA stock ahead of August earnings - investing.com,NVDA,Google RSS,neutral,0.0
+2026-08-01 07:50:00,Kevin Warsh Did Not Impress the Bond Market -- 30-Year Yields Are Up to 5.2%. Here's What This Might Mean for Investors in These 2 ETFs.,NVDA,Yahoo RSS,neutral,0.0
+2026-07-29 18:25:00,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - finance.yahoo.com",TSLA,Google RSS,negative,-0.97409588098526
+2026-07-29 19:05:00,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - fool.com",TSLA,Google RSS,negative,-0.9739684462547302
