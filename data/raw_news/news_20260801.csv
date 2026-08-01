@@ -143,3 +143,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-30 08:53:39,"Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits - CNBC",MSFT,Google RSS,negative,-0.9156963229179382
 2026-08-01 16:46:00,Applied Materials Rose 15% on Thursday and Is Still More Than 30% Below Its High. It Reports on Aug. 13.,NVDA,Yahoo RSS,positive,0.5371540784835815
 2026-08-01 02:33:00,Tesla Just Had a Rough Quarter and the Stock Is Falling - Wall Street Is Buying Anyway,TSLA,Bing RSS,negative,-0.9666728377342224
+2026-07-31 11:32:00,Supply Shortage Takes Bite Out of Apple: 8 Key Items Shaping the Stock Market Friday - TheStreet Pro,AAPL,Google RSS,neutral,0.0
+2026-07-30 13:47:47,Meta's capex guidance isn't cutting it for investors. Stock drops.,GOOGL,Yahoo RSS,negative,-0.9150027632713318
+2026-07-31 14:22:51,"Wall Street rises as Amazon and chip stocks jump, even as oil prices add to worries about inflation - news-herald.com",AMZN,Google RSS,neutral,0.0
+2026-07-29 14:12:38,"MSFT stock jumps 3% after-hours — lower-than-expected Q4 capex, strong Azure sales boost sentiment",MSFT,Bing RSS,positive,0.7563136219978333
+2026-08-01 18:08:49,Microsoft (MSFT) Faces Consumer Probes Over Microsoft 365 And Copilot Changes,MSFT,Yahoo RSS,negative,-0.9577418565750122
+2026-07-29 21:03:00,Meta stock sheds billions after earnings but this analyst thinks Wall Street is wrong,META,Bing RSS,negative,-0.6936415433883667
