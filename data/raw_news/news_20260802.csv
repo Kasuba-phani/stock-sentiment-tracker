@@ -129,4 +129,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-30 22:57:26,"Microsoft stock price rips on earnings, jumping a rather insane 18% - windowscentral.com",MSFT,Google RSS,negative,-0.9392962455749512
 2026-08-02 14:30:05,Should You Buy Billionaire Investor Stephen Mandel’s Top 5 Stock Picks in August?,NVDA,Yahoo RSS,neutral,0.0
 2026-08-01 10:46:39,Tesla Just Had a Rough Quarter and the Stock Is Falling - Wall Street Is Buying Anyway - aol.com,TSLA,Google RSS,negative,-0.9138468503952026
-2026-08-02 16:01:00,Goldman Sachs sees AI trade stabilizing as strong earnings keep bull market intact (META:NASDAQ) - Seeking Alpha,META,Google RSS,positive,0.9465436935424805
+2026-08-02 16:01:00,Goldman Sachs sees AI trade stabilizing as strong earnings keep bull market intact (META:NASDAQ) - Seeking Alpha,META,Google RSS,positive,0.9465436935424804
+2026-07-31 00:29:05,Amazon lifts investment plans after strong cloud sales; shares jump - reuters.com,AMZN,Google RSS,neutral,0.0
+2026-07-31 20:05:26,US Stocks Falter as AI-Driven Rally Fades Despite Amazon Blowout - Bloomberg,AMZN,Google RSS,negative,-0.9297390580177307
+2026-07-31 15:46:30,Stocks boosted by tech earnings; bond yields hit multi-year highs - reuters.com,AMZN,Google RSS,positive,0.7194405198097229
+2026-08-02 16:38:31,Microsoft Stock And 2 Quality Picks Backed by Strong Balance Sheets - simplywall.st,MSFT,Google RSS,positive,0.5289700627326965
+2026-08-02 12:09:07,"AI predicts Nvidia stock price for August 31, 2026 - finbold.com",NVDA,Google RSS,neutral,0.0
+2026-07-31 04:00:00,"Stock Hyped as Turkey’s Tesla Sinks 90%, Burning Retail Traders - Bloomberg",TSLA,Google RSS,negative,-0.7753124833106995
+2026-08-02 18:00:00,"Earnings to watch this week: SpaceX's first earnings report, Disney, AMD, & McDonald's",TSLA,Yahoo RSS,neutral,0.0
