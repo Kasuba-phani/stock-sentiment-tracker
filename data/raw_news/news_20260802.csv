@@ -111,8 +111,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-30 12:45:21,"Microsoft’s stock has biggest one-day gain since 2008, adding $480 billion in market value as cloud business booms",MSFT,Bing RSS,positive,0.9216002225875854
 2026-07-27 11:18:04,"Microsoft earnings preview: AI spending, cloud margins, and why the stock keeps falling",MSFT,Bing RSS,neutral,0.0
 2026-07-30 22:39:05,"Wall Street ends sharply higher, lifted by soaring Microsoft",MSFT,Bing RSS,positive,0.9276257753372192
-2026-07-29 09:45:00,Microsoft stock surges 3% after beating Q4 estimates,MSFT,Bing RSS,positive,0.9294881224632263
-2026-07-30 04:50:07,US stock futures rise as Microsoft offsets Fed concerns,MSFT,Bing RSS,positive,0.49578335881233215
+2026-07-29 09:45:00,Microsoft stock surges 3% after beating Q4 estimates,MSFT,Bing RSS,positive,0.9294881224632264
+2026-07-30 04:50:07,US stock futures rise as Microsoft offsets Fed concerns,MSFT,Bing RSS,positive,0.4957833588123321
 2026-08-02 08:20:00,Here Are My 3 Top Artificial Intelligence (AI) Stocks to Buy in August,NVDA,Yahoo RSS,neutral,0.0
 2026-07-31 04:00:00,"Stock Hyped as Turkey’s Tesla Sinks 90%, Burning Retail Traders - bloomberg.com",TSLA,Google RSS,neutral,0.0
 2026-07-30 14:10:46,"Microsoft, Meta Stocks Bookend the Nasdaq After Earnings - schaeffersresearch.com",META,Google RSS,neutral,0.0
+2026-08-02 11:02:37,Amazon's strong Q2 results and cloud growth lift major indexes to weekly gains - eciks.org,AMZN,Google RSS,positive,0.7401117086410522
+2026-07-31 20:40:00,"US stocks rise to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - journalgazette.net",AMZN,Google RSS,positive,0.4568418264389038
+2026-08-02 12:02:37,Analysts Have Conflicting Sentiments on These Consumer Cyclical Companies: Amazon (AMZN) and Domino’s Pizza Enterprises Limited (OtherDPZUF) - The Globe and Mail,AMZN,Google RSS,negative,-0.914132297039032
+2026-08-02 09:00:00,Stock market turmoil sheds stark light on the opaque AI economy - The Guardian,NVDA,Google RSS,neutral,0.0
