@@ -93,7 +93,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-31 11:32:00,Supply Shortage Takes Bite Out of Apple: 8 Key Items Shaping the Stock Market Friday - pro.thestreet.com,AAPL,Google RSS,neutral,0.0
 2026-07-31 17:02:00,Why Wall Street Likes Apple's AI Strategy Despite Friday's Stock Tumble - Investor's Business Daily,AAPL,Google RSS,neutral,0.0
 2026-07-30 20:19:29,"Amazon's AWS posts fastest growth since 2021, citing AI and chip demand - cnbc.com",AMZN,Google RSS,positive,0.5701758861541748
-2026-07-31 16:34:46,"US stocks swing as Amazon leaps, Apple sinks and rising oil prices add to worries about inflation - KFOR",AMZN,Google RSS,negative,-0.9076903462409973
+2026-07-31 16:34:46,"US stocks swing as Amazon leaps, Apple sinks and rising oil prices add to worries about inflation - KFOR",AMZN,Google RSS,negative,-0.9076903462409972
 2026-07-30 08:53:39,"Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits - cnbc.com",MSFT,Google RSS,negative,-0.811806321144104
 2026-07-29 16:04:12,"Microsoft jumps 8% as it boosts capital spending plans, citing demand - cnbc.com",MSFT,Google RSS,positive,0.8793010711669922
 2026-07-29 20:33:00,Microsoft Stock Rises on Strong Earnings. The Cloud -- And Software -- Are Bright Spots. -- Barrons.com - moomoo.com,MSFT,Google RSS,neutral,0.0
@@ -101,4 +101,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-30 06:40:43,"Meta tanks 9%, continuing record losing streak, while Microsoft jumps 14% as AI trade splits",MSFT,Bing RSS,negative,-0.882133424282074
 2026-07-31 21:10:00,S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff.,MSFT,Yahoo RSS,negative,-0.8825175166130066
 2026-07-30 08:53:39,"Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits - cnbc.com",META,Google RSS,negative,-0.811806321144104
-2026-07-30 09:08:00,"META Stock Dips Premarket After Q2 Report: Meta’s Forecast Miss Has Investors Worried, Retail Turns More Bearish - stocktwits.com",META,Google RSS,negative,-0.9500275254249573
+2026-07-30 09:08:00,"META Stock Dips Premarket After Q2 Report: Meta’s Forecast Miss Has Investors Worried, Retail Turns More Bearish - stocktwits.com",META,Google RSS,negative,-0.9500275254249572
+2026-08-02 08:10:25,Here Are My 3 Top Artificial Intelligence (AI) Stocks to Buy in August - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-08-02 08:20:00,Here Are My 3 Top Artificial Intelligence (AI) Stocks to Buy in August,GOOGL,Yahoo RSS,neutral,0.0
+2026-07-31 20:05:26,US Stocks Falter as AI-Driven Rally Fades Despite Amazon Blowout - bloomberg.com,AMZN,Google RSS,negative,-0.7697144150733948
+2026-08-02 08:48:48,"Helium Advisors LLC Acquires 7,062 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
+2026-08-02 00:06:14,"Microsoft Stock Price Forecast: AI Demand Is Turning Into Real Cloud Revenue, Shares May Return to $500 - tradingkey.com",MSFT,Google RSS,neutral,0.0
+2026-07-31 11:27:02,Microsoft posts record one-day market cap gain after earnings - qz.com,MSFT,Google RSS,positive,0.8540335893630981
+2026-07-30 12:45:21,"Microsoft’s stock has biggest one-day gain since 2008, adding $480 billion in market value as cloud business booms",MSFT,Bing RSS,positive,0.9216002225875854
+2026-07-27 11:18:04,"Microsoft earnings preview: AI spending, cloud margins, and why the stock keeps falling",MSFT,Bing RSS,neutral,0.0
+2026-07-30 22:39:05,"Wall Street ends sharply higher, lifted by soaring Microsoft",MSFT,Bing RSS,positive,0.9276257753372192
+2026-07-29 09:45:00,Microsoft stock surges 3% after beating Q4 estimates,MSFT,Bing RSS,positive,0.9294881224632263
+2026-07-30 04:50:07,US stock futures rise as Microsoft offsets Fed concerns,MSFT,Bing RSS,positive,0.49578335881233215
+2026-08-02 08:20:00,Here Are My 3 Top Artificial Intelligence (AI) Stocks to Buy in August,NVDA,Yahoo RSS,neutral,0.0
+2026-07-31 04:00:00,"Stock Hyped as Turkey’s Tesla Sinks 90%, Burning Retail Traders - bloomberg.com",TSLA,Google RSS,neutral,0.0
+2026-07-30 14:10:46,"Microsoft, Meta Stocks Bookend the Nasdaq After Earnings - schaeffersresearch.com",META,Google RSS,neutral,0.0
