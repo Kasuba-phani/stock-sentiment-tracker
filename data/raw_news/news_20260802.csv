@@ -140,4 +140,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-30 22:49:00,Amazon's stock climbs after earnings. Why investors are cheering the results. - MarketWatch,AMZN,Google RSS,neutral,0.0
 2026-07-31 20:02:39,"US stocks rally to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - union-bulletin.com",AMZN,Google RSS,neutral,0.0
 2026-08-01 16:09:12,Microsoft’s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock - Barchart.com,MSFT,Google RSS,positive,0.528652548789978
-2026-07-29 13:21:10,"Meta reports mixed quarter, stock slides more than 8%",META,Bing RSS,negative,-0.9563469886779785
+2026-07-29 13:21:10,"Meta reports mixed quarter, stock slides more than 8%",META,Bing RSS,negative,-0.9563469886779784
