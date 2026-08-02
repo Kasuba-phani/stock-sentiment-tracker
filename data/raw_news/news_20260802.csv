@@ -120,3 +120,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-31 20:40:00,"US stocks rise to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - journalgazette.net",AMZN,Google RSS,positive,0.4568418264389038
 2026-08-02 12:02:37,Analysts Have Conflicting Sentiments on These Consumer Cyclical Companies: Amazon (AMZN) and Domino’s Pizza Enterprises Limited (OtherDPZUF) - The Globe and Mail,AMZN,Google RSS,negative,-0.914132297039032
 2026-08-02 09:00:00,Stock market turmoil sheds stark light on the opaque AI economy - The Guardian,NVDA,Google RSS,neutral,0.0
+2026-07-31 21:13:00,"US stocks rise to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - apnews.com",AMZN,Google RSS,neutral,0.0
+2026-07-30 21:13:00,"Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market - apnews.com",MSFT,Google RSS,neutral,0.0
+2026-08-02 12:09:07,"AI predicts Nvidia stock price for August 31, 2026 - Finbold",NVDA,Google RSS,neutral,0.0
+2026-08-02 13:26:00,The Bond Market Just Called Fed Chair Kevin Warsh's Bluff on Interest Rates,NVDA,Yahoo RSS,negative,-0.5647509694099426
