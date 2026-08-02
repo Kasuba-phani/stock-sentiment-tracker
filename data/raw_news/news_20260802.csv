@@ -141,3 +141,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-31 20:02:39,"US stocks rally to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - union-bulletin.com",AMZN,Google RSS,neutral,0.0
 2026-08-01 16:09:12,Microsoft’s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock - Barchart.com,MSFT,Google RSS,positive,0.528652548789978
 2026-07-29 13:21:10,"Meta reports mixed quarter, stock slides more than 8%",META,Bing RSS,negative,-0.9563469886779784
+2026-07-30 19:45:00,"Microsoft’s stock has biggest one-day gain since 2008, adding $480 billion in market value as cloud business booms - fortune.com",MSFT,Google RSS,positive,0.5273633003234863
+2026-08-01 17:00:00,Microsoft stock is up 26% from its 52-week low: Buy the rally or wait it out?,MSFT,Bing RSS,positive,0.9378902912139893
