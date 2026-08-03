@@ -147,3 +147,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-03 20:31:55,Dow hits fresh record as oil prices tumble,AMZN,Yahoo RSS,positive,0.639373242855072
 2026-08-03 20:13:35,US Equity Markets End Higher as Crude Oil Falls on US-Iran's New Round of Talks,MSFT,Yahoo RSS,negative,-0.688546359539032
 2026-08-03 14:23:30,Surging Short Interest in SpaceX Stock Sends Strong Signal to Wall Street,TSLA,Yahoo RSS,positive,0.9359005093574524
+2026-08-03 00:55:23,AAPL Stock Slides 6% On Forecast Miss: Retail Mood Turns Dim But Traders Urge A Closer Look - Stocktwits,AAPL,Google RSS,negative,-0.5443871021270752
+2026-08-03 22:43:37,"Wall Street rallies, Dow closes at record on Iran talks optimism",GOOGL,Yahoo RSS,neutral,0.0
+2026-08-03 21:01:03,Update: US Equity Indexes Jump as Communication Services Rally While Crude Oil Slides With Treasury Yields,GOOGL,Yahoo RSS,negative,-0.8656960725784302
+2026-08-03 06:21:44,"Nasdaq Jumps 1% as Amazon Shares Surge: Investor Sentiment Improves, But Greed Index Remains in 'Fear' Zone - Benzinga",AMZN,Google RSS,positive,0.9268635511398315
+2026-08-03 20:27:47,"US Stocks Close: Dow Jumps Over 700 Points, Nasdaq Rises for Third Day as Cloud Firms Lead; Amazon Market Cap Tops $3 Trillion, SpaceX Jumps 5% Late - TradingKey",AMZN,Google RSS,positive,0.9003400802612305
+2026-08-03 21:01:03,Update: US Equity Indexes Jump as Communication Services Rally While Crude Oil Slides With Treasury Yields,AMZN,Yahoo RSS,negative,-0.8656960725784302
+2026-08-03 22:43:37,"Wall Street rallies, Dow closes at record on Iran talks optimism",NVDA,Yahoo RSS,neutral,0.0
+2026-08-03 21:30:00,Tech stocks rally to kick off August. Can chipmakers keep up with demand?,NVDA,Yahoo RSS,positive,0.6065530180931091
+2026-08-03 20:37:00,Tesla stock surges as super bull turns slightly more bearish - thestreet.com,TSLA,Google RSS,positive,0.47404375672340393
+2026-08-03 20:11:29,Snap's stock jumps 8% on earnings beat and strong sales forecast - CNBC,META,Google RSS,positive,0.9294031858444214
+2026-08-03 22:43:37,"Wall Street rallies, Dow closes at record on Iran talks optimism",META,Yahoo RSS,neutral,0.0
