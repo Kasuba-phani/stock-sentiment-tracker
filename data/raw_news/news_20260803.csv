@@ -109,9 +109,24 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-03 14:44:11,This valuation signal shows how investors are rethinking tech stocks,MSFT,Yahoo RSS,neutral,0.0
 2026-08-03 14:04:19,Tech stocks today: Investors eye SpaceX's first earnings report,MSFT,Yahoo RSS,neutral,0.0
 2026-08-03 12:26:00,Dow Jones and Nasdaq climbs as big tech drive gains ahead of busy Wall Street week,MSFT,Yahoo RSS,positive,0.4488014876842499
-2026-08-03 06:57:00,Nvidia stock is in a $200 rut and big tech earnings aren’t helping,NVDA,Bing RSS,negative,-0.9477096199989319
+2026-08-03 06:57:00,Nvidia stock is in a $200 rut and big tech earnings aren’t helping,NVDA,Bing RSS,negative,-0.947709619998932
 2026-08-03 14:44:11,This valuation signal shows how investors are rethinking tech stocks,NVDA,Yahoo RSS,neutral,0.0
 2026-08-03 14:04:19,Tech stocks today: Investors eye SpaceX's first earnings report,NVDA,Yahoo RSS,neutral,0.0
-2026-08-03 13:23:23,SpaceX's first-ever earnings report comes as stock hits new all-time low: Q2 preview,TSLA,Yahoo RSS,negative,-0.9519436955451965
+2026-08-03 13:23:23,SpaceX's first-ever earnings report comes as stock hits new all-time low: Q2 preview,TSLA,Yahoo RSS,negative,-0.9519436955451964
 2026-07-30 18:43:06,"Meta shares tumble 9% in record losing streak while Microsoft, chip stocks jump on AI earnings - nypost.com",META,Google RSS,negative,-0.8355432152748108
 2026-08-03 14:24:22,"Dow surges 700 points after Trump cancels Iran strikes, oil drops",META,Yahoo RSS,negative,-0.3828181028366089
+2026-08-03 15:00:00,4 Top Stocks & Their Leveraged ETFs of Last Week,AAPL,Yahoo RSS,neutral,0.0
+2026-08-03 15:00:00,4 Top Stocks & Their Leveraged ETFs of Last Week,GOOGL,Yahoo RSS,neutral,0.0
+2026-08-03 16:44:11,Amazon stock hits $3 trillion market cap on Q2 cloud earnings - qz.com,AMZN,Google RSS,neutral,0.0
+2026-08-03 16:05:28,4 Top Stocks & Their Leveraged ETFs of Last Week - The Globe and Mail,AMZN,Google RSS,neutral,0.0
+2026-08-03 04:45:00,"AMZN stock jumps, pushing Amazon past $3T valuation as AWS calms AI spending fears",AMZN,Bing RSS,positive,0.7995192408561707
+2026-08-03 16:43:47,Amazon stock hits $3 trillion market cap on Q2 cloud earnings,AMZN,Yahoo RSS,positive,0.4426720142364502
+2026-08-03 15:00:00,4 Top Stocks & Their Leveraged ETFs of Last Week,AMZN,Yahoo RSS,neutral,0.0
+2026-08-03 16:12:13,"After a Strong Quarter, Is Microsoft Stock Headed for a New All-Time High? - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-07-29 07:00:00,Home Page - Microsoft Investor Relations - Microsoft,MSFT,Google RSS,neutral,0.0
+2026-08-03 09:38:29,"After a strong quarter, is Microsoft stock headed for a new all-time high?",MSFT,Bing RSS,positive,0.5342143177986145
+2026-07-30 13:21:00,Why Microsoft’s stock soared to a historic gain after earnings,MSFT,Bing RSS,positive,0.5192069411277771
+2026-08-03 15:58:29,"After a Strong Quarter, Is Microsoft Stock Headed for a New All-Time High?",MSFT,Yahoo RSS,positive,0.5342143177986145
+2026-08-03 15:00:00,4 Top Stocks & Their Leveraged ETFs of Last Week,MSFT,Yahoo RSS,neutral,0.0
+2026-08-03 06:57:00,"Nvidia stock is in a $200 rut, and big tech earnings aren’t helping",NVDA,Bing RSS,negative,-0.9523836970329285
+2026-08-03 15:00:00,4 Top Stocks & Their Leveraged ETFs of Last Week,META,Yahoo RSS,neutral,0.0
