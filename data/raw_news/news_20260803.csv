@@ -89,10 +89,29 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-31 08:58:01,BofA raises Amazon stock price target to $320 on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
 2026-08-03 07:26:49,Microsoft Corporation $MSFT Stock Position Lowered by Arcus Capital Partners LLC - marketbeat.com,MSFT,Google RSS,neutral,0.0
 2026-08-03 08:55:14,Microsoft Corporation $MSFT Shares Purchased by Gryphon Financial Partners LLC - marketbeat.com,MSFT,Google RSS,neutral,0.0
-2026-08-02 10:30:02,3 reasons Microsoft stock soared after Q4 earnings,MSFT,Bing RSS,positive,0.9295254349708557
-2026-08-01 17:00:00,Microsoft stock is up 26% from its 52-week low: Buy the rally or wait it out?,MSFT,Bing RSS,positive,0.9378902912139893
+2026-08-02 10:30:02,3 reasons Microsoft stock soared after Q4 earnings,MSFT,Bing RSS,positive,0.9295254349708556
+2026-08-01 17:00:00,Microsoft stock is up 26% from its 52-week low: Buy the rally or wait it out?,MSFT,Bing RSS,positive,0.9378902912139891
 2026-07-27 11:18:04,"Microsoft earnings preview: AI spending, cloud margins, and why the stock keeps falling",MSFT,Bing RSS,neutral,0.0
 2026-08-03 11:00:00,AMD to report Q2 earnings as chip stocks continue to waver,MSFT,Yahoo RSS,negative,-0.6071720123291016
 2026-07-29 19:05:00,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - fool.com",TSLA,Google RSS,negative,-0.9739684462547302
 2026-08-03 01:11:58,NCLH Stock Heads For Fifth Weekly Loss: Norwegian Cruise Line Says Demand Recovery May Not Arrive Until Late 2027 - Stocktwits,META,Google RSS,negative,-0.9594494104385376
 2026-08-03 09:42:54,"SNAP Stock Falls Premarket Ahead Of Quarterly Report: Investors Watch User Growth, Ad Sales",META,Yahoo RSS,neutral,0.0
+2026-08-03 14:44:11,This valuation signal shows how investors are rethinking tech stocks,AAPL,Yahoo RSS,neutral,0.0
+2026-08-03 14:44:11,This valuation signal shows how investors are rethinking tech stocks,GOOGL,Yahoo RSS,neutral,0.0
+2026-08-03 14:09:33,"Stocks are ignoring higher bond yields, but that can't last for 'very long'",GOOGL,Yahoo RSS,negative,-0.847009003162384
+2026-08-03 11:40:28,Analysts predict Amazon (AMZN) stock price in next 12 months - Finbold,AMZN,Google RSS,neutral,0.0
+2026-08-03 12:44:46,"Amazon.com vs. CAVA: Which Consumer Stock Is a Better Buy in 2026, the Veteran E-Commerce Giant or Rising Restaurant Chain? - The Motley Fool",AMZN,Google RSS,neutral,0.0
+2026-08-03 14:44:11,This valuation signal shows how investors are rethinking tech stocks,AMZN,Yahoo RSS,neutral,0.0
+2026-08-03 14:04:19,Tech stocks today: Investors eye SpaceX's first earnings report,AMZN,Yahoo RSS,neutral,0.0
+2026-08-03 12:30:01,"Amazon.com vs. CAVA: Which Consumer Stock Is a Better Buy in 2026, the Veteran E-Commerce Giant or Rising Restaurant Chain?",AMZN,Yahoo RSS,neutral,0.0
+2026-08-03 08:55:14,Microsoft Corporation $MSFT Shares Purchased by Gryphon Financial Partners LLC - MarketBeat,MSFT,Google RSS,neutral,0.0
+2026-07-31 05:15:00,"Wall Street rises sharply, driven by soaring Microsoft stock - TradingView",MSFT,Google RSS,positive,0.8558499217033386
+2026-08-03 14:44:11,This valuation signal shows how investors are rethinking tech stocks,MSFT,Yahoo RSS,neutral,0.0
+2026-08-03 14:04:19,Tech stocks today: Investors eye SpaceX's first earnings report,MSFT,Yahoo RSS,neutral,0.0
+2026-08-03 12:26:00,Dow Jones and Nasdaq climbs as big tech drive gains ahead of busy Wall Street week,MSFT,Yahoo RSS,positive,0.4488014876842499
+2026-08-03 06:57:00,Nvidia stock is in a $200 rut and big tech earnings aren’t helping,NVDA,Bing RSS,negative,-0.9477096199989319
+2026-08-03 14:44:11,This valuation signal shows how investors are rethinking tech stocks,NVDA,Yahoo RSS,neutral,0.0
+2026-08-03 14:04:19,Tech stocks today: Investors eye SpaceX's first earnings report,NVDA,Yahoo RSS,neutral,0.0
+2026-08-03 13:23:23,SpaceX's first-ever earnings report comes as stock hits new all-time low: Q2 preview,TSLA,Yahoo RSS,negative,-0.9519436955451965
+2026-07-30 18:43:06,"Meta shares tumble 9% in record losing streak while Microsoft, chip stocks jump on AI earnings - nypost.com",META,Google RSS,negative,-0.8355432152748108
+2026-08-03 14:24:22,"Dow surges 700 points after Trump cancels Iran strikes, oil drops",META,Yahoo RSS,negative,-0.3828181028366089
