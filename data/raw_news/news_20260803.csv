@@ -77,10 +77,22 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-30 13:47:47,Meta's capex guidance isn't cutting it for investors. Stock drops.,GOOGL,Yahoo RSS,negative,-0.9150027632713318
 2026-07-31 20:37:00,"Stock Market Today: Dow, Nasdaq End Higher Despite Spiking Yields; Amazon Soars - Investor's Business Daily",AMZN,Google RSS,positive,0.651013970375061
 2026-07-30 23:43:51,Amazon’s stock pops on roaring cloud growth and soaring AI demand - SiliconANGLE,AMZN,Google RSS,positive,0.7033684253692627
-2026-07-31 16:34:46,"US stocks swing as Amazon leaps, Apple sinks and rising oil prices add to worries about inflation - KFOR",AMZN,Google RSS,negative,-0.9076903462409973
+2026-07-31 16:34:46,"US stocks swing as Amazon leaps, Apple sinks and rising oil prices add to worries about inflation - KFOR",AMZN,Google RSS,negative,-0.9076903462409972
 2026-07-31 21:13:00,"US stocks rise to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - AP News",AMZN,Google RSS,positive,0.5490879416465759
-2026-07-31 03:54:00,"Markets News, July 31: Dow Logs Slim July Gains as Nasdaq, S&P 500 Slip; Amazon Stock Soars, Apple Sinks Friday",AMZN,Bing RSS,negative,-0.9092540740966797
+2026-07-31 03:54:00,"Markets News, July 31: Dow Logs Slim July Gains as Nasdaq, S&P 500 Slip; Amazon Stock Soars, Apple Sinks Friday",AMZN,Bing RSS,negative,-0.9092540740966796
 2026-08-03 07:26:49,Microsoft Corporation $MSFT Stock Position Lowered by Arcus Capital Partners LLC - MarketBeat,MSFT,Google RSS,negative,-0.8399544358253479
 2026-07-30 00:44:06,Microsoft’s stock rises 9% on strong Azure revenue growth and steady capex spending - SiliconANGLE,MSFT,Google RSS,positive,0.947528064250946
 2026-07-30 01:53:39,"Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",MSFT,Bing RSS,negative,-0.9511937499046326
 2026-08-02 12:09:07,"AI predicts Nvidia stock price for August 31, 2026 - finbold.com",NVDA,Google RSS,neutral,0.0
+2026-08-03 08:58:17,Apple's (AAPL) Strong Q3 Performance Fuels Optimism Despite Supp - GuruFocus,AAPL,Google RSS,positive,0.9367389678955078
+2026-07-31 15:46:30,Stocks boosted by tech earnings; bond yields hit multi-year highs - reuters.com,AMZN,Google RSS,positive,0.7194405198097229
+2026-07-31 08:58:01,BofA raises Amazon stock price target to $320 on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-08-03 07:26:49,Microsoft Corporation $MSFT Stock Position Lowered by Arcus Capital Partners LLC - marketbeat.com,MSFT,Google RSS,neutral,0.0
+2026-08-03 08:55:14,Microsoft Corporation $MSFT Shares Purchased by Gryphon Financial Partners LLC - marketbeat.com,MSFT,Google RSS,neutral,0.0
+2026-08-02 10:30:02,3 reasons Microsoft stock soared after Q4 earnings,MSFT,Bing RSS,positive,0.9295254349708557
+2026-08-01 17:00:00,Microsoft stock is up 26% from its 52-week low: Buy the rally or wait it out?,MSFT,Bing RSS,positive,0.9378902912139893
+2026-07-27 11:18:04,"Microsoft earnings preview: AI spending, cloud margins, and why the stock keeps falling",MSFT,Bing RSS,neutral,0.0
+2026-08-03 11:00:00,AMD to report Q2 earnings as chip stocks continue to waver,MSFT,Yahoo RSS,negative,-0.6071720123291016
+2026-07-29 19:05:00,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - fool.com",TSLA,Google RSS,negative,-0.9739684462547302
+2026-08-03 01:11:58,NCLH Stock Heads For Fifth Weekly Loss: Norwegian Cruise Line Says Demand Recovery May Not Arrive Until Late 2027 - Stocktwits,META,Google RSS,negative,-0.9594494104385376
+2026-08-03 09:42:54,"SNAP Stock Falls Premarket Ahead Of Quarterly Report: Investors Watch User Growth, Ad Sales",META,Yahoo RSS,neutral,0.0
