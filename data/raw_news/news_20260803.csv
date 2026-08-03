@@ -1,0 +1,75 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-07-31 13:51:00,Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years - MarketWatch,AAPL,Google RSS,negative,-0.9597724676132202
+2026-07-31 11:49:18,"Amazon stock surges 13% on Q2 earnings, Apple stock drops 7% - qz.com",AAPL,Google RSS,negative,-0.8010793924331665
+2026-07-31 18:58:00,"Apple Falls, But Amazon, Other Stocks Push Nasdaq Composite Higher - WSJ",AAPL,Google RSS,positive,0.6982893943786621
+2026-07-31 12:00:00,"Dow Jones Futures: Apple, Amazon Diverge Late; What To Do As AI Stocks Rally - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-08-02 15:18:00,"Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA - Stocktwits",AAPL,Google RSS,neutral,0.0
+2026-07-31 20:15:49,Apple stock falls on weak guidance despite earnings beat - eciks.org,AAPL,Google RSS,negative,-0.9415678977966309
+2026-07-30 16:20:00,Apple earnings recap: Stock tumbles 6% as Tim Cook warns of 'very significant' supply constraints,AAPL,Bing RSS,negative,-0.9700204730033875
+2026-07-31 06:51:00,Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years,AAPL,Bing RSS,negative,-0.9658278822898865
+2026-08-03 02:00:38,"Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",AAPL,Yahoo RSS,neutral,0.0
+2026-08-02 09:00:00,Here Are My 3 Top Artificial Intelligence (AI) Stocks to Buy in August - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-08-02 08:20:00,Here Are My 3 Top Artificial Intelligence (AI) Stocks to Buy in August,GOOGL,Yahoo RSS,neutral,0.0
+2026-07-31 15:37:57,Amazon soars as cloud revenue surge allays fears over ballooning AI bets - Reuters,AMZN,Google RSS,neutral,0.0
+2026-07-31 00:29:05,Amazon lifts investment plans after strong cloud sales; shares jump - Reuters,AMZN,Google RSS,positive,0.7535206079483032
+2026-07-30 20:19:29,"Amazon's AWS posts fastest growth since 2021, citing AI and chip demand - CNBC",AMZN,Google RSS,positive,0.7376840114593506
+2026-07-31 20:40:00,"US stocks rise to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - The Journal Gazette",AMZN,Google RSS,negative,-0.4591063857078552
+2026-07-30 23:43:51,Amazon’s stock pops on roaring cloud growth and soaring AI demand - siliconangle.com,AMZN,Google RSS,neutral,0.0
+2026-07-31 11:49:18,"Amazon stock surges 13% on Q2 earnings, Apple stock drops 7% - qz.com",AMZN,Google RSS,negative,-0.8010793924331665
+2026-08-02 11:02:37,Amazon's strong Q2 results and cloud growth lift major indexes to weekly gains - eciks.org,AMZN,Google RSS,positive,0.7401117086410522
+2026-07-31 16:38:00,Stocks Rise After Huge Earnings And Surging Yields: Weekly Review - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
+2026-07-31 12:00:00,"Dow Jones Futures: Apple, Amazon Diverge Late; What To Do As AI Stocks Rally - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-07-31 18:58:00,"Apple Falls, But Amazon, Other Stocks Push Nasdaq Composite Higher - WSJ",AMZN,Google RSS,positive,0.6982893943786621
+2026-07-31 16:34:46,"US stocks swing as Amazon leaps, Apple sinks and rising oil prices add to worries about inflation - kfor.com",AMZN,Google RSS,negative,-0.6383278369903564
+2026-07-31 20:05:26,US Stocks Falter as AI-Driven Rally Fades Despite Amazon Blowout - Bloomberg.com,AMZN,Google RSS,negative,-0.7697144150733948
+2026-07-31 21:13:00,"US stocks rise to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - apnews.com",AMZN,Google RSS,neutral,0.0
+2026-07-31 15:46:30,Stocks boosted by tech earnings; bond yields hit multi-year highs - Reuters,AMZN,Google RSS,positive,0.9262098073959351
+2026-07-31 20:02:39,"US stocks rally to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - Union-Bulletin",AMZN,Google RSS,negative,-0.5351995229721069
+2026-07-31 16:36:50,"Amazon stock surges on strong Q2 earnings beat, AWS cloud growth - eciks.org",AMZN,Google RSS,neutral,0.0
+2026-07-30 04:29:00,Amazon's stock climbs after earnings. Why investors are cheering the results.,AMZN,Bing RSS,positive,0.5575219988822937
+2026-07-30 16:43:00,Amazon’s stock pops on roaring cloud growth and soaring AI demand,AMZN,Bing RSS,negative,-0.6753990054130554
+2026-08-03 02:00:38,"Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",AMZN,Yahoo RSS,neutral,0.0
+2026-08-02 22:17:33,"‘It’s Finally Happening,’ Says Top Investor on Microsoft Stock - TipRanks",MSFT,Google RSS,positive,0.610217273235321
+2026-07-30 19:45:00,"Microsoft’s stock has biggest one-day gain since 2008, adding $480 billion in market value as cloud business booms - Fortune",MSFT,Google RSS,positive,0.8797517418861389
+2026-07-30 20:21:00,Why Microsoft’s stock soared to a historic gain after earnings - MarketWatch,MSFT,Google RSS,neutral,0.0
+2026-07-29 16:04:12,"Microsoft jumps 8% as it boosts capital spending plans, citing demand - CNBC",MSFT,Google RSS,positive,0.9107068181037903
+2026-08-02 16:38:31,Microsoft Stock And 2 Quality Picks Backed by Strong Balance Sheets - simplywall.st,MSFT,Google RSS,positive,0.5289700627326965
+2026-07-30 21:13:00,"Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market - apnews.com",MSFT,Google RSS,neutral,0.0
+2026-07-30 22:57:26,"Microsoft stock price rips on earnings, jumping a rather insane 18% - Windows Central",MSFT,Google RSS,negative,-0.9583714604377747
+2026-07-30 18:29:00,"Nasdaq Leads Major U.S. Stock Indexes Higher, Fueled by Microsoft Rally - WSJ",MSFT,Google RSS,positive,0.8510373830795288
+2026-07-30 00:44:06,Microsoft’s stock rises 9% on strong Azure revenue growth and steady capex spending - siliconangle.com,MSFT,Google RSS,positive,0.9359331727027893
+2026-07-30 11:40:05,"Microsoft stock jumps 8%, Meta stock falls 9% on AI earnings - qz.com",MSFT,Google RSS,neutral,0.0
+2026-07-31 16:38:00,Stocks Rise After Huge Earnings And Surging Yields: Weekly Review - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
+2026-07-29 20:33:00,Microsoft Stock Rises on Strong Earnings. The Cloud -- And Software -- Are Bright Spots. -- Barrons.com - Moomoo,MSFT,Google RSS,neutral,0.0
+2026-07-29 20:07:00,Microsoft Stock Rises on Strong Earnings -- Barrons.com - Moomoo,MSFT,Google RSS,positive,0.7551791071891785
+2026-08-02 08:48:48,"Helium Advisors LLC Acquires 7,062 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
+2026-07-30 08:37:15,Microsoft stock surges 8% after beating Q4 earnings expectations - eciks.org,MSFT,Google RSS,positive,0.9263297915458679
+2026-08-01 16:09:12,Microsoft’s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock - Barchart.com,MSFT,Google RSS,positive,0.528652548789978
+2026-07-31 11:27:02,Microsoft posts record one-day market cap gain after earnings - qz.com,MSFT,Google RSS,positive,0.8540335893630981
+2026-07-30 06:40:43,"Meta tanks 9%, continuing record losing streak, while Microsoft jumps 14% as AI trade splits",MSFT,Bing RSS,negative,-0.882133424282074
+2026-08-03 02:00:38,"Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",MSFT,Yahoo RSS,neutral,0.0
+2026-08-01 18:08:49,Microsoft (MSFT) Faces Consumer Probes Over Microsoft 365 And Copilot Changes,MSFT,Yahoo RSS,negative,-0.9577418565750122
+2026-08-01 16:09:12,Microsoft’s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock,MSFT,Yahoo RSS,positive,0.8277353644371033
+2026-08-02 12:09:07,"AI predicts Nvidia stock price for August 31, 2026 - Finbold",NVDA,Google RSS,neutral,0.0
+2026-07-30 13:18:04,Six key risks facing NVIDIA stock ahead of August earnings - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-08-02 09:00:00,Stock market turmoil sheds stark light on the opaque AI economy - The Guardian,NVDA,Google RSS,neutral,0.0
+2026-07-30 04:37:00,Nvidia’s Stock Price Pullback Tests 200-day Moving Average (Again) - See It Market,NVDA,Google RSS,neutral,0.0
+2026-07-29 19:05:00,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - The Motley Fool",TSLA,Google RSS,negative,-0.9730916023254395
+2026-07-31 04:00:00,"Stock Hyped as Turkey’s Tesla Sinks 90%, Burning Retail Traders - Bloomberg.com",TSLA,Google RSS,neutral,0.0
+2026-08-02 14:59:00,"Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-08-01 10:46:39,Tesla Just Had a Rough Quarter and the Stock Is Falling - Wall Street Is Buying Anyway - AOL.com,TSLA,Google RSS,negative,-0.9138469696044922
+2026-07-29 18:25:20,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - The Globe and Mail",TSLA,Google RSS,negative,-0.9731068015098572
+2026-08-03 02:00:38,"Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",TSLA,Yahoo RSS,neutral,0.0
+2026-08-02 18:00:00,"Earnings to watch this week: SpaceX's first earnings report, Disney, AMD, & McDonald's",TSLA,Yahoo RSS,neutral,0.0
+2026-07-30 18:43:06,"Meta shares tumble 9% in record losing streak while Microsoft, chip stocks jump on AI earnings - New York Post",META,Google RSS,negative,-0.9493682980537415
+2026-07-30 08:53:39,"Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits - CNBC",META,Google RSS,negative,-0.9156963229179382
+2026-07-30 17:21:00,Meta's Big Bet On Consumer AI Stands Out. That Hasn't Been Good For The Stock. - Investor's Business Daily,META,Google RSS,neutral,0.0
+2026-07-30 11:40:05,"Microsoft stock jumps 8%, Meta stock falls 9% on AI earnings - qz.com",META,Google RSS,neutral,0.0
+2026-08-01 02:58:44,"META Stock Dips Premarket After Q2 Report: Meta’s Forecast Miss Has Investors Worried, Retail Turns More Bearish - Stocktwits",META,Google RSS,negative,-0.9606093764305115
+2026-07-31 16:38:00,Stocks Rise After Huge Earnings And Surging Yields: Weekly Review - Investor's Business Daily,META,Google RSS,neutral,0.0
+2026-08-02 15:18:00,"Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA - Stocktwits",META,Google RSS,neutral,0.0
+2026-07-29 13:21:10,"Meta reports mixed quarter, stock slides more than 8%",META,Bing RSS,negative,-0.9563469886779785
+2026-08-03 02:00:38,"Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",META,Yahoo RSS,neutral,0.0
+2026-07-29 19:42:38,Sector Update: Consumer Stocks Mixed Late Afternoon,NFLX,Yahoo RSS,negative,-0.9352520108222961
+2026-07-30 17:29:50,"Stocks making the biggest moves midday: Meta, Microsoft, MarketAxess, Crocs & more",MSFT,CNBC Finance,neutral,0.0
+2026-07-30 17:29:50,"Stocks making the biggest moves midday: Meta, Microsoft, MarketAxess, Crocs & more",META,CNBC Finance,neutral,0.0
