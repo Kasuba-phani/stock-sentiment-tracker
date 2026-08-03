@@ -133,14 +133,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-31 17:02:00,Why Wall Street Likes Apple's AI Strategy Despite Friday's Stock Tumble - Investor's Business Daily,AAPL,Google RSS,neutral,0.0
 2026-08-03 19:35:45,"Spotify's Path to Sales Growth Reacceleration, Margin Expansion Should Drive Stock Higher, Morgan Stanley Says",AAPL,Yahoo RSS,positive,0.9551246762275696
 2026-08-03 18:19:15,Apple Is Quietly Building a New Manufacturing Edge,AAPL,Yahoo RSS,neutral,0.0
-2026-07-31 19:57:49,"Markets News, July 31: Dow Logs Slim July Gains as Nasdaq, S&P 500 Slip; Amazon Stock Soars, Apple Sinks Friday - Investopedia",AMZN,Google RSS,negative,-0.47922033071517944
+2026-07-31 19:57:49,"Markets News, July 31: Dow Logs Slim July Gains as Nasdaq, S&P 500 Slip; Amazon Stock Soars, Apple Sinks Friday - Investopedia",AMZN,Google RSS,negative,-0.4792203307151794
 2026-08-03 11:40:28,Analysts predict Amazon (AMZN) stock price in next 12 months - finbold.com,AMZN,Google RSS,neutral,0.0
 2026-08-03 17:37:34,"Amazon Earnings, $3 Trillion Market Cap Point To Growth In These Top AI Stocks - Seeking Alpha",AMZN,Google RSS,positive,0.8771212697029114
 2026-07-31 16:38:00,"Stock Market Rises Amid Apple, Amazon, Meta, Microsoft Earnings, Soaring Yields: Weekly Review - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
-2026-08-03 11:37:00,"Amazon Earnings, $3 Trillion Market Cap Point To Growth In These Top AI Stocks",AMZN,Bing RSS,positive,0.9016305208206177
+2026-08-03 11:37:00,"Amazon Earnings, $3 Trillion Market Cap Point To Growth In These Top AI Stocks",AMZN,Bing RSS,positive,0.9016305208206176
 2026-08-03 17:23:49,Amazon cloud chief says inference demand is surging,AMZN,Yahoo RSS,positive,0.8145850896835327
 2026-07-31 16:38:00,"Stock Market Rises Amid Apple, Amazon, Meta, Microsoft Earnings, Soaring Yields: Weekly Review - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
 2026-08-03 16:50:00,How the S&P 500 Survives a Chip Meltdown Without Falling Into a Bear Market,MSFT,Yahoo RSS,neutral,0.0
 2026-08-03 18:56:22,Trump Blasts Oil Companies For Making “Too Much Money” During Iran Conflict As Chevron and Exxon Profits Skyrocket,NVDA,Yahoo RSS,negative,-0.8713468909263611
 2026-07-31 16:38:00,"Stock Market Rises Amid Apple, Amazon, Meta, Microsoft Earnings, Soaring Yields: Weekly Review - Investor's Business Daily",META,Google RSS,neutral,0.0
 2026-08-03 16:50:00,How the S&P 500 Survives a Chip Meltdown Without Falling Into a Bear Market,META,Yahoo RSS,neutral,0.0
+2026-08-03 20:31:55,Dow hits fresh record as oil prices tumble,AMZN,Yahoo RSS,positive,0.639373242855072
+2026-08-03 20:13:35,US Equity Markets End Higher as Crude Oil Falls on US-Iran's New Round of Talks,MSFT,Yahoo RSS,negative,-0.688546359539032
+2026-08-03 14:23:30,Surging Short Interest in SpaceX Stock Sends Strong Signal to Wall Street,TSLA,Yahoo RSS,positive,0.9359005093574524
