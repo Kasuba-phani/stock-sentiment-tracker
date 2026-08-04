@@ -90,4 +90,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-04 14:11:06,Jeff Bezos Filed To Sell Billions Worth Of Amazon Stock. Its Shares Are Falling - ibtimes.com,AMZN,Google RSS,negative,-0.829681396484375
 2026-08-04 16:06:03,"Top Midday Stories: Bessent Says US, Iran Could Soon Reach Hormuz Deal; Palantir Shares Soar on Strong Q2 Results, Guidance",AMZN,Yahoo RSS,positive,0.9372808337211608
 2026-07-31 18:31:33,"Microsoft’s best day since 2008 leads US stocks, while inflation worries remain in the bond market - Commercial Dispatch",MSFT,Google RSS,negative,-0.4454342126846313
-2026-08-04 17:33:43,Palantir Soars 27% and Caterpillar Helps Lift the Dow 800 Points,NVDA,Yahoo RSS,positive,0.9097015261650085
+2026-08-04 17:33:43,Palantir Soars 27% and Caterpillar Helps Lift the Dow 800 Points,NVDA,Yahoo RSS,positive,0.9097015261650084
+2026-08-03 16:44:11,Amazon stock hits $3 trillion market cap on Q2 cloud earnings - qz.com,AMZN,Google RSS,neutral,0.0
+2026-07-30 19:45:00,"Microsoft’s stock has biggest one-day gain since 2008, adding $480 billion in market value as cloud business booms - fortune.com",MSFT,Google RSS,positive,0.5273633003234863
+2026-08-04 19:29:59,Dow Jones AI Giant Microsoft Breaks Out After Earnings-Fueled Surge,MSFT,Yahoo RSS,negative,-0.8826729655265808
+2026-08-04 19:48:40,Anthropic signs $10 billion deal with AI cloud startup Volta,NVDA,Yahoo RSS,positive,0.5361766219139099
