@@ -95,3 +95,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-30 19:45:00,"Microsoft’s stock has biggest one-day gain since 2008, adding $480 billion in market value as cloud business booms - fortune.com",MSFT,Google RSS,positive,0.5273633003234863
 2026-08-04 19:29:59,Dow Jones AI Giant Microsoft Breaks Out After Earnings-Fueled Surge,MSFT,Yahoo RSS,negative,-0.8826729655265808
 2026-08-04 19:48:40,Anthropic signs $10 billion deal with AI cloud startup Volta,NVDA,Yahoo RSS,positive,0.5361766219139099
+2026-07-30 15:06:31,Apple stock is at a record — how to cushion gains ahead of earnings: AlphaSpace Options Playbook - finance.yahoo.com,AAPL,Google RSS,neutral,0.0
+2026-08-04 16:00:37,"47% Earnings Growth? Not Really; Bezos Sells Amazon Stock; Strong Earnings From Palantir, Caterpillar - benzinga.com",AMZN,Google RSS,positive,0.8952711224555969
+2026-07-30 18:50:27,"Microsoft stock surges on strong quarter, record cloud revenue - finance.yahoo.com",MSFT,Google RSS,positive,0.8905032277107239
+2026-07-29 18:25:00,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - finance.yahoo.com",TSLA,Google RSS,negative,-0.97409588098526
+2026-07-31 20:11:13,SpaceX stock hits new closing low in rocky week ahead of earnings - finance.yahoo.com,TSLA,Google RSS,negative,-0.68941730260849
+2026-08-04 22:01:58,"Dow Jones Futures: SpaceX, AMD, Arista Lead Earnings Movers After S&P 500 Jumps To High",TSLA,Yahoo RSS,positive,0.8304017186164856
