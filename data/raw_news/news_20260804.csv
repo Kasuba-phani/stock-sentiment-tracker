@@ -55,6 +55,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-30 04:29:00,Amazon's stock climbs after earnings. Why investors are cheering the results.,AMZN,Bing RSS,positive,0.5575219988822937
 2026-08-03 06:10:00,"Amazon.com vs. CAVA: Which Consumer Stock Is a Better Buy in 2026, the Veteran E-Commerce Giant or Rising Restaurant Chain?",AMZN,Bing RSS,neutral,0.0
 2026-08-04 02:55:45,"Stocks mixed as Seoul stabilises, oil prices rise with eyes on Mideast",AMZN,Yahoo RSS,negative,-0.7892547845840454
-2026-07-30 22:57:26,"Microsoft stock price rips on earnings, jumping a rather insane 18% - Windows Central",MSFT,Google RSS,negative,-0.9583714604377747
+2026-07-30 22:57:26,"Microsoft stock price rips on earnings, jumping a rather insane 18% - Windows Central",MSFT,Google RSS,negative,-0.9583714604377748
 2026-08-03 16:29:23,"After a Strong Quarter, Is Microsoft Stock Headed for a New All-Time High? - AOL.com",MSFT,Google RSS,neutral,0.0
 2026-08-02 12:09:07,"AI predicts Nvidia stock price for August 31, 2026 - finbold.com",NVDA,Google RSS,neutral,0.0
+2026-07-31 18:58:00,"Apple Falls, But Amazon, Other Stocks Push Nasdaq Composite Higher - wsj.com",AAPL,Google RSS,negative,-0.3607981204986572
+2026-08-04 06:24:23,Amazon stock upgraded from Hold/Accumulate to Strong Buy Candidate after Monday trading session - StockInvest.us,AMZN,Google RSS,positive,0.8602389693260193
+2026-08-03 04:45:00,"AMZN stock jumps, pushing Amazon past $3T valuation as AWS calms AI spending fears",AMZN,Bing RSS,positive,0.7995192408561707
+2026-08-04 08:16:46,"Most stock markets gain, while oil prices edge up after plunge",AMZN,Yahoo RSS,positive,0.9033911228179932
+2026-07-31 05:15:00,"Wall Street rises sharply, driven by soaring Microsoft stock - tradingview.com",MSFT,Google RSS,positive,0.8902894258499146
+2026-08-04 05:50:12,Tesla stock upgraded from Strong Sell Candidate to Sell Candidate after Monday trading session - StockInvest.us,TSLA,Google RSS,positive,0.8919935822486877
+2026-07-29 21:53:00,Meta Q2 earnings recap: Stock tumbles nearly 10% after profits miss Wall Street estimates - Business Insider,META,Google RSS,negative,-0.9667692184448242
+2026-07-30 18:43:06,"Meta shares tumble 9% in record losing streak while Microsoft, chip stocks jump on AI earnings - nypost.com",META,Google RSS,negative,-0.8355432152748108
