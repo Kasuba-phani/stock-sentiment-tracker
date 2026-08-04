@@ -72,16 +72,21 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-29 19:05:00,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - The Motley Fool",TSLA,Google RSS,negative,-0.9730916023254396
 2026-07-31 22:57:17,See how Tesla stocks performed for week ending July 31 - usatoday.com,TSLA,Google RSS,neutral,0.0
 2026-07-30 22:20:00,Apple earnings recap: Stock tumbles 6% as Tim Cook warns of 'very significant' supply constraints - Business Insider,AAPL,Google RSS,negative,-0.966861367225647
-2026-07-30 16:20:00,Apple earnings recap: Stock tumbles 6% as Tim Cook warns of 'very significant' supply constraints,AAPL,Bing RSS,negative,-0.9700204730033875
-2026-07-31 06:51:00,Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years,AAPL,Bing RSS,negative,-0.9658278822898865
+2026-07-30 16:20:00,Apple earnings recap: Stock tumbles 6% as Tim Cook warns of 'very significant' supply constraints,AAPL,Bing RSS,negative,-0.9700204730033876
+2026-07-31 06:51:00,Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years,AAPL,Bing RSS,negative,-0.9658278822898864
 2026-08-04 12:11:22,"Here Are Tuesday’s Top Wall Street Analyst Research Calls: Apple, CoreWeave, eBay, Exxon Mobil, Intuit, Nebius Group, Palantir Technologies, SK hynix, and More",AAPL,Yahoo RSS,neutral,0.0
 2026-08-04 13:48:59,How Much Upside Can ADBE Stock's Growth Deliver?,GOOGL,Yahoo RSS,neutral,0.0
 2026-07-30 23:43:51,Amazon’s stock pops on roaring cloud growth and soaring AI demand - siliconangle.com,AMZN,Google RSS,neutral,0.0
 2026-08-04 07:11:00,Jeff Bezos Filed To Sell Billions Worth Of Amazon Stock. Its Shares Are Falling,AMZN,Bing RSS,negative,-0.7092036008834839
-2026-07-30 00:44:06,Microsoft’s stock rises 9% on strong Azure revenue growth and steady capex spending - siliconangle.com,MSFT,Google RSS,positive,0.9359332919120789
+2026-07-30 00:44:06,Microsoft’s stock rises 9% on strong Azure revenue growth and steady capex spending - siliconangle.com,MSFT,Google RSS,positive,0.9359332919120787
 2026-07-30 13:21:00,Why Microsoft’s stock soared to a historic gain after earnings,MSFT,Bing RSS,positive,0.5192081332206726
 2026-08-04 13:48:59,How Much Upside Can ADBE Stock's Growth Deliver?,MSFT,Yahoo RSS,neutral,0.0
 2026-08-04 12:44:27,Correction: US Equity Markets End Higher Monday as Crude Oil Falls on US-Iran's New Round of Talks,MSFT,Yahoo RSS,positive,0.5216408967971802
 2026-08-04 13:43:11,"Why Are Nvidia, Micron, AMD, Marvell, and Broadcom Stocks Rising Today? August 4 - TipRanks",NVDA,Google RSS,neutral,0.0
 2026-08-04 13:34:16,3 of the Best Dividend Stocks to Buy in August 2026,NVDA,Yahoo RSS,neutral,0.0
 2026-08-04 13:05:50,Reddit on Reddit: Why Retail Traders Are Split on the Stock Now,META,Yahoo RSS,neutral,0.0
+2026-08-04 16:06:03,"Top Midday Stories: Bessent Says US, Iran Could Soon Reach Hormuz Deal; Palantir Shares Soar on Strong Q2 Results, Guidance",GOOGL,Yahoo RSS,positive,0.9372808337211609
+2026-08-04 16:00:37,"47% Earnings Growth? Not Really; Bezos Sells Amazon Stock; Strong Earnings From Palantir, Caterpillar - Benzinga",AMZN,Google RSS,positive,0.9171596169471741
+2026-08-04 14:11:06,Jeff Bezos Filed To Sell Billions Worth Of Amazon Stock. Its Shares Are Falling - ibtimes.com,AMZN,Google RSS,negative,-0.829681396484375
+2026-08-04 16:06:03,"Top Midday Stories: Bessent Says US, Iran Could Soon Reach Hormuz Deal; Palantir Shares Soar on Strong Q2 Results, Guidance",AMZN,Yahoo RSS,positive,0.9372808337211609
+2026-07-31 18:31:33,"Microsoft’s best day since 2008 leads US stocks, while inflation worries remain in the bond market - Commercial Dispatch",MSFT,Google RSS,negative,-0.44543421268463135
