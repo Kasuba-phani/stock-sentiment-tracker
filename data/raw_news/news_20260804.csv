@@ -66,3 +66,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-04 05:50:12,Tesla stock upgraded from Strong Sell Candidate to Sell Candidate after Monday trading session - StockInvest.us,TSLA,Google RSS,positive,0.8919935822486877
 2026-07-29 21:53:00,Meta Q2 earnings recap: Stock tumbles nearly 10% after profits miss Wall Street estimates - Business Insider,META,Google RSS,negative,-0.9667692184448242
 2026-07-30 18:43:06,"Meta shares tumble 9% in record losing streak while Microsoft, chip stocks jump on AI earnings - nypost.com",META,Google RSS,negative,-0.8355432152748108
+2026-08-04 11:02:00,Thryv Launches AI-Native Growth Platform for Small Businesses,GOOGL,Yahoo RSS,neutral,0.0
+2026-08-04 10:01:40,"Stock market today: Dow, S&P 500, Nasdaq futures coast higher as earnings roll in, Palantir stock soars",AMZN,Yahoo RSS,positive,0.9327374696731567
+2026-08-04 10:38:38,“This Is Unprecedented”: Goldman Sachs Sees 3 Simultaneous Crises Pushing Oil as High as $120 a Barrel,NVDA,Yahoo RSS,positive,0.795801043510437
+2026-07-29 19:05:00,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - The Motley Fool",TSLA,Google RSS,negative,-0.9730916023254395
+2026-07-31 22:57:17,See how Tesla stocks performed for week ending July 31 - usatoday.com,TSLA,Google RSS,neutral,0.0
