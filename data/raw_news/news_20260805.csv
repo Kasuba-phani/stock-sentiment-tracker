@@ -64,8 +64,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-05 05:02:34,"AMD earnings & guidance beat on data center surge, but stock falls after big runup - Investing.com Nigeria",NVDA,Google RSS,neutral,0.0
 2026-08-05 12:13:03,4 High-Yield Energy Stocks With 6% and Higher Dividends Are Strong Buys Before September,NVDA,Yahoo RSS,positive,0.9455183744430542
 2026-08-05 11:59:31,"Here Are Wednesday’s Top Wall Street Analyst Research Calls: Archer-Daniels Midland, Best Buy, Burlington Stores, Dell Technologies, e.l.f. Beauty, Humana, Transdigm, Vale, and More",NVDA,Yahoo RSS,neutral,0.0
-2026-08-04 17:44:08,Apple stock drops nearly 10% amid mixed earnings and varied analyst price targets. - pluang.com,AAPL,Google RSS,negative,-0.9543130993843079
-2026-08-05 02:27:00,Tim Cook's last quarter as CEO was Apple's best June quarter ever. The stock fell anyway.,AAPL,Bing RSS,negative,-0.9420530796051025
+2026-08-04 17:44:08,Apple stock drops nearly 10% amid mixed earnings and varied analyst price targets. - pluang.com,AAPL,Google RSS,negative,-0.954313099384308
+2026-08-05 02:27:00,Tim Cook's last quarter as CEO was Apple's best June quarter ever. The stock fell anyway.,AAPL,Bing RSS,negative,-0.9420530796051024
 2026-08-05 07:26:00,"Apple warns memory prices, constraints to keep rising",AAPL,Yahoo RSS,negative,-0.8212970495223999
 2026-08-05 15:07:29,Uber stock drops as bookings guidance disappoints; CEO bets on robotaxi push to grow overall business,GOOGL,Yahoo RSS,negative,-0.963846743106842
 2026-08-03 11:40:28,Analysts predict Amazon (AMZN) stock price in next 12 months - finbold.com,AMZN,Google RSS,neutral,0.0
@@ -73,4 +73,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-04 19:00:03,Why Microsoft stock surged 24.6% in July while the market was flat,MSFT,Bing RSS,positive,0.6691560745239258
 2026-08-02 12:09:07,"AI predicts Nvidia stock price for August 31, 2026 - finbold.com",NVDA,Google RSS,neutral,0.0
 2026-08-05 15:07:29,Uber stock drops as bookings guidance disappoints; CEO bets on robotaxi push to grow overall business,TSLA,Yahoo RSS,negative,-0.963846743106842
-2026-07-29 13:21:10,"Meta reports mixed quarter, stock slides more than 8%",META,Bing RSS,negative,-0.9563469886779785
+2026-07-29 13:21:10,"Meta reports mixed quarter, stock slides more than 8%",META,Bing RSS,negative,-0.9563469886779784
+2026-08-05 16:30:00,"[Latest] Global Generative AI In Clinical Trials Market Size/Share Worth USD 1.86 Billion by 2035 at a 9.63% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",GOOGL,Yahoo RSS,neutral,0.0
+2026-08-05 15:09:00,Should Investors Buy PLTR as Growth Surges Despite a Rich Valuation?,GOOGL,Yahoo RSS,neutral,0.0
+2026-08-05 15:19:42,Microsoft Is Winning Without FCF/Debt Pains - Reiterated Strong Buy (NASDAQ:MSFT) - Seeking Alpha,MSFT,Google RSS,positive,0.8561250567436218
+2026-08-05 16:30:00,"[Latest] Global Generative AI In Clinical Trials Market Size/Share Worth USD 1.86 Billion by 2035 at a 9.63% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",MSFT,Yahoo RSS,neutral,0.0
+2026-08-05 15:09:00,Should Investors Buy PLTR as Growth Surges Despite a Rich Valuation?,MSFT,Yahoo RSS,neutral,0.0
