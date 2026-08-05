@@ -47,3 +47,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-04 14:11:06,Jeff Bezos Filed To Sell Billions Worth Of Amazon Stock. Its Shares Are Falling - ibtimes.com,AMZN,Google RSS,negative,-0.8296815156936646
 2026-08-04 15:29:39,"Why Are Nvidia, Micron, AMD, Marvell, and Broadcom Stocks Rising Today? August 4 - TipRanks",NVDA,Google RSS,neutral,0.0
 2026-08-05 07:02:56,"MU, SNDK, SKHY Stocks In Focus: Elon Musk Says Memory Demand Is Growing ‘200% A Year, Maybe Higher,’ Calls It A ‘Limiting Factor’",TSLA,Yahoo RSS,positive,0.8502066135406494
+2026-08-04 17:44:08,Apple stock drops nearly 10% amid mixed earnings and varied analyst price targets. - Pluang,AAPL,Google RSS,negative,-0.9666774272918701
+2026-08-05 07:45:34,AI demand pushes Foxconn's monthly revenue to record in July,AAPL,Yahoo RSS,positive,0.9102476835250854
+2026-08-05 07:37:43,Nvidia Partner Hon Hai’s Sales Rise 54% on Strong AI Demand,AAPL,Yahoo RSS,positive,0.9509938955307007
+2026-08-05 07:37:43,Nvidia Partner Hon Hai’s Sales Rise 54% on Strong AI Demand,AMZN,Yahoo RSS,positive,0.9509938955307007
+2026-08-05 07:37:43,Nvidia Partner Hon Hai’s Sales Rise 54% on Strong AI Demand,MSFT,Yahoo RSS,positive,0.9509938955307007
+2026-08-05 03:50:20,"AMD earnings & guidance beat on data center surge, but stock falls after big runup - Investing.com",NVDA,Google RSS,neutral,0.0
+2026-08-05 07:37:43,Nvidia Partner Hon Hai’s Sales Rise 54% on Strong AI Demand,META,Yahoo RSS,positive,0.9509938955307007
