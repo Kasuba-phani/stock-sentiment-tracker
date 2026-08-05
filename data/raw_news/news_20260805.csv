@@ -54,7 +54,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-05 07:37:43,Nvidia Partner Hon Hai’s Sales Rise 54% on Strong AI Demand,MSFT,Yahoo RSS,positive,0.9509938955307008
 2026-08-05 03:50:20,"AMD earnings & guidance beat on data center surge, but stock falls after big runup - Investing.com",NVDA,Google RSS,neutral,0.0
 2026-08-05 07:37:43,Nvidia Partner Hon Hai’s Sales Rise 54% on Strong AI Demand,META,Yahoo RSS,positive,0.9509938955307008
-2026-07-31 13:51:00,Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years - marketwatch.com,AAPL,Google RSS,negative,-0.9501466155052185
+2026-07-31 13:51:00,Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years - marketwatch.com,AAPL,Google RSS,negative,-0.9501466155052184
 2026-08-05 11:40:33,"Stocks mostly rise tracking earnings, US-Iran hopes",AMZN,Yahoo RSS,positive,0.5676842927932739
 2026-08-05 09:45:00,New Strong Buy Stocks for August 5th,AMZN,Yahoo RSS,neutral,0.0
 2026-07-30 20:21:00,Why Microsoft’s stock soared to a historic gain after earnings - marketwatch.com,MSFT,Google RSS,neutral,0.0
@@ -64,3 +64,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-05 05:02:34,"AMD earnings & guidance beat on data center surge, but stock falls after big runup - Investing.com Nigeria",NVDA,Google RSS,neutral,0.0
 2026-08-05 12:13:03,4 High-Yield Energy Stocks With 6% and Higher Dividends Are Strong Buys Before September,NVDA,Yahoo RSS,positive,0.9455183744430542
 2026-08-05 11:59:31,"Here Are Wednesday’s Top Wall Street Analyst Research Calls: Archer-Daniels Midland, Best Buy, Burlington Stores, Dell Technologies, e.l.f. Beauty, Humana, Transdigm, Vale, and More",NVDA,Yahoo RSS,neutral,0.0
+2026-08-04 17:44:08,Apple stock drops nearly 10% amid mixed earnings and varied analyst price targets. - pluang.com,AAPL,Google RSS,negative,-0.9543130993843079
+2026-08-05 02:27:00,Tim Cook's last quarter as CEO was Apple's best June quarter ever. The stock fell anyway.,AAPL,Bing RSS,negative,-0.9420530796051025
+2026-08-05 07:26:00,"Apple warns memory prices, constraints to keep rising",AAPL,Yahoo RSS,negative,-0.8212970495223999
+2026-08-05 15:07:29,Uber stock drops as bookings guidance disappoints; CEO bets on robotaxi push to grow overall business,GOOGL,Yahoo RSS,negative,-0.963846743106842
+2026-08-03 11:40:28,Analysts predict Amazon (AMZN) stock price in next 12 months - finbold.com,AMZN,Google RSS,neutral,0.0
+2026-07-30 19:45:00,"Microsoft’s stock has biggest one-day gain since 2008, adding $480 billion in market value as cloud business booms - fortune.com",MSFT,Google RSS,positive,0.5273633003234863
+2026-08-04 19:00:03,Why Microsoft stock surged 24.6% in July while the market was flat,MSFT,Bing RSS,positive,0.6691560745239258
+2026-08-02 12:09:07,"AI predicts Nvidia stock price for August 31, 2026 - finbold.com",NVDA,Google RSS,neutral,0.0
+2026-08-05 15:07:29,Uber stock drops as bookings guidance disappoints; CEO bets on robotaxi push to grow overall business,TSLA,Yahoo RSS,negative,-0.963846743106842
+2026-07-29 13:21:10,"Meta reports mixed quarter, stock slides more than 8%",META,Bing RSS,negative,-0.9563469886779785
