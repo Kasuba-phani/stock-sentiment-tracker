@@ -89,3 +89,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-05 20:33:00,Microsoft (NASDAQ: MSFT) Stock Price Rockets 24.6% In July On Azure Growth And Blowout Earnings - foreignpolicyjournal.com,MSFT,Google RSS,negative,-0.9571905136108398
 2026-07-29 07:00:00,Home Page - Microsoft Investor Relations - microsoft.com,MSFT,Google RSS,neutral,0.0
 2026-08-05 20:15:52,"US Stocks Close: Dow Hits New High as Nasdaq Falls 0.83%; Tech Stocks Retreat, Gold Stocks Gain; Nvidia Rises 3.43%, SpaceX Falls 13% After Results - TradingKey",NVDA,Google RSS,negative,-0.8618446588516235
+2026-08-03 22:43:37,"Wall Street rallies, Dow closes at record on Iran talks optimism",GOOGL,Yahoo RSS,neutral,0.0
+2026-08-03 14:09:33,"Stocks are ignoring higher bond yields, but that can't last for 'very long'",GOOGL,Yahoo RSS,negative,-0.847009003162384
+2026-08-03 16:29:23,"After a Strong Quarter, Is Microsoft Stock Headed for a New All-Time High? - aol.com",MSFT,Google RSS,neutral,0.0
