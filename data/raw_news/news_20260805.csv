@@ -1,0 +1,10 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-07-29 12:06:00,Apple earnings recap: Stock tumbles 6% as Tim Cook warns of 'very significant' supply constraints,AAPL,Bing RSS,negative,-0.9700204730033875
+2026-07-31 06:51:00,Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years,AAPL,Bing RSS,negative,-0.9658278822898865
+2026-08-04 22:14:20,Arista forecasts upbeat quarterly revenue on AI-driven networking demand,AMZN,Yahoo RSS,positive,0.9502410292625427
+2026-08-03 09:38:29,"After a Strong Quarter, Is Microsoft Stock Headed for a New All-Time High?",MSFT,Bing RSS,positive,0.5342143177986145
+2026-08-04 19:29:59,Dow Jones AI Giant Microsoft Breaks Out After Earnings-Fueled Surge,MSFT,Yahoo RSS,negative,-0.8826729655265808
+2026-08-03 13:37:00,Tesla stock surges as super bull Stifel Nicolaus turns slightly more bearish,TSLA,Bing RSS,positive,0.7484950423240662
+2026-08-04 23:55:06,"Dow Jones Futures Rise; SpaceX, AMD, Arista Lead Earnings Movers After S&P 500 Jumps To High",TSLA,Yahoo RSS,positive,0.8177942633628845
+2026-07-30 17:29:50,"Stocks making the biggest moves midday: Meta, Microsoft, MarketAxess, Crocs & more",MSFT,CNBC Finance,neutral,0.0
+2026-07-30 17:29:50,"Stocks making the biggest moves midday: Meta, Microsoft, MarketAxess, Crocs & more",META,CNBC Finance,neutral,0.0
