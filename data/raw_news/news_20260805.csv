@@ -86,3 +86,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-29 18:25:00,"Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - finance.yahoo.com",TSLA,Google RSS,negative,-0.97409588098526
 2026-07-30 08:53:39,"Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits - cnbc.com",META,Google RSS,negative,-0.8118053674697876
 2026-08-03 20:11:29,Snap's stock jumps 8% on earnings beat and strong sales forecast - cnbc.com,META,Google RSS,positive,0.899376630783081
+2026-08-05 20:33:00,Microsoft (NASDAQ: MSFT) Stock Price Rockets 24.6% In July On Azure Growth And Blowout Earnings - foreignpolicyjournal.com,MSFT,Google RSS,negative,-0.9571905136108398
+2026-07-29 07:00:00,Home Page - Microsoft Investor Relations - microsoft.com,MSFT,Google RSS,neutral,0.0
+2026-08-05 20:15:52,"US Stocks Close: Dow Hits New High as Nasdaq Falls 0.83%; Tech Stocks Retreat, Gold Stocks Gain; Nvidia Rises 3.43%, SpaceX Falls 13% After Results - TradingKey",NVDA,Google RSS,negative,-0.8618446588516235
