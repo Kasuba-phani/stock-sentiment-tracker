@@ -32,9 +32,16 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-30 23:43:51,Amazon’s stock pops on roaring cloud growth and soaring AI demand - SiliconANGLE,AMZN,Google RSS,positive,0.7033684253692627
 2026-08-03 00:53:25,"‘It’s Finally Happening,’ Says Top Investor on Microsoft Stock - TipRanks",MSFT,Google RSS,positive,0.610217273235321
 2026-07-31 18:58:00,"Apple Falls, But Amazon, Other Stocks Push Nasdaq Composite Higher - WSJ",AAPL,Google RSS,positive,0.6982893943786621
-2026-08-06 10:00:00,Why Sandisk Stock Is Falling Sharply After Blowout Earnings,GOOGL,Yahoo RSS,negative,-0.9465925097465515
+2026-08-06 10:00:00,Why Sandisk Stock Is Falling Sharply After Blowout Earnings,GOOGL,Yahoo RSS,negative,-0.9465925097465516
 2026-08-03 16:44:11,Amazon stock hits $3 trillion market cap on Q2 cloud earnings - qz.com,AMZN,Google RSS,neutral,0.0
 2026-07-30 04:29:00,Amazon's stock climbs after earnings. Why investors are cheering the results.,AMZN,Bing RSS,positive,0.5575219988822937
-2026-08-06 10:00:00,Why Sandisk Stock Is Falling Sharply After Blowout Earnings,AMZN,Yahoo RSS,negative,-0.9465925097465515
-2026-08-06 10:00:00,Why Sandisk Stock Is Falling Sharply After Blowout Earnings,MSFT,Yahoo RSS,negative,-0.9465925097465515
-2026-08-06 10:00:00,Why Sandisk Stock Is Falling Sharply After Blowout Earnings,META,Yahoo RSS,negative,-0.9465925097465515
+2026-08-06 10:00:00,Why Sandisk Stock Is Falling Sharply After Blowout Earnings,AMZN,Yahoo RSS,negative,-0.9465925097465516
+2026-08-06 10:00:00,Why Sandisk Stock Is Falling Sharply After Blowout Earnings,MSFT,Yahoo RSS,negative,-0.9465925097465516
+2026-08-06 10:00:00,Why Sandisk Stock Is Falling Sharply After Blowout Earnings,META,Yahoo RSS,negative,-0.9465925097465516
+2026-07-30 22:20:00,Apple earnings recap: Stock tumbles 6% as Tim Cook warns of 'very significant' supply constraints - Business Insider,AAPL,Google RSS,negative,-0.966861367225647
+2026-08-06 14:08:00,Microsoft Stock (MSFT) Opinions on Strong Earnings and Azure Growth - quiverquant.com,MSFT,Google RSS,neutral,0.0
+2026-08-06 02:44:14,Stronger technical forecast for Microsoft stock price after Wednesday trading - StockInvest.us,MSFT,Google RSS,positive,0.8082835674285889
+2026-08-06 05:15:00,Microsoft reported excellent earnings results,MSFT,Bing RSS,positive,0.9517073035240173
+2026-08-03 09:38:29,"After a Strong Quarter, Is Microsoft Stock Headed for a New All-Time High?",MSFT,Bing RSS,positive,0.5342143177986145
+2026-07-30 13:22:00,"Stock Market Today (July 30, 2026): Dow rises as Microsoft surges, Fed holds rates steady",MSFT,Bing RSS,positive,0.6149737238883972
+2026-08-06 14:00:51,3 Ultra-High-Yield Stocks Wall Street Forgot to Mention for August,NVDA,Yahoo RSS,neutral,0.0
