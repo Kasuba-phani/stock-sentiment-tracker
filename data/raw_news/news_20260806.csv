@@ -1,0 +1,31 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-07-31 13:51:00,Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years - MarketWatch,AAPL,Google RSS,negative,-0.9597724676132202
+2026-07-31 11:49:18,"Amazon stock surges 13% on Q2 earnings, Apple stock drops 7% - qz.com",AAPL,Google RSS,negative,-0.8010793924331665
+2026-07-30 16:20:00,Apple earnings recap: Stock tumbles 6% as Tim Cook warns of 'very significant' supply constraints,AAPL,Bing RSS,negative,-0.9700204730033875
+2026-07-31 06:51:00,Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years,AAPL,Bing RSS,negative,-0.9658278822898865
+2026-08-05 23:40:54,"US Stock Futures Inch Higher Following S&P 500, Nasdaq Drop As Investors Brace For SpaceX Share Unlock — GOOGL, UBER, META, FLUT, AMZN In Focus",GOOGL,Yahoo RSS,negative,-0.6473835110664368
+2026-08-04 16:00:37,"47% Earnings Growth? Not Really; Bezos Sells Amazon Stock; Strong Earnings From Palantir, Caterpillar - Benzinga",AMZN,Google RSS,positive,0.9171596169471741
+2026-08-03 11:40:28,Analysts predict Amazon (AMZN) stock price in next 12 months - Finbold,AMZN,Google RSS,neutral,0.0
+2026-08-05 23:40:00,"US Stock Futures Inch Higher Following S&P 500, Nasdaq Drop As Investors Brace For SpaceX Share Unlock — GOOGL, UBER, META, FLUT, AMZN In Focus - Stocktwits",AMZN,Google RSS,negative,-0.6415761113166809
+2026-08-03 22:39:00,"Amazon Stock, Exelixis And CrowdStrike Among 17 New Stocks On IBD Watchlists - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-07-30 23:43:51,Amazon’s stock pops on roaring cloud growth and soaring AI demand - siliconangle.com,AMZN,Google RSS,neutral,0.0
+2026-08-05 23:40:54,"US Stock Futures Inch Higher Following S&P 500, Nasdaq Drop As Investors Brace For SpaceX Share Unlock — GOOGL, UBER, META, FLUT, AMZN In Focus",AMZN,Yahoo RSS,negative,-0.6473835110664368
+2026-08-05 14:48:34,MSFT Stock Enters Bear Market After 21% Drop From Peak: Retail Cautious But Analysts Stay Overwhelmingly Bullish - Stocktwits,MSFT,Google RSS,negative,-0.9543851017951965
+2026-08-03 16:38:00,"After a Strong Quarter, Is Microsoft Stock Headed for a New All-Time High? - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-07-30 19:45:00,"Microsoft’s stock has biggest one-day gain since 2008, adding $480 billion in market value as cloud business booms - Fortune",MSFT,Google RSS,positive,0.8797517418861389
+2026-07-30 20:21:00,Why Microsoft’s stock soared to a historic gain after earnings - MarketWatch,MSFT,Google RSS,neutral,0.0
+2026-08-05 20:33:00,Microsoft (NASDAQ: MSFT) Stock Price Rockets 24.6% In July On Azure Growth And Blowout Earnings - foreignpolicyjournal.com,MSFT,Google RSS,negative,-0.9571905136108398
+2026-08-04 19:29:00,Dow Jones AI Giant Microsoft Breaks Out After Earnings-Fueled Surge - Investor's Business Daily,MSFT,Google RSS,negative,-0.7499281167984009
+2026-07-30 22:57:26,"Microsoft stock price rips on earnings, jumping a rather insane 18% - Windows Central",MSFT,Google RSS,negative,-0.9583714604377747
+2026-08-02 16:38:31,Microsoft Stock And 2 Quality Picks Backed by Strong Balance Sheets - simplywall.st,MSFT,Google RSS,positive,0.5289700627326965
+2026-08-03 16:29:23,"After a Strong Quarter, Is Microsoft Stock Headed for a New All-Time High? - AOL.com",MSFT,Google RSS,neutral,0.0
+2026-08-05 15:19:42,Microsoft Is Winning Without FCF/Debt Pains - Reiterated Strong Buy (NASDAQ:MSFT) - Seeking Alpha,MSFT,Google RSS,positive,0.8561251759529114
+2026-08-04 19:00:03,Why Microsoft stock surged 24.6% in July while the market was flat,MSFT,Bing RSS,positive,0.6691560745239258
+2026-08-02 12:09:07,"AI predicts Nvidia stock price for August 31, 2026 - Finbold",NVDA,Google RSS,neutral,0.0
+2026-08-05 23:40:54,"US Stock Futures Inch Higher Following S&P 500, Nasdaq Drop As Investors Brace For SpaceX Share Unlock — GOOGL, UBER, META, FLUT, AMZN In Focus",NVDA,Yahoo RSS,negative,-0.6473835110664368
+2026-08-03 20:37:00,Tesla stock surges as super bull turns slightly more bearish - thestreet.com,TSLA,Google RSS,positive,0.47404375672340393
+2026-08-04 05:50:12,Tesla stock upgraded from Strong Sell Candidate to Sell Candidate after Monday trading session - StockInvest.us,TSLA,Google RSS,positive,0.8919935822486877
+2026-08-03 13:37:00,Tesla stock surges as super bull Stifel Nicolaus turns slightly more bearish,TSLA,Bing RSS,positive,0.7484950423240662
+2026-07-30 08:53:39,"Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits - CNBC",META,Google RSS,negative,-0.9156963229179382
+2026-08-03 20:11:29,Snap's stock jumps 8% on earnings beat and strong sales forecast - CNBC,META,Google RSS,positive,0.9294031858444214
+2026-07-30 17:21:00,Meta's Big Bet On Consumer AI Stands Out. That Hasn't Been Good For The Stock. - Investor's Business Daily,META,Google RSS,neutral,0.0
