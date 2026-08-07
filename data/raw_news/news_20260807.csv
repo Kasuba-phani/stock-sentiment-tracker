@@ -2,14 +2,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-07-31 13:51:00,Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years - MarketWatch,AAPL,Google RSS,negative,-0.9597724676132202
 2026-07-31 18:58:00,"Apple Falls, But Amazon, Other Stocks Push Nasdaq Composite Higher - WSJ",AAPL,Google RSS,positive,0.6982893943786621
 2026-07-31 11:49:18,"Amazon stock surges 13% on Q2 earnings, Apple stock drops 7% - qz.com",AAPL,Google RSS,negative,-0.8010793924331665
-2026-08-04 17:44:08,Apple stock drops nearly 10% amid mixed earnings and varied analyst price targets. - Pluang,AAPL,Google RSS,negative,-0.9666774272918701
-2026-07-31 06:51:00,Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years,AAPL,Bing RSS,negative,-0.9658278822898865
+2026-08-04 17:44:08,Apple stock drops nearly 10% amid mixed earnings and varied analyst price targets. - Pluang,AAPL,Google RSS,negative,-0.96667742729187
+2026-07-31 06:51:00,Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years,AAPL,Bing RSS,negative,-0.9658278822898864
 2026-08-06 15:58:06,Alphabet’s Jumbo Bond Sale Draws $115 Billion of Investor Demand - bloomberg.com,GOOGL,Google RSS,neutral,0.0
 2026-08-06 21:04:39,"S&P 500, Dow, Nasdaq End Lower Amid Hormuz Uncertainty As Investors Await Jobs Data To Judge Fed Rate Course — SOUN, GOOGL, SPCX, NVDA In Focus",GOOGL,Yahoo RSS,negative,-0.8274239897727966
 2026-08-03 22:39:00,"Amazon Stock, Exelixis And CrowdStrike Among 17 New Stocks On IBD Watchlists - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
 2026-08-03 16:44:11,Amazon stock hits $3 trillion market cap on Q2 cloud earnings - qz.com,AMZN,Google RSS,neutral,0.0
 2026-08-03 11:40:28,Analysts predict Amazon (AMZN) stock price in next 12 months - finbold.com,AMZN,Google RSS,neutral,0.0
-2026-08-04 16:00:34,"47% Earnings Growth? Not Really; Bezos Sells Amazon Stock; Strong Earnings From Palantir, Caterpillar - Benzinga",AMZN,Google RSS,positive,0.9171596169471741
+2026-08-04 16:00:34,"47% Earnings Growth? Not Really; Bezos Sells Amazon Stock; Strong Earnings From Palantir, Caterpillar - Benzinga",AMZN,Google RSS,positive,0.917159616947174
 2026-08-06 15:58:06,Alphabet’s Jumbo Bond Sale Draws $115 Billion of Investor Demand,AMZN,Yahoo RSS,neutral,0.0
 2026-08-06 14:08:00,Microsoft Stock (MSFT) Opinions on Strong Earnings and Azure Growth - Quiver Quantitative,MSFT,Google RSS,positive,0.7760664224624634
 2026-08-03 16:38:00,"After a Strong Quarter, Is Microsoft Stock Headed for a New All-Time High? - The Motley Fool",MSFT,Google RSS,neutral,0.0
@@ -17,7 +17,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-06 02:44:14,Stronger technical forecast for Microsoft stock price after Wednesday trading - StockInvest.us,MSFT,Google RSS,positive,0.8082835674285889
 2026-08-03 16:29:23,"After a Strong Quarter, Is Microsoft Stock Headed for a New All-Time High? - AOL.com",MSFT,Google RSS,neutral,0.0
 2026-08-05 20:33:00,Microsoft (NASDAQ: MSFT) Stock Price Rockets 24.6% In July On Azure Growth And Blowout Earnings - foreignpolicyjournal.com,MSFT,Google RSS,negative,-0.9571905136108398
-2026-08-03 20:37:00,Tesla stock surges as super bull turns slightly more bearish - thestreet.com,TSLA,Google RSS,positive,0.47404375672340393
+2026-08-03 20:37:00,Tesla stock surges as super bull turns slightly more bearish - thestreet.com,TSLA,Google RSS,positive,0.4740437567234039
 2026-08-04 05:50:12,Tesla stock upgraded from Strong Sell Candidate to Sell Candidate after Monday trading session - StockInvest.us,TSLA,Google RSS,positive,0.8919935822486877
 2026-08-03 20:11:29,Snap's stock jumps 8% on earnings beat and strong sales forecast - CNBC,META,Google RSS,positive,0.9294031858444214
-2026-08-05 12:45:24,Kennametal shares surge after earnings beat and upbeat outlook,META,Yahoo Global,positive,0.9347285032272339
+2026-08-05 12:45:24,Kennametal shares surge after earnings beat and upbeat outlook,META,Yahoo Global,positive,0.934728503227234
+2026-08-06 15:58:06,Alphabet’s Jumbo Bond Sale Draws $115 Billion of Investor Demand - Bloomberg,GOOGL,Google RSS,neutral,0.0
+2026-08-03 11:40:28,Analysts predict Amazon (AMZN) stock price in next 12 months - Finbold,AMZN,Google RSS,neutral,0.0
+2026-08-07 02:05:00,Stronger technical forecast for Microsoft stock price after Thursday trading - StockInvest.us,MSFT,Google RSS,positive,0.800809383392334
+2026-08-03 09:38:29,"After a Strong Quarter, Is Microsoft Stock Headed for a New All-Time High?",MSFT,Bing RSS,positive,0.5342143177986145
