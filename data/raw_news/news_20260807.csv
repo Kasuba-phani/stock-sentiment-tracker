@@ -25,3 +25,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-03 11:40:28,Analysts predict Amazon (AMZN) stock price in next 12 months - Finbold,AMZN,Google RSS,neutral,0.0
 2026-08-07 02:05:00,Stronger technical forecast for Microsoft stock price after Thursday trading - StockInvest.us,MSFT,Google RSS,positive,0.800809383392334
 2026-08-03 09:38:29,"After a Strong Quarter, Is Microsoft Stock Headed for a New All-Time High?",MSFT,Bing RSS,positive,0.5342143177986145
+2026-07-31 18:58:00,"Apple Falls, But Amazon, Other Stocks Push Nasdaq Composite Higher - wsj.com",AAPL,Google RSS,negative,-0.3607977628707886
+2026-08-06 15:58:06,Alphabet’s Jumbo Bond Sale Draws $115 Billion of Investor Demand - finance.yahoo.com,GOOGL,Google RSS,neutral,0.0
+2026-08-07 04:39:53,The Core Bull Thesis Around Microsoft Remains Very Strong at $500 - 24/7 Wall St.,MSFT,Google RSS,positive,0.9014819860458374
+2026-08-04 19:00:03,Why Microsoft stock surged 24.6% in July while the market was flat,MSFT,Bing RSS,positive,0.6691570281982422
+2026-08-07 04:39:53,The Core Bull Thesis Around Microsoft Remains Very Strong at $500,MSFT,Yahoo RSS,positive,0.88994300365448
+2026-08-03 23:37:00,Tesla stock surges as super bull turns slightly more bearish - finance.yahoo.com,TSLA,Google RSS,neutral,0.0
+2026-08-07 04:17:33,"META Stock Still Trails Mag 7 Peers Even After New Subscriptions, Layoffs, Cloud Plans — Retail Sniffs Buying Opportunity - Stocktwits",META,Google RSS,neutral,0.0
