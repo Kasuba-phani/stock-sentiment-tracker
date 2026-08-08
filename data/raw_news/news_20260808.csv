@@ -21,5 +21,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-07 11:00:05,Apple Among Three Stocks In Voracious Demand. Funds Also Feast On 14 Others.,AAPL,Yahoo RSS,positive,0.71168053150177
 2026-08-05 20:33:00,Microsoft (NASDAQ: MSFT) Stock Price Rockets 24.6% In July On Azure Growth And Blowout Earnings - foreignpolicyjournal.com,MSFT,Google RSS,negative,-0.9571905136108398
 2026-08-04 19:00:03,Why Microsoft stock surged 24.6% in July while the market was flat,MSFT,Bing RSS,positive,0.6691560745239258
-2026-08-04 17:44:08,Apple stock drops nearly 10% amid mixed earnings and varied analyst price targets. - pluang.com,AAPL,Google RSS,negative,-0.9543130993843079
-2026-08-06 11:00:00,Mark Zuckerberg's net worth dropped $18 billion in a single day as Meta stock extended a losing streak. Is the sell-off overdone?,META,Bing RSS,negative,-0.9641484022140503
+2026-08-04 17:44:08,Apple stock drops nearly 10% amid mixed earnings and varied analyst price targets. - pluang.com,AAPL,Google RSS,negative,-0.954313099384308
+2026-08-06 11:00:00,Mark Zuckerberg's net worth dropped $18 billion in a single day as Meta stock extended a losing streak. Is the sell-off overdone?,META,Bing RSS,negative,-0.9641484022140504
+2026-08-06 15:48:56,Alphabet Lures Investors to Mega Bond Deal With High Premiums,GOOGL,Yahoo RSS,neutral,0.0
+2026-08-06 15:00:00,What the bond market is signaling for SpaceX's hopes to ramp up debt sales,GOOGL,Yahoo RSS,positive,0.5948488116264343
