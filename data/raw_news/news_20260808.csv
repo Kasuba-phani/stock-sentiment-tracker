@@ -1,0 +1,20 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-08-04 17:44:08,Apple stock drops nearly 10% amid mixed earnings and varied analyst price targets. - Pluang,AAPL,Google RSS,negative,-0.9666774272918701
+2026-08-07 21:49:48,"US Stock Futures Inch Higher Following S&P 500, Nasdaq Drop As Investors Brace For SpaceX Share Unlock — GOOGL, UBER, META, FLUT, AMZN In Focus - Stocktwits",AMZN,Google RSS,negative,-0.6415761113166809
+2026-08-03 16:44:11,Amazon stock hits $3 trillion market cap on Q2 cloud earnings - qz.com,AMZN,Google RSS,neutral,0.0
+2026-08-03 22:39:00,"Amazon Stock, Exelixis And CrowdStrike Among 17 New Stocks On IBD Watchlists - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-08-04 16:00:34,"47% Earnings Growth? Not Really; Bezos Sells Amazon Stock; Strong Earnings From Palantir, Caterpillar - Benzinga",AMZN,Google RSS,positive,0.9171596169471741
+2026-08-07 04:00:00,Why Amazon stock jumped 14% in July while the market was flat,AMZN,Bing RSS,positive,0.8374120593070984
+2026-08-07 04:39:53,The Core Bull Thesis Around Microsoft Remains Very Strong at $500 - 24/7 Wall St.,MSFT,Google RSS,positive,0.9014820456504822
+2026-08-08 01:01:56,Microsoft stock downgraded from Strong Buy Candidate to Hold/Accumulate after Friday trading session - StockInvest.us,MSFT,Google RSS,negative,-0.6430855989456177
+2026-08-03 16:38:00,"After a Strong Quarter, Is Microsoft Stock Headed for a New All-Time High? - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-08-06 14:08:00,Microsoft Stock (MSFT) Opinions on Strong Earnings and Azure Growth - Quiver Quantitative,MSFT,Google RSS,positive,0.7760664224624634
+2026-08-07 02:05:00,Stronger technical forecast for Microsoft stock price after Thursday trading - StockInvest.us,MSFT,Google RSS,positive,0.800809383392334
+2026-08-06 02:44:14,Stronger technical forecast for Microsoft stock price after Wednesday trading - StockInvest.us,MSFT,Google RSS,positive,0.8082835674285889
+2026-08-04 19:29:00,Dow Jones AI Giant Microsoft Breaks Out After Earnings-Fueled Surge - Investor's Business Daily,MSFT,Google RSS,negative,-0.7499281167984009
+2026-08-07 17:59:52,"Gaming stocks crossroads: Nintendo profits rise, Sony pushes digital, & Microsoft faces a pricing challenge - Stockhouse",MSFT,Google RSS,positive,0.7431185245513916
+2026-08-03 09:38:29,"After a Strong Quarter, Is Microsoft Stock Headed for a New All-Time High?",MSFT,Bing RSS,positive,0.5342143177986145
+2026-08-07 16:30:51,"Datadog Posts Q2 Beat as Observability, AI Demand Remain Strong, RBC Capital Markets Says",MSFT,Yahoo RSS,positive,0.9484028220176697
+2026-08-07 09:51:04,Why Amkor Technology (AMKR) Is Up 12.2% After NVIDIA’s $1.5 Billion Capacity Deal And Strong Q2 Results - simplywall.st,NVDA,Google RSS,positive,0.9551138281822205
+2026-08-03 20:37:00,Tesla stock surges as super bull turns slightly more bearish - thestreet.com,TSLA,Google RSS,positive,0.47404375672340393
+2026-08-04 05:50:12,Tesla stock upgraded from Strong Sell Candidate to Sell Candidate after Monday trading session - StockInvest.us,TSLA,Google RSS,positive,0.8919935822486877
