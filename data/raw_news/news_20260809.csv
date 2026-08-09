@@ -15,5 +15,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-08 09:20:18,NVIDIA Corporation $NVDA Stock Position Raised by Infrastructure Capital Advisors LLC - MarketBeat,NVDA,Google RSS,positive,0.5182594656944275
 2026-08-08 10:04:39,"Nvidia stock forecast to rise 4.58% to $230 by August 31, 2026, driven by AI demand and strong earnings outlook. - Pluang",NVDA,Google RSS,positive,0.9460797309875488
 2026-08-08 21:40:00,Home Depot Has Raised Its Dividend for 17 Consecutive Years and Reports Earnings Aug. 18. Is It the Smarter Dow Stock to Buy Over Walmart?,NVDA,Yahoo RSS,neutral,0.0
-2026-08-03 20:37:00,Tesla stock surges as super bull turns slightly more bearish - thestreet.com,TSLA,Google RSS,positive,0.47404375672340393
-2026-08-06 11:00:00,Mark Zuckerberg's net worth dropped $18 billion in a single day as Meta stock extended a losing streak. Is the sell-off overdone?,META,Bing RSS,negative,-0.9641484022140503
+2026-08-03 20:37:00,Tesla stock surges as super bull turns slightly more bearish - thestreet.com,TSLA,Google RSS,positive,0.4740437567234039
+2026-08-06 11:00:00,Mark Zuckerberg's net worth dropped $18 billion in a single day as Meta stock extended a losing streak. Is the sell-off overdone?,META,Bing RSS,negative,-0.9641484022140504
+2026-08-07 04:39:53,The Core Bull Thesis Around Microsoft Remains Very Strong at $500 - 24/7 Wall St.,MSFT,Google RSS,positive,0.9014820456504822
+2026-08-09 04:04:35,3 AI Stocks Retail Investors Are Watching Beyond Nvidia - simplywall.st,NVDA,Google RSS,neutral,0.0
