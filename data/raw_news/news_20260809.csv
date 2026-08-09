@@ -46,3 +46,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-06 14:08:00,Microsoft Stock (MSFT) Opinions on Strong Earnings and Azure Growth - quiverquant.com,MSFT,Google RSS,neutral,0.0
 2026-08-09 13:45:43,"‘Don’t Overthink It,’ Says Investor About Microsoft Stock - tipranks.com",MSFT,Google RSS,neutral,0.0
 2026-08-04 16:00:34,"47% Earnings Growth? Not Really; Bezos Sells Amazon Stock; Strong Earnings From Palantir, Caterpillar - benzinga.com",AMZN,Google RSS,positive,0.8952711224555969
+2026-08-09 21:46:06,"Tesla (NASDAQ:TSLA) Rises 5.6% on Surge in Retail Interest, Marginally Outperforming Nasdaq - TechStock²",TSLA,Google RSS,positive,0.9316414594650269
+2026-08-09 22:17:00,"U.S. stock futures flat as investors await inflation data, grapple with more Iran uncertainty",AAPL,MarketWatch Top,negative,-0.9189600348472595
