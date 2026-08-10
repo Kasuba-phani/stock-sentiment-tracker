@@ -103,3 +103,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-10 21:35:59,Dow Jones Futures: Surging Oil Prices Spark Stock Market Losses; SpaceX Rival Rocket Lab Dives On Earnings,AMZN,Yahoo RSS,negative,-0.9591827988624572
 2026-08-10 21:35:59,Dow Jones Futures: Surging Oil Prices Spark Stock Market Losses; SpaceX Rival Rocket Lab Dives On Earnings,NVDA,Yahoo RSS,negative,-0.9591827988624572
 2026-08-10 21:03:00,Retail traders just drew a line under Tesla’s sell-off,TSLA,Yahoo RSS,neutral,0.0
+2026-08-10 09:54:25,MSFT stock hits highest level this year: Microsoft to reportedly hike production of AI chips,MSFT,Bing RSS,positive,0.9318348169326782
+2026-08-10 23:37:34,Is Nvidia Stock Still a Good Buy at $220? - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-08-10 22:47:00,Nvidia’s CEO just sent strong signal to stock market investors - thestreet.com,NVDA,Google RSS,positive,0.6781566739082336
+2026-08-10 23:02:45,"S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  — SPCX, TSLA, INTC, NFLX, PLTR In Focus",NFLX,Yahoo RSS,negative,-0.9329102039337158
