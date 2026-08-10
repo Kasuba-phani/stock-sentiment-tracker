@@ -1,0 +1,32 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-08-06 15:58:06,Alphabet’s Jumbo Bond Sale Draws $115 Billion of Investor Demand - finance.yahoo.com,GOOGL,Google RSS,neutral,0.0
+2026-08-09 22:21:00,Berkshire Earnings Were Good—Not Great. A Real Bright Spot Was This.,GOOGL,Yahoo RSS,positive,0.663871169090271
+2026-08-09 07:08:20,Earnings beats ease concerns over record U.S. stock rally - WSJ,GOOGL,Yahoo RSS,positive,0.5381925106048584
+2026-08-04 16:00:34,"47% Earnings Growth? Not Really; Bezos Sells Amazon Stock; Strong Earnings From Palantir, Caterpillar - Benzinga",AMZN,Google RSS,positive,0.9171596169471741
+2026-08-09 12:30:00,3 Artificial Intelligence (AI) Stocks to Load Up On in August - finance.yahoo.com,AMZN,Google RSS,neutral,0.0
+2026-08-09 09:22:57,"Amazon stock jumps 14% after strong earnings, boosting Jeff Bezos' wealth by $25B. - Pluang",AMZN,Google RSS,positive,0.939667284488678
+2026-08-03 16:44:11,Amazon stock hits $3 trillion market cap on Q2 cloud earnings - qz.com,AMZN,Google RSS,neutral,0.0
+2026-08-09 00:15:00,"Jeff Bezos' Amazon stock surged 14% after a blowout earnings beat, adding $25 billion to his fortune. Is the stock still a buy after the rally?",AMZN,Bing RSS,neutral,0.0
+2026-08-03 04:45:00,"AMZN stock jumps, pushing Amazon past $3T valuation as AWS calms AI spending fears",AMZN,Bing RSS,positive,0.7995192408561707
+2026-08-10 00:15:01,Airbnb vs. McDonald's: Which Consumer Stock Is a Better Buy in 2026?,AMZN,Yahoo RSS,neutral,0.0
+2026-08-09 12:30:00,3 Artificial Intelligence (AI) Stocks to Load Up On in August,AMZN,Yahoo RSS,neutral,0.0
+2026-08-09 07:08:20,Earnings beats ease concerns over record U.S. stock rally - WSJ,AMZN,Yahoo RSS,positive,0.5381925106048584
+2026-08-07 04:39:53,The Core Bull Thesis Around Microsoft Remains Very Strong at $500 - 24/7 Wall St.,MSFT,Google RSS,positive,0.9014820456504822
+2026-08-03 16:38:00,"After a Strong Quarter, Is Microsoft Stock Headed for a New All-Time High? - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-08-06 14:08:00,Microsoft Stock (MSFT) Opinions on Strong Earnings and Azure Growth - Quiver Quantitative,MSFT,Google RSS,positive,0.7760664224624634
+2026-08-09 08:44:09,Microsoft Corporation $MSFT Shares Sold by Monograph Wealth Advisors LLC - MarketBeat,MSFT,Google RSS,neutral,0.0
+2026-08-07 02:05:00,Stronger technical forecast for Microsoft stock price after Thursday trading - StockInvest.us,MSFT,Google RSS,positive,0.800809383392334
+2026-08-09 08:43:59,GSG Advisors LLC Has $8.26 Million Stake in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,neutral,0.0
+2026-08-04 19:29:00,Dow Jones AI Giant Microsoft Breaks Out After Earnings-Fueled Surge - Investor's Business Daily,MSFT,Google RSS,negative,-0.7499281167984009
+2026-08-08 01:01:56,Microsoft stock downgraded from Strong Buy Candidate to Hold/Accumulate after Friday trading session - StockInvest.us,MSFT,Google RSS,negative,-0.6430855989456177
+2026-08-06 02:44:14,Stronger technical forecast for Microsoft stock price after Wednesday trading - StockInvest.us,MSFT,Google RSS,positive,0.8082835674285889
+2026-08-09 11:35:29,'Very little to like': Wall Street assesses surprise July jobs report as stocks jump,MSFT,Yahoo RSS,negative,-0.6813292503356934
+2026-08-09 12:39:09,3 Artificial Intelligence (AI) Stocks to Load Up On in August - The Globe and Mail,NVDA,Google RSS,neutral,0.0
+2026-08-09 04:04:35,3 AI Stocks Retail Investors Are Watching Beyond Nvidia - simplywall.st,NVDA,Google RSS,neutral,0.0
+2026-08-08 09:20:18,NVIDIA Corporation $NVDA Stock Position Raised by Infrastructure Capital Advisors LLC - MarketBeat,NVDA,Google RSS,positive,0.5182594656944275
+2026-08-09 23:28:24,"The Federal Reserve Just Released Its August Inflation Forecast, and It Could Put the FOMC on a Collision Course for Its September Meeting",NVDA,Yahoo RSS,negative,-0.9085138440132141
+2026-08-03 20:37:00,Tesla stock surges as super bull turns slightly more bearish - thestreet.com,TSLA,Google RSS,positive,0.47404375672340393
+2026-08-09 21:46:06,"Tesla (NASDAQ:TSLA) Rises 5.6% on Surge in Retail Interest, Marginally Outperforming Nasdaq - TechStock²",TSLA,Google RSS,positive,0.9316414594650269
+2026-08-06 11:00:00,Mark Zuckerberg's net worth dropped $18 billion in a single day as Meta stock extended a losing streak. Is the sell-off overdone?,META,Bing RSS,negative,-0.9641484022140503
+2026-08-09 11:35:29,'Very little to like': Wall Street assesses surprise July jobs report as stocks jump,META,Yahoo RSS,negative,-0.6813292503356934
+2026-08-10 01:30:00,"U.S. stock futures dip as investors await inflation data, grapple with more Iran uncertainty",AAPL,MarketWatch Top,negative,-0.9080063104629517
