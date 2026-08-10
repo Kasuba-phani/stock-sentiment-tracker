@@ -80,11 +80,21 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-10 15:13:26,Microsoft (MSFT) Stock Looks Fully Valued Despite Strong AI Optimism,MSFT,Yahoo RSS,positive,0.953324258327484
 2026-08-10 16:01:52,Is McDonald's Still a Good Stock to Buy in 2026?,NVDA,Yahoo RSS,neutral,0.0
 2026-08-10 16:12:43,Tesla Stock Is on a Roll as Retail Traders Buy In - Moomoo,TSLA,Google RSS,positive,0.5644795894622803
-2026-08-10 09:52:00,Live Nasdaq Composite: Market Sentiment Sours as Intel Drops 4% on Stock Offering Plans and Oil Prices Rise,AAPL,Bing RSS,negative,-0.9723362326622009
-2026-08-10 17:46:55,"Update: US Equity Indexes Mixed as Crude Oil, Treasury Yields Jump Amid Worsening Iran Geopolitics",AAPL,Yahoo RSS,negative,-0.9565988779067993
+2026-08-10 09:52:00,Live Nasdaq Composite: Market Sentiment Sours as Intel Drops 4% on Stock Offering Plans and Oil Prices Rise,AAPL,Bing RSS,negative,-0.9723362326622008
+2026-08-10 17:46:55,"Update: US Equity Indexes Mixed as Crude Oil, Treasury Yields Jump Amid Worsening Iran Geopolitics",AAPL,Yahoo RSS,negative,-0.9565988779067992
 2026-08-10 15:13:26,Microsoft (MSFT) Stock Looks Fully Valued Despite Strong AI Optimism - finance.yahoo.com,MSFT,Google RSS,positive,0.8309789896011353
 2026-08-10 16:32:44,"Stock market today: Dow, S&P 500, Nasdaq slip as oil prices climb, Nvidia stock sinks - finance.yahoo.com",NVDA,Google RSS,negative,-0.66532301902771
 2026-08-09 12:30:00,3 Artificial Intelligence (AI) Stocks to Load Up On in August - finance.yahoo.com,NVDA,Google RSS,neutral,0.0
 2026-08-10 10:33:00,"Stock market today: Dow, S&P 500, Nasdaq slip as oil prices climb, Nvidia stock sinks",NVDA,Bing RSS,negative,-0.8837757110595703
-2026-08-10 17:06:11,Dow Slips While the S&P 500 Clings to Friday's Record High,NVDA,Yahoo RSS,negative,-0.9403690099716187
+2026-08-10 17:06:11,Dow Slips While the S&P 500 Clings to Friday's Record High,NVDA,Yahoo RSS,negative,-0.9403690099716188
 2026-08-03 23:37:00,Tesla stock surges as super bull turns slightly more bearish - finance.yahoo.com,TSLA,Google RSS,neutral,0.0
+2026-08-10 19:18:28,Why Is Apple (AAPL) Stock Falling? Jefferies Says a Canceled iPhone Threatens Its Growth Plans - Stocks Down Under,AAPL,Google RSS,negative,-0.9645142555236816
+2026-08-10 13:49:00,What TSMC’s Surging Sales Growth Means for Apple and Nvidia Stocks - barrons.com,AAPL,Google RSS,neutral,0.0
+2026-08-10 20:29:18,Apple downgraded at Jefferies over iPhone yields and growth concerns,AAPL,Yahoo RSS,negative,-0.9674038887023926
+2026-08-10 19:18:45,Alphabet C stalls below 200 SMA near cloud support: Live levels - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-08-10 13:49:00,What TSMC’s Surging Sales Growth Means for Apple and Nvidia Stocks - barrons.com,NVDA,Google RSS,neutral,0.0
+2026-08-10 20:01:00,"NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital",NVDA,Yahoo RSS,positive,0.7937372922897339
+2026-08-10 18:03:00,Retail traders just drew a line under Tesla’s sell-off - thestreet.com,TSLA,Google RSS,neutral,0.0
+2026-08-10 18:40:00,"Tesla Shares Rally as Retail Investors Pump $372 Million Into Stock, Betting on AI Chip Megafactory - finance.biggo.com",TSLA,Google RSS,positive,0.47622019052505493
+2026-08-10 19:57:56,Tesla Shares Flat Despite Tripling of Retail Purchases as Valuation Surpasses 300x Earnings - TechStock²,TSLA,Google RSS,negative,-0.7749398350715637
+2026-08-10 19:30:36,"CoreWeave to report second quarter results amid spending, margin concerns",META,Yahoo RSS,negative,-0.9209195375442505
