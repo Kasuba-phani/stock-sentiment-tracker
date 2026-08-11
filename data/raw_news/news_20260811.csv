@@ -75,3 +75,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-11 13:00:58,Wall Street Sees 22% Upside in Chipotle (CMG) Despite Recent Drop. Is It a Buy This August?,NVDA,Yahoo RSS,positive,0.5501843094825745
 2026-08-11 11:52:02,"Tesla stock set to rise up to 5.4% by August 31, driven by AI forecasts and recent bullish momentum. - Pluang",TSLA,Google RSS,positive,0.9450321197509766
 2026-08-11 13:01:00,"Sigma360 Named to the 2026 Inc. 5000, Ranking Among the Top 10% of America's Fastest-Growing Private Companies",META,Yahoo RSS,positive,0.797760546207428
+2026-08-11 14:09:26,A Recent Email Within Microsoft Seems to Confirm What Many Suspected: Tech Companies Are Overspending on AI - The Globe and Mail,MSFT,Google RSS,negative,-0.7209547758102417
+2026-08-11 13:49:55,A Recent Email Within Microsoft Seems to Confirm What Many Suspected: Tech Companies Are Overspending on AI,MSFT,Yahoo RSS,negative,-0.922283947467804
