@@ -84,4 +84,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-11 16:28:00,"Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
 2026-08-11 16:56:16,"Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch",NVDA,Yahoo RSS,neutral,0.0
 2026-08-11 16:38:31,"Neocloud Stocks Rally on Tuesday After NVIDIA’s $500 Billion Pledge. Why TeraWulf, Hut 8, and Galaxy Digital Are Rising",NVDA,Yahoo RSS,positive,0.821416437625885
-2026-08-10 19:57:56,Tesla Shares Flat Despite Tripling of Retail Purchases as Valuation Surpasses 300x Earnings - ts2.tech,TSLA,Google RSS,negative,-0.9216209650039673
+2026-08-10 19:57:56,Tesla Shares Flat Despite Tripling of Retail Purchases as Valuation Surpasses 300x Earnings - ts2.tech,TSLA,Google RSS,negative,-0.9216209650039672
+2026-08-11 17:42:42,Why Is Life360 Stock Falling Tuesday? - benzinga.com,GOOGL,Google RSS,negative,-0.8962931036949158
+2026-08-11 18:48:00,Nasdaq Index: Alphabet and Amazon Drag US Indices Lower Before CPI Report - FXEmpire,GOOGL,Google RSS,negative,-0.9567097425460815
+2026-08-04 16:00:34,"47% Earnings Growth? Not Really; Bezos Sells Amazon Stock; Strong Earnings From Palantir, Caterpillar - benzinga.com",AMZN,Google RSS,positive,0.8952711224555969
+2026-08-11 15:16:47,"Microsoft remains a Buy after 31% rally, driven by strong Azure growth and AI investments. - pluang.com",MSFT,Google RSS,positive,0.6543027758598328
+2026-08-10 13:49:00,What TSMC’s Surging Sales Growth Means for Apple and Nvidia Stocks - barrons.com,NVDA,Google RSS,neutral,0.0
+2026-08-11 18:55:52,Honeywell Slides 5% As Future Growth Guidance At Chicago Investor Event Dissapoints,NVDA,Yahoo RSS,negative,-0.9259968996047974
+2026-08-11 11:52:02,"Tesla stock set to rise up to 5.4% by August 31, driven by AI forecasts and recent bullish momentum. - pluang.com",TSLA,Google RSS,positive,0.9140700101852417
