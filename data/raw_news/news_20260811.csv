@@ -77,3 +77,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-11 13:01:00,"Sigma360 Named to the 2026 Inc. 5000, Ranking Among the Top 10% of America's Fastest-Growing Private Companies",META,Yahoo RSS,positive,0.797760546207428
 2026-08-11 14:09:26,A Recent Email Within Microsoft Seems to Confirm What Many Suspected: Tech Companies Are Overspending on AI - The Globe and Mail,MSFT,Google RSS,negative,-0.7209547758102417
 2026-08-11 13:49:55,A Recent Email Within Microsoft Seems to Confirm What Many Suspected: Tech Companies Are Overspending on AI,MSFT,Yahoo RSS,negative,-0.922283947467804
+2026-08-11 16:28:00,"Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-08-11 09:58:00,"Dow Jones AI giants Nvidia, Amazon in or near buy zones; Avnet, Okta are stocks to watch",AMZN,Bing RSS,neutral,0.0
+2026-08-11 16:56:16,"Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch",AMZN,Yahoo RSS,neutral,0.0
+2026-08-11 15:16:47,"Microsoft remains a Buy after 31% rally, driven by strong Azure growth and AI investments. - Pluang",MSFT,Google RSS,positive,0.9231945276260376
+2026-08-11 16:28:00,"Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-08-11 16:56:16,"Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch",NVDA,Yahoo RSS,neutral,0.0
+2026-08-11 16:38:31,"Neocloud Stocks Rally on Tuesday After NVIDIA’s $500 Billion Pledge. Why TeraWulf, Hut 8, and Galaxy Digital Are Rising",NVDA,Yahoo RSS,positive,0.821416437625885
+2026-08-10 19:57:56,Tesla Shares Flat Despite Tripling of Retail Purchases as Valuation Surpasses 300x Earnings - ts2.tech,TSLA,Google RSS,negative,-0.9216209650039673
