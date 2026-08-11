@@ -1,0 +1,40 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-08-10 13:52:00,"Dow's 150-Point Fall Led By Losses For Home Depot, Apple Shares - Moomoo",AAPL,Google RSS,negative,-0.950356662273407
+2026-08-10 19:25:25,Why Is Apple (AAPL) Stock Falling? Jefferies Says a Canceled iPhone Threatens Its Growth Plans - Stocks Down Under,AAPL,Google RSS,negative,-0.9645142555236816
+2026-08-10 13:49:00,What TSMC’s Surging Sales Growth Means for Apple and Nvidia Stocks - Barron's,AAPL,Google RSS,neutral,0.0
+2026-08-10 22:54:41,Dow Jones Futures: Surging Oil Prices Spark Stock Market Losses; SpaceX Rival Rocket Lab Dives On Earnings,AAPL,Yahoo RSS,negative,-0.9591827988624573
+2026-08-10 21:05:04,"Update: US Equity Indexes Decline as Fading Hopes for Quick Hormuz Reopening Lift Crude Oil, Treasury Yields",AAPL,Yahoo RSS,negative,-0.9641490578651428
+2026-08-10 20:29:18,Apple downgraded at Jefferies over iPhone yields and growth concerns,AAPL,Yahoo RSS,negative,-0.9674038887023926
+2026-08-10 17:46:55,"Update: US Equity Indexes Mixed as Crude Oil, Treasury Yields Jump Amid Worsening Iran Geopolitics",AAPL,Yahoo RSS,negative,-0.9565988779067993
+2026-08-10 19:18:45,Alphabet C stalls below 200 SMA near cloud support: Live levels - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-08-11 01:47:00,Nvidia's CEO just sent strong signal to stock market investors,GOOGL,Yahoo RSS,positive,0.8418644666671753
+2026-08-10 12:54:00,Amazon Stock Hits a New All-Time High: Is It Still a Buy? - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-08-10 08:46:59,"Q Global Advisors LLC Purchases Shares of 15,384 Amazon.com, Inc. $AMZN - MarketBeat",AMZN,Google RSS,neutral,0.0
+2026-08-10 22:54:41,Dow Jones Futures: Surging Oil Prices Spark Stock Market Losses; SpaceX Rival Rocket Lab Dives On Earnings,AMZN,Yahoo RSS,negative,-0.9591827988624573
+2026-08-10 15:19:46,Microsoft stock surges 15% after beating earnings expectations with AI growth - eciks.org,MSFT,Google RSS,positive,0.9403161406517029
+2026-08-10 07:44:21,"Clarkston Capital Partners LLC Sells 88,088 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
+2026-08-06 14:08:00,Microsoft Stock (MSFT) Opinions on Strong Earnings and Azure Growth - Quiver Quantitative,MSFT,Google RSS,positive,0.7760682106018066
+2026-08-09 15:58:39,Microsoft Faces an August 11 Investor Lawsuit Deadline Over Copilot. Its Latest Numbers Complicate the Case - TIKR.com,MSFT,Google RSS,negative,-0.9230048656463623
+2026-08-07 02:05:00,Stronger technical forecast for Microsoft stock price after Thursday trading - StockInvest.us,MSFT,Google RSS,positive,0.8008094429969788
+2026-08-08 01:01:56,Microsoft stock downgraded from Strong Buy Candidate to Hold/Accumulate after Friday trading session - StockInvest.us,MSFT,Google RSS,negative,-0.6430854797363281
+2026-08-07 04:39:53,The Core Bull Thesis Around Microsoft Remains Very Strong at $500 - 24/7 Wall St.,MSFT,Google RSS,positive,0.9014819860458374
+2026-08-04 19:29:00,Dow Jones AI Giant Microsoft Breaks Out After Earnings-Fueled Surge - Investor's Business Daily,MSFT,Google RSS,negative,-0.7499275207519531
+2026-08-10 09:54:25,MSFT stock hits highest level this year: Microsoft to reportedly hike production of AI chips,MSFT,Bing RSS,positive,0.9318348169326782
+2026-08-10 22:47:00,Nvidia’s CEO just sent strong signal to stock market investors - thestreet.com,NVDA,Google RSS,positive,0.678156852722168
+2026-08-11 00:04:58,Is Nvidia Stock Still a Good Buy at $220? - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-08-10 13:49:00,What TSMC’s Surging Sales Growth Means for Apple and Nvidia Stocks - Barron's,NVDA,Google RSS,neutral,0.0
+2026-08-10 10:01:07,Nvidia stock price prediction after August 26 earnings - Finbold,NVDA,Google RSS,neutral,0.0
+2026-08-10 09:28:05,Front Row Advisors LLC Has $43.46 Million Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,neutral,0.0
+2026-08-10 13:00:00,"Stock market today: Dow, S&P 500, Nasdaq slip as oil prices climb, Nvidia stock sinks",NVDA,Bing RSS,negative,-0.8837757110595703
+2026-08-11 01:47:00,Nvidia's CEO just sent strong signal to stock market investors,NVDA,Yahoo RSS,positive,0.8418644666671753
+2026-08-10 23:50:00,Is Nvidia Stock Still a Good Buy at $220?,NVDA,Yahoo RSS,neutral,0.0
+2026-08-10 22:54:41,Dow Jones Futures: Surging Oil Prices Spark Stock Market Losses; SpaceX Rival Rocket Lab Dives On Earnings,NVDA,Yahoo RSS,negative,-0.9591827988624573
+2026-08-10 16:12:43,Tesla Stock Is on a Roll as Retail Traders Buy In - Moomoo,TSLA,Google RSS,positive,0.5644811987876892
+2026-08-10 18:03:00,Retail traders just drew a line under Tesla’s sell-off - thestreet.com,TSLA,Google RSS,neutral,0.0
+2026-08-10 19:57:56,Tesla Shares Flat Despite Tripling of Retail Purchases as Valuation Surpasses 300x Earnings - TechStock²,TSLA,Google RSS,negative,-0.77493816614151
+2026-08-10 18:40:00,"Tesla Shares Rally as Retail Investors Pump $372 Million Into Stock, Betting on AI Chip Megafactory - finance.biggo.com",TSLA,Google RSS,positive,0.4762209951877594
+2026-08-10 23:02:45,"S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  — SPCX, TSLA, INTC, NFLX, PLTR In Focus",TSLA,Yahoo RSS,negative,-0.9329102635383606
+2026-08-10 21:03:00,Retail traders just drew a line under Tesla’s sell-off,TSLA,Yahoo RSS,neutral,0.0
+2026-08-10 19:30:36,"CoreWeave to report second quarter results amid spending, margin concerns",META,Yahoo RSS,negative,-0.9209185838699341
+2026-08-10 12:40:42,Netflix stock rises on 2026 earnings momentum - ad-hoc-news.de,NFLX,Google RSS,neutral,0.0
+2026-08-10 23:02:45,"S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  — SPCX, TSLA, INTC, NFLX, PLTR In Focus",NFLX,Yahoo RSS,negative,-0.9329102635383606
