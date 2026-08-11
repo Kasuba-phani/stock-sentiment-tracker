@@ -71,3 +71,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-11 02:35:00,"This AI cloud stock is obliterating Amazon, Microsoft, and Alphabet with a 1-year return of 275%. Is it still a buy?",MSFT,Bing RSS,neutral,0.0
 2026-08-11 11:16:44,Nvidia Partners With Major Financial Firms to Raise Over $500 Billion for AI Infrastructure,NVDA,Yahoo RSS,positive,0.8274737000465393
 2026-08-11 11:20:19,"Machine learning algorithm predicts Tesla stock price on August 31, 2026 - Finbold",TSLA,Google RSS,neutral,0.0
+2026-08-11 13:01:00,"Sigma360 Named to the 2026 Inc. 5000, Ranking Among the Top 10% of America's Fastest-Growing Private Companies",MSFT,Yahoo RSS,positive,0.797760546207428
+2026-08-11 13:00:58,Wall Street Sees 22% Upside in Chipotle (CMG) Despite Recent Drop. Is It a Buy This August?,NVDA,Yahoo RSS,positive,0.5501843094825745
+2026-08-11 11:52:02,"Tesla stock set to rise up to 5.4% by August 31, driven by AI forecasts and recent bullish momentum. - Pluang",TSLA,Google RSS,positive,0.9450321197509766
+2026-08-11 13:01:00,"Sigma360 Named to the 2026 Inc. 5000, Ranking Among the Top 10% of America's Fastest-Growing Private Companies",META,Yahoo RSS,positive,0.797760546207428
