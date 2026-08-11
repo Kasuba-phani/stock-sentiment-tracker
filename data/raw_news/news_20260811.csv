@@ -39,7 +39,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-10 12:40:42,Netflix stock rises on 2026 earnings momentum - ad-hoc-news.de,NFLX,Google RSS,neutral,0.0
 2026-08-10 23:02:45,"S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  — SPCX, TSLA, INTC, NFLX, PLTR In Focus",NFLX,Yahoo RSS,negative,-0.9329102635383606
 2026-08-10 13:52:00,"Dow's 150-Point Fall Led By Losses For Home Depot, Apple Shares - moomoo.com",AAPL,Google RSS,negative,-0.9426771998405457
-2026-08-10 09:52:00,Live Nasdaq Composite: Market Sentiment Sours as Intel Drops 4% on Stock Offering Plans and Oil Prices Rise,AAPL,Bing RSS,negative,-0.9723362326622009
+2026-08-10 09:52:00,Live Nasdaq Composite: Market Sentiment Sours as Intel Drops 4% on Stock Offering Plans and Oil Prices Rise,AAPL,Bing RSS,negative,-0.9723362326622008
 2026-08-10 12:14:33,Amazon Stock Hits a New All-Time High: Is It Still a Buy? - finance.yahoo.com,AMZN,Google RSS,neutral,0.0
 2026-08-09 12:30:00,3 Artificial Intelligence (AI) Stocks to Load Up On in August - finance.yahoo.com,AMZN,Google RSS,neutral,0.0
 2026-08-10 15:13:26,Microsoft (MSFT) Stock Looks Fully Valued Despite Strong AI Optimism - finance.yahoo.com,MSFT,Google RSS,positive,0.8309789896011353
@@ -50,3 +50,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-09 12:30:00,3 Artificial Intelligence (AI) Stocks to Load Up On in August - finance.yahoo.com,NVDA,Google RSS,neutral,0.0
 2026-08-10 16:12:43,Tesla Stock Is on a Roll as Retail Traders Buy In - moomoo.com,TSLA,Google RSS,neutral,0.0
 2026-08-10 12:40:42,Netflix stock rises on 2026 earnings momentum - AD HOC NEWS,NFLX,Google RSS,neutral,0.0
+2026-08-10 23:57:39,Is Nvidia Stock Still a Good Buy at $220? - The Globe and Mail,NVDA,Google RSS,neutral,0.0
+2026-08-11 04:43:42,"NVIDIA's $50 billion AI financing plan triggers tech stock sell-off, semiconductor index falls 3% - KuCoin",NVDA,Google RSS,negative,-0.9516200423240662
