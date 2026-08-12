@@ -39,3 +39,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-09 00:15:00,"Jeff Bezos' Amazon stock surged 14% after a blowout earnings beat, adding $25 billion to his fortune. Is the stock still a buy after the rally?",AMZN,Bing RSS,neutral,0.0
 2026-08-10 13:49:00,What TSMC’s Surging Sales Growth Means for Apple and Nvidia Stocks - barrons.com,NVDA,Google RSS,neutral,0.0
 2026-08-11 11:52:02,"Tesla stock set to rise up to 5.4% by August 31, driven by AI forecasts and recent bullish momentum. - Pluang",TSLA,Google RSS,positive,0.9450321197509766
+2026-08-12 06:23:45,"Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts",AAPL,Yahoo RSS,positive,0.946870744228363
+2026-08-12 06:53:03,"Microsoft Corporation (NASDAQ:MSFT) Receives Average Recommendation of ""Moderate Buy"" from Brokerages - MarketBeat",MSFT,Google RSS,positive,0.920995831489563
+2026-08-12 07:07:05,Microsoft Corporation $MSFT Shares Bought by Aristotle Atlantic Partners LLC - MarketBeat,MSFT,Google RSS,neutral,0.0
+2026-08-08 01:01:56,Microsoft stock downgraded from Strong Buy Candidate to Hold/Accumulate after Friday trading session - StockInvest.us,MSFT,Google RSS,negative,-0.6430855989456177
+2026-08-12 06:23:45,"Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts",NVDA,Yahoo RSS,positive,0.946870744228363
+2026-08-06 11:00:00,Mark Zuckerberg's net worth dropped $18 billion in a single day as Meta stock extended a losing streak. Is the sell-off overdone?,META,Bing RSS,negative,-0.9641484022140503
