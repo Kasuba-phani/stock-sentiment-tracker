@@ -46,8 +46,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-12 06:23:45,"Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts",NVDA,Yahoo RSS,positive,0.946870744228363
 2026-08-06 11:00:00,Mark Zuckerberg's net worth dropped $18 billion in a single day as Meta stock extended a losing streak. Is the sell-off overdone?,META,Bing RSS,negative,-0.9641484022140504
 2026-08-10 13:52:00,"Dow's 150-Point Fall Led By Losses For Home Depot, Apple Shares - moomoo.com",AAPL,Google RSS,negative,-0.9426771998405457
-2026-08-09 15:58:39,Microsoft Faces an August 11 Investor Lawsuit Deadline Over Copilot. Its Latest Numbers Complicate the Case - tikr.com,MSFT,Google RSS,negative,-0.9230049848556519
+2026-08-09 15:58:39,Microsoft Faces an August 11 Investor Lawsuit Deadline Over Copilot. Its Latest Numbers Complicate the Case - tikr.com,MSFT,Google RSS,negative,-0.923004984855652
 2026-08-12 08:26:00,"The Odds of a September Rate Hike Have Plunged, but the Federal Reserve's Job Just Became Infinitely More Challenging",NVDA,Yahoo RSS,neutral,0.0
 2026-08-12 09:30:00,Elon Musk Says Optimus Will Be a $10 Trillion Business. Here Are 2 Industrial Stocks That Could Actually Cash In,NVDA,Yahoo RSS,neutral,0.0
 2026-08-10 16:12:43,Tesla Stock Is on a Roll as Retail Traders Buy In - moomoo.com,TSLA,Google RSS,neutral,0.0
 2026-08-12 09:30:00,Elon Musk Says Optimus Will Be a $10 Trillion Business. Here Are 2 Industrial Stocks That Could Actually Cash In,TSLA,Yahoo RSS,neutral,0.0
+2026-08-12 10:53:07,CPI Inflation Data May Keep Fed Rate Hikes On Hold (Live Coverage),AAPL,Yahoo RSS,neutral,0.0
+2026-08-10 14:50:00,"Amazon, IBD stock of the day, rides cloud momentum to $3 trillion milestone",AMZN,Bing RSS,positive,0.898826003074646
+2026-08-12 10:02:53,CoreWeave shares surge as record revenue and stronger guidance highlight AI demand,MSFT,Yahoo RSS,positive,0.9423053860664368
+2026-08-12 11:36:08,Dow Jones Futures Rise With CPI Inflation Due; AI Stocks Rally As 3 Nvidia Partners Lead Earnings Movers,NVDA,Yahoo RSS,positive,0.5690522789955139
+2026-08-12 10:37:31,"Social Buzz: Wallstreetbets Stocks Advance Premarket Wednesday; CoreWeave, Super Micro Computer to Open Higher",NVDA,Yahoo RSS,positive,0.6347499489784241
+2026-08-12 11:37:41,"Tesla shares fall 26% YTD, seen overvalued at $333 amid weak margins and costly growth bets. - Pluang",TSLA,Google RSS,negative,-0.9720115065574646
+2026-08-12 03:23:00,Why Tesla stock is headed for a 5-day winning streak,TSLA,Bing RSS,neutral,0.0
