@@ -1,0 +1,11 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-08-12 00:07:19,"S&P500, Nasdaq, Dow Futures Rangebound As Investors Await Key Inflation Data To Judge Rate Hike Possibilities  — ORCL, AAPL, NVDA, CURLF In Focus",AAPL,Yahoo RSS,neutral,0.0
+2026-08-06 15:48:56,Alphabet Lures Investors to Mega Bond Deal With High Premiums,GOOGL,Yahoo RSS,neutral,0.0
+2026-08-11 02:35:00,"This AI cloud stock is obliterating Amazon, Microsoft, and Alphabet with a 1-year return of 275%. Is it still a buy?",AMZN,Bing RSS,neutral,0.0
+2026-08-10 15:47:00,Nvidia's CEO just sent strong signal to stock market investors,NVDA,Bing RSS,positive,0.8418652415275574
+2026-08-10 17:30:00,Is Nvidia Stock Still a Good Buy at $220?,NVDA,Bing RSS,neutral,0.0
+2026-08-12 01:48:21,Dow Jones Futures: 3 Nvidia Partners Lead Earnings Movers; CPI Inflation Data Due,NVDA,Yahoo RSS,neutral,0.0
+2026-08-12 00:07:19,"S&P500, Nasdaq, Dow Futures Rangebound As Investors Await Key Inflation Data To Judge Rate Hike Possibilities  — ORCL, AAPL, NVDA, CURLF In Focus",NVDA,Yahoo RSS,neutral,0.0
+2026-08-11 22:20:00,Oracle Stock Just Hit a 52-Week Low After a 57% Drop in 10 Months. Is This a Buying Opportunity or Falling Knife?,NVDA,Yahoo RSS,negative,-0.8775213360786438
+2026-08-11 21:50:00,The U.S. Labor Market Is Weakening. These 2 Dividend Stocks Look Built to Weather a Recession,NVDA,Yahoo RSS,negative,-0.8905861377716064
+2026-08-10 23:02:45,"S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  — SPCX, TSLA, INTC, NFLX, PLTR In Focus",NFLX,Yahoo RSS,negative,-0.9329102039337158
