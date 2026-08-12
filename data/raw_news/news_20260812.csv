@@ -82,3 +82,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-12 20:58:00,Investors are chasing the latest rally in gold as the yellow metal hits strongest level in 2 months,META,MarketWatch Top,positive,0.6456204056739807
 2026-08-12 21:20:26,"S&P500, Nasdaq End Higher As Fresh CPI Data Calms Earlier-Than-Expected Rate Hike Fears — GOOGL, DJT, WEN, BE, SNDK In Focus",GOOGL,Yahoo RSS,positive,0.5615922808647156
 2026-08-12 19:26:20,Can Ryanair’s (RYAAY) New AI Deal Offset Its Falling Fares?,GOOGL,Yahoo RSS,positive,0.7319088578224182
+2026-08-10 12:14:33,Amazon Stock Hits a New All-Time High: Is It Still a Buy? - finance.yahoo.com,AMZN,Google RSS,neutral,0.0
+2026-08-10 12:54:00,Amazon Stock Hits a New All-Time High: Is It Still a Buy? - fool.com,AMZN,Google RSS,neutral,0.0
+2026-08-10 15:13:26,Microsoft (MSFT) Stock Looks Fully Valued Despite Strong AI Optimism - finance.yahoo.com,MSFT,Google RSS,positive,0.8309789896011353
+2026-08-10 23:50:00,Is Nvidia Stock Still a Good Buy at $220? - finance.yahoo.com,NVDA,Google RSS,neutral,0.0
+2026-08-11 00:30:00,Is Nvidia Stock Still a Good Buy at $220? - fool.com,NVDA,Google RSS,neutral,0.0
+2026-08-11 16:38:31,"Neocloud Stocks Rally on Tuesday After NVIDIA’s $500 Billion Pledge. Why TeraWulf, Hut 8, and Galaxy Digital Are Rising - finance.yahoo.com",NVDA,Google RSS,neutral,0.0
