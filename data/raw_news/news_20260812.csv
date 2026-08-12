@@ -76,3 +76,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-12 19:25:00,Should You Buy Home Depot Stock Before Aug. 18?,NVDA,Yahoo RSS,neutral,0.0
 2026-08-11 11:20:19,"Machine learning algorithm predicts Tesla stock price on August 31, 2026 - finbold.com",TSLA,Google RSS,neutral,0.0
 2026-08-12 19:33:45,"Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",TSLA,Yahoo RSS,negative,-0.9437934756278992
+2026-08-12 21:44:57,"Trump Media & Technology, Joby Aviation, and Archer Aviation Lead Small Cap Losers On Wednesday",NVDA,Yahoo RSS,negative,-0.9545844793319702
+2026-08-12 21:40:42,Small Caps Pay Too: The 42% Friday Payer Riding the Russell’s Big Year,NVDA,Yahoo RSS,neutral,0.0
+2026-08-12 21:23:45,"Stock Market Today, Aug. 12: Stocks Edge Higher as Inflation Data Eases Fed Rate Pressure",NVDA,Yahoo RSS,positive,0.9284039735794067
+2026-08-12 20:58:00,Investors are chasing the latest rally in gold as the yellow metal hits strongest level in 2 months,META,MarketWatch Top,positive,0.6456204056739807
