@@ -90,3 +90,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-13 12:30:00,"Up nearly 20% from its 52-week low, is Netflix stock set to rally even higher?",NFLX,Bing RSS,positive,0.9386363625526428
 2026-08-13 15:45:21,Stocks See Support from Favorable PPI Report,TSLA,Yahoo RSS,positive,0.9475576877593994
 2026-08-13 15:45:21,Stocks See Support from Favorable PPI Report,META,Yahoo RSS,positive,0.9475576877593994
+2026-08-10 13:49:00,What TSMC’s Surging Sales Growth Means for Apple and Nvidia Stocks - Barron's,AAPL,Google RSS,neutral,0.0
