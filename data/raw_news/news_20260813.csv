@@ -55,8 +55,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-13 11:00:50,5 Monthly Dividend Stocks Retirees Can Count On in August,NVDA,Yahoo RSS,neutral,0.0
 2026-08-13 09:30:27,"Stock Market Today: S&P 500, Dow Futures Rise as July Inflation Cools—Cisco Systems, Netflix, Applied Materials in Focus - TradingView",NFLX,Google RSS,positive,0.5900701880455017
 2026-08-13 02:30:00,"Stock market today: S&P 500, Dow futures rise as July inflation cools—Cisco Systems, Netflix, Applied Materials in focus",NFLX,Bing RSS,positive,0.6023150682449341
-2026-08-13 13:04:00,Alphabet: Strong Fundamentals Support Today's Valuation (NASDAQ:GOOG) - Seeking Alpha,GOOGL,Google RSS,positive,0.9432545304298401
+2026-08-13 13:04:00,Alphabet: Strong Fundamentals Support Today's Valuation (NASDAQ:GOOG) - Seeking Alpha,GOOGL,Google RSS,positive,0.94325453042984
 2026-08-10 14:50:00,"Amazon, IBD stock of the day, rides cloud momentum to $3 trillion milestone",AMZN,Bing RSS,positive,0.898826003074646
 2026-08-13 12:01:19,"Dow Fixture Microsoft Breaks Out Along With These Stocks, But Datadog Triggers Sell Signals",MSFT,Yahoo RSS,negative,-0.8097901344299316
 2026-08-13 13:05:00,Why Sandisk Stock Keeps Falling and Whether It Is Worth Buying Now,NVDA,Yahoo RSS,neutral,0.0
 2026-08-13 11:51:00,Why Sandisk Stock Keeps Falling?,NVDA,Yahoo RSS,negative,-0.8195747137069702
+2026-08-11 18:37:00,Polymarket Traders See Only 16% Chance of Amazon Stock Hitting $300 by August 31 - finance.biggo.com,AMZN,Google RSS,neutral,0.0
+2026-08-13 13:29:23,Wall Street sets Microsoft stock price for the next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
+2026-08-13 14:51:55,Microsoft stock set to hit new all-time high wi... - pluang.com,MSFT,Google RSS,positive,0.7063243985176086
+2026-08-13 11:39:08,Microsoft stock seen with 15% to 76% upside as AI growth and Azure backlog support bullish outlook - pluang.com,MSFT,Google RSS,positive,0.5032125115394592
+2026-08-13 13:31:30,IREN delivers first 50MW Microsoft AI cloud deployment at Childress,MSFT,Yahoo RSS,neutral,0.0
+2026-08-13 10:52:51,Why Cerebras Stock Is Falling Thursday - Cerebras Systems (NASDAQ:CBRS) - Benzinga,NVDA,Google RSS,negative,-0.9278580546379089
+2026-08-13 14:07:00,Wall Street sends strong signal to Nvidia stock investors,NVDA,Yahoo RSS,positive,0.9334768056869507
+2026-08-13 13:17:00,"Virtuix to Highlight Accelerating Consumer Growth and Expansion Across Defense, Robotics, and Healthcare at Sidoti Investor Conference",TSLA,Yahoo RSS,positive,0.7942665219306946
+2026-08-13 12:37:00,"Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli - Benzinga",NFLX,Google RSS,negative,-0.8823629021644592
