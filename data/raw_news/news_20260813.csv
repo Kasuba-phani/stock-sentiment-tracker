@@ -6,18 +6,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-10 12:54:00,Amazon Stock Hits a New All-Time High: Is It Still a Buy? - The Motley Fool,AMZN,Google RSS,neutral,0.0
 2026-08-11 18:51:00,"Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
 2026-08-09 00:15:00,"Jeff Bezos' Amazon stock surged 14% after a blowout earnings beat, adding $25 billion to his fortune. Is the stock still a buy after the rally?",AMZN,Bing RSS,neutral,0.0
-2026-08-10 15:19:46,Microsoft stock surges 15% after beating earnings expectations with AI growth - eciks.org,MSFT,Google RSS,positive,0.9403162002563477
+2026-08-10 15:19:46,Microsoft stock surges 15% after beating earnings expectations with AI growth - eciks.org,MSFT,Google RSS,positive,0.9403162002563475
 2026-08-12 06:53:03,"Microsoft Corporation (NASDAQ:MSFT) Receives Average Recommendation of ""Moderate Buy"" from Brokerages - MarketBeat",MSFT,Google RSS,positive,0.920995831489563
 2026-08-12 07:07:05,Microsoft Corporation $MSFT Shares Bought by Aristotle Atlantic Partners LLC - MarketBeat,MSFT,Google RSS,neutral,0.0
 2026-08-11 00:30:00,Is Nvidia Stock Still a Good Buy at $220? - The Motley Fool,NVDA,Google RSS,neutral,0.0
 2026-08-10 22:47:00,Nvidia’s CEO just sent strong signal to stock market investors - thestreet.com,NVDA,Google RSS,positive,0.6781566739082336
-2026-08-12 12:09:00,Dow Jones Futures Rise With CPI Inflation Due; AI Stocks Rally As 3 Nvidia Partners Lead Earnings Movers - Investor's Business Daily,NVDA,Google RSS,positive,0.40674474835395813
+2026-08-12 12:09:00,Dow Jones Futures Rise With CPI Inflation Due; AI Stocks Rally As 3 Nvidia Partners Lead Earnings Movers - Investor's Business Daily,NVDA,Google RSS,positive,0.4067447483539581
 2026-08-11 18:51:00,"Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
 2026-08-12 18:21:53,"Nvidia stock rallies 17%, analysts predict new all-time high within 12 months - Pluang",NVDA,Google RSS,positive,0.9269810914993286
 2026-08-10 13:49:00,What TSMC’s Surging Sales Growth Means for Apple and Nvidia Stocks - Barron's,NVDA,Google RSS,neutral,0.0
 2026-08-13 00:10:51,AI Chip Stocks August 2026: Nvidia vs AMD Investment Analysis - Intellectia AI,NVDA,Google RSS,neutral,0.0
 2026-08-13 00:25:00,"If a Stock Market Crash Comes in August, You'll Still Rest Easy Knowing You Bought This Dividend Stock",NVDA,Yahoo RSS,neutral,0.0
-2026-08-13 00:20:00,Oklo Just Made Big Progress With Small Modular Nuclear Reactor Technology. That's Great News for These 2 ETFs.,NVDA,Yahoo RSS,positive,0.9143819808959961
+2026-08-13 00:20:00,Oklo Just Made Big Progress With Small Modular Nuclear Reactor Technology. That's Great News for These 2 ETFs.,NVDA,Yahoo RSS,positive,0.914381980895996
 2026-08-10 16:12:43,Tesla Stock Is on a Roll as Retail Traders Buy In - Moomoo,TSLA,Google RSS,positive,0.5644795894622803
 2026-08-10 18:03:00,Retail traders just drew a line under Tesla’s sell-off - thestreet.com,TSLA,Google RSS,neutral,0.0
 2026-08-12 11:37:41,"Tesla shares fall 26% YTD, seen overvalued at $333 amid weak margins and costly growth bets. - Pluang",TSLA,Google RSS,negative,-0.9720115065574646
@@ -26,3 +26,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-12 19:33:45,"Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",TSLA,Yahoo RSS,negative,-0.9437934756278992
 2026-08-12 15:09:57,Tesla (TSLA) Stock Looks Rich On Sales But Strong On 5 Year Returns,TSLA,Yahoo RSS,positive,0.940375566482544
 2026-08-10 23:02:45,"S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  — SPCX, TSLA, INTC, NFLX, PLTR In Focus",NFLX,Yahoo RSS,negative,-0.9329102039337158
+2026-08-13 03:04:23,Cirrus Logic Sees Mixed-Signal Growth Pipeline Despite PC and Supply Chain Headwinds,AAPL,Yahoo RSS,positive,0.9524851441383362
+2026-08-11 21:13:00,"Tesla, Palantir and 3 stocks that could swing wildly after July CPI",TSLA,Bing RSS,neutral,0.0
