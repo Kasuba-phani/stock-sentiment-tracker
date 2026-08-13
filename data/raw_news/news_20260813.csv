@@ -65,7 +65,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-13 14:51:55,Microsoft stock set to hit new all-time high wi... - pluang.com,MSFT,Google RSS,positive,0.7063243985176086
 2026-08-13 11:39:08,Microsoft stock seen with 15% to 76% upside as AI growth and Azure backlog support bullish outlook - pluang.com,MSFT,Google RSS,positive,0.5032125115394592
 2026-08-13 13:31:30,IREN delivers first 50MW Microsoft AI cloud deployment at Childress,MSFT,Yahoo RSS,neutral,0.0
-2026-08-13 10:52:51,Why Cerebras Stock Is Falling Thursday - Cerebras Systems (NASDAQ:CBRS) - Benzinga,NVDA,Google RSS,negative,-0.9278580546379089
-2026-08-13 14:07:00,Wall Street sends strong signal to Nvidia stock investors,NVDA,Yahoo RSS,positive,0.9334768056869507
+2026-08-13 10:52:51,Why Cerebras Stock Is Falling Thursday - Cerebras Systems (NASDAQ:CBRS) - Benzinga,NVDA,Google RSS,negative,-0.9278580546379088
+2026-08-13 14:07:00,Wall Street sends strong signal to Nvidia stock investors,NVDA,Yahoo RSS,positive,0.9334768056869508
 2026-08-13 13:17:00,"Virtuix to Highlight Accelerating Consumer Growth and Expansion Across Defense, Robotics, and Healthcare at Sidoti Investor Conference",TSLA,Yahoo RSS,positive,0.7942665219306946
 2026-08-13 12:37:00,"Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli - Benzinga",NFLX,Google RSS,negative,-0.8823629021644592
+2026-08-11 10:18:40,"Apple’s revenue is soaring, but analyst confidence in AAPL stock is cooling. Here's why.",AAPL,Bing RSS,negative,-0.675901472568512
+2026-08-13 16:53:00,What Dip? Why Microsoft Stock's Post-Earnings Momentum Is Set To Continue. - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
+2026-08-13 12:01:00,"Dow Fixture Microsoft Breaks Out Along With These Stocks, But Datadog Triggers Sell Signals - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-08-13 14:51:55,Microsoft stock set to hit new all-time high wi... - Pluang,MSFT,Google RSS,positive,0.8380725383758545
+2026-08-13 10:52:51,Why Cerebras Stock Is Falling Thursday - Cerebras Systems (NASDAQ:CBRS) - benzinga.com,NVDA,Google RSS,negative,-0.8734694123268127
+2026-08-13 08:45:00,"Nvidia, IBD stock of the day, nears buy point ahead of fiscal Q2 earnings report",NVDA,Bing RSS,positive,0.6417672634124756
+2026-08-13 12:37:00,"Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli - benzinga.com",NFLX,Google RSS,negative,-0.7251612544059753
