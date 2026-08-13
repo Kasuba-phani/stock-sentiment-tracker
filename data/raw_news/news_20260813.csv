@@ -29,7 +29,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-13 03:04:23,Cirrus Logic Sees Mixed-Signal Growth Pipeline Despite PC and Supply Chain Headwinds,AAPL,Yahoo RSS,positive,0.9524851441383362
 2026-08-11 21:13:00,"Tesla, Palantir and 3 stocks that could swing wildly after July CPI",TSLA,Bing RSS,neutral,0.0
 2026-08-12 18:21:53,"Nvidia stock rallies 17%, analysts predict new all-time high within 12 months - pluang.com",NVDA,Google RSS,positive,0.8573962450027466
-2026-08-12 11:37:41,"Tesla shares fall 26% YTD, seen overvalued at $333 amid weak margins and costly growth bets. - pluang.com",TSLA,Google RSS,negative,-0.9708050489425659
-2026-08-11 11:52:02,"Tesla stock set to rise up to 5.4% by August 31, driven by AI forecasts and recent bullish momentum. - pluang.com",TSLA,Google RSS,positive,0.9140699505805969
+2026-08-12 11:37:41,"Tesla shares fall 26% YTD, seen overvalued at $333 amid weak margins and costly growth bets. - pluang.com",TSLA,Google RSS,negative,-0.970805048942566
+2026-08-11 11:52:02,"Tesla stock set to rise up to 5.4% by August 31, driven by AI forecasts and recent bullish momentum. - pluang.com",TSLA,Google RSS,positive,0.9140699505805968
 2026-08-11 18:51:43,"Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch",AMZN,Yahoo Global,neutral,0.0
 2026-08-11 18:51:43,"Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch",NVDA,Yahoo Global,neutral,0.0
+2026-08-10 12:54:00,Amazon Stock Hits a New All-Time High: Is It Still a Buy? - fool.com,AMZN,Google RSS,neutral,0.0
+2026-08-11 00:30:00,Is Nvidia Stock Still a Good Buy at $220? - fool.com,NVDA,Google RSS,neutral,0.0
+2026-08-10 15:47:00,Nvidia's CEO just sent strong signal to stock market investors,NVDA,Bing RSS,positive,0.8418652415275574
+2026-08-10 17:30:00,Is Nvidia Stock Still a Good Buy at $220?,NVDA,Bing RSS,neutral,0.0
+2026-08-11 10:28:27,"Stock market today: Dow, S&P 500, Nasdaq slip amid US-Iran impasse, Alphabet stock sinks",GOOGL,Yahoo Global,negative,-0.9356474280357361
