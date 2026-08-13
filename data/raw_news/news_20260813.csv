@@ -82,3 +82,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-13 09:12:00,NVIDIA Corporation $NVDA Stock Position Lifted by LFG Wealth Partners LLC - marketbeat.com,NVDA,Google RSS,neutral,0.0
 2026-08-13 17:25:00,Gold Is Up Sharply in August. What's Driving It Higher?,NVDA,Yahoo RSS,neutral,0.0
 2026-08-12 10:10:00,Elon Musk Says Optimus Will Be a $10 Trillion Business. Here Are 2 Industrial Stocks That Could Actually Cash In - The Motley Fool,TSLA,Google RSS,neutral,0.0
+2026-08-13 13:29:23,Wall Street sets Microsoft stock price for the next 12 months - finbold.com,MSFT,Google RSS,neutral,0.0
+2026-08-13 17:58:29,"Microsoft Slashes Carbon Removal Purchases By 80% As AI Boom Drives Emissions Higher, Says Report — MSFT Stock Edges Lower - TradingView",MSFT,Google RSS,negative,-0.9628837704658508
+2026-08-13 17:58:29,"Microsoft Slashes Carbon Removal Purchases By 80% As AI Boom Drives Emissions Higher, Says Report — MSFT Stock Edges Lower",MSFT,Yahoo RSS,negative,-0.949698269367218
+2026-08-12 10:10:00,Elon Musk Says Optimus Will Be a $10 Trillion Business. Here Are 2 Industrial Stocks That Could Actually Cash In - fool.com,TSLA,Google RSS,neutral,0.0
+2026-08-11 11:20:19,"Machine learning algorithm predicts Tesla stock price on August 31, 2026 - finbold.com",TSLA,Google RSS,neutral,0.0
+2026-08-13 12:30:00,"Up nearly 20% from its 52-week low, is Netflix stock set to rally even higher?",NFLX,Bing RSS,positive,0.9386363625526428
