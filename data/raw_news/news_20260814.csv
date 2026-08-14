@@ -68,3 +68,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-14 15:35:56,July Retail Sales Signal Consumer Caution,AMZN,Yahoo RSS,positive,0.6844188570976257
 2026-08-14 16:45:32,OpenAI Just Hit a $40 Billion Run Rate. So Why Are Its Top Executives Sprinting for the Exit Before the IPO?,GOOGL,Yahoo RSS,negative,-0.5014523267745972
 2026-08-14 19:39:45,Stock Market Today: Nasdaq Sinks On Retail Sales Gloom; Nvidia Eyes Robotics Wave (Live Coverage),NVDA,Yahoo RSS,negative,-0.883082389831543
+2026-08-14 20:07:04,"US Equity Markets End Lower Amid Weak Retail Sales Data, Rise in Crude Oil Prices",NVDA,Yahoo RSS,negative,-0.9693639278411865
+2026-08-12 11:37:41,"Tesla shares fall 26% YTD, seen overvalued at $333 amid weak margins and costly growth bets. - pluang.com",TSLA,Google RSS,negative,-0.9708049297332764
