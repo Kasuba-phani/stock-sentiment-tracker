@@ -34,3 +34,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-12 07:00:00,1 Dow Jones Stock with Impressive Fundamentals and 2 We Turn Down - StockStory,MSFT,Google RSS,neutral,0.0
 2026-08-13 09:56:00,What dip? Why Microsoft stock's post-earnings momentum is set to continue,MSFT,Bing RSS,neutral,0.0
 2026-08-13 11:07:00,Wall Street sends strong signal to Nvidia stock investors - thestreet.com,NVDA,Google RSS,positive,0.8561252355575562
+2026-08-13 17:58:00,"Microsoft Slashes Carbon Removal Purchases By 80% As AI Boom Drives Emissions Higher, Says Report — MSFT Stock Edges Lower - Stocktwits",MSFT,Google RSS,negative,-0.9579790830612183
+2026-08-10 15:47:00,Nvidia's CEO just sent strong signal to stock market investors,NVDA,Bing RSS,positive,0.8418652415275574
