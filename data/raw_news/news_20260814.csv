@@ -1,0 +1,30 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-08-10 19:22:18,Why Is Apple (AAPL) Stock Falling? Jefferies Says a Canceled iPhone Threatens Its Growth Plans - Stocks Down Under,AAPL,Google RSS,negative,-0.9645142555236816
+2026-08-11 10:18:40,"Apple’s revenue is soaring, but analyst confidence in AAPL stock is cooling. Here's why.",AAPL,Bing RSS,negative,-0.6759013533592224
+2026-08-13 13:04:00,Alphabet: Strong Fundamentals Support Today's Valuation (NASDAQ:GOOG) - Seeking Alpha,GOOGL,Google RSS,positive,0.9432546496391296
+2026-08-10 12:54:00,Amazon Stock Hits a New All-Time High: Is It Still a Buy? - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-08-13 09:30:03,Amazon Stock Leads 3 US Retail Picks As Cooling Inflation Eases Pressure - simplywall.st,AMZN,Google RSS,positive,0.6566152572631836
+2026-08-11 18:51:00,"Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-08-10 05:54:33,Amazon Stock Hits a New All-Time High: Is It Still a Buy?,AMZN,Bing RSS,neutral,0.0
+2026-08-13 12:01:00,"Dow Fixture Microsoft Breaks Out Along With These Stocks, But Datadog Triggers Sell Signals - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-08-13 13:29:23,Wall Street sets Microsoft stock price for the next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
+2026-08-13 14:51:55,Microsoft stock set to hit new all-time high wi... - Pluang,MSFT,Google RSS,positive,0.8380723595619202
+2026-08-13 11:39:08,Microsoft stock seen with 15% to 76% upside as AI growth and Azure backlog support bullish outlook - Pluang,MSFT,Google RSS,positive,0.8875276446342468
+2026-08-13 17:58:29,"Microsoft Slashes Carbon Removal Purchases By 80% As AI Boom Drives Emissions Higher, Says Report — MSFT Stock Edges Lower - TradingView",MSFT,Google RSS,negative,-0.9628837704658508
+2026-08-13 08:47:40,Infrastructure Capital Advisors LLC Grows Stock Position in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,positive,0.9351016283035278
+2026-08-10 15:19:46,Microsoft stock surges 15% after beating earnings expectations with AI growth - eciks.org,MSFT,Google RSS,positive,0.9403162002563477
+2026-08-12 07:00:00,1 Dow Jones Stock with Impressive Fundamentals and 2 We Turn Down - stockstory.org,MSFT,Google RSS,neutral,0.0
+2026-08-13 23:48:00,Use This Zacks Tool to Find Strong Cloud Stocks,MSFT,Yahoo RSS,neutral,0.0
+2026-08-14 01:45:00,"Nvidia (NASDAQ: NVDA) Stock Price Surges Nearly 7% Ahead Of August Earnings, Goldman Sachs Flags Elevated Expectations - foreignpolicyjournal.com",NVDA,Google RSS,positive,0.845888078212738
+2026-08-10 22:47:00,Nvidia’s CEO just sent strong signal to stock market investors - thestreet.com,NVDA,Google RSS,positive,0.6781566739082336
+2026-08-13 09:12:00,NVIDIA Corporation $NVDA Stock Position Lifted by LFG Wealth Partners LLC - MarketBeat,NVDA,Google RSS,positive,0.8816792964935303
+2026-08-11 18:51:00,"Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-08-10 13:49:00,What TSMC’s Surging Sales Growth Means for Apple and Nvidia Stocks - Barron's,NVDA,Google RSS,neutral,0.0
+2026-08-13 14:01:00,"Nvidia, IBD stock of the day, nears buy point ahead of fiscal Q2 earnings report",NVDA,Bing RSS,positive,0.6417654752731323
+2026-08-10 17:30:00,Is Nvidia Stock Still a Good Buy at $220?,NVDA,Bing RSS,neutral,0.0
+2026-08-13 04:07:00,Wall Street sends strong signal to Nvidia stock investors,NVDA,Bing RSS,positive,0.9334769248962402
+2026-08-13 23:58:06,Global Electric Vehicle Sales Diverged In July,NVDA,Yahoo RSS,negative,-0.8298408389091492
+2026-08-10 16:12:43,Tesla Stock Is on a Roll as Retail Traders Buy In - Moomoo,TSLA,Google RSS,positive,0.5644795894622803
+2026-08-10 18:03:00,Retail traders just drew a line under Tesla’s sell-off - thestreet.com,TSLA,Google RSS,neutral,0.0
+2026-08-12 11:37:41,"Tesla shares fall 26% YTD, seen overvalued at $333 amid weak margins and costly growth bets. - Pluang",TSLA,Google RSS,negative,-0.9720115065574646
+2026-08-13 13:17:00,"Virtuix to Highlight Accelerating Consumer Growth and Expansion Across Defense, Robotics, and Healthcare at Sidoti Investor Conference",TSLA,Yahoo RSS,positive,0.7942663431167603
