@@ -12,7 +12,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-13 11:39:08,Microsoft stock seen with 15% to 76% upside as AI growth and Azure backlog support bullish outlook - Pluang,MSFT,Google RSS,positive,0.8875276446342468
 2026-08-13 17:58:29,"Microsoft Slashes Carbon Removal Purchases By 80% As AI Boom Drives Emissions Higher, Says Report — MSFT Stock Edges Lower - TradingView",MSFT,Google RSS,negative,-0.9628837704658508
 2026-08-13 08:47:40,Infrastructure Capital Advisors LLC Grows Stock Position in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,positive,0.9351016283035278
-2026-08-10 15:19:46,Microsoft stock surges 15% after beating earnings expectations with AI growth - eciks.org,MSFT,Google RSS,positive,0.9403162002563477
+2026-08-10 15:19:46,Microsoft stock surges 15% after beating earnings expectations with AI growth - eciks.org,MSFT,Google RSS,positive,0.9403162002563475
 2026-08-12 07:00:00,1 Dow Jones Stock with Impressive Fundamentals and 2 We Turn Down - stockstory.org,MSFT,Google RSS,neutral,0.0
 2026-08-13 23:48:00,Use This Zacks Tool to Find Strong Cloud Stocks,MSFT,Yahoo RSS,neutral,0.0
 2026-08-14 01:45:00,"Nvidia (NASDAQ: NVDA) Stock Price Surges Nearly 7% Ahead Of August Earnings, Goldman Sachs Flags Elevated Expectations - foreignpolicyjournal.com",NVDA,Google RSS,positive,0.845888078212738
@@ -28,3 +28,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-10 18:03:00,Retail traders just drew a line under Tesla’s sell-off - thestreet.com,TSLA,Google RSS,neutral,0.0
 2026-08-12 11:37:41,"Tesla shares fall 26% YTD, seen overvalued at $333 amid weak margins and costly growth bets. - Pluang",TSLA,Google RSS,negative,-0.9720115065574646
 2026-08-13 13:17:00,"Virtuix to Highlight Accelerating Consumer Growth and Expansion Across Defense, Robotics, and Healthcare at Sidoti Investor Conference",TSLA,Yahoo RSS,positive,0.7942663431167603
+2026-08-14 04:10:00,AI-driven surge in bond yields could be next risk for markets and growth - Reuters,AMZN,Google RSS,negative,-0.7498317360877991
+2026-08-13 16:53:00,What Dip? Why Microsoft Stock's Post-Earnings Momentum Is Set To Continue. - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
+2026-08-13 13:29:23,Wall Street sets Microsoft stock price for the next 12 months - finbold.com,MSFT,Google RSS,neutral,0.0
+2026-08-12 07:00:00,1 Dow Jones Stock with Impressive Fundamentals and 2 We Turn Down - StockStory,MSFT,Google RSS,neutral,0.0
+2026-08-13 09:56:00,What dip? Why Microsoft stock's post-earnings momentum is set to continue,MSFT,Bing RSS,neutral,0.0
+2026-08-13 11:07:00,Wall Street sends strong signal to Nvidia stock investors - thestreet.com,NVDA,Google RSS,positive,0.8561252355575562
