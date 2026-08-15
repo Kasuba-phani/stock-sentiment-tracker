@@ -26,4 +26,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-15 02:06:20,"Nvidia Stock Price Forecast: Nvidia Partners With Six Wall Street Giants to Raise $500 Billion, May Support Stock Rise to $300 - TradingKey",NVDA,Google RSS,positive,0.8997265696525574
 2026-08-13 04:07:00,Wall Street sends strong signal to Nvidia stock investors,NVDA,Bing RSS,positive,0.9334769248962402
 2026-08-13 12:37:00,"Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli - Benzinga",NFLX,Google RSS,negative,-0.8823629021644592
-2026-08-14 06:15:39,Resilient Netflix stock jumps as Pershing Square returns and guidance points to double-digit growth - AD HOC NEWS,NFLX,Google RSS,positive,0.9179254770278931
+2026-08-14 06:15:39,Resilient Netflix stock jumps as Pershing Square returns and guidance points to double-digit growth - AD HOC NEWS,NFLX,Google RSS,positive,0.9179254770278932
+2026-08-12 07:00:00,1 Dow Jones Stock with Impressive Fundamentals and 2 We Turn Down - stockstory.org,MSFT,Google RSS,neutral,0.0
+2026-08-15 02:06:20,"Nvidia Stock Price Forecast: Nvidia Partners With Six Wall Street Giants to Raise $500 Billion, May Support Stock Rise to $300 - tradingkey.com",NVDA,Google RSS,neutral,0.0
+2026-08-10 13:49:00,What TSMC’s Surging Sales Growth Means for Apple and Nvidia Stocks - barrons.com,NVDA,Google RSS,neutral,0.0
+2026-08-10 15:47:00,Nvidia's CEO just sent strong signal to stock market investors,NVDA,Bing RSS,positive,0.8418652415275574
+2026-08-10 16:04:11,Tesla Stock Is on a Roll as Retail Traders Buy In - moomoo.com,TSLA,Google RSS,neutral,0.0
