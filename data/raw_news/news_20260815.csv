@@ -7,7 +7,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-14 09:27:31,"Strategic Investment Advisors MI Buys 8,813 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
 2026-08-14 07:40:41,"EverSource Wealth Advisors LLC Buys 26,285 Shares of Microsoft Corporation $MSFT - MarketBeat",MSFT,Google RSS,neutral,0.0
 2026-08-14 09:27:31,MSA Advisors LLC Has $14.30 Million Stock Position in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,neutral,0.0
-2026-08-10 15:19:46,Microsoft stock surges 15% after beating earnings expectations with AI growth - eciks.org,MSFT,Google RSS,positive,0.9403162002563477
+2026-08-10 15:19:46,Microsoft stock surges 15% after beating earnings expectations with AI growth - eciks.org,MSFT,Google RSS,positive,0.9403162002563475
 2026-08-12 07:00:00,1 Dow Jones Stock with Impressive Fundamentals and 2 We Turn Down - StockStory,MSFT,Google RSS,neutral,0.0
 2026-08-13 12:01:00,"Dow Fixture Microsoft Breaks Out Along With These Stocks, But Datadog Triggers Sell Signals - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
 2026-08-13 13:29:23,Wall Street sets Microsoft stock price for the next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
@@ -16,7 +16,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-13 11:07:00,Wall Street sends strong signal to Nvidia stock investors - thestreet.com,NVDA,Google RSS,positive,0.85612553358078
 2026-08-10 13:49:00,What TSMC’s Surging Sales Growth Means for Apple and Nvidia Stocks - Barron's,NVDA,Google RSS,neutral,0.0
 2026-08-10 17:30:00,Is Nvidia Stock Still a Good Buy at $220?,NVDA,Bing RSS,neutral,0.0
-2026-08-14 21:05:08,Stock Market Today: Nasdaq Slips On Retail Sales Gloom; Nvidia Eyes Robotics Wave,NVDA,Yahoo RSS,negative,-0.9655503630638123
+2026-08-14 21:05:08,Stock Market Today: Nasdaq Slips On Retail Sales Gloom; Nvidia Eyes Robotics Wave,NVDA,Yahoo RSS,negative,-0.9655503630638124
 2026-08-10 16:04:11,Tesla Stock Is on a Roll as Retail Traders Buy In - Moomoo,TSLA,Google RSS,positive,0.5644795894622803
 2026-08-12 11:37:41,"Tesla shares fall 26% YTD, seen overvalued at $333 amid weak margins and costly growth bets. - Pluang",TSLA,Google RSS,negative,-0.9720115065574646
-2026-08-14 23:01:16,"Netflix remains a Strong Buy with growth, margi... - Pluang",NFLX,Google RSS,positive,0.9130310416221619
+2026-08-14 23:01:16,"Netflix remains a Strong Buy with growth, margi... - Pluang",NFLX,Google RSS,positive,0.913031041622162
+2026-08-15 02:03:00,‘Big Short’ investor warns AI boom has quiet weak spot,AMZN,Yahoo RSS,negative,-0.8773338198661804
+2026-08-13 16:53:00,What Dip? Why Microsoft Stock's Post-Earnings Momentum Is Set To Continue. - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
+2026-08-15 02:03:00,‘Big Short’ investor warns AI boom has quiet weak spot,MSFT,Yahoo RSS,negative,-0.8773338198661804
+2026-08-15 02:06:20,"Nvidia Stock Price Forecast: Nvidia Partners With Six Wall Street Giants to Raise $500 Billion, May Support Stock Rise to $300 - TradingKey",NVDA,Google RSS,positive,0.8997265696525574
+2026-08-13 04:07:00,Wall Street sends strong signal to Nvidia stock investors,NVDA,Bing RSS,positive,0.9334769248962402
+2026-08-13 12:37:00,"Stock Market Today: S&P 500, Dow Futures Rise, Nasdaq Falls as July Inflation Cools—Cisco Systems, Netfli - Benzinga",NFLX,Google RSS,negative,-0.8823629021644592
+2026-08-14 06:15:39,Resilient Netflix stock jumps as Pershing Square returns and guidance points to double-digit growth - AD HOC NEWS,NFLX,Google RSS,positive,0.9179254770278931
