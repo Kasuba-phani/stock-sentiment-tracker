@@ -37,3 +37,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-10 05:54:33,Amazon Stock Hits a New All-Time High: Is It Still a Buy?,AMZN,Bing RSS,neutral,0.0
 2026-08-15 07:46:06,CoreCap Advisors LLC Raises Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,positive,0.8961766958236694
 2026-08-15 09:00:33,Orographic Financial Advisors LLC Takes $5.73 Million Position in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,neutral,0.0
+2026-08-10 12:14:33,Amazon Stock Hits a New All-Time High: Is It Still a Buy? - finance.yahoo.com,AMZN,Google RSS,neutral,0.0
+2026-08-10 23:50:00,Is Nvidia Stock Still a Good Buy at $220? - finance.yahoo.com,NVDA,Google RSS,neutral,0.0
+2026-08-15 09:25:00,2 Tech Dividend Stocks That Offer High Yields and Payout Growth,NVDA,Yahoo RSS,neutral,0.0
