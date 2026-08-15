@@ -50,3 +50,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-14 04:10:00,AI-driven surge in bond yields could be next risk for markets and growth - reuters.com,AMZN,Google RSS,neutral,0.0
 2026-08-14 19:47:26,Sector Update: Consumer Stocks Mixed Late Afternoon,TSLA,Yahoo RSS,negative,-0.935252010822296
 2026-08-15 14:30:00,Nvidia (NVDA) Stock Looks Fairly Valued Despite Strong AI Expectations - simplywall.st,NVDA,Google RSS,positive,0.8265653252601624
+2026-08-15 19:00:00,Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies,NVDA,Yahoo RSS,negative,-0.9314671754837036
+2026-08-15 19:00:00,Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies,META,Yahoo RSS,negative,-0.9314671754837036
