@@ -33,3 +33,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-15 19:00:00,Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies,NVDA,Yahoo RSS,negative,-0.9314671754837036
 2026-08-14 21:05:08,Stock Market Today: Nasdaq Slips On Retail Sales Gloom; Nvidia Eyes Robotics Wave,NVDA,Yahoo Global,negative,-0.9655503630638124
 2026-08-14 19:47:26,Sector Update: Consumer Stocks Mixed Late Afternoon,TSLA,Yahoo RSS,negative,-0.935252010822296
+2026-08-13 12:01:00,"Dow Fixture Microsoft Breaks Out Along With These Stocks, But Datadog Triggers Sell Signals - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
