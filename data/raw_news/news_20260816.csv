@@ -12,7 +12,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-15 09:00:33,Orographic Financial Advisors LLC Takes $5.73 Million Position in Microsoft Corporation $MSFT - MarketBeat,MSFT,Google RSS,neutral,0.0
 2026-08-13 13:29:23,Wall Street sets Microsoft stock price for the next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
 2026-08-12 07:00:00,1 Dow Jones Stock with Impressive Fundamentals and 2 We Turn Down - StockStory,MSFT,Google RSS,neutral,0.0
-2026-08-10 15:19:46,Microsoft stock surges 15% after beating earnings expectations with AI growth - eciks.org,MSFT,Google RSS,positive,0.9403162002563477
+2026-08-10 15:19:46,Microsoft stock surges 15% after beating earnings expectations with AI growth - eciks.org,MSFT,Google RSS,positive,0.9403162002563475
 2026-08-15 23:57:00,1 Dow Jones Stock with Impressive Fundamentals and 2 We Turn Down,MSFT,Yahoo RSS,positive,0.8795325756072998
 2026-08-15 11:00:26,3 Cloud Computing Stocks to Buy in August,MSFT,Yahoo RSS,neutral,0.0
 2026-08-15 02:03:00,‘Big Short’ investor warns AI boom has quiet weak spot,MSFT,Yahoo RSS,negative,-0.8773338198661804
@@ -27,3 +27,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-10 17:30:00,Is Nvidia Stock Still a Good Buy at $220?,NVDA,Bing RSS,neutral,0.0
 2026-08-10 16:04:11,Tesla Stock Is on a Roll as Retail Traders Buy In - Moomoo,TSLA,Google RSS,positive,0.5644795894622803
 2026-08-15 19:00:00,Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies,META,Yahoo RSS,negative,-0.9314671754837036
+2026-08-11 18:51:00,"Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-08-15 09:00:33,Orographic Financial Advisors LLC Takes $5.73 Million Position in Microsoft Corporation $MSFT - marketbeat.com,MSFT,Google RSS,neutral,0.0
+2026-08-15 07:46:06,CoreCap Advisors LLC Raises Stock Position in NVIDIA Corporation $NVDA - marketbeat.com,NVDA,Google RSS,neutral,0.0
+2026-08-15 19:00:00,Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies,NVDA,Yahoo RSS,negative,-0.9314671754837036
+2026-08-14 21:05:08,Stock Market Today: Nasdaq Slips On Retail Sales Gloom; Nvidia Eyes Robotics Wave,NVDA,Yahoo Global,negative,-0.9655503630638123
