@@ -35,3 +35,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-14 19:47:26,Sector Update: Consumer Stocks Mixed Late Afternoon,TSLA,Yahoo RSS,negative,-0.935252010822296
 2026-08-13 12:01:00,"Dow Fixture Microsoft Breaks Out Along With These Stocks, But Datadog Triggers Sell Signals - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
 2026-08-13 13:29:23,Wall Street sets Microsoft stock price for the next 12 months - finbold.com,MSFT,Google RSS,neutral,0.0
+2026-08-16 12:00:00,"Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Walmart Due; Market Ready To Run? - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-08-16 12:00:23,"Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Walmart Due; Market Ready To Run?",NVDA,Yahoo RSS,neutral,0.0
