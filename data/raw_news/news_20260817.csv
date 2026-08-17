@@ -26,3 +26,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-15 23:57:00,1 Dow Jones Stock with Impressive Fundamentals and 2 We Turn Down,MSFT,Yahoo RSS,positive,0.8795325756072998
 2026-08-16 19:43:00,"Dow Jones futures: Nvidia leads 5 stocks in buy areas, SanDisk nears key level; Walmart looms",NVDA,Bing RSS,positive,0.8764215111732483
 2026-08-17 02:46:13,"Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Nears Key Level; Walmart Looms",NVDA,Yahoo RSS,positive,0.8764215111732483
+2026-08-14 04:10:00,AI-driven surge in bond yields could be next risk for markets and growth - reuters.com,AMZN,Google RSS,neutral,0.0
