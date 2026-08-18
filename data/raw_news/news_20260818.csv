@@ -1,0 +1,9 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-08-17 15:48:49,Alphabet stock seen rising 30% as Google Cloud growth and Buffett's bet boost confidence - Pluang,GOOGL,Google RSS,positive,0.9483378529548645
+2026-08-13 16:53:00,What Dip? Why Microsoft Stock's Post-Earnings Momentum Is Set To Continue. - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
+2026-08-15 22:33:46,Microsoft Stock Leads 3 AI Stocks Backed By Real Revenue And Heavy Demand - simplywall.st,MSFT,Google RSS,positive,0.5925524234771729
+2026-08-13 11:40:01,"Microsoft Slashes Carbon Removal Purchases By 80% As AI Boom Drives Emissions Higher, Says Report — MSFT Stock Edges Lower",MSFT,Bing RSS,negative,-0.9496983885765076
+2026-08-15 14:30:00,Nvidia (NVDA) Stock Looks Fairly Valued Despite Strong AI Expectations - simplywall.st,NVDA,Google RSS,positive,0.8265656232833862
+2026-08-17 21:30:24,"Stock Market Today, Aug. 17: Markets Inch Lower and Treasury Yields Rise as Investors Wait for Retail Earnings",META,Yahoo RSS,negative,-0.9182614684104919
+2026-08-17 15:43:38,Why Is Netflix Stock Falling on Monday? - Benzinga,NFLX,Google RSS,negative,-0.7127759456634521
+2026-08-17 17:44:56,Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout,AMZN,CNBC Finance,neutral,0.0
