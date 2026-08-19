@@ -33,3 +33,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-17 16:13:33,Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout - cnbc.com,AMZN,Google RSS,neutral,0.0
 2026-08-19 07:34:07,Microsoft Corporation $MSFT Shares Sold by Cedar Mountain Advisors LLC - MarketBeat,MSFT,Google RSS,neutral,0.0
 2026-08-19 09:12:26,"Why Are Nasdaq, S&P 500 Futures Rising Premarket? NVDA, MU, SNDK, SKHY, CVNA Stocks In Focus",NVDA,Yahoo RSS,neutral,0.0
+2026-08-18 18:30:28,Apple’s AI stance turns into stock market baggage as investor sentiment shifts - macdailynews.com,AAPL,Google RSS,neutral,0.0
+2026-08-19 10:03:51,Stifel reiterates Nvidia stock rating ahead of earnings report - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-08-19 10:11:00,Opendoor Is Down 86% From Its High. Is the Housing Recovery Story Still Intact?,NVDA,Yahoo RSS,negative,-0.967047393321991
+2026-08-19 09:56:05,Nvidia credit risk gauge hits new peak as SoftBank readies record bond issue,NVDA,Yahoo RSS,positive,0.9002983570098877
