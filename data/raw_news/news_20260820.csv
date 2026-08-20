@@ -31,3 +31,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-19 19:50:49,Did Treasury Secretary Scott Bessent Just Save the Bond Market? Probably Not — Here’s What Traders Need to Know.,META,Yahoo RSS,neutral,0.0
 2026-08-18 19:11:36,These Telltale Signs Cue Microsoft Investors Despite Earnings Surge; Is Microsoft A Sell Now?,MSFT,Yahoo Global,negative,-0.4220082759857178
 2026-08-19 15:28:50,"U.S. Stock Market Moves | Tesla (TSLA.US) Rises Nearly 3%, May Launch CyberCab to the Public by Late August - moomoo.com",TSLA,Google RSS,positive,0.6152467131614685
+2026-08-20 09:35:00,SpaceX Is Up 25% in August. Meet the 7 Vanguard ETFs That Just Bought More Shares.,NVDA,Yahoo RSS,positive,0.7537044286727905
+2026-08-20 08:58:55,"Why Are Nasdaq, S&P 500 Futures Falling Premarket? NVDA, SKHY, SPCX, TSLA, MRNA, MSTR, PURR, WMT Stocks In Focus",NVDA,Yahoo RSS,negative,-0.7085371613502502
+2026-08-20 08:58:55,"Why Are Nasdaq, S&P 500 Futures Falling Premarket? NVDA, SKHY, SPCX, TSLA, MRNA, MSTR, PURR, WMT Stocks In Focus",TSLA,Yahoo RSS,negative,-0.7085371613502502
