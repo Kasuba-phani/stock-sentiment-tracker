@@ -1,0 +1,29 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-08-20 01:19:54,"Dow Jones Futures: S&P 500, Nasdaq Rise As Moderna, Merck, Gold Shine But Not These Techs",AAPL,Yahoo RSS,neutral,0.0
+2026-08-19 16:10:00,"Dow Jones Tech Titan Alphabet Offers New Buy Point, But These Key Flaws Remain - Investor's Business Daily",GOOGL,Google RSS,neutral,0.0
+2026-08-18 13:28:40,Why tech stock bulls may not shake this AI problem,GOOGL,Yahoo RSS,neutral,0.0
+2026-08-19 14:08:46,There's 'light at the end of the tunnel' for tech stocks amid bond rout: Eric Jackson,GOOGL,Yahoo RSS,neutral,0.0
+2026-08-17 16:13:33,Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout - CNBC,AMZN,Google RSS,neutral,0.0
+2026-08-19 15:26:29,"Amazon stock seen rising 32% on AWS growth and AI backlog, with $342 price target and buy rating. - Pluang",AMZN,Google RSS,positive,0.9319735169410706
+2026-08-20 01:20:00,Big Tech Is on Pace to Spend $735 Billion on AI Data Centers in 2026. These 3 Industrial Stocks Collect the Checks.,AMZN,Yahoo RSS,neutral,0.0
+2026-08-18 19:11:00,These Telltale Signs Cue Microsoft Investors Despite Earnings Surge; Is Microsoft A Sell Now? - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
+2026-08-15 22:33:46,Microsoft Stock Leads 3 AI Stocks Backed By Real Revenue And Heavy Demand - simplywall.st,MSFT,Google RSS,positive,0.5925520658493042
+2026-08-13 16:53:00,What Dip? Why Microsoft Stock's Post-Earnings Momentum Is Set To Continue. - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
+2026-08-19 07:34:07,Microsoft Corporation $MSFT Shares Sold by Cedar Mountain Advisors LLC - MarketBeat,MSFT,Google RSS,neutral,0.0
+2026-08-20 01:20:00,Big Tech Is on Pace to Spend $735 Billion on AI Data Centers in 2026. These 3 Industrial Stocks Collect the Checks.,MSFT,Yahoo RSS,neutral,0.0
+2026-08-19 18:10:35,How Strong Q2 2026 Earnings and Buybacks Will Impact Allstate (ALL) Investors,MSFT,Yahoo RSS,neutral,0.0
+2026-08-19 10:03:51,Stifel reiterates Nvidia stock rating ahead of earnings report - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-08-19 14:37:10,Why Falling AI Prices Could Be Good News for Nvidia Stock - Benzinga,NVDA,Google RSS,positive,0.5405575037002563
+2026-08-19 16:20:39,Chip Stocks Selloff August 2026: Why Nvidia AMD Are Falling & What's Next - Intellectia AI,NVDA,Google RSS,negative,-0.7316579222679138
+2026-08-19 04:07:00,Nvidia stock jittery ahead of next week's earnings: what to expect,NVDA,Bing RSS,negative,-0.8491833209991455
+2026-08-20 01:20:00,Big Tech Is on Pace to Spend $735 Billion on AI Data Centers in 2026. These 3 Industrial Stocks Collect the Checks.,NVDA,Yahoo RSS,neutral,0.0
+2026-08-19 23:15:36,"US Stock Index Futures Climb As Yields Cool Off Amid Treasury Support — NVDA, MRNA, MRVL, LOWE In Focus",NVDA,Yahoo RSS,positive,0.5835364460945129
+2026-08-19 21:27:01,The Fed's July Meeting Minutes Show a Growing Urgency to Raise Interest Rates. Here's Why I Still Think a 2026 Rate Hike Is Very Unlikely,NVDA,Yahoo RSS,neutral,0.0
+2026-08-19 15:28:50,"U.S. Stock Market Moves | Tesla (TSLA.US) Rises Nearly 3%, May Launch CyberCab to the Public by Late August - Moomoo",TSLA,Google RSS,positive,0.8082557320594788
+2026-08-19 19:01:49,Tesla Rebounds 2.9% as Falling Yields Revive Mega-Cap Growth Bets - finance.biggo.com,TSLA,Google RSS,negative,-0.9417459964752197
+2026-08-19 06:47:00,Tesla (TSLA) Stock: Will Cybercab Launch Event Revive Investor Interest?,TSLA,Bing RSS,positive,0.8383260369300842
+2026-08-18 20:00:56,Why Meta (NASDAQ:META) Stock Is Falling Today as Its $1.4 Trillion Child-Safety Trial Begins - Stocks Down Under,META,Google RSS,negative,-0.971515953540802
+2026-08-20 01:20:00,Big Tech Is on Pace to Spend $735 Billion on AI Data Centers in 2026. These 3 Industrial Stocks Collect the Checks.,META,Yahoo RSS,neutral,0.0
+2026-08-17 15:43:38,Why Is Netflix Stock Falling on Monday? - Benzinga,NFLX,Google RSS,negative,-0.712776243686676
+2026-08-18 11:46:11,"Stocks making the biggest moves premarket: Home Depot, Tesla, Fabrinet, Duolingo & more",TSLA,CNBC Finance,neutral,0.0
+2026-08-17 17:44:56,Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout,AMZN,CNBC Finance,neutral,0.0
