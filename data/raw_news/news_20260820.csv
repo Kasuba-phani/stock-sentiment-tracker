@@ -34,3 +34,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-20 09:35:00,SpaceX Is Up 25% in August. Meet the 7 Vanguard ETFs That Just Bought More Shares.,NVDA,Yahoo RSS,positive,0.7537044286727905
 2026-08-20 08:58:55,"Why Are Nasdaq, S&P 500 Futures Falling Premarket? NVDA, SKHY, SPCX, TSLA, MRNA, MSTR, PURR, WMT Stocks In Focus",NVDA,Yahoo RSS,negative,-0.7085371613502502
 2026-08-20 08:58:55,"Why Are Nasdaq, S&P 500 Futures Falling Premarket? NVDA, SKHY, SPCX, TSLA, MRNA, MSTR, PURR, WMT Stocks In Focus",TSLA,Yahoo RSS,negative,-0.7085371613502502
+2026-08-20 11:00:00,ARRAY Technologies to Detail Balance-of-System Strategy and APA Long-Term Growth Opportunities at the APA Investor Technology Showcase Today,NVDA,Yahoo RSS,neutral,0.0
+2026-08-20 08:43:08,Meta stock sinks 3.8% as bearish trend meets fading momentum - The Cryptonomist,META,Google RSS,negative,-0.9545277953147888
