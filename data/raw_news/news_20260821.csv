@@ -50,3 +50,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-21 19:45:00,"Netflix Is Down 40% From Its All-Time High. With No More Subscriber Numbers to Hide Behind, Is the Stock Still a Good Value? - Currently.com",NFLX,Google RSS,negative,-0.9590770602226256
 2026-08-21 19:45:00,"Netflix Is Down 40% From Its All-Time High. With No More Subscriber Numbers to Hide Behind, Is the Stock Still a Good Value?",NFLX,Yahoo RSS,negative,-0.9549299478530884
 2026-08-21 21:06:40,Microsoft Stock Forecast: MSFT May Break $570 as Azure Growth Holds at 40% - TradingKey,MSFT,Google RSS,negative,-0.4629769027233124
+2026-08-21 22:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,AAPL,Yahoo RSS,neutral,0.0
+2026-08-21 22:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,AMZN,Yahoo RSS,neutral,0.0
+2026-08-21 20:24:35,Moody’s affirms Microsoft stock Aaa rating; outlook stable By Investing.com - Investing.com Nigeria,MSFT,Google RSS,neutral,0.0
+2026-08-21 22:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,MSFT,Yahoo RSS,neutral,0.0
+2026-08-21 12:17:00,Morgan Stanley reiterates Nvidia rating and stock price target ahead of earnings,NVDA,Bing RSS,neutral,0.0
+2026-08-21 22:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,NVDA,Yahoo RSS,neutral,0.0
+2026-08-21 21:48:44,"US Stock Indices End Week Lower On Pressure From Elevated Long-Duration Treasury Yields — PSKY, MSTR, WMT, TSLA, NVDA In Focus",NVDA,Yahoo RSS,negative,-0.945205807685852
+2026-08-21 22:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,TSLA,Yahoo RSS,neutral,0.0
+2026-08-21 21:48:44,"US Stock Indices End Week Lower On Pressure From Elevated Long-Duration Treasury Yields — PSKY, MSTR, WMT, TSLA, NVDA In Focus",TSLA,Yahoo RSS,negative,-0.945205807685852
+2026-08-21 22:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,META,Yahoo RSS,neutral,0.0
