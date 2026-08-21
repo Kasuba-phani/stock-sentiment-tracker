@@ -1,0 +1,20 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-08-19 16:10:00,"Dow Jones Tech Titan Alphabet Offers New Buy Point, But These Key Flaws Remain - Investor's Business Daily",GOOGL,Google RSS,neutral,0.0
+2026-08-18 13:28:40,Why tech stock bulls may not shake this AI problem,GOOGL,Yahoo RSS,neutral,0.0
+2026-08-19 19:50:49,Did Treasury Secretary Scott Bessent Just Save the Bond Market? Probably Not — Here’s What Traders Need to Know.,GOOGL,Yahoo RSS,neutral,0.0
+2026-08-19 14:08:46,There's 'light at the end of the tunnel' for tech stocks amid bond rout: Eric Jackson,GOOGL,Yahoo RSS,neutral,0.0
+2026-08-17 16:13:33,Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout - CNBC,AMZN,Google RSS,neutral,0.0
+2026-08-20 19:09:58,DeepSeek Sends Strong Signal to Nvidia Investors,AMZN,Yahoo RSS,positive,0.9409359693527222
+2026-08-18 19:11:00,These Telltale Signs Cue Microsoft Investors Despite Earnings Surge; Is Microsoft A Sell Now? - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
+2026-08-15 22:33:46,Microsoft Stock Leads 3 AI Stocks Backed By Real Revenue And Heavy Demand - simplywall.st,MSFT,Google RSS,positive,0.5925523042678833
+2026-08-16 12:30:00,Satya Nadella's Microsoft stock jumped 18% in a week after Azure's annual revenue topped $100 billion for the first time. Is it still a buy?,MSFT,Bing RSS,neutral,0.0
+2026-08-20 19:09:58,DeepSeek Sends Strong Signal to Nvidia Investors,MSFT,Yahoo RSS,positive,0.9409359693527222
+2026-08-19 14:37:10,Why Falling AI Prices Could Be Good News for Nvidia Stock - Benzinga,NVDA,Google RSS,positive,0.5405570864677429
+2026-08-20 13:35:00,A Famed Billionaire Tech Investor Just Sold Nvidia Shares to Buy These 2 AI Chip Stocks - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-08-20 14:37:00,"Nvidia Analysts See New Growth Drivers Ahead Of Earnings, From Blackwell Ultra To $20B Vera Opportunity - Stocktwits",NVDA,Google RSS,positive,0.930009126663208
+2026-08-19 10:03:51,Stifel reiterates Nvidia stock rating ahead of earnings report - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-08-20 08:43:08,Meta stock sinks 3.8% as bearish trend meets fading momentum - The Cryptonomist,META,Google RSS,negative,-0.9545277953147888
+2026-08-18 20:00:56,Why Meta (NASDAQ:META) Stock Is Falling Today as Its $1.4 Trillion Child-Safety Trial Begins - Stocks Down Under,META,Google RSS,negative,-0.9715160727500916
+2026-08-17 15:43:38,Why Is Netflix Stock Falling on Monday? - Benzinga,NFLX,Google RSS,negative,-0.7127761840820312
+2026-08-18 11:46:11,"Stocks making the biggest moves premarket: Home Depot, Tesla, Fabrinet, Duolingo & more",TSLA,CNBC Finance,neutral,0.0
+2026-08-17 17:44:56,Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout,AMZN,CNBC Finance,neutral,0.0
