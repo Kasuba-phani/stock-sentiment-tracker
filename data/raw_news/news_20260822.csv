@@ -6,7 +6,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-19 14:08:46,There's 'light at the end of the tunnel' for tech stocks amid bond rout: Eric Jackson,GOOGL,Yahoo RSS,neutral,0.0
 2026-08-17 16:13:33,Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout - CNBC,AMZN,Google RSS,neutral,0.0
 2026-08-21 22:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,AMZN,Yahoo RSS,neutral,0.0
-2026-08-21 21:06:40,Microsoft Stock Forecast: MSFT May Break $570 as Azure Growth Holds at 40% - TradingKey,MSFT,Google RSS,negative,-0.46297726035118103
+2026-08-21 21:06:40,Microsoft Stock Forecast: MSFT May Break $570 as Azure Growth Holds at 40% - TradingKey,MSFT,Google RSS,negative,-0.462977260351181
 2026-08-21 20:24:35,Moody’s affirms Microsoft stock Aaa rating; outlook stable By Investing.com - Investing.com Nigeria,MSFT,Google RSS,neutral,0.0
 2026-08-18 19:11:00,These Telltale Signs Cue Microsoft Investors Despite Earnings Surge; Is Microsoft A Sell Now? - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
 2026-08-15 22:33:46,Microsoft Stock Leads 3 AI Stocks Backed By Real Revenue And Heavy Demand - simplywall.st,MSFT,Google RSS,positive,0.5925524234771729
@@ -24,10 +24,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-21 21:48:44,"US Stock Indices End Week Lower On Pressure From Elevated Long-Duration Treasury Yields — PSKY, MSTR, WMT, TSLA, NVDA In Focus",TSLA,Yahoo RSS,negative,-0.945205807685852
 2026-08-18 20:00:56,Why Meta (NASDAQ:META) Stock Is Falling Today as Its $1.4 Trillion Child-Safety Trial Begins - Stocks Down Under,META,Google RSS,negative,-0.971515953540802
 2026-08-21 22:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,META,Yahoo RSS,neutral,0.0
-2026-08-21 20:01:50,"Netflix Is Down 40% From Its All-Time High. With No More Subscriber Numbers to Hide Behind, Is the Stock Still a Good Value? - The Motley Fool",NFLX,Google RSS,negative,-0.9593236446380615
+2026-08-21 20:01:50,"Netflix Is Down 40% From Its All-Time High. With No More Subscriber Numbers to Hide Behind, Is the Stock Still a Good Value? - The Motley Fool",NFLX,Google RSS,negative,-0.9593236446380616
 2026-08-21 20:03:27,"Netflix Is Down 40% From Its All-Time High. With No More Subscriber Numbers to Hide Behind, Is the Stock Still a Good Value? - AOL.com",NFLX,Google RSS,negative,-0.9494063258171082
 2026-08-17 15:43:38,Why Is Netflix Stock Falling on Monday? - Benzinga,NFLX,Google RSS,negative,-0.7127759456634521
 2026-08-21 08:10:14,"Advisors Capital Management LLC Acquires Shares of 452,890 Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
 2026-08-21 19:45:00,"Netflix Is Down 40% From Its All-Time High. With No More Subscriber Numbers to Hide Behind, Is the Stock Still a Good Value?",NFLX,Yahoo RSS,negative,-0.9549299478530884
 2026-08-18 11:46:11,"Stocks making the biggest moves premarket: Home Depot, Tesla, Fabrinet, Duolingo & more",TSLA,CNBC Finance,neutral,0.0
 2026-08-17 17:44:56,Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout,AMZN,CNBC Finance,neutral,0.0
+2026-08-22 02:03:44,"Amazon stock price ended at $258.63 on Friday, after losing 0.569% - StockInvest.us",AMZN,Google RSS,negative,-0.9514603018760681
+2026-08-21 19:45:00,"Netflix Is Down 40% From Its All-Time High. With No More Subscriber Numbers to Hide Behind, Is the Stock Still a Good Value? - Currently.com",NFLX,Google RSS,negative,-0.9590770602226257
+2026-08-21 10:12:44,"217,673 Shares in Netflix, Inc. $NFLX Purchased by Sycale Advisors NY LLC - MarketBeat",NFLX,Google RSS,neutral,0.0
+2026-08-21 07:10:11,"Advisors Preferred LLC Buys New Shares in Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
