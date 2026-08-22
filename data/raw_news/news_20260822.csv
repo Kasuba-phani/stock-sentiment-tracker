@@ -1,0 +1,33 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-08-21 22:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,AAPL,Yahoo RSS,neutral,0.0
+2026-08-19 16:10:00,"Dow Jones Tech Titan Alphabet Offers New Buy Point, But These Key Flaws Remain - Investor's Business Daily",GOOGL,Google RSS,neutral,0.0
+2026-08-18 13:28:40,Why tech stock bulls may not shake this AI problem,GOOGL,Yahoo RSS,neutral,0.0
+2026-08-19 19:50:49,Did Treasury Secretary Scott Bessent Just Save the Bond Market? Probably Not — Here’s What Traders Need to Know.,GOOGL,Yahoo RSS,neutral,0.0
+2026-08-19 14:08:46,There's 'light at the end of the tunnel' for tech stocks amid bond rout: Eric Jackson,GOOGL,Yahoo RSS,neutral,0.0
+2026-08-17 16:13:33,Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout - CNBC,AMZN,Google RSS,neutral,0.0
+2026-08-21 22:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,AMZN,Yahoo RSS,neutral,0.0
+2026-08-21 21:06:40,Microsoft Stock Forecast: MSFT May Break $570 as Azure Growth Holds at 40% - TradingKey,MSFT,Google RSS,negative,-0.46297726035118103
+2026-08-21 20:24:35,Moody’s affirms Microsoft stock Aaa rating; outlook stable By Investing.com - Investing.com Nigeria,MSFT,Google RSS,neutral,0.0
+2026-08-18 19:11:00,These Telltale Signs Cue Microsoft Investors Despite Earnings Surge; Is Microsoft A Sell Now? - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
+2026-08-15 22:33:46,Microsoft Stock Leads 3 AI Stocks Backed By Real Revenue And Heavy Demand - simplywall.st,MSFT,Google RSS,positive,0.5925524234771729
+2026-08-21 22:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,MSFT,Yahoo RSS,neutral,0.0
+2026-08-21 19:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
+2026-08-21 09:08:19,NVIDIA Corporation $NVDA Stock Position Lessened by Wealthcare Advisory Partners LLC - MarketBeat,NVDA,Google RSS,negative,-0.572563886642456
+2026-08-21 11:04:56,"Nvidia Analysts See New Growth Drivers Ahead Of Earnings, From Blackwell Ultra To $20B Vera Opportunity - Stocktwits",NVDA,Google RSS,positive,0.9300092458724976
+2026-08-21 12:01:09,Nvidia Vs Micron: Among The Best-Positioned AI Plays as Treasury Yields Spook The Market - 24/7 Wall St.,NVDA,Google RSS,positive,0.4954698085784912
+2026-08-19 10:03:51,Stifel reiterates Nvidia stock rating ahead of earnings report - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-08-20 13:35:00,A Famed Billionaire Tech Investor Just Sold Nvidia Shares to Buy These 2 AI Chip Stocks - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-08-19 14:37:10,Why Falling AI Prices Could Be Good News for Nvidia Stock - Benzinga,NVDA,Google RSS,positive,0.5405582785606384
+2026-08-21 12:17:00,Morgan Stanley reiterates Nvidia rating and stock price target ahead of earnings,NVDA,Bing RSS,neutral,0.0
+2026-08-21 22:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,NVDA,Yahoo RSS,neutral,0.0
+2026-08-21 22:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,TSLA,Yahoo RSS,neutral,0.0
+2026-08-21 21:48:44,"US Stock Indices End Week Lower On Pressure From Elevated Long-Duration Treasury Yields — PSKY, MSTR, WMT, TSLA, NVDA In Focus",TSLA,Yahoo RSS,negative,-0.945205807685852
+2026-08-18 20:00:56,Why Meta (NASDAQ:META) Stock Is Falling Today as Its $1.4 Trillion Child-Safety Trial Begins - Stocks Down Under,META,Google RSS,negative,-0.971515953540802
+2026-08-21 22:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,META,Yahoo RSS,neutral,0.0
+2026-08-21 20:01:50,"Netflix Is Down 40% From Its All-Time High. With No More Subscriber Numbers to Hide Behind, Is the Stock Still a Good Value? - The Motley Fool",NFLX,Google RSS,negative,-0.9593236446380615
+2026-08-21 20:03:27,"Netflix Is Down 40% From Its All-Time High. With No More Subscriber Numbers to Hide Behind, Is the Stock Still a Good Value? - AOL.com",NFLX,Google RSS,negative,-0.9494063258171082
+2026-08-17 15:43:38,Why Is Netflix Stock Falling on Monday? - Benzinga,NFLX,Google RSS,negative,-0.7127759456634521
+2026-08-21 08:10:14,"Advisors Capital Management LLC Acquires Shares of 452,890 Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
+2026-08-21 19:45:00,"Netflix Is Down 40% From Its All-Time High. With No More Subscriber Numbers to Hide Behind, Is the Stock Still a Good Value?",NFLX,Yahoo RSS,negative,-0.9549299478530884
+2026-08-18 11:46:11,"Stocks making the biggest moves premarket: Home Depot, Tesla, Fabrinet, Duolingo & more",TSLA,CNBC Finance,neutral,0.0
+2026-08-17 17:44:56,Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout,AMZN,CNBC Finance,neutral,0.0
