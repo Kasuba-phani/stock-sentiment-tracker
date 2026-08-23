@@ -34,4 +34,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-22 23:52:00,Microsoft CEO Satya Nadella’s compensation rises with AI and cloud growth,MSFT,Bing RSS,negative,-0.7404278516769409
 2026-08-23 07:37:40,NVIDIA Corporation $NVDA Stock Position Decreased by Canvas Wealth Advisors LLC - MarketBeat,NVDA,Google RSS,negative,-0.9158638119697572
 2026-08-23 07:23:45,"Benchmark Investment Advisors LLC Acquires New Shares in Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
-2026-08-23 08:45:56,Hudson Value Partners LLC Boosts Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,positive,0.9264350533485413
+2026-08-23 08:45:56,Hudson Value Partners LLC Boosts Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,positive,0.9264350533485411
+2026-08-21 12:17:00,Morgan Stanley reiterates Nvidia rating and stock price target ahead of earnings,NVDA,Bing RSS,neutral,0.0
