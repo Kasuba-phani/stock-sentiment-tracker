@@ -5,7 +5,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-19 19:50:49,Did Treasury Secretary Scott Bessent Just Save the Bond Market? Probably Not — Here’s What Traders Need to Know.,GOOGL,Yahoo RSS,neutral,0.0
 2026-08-19 14:08:46,There's 'light at the end of the tunnel' for tech stocks amid bond rout: Eric Jackson,GOOGL,Yahoo RSS,neutral,0.0
 2026-08-17 16:13:33,Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout - CNBC,AMZN,Google RSS,neutral,0.0
-2026-08-22 02:03:44,"Amazon stock price ended at $258.63 on Friday, after losing 0.569% - StockInvest.us",AMZN,Google RSS,negative,-0.9514603018760681
+2026-08-22 02:03:44,"Amazon stock price ended at $258.63 on Friday, after losing 0.569% - StockInvest.us",AMZN,Google RSS,negative,-0.951460301876068
 2026-08-21 22:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,AMZN,Yahoo RSS,neutral,0.0
 2026-08-18 19:11:00,These Telltale Signs Cue Microsoft Investors Despite Earnings Surge; Is Microsoft A Sell Now? - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
 2026-08-21 20:24:35,Moody’s affirms Microsoft stock Aaa rating; outlook stable By Investing.com - Investing.com Nigeria,MSFT,Google RSS,neutral,0.0
@@ -17,13 +17,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-23 00:37:23,Nvidia And 2 AI Infrastructure Stocks With Fast Growth And High Insider Ownership - simplywall.st,NVDA,Google RSS,neutral,0.0
 2026-08-23 00:13:37,Nvidia Earnings & Jackson Hole: Will AI Stocks Survive Rising Rates? - Intellectia AI,NVDA,Google RSS,neutral,0.0
 2026-08-21 22:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,TSLA,Yahoo RSS,neutral,0.0
-2026-08-21 21:48:44,"US Stock Indices End Week Lower On Pressure From Elevated Long-Duration Treasury Yields — PSKY, MSTR, WMT, TSLA, NVDA In Focus",TSLA,Yahoo RSS,negative,-0.9452056884765625
+2026-08-21 21:48:44,"US Stock Indices End Week Lower On Pressure From Elevated Long-Duration Treasury Yields — PSKY, MSTR, WMT, TSLA, NVDA In Focus",TSLA,Yahoo RSS,negative,-0.9452056884765624
 2026-08-18 20:00:56,Why Meta (NASDAQ:META) Stock Is Falling Today as Its $1.4 Trillion Child-Safety Trial Begins - Stocks Down Under,META,Google RSS,negative,-0.9715160727500916
 2026-08-20 08:43:08,Meta stock sinks 3.8% as bearish trend meets fading momentum - The Cryptonomist,META,Google RSS,negative,-0.9545277953147888
 2026-08-21 22:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings,META,Yahoo RSS,neutral,0.0
 2026-08-21 20:25:00,"Netflix Is Down 40% From Its All-Time High. With No More Subscriber Numbers to Hide Behind, Is the Stock Still a Good Value? - The Motley Fool",NFLX,Google RSS,negative,-0.959323525428772
 2026-08-17 15:43:38,Why Is Netflix Stock Falling on Monday? - Benzinga,NFLX,Google RSS,negative,-0.7127761840820312
-2026-08-21 19:45:00,"Netflix Is Down 40% From Its All-Time High. With No More Subscriber Numbers to Hide Behind, Is the Stock Still a Good Value? - Currently.com",NFLX,Google RSS,negative,-0.9590770602226257
+2026-08-21 19:45:00,"Netflix Is Down 40% From Its All-Time High. With No More Subscriber Numbers to Hide Behind, Is the Stock Still a Good Value? - Currently.com",NFLX,Google RSS,negative,-0.9590770602226256
 2026-08-21 08:10:14,"Advisors Capital Management LLC Acquires Shares of 452,890 Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
 2026-08-21 07:10:11,"Advisors Preferred LLC Buys New Shares in Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
 2026-08-21 19:45:00,"Netflix Is Down 40% From Its All-Time High. With No More Subscriber Numbers to Hide Behind, Is the Stock Still a Good Value?",NFLX,Yahoo RSS,negative,-0.9549299478530884
