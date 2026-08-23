@@ -41,3 +41,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-23 05:24:00,Microsoft stock dropped 30% from its all-time high: 2 reasons it could double by 2030,MSFT,Bing RSS,negative,-0.975317120552063
 2026-08-23 08:45:00,"Trump Made Big Stock Trades In SpaceX, Palantir And Tech Companies In June",AAPL,Bing RSS,positive,0.7280840873718262
 2026-08-23 18:00:00,"Nvidia, Fed Confab, Inflation, GDP, and More to Watch This Week",NVDA,Yahoo RSS,neutral,0.0
+2026-08-23 08:45:00,"Trump Made Big Stock Trades In SpaceX, Palantir And Tech Companies In June",MSFT,Bing RSS,positive,0.7280846238136292
+2026-08-23 16:05:52,Nvidia Earnings & Jackson Hole: AI Stocks Face Fed Rate Test August 2026 - Intellectia AI,NVDA,Google RSS,neutral,0.0
+2026-08-23 05:57:00,Tesla TSLA stock prediction: $500 bull vs $250 bear,TSLA,Bing RSS,neutral,0.0
