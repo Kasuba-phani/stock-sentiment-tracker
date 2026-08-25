@@ -35,4 +35,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-25 05:19:52,"Apple supplier Luxshare jumps on upbeat first-half earnings, outlook - Investing.com",AAPL,Google RSS,positive,0.899362325668335
 2026-08-24 06:45:20,Microsoft stock consolidates after AI-driven earnings surge - Ad-hoc-news.de,MSFT,Google RSS,negative,-0.7660069465637207
 2026-08-21 14:28:25,Microsoft raises dividend to $0.91 amid a $116B surge in cloud and AI spending. - Pluang,MSFT,Google RSS,positive,0.8044950366020203
-2026-08-25 04:21:32,Asian stocks fall as tech jitters deepen ahead of Nvidia earnings - Investing.com,NVDA,Google RSS,negative,-0.9300393462181091
+2026-08-25 04:21:32,Asian stocks fall as tech jitters deepen ahead of Nvidia earnings - Investing.com,NVDA,Google RSS,negative,-0.9300393462181092
+2026-08-25 06:17:35,AI Stocks To Watch As Business Spending Stays Strong in 2026,MSFT,Yahoo RSS,positive,0.7553722262382507
+2026-08-25 02:56:00,Citi renews Nvidia stock forecast ahead of earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
+2026-08-25 06:17:35,AI Stocks To Watch As Business Spending Stays Strong in 2026,NVDA,Yahoo RSS,positive,0.7553722262382507
