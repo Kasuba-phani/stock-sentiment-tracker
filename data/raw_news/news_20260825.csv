@@ -66,4 +66,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-25 10:37:10,"U.S. stock futures rise as investors await Nvidia results, inflation data By Investing.com - Investing.com",NVDA,Google RSS,neutral,0.0
 2026-08-25 10:56:04,"Stock futures rise as investors await Nvidia earnings, inflation report due later this week - CNBC",NVDA,Google RSS,neutral,0.0
 2026-08-25 03:59:00,"Stock Market Today (Aug. 25, 2026): S&P 500 futures climb ahead of Nvidia earnings, Fed symposium",NVDA,Bing RSS,positive,0.8243999481201172
-2026-08-25 11:02:58,"Easing Bond Yields, Oil Prices Lift Wall Street Pre-Bell; Asia, Europe Up",NVDA,Yahoo RSS,positive,0.9303984045982361
+2026-08-25 11:02:58,"Easing Bond Yields, Oil Prices Lift Wall Street Pre-Bell; Asia, Europe Up",NVDA,Yahoo RSS,positive,0.930398404598236
+2026-08-25 05:15:27,Nvidia stock is on a 7-day losing streak ahead of its big earnings report,NVDA,Bing RSS,negative,-0.9715619683265686
+2026-08-25 12:41:36,"Falling, Falling, Falling: Why One of Wall Street’s Biggest Ratings Agencies Expects Bloom Energy to Explode 70% Higher",NVDA,Yahoo RSS,neutral,0.0
+2026-08-25 12:06:15,"Stock Market Today: Dow Rises As Treasury Yields Fall; Nvidia, Micron, Sandisk Rally (Live Coverage)",NVDA,Yahoo RSS,negative,-0.7654450535774231
+2026-08-25 11:30:00,UBS says Fed unlikely to raise rates despite housing pressures and AI investment,META,Yahoo RSS,positive,0.8007955551147461
+2026-08-25 08:05:27,"Stock market today: Dow, S&P 500, Nasdaq futures gain in countdown to Nvidia earnings, Fed Jackson Hole summit",NVDA,Yahoo Global,positive,0.8354305028915405
