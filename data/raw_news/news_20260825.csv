@@ -45,4 +45,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-25 00:30:06,"Tesla’s $5,000 Cybertruck price hike sparks a bigger question: Is demand really strong?",TSLA,Bing RSS,neutral,0.0
 2026-08-21 07:10:11,"Advisors Preferred LLC Buys New Shares in Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
 2026-08-24 05:19:45,Netflix stock holds below $80 as Q2 2026 growth meets guidance but consensus stays bullish - Ad-hoc-news.de,NFLX,Google RSS,negative,-0.7728756070137024
-2026-08-24 14:11:00,Netflix (NASDAQ: NFLX) Stock Price Drops 34% But Remains A Top Growth Stock Pick For Investors - foreignpolicyjournal.com,NFLX,Google RSS,negative,-0.9566691517829895
+2026-08-24 14:11:00,Netflix (NASDAQ: NFLX) Stock Price Drops 34% But Remains A Top Growth Stock Pick For Investors - foreignpolicyjournal.com,NFLX,Google RSS,negative,-0.9566691517829896
+2026-08-25 08:11:46,3 S&P 500 Stocks for Long-Term Investors - StockStory,GOOGL,Google RSS,neutral,0.0
+2026-08-25 08:02:03,"Is the era of surging gains over? Ahead of NVIDIA's earnings report, the options market signals a ""cautious"" outlook - Moomoo",NVDA,Google RSS,negative,-0.6903898119926453
+2026-08-25 08:13:19,"Stock futures edge higher as as Nvidia results, inflation data loom (SPX:) - Seeking Alpha",NVDA,Google RSS,positive,0.8626624345779419
+2026-08-25 07:36:47,"Nasdaq futures rise as investors brace for Nvidia results, Fed signals By Investing.com - Investing.com",NVDA,Google RSS,neutral,0.0
+2026-08-25 08:05:27,"Stock market today: S&P 500, Nasdaq futures recover in countdown to Nvidia earnings, Fed Jackson Hole summit",NVDA,Yahoo RSS,positive,0.8002729415893555
+2026-08-25 07:24:15,"Tesla’s $5,000 Cybertruck Price Hike Sparks A Bigger Question: Is Demand Really Strong?",TSLA,Yahoo RSS,neutral,0.0
