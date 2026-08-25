@@ -77,9 +77,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-25 12:06:00,"Stock Market Today: Dow Rises As Treasury Yields Fall; Nvidia, Micron, Sandisk Rally (Live Coverage) - Investor's Business Daily",NVDA,Google RSS,negative,-0.6522108912467957
 2026-08-25 13:35:43,"Wall St opens higher as tech stocks rebound before Nvidia results, data - Reuters",NVDA,Google RSS,positive,0.5156902074813843
 2026-08-25 12:32:06,"U.S. economic offense, Lego's record revenue, Nvidia's losing streak and more in Morning Squawk - CNBC",NVDA,Google RSS,negative,-0.7101724743843079
-2026-08-25 12:44:07,"US stock futures rise on tech rebound before Nvidia results, inflation data - KITCO",NVDA,Google RSS,positive,0.45560091733932495
+2026-08-25 12:44:07,"US stock futures rise on tech rebound before Nvidia results, inflation data - KITCO",NVDA,Google RSS,positive,0.4556009173393249
 2026-08-25 06:38:00,"Stock Market Today (Aug. 25, 2026): Dow climbs ahead of Nvidia earnings, Fed symposium",NVDA,Bing RSS,positive,0.8877207040786743
 2026-08-25 02:50:00,Dow gains 155 points at open as AI stocks surge ahead of Nvidia earnings,NVDA,Bing RSS,positive,0.8497162461280823
 2026-08-25 13:52:58,Investors rotate into tech stocks as inflation concerns ease: AlphaCheck,NVDA,Yahoo RSS,neutral,0.0
 2026-08-25 13:50:50,Broadcom Vs. Micron: Why They’re So Strong as Capital Shifts to Inference and Agentic AI,NVDA,Yahoo RSS,neutral,0.0
-2026-08-25 13:39:08,"Netflix engagement data points to stronger results ahead, Wolfe says By Investing.com - Investing.com Nigeria",NFLX,Google RSS,positive,0.9244218468666077
+2026-08-25 13:39:08,"Netflix engagement data points to stronger results ahead, Wolfe says By Investing.com - Investing.com Nigeria",NFLX,Google RSS,positive,0.9244218468666076
+2026-08-25 14:26:31,Top Investors Name 5 AI Stocks That Could Win No Matter Which Model Leads,AMZN,Yahoo RSS,neutral,0.0
+2026-08-25 14:26:31,Top Investors Name 5 AI Stocks That Could Win No Matter Which Model Leads,MSFT,Yahoo RSS,neutral,0.0
+2026-08-25 14:18:00,Bet on These 5 Dividend Growth Stocks Ahead of NVIDIA's Q2 Earnings Report,NVDA,Yahoo RSS,neutral,0.0
+2026-08-25 14:16:42,"Stock Market Today: Nasdaq Charges Higher As Treasury Yields Fall; Nvidia, Micron, Sandisk Rally (Live Coverage)",NVDA,Yahoo RSS,negative,-0.6975211501121521
+2026-08-25 14:26:31,Top Investors Name 5 AI Stocks That Could Win No Matter Which Model Leads,NVDA,Yahoo RSS,neutral,0.0
+2026-08-25 13:12:23,"Netflix engagement data points to stronger results ahead, Wolfe says",NFLX,Yahoo RSS,positive,0.9538634419441223
