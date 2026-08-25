@@ -32,3 +32,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-25 03:28:28,"S&P 500, Nasdaq, Dow Futures Mixed As Nvidia Earnings, Fed Signals, PCE Inflation Keep Markets On Edge This Week",NVDA,Yahoo RSS,negative,-0.9211170077323914
 2026-08-23 05:57:00,Tesla TSLA stock prediction: $500 bull vs $250 bear,TSLA,Bing RSS,neutral,0.0
 2026-08-23 18:00:00,"Nvidia, Fed Confab, Inflation, GDP, and More to Watch This Week",NVDA,Yahoo Global,neutral,0.0
+2026-08-25 05:19:52,"Apple supplier Luxshare jumps on upbeat first-half earnings, outlook - Investing.com",AAPL,Google RSS,positive,0.899362325668335
+2026-08-24 06:45:20,Microsoft stock consolidates after AI-driven earnings surge - Ad-hoc-news.de,MSFT,Google RSS,negative,-0.7660069465637207
+2026-08-21 14:28:25,Microsoft raises dividend to $0.91 amid a $116B surge in cloud and AI spending. - Pluang,MSFT,Google RSS,positive,0.8044950366020203
+2026-08-25 04:21:32,Asian stocks fall as tech jitters deepen ahead of Nvidia earnings - Investing.com,NVDA,Google RSS,negative,-0.9300393462181091
