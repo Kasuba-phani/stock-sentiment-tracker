@@ -101,3 +101,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-25 14:54:01,Mark Zuckerberg Says Personal AI Will Be the Future. Here Are 2 Stocks That Could Benefit,NVDA,Yahoo RSS,neutral,0.0
 2026-08-25 15:01:25,Mark Zuckerberg Says Personal AI Will Be the Future. Here Are 2 Stocks That Could Benefit - The Motley Fool,META,Google RSS,neutral,0.0
 2026-08-25 14:54:01,Mark Zuckerberg Says Personal AI Will Be the Future. Here Are 2 Stocks That Could Benefit,META,Yahoo RSS,neutral,0.0
+2026-08-25 16:02:00,"Stock Market Today: Dow and S&P 500 edge higher, chip stocks jump a day ahead of Nvidia results and inflation data; global oil prices below $88 a barrel - MarketWatch",NVDA,Google RSS,negative,-0.6229609847068787
+2026-08-25 15:53:18,"Wall St recovers as tech bounces back before Nvidia results, inflation data - Reuters",NVDA,Google RSS,neutral,0.0
+2026-08-25 09:29:00,"Stock Market Today (Aug. 25, 2026): S&P 500 climbs ahead of Nvidia earnings, Fed symposium",META,Bing RSS,positive,0.8645462989807129
