@@ -114,8 +114,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-25 19:17:28,Gold’s Best Month Since January Comes Courtesy of Scott Bessent,NVDA,Yahoo RSS,positive,0.85821932554245
 2026-08-25 20:01:08,"Microsoft stock jumps 28% in a month on strong earnings and cloud growth, eyeing $600 target. - Pluang",MSFT,Google RSS,positive,0.9264759421348572
 2026-08-25 19:40:52,Microsoft Stalls as $678 Billion Backlog Meets Falling Yields,MSFT,Yahoo RSS,negative,-0.6754540801048279
-2026-08-25 19:12:00,"Stock Market Today: Dow and S&P 500 edge higher, chip stocks jump a day ahead of Nvidia results and inflation data; global oil prices dip below $88 a barrel - MarketWatch",NVDA,Google RSS,negative,-0.48844122886657715
-2026-08-25 18:36:17,"Wall Street rises as tech bounces back before Nvidia results, bond yields drop - Reuters",NVDA,Google RSS,negative,-0.9336104989051819
+2026-08-25 19:12:00,"Stock Market Today: Dow and S&P 500 edge higher, chip stocks jump a day ahead of Nvidia results and inflation data; global oil prices dip below $88 a barrel - MarketWatch",NVDA,Google RSS,negative,-0.4884412288665771
+2026-08-25 18:36:17,"Wall Street rises as tech bounces back before Nvidia results, bond yields drop - Reuters",NVDA,Google RSS,negative,-0.933610498905182
 2026-08-25 06:50:00,Nvidia stock hopes to snap seven-day losing streak ahead of earnings,NVDA,Bing RSS,negative,-0.7641253471374512
 2026-08-25 03:43:15,"Stock market today (Aug. 25, 2026): Dow climbs ahead of Nvidia earnings, Fed symposium",NVDA,Bing RSS,positive,0.8877202868461609
 2026-08-25 20:07:00,Options traders are betting on the quietest Nvidia earnings reaction in years. It could be an opportunity for AI bulls.,NVDA,MarketWatch Top,neutral,0.0
+2026-08-25 04:40:07,Amazon Stock Is Up 13% in a Month — How Much Upside Do Analysts See Now? - TipRanks,AMZN,Google RSS,positive,0.5405542850494385
+2026-08-25 20:48:00,"Futures: Inflation Data, Nvidia Due; Stocks Rise As Oil, Yields Fall - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-08-25 20:17:00,"Stock Market News, Aug.25, 2026: Dow ends up 160 points, S&P 500 and Nasdaq finish higher; chip stocks jump a day ahead of Nvidia results and PCE inflation data; global oil prices dip below $88 a barrel - MarketWatch",NVDA,Google RSS,positive,0.7690337896347046
+2026-08-25 10:07:52,"US stock futures rise on tech rebound before Nvidia, inflation tests - WTVB",NVDA,Google RSS,positive,0.4477351903915405
+2026-08-25 21:13:06,"Update: US Equity Indexes Rise With Tech While Treasury Yields, Crude Oil Slide as Process to Tighten Noose Around Iran Begins",NVDA,Yahoo RSS,negative,-0.8261641263961792
+2026-08-25 21:09:24,"Dow Jones Futures: Stocks Rise Cautiously Into Fed Inflation Data, Nvidia Earnings; Robinhood In Buy Area",NVDA,Yahoo RSS,positive,0.8216650485992432
+2026-08-24 13:17:15,"U.S. Stocks Set for Cautious Open Ahead of Nvidia Earnings and Jackson Hole: Dow Jones, S&P, Nasdaq, Wall Street Futures",NVDA,Yahoo Global,neutral,0.0
