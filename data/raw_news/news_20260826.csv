@@ -103,3 +103,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-26 08:18:34,"Stock market today: Dow, S&P 500 futures hold steady ahead of inflation data, Nvidia earnings",NVDA,Yahoo Global,neutral,0.0
 2026-08-26 12:00:11,"Dow Jones Futures Await Inflation Data, Nvidia Earnings; Robinhood In Buy Area",NVDA,Yahoo Global,neutral,0.0
 2026-08-26 11:45:33,"World stocks inch up as oil drops on Hormuz hopes ahead of data, Nvidia results",NVDA,Yahoo Global,negative,-0.859704315662384
+2026-08-26 14:15:58,Stocks in holding pattern ahead of Nvidia earnings: AlphaCheck,MSFT,Yahoo RSS,neutral,0.0
+2026-08-26 11:39:47,Nvidia under pressure after stock's unusual 7-day losing streak - Axios,NVDA,Google RSS,negative,-0.9335139989852905
+2026-08-26 13:31:00,Stock market inches down as investors digest economic reports; eyes on Nvidia results (DJI:) - Seeking Alpha,NVDA,Google RSS,negative,-0.9082286953926086
+2026-08-26 14:15:58,Stocks in holding pattern ahead of Nvidia earnings: AlphaCheck,NVDA,Yahoo RSS,neutral,0.0
+2026-08-26 12:48:55,"4 Stocks to watch on Wednesday: META, KHC, NVDA and ORCL (SP500:) - Seeking Alpha",META,Google RSS,neutral,0.0
+2026-08-26 14:15:58,Stocks in holding pattern ahead of Nvidia earnings: AlphaCheck,META,Yahoo RSS,neutral,0.0
+2026-08-26 08:18:34,"Stock market today: Dow, S&P 500, Nasdaq slide as PCE inflation stays sticky, Nvidia earnings loom",NVDA,Yahoo Global,negative,-0.9350201487541199
