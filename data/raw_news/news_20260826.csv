@@ -120,7 +120,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-26 09:20:00,"CoreWeave: AI Demand Outstrips Supply, Yet The Stock Isn't A Buy",NVDA,Bing RSS,neutral,0.0
 2026-08-26 16:15:00,My 2 Favorite Dividend Stocks to Buy in August,NVDA,Yahoo RSS,neutral,0.0
 2026-08-26 08:18:34,"Stock market today: Dow, S&P 500, Nasdaq slip as PCE inflation stays sticky, Nvidia earnings loom",NVDA,Yahoo Global,negative,-0.9469362497329712
-2026-08-26 10:51:00,Alphabet stock dips Wednesday as investors weigh AI spending against cloud growth,GOOGL,Bing RSS,negative,-0.9408062696456909
+2026-08-26 10:51:00,Alphabet stock dips Wednesday as investors weigh AI spending against cloud growth,GOOGL,Bing RSS,negative,-0.9408062696456908
 2026-08-26 16:42:22,Home Depot Stock's Upside Case Now Runs Through A Business It Bought,AMZN,Yahoo RSS,neutral,0.0
 2026-08-26 17:32:00,HUBS Gains From Strong Subscription Growth: Can the Momentum Continue?,MSFT,Yahoo RSS,positive,0.8073070645332336
 2026-08-26 16:21:01,Looking ahead to Nvidia earnings tonight: Investor's investment strategy - CNBC,NVDA,Google RSS,neutral,0.0
@@ -129,3 +129,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-26 11:42:00,"Stock Market Today (Aug. 26, 2026): S&P 500 flat ahead of Nvidia earnings",NVDA,Bing RSS,negative,-0.912617027759552
 2026-08-26 18:35:00,There Are Only a Handful of S&P 500 Stocks That Yield Over 5%. Here's My Top Pick to Buy Before the End of August.,NVDA,Yahoo RSS,neutral,0.0
 2026-08-26 17:23:53,Stock Traders Purchase High Volume of Direxion Daily META Bull 2X Shares Call Options (NASDAQ:METU) - MarketBeat,META,Google RSS,neutral,0.0
+2026-08-26 17:43:21,Microsoft posts record $331B revenue but shares flat; $650 target seen by 2028 with strong Azure growth key. - Pluang,MSFT,Google RSS,positive,0.5498858094215393
+2026-08-26 22:50:54,Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters,NVDA,Google RSS,negative,-0.9542558193206787
+2026-08-26 20:48:37,"Nvidia shares slide slightly despite Q2 beat, top tech analysts weigh in - CNBC",NVDA,Google RSS,negative,-0.9249265193939209
+2026-08-26 22:06:51,Nvidia stock jumps after early dip following results; AI fever is unabated - Reuters,NVDA,Google RSS,neutral,0.0
+2026-08-26 20:06:16,US stock markets close near flat ahead of Nvidia earnings - investingLive,NVDA,Google RSS,negative,-0.6185447573661804
+2026-08-26 22:11:54,Nvidia results: Stocks surge on $108bn outlook - FXStreet,NVDA,Google RSS,positive,0.761629581451416
+2026-08-26 21:27:00,"US stocks close lower as sticky inflation, Nvidia earnings weigh on sentiment - Anadolu Ajansı",NVDA,Google RSS,negative,-0.9425370693206787
+2026-08-25 23:37:00,Nvidia Stock Turns Higher on Strong 2028 Outlook,NVDA,Bing RSS,positive,0.9374819397926331
+2026-08-26 03:43:09,"Stock market today (Aug. 26, 2026): S&P 500 futures edge lower ahead Nvidia earnings",NVDA,Bing RSS,negative,-0.9664095640182495
