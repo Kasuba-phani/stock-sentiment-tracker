@@ -5,7 +5,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-19 19:50:49,Did Treasury Secretary Scott Bessent Just Save the Bond Market? Probably Not — Here’s What Traders Need to Know.,GOOGL,Yahoo RSS,neutral,0.0
 2026-08-19 14:08:46,There's 'light at the end of the tunnel' for tech stocks amid bond rout: Eric Jackson,GOOGL,Yahoo RSS,neutral,0.0
 2026-08-25 04:40:07,Amazon Stock Is Up 13% in a Month — How Much Upside Do Analysts See Now? - TipRanks,AMZN,Google RSS,positive,0.5405547022819519
-2026-08-22 02:03:44,"Amazon stock price ended at $258.63 on Friday, after losing 0.569% - StockInvest.us",AMZN,Google RSS,negative,-0.9514602422714233
+2026-08-22 02:03:44,"Amazon stock price ended at $258.63 on Friday, after losing 0.569% - StockInvest.us",AMZN,Google RSS,negative,-0.9514602422714232
 2026-08-24 14:44:42,22 New 4-Star Stocks This Week - Morningstar,AMZN,Google RSS,neutral,0.0
 2026-08-25 12:57:53,"‘There Are Signals,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
 2026-08-26 01:34:47,Microsoft Stock And 2 AI Infrastructure Picks Retail Investors Are Watching - simplywall.st,MSFT,Google RSS,neutral,0.0
@@ -30,10 +30,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-26 00:02:57,"S&P 500, Dow, Nasdaq Futures Rangebound As Investors Await Nvidia Earnings, Key Inflation Reading — MRNA, SPCX, PSKY, OpenAI In Focus",NVDA,Yahoo RSS,neutral,0.0
 2026-08-26 00:53:57,Stronger technical forecast for Tesla stock price after Tuesday trading - StockInvest.us,TSLA,Google RSS,positive,0.5122296214103699
 2026-08-25 15:34:00,Mark Zuckerberg Says Personal AI Will Be the Future. Here Are 2 Stocks That Could Benefit - The Motley Fool,META,Google RSS,neutral,0.0
-2026-08-21 20:25:00,"Netflix Is Down 40% From Its All-Time High. With No More Subscriber Numbers to Hide Behind, Is the Stock Still a Good Value? - The Motley Fool",NFLX,Google RSS,negative,-0.9593236446380615
-2026-08-25 14:36:12,"Netflix engagement data points to stronger results ahead, Wolfe says By Investing.com - Investing.com Nigeria",NFLX,Google RSS,positive,0.9244218468666077
+2026-08-21 20:25:00,"Netflix Is Down 40% From Its All-Time High. With No More Subscriber Numbers to Hide Behind, Is the Stock Still a Good Value? - The Motley Fool",NFLX,Google RSS,negative,-0.9593236446380616
+2026-08-25 14:36:12,"Netflix engagement data points to stronger results ahead, Wolfe says By Investing.com - Investing.com Nigeria",NFLX,Google RSS,positive,0.9244218468666076
 2026-08-23 07:23:45,"Benchmark Investment Advisors LLC Acquires New Shares in Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
-2026-08-24 14:11:00,Netflix (NASDAQ: NFLX) Stock Price Drops 34% But Remains A Top Growth Stock Pick For Investors - foreignpolicyjournal.com,NFLX,Google RSS,negative,-0.9566691517829895
-2026-08-25 13:12:23,"Netflix engagement data points to stronger results ahead, Wolfe says",NFLX,Yahoo RSS,positive,0.9538634419441223
+2026-08-24 14:11:00,Netflix (NASDAQ: NFLX) Stock Price Drops 34% But Remains A Top Growth Stock Pick For Investors - foreignpolicyjournal.com,NFLX,Google RSS,negative,-0.9566691517829896
+2026-08-25 13:12:23,"Netflix engagement data points to stronger results ahead, Wolfe says",NFLX,Yahoo RSS,positive,0.9538634419441224
 2026-08-24 16:09:51,Is Netflix (NFLX) Trading At A Discount Despite Strong Cash Flow?,NFLX,Yahoo RSS,neutral,0.0
 2026-08-24 12:18:11,Is Netflix (NFLX) Facing a Growth Slowdown After Its Strong First Quarter?,NFLX,Yahoo RSS,negative,-0.9408491253852844
+2026-08-26 01:05:30,"Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates - CNBC",NVDA,Google RSS,neutral,0.0
+2026-08-26 03:07:00,"Dow Jones Futures: Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-08-26 01:07:31,Nvidia Earnings on August 26: What History Tells Us About Nvidia Stock's Post-Earnings-Release Moves - The Globe and Mail,NVDA,Google RSS,neutral,0.0
+2026-08-24 20:43:00,Nvidia just sent a huge signal to investors ahead of earnings,NVDA,Bing RSS,positive,0.6052801012992859
+2026-08-26 02:39:53,Stocks edge higher as oil drops on fresh Mideast hopes,NVDA,Yahoo RSS,negative,-0.7511570453643799
