@@ -104,9 +104,19 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-26 12:00:11,"Dow Jones Futures Await Inflation Data, Nvidia Earnings; Robinhood In Buy Area",NVDA,Yahoo Global,neutral,0.0
 2026-08-26 11:45:33,"World stocks inch up as oil drops on Hormuz hopes ahead of data, Nvidia results",NVDA,Yahoo Global,negative,-0.859704315662384
 2026-08-26 14:15:58,Stocks in holding pattern ahead of Nvidia earnings: AlphaCheck,MSFT,Yahoo RSS,neutral,0.0
-2026-08-26 11:39:47,Nvidia under pressure after stock's unusual 7-day losing streak - Axios,NVDA,Google RSS,negative,-0.9335139989852905
+2026-08-26 11:39:47,Nvidia under pressure after stock's unusual 7-day losing streak - Axios,NVDA,Google RSS,negative,-0.9335139989852904
 2026-08-26 13:31:00,Stock market inches down as investors digest economic reports; eyes on Nvidia results (DJI:) - Seeking Alpha,NVDA,Google RSS,negative,-0.9082286953926086
 2026-08-26 14:15:58,Stocks in holding pattern ahead of Nvidia earnings: AlphaCheck,NVDA,Yahoo RSS,neutral,0.0
 2026-08-26 12:48:55,"4 Stocks to watch on Wednesday: META, KHC, NVDA and ORCL (SP500:) - Seeking Alpha",META,Google RSS,neutral,0.0
 2026-08-26 14:15:58,Stocks in holding pattern ahead of Nvidia earnings: AlphaCheck,META,Yahoo RSS,neutral,0.0
-2026-08-26 08:18:34,"Stock market today: Dow, S&P 500, Nasdaq slide as PCE inflation stays sticky, Nvidia earnings loom",NVDA,Yahoo Global,negative,-0.9350201487541199
+2026-08-26 08:18:34,"Stock market today: Dow, S&P 500, Nasdaq slide as PCE inflation stays sticky, Nvidia earnings loom",NVDA,Yahoo Global,negative,-0.93502014875412
+2026-08-25 16:45:13,Alphabet stock holds strong as Q2 cloud growth and AI demand reshape the outlook - Ad-hoc-news.de,GOOGL,Google RSS,positive,0.9458680748939514
+2026-08-24 16:46:01,Alphabet C stock advances on strong Q2 2026 AI and cloud momentum - Ad-hoc-news.de,GOOGL,Google RSS,positive,0.9367004632949829
+2026-08-25 05:37:42,Alphabet A stock holds above $348 as Q2 2026 AI and cloud surge reshape guidance - Ad-hoc-news.de,GOOGL,Google RSS,positive,0.8991360068321228
+2026-08-26 15:02:54,"Affirm's Fiscal Q4 Setup Strong, 2027 Outlook Could Face Headwinds, Morgan Stanley Says",AMZN,Yahoo RSS,negative,-0.9514783620834351
+2026-08-26 14:32:00,"Stock Market Today: Dow Slips On Inflation; Nvidia Falls Ahead Of Earnings, Abercrombie Soars (Live Coverage) - Investor's Business Daily",NVDA,Google RSS,negative,-0.9308538436889648
+2026-08-26 15:13:35,Stocks Slip Ahead of Nvidia Earnings as Bond Yields Rise - Barchart.com,NVDA,Google RSS,negative,-0.7538862824440002
+2026-08-26 10:39:23,"US stock futures subdued in run-up to Nvidia results, inflation print - KELO-AM",NVDA,Google RSS,negative,-0.8573960065841675
+2026-08-26 09:20:00,"CoreWeave: AI Demand Outstrips Supply, Yet The Stock Isn't A Buy",NVDA,Bing RSS,neutral,0.0
+2026-08-26 16:15:00,My 2 Favorite Dividend Stocks to Buy in August,NVDA,Yahoo RSS,neutral,0.0
+2026-08-26 08:18:34,"Stock market today: Dow, S&P 500, Nasdaq slip as PCE inflation stays sticky, Nvidia earnings loom",NVDA,Yahoo Global,negative,-0.9469362497329712
