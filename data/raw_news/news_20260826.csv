@@ -60,3 +60,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-26 05:00:00,How These 3 Top Funds Deliver ‘Deep Value’ With Fewer Tech Stocks,AMZN,Yahoo RSS,neutral,0.0
 2026-08-26 05:00:00,How These 3 Top Funds Deliver ‘Deep Value’ With Fewer Tech Stocks,MSFT,Yahoo RSS,neutral,0.0
 2026-08-26 06:47:21,Meta Platforms stock edges higher as Q2 2026 spending and AI bets reshape the outlook - Ad-hoc-news.de,META,Google RSS,positive,0.943885087966919
+2026-08-26 07:29:00,"Stock Market Today: Dow, S&P 500 and Nasdaq set for steady start ahead of PCE inflation data as Nvidia, Salesforce and CrowdStrike to report after close - MarketWatch",NVDA,Google RSS,positive,0.7089856863021851
+2026-08-25 12:45:22,"US stock futures rise on tech rebound before Nvidia results, inflation data - KITCO",NVDA,Google RSS,positive,0.45560121536254883
+2026-08-26 06:38:09,"U.S. stock futures dip ahead of PCE inflation, Nvidia results - Investing.com",NVDA,Google RSS,negative,-0.8873488903045654
+2026-08-21 19:17:00,Morgan Stanley resets Nvidia stock forecast ahead of earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
