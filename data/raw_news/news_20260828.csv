@@ -1,5 +1,5 @@
 date,headline,ticker,source,sentiment_label,compound
-2026-08-27 18:31:56,"Apple stock hits all-time high in 2026, up 16% YTD driven by AI product sales and strong earnings. - Pluang",AAPL,Google RSS,positive,0.9525153040885925
+2026-08-27 18:31:56,"Apple stock hits all-time high in 2026, up 16% YTD driven by AI product sales and strong earnings. - Pluang",AAPL,Google RSS,positive,0.9525153040885924
 2026-08-26 09:42:00,"Alphabet, Apple, and Meta Platforms Were Top Billionaire Investor Buys in Q2. Should Retail Investors Follow Suit? - The Motley Fool",AAPL,Google RSS,neutral,0.0
 2026-08-26 09:19:59,Citizens reiterates Alphabet stock rating on cloud growth potential - Investing.com,GOOGL,Google RSS,neutral,0.0
 2026-08-27 11:04:00,Wolfe Research raises Alphabet stock estimates on cloud growth By Investing.com - Investing.com UK,GOOGL,Google RSS,neutral,0.0
@@ -15,24 +15,37 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-28 03:57:01,"Dow Jones Futures Rise With Fed Chief Warsh Due; Nvidia, These 7 Stocks Are In Buy Zones",MSFT,Yahoo RSS,neutral,0.0
 2026-08-28 03:07:00,"Dow Jones Futures Rise With Fed Chief Warsh Due; Nvidia, These 7 Stocks Are In Buy Zones - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
 2026-08-27 08:23:32,Nvidia earnings preview: Jensen Huang under pressure after stock's 7-day losing streak - Axios,NVDA,Google RSS,negative,-0.9072280526161194
-2026-08-27 18:22:40,JPMorgan Chase & Co. Forecasts Strong Price Appreciation for NVIDIA (NASDAQ:NVDA) Stock - MarketBeat,NVDA,Google RSS,positive,0.9433586001396179
+2026-08-27 18:22:40,JPMorgan Chase & Co. Forecasts Strong Price Appreciation for NVIDIA (NASDAQ:NVDA) Stock - MarketBeat,NVDA,Google RSS,positive,0.943358600139618
 2026-08-26 21:32:00,Nvidia stock jumps after early dip following results; AI fever is unabated - Reuters,NVDA,Google RSS,neutral,0.0
 2026-08-27 14:35:33,Truist raises Nvidia stock price target on strong demand outlook - Investing.com,NVDA,Google RSS,neutral,0.0
 2026-08-27 21:01:12,Nasdaq rises as Nvidia stock jumps on revenue forecast - qz.com,NVDA,Google RSS,positive,0.6856427788734436
 2026-08-27 13:38:39,Nvidia Stock Is Rising. Investors Still Buy the Growth Story. - Investopedia,NVDA,Google RSS,positive,0.6549191474914551
 2026-08-27 16:31:00,AI giant Nvidia’s stock jumps after strong second quarter earnings - The Hill,NVDA,Google RSS,positive,0.777668833732605
 2026-08-27 17:33:05,Nvidia ignites chip stock rally as forecast shows AI boom is intact - Reuters,NVDA,Google RSS,neutral,0.0
-2026-08-27 01:59:00,Stock indexes gain as Nvidia boost offsets caution on Fed event - Reuters,NVDA,Google RSS,negative,-0.41806134581565857
+2026-08-27 01:59:00,Stock indexes gain as Nvidia boost offsets caution on Fed event - Reuters,NVDA,Google RSS,negative,-0.4180613458156585
 2026-08-27 22:59:00,"Palantir, Nvidia Among 17 Stocks Rising Onto Best Stock Lists - Investor's Business Daily",NVDA,Google RSS,positive,0.5581962466239929
 2026-08-26 01:39:00,Nvidia Earnings on August 26: What History Tells Us About Nvidia Stock's Post-Earnings-Release Moves - The Motley Fool,NVDA,Google RSS,neutral,0.0
-2026-08-26 20:26:00,"Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs - Investor's Business Daily",NVDA,Google RSS,negative,-0.9348000884056091
+2026-08-26 20:26:00,"Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs - Investor's Business Daily",NVDA,Google RSS,negative,-0.9348000884056092
 2026-08-25 02:56:00,Citi renews Nvidia stock forecast ahead of earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
 2026-08-27 00:41:00,Nvidia’s stock bounce exceeds option traders’ expectations,NVDA,Bing RSS,positive,0.859796404838562
 2026-08-27 10:31:00,AI giant Nvidia’s stock jumps after strong second quarter earnings,NVDA,Bing RSS,positive,0.5357732176780701
 2026-08-28 03:57:01,"Dow Jones Futures Rise With Fed Chief Warsh Due; Nvidia, These 7 Stocks Are In Buy Zones",NVDA,Yahoo RSS,neutral,0.0
-2026-08-28 01:05:07,NVDA Q2 Deep Dive: AI Infrastructure Demand and Supply Constraints Drive Results,NVDA,Yahoo RSS,negative,-0.9677015542984009
+2026-08-28 01:05:07,NVDA Q2 Deep Dive: AI Infrastructure Demand and Supply Constraints Drive Results,NVDA,Yahoo RSS,negative,-0.9677015542984008
 2026-08-28 00:25:00,Oklo and NuScale Power Have Shed a Combined 85.3% This Year. Why Are Nuclear Stocks Falling?,NVDA,Yahoo RSS,negative,-0.9622448086738586
 2026-08-26 00:53:57,Stronger technical forecast for Tesla stock price after Tuesday trading - StockInvest.us,TSLA,Google RSS,positive,0.5122296214103699
 2026-08-27 08:31:00,"Despite Its Flaws, Tesla Still Dominates the World in This Index. Is the Stock a Buy Now? - The Motley Fool",TSLA,Google RSS,neutral,0.0
 2026-08-27 09:58:33,"Strategic Global Advisors LLC Buys Shares of 125,530 Netflix, Inc. $NFLX - MarketBeat",NFLX,Google RSS,neutral,0.0
-2026-08-21 20:25:00,"Netflix Is Down 40% From Its All-Time High. With No More Subscriber Numbers to Hide Behind, Is the Stock Still a Good Value? - The Motley Fool",NFLX,Google RSS,negative,-0.9593236446380615
+2026-08-21 20:25:00,"Netflix Is Down 40% From Its All-Time High. With No More Subscriber Numbers to Hide Behind, Is the Stock Still a Good Value? - The Motley Fool",NFLX,Google RSS,negative,-0.9593236446380616
+2026-08-26 10:51:23,Alphabet stock dips Wednesday as investors weigh AI spending against cloud growth,GOOGL,Bing RSS,negative,-0.9408062696456909
+2026-08-28 14:33:58,Analysts set Amazon stock 12-month price target - Finbold,AMZN,Google RSS,neutral,0.0
+2026-08-28 15:19:00,Strong All-Around Revenue Growth Fuels Amazon Share Rise - FXEmpire,AMZN,Google RSS,positive,0.9160877466201782
+2026-08-28 16:17:00,"Microsoft, Stock Of The Day, Flashes New Buy Signal. Why It's Still An ‘AI Winner.' - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-08-28 16:00:16,Resilient Microsoft stock edges higher as Azure growth and AI bets underpin a $560 consensus target - Ad-hoc-news.de,MSFT,Google RSS,positive,0.9379718899726868
+2026-08-28 05:34:04,Microsoft stock extends post-earnings advance as AI-driven cloud growth impresses - Ad-hoc-news.de,MSFT,Google RSS,positive,0.9094366431236267
+2026-08-28 12:31:43,"US equity funds post biggest weekly outflow since March ahead of Nvidia earnings, Fed event - Reuters",NVDA,Google RSS,neutral,0.0
+2026-08-28 13:05:59,US stocks rise on strong Nvidia earnings - Anadolu Ajansı,NVDA,Google RSS,positive,0.8237960934638977
+2026-08-28 10:08:40,"S&P 500, Dow, Nasdaq Futures Track Nvidia Stock Higher Over Strong FY28 Revenue Outlook — NVDA, CRM, META, CRWD, OKTA In Focus - Stocktwits",NVDA,Google RSS,positive,0.9123338460922241
+2026-08-28 12:15:00,"Dow Jones Futures: Fed Chief Warsh Speech Due; Marvell, Affirm, PayPal, Elastic Are Big Movers - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-08-27 23:05:57,"Nasdaq, S&P 500 lifted by Nvidia's forecast; investors eye speech by Fed's Warsh - Reuters",NVDA,Google RSS,positive,0.6546419262886047
+2026-08-28 15:08:15,"Analysts Offer Insights on Consumer Cyclical Companies: Tesla (TSLA), Starbucks (SBUX) and Urban Outfitters (URBN) - The Globe and Mail",TSLA,Google RSS,neutral,0.0
+2026-08-28 06:35:01,Walt Disney vs. Netflix: Evaluating Massive Overall Business Scale Versus Consistent Double-Digit Growth in Revenue,NFLX,Yahoo RSS,positive,0.9445670247077942
