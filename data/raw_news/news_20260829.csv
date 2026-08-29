@@ -42,6 +42,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-29 03:14:42,Microsoft Made $24.1 Billion From OpenAI in 2026. Investors Still Can’t See One Crucial Number,MSFT,Yahoo RSS,neutral,0.0
 2026-08-29 05:43:24,Nvidia Backed AI Infrastructure Stocks Retail Investors Are Screening Now - simplywall.st,NVDA,Google RSS,neutral,0.0
 2026-08-28 16:17:00,"Microsoft, Stock Of The Day, Flashes New Buy Signal. Why It's Still An ‘AI Winner.' - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
-2026-08-27 08:23:32,Nvidia under pressure after stock's unusual 7-day losing streak - Axios,NVDA,Google RSS,negative,-0.9335140585899353
+2026-08-27 08:23:32,Nvidia under pressure after stock's unusual 7-day losing streak - Axios,NVDA,Google RSS,negative,-0.9335140585899352
 2026-08-27 10:31:00,AI giant Nvidia’s stock jumps after strong second quarter earnings,NVDA,Bing RSS,positive,0.5357732176780701
 2026-08-28 12:29:33,"US equity funds post biggest weekly outflow since March ahead of Nvidia earnings, Fed event",NVDA,Yahoo Global,neutral,0.0
+2026-08-28 16:00:16,Resilient Microsoft stock edges higher as Azure growth and AI bets underpin a $560 consensus target - AD HOC NEWS,MSFT,Google RSS,positive,0.934903621673584
+2026-08-29 05:12:40,Microsoft stock pushes toward record levels as AI cloud growth and new partnership fuel momentum - AD HOC NEWS,MSFT,Google RSS,positive,0.9319832921028137
+2026-08-29 00:53:54,"S&P 500, Dow, Nasdaq Futures Track Nvidia Stock Higher Over Strong FY28 Revenue Outlook — NVDA, CRM, META, CRWD, OKTA In Focus - Stocktwits",NVDA,Google RSS,positive,0.9123339653015137
+2026-08-27 05:14:00,Nvidia stock price jumps on stunning growth forecast as Hugging Face acquisition rumors swell,NVDA,Bing RSS,negative,-0.7937330007553101
