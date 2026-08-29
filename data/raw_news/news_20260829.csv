@@ -1,0 +1,33 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-08-26 09:42:00,"Alphabet, Apple, and Meta Platforms Were Top Billionaire Investor Buys in Q2. Should Retail Investors Follow Suit? - The Motley Fool",AAPL,Google RSS,neutral,0.0
+2026-08-27 18:31:56,"Apple stock hits all-time high in 2026, up 16% YTD driven by AI product sales and strong earnings. - Pluang",AAPL,Google RSS,positive,0.9525153040885925
+2026-08-28 21:53:54,How Much Upside Can AAPL Stock's Growth Deliver?,AAPL,Yahoo RSS,neutral,0.0
+2026-08-26 09:19:59,Citizens reiterates Alphabet stock rating on cloud growth potential - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-08-26 09:42:00,"Alphabet, Apple, and Meta Platforms Were Top Billionaire Investor Buys in Q2. Should Retail Investors Follow Suit? - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-08-28 22:09:20,Amazon Stock (AMZN) Jumps as Top Evercore Analyst Lifts Target to $355 on Strong Retail Signals - TipRanks,AMZN,Google RSS,positive,0.9047631025314331
+2026-08-28 14:33:58,Analysts set Amazon stock 12-month price target - Finbold,AMZN,Google RSS,neutral,0.0
+2026-08-28 17:43:26,AMZN Stock Rallies 4% After Evercore Says Agentic AI Could Supercharge Amazon’s Retail Growth,AMZN,Yahoo RSS,positive,0.8372273445129395
+2026-08-28 21:53:54,How Much Upside Can AAPL Stock's Growth Deliver?,AMZN,Yahoo RSS,neutral,0.0
+2026-08-28 20:58:57,Costco Stock's Premium Rests On A Visit Rate That Keeps Slowing,AMZN,Yahoo RSS,neutral,0.0
+2026-08-27 14:05:00,Microsoft Stock (MSFT) Opinions on Strong Cloud Growth and Market Recovery - Quiver Quantitative,MSFT,Google RSS,neutral,0.0
+2026-08-27 09:46:01,Microsoft Stock Leads 3 AI Infrastructure Picks Retail Investors Are Watching - simplywall.st,MSFT,Google RSS,neutral,0.0
+2026-08-28 16:00:16,Resilient Microsoft stock edges higher as Azure growth and AI bets underpin a $560 consensus target - Ad-hoc-news.de,MSFT,Google RSS,positive,0.9379718899726868
+2026-08-26 01:34:47,Microsoft Stock And 2 AI Infrastructure Picks Retail Investors Are Watching - simplywall.st,MSFT,Google RSS,neutral,0.0
+2026-08-28 14:34:00,Microsoft’s stock seals its longest winning streak of the year as AI software fears fade,MSFT,Bing RSS,positive,0.5736343860626221
+2026-08-28 21:53:54,How Much Upside Can AAPL Stock's Growth Deliver?,MSFT,Yahoo RSS,neutral,0.0
+2026-08-26 11:12:40,Nvidia earnings preview: Jensen Huang under pressure after stock's 7-day losing streak - Axios,NVDA,Google RSS,negative,-0.9072283506393433
+2026-08-26 21:32:00,Nvidia stock jumps after early dip following results; AI fever is unabated - Reuters,NVDA,Google RSS,neutral,0.0
+2026-08-28 21:38:36,Why Is Nvidia Stock Falling Today? NVDA Sinks 4% One Day After Its Earnings Rally - Stocks Down Under,NVDA,Google RSS,negative,-0.9704336524009705
+2026-08-27 01:59:00,Stock indexes gain as Nvidia boost offsets caution on Fed event - Reuters,NVDA,Google RSS,negative,-0.4180612564086914
+2026-08-27 13:38:39,Nvidia Stock Is Rising. Investors Still Buy the Growth Story. - Investopedia,NVDA,Google RSS,positive,0.6549198031425476
+2026-08-26 01:39:00,Nvidia Earnings on August 26: What History Tells Us About Nvidia Stock's Post-Earnings-Release Moves - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-08-26 20:26:00,"Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs - Investor's Business Daily",NVDA,Google RSS,negative,-0.9348000884056091
+2026-08-27 14:35:33,Truist raises Nvidia stock price target on strong demand outlook - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-08-25 02:56:00,Citi renews Nvidia stock forecast ahead of earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
+2026-08-27 16:31:00,AI giant Nvidia’s stock jumps after strong second quarter earnings - The Hill,NVDA,Google RSS,positive,0.777667760848999
+2026-08-27 21:01:12,Nasdaq rises as Nvidia stock jumps on revenue forecast - qz.com,NVDA,Google RSS,positive,0.6856412291526794
+2026-08-26 00:53:57,Stronger technical forecast for Tesla stock price after Tuesday trading - StockInvest.us,TSLA,Google RSS,positive,0.5122299194335938
+2026-08-28 14:28:00,"Analysts Offer Insights on Consumer Cyclical Companies: Tesla (TSLA), Starbucks (SBUX) and Urban Outfitters (URBN) - The Globe and Mail",TSLA,Google RSS,neutral,0.0
+2026-08-27 08:31:00,"Despite Its Flaws, Tesla Still Dominates the World in This Index. Is the Stock a Buy Now? - The Motley Fool",TSLA,Google RSS,neutral,0.0
+2026-08-28 06:35:01,Walt Disney vs. Netflix: Evaluating Massive Overall Business Scale Versus Consistent Double-Digit Growth in Revenue,NFLX,Yahoo RSS,positive,0.9445670247077942
+2026-08-27 18:25:55,Why Legendary Investor Michael Burry Says Nvidia Stock Is ‘Wildly Undervalued’… and Why He’s Still Cautious on Shares,NVDA,Yahoo Global,neutral,0.0
