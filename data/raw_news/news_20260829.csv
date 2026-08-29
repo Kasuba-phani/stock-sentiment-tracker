@@ -33,7 +33,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-27 18:25:55,Why Legendary Investor Michael Burry Says Nvidia Stock Is ‘Wildly Undervalued’… and Why He’s Still Cautious on Shares,NVDA,Yahoo Global,neutral,0.0
 2026-08-29 07:29:35,AI Stocks for Higher Rates Why Meta Oracle and Alphabet Stand Out - simplywall.st,GOOGL,Google RSS,neutral,0.0
 2026-08-27 11:04:00,Wolfe Research raises Alphabet stock estimates on cloud growth By Investing.com - Investing.com UK,GOOGL,Google RSS,neutral,0.0
-2026-08-26 10:51:23,Alphabet stock dips Wednesday as investors weigh AI spending against cloud growth,GOOGL,Bing RSS,negative,-0.9408062696456909
+2026-08-26 10:51:23,Alphabet stock dips Wednesday as investors weigh AI spending against cloud growth,GOOGL,Bing RSS,negative,-0.9408062696456908
 2026-08-28 17:43:00,AMZN Stock Rallies 4% After Evercore Says Agentic AI Could Supercharge Amazon’s Retail Growth - Stocktwits,AMZN,Google RSS,positive,0.8589522242546082
 2026-08-28 15:19:00,Strong All-Around Revenue Growth Fuels Amazon Share Rise - FXEmpire,AMZN,Google RSS,positive,0.9160877466201782
 2026-08-28 21:34:00,Microsoft’s stock seals its longest winning streak of the year as AI software fears fade - MarketWatch,MSFT,Google RSS,positive,0.5767619609832764
@@ -41,3 +41,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-29 05:12:40,Microsoft stock pushes toward record levels as AI cloud growth and new partnership fuel momentum - Ad-hoc-news.de,MSFT,Google RSS,positive,0.9338751435279846
 2026-08-29 03:14:42,Microsoft Made $24.1 Billion From OpenAI in 2026. Investors Still Can’t See One Crucial Number,MSFT,Yahoo RSS,neutral,0.0
 2026-08-29 05:43:24,Nvidia Backed AI Infrastructure Stocks Retail Investors Are Screening Now - simplywall.st,NVDA,Google RSS,neutral,0.0
+2026-08-28 16:17:00,"Microsoft, Stock Of The Day, Flashes New Buy Signal. Why It's Still An ‘AI Winner.' - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-08-27 08:23:32,Nvidia under pressure after stock's unusual 7-day losing streak - Axios,NVDA,Google RSS,negative,-0.9335140585899353
+2026-08-27 10:31:00,AI giant Nvidia’s stock jumps after strong second quarter earnings,NVDA,Bing RSS,positive,0.5357732176780701
+2026-08-28 12:29:33,"US equity funds post biggest weekly outflow since March ahead of Nvidia earnings, Fed event",NVDA,Yahoo Global,neutral,0.0
