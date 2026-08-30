@@ -37,6 +37,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-28 14:28:00,"Analysts Offer Insights on Consumer Cyclical Companies: Tesla (TSLA), Starbucks (SBUX) and Urban Outfitters (URBN) - The Globe and Mail",TSLA,Google RSS,neutral,0.0
 2026-08-28 06:35:01,Walt Disney vs. Netflix: Evaluating Massive Overall Business Scale Versus Consistent Double-Digit Growth in Revenue,NFLX,Yahoo RSS,positive,0.9445670247077942
 2026-08-28 21:34:00,Microsoft’s stock seals its longest winning streak of the year as AI software fears fade - MarketWatch,MSFT,Google RSS,positive,0.576763391494751
-2026-08-26 20:26:00,"Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs - Investor's Business Daily",NVDA,Google RSS,negative,-0.9348000884056091
-2026-08-29 19:45:39,"S&P 500, Dow, Nasdaq Futures Track Nvidia Stock Higher Over Strong FY28 Revenue Outlook — NVDA, CRM, META, CRWD, OKTA In Focus - Stocktwits",NVDA,Google RSS,positive,0.9123339653015137
+2026-08-26 20:26:00,"Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs - Investor's Business Daily",NVDA,Google RSS,negative,-0.9348000884056092
+2026-08-29 19:45:39,"S&P 500, Dow, Nasdaq Futures Track Nvidia Stock Higher Over Strong FY28 Revenue Outlook — NVDA, CRM, META, CRWD, OKTA In Focus - Stocktwits",NVDA,Google RSS,positive,0.9123339653015136
 2026-08-27 23:05:57,"Nasdaq, S&P 500 lifted by Nvidia's forecast; investors eye speech by Fed's Warsh - Reuters",NVDA,Google RSS,positive,0.6546438336372375
+2026-08-30 10:00:00,Apple's big handoff and a jobs report: What to watch this week,AAPL,Yahoo RSS,neutral,0.0
+2026-08-30 10:00:00,Apple's big handoff and a jobs report: What to watch this week,NVDA,Yahoo RSS,neutral,0.0
