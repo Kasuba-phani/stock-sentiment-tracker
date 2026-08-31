@@ -39,7 +39,16 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-31 03:43:31,Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates? - The Globe and Mail,MSFT,Google RSS,positive,0.8483012318611145
 2026-08-31 03:10:00,"Dow Jones Futures Fall, Oil Prices Pop As U.S. Strikes Iran - Investor's Business Daily",MSFT,Google RSS,negative,-0.8617474436759949
 2026-08-31 04:41:38,Microsoft stock edges higher as AI and cloud growth support outlook - AD HOC NEWS,MSFT,Google RSS,positive,0.9165998101234436
-2026-08-31 03:35:00,Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates?,MSFT,Yahoo RSS,positive,0.9078646898269653
+2026-08-31 03:35:00,Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates?,MSFT,Yahoo RSS,positive,0.9078646898269652
 2026-08-31 01:52:00,"Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: NVDA, CRWD, MRVL, CRM, ASTS - Stocktwits",NVDA,Google RSS,neutral,0.0
 2026-08-25 18:40:00,Nvidia Earnings on August 26: What History Tells Us About Nvidia Stock's Post-Earnings-Release Moves,NVDA,Bing RSS,neutral,0.0
-2026-08-31 03:35:00,Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates?,NVDA,Yahoo RSS,positive,0.9078646898269653
+2026-08-31 03:35:00,Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates?,NVDA,Yahoo RSS,positive,0.9078646898269652
+2026-08-31 16:36:41,Apple stock steadies as CEO handoff and strong June quarter shape the outlook - AD HOC NEWS,AAPL,Google RSS,negative,-0.8616327047348022
+2026-08-31 14:11:43,"‘Look to History,’ Says Top Investor About Amazon Stock - TipRanks",AMZN,Google RSS,neutral,0.0
+2026-08-31 08:51:00,"My Personal CFO LLC Acquires 6,294 Shares of Amazon.com, Inc. $AMZN - MarketBeat",AMZN,Google RSS,neutral,0.0
+2026-08-31 12:13:00,"Dow Jones Futures Fall, Oil Prices Jump As U.S., Iran Exchange Attacks - Investor's Business Daily",MSFT,Google RSS,negative,-0.7287569642066956
+2026-08-29 07:00:00,How Much Upside Can MSFT Stock's Growth Deliver? - Trefis,MSFT,Google RSS,neutral,0.0
+2026-08-30 21:15:00,Can Microsoft stock surge to a new all-time high by the end of 2026 as Azure Cloud demand accelerates?,MSFT,Bing RSS,positive,0.9078648090362549
+2026-08-31 16:35:00,Snapchat Is Still Losing Money 15 Years Later Despite 971 Million Monthly Average Users,NVDA,Yahoo RSS,negative,-0.960507869720459
+2026-08-31 08:56:59,"Insight Wealth Partners LLC Takes $1.10 Million Position in Tesla, Inc. $TSLA - MarketBeat",TSLA,Google RSS,neutral,0.0
+2026-08-31 10:35:00,"Are The ""Magnificent Seven"" Stocks Still Worth Buying?",TSLA,Yahoo RSS,neutral,0.0
