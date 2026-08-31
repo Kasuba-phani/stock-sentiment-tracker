@@ -1,0 +1,37 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-08-30 10:00:00,Apple's big handoff and a jobs report: What to watch this week,AAPL,Yahoo RSS,neutral,0.0
+2026-08-30 22:32:03,Alphabet Stock Pushes Attention Toward 3 US Tech Growth Stocks - simplywall.st,GOOGL,Google RSS,neutral,0.0
+2026-08-30 19:16:19,S&P 500 and Dow Jones Outlook: Top Three Catalysts This Week - Benzinga,GOOGL,Google RSS,neutral,0.0
+2026-08-29 08:17:56,AI Stocks for Higher Rates Why Meta Oracle and Alphabet Stand Out - simplywall.st,GOOGL,Google RSS,neutral,0.0
+2026-08-27 11:04:00,Wolfe Research raises Alphabet stock estimates on cloud growth By Investing.com - Investing.com UK,GOOGL,Google RSS,neutral,0.0
+2026-08-28 21:57:20,Amazon Stock (AMZN) Jumps as Top Evercore Analyst Lifts Target to $355 on Strong Retail Signals - TipRanks,AMZN,Google RSS,positive,0.9047631025314331
+2026-08-28 14:33:58,Analysts set Amazon stock 12-month price target - Finbold,AMZN,Google RSS,neutral,0.0
+2026-08-28 17:43:00,AMZN Stock Rallies 4% After Evercore Says Agentic AI Could Supercharge Amazon’s Retail Growth - Stocktwits,AMZN,Google RSS,positive,0.8589522242546082
+2026-08-28 15:19:00,Strong All-Around Revenue Growth Fuels Amazon Share Rise - FXEmpire,AMZN,Google RSS,positive,0.9160877466201782
+2026-08-28 16:17:00,"Microsoft, Stock Of The Day, Flashes New Buy Signal. Why It's Still An ‘AI Winner.' - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-08-28 21:34:00,Microsoft’s stock seals its longest winning streak of the year as AI software fears fade - MarketWatch,MSFT,Google RSS,positive,0.5767619609832764
+2026-08-27 14:05:00,Microsoft Stock (MSFT) Opinions on Strong Cloud Growth and Market Recovery - Quiver Quantitative,MSFT,Google RSS,neutral,0.0
+2026-08-30 22:38:00,"Dow Jones Futures Fall, Oil Prices Jump As U.S. Strikes Iran - Investor's Business Daily",MSFT,Google RSS,negative,-0.8745383620262146
+2026-08-27 09:46:01,Microsoft Stock Leads 3 AI Infrastructure Picks Retail Investors Are Watching - simplywall.st,MSFT,Google RSS,neutral,0.0
+2026-08-26 01:34:47,Microsoft Stock And 2 AI Infrastructure Picks Retail Investors Are Watching - simplywall.st,MSFT,Google RSS,neutral,0.0
+2026-08-28 16:00:16,Resilient Microsoft stock edges higher as Azure growth and AI bets underpin a $560 consensus target - AD HOC NEWS,MSFT,Google RSS,positive,0.934903621673584
+2026-08-28 22:58:00,"Software Giant Microsoft Hits 52-Week High, Leads 13 Hot Prospects Onto Best Stocks Screens - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-08-28 14:34:00,Microsoft’s stock seals its longest winning streak of the year as AI software fears fade,MSFT,Bing RSS,positive,0.5736343860626221
+2026-08-29 03:14:42,Microsoft Made $24.1 Billion From OpenAI in 2026. Investors Still Can’t See One Crucial Number,MSFT,Yahoo RSS,neutral,0.0
+2026-08-28 21:53:54,How Much Upside Can AAPL Stock's Growth Deliver?,MSFT,Yahoo RSS,neutral,0.0
+2026-08-30 23:26:35,What caused Nvidia's nasty reversal Friday? Look to the Fed for clues - CNBC,NVDA,Google RSS,neutral,0.0
+2026-08-27 07:43:00,"S&P 500, Dow and Nasdaq end higher as Nvidia rallies on earnings report - MarketWatch",NVDA,Google RSS,positive,0.6791595220565796
+2026-08-26 21:32:00,Nvidia stock jumps after early dip following results; AI fever is unabated - Reuters,NVDA,Google RSS,neutral,0.0
+2026-08-27 17:33:05,Nvidia ignites chip stock rally as forecast shows AI boom is intact - Reuters,NVDA,Google RSS,neutral,0.0
+2026-08-27 13:38:39,Nvidia Stock Is Rising. Investors Still Buy the Growth Story. - Investopedia,NVDA,Google RSS,positive,0.6549198031425476
+2026-08-27 08:23:32,Nvidia under pressure after stock's unusual 7-day losing streak - Axios,NVDA,Google RSS,negative,-0.9335139989852905
+2026-08-27 14:35:33,Truist raises Nvidia stock price target on strong demand outlook - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-08-26 20:26:00,"Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs - Investor's Business Daily",NVDA,Google RSS,negative,-0.9348000884056091
+2026-08-27 16:31:00,AI giant Nvidia’s stock jumps after strong second quarter earnings - The Hill,NVDA,Google RSS,positive,0.777667760848999
+2026-08-27 21:01:12,Nasdaq rises as Nvidia stock jumps on revenue forecast - qz.com,NVDA,Google RSS,positive,0.6856412291526794
+2026-08-28 21:47:08,Why Is Nvidia Stock Falling Today? NVDA Sinks 4% One Day After Its Earnings Rally - Stocks Down Under,NVDA,Google RSS,negative,-0.9704336524009705
+2026-08-25 02:56:00,Citi renews Nvidia stock forecast ahead of earnings - thestreet.com,NVDA,Google RSS,neutral,0.0
+2026-08-30 14:34:20,Tesla stock eases after Q2 earnings miss as investors weigh delivery growth - AD HOC NEWS,TSLA,Google RSS,negative,-0.7806378602981567
+2026-08-27 08:31:00,"Despite Its Flaws, Tesla Still Dominates the World in This Index. Is the Stock a Buy Now? - The Motley Fool",TSLA,Google RSS,neutral,0.0
+2026-08-28 14:28:00,"Analysts Offer Insights on Consumer Cyclical Companies: Tesla (TSLA), Starbucks (SBUX) and Urban Outfitters (URBN) - The Globe and Mail",TSLA,Google RSS,neutral,0.0
+2026-08-28 06:35:01,Walt Disney vs. Netflix: Evaluating Massive Overall Business Scale Versus Consistent Double-Digit Growth in Revenue,NFLX,Yahoo RSS,positive,0.9445670247077942
