@@ -48,7 +48,25 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-31 08:51:00,"My Personal CFO LLC Acquires 6,294 Shares of Amazon.com, Inc. $AMZN - MarketBeat",AMZN,Google RSS,neutral,0.0
 2026-08-31 12:13:00,"Dow Jones Futures Fall, Oil Prices Jump As U.S., Iran Exchange Attacks - Investor's Business Daily",MSFT,Google RSS,negative,-0.7287569642066956
 2026-08-29 07:00:00,How Much Upside Can MSFT Stock's Growth Deliver? - Trefis,MSFT,Google RSS,neutral,0.0
-2026-08-30 21:15:00,Can Microsoft stock surge to a new all-time high by the end of 2026 as Azure Cloud demand accelerates?,MSFT,Bing RSS,positive,0.9078648090362549
+2026-08-30 21:15:00,Can Microsoft stock surge to a new all-time high by the end of 2026 as Azure Cloud demand accelerates?,MSFT,Bing RSS,positive,0.9078648090362548
 2026-08-31 16:35:00,Snapchat Is Still Losing Money 15 Years Later Despite 971 Million Monthly Average Users,NVDA,Yahoo RSS,negative,-0.960507869720459
 2026-08-31 08:56:59,"Insight Wealth Partners LLC Takes $1.10 Million Position in Tesla, Inc. $TSLA - MarketBeat",TSLA,Google RSS,neutral,0.0
 2026-08-31 10:35:00,"Are The ""Magnificent Seven"" Stocks Still Worth Buying?",TSLA,Yahoo RSS,neutral,0.0
+2026-08-31 17:00:00,Egan-Jones Examines How Strong Credits Can Still Produce Severe Bond Losses,AAPL,Yahoo RSS,neutral,0.0
+2026-08-31 19:07:06,"How Investors May Respond To QCOM Naming Sergio Buniac To Lead Mobile, Compute And Personal AI",AAPL,Yahoo RSS,neutral,0.0
+2026-08-31 18:53:45,Alphabet's strong cloud growth sparks $500 stoc... - Pluang,GOOGL,Google RSS,positive,0.5646756291389465
+2026-08-31 18:23:12,Stocks could pull back in September — here’s what Joe Tigay is buying,GOOGL,Yahoo RSS,neutral,0.0
+2026-08-31 19:59:06,Sector Update: Consumer Stocks Softer Late Afternoon,AMZN,Yahoo RSS,negative,-0.6034595966339111
+2026-08-31 04:15:00,Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates? - The Motley Fool,MSFT,Google RSS,positive,0.49468931555747986
+2026-08-31 17:00:58,Wall Street analyst sets Microsoft stock price target for next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
+2026-08-31 20:22:54,"How Investors May Respond To JPMorgan Chase (JPM) Bond Issuance, Branch Expansion and Higher Payouts",MSFT,Yahoo RSS,neutral,0.0
+2026-08-31 20:37:00,Nvidia stock flashes unusual signal for investors - thestreet.com,NVDA,Google RSS,neutral,0.0
+2026-08-31 20:48:45,3 Stocks to Sell and 3 Stocks to Buy for September - Morningstar,NVDA,Google RSS,neutral,0.0
+2026-08-31 21:44:35,"S&P500, Dow End Lower On US-Iran Flare-Up, While Dow Records Fifth Straight Month Of Gains — NVDA, META, AON, MSTR, TSLA In Focus",NVDA,Yahoo RSS,negative,-0.9316616654396057
+2026-08-31 20:22:54,"How Investors May Respond To JPMorgan Chase (JPM) Bond Issuance, Branch Expansion and Higher Payouts",NVDA,Yahoo RSS,neutral,0.0
+2026-08-31 20:14:39,"US Equity Markets End Lower After Crude Oil, Government Bond Yields Rise Following US-Iran Military Escalation",TSLA,Yahoo RSS,negative,-0.9328606724739075
+2026-08-31 21:44:35,"S&P500, Dow End Lower On US-Iran Flare-Up, While Dow Records Fifth Straight Month Of Gains — NVDA, META, AON, MSTR, TSLA In Focus",TSLA,Yahoo RSS,negative,-0.9316616654396057
+2026-08-31 17:30:28,Wall Street Is Looking Here. I’m Looking Somewhere Else,META,Yahoo RSS,neutral,0.0
+2026-08-31 20:15:00,What to expect from the August jobs report,META,Yahoo RSS,neutral,0.0
+2026-08-31 13:15:02,Netflix Puts Worth Shorting Here for High One-Month Yields,NFLX,Yahoo RSS,neutral,0.0
+2026-08-30 11:49:05,"'All about acceleration': After Nvidia earnings, the tech trade is getting more segmented",NVDA,Yahoo Global,neutral,0.0
