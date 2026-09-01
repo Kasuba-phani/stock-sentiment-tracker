@@ -34,4 +34,24 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-31 17:30:28,Wall Street Is Looking Here. I’m Looking Somewhere Else,META,Yahoo RSS,neutral,0.0
 2026-08-31 20:15:00,What to expect from the August jobs report,META,Yahoo RSS,neutral,0.0
 2026-08-31 13:15:02,Netflix Puts Worth Shorting Here for High One-Month Yields,NFLX,Yahoo RSS,neutral,0.0
-2026-09-01 03:02:33,"Dow Futures Climb While S&P 500, Nasdaq Futures Slide After Strong August Rally: TTWO, TSLA, EIX, MDB Stocks In Focus",TSLA,Yahoo RSS,negative,-0.9048135876655579
+2026-09-01 03:02:33,"Dow Futures Climb While S&P 500, Nasdaq Futures Slide After Strong August Rally: TTWO, TSLA, EIX, MDB Stocks In Focus",TSLA,Yahoo RSS,negative,-0.904813587665558
+2026-09-01 09:10:56,Ten Stocks Are Now 38% of the S&P 500. These 3 ETFs Are the Escape Hatch,AAPL,Yahoo RSS,neutral,0.0
+2026-09-01 05:27:13,Alphabet stock steadies near $339 as Q2 2026 cloud surge meets heavier AI spending - AD HOC NEWS,GOOGL,Google RSS,negative,-0.833318829536438
+2026-09-01 12:23:12,"Amazon Major Investor Dumps Nearly $800,000 in Shares",AMZN,Yahoo RSS,negative,-0.8991475701332092
+2026-09-01 12:50:27,"Stock Market Today: Dow Falls As Oil Prices, Treasury Yields Jump; Nvidia, Micron Shares Slide (Live Coverage)",AMZN,Yahoo RSS,negative,-0.938447117805481
+2026-09-01 12:43:48,5 Top Goldman Sachs Stock Picks Pay Big Dividends (One Yields Over 6%),AMZN,Yahoo RSS,neutral,0.0
+2026-09-01 11:51:02,BofA raises Microsoft stock price target to $600 on AI growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-01 01:34:05,Microsoft stock downgraded from Strong Buy Candidate to Hold/Accumulate after Monday trading session - StockInvest.us,MSFT,Google RSS,negative,-0.6308479309082031
+2026-09-01 11:26:51,"Dow futures fall 240 points as bond yields, oil prices rise",MSFT,Yahoo RSS,negative,-0.9492035508155823
+2026-09-01 09:10:56,Ten Stocks Are Now 38% of the S&P 500. These 3 ETFs Are the Escape Hatch,MSFT,Yahoo RSS,neutral,0.0
+2026-09-01 13:15:00,"Semiconductor Stocks Slide as Global Bond Selloff Lifts Yields: Intel Drops 3%, NVIDIA and AMD Slip - 24/7 Wall St.",NVDA,Google RSS,negative,-0.9671557545661926
+2026-09-01 10:54:30,"What Is Cathie Wood Buying Now? Nvidia, SpaceX And Crypto Stocks Led ARK’s August Trades – While Cutting These Growth Stocks - TradingView",NVDA,Google RSS,neutral,0.0
+2026-08-26 20:26:00,"Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs - Investor's Business Daily",NVDA,Google RSS,negative,-0.9348000884056091
+2026-09-01 12:50:27,"Stock Market Today: Dow Falls As Oil Prices, Treasury Yields Jump; Nvidia, Micron Shares Slide (Live Coverage)",NVDA,Yahoo RSS,negative,-0.938447117805481
+2026-09-01 13:00:41,Fed Chair Kevin Warsh Pushed September Rate Hike Odds Past 50%. But 1 Investor Says the Market Has It Wrong,NVDA,Yahoo RSS,neutral,0.0
+2026-09-01 12:44:00,Buy 5 AI-Powered Momentum Stocks for September After a Strong August,NVDA,Yahoo RSS,neutral,0.0
+2026-09-01 12:43:48,5 Top Goldman Sachs Stock Picks Pay Big Dividends (One Yields Over 6%),NVDA,Yahoo RSS,neutral,0.0
+2026-09-01 04:24:00,Tesla (TSLA) Stock Surges 5.5% Despite 79% Spain Sales Plunge in August,TSLA,Bing RSS,positive,0.8541638255119324
+2026-09-01 10:54:30,"What Is Cathie Wood Buying Now? Nvidia, SpaceX And Crypto Stocks Led ARK’s August Trades – While Cutting These Growth Stocks",TSLA,Yahoo RSS,negative,-0.44246479868888855
+2026-09-01 08:45:33,"Nasdaq, Dow, S&P 500 Futures Begin September On Weak Footing: Why NVDA, AAPL, TSLA, PANW, DELL, SLS, HUT Are In Focus",TSLA,Yahoo RSS,negative,-0.958296000957489
+2026-09-01 09:10:56,Ten Stocks Are Now 38% of the S&P 500. These 3 ETFs Are the Escape Hatch,META,Yahoo RSS,neutral,0.0
