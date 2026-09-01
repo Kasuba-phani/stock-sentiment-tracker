@@ -55,21 +55,29 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-01 10:54:30,"What Is Cathie Wood Buying Now? Nvidia, SpaceX And Crypto Stocks Led ARK’s August Trades – While Cutting These Growth Stocks",TSLA,Yahoo RSS,negative,-0.4424647986888885
 2026-09-01 08:45:33,"Nasdaq, Dow, S&P 500 Futures Begin September On Weak Footing: Why NVDA, AAPL, TSLA, PANW, DELL, SLS, HUT Are In Focus",TSLA,Yahoo RSS,negative,-0.958296000957489
 2026-09-01 09:10:56,Ten Stocks Are Now 38% of the S&P 500. These 3 ETFs Are the Escape Hatch,META,Yahoo RSS,neutral,0.0
-2026-09-01 17:11:25,"Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot - fool.com",AAPL,Google RSS,negative,-0.9318335652351379
-2026-09-01 17:03:38,"Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot",AAPL,Yahoo RSS,negative,-0.9089948534965515
+2026-09-01 17:11:25,"Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot - fool.com",AAPL,Google RSS,negative,-0.931833565235138
+2026-09-01 17:03:38,"Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot",AAPL,Yahoo RSS,negative,-0.9089948534965516
 2026-09-01 16:44:45,"Stock Market Midday, Sept. 1: Stocks Slide on Global Bond Sell-Off",AAPL,Yahoo RSS,negative,-0.9702728986740112
 2026-09-01 14:21:56,"‘Capacity is Destiny,’ Says Top Investor About Alphabet Stock - tipranks.com",GOOGL,Google RSS,neutral,0.0
 2026-09-01 13:54:54,Alphabet A stock holds firm near 339 dollars as Q2 2026 earnings highlight cloud and AI spending - AD HOC NEWS,GOOGL,Google RSS,negative,-0.7249760031700134
-2026-09-01 12:23:12,"Amazon Major Investor Dumps Nearly $800,000 in Shares - TradingView",AMZN,Google RSS,negative,-0.9412021040916443
+2026-09-01 12:23:12,"Amazon Major Investor Dumps Nearly $800,000 in Shares - TradingView",AMZN,Google RSS,negative,-0.9412021040916444
 2026-09-01 15:54:00,Higher Bond Yields Are Here to Stay. 3 Things Make That Clear.,AMZN,Yahoo RSS,neutral,0.0
 2026-09-01 17:38:00,Why Microsoft’s stock could rally another 20% even after a summer winning streak - MarketWatch,MSFT,Google RSS,neutral,0.0
-2026-09-01 16:55:06,Microsoft Stock Drops as $41 Billion Capex Meets 4.8% Yields - GuruFocus,MSFT,Google RSS,negative,-0.9621094465255737
-2026-08-30 21:15:00,Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates?,MSFT,Bing RSS,positive,0.9078648090362549
-2026-09-01 14:54:59,"IREN Sinks 4% as Rising Yields Reverse Monday’s Rally, TeraWulf Falls 4%, Cipher Mining Drops 6%",MSFT,Yahoo RSS,negative,-0.9623168110847473
+2026-09-01 16:55:06,Microsoft Stock Drops as $41 Billion Capex Meets 4.8% Yields - GuruFocus,MSFT,Google RSS,negative,-0.9621094465255736
+2026-08-30 21:15:00,Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates?,MSFT,Bing RSS,positive,0.9078648090362548
+2026-09-01 14:54:59,"IREN Sinks 4% as Rising Yields Reverse Monday’s Rally, TeraWulf Falls 4%, Cipher Mining Drops 6%",MSFT,Yahoo RSS,negative,-0.9623168110847472
 2026-09-01 16:00:00,DigitalOcean to Participate in Goldman Sachs Communacopia + Technology Conference 2026,MSFT,Yahoo RSS,neutral,0.0
 2026-09-01 11:34:00,"Bond Yields, Nvidia's Circular Deal, Apple's New CEO | September 1 Barron's Daily - Barron's",NVDA,Google RSS,neutral,0.0
-2026-09-01 07:15:00,"Semiconductor Stocks Slide as Global Bond Selloff Lifts Yields: Intel Drops 3%, NVIDIA and AMD Slip",NVDA,Bing RSS,negative,-0.9613654613494873
-2026-09-01 17:03:38,"Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot",NVDA,Yahoo RSS,negative,-0.9089948534965515
-2026-09-01 13:54:48,"Tesla enters bull market after 20% rally, fueled by AI and robotaxi growth optimism. - Pluang",TSLA,Google RSS,positive,0.9202389121055603
+2026-09-01 07:15:00,"Semiconductor Stocks Slide as Global Bond Selloff Lifts Yields: Intel Drops 3%, NVIDIA and AMD Slip",NVDA,Bing RSS,negative,-0.9613654613494872
+2026-09-01 17:03:38,"Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot",NVDA,Yahoo RSS,negative,-0.9089948534965516
+2026-09-01 13:54:48,"Tesla enters bull market after 20% rally, fueled by AI and robotaxi growth optimism. - Pluang",TSLA,Google RSS,positive,0.9202389121055604
 2026-09-01 15:54:00,Higher Bond Yields Are Here to Stay. 3 Things Make That Clear.,META,Yahoo RSS,neutral,0.0
 2026-09-01 17:38:00,Why Microsoft’s stock could rally another 20% even after a summer winning streak,MSFT,MarketWatch Top,positive,0.8242697715759277
+2026-09-01 17:44:47,Microsoft Stock Drops as $41 Billion Capex Meets 4.8% Yields - TradingView,MSFT,Google RSS,negative,-0.9652067422866821
+2026-09-01 20:26:56,Microsoft's AI-driven cloud growth boosts stock target to $600 by Bank of America - Pluang,MSFT,Google RSS,positive,0.9259377717971802
+2026-08-31 03:37:13,Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates? - The Globe and Mail,MSFT,Google RSS,positive,0.8483012318611145
+2026-09-01 17:44:47,Microsoft Stock Drops as $41 Billion Capex Meets 4.8% Yields,MSFT,Yahoo RSS,negative,-0.9662873148918152
+2026-09-01 13:15:00,"Semiconductor Stocks Slide as Global Bond Selloff Lifts Yields: Intel Drops 3%, NVIDIA and AMD Slip - 247wallst.com",NVDA,Google RSS,negative,-0.9677720069885254
+2026-08-30 23:26:35,What caused Nvidia's nasty reversal Friday? Look to the Fed for clues - cnbc.com,NVDA,Google RSS,neutral,0.0
+2026-09-01 19:41:12,Sector Update: Consumer Stocks Mixed Late Afternoon,TSLA,Yahoo RSS,negative,-0.935251772403717
+2026-09-01 16:59:00,Higher Treasury Yields Signal a Permanent—and Dangerous—Shift in the Bond Market,META,Yahoo RSS,negative,-0.8682395219802856
