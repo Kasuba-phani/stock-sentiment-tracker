@@ -73,7 +73,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-01 13:54:48,"Tesla enters bull market after 20% rally, fueled by AI and robotaxi growth optimism. - Pluang",TSLA,Google RSS,positive,0.9202389121055604
 2026-09-01 15:54:00,Higher Bond Yields Are Here to Stay. 3 Things Make That Clear.,META,Yahoo RSS,neutral,0.0
 2026-09-01 17:38:00,Why Microsoft’s stock could rally another 20% even after a summer winning streak,MSFT,MarketWatch Top,positive,0.8242697715759277
-2026-09-01 17:44:47,Microsoft Stock Drops as $41 Billion Capex Meets 4.8% Yields - TradingView,MSFT,Google RSS,negative,-0.9652067422866821
+2026-09-01 17:44:47,Microsoft Stock Drops as $41 Billion Capex Meets 4.8% Yields - TradingView,MSFT,Google RSS,negative,-0.965206742286682
 2026-09-01 20:26:56,Microsoft's AI-driven cloud growth boosts stock target to $600 by Bank of America - Pluang,MSFT,Google RSS,positive,0.9259377717971802
 2026-08-31 03:37:13,Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates? - The Globe and Mail,MSFT,Google RSS,positive,0.8483012318611145
 2026-09-01 17:44:47,Microsoft Stock Drops as $41 Billion Capex Meets 4.8% Yields,MSFT,Yahoo RSS,negative,-0.9662873148918152
@@ -81,3 +81,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-30 23:26:35,What caused Nvidia's nasty reversal Friday? Look to the Fed for clues - cnbc.com,NVDA,Google RSS,neutral,0.0
 2026-09-01 19:41:12,Sector Update: Consumer Stocks Mixed Late Afternoon,TSLA,Yahoo RSS,negative,-0.935251772403717
 2026-09-01 16:59:00,Higher Treasury Yields Signal a Permanent—and Dangerous—Shift in the Bond Market,META,Yahoo RSS,negative,-0.8682395219802856
+2026-09-01 17:03:38,"Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot - finance.yahoo.com",AAPL,Google RSS,negative,-0.9380533695220947
+2026-09-01 21:30:00,"Average household is spending over $3,300 a year on streaming: Sooth",AAPL,Yahoo RSS,neutral,0.0
+2026-09-01 22:52:05,"Dow Jones Futures: Market Breaks Key Levels As Oil Prices Jump; Dell, Credo, Palo Alto Are Earnings Movers",AAPL,Yahoo RSS,positive,0.5833329558372498
+2026-09-01 18:10:46,"Retail Investors’ 2 Favorite AI Stocks for the Long Term: Alphabet, IBM - finance.yahoo.com",GOOGL,Google RSS,neutral,0.0
+2026-09-01 14:53:16,Alphabet (GOOG) Reports Strong Growth Fueled by AI Demand and Cloud Revenue - finance.yahoo.com,GOOGL,Google RSS,positive,0.8858166933059692
+2026-08-28 17:43:26,AMZN Stock Rallies 4% After Evercore Says Agentic AI Could Supercharge Amazon’s Retail Growth - finance.yahoo.com,AMZN,Google RSS,positive,0.7608816623687744
+2026-09-01 21:15:00,S&P Dow Jones Indices Announces Changes to the S&P/TSX Composite Index,AMZN,Yahoo RSS,neutral,0.0
+2026-09-01 22:52:05,"Dow Jones Futures: Market Breaks Key Levels As Oil Prices Jump; Dell, Credo, Palo Alto Are Earnings Movers",MSFT,Yahoo RSS,positive,0.5833329558372498
+2026-09-01 22:52:05,"Dow Jones Futures: Market Breaks Key Levels As Oil Prices Jump; Dell, Credo, Palo Alto Are Earnings Movers",NVDA,Yahoo RSS,positive,0.5833329558372498
+2026-09-01 22:18:20,"HubSpot, Intuit, Asana, Snowflake, and Atlassian Shares Are Falling, What You Need To Know",NVDA,Yahoo RSS,negative,-0.6378222703933716
