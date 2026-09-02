@@ -62,5 +62,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-27 14:05:00,Microsoft Stock (MSFT) Opinions on Strong Cloud Growth and Market Recovery - Quiver Quantitative,MSFT,Google RSS,neutral,0.0
 2026-08-28 16:00:16,Resilient Microsoft stock edges higher as Azure growth and AI bets underpin a $560 consensus target - AD HOC NEWS,MSFT,Google RSS,positive,0.934903621673584
 2026-08-27 17:33:05,Nvidia ignites chip stock rally as forecast shows AI boom is intact - Reuters,NVDA,Google RSS,neutral,0.0
-2026-08-26 20:26:00,"Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs - Investor's Business Daily",NVDA,Google RSS,negative,-0.9348000884056091
-2026-09-02 15:45:23,"European Stocks Close Mostly Lower in Tuesday Trading; Bonds Rise on Inflation, Government Debt Concerns",TSLA,Yahoo RSS,negative,-0.9560215473175049
+2026-08-26 20:26:00,"Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs - Investor's Business Daily",NVDA,Google RSS,negative,-0.9348000884056092
+2026-09-02 15:45:23,"European Stocks Close Mostly Lower in Tuesday Trading; Bonds Rise on Inflation, Government Debt Concerns",TSLA,Yahoo RSS,negative,-0.9560215473175048
+2026-09-02 17:41:38,"U.S. Debt, AI Borrowing Binge Spurs Bessent's Bond Market Gambit; Risks Rise For Stocks, Dollar",AMZN,Yahoo RSS,negative,-0.49975305795669556
+2026-08-27 16:31:00,AI giant Nvidia’s stock jumps after strong second quarter earnings - The Hill,NVDA,Google RSS,positive,0.777667760848999
+2026-09-02 17:49:50,"Most Active Stocks: Meta Tops List with 27% Upside, Strong Buy Rating - TipRanks",META,Google RSS,positive,0.9100853800773621
+2026-09-02 17:41:38,"U.S. Debt, AI Borrowing Binge Spurs Bessent's Bond Market Gambit; Risks Rise For Stocks, Dollar",META,Yahoo RSS,negative,-0.49975305795669556
