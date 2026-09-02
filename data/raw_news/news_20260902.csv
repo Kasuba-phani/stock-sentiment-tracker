@@ -29,13 +29,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-01 13:54:48,"Tesla enters bull market after 20% rally, fueled by AI and robotaxi growth optimism. - Pluang",TSLA,Google RSS,positive,0.9202389121055604
 2026-09-01 04:24:00,Tesla (TSLA) Stock Surges 5.5% Despite 79% Spain Sales Plunge in August,TSLA,Bing RSS,positive,0.854162871837616
 2026-09-02 01:00:45,SOFI’s Decline Has Retail Looking Elsewhere — Here’s The Rival Fintech Traders Prefer Right Now,META,Yahoo RSS,neutral,0.0
-2026-09-02 05:48:09,RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith,GOOGL,Yahoo RSS,negative,-0.9104261994361877
+2026-09-02 05:48:09,RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith,GOOGL,Yahoo RSS,negative,-0.9104261994361876
 2026-09-02 08:24:00,Best Growth Stocks to Buy for September 2nd,AMZN,Yahoo RSS,neutral,0.0
 2026-09-02 08:10:55,US Stock Market Today: S&P 500 Futures Slip As Rising Yields Pressure Equities,AMZN,Yahoo RSS,negative,-0.9689717292785645
 2026-08-28 16:17:00,"Microsoft, Stock Of The Day, Flashes New Buy Signal. Why It's Still An ‘AI Winner.' - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
 2026-09-01 11:51:02,BofA raises Microsoft stock price target to $600 on AI growth - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-08-30 21:15:00,Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates?,MSFT,Bing RSS,positive,0.9078645706176758
-2026-09-02 05:48:09,RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith,MSFT,Yahoo RSS,negative,-0.9104261994361877
+2026-09-02 05:48:09,RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith,MSFT,Yahoo RSS,negative,-0.9104261994361876
 2026-09-02 08:11:14,Akamai (AKAM) Stock Looks Fully Priced Despite Strong 38% Returns,MSFT,Yahoo RSS,positive,0.9356451630592346
 2026-09-02 07:18:01,MongoDB Just Delivered a Beat and Raise Quarter -- So Why Is the Stock Falling?,MSFT,Yahoo RSS,negative,-0.8177170753479004
 2026-08-31 22:01:34,Nvidia stock flashes unusual signal for investors - thestreet.com,NVDA,Google RSS,neutral,0.0
@@ -43,3 +43,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-02 08:11:14,Akamai (AKAM) Stock Looks Fully Priced Despite Strong 38% Returns,NVDA,Yahoo RSS,positive,0.9356451630592346
 2026-09-02 08:09:00,AFL attracts strong investor interest in new EUR 500m 8-year Sustainability Bond,META,Yahoo RSS,positive,0.9299253225326538
 2026-09-02 05:49:23,Netflix stock falls as streaming competition and valuation weigh on sentiment - AD HOC NEWS,NFLX,Google RSS,negative,-0.966124951839447
+2026-09-02 12:11:07,"Dow Jones Futures Rise As Oil Prices Fall; Dell, Credo, Palo Alto Are Earnings Movers",AAPL,Yahoo RSS,negative,-0.7302908897399902
+2026-09-02 04:54:05,Alphabet C stock steadies near $339 as Q2 2026 cloud surge meets heavy AI spend - AD HOC NEWS,GOOGL,Google RSS,negative,-0.8176259994506836
+2026-08-31 18:53:11,Amazon Stock (AMZN) Is Falling on Monday – What’s Behind the Move - TipRanks,AMZN,Google RSS,negative,-0.9338697195053101
+2026-09-02 13:00:00,"Aurora to Host Analyst & Investor Day on September 23, 2026",AMZN,Yahoo RSS,neutral,0.0
+2026-09-01 23:45:00,Why Microsoft stock could see upto 20% more upside despite gaining 30% since earnings,MSFT,Bing RSS,positive,0.8134633302688599
+2026-09-02 13:05:00,MongoDB raises fiscal 2027 outlook after strong Q2 report,MSFT,Yahoo RSS,positive,0.8718841075897217
+2026-09-02 12:59:44,William Blair upgrades GitLab to Market Perform after strong second quarter,MSFT,Yahoo RSS,positive,0.9511227607727051
+2026-09-01 13:15:00,"Semiconductor Stocks Slide as Global Bond Selloff Lifts Yields: Intel Drops 3%, NVIDIA and AMD Slip - 24/7 Wall St.",NVDA,Google RSS,negative,-0.9671557545661926
+2026-09-02 11:54:33,"Nvidia Is Still Retail Investors' Most-Held Stock on Robinhood, but a New Trillion-Dollar Stock Has Entered the Top 10 - The Globe and Mail",NVDA,Google RSS,positive,0.5460264682769775
+2026-09-02 11:33:30,"Nvidia Is Still Retail Investors' Most-Held Stock on Robinhood, but a New Trillion-Dollar Stock Has Entered the Top 10 - The Motley Fool",NVDA,Google RSS,neutral,0.0
+2026-09-02 13:15:00,Caterpillar and FieldAI Advance AI-Powered Industrial Innovation,NVDA,Yahoo RSS,neutral,0.0
+2026-09-02 13:18:00,3 Dividend-Paying Industrial Stocks to Buy Right Now,NVDA,Yahoo RSS,neutral,0.0
+2026-09-02 13:05:00,MongoDB raises fiscal 2027 outlook after strong Q2 report,NVDA,Yahoo RSS,positive,0.8718841075897217
+2026-09-02 04:46:17,Tesla stock gains on Cybercab optimism despite mixed earnings - AD HOC NEWS,TSLA,Google RSS,positive,0.7781545519828796
+2026-09-02 12:49:56,"J.P. Morgan cuts NIO to Neutral, slashes price target on weak demand outlook",TSLA,Yahoo RSS,negative,-0.9511763453483582
