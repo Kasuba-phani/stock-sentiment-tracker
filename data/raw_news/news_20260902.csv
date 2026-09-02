@@ -64,7 +64,21 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-27 17:33:05,Nvidia ignites chip stock rally as forecast shows AI boom is intact - Reuters,NVDA,Google RSS,neutral,0.0
 2026-08-26 20:26:00,"Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs - Investor's Business Daily",NVDA,Google RSS,negative,-0.9348000884056092
 2026-09-02 15:45:23,"European Stocks Close Mostly Lower in Tuesday Trading; Bonds Rise on Inflation, Government Debt Concerns",TSLA,Yahoo RSS,negative,-0.9560215473175048
-2026-09-02 17:41:38,"U.S. Debt, AI Borrowing Binge Spurs Bessent's Bond Market Gambit; Risks Rise For Stocks, Dollar",AMZN,Yahoo RSS,negative,-0.49975305795669556
+2026-09-02 17:41:38,"U.S. Debt, AI Borrowing Binge Spurs Bessent's Bond Market Gambit; Risks Rise For Stocks, Dollar",AMZN,Yahoo RSS,negative,-0.4997530579566955
 2026-08-27 16:31:00,AI giant Nvidia’s stock jumps after strong second quarter earnings - The Hill,NVDA,Google RSS,positive,0.777667760848999
-2026-09-02 17:49:50,"Most Active Stocks: Meta Tops List with 27% Upside, Strong Buy Rating - TipRanks",META,Google RSS,positive,0.9100853800773621
-2026-09-02 17:41:38,"U.S. Debt, AI Borrowing Binge Spurs Bessent's Bond Market Gambit; Risks Rise For Stocks, Dollar",META,Yahoo RSS,negative,-0.49975305795669556
+2026-09-02 17:49:50,"Most Active Stocks: Meta Tops List with 27% Upside, Strong Buy Rating - TipRanks",META,Google RSS,positive,0.910085380077362
+2026-09-02 17:41:38,"U.S. Debt, AI Borrowing Binge Spurs Bessent's Bond Market Gambit; Risks Rise For Stocks, Dollar",META,Yahoo RSS,negative,-0.4997530579566955
+2026-09-01 17:03:38,"Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot - finance.yahoo.com",AAPL,Google RSS,negative,-0.9380533695220947
+2026-09-01 18:10:46,"Retail Investors’ 2 Favorite AI Stocks for the Long Term: Alphabet, IBM - finance.yahoo.com",GOOGL,Google RSS,neutral,0.0
+2026-09-01 17:44:47,Microsoft Stock Drops as $41 Billion Capex Meets 4.8% Yields - finance.yahoo.com,MSFT,Google RSS,negative,-0.9413220882415771
+2026-08-31 03:35:00,Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates? - finance.yahoo.com,MSFT,Google RSS,neutral,0.0
+2026-09-02 22:38:00,Microsoft Discloses Exact Azure Sales Figures For The First Time Following Longstanding Investor Demand - Stocktwits,MSFT,Google RSS,neutral,0.0
+2026-09-01 17:02:27,Microsoft Stock Drops as $41 Billion Capex Meets 4.8% Yields - gurufocus.com,MSFT,Google RSS,negative,-0.9415246248245239
+2026-09-02 22:38:32,Microsoft Discloses Exact Azure Sales Figures For The First Time Following Longstanding Investor Demand,MSFT,Yahoo RSS,neutral,0.0
+2026-09-02 20:53:00,Nvidia Leads Chip Stocks Higher Amid Renewed Confidence In AI Spending - Investor's Business Daily,NVDA,Google RSS,positive,0.9479438066482544
+2026-08-27 16:31:00,AI giant Nvidia’s stock jumps after strong second quarter earnings - thehill.com,NVDA,Google RSS,neutral,0.0
+2026-08-26 01:39:00,Nvidia Earnings on August 26: What History Tells Us About Nvidia Stock's Post-Earnings-Release Moves - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-08-27 10:31:00,AI giant Nvidia’s stock jumps after strong second quarter earnings,NVDA,Bing RSS,positive,0.5357717871665955
+2026-09-02 21:31:13,"Stock Market Today, Sept. 2: Dell Helps Stocks Edge Higher Despite Geopolitical Tensions",NVDA,Yahoo RSS,positive,0.9457789063453674
+2026-09-02 21:03:33,The Real Price of Marvell Stock's Growth,NVDA,Yahoo RSS,neutral,0.0
+2026-09-01 14:53:16,Alphabet (GOOG) Reports Strong Growth Fueled by AI Demand and Cloud Revenue,GOOGL,Yahoo Global,positive,0.9484772682189941
