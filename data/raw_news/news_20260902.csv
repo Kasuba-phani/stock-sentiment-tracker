@@ -1,6 +1,6 @@
 date,headline,ticker,source,sentiment_label,compound
 2026-09-01 17:43:00,"Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot - The Motley Fool",AAPL,Google RSS,negative,-0.930955708026886
-2026-09-01 17:29:42,"Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot - The Globe and Mail",AAPL,Google RSS,negative,-0.9512080550193787
+2026-09-01 17:29:42,"Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot - The Globe and Mail",AAPL,Google RSS,negative,-0.9512080550193788
 2026-09-01 17:03:38,"Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot - AOL.com",AAPL,Google RSS,negative,-0.9374845623970032
 2026-09-02 03:43:54,"Dow Jones Futures: Dell, Credo, Palo Alto Are Earnings Movers Late; Oil Prices Keep Rising",AAPL,Yahoo RSS,negative,-0.8091564178466797
 2026-09-01 14:21:56,"‘Capacity is Destiny,’ Says Top Investor About Alphabet Stock - TipRanks",GOOGL,Google RSS,neutral,0.0
@@ -26,6 +26,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-02 03:43:54,"Dow Jones Futures: Dell, Credo, Palo Alto Are Earnings Movers Late; Oil Prices Keep Rising",NVDA,Yahoo RSS,negative,-0.8091564178466797
 2026-09-02 03:17:31,CRDO Plunges Despite Q1 Beat: Retail Feels Stock Will Recover ‘Strongly’,NVDA,Yahoo RSS,positive,0.8856713771820068
 2026-09-01 14:21:56,Tesla Stock (TSLA) Slides as Archrival BYD Continues Sales Growth Recovery with Overseas Demand - TipRanks,TSLA,Google RSS,negative,-0.9697909355163574
-2026-09-01 13:54:48,"Tesla enters bull market after 20% rally, fueled by AI and robotaxi growth optimism. - Pluang",TSLA,Google RSS,positive,0.9202389121055603
+2026-09-01 13:54:48,"Tesla enters bull market after 20% rally, fueled by AI and robotaxi growth optimism. - Pluang",TSLA,Google RSS,positive,0.9202389121055604
 2026-09-01 04:24:00,Tesla (TSLA) Stock Surges 5.5% Despite 79% Spain Sales Plunge in August,TSLA,Bing RSS,positive,0.854162871837616
 2026-09-02 01:00:45,SOFI’s Decline Has Retail Looking Elsewhere — Here’s The Rival Fintech Traders Prefer Right Now,META,Yahoo RSS,neutral,0.0
+2026-09-02 05:48:09,RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith,GOOGL,Yahoo RSS,negative,-0.9104261994361877
+2026-09-02 08:24:00,Best Growth Stocks to Buy for September 2nd,AMZN,Yahoo RSS,neutral,0.0
+2026-09-02 08:10:55,US Stock Market Today: S&P 500 Futures Slip As Rising Yields Pressure Equities,AMZN,Yahoo RSS,negative,-0.9689717292785645
+2026-08-28 16:17:00,"Microsoft, Stock Of The Day, Flashes New Buy Signal. Why It's Still An ‘AI Winner.' - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-09-01 11:51:02,BofA raises Microsoft stock price target to $600 on AI growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-08-30 21:15:00,Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates?,MSFT,Bing RSS,positive,0.9078645706176758
+2026-09-02 05:48:09,RZLV Stock Stares At Worst Week Since June Despite 21X Revenue Jump: Retail Keeps The Faith,MSFT,Yahoo RSS,negative,-0.9104261994361877
+2026-09-02 08:11:14,Akamai (AKAM) Stock Looks Fully Priced Despite Strong 38% Returns,MSFT,Yahoo RSS,positive,0.9356451630592346
+2026-09-02 07:18:01,MongoDB Just Delivered a Beat and Raise Quarter -- So Why Is the Stock Falling?,MSFT,Yahoo RSS,negative,-0.8177170753479004
+2026-08-31 22:01:34,Nvidia stock flashes unusual signal for investors - thestreet.com,NVDA,Google RSS,neutral,0.0
+2026-09-02 08:13:08,Top 3 British Undervalued Stocks To Watch In September 2026,NVDA,Yahoo RSS,neutral,0.0
+2026-09-02 08:11:14,Akamai (AKAM) Stock Looks Fully Priced Despite Strong 38% Returns,NVDA,Yahoo RSS,positive,0.9356451630592346
+2026-09-02 08:09:00,AFL attracts strong investor interest in new EUR 500m 8-year Sustainability Bond,META,Yahoo RSS,positive,0.9299253225326538
+2026-09-02 05:49:23,Netflix stock falls as streaming competition and valuation weigh on sentiment - AD HOC NEWS,NFLX,Google RSS,negative,-0.966124951839447
