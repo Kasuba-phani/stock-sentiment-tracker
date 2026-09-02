@@ -45,11 +45,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-02 05:49:23,Netflix stock falls as streaming competition and valuation weigh on sentiment - AD HOC NEWS,NFLX,Google RSS,negative,-0.966124951839447
 2026-09-02 12:11:07,"Dow Jones Futures Rise As Oil Prices Fall; Dell, Credo, Palo Alto Are Earnings Movers",AAPL,Yahoo RSS,negative,-0.7302908897399902
 2026-09-02 04:54:05,Alphabet C stock steadies near $339 as Q2 2026 cloud surge meets heavy AI spend - AD HOC NEWS,GOOGL,Google RSS,negative,-0.8176259994506836
-2026-08-31 18:53:11,Amazon Stock (AMZN) Is Falling on Monday – What’s Behind the Move - TipRanks,AMZN,Google RSS,negative,-0.9338697195053101
+2026-08-31 18:53:11,Amazon Stock (AMZN) Is Falling on Monday – What’s Behind the Move - TipRanks,AMZN,Google RSS,negative,-0.93386971950531
 2026-09-02 13:00:00,"Aurora to Host Analyst & Investor Day on September 23, 2026",AMZN,Yahoo RSS,neutral,0.0
 2026-09-01 23:45:00,Why Microsoft stock could see upto 20% more upside despite gaining 30% since earnings,MSFT,Bing RSS,positive,0.8134633302688599
 2026-09-02 13:05:00,MongoDB raises fiscal 2027 outlook after strong Q2 report,MSFT,Yahoo RSS,positive,0.8718841075897217
-2026-09-02 12:59:44,William Blair upgrades GitLab to Market Perform after strong second quarter,MSFT,Yahoo RSS,positive,0.9511227607727051
+2026-09-02 12:59:44,William Blair upgrades GitLab to Market Perform after strong second quarter,MSFT,Yahoo RSS,positive,0.9511227607727052
 2026-09-01 13:15:00,"Semiconductor Stocks Slide as Global Bond Selloff Lifts Yields: Intel Drops 3%, NVIDIA and AMD Slip - 24/7 Wall St.",NVDA,Google RSS,negative,-0.9671557545661926
 2026-09-02 11:54:33,"Nvidia Is Still Retail Investors' Most-Held Stock on Robinhood, but a New Trillion-Dollar Stock Has Entered the Top 10 - The Globe and Mail",NVDA,Google RSS,positive,0.5460264682769775
 2026-09-02 11:33:30,"Nvidia Is Still Retail Investors' Most-Held Stock on Robinhood, but a New Trillion-Dollar Stock Has Entered the Top 10 - The Motley Fool",NVDA,Google RSS,neutral,0.0
@@ -58,3 +58,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-02 13:05:00,MongoDB raises fiscal 2027 outlook after strong Q2 report,NVDA,Yahoo RSS,positive,0.8718841075897217
 2026-09-02 04:46:17,Tesla stock gains on Cybercab optimism despite mixed earnings - AD HOC NEWS,TSLA,Google RSS,positive,0.7781545519828796
 2026-09-02 12:49:56,"J.P. Morgan cuts NIO to Neutral, slashes price target on weak demand outlook",TSLA,Yahoo RSS,negative,-0.9511763453483582
+2026-08-28 21:34:00,Microsoft’s stock seals its longest winning streak of the year as AI software fears fade - MarketWatch,MSFT,Google RSS,positive,0.5767619609832764
+2026-08-27 14:05:00,Microsoft Stock (MSFT) Opinions on Strong Cloud Growth and Market Recovery - Quiver Quantitative,MSFT,Google RSS,neutral,0.0
+2026-08-28 16:00:16,Resilient Microsoft stock edges higher as Azure growth and AI bets underpin a $560 consensus target - AD HOC NEWS,MSFT,Google RSS,positive,0.934903621673584
+2026-08-27 17:33:05,Nvidia ignites chip stock rally as forecast shows AI boom is intact - Reuters,NVDA,Google RSS,neutral,0.0
+2026-08-26 20:26:00,"Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs - Investor's Business Daily",NVDA,Google RSS,negative,-0.9348000884056091
+2026-09-02 15:45:23,"European Stocks Close Mostly Lower in Tuesday Trading; Bonds Rise on Inflation, Government Debt Concerns",TSLA,Yahoo RSS,negative,-0.9560215473175049
