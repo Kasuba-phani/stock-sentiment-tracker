@@ -22,5 +22,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-01 11:51:02,BofA raises Microsoft stock price target to $600 on AI growth - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-09-03 07:59:57,Microsoft shares rise after Azure sales disclosure; AI cloud growth in focus - The Economic Times,MSFT,Google RSS,positive,0.770379900932312
 2026-09-01 20:26:56,Microsoft's AI-driven cloud growth boosts stock target to $600 by Bank of America - Pluang,MSFT,Google RSS,positive,0.9259377717971802
-2026-09-03 06:42:45,Why Redwire Stock Rocketed 24% Higher in August,NVDA,Yahoo RSS,positive,0.9461334347724915
+2026-09-03 06:42:45,Why Redwire Stock Rocketed 24% Higher in August,NVDA,Yahoo RSS,positive,0.9461334347724916
 2026-09-03 08:38:35,"Why Are Nasdaq, S&P 500 Futures Rising Premarket? TSLA, AVGO, SNOW, HPE, PLTR, LULU Stocks In Focus",TSLA,Yahoo RSS,neutral,0.0
+2026-09-03 09:09:28,Market Chatter: Global Corporate Giants Draw Regulatory Attention to Blacklisted Groups in Supply Chains,AMZN,Yahoo RSS,negative,-0.9296898245811462
+2026-09-03 13:00:49,Microsoft and Meta Signed Multi-Decade Nuclear Power Deals. These 3 Stocks Supply That Power,MSFT,Yahoo RSS,neutral,0.0
+2026-09-03 12:11:48,"Dow Jones Futures Rise, Oil Prices Keep Climbing; Snowflake, Victoria's Secret Are Big Movers With Tesla Cybercab Event Due",TSLA,Yahoo RSS,neutral,0.0
+2026-09-03 09:09:28,Market Chatter: Global Corporate Giants Draw Regulatory Attention to Blacklisted Groups in Supply Chains,TSLA,Yahoo RSS,negative,-0.9296898245811462
+2026-09-03 12:00:00,Amdocs CEO Shimie Hortig and CFO Tal Rozenfeld to Speak at the Goldman Sachs Communacopia + Technology Conference and Citi's 2026 Global TMT Conference in September,META,Yahoo RSS,neutral,0.0
+2026-09-03 13:00:49,Microsoft and Meta Signed Multi-Decade Nuclear Power Deals. These 3 Stocks Supply That Power,META,Yahoo RSS,neutral,0.0
+2026-09-03 04:27:06,Why Netflix stock gained 13% in August,NFLX,Bing RSS,positive,0.8867713809013367
