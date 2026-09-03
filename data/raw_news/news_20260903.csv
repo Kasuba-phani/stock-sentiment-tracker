@@ -5,7 +5,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-01 17:38:00,Why Microsoft’s stock could rally another 20% even after a summer winning streak - MarketWatch,MSFT,Google RSS,neutral,0.0
 2026-08-31 17:00:58,Wall Street analyst sets Microsoft stock price target for next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
 2026-09-01 01:34:05,Microsoft stock downgraded from Strong Buy Candidate to Hold/Accumulate after Monday trading session - StockInvest.us,MSFT,Google RSS,negative,-0.6308479309082031
-2026-09-01 17:44:47,Microsoft Stock Drops as $41 Billion Capex Meets 4.8% Yields - uk.finance.yahoo.com,MSFT,Google RSS,negative,-0.9126564860343933
+2026-09-01 17:44:47,Microsoft Stock Drops as $41 Billion Capex Meets 4.8% Yields - uk.finance.yahoo.com,MSFT,Google RSS,negative,-0.9126564860343932
 2026-09-02 22:38:00,Microsoft Discloses Exact Azure Sales Figures For The First Time Following Longstanding Investor Demand - Stocktwits,MSFT,Google RSS,neutral,0.0
 2026-08-27 09:46:01,Microsoft Stock Leads 3 AI Infrastructure Picks Retail Investors Are Watching - simplywall.st,MSFT,Google RSS,neutral,0.0
 2026-09-01 20:26:56,Microsoft's AI-driven cloud growth boosts stock target to $600 by Bank of America - pluang.com,MSFT,Google RSS,positive,0.8656129240989685
@@ -16,3 +16,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-01 05:32:05,Tesla Stock (TSLA) Falls as August Data Puts Sales Comeback to the Test - TipRanks,TSLA,Google RSS,negative,-0.9643011689186096
 2026-09-01 13:54:48,"Tesla enters bull market after 20% rally, fueled by AI and robotaxi growth optimism. - pluang.com",TSLA,Google RSS,positive,0.6101253032684326
 2026-09-02 13:52:00,"Dow Jones futures: Snowflake, Broadcom, HPE are big earnings movers; Tesla Cybercab event due",TSLA,Bing RSS,neutral,0.0
+2026-08-31 08:51:00,"My Personal CFO LLC Acquires 6,294 Shares of Amazon.com, Inc. $AMZN - MarketBeat",AMZN,Google RSS,neutral,0.0
+2026-08-28 16:17:00,"Microsoft, Stock Of The Day, Flashes New Buy Signal. Why It's Still An ‘AI Winner.' - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-09-01 17:38:00,Why Microsoft’s stock could rally another 20% even after a summer winning streak - marketwatch.com,MSFT,Google RSS,positive,0.7054353356361389
+2026-09-01 11:51:02,BofA raises Microsoft stock price target to $600 on AI growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-03 07:59:57,Microsoft shares rise after Azure sales disclosure; AI cloud growth in focus - The Economic Times,MSFT,Google RSS,positive,0.770379900932312
+2026-09-01 20:26:56,Microsoft's AI-driven cloud growth boosts stock target to $600 by Bank of America - Pluang,MSFT,Google RSS,positive,0.9259377717971802
+2026-09-03 06:42:45,Why Redwire Stock Rocketed 24% Higher in August,NVDA,Yahoo RSS,positive,0.9461334347724915
+2026-09-03 08:38:35,"Why Are Nasdaq, S&P 500 Futures Rising Premarket? TSLA, AVGO, SNOW, HPE, PLTR, LULU Stocks In Focus",TSLA,Yahoo RSS,neutral,0.0
