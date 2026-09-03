@@ -42,9 +42,22 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-03 14:23:00,The Death of the Safe Haven: How to Fix Your Bond Strategy as Yields Rise,META,Yahoo RSS,neutral,0.0
 2026-09-03 03:28:00,Google starts September with AI momentum after longest monthly losing streak in over a decade - CNBC,GOOGL,Google RSS,negative,-0.8957086801528931
 2026-09-03 15:55:55,Alphabet's stock hits longest losing streak sin... - Pluang,GOOGL,Google RSS,negative,-0.862488865852356
-2026-09-03 17:49:00,"AVGO Q3 Earnings Beat Estimates, Revenues Rise on Strong AI Demand",GOOGL,Yahoo RSS,positive,0.9509763717651367
+2026-09-03 17:49:00,"AVGO Q3 Earnings Beat Estimates, Revenues Rise on Strong AI Demand",GOOGL,Yahoo RSS,positive,0.9509763717651368
 2026-09-03 15:50:14,Here Are My Top 5 Stocks for September - The Globe and Mail,AMZN,Google RSS,neutral,0.0
 2026-08-31 03:54:24,Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates? - The Globe and Mail,MSFT,Google RSS,positive,0.8483012318611145
 2026-09-03 06:41:05,Microsoft stock gains as new Azure disclosure highlights 42% cloud growth - AD HOC NEWS,MSFT,Google RSS,positive,0.7991942167282104
 2026-09-03 17:22:00,Broadcom Tripled AI Chip Sales and the Stock Still Fell. Is AVGO the Nvidia Alternative Investors Missed? - 24/7 Wall St.,NVDA,Google RSS,negative,-0.8219830989837646
 2026-09-03 18:54:41,How Much Upside Can APP Stock's Growth Deliver?,META,Yahoo RSS,neutral,0.0
+2026-09-03 13:53:00,Amazon vs. Microsoft: 1 key metric identifies the superior artificial intelligence (AI) cloud stock,AMZN,Bing RSS,positive,0.8288101553916931
+2026-09-01 17:02:27,Microsoft Stock Drops as $41 Billion Capex Meets 4.8% Yields - GuruFocus,MSFT,Google RSS,negative,-0.9621094465255737
+2026-08-27 14:05:00,Microsoft Stock (MSFT) Opinions on Strong Cloud Growth and Market Recovery - Quiver Quantitative,MSFT,Google RSS,neutral,0.0
+2026-09-03 22:24:58,"S&P 500, Dow End Best Day In A Month On Calmer Yields As Rate Hike Bets Wane — SPCX, VSXY, NVDA, TSLA In Focus",MSFT,Yahoo RSS,neutral,0.0
+2026-09-03 22:46:54,"Dow Jones Futures: Stocks Jump On Fed's Waller; Tesla Cybercab Event Private, Jobs Report Looms",MSFT,Yahoo RSS,negative,-0.9059005975723267
+2026-08-31 22:01:34,Nvidia stock flashes unusual signal for investors - thestreet.com,NVDA,Google RSS,neutral,0.0
+2026-09-03 17:22:00,Broadcom Tripled AI Chip Sales and the Stock Still Fell. Is AVGO the Nvidia Alternative Investors Missed? - 247wallst.com,NVDA,Google RSS,negative,-0.574074923992157
+2026-09-03 21:03:01,Mortgage Rates Just Hit a 1-Year High. Here’s What That Means for Lowe’s and Home Depot Investors.,NVDA,Yahoo RSS,neutral,0.0
+2026-09-03 22:46:54,"Dow Jones Futures: Stocks Jump On Fed's Waller; Tesla Cybercab Event Private, Jobs Report Looms",NVDA,Yahoo RSS,negative,-0.9059005975723267
+2026-09-03 22:24:58,"S&P 500, Dow End Best Day In A Month On Calmer Yields As Rate Hike Bets Wane — SPCX, VSXY, NVDA, TSLA In Focus",NVDA,Yahoo RSS,neutral,0.0
+2026-09-03 22:46:54,"Dow Jones Futures: Stocks Jump On Fed's Waller; Tesla Cybercab Event Private, Jobs Report Looms",TSLA,Yahoo RSS,negative,-0.9059005975723267
+2026-09-03 20:10:48,"Dow Jumps 624 Points as Treasury Yields, Rate-Hike Odds Drop: Stock Market Today",TSLA,Yahoo RSS,negative,-0.6142505407333374
+2026-09-03 22:24:58,"S&P 500, Dow End Best Day In A Month On Calmer Yields As Rate Hike Bets Wane — SPCX, VSXY, NVDA, TSLA In Focus",TSLA,Yahoo RSS,neutral,0.0
