@@ -10,7 +10,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-08-31 17:00:58,Wall Street analyst sets Microsoft stock price target for next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
 2026-09-01 01:34:05,Microsoft stock downgraded from Strong Buy Candidate to Hold/Accumulate after Monday trading session - StockInvest.us,MSFT,Google RSS,negative,-0.6308479309082031
 2026-09-01 11:51:02,BofA raises Microsoft stock price target to $600 on AI growth - Investing.com,MSFT,Google RSS,neutral,0.0
-2026-09-01 17:02:27,Microsoft Stock Drops as $41 Billion Capex Meets 4.8% Yields - GuruFocus,MSFT,Google RSS,negative,-0.9621094465255737
+2026-09-01 17:02:27,Microsoft Stock Drops as $41 Billion Capex Meets 4.8% Yields - GuruFocus,MSFT,Google RSS,negative,-0.9621094465255736
 2026-08-28 21:34:00,Microsoft’s stock seals its longest winning streak of the year as AI software fears fade - MarketWatch,MSFT,Google RSS,positive,0.5767619609832764
 2026-08-31 03:54:24,Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates? - The Globe and Mail,MSFT,Google RSS,positive,0.8483012318611145
 2026-09-01 10:38:00,Why Microsoft’s stock could rally another 20% even after a summer winning streak,MSFT,Bing RSS,positive,0.8242688775062561
@@ -26,3 +26,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-03 22:24:58,"S&P 500, Dow End Best Day In A Month On Calmer Yields As Rate Hike Bets Wane — SPCX, VSXY, NVDA, TSLA In Focus",TSLA,Yahoo RSS,neutral,0.0
 2026-09-03 18:54:41,How Much Upside Can APP Stock's Growth Deliver?,META,Yahoo RSS,neutral,0.0
 2026-09-03 04:27:06,Why Netflix stock gained 13% in August,NFLX,Bing RSS,positive,0.8867713809013367
+2026-09-03 03:28:00,Google starts September with AI momentum after longest monthly losing streak in over a decade - cnbc.com,GOOGL,Google RSS,negative,-0.8119861483573914
+2026-08-31 17:00:58,Wall Street analyst sets Microsoft stock price target for next 12 months - finbold.com,MSFT,Google RSS,neutral,0.0
+2026-09-04 08:26:00,"The Federal Reserve's Initial September Inflation Forecast Has Arrived, and It Contains a Glaring Red Flag for Wall Street",NVDA,Yahoo RSS,negative,-0.7343623638153076
