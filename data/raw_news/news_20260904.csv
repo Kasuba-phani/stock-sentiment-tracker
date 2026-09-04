@@ -1,0 +1,28 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-09-04 03:20:35,Asian benchmarks mostly rise after tech stocks lead rally on Wall Street,AAPL,Yahoo RSS,positive,0.7054305672645569
+2026-09-03 03:28:00,Google starts September with AI momentum after longest monthly losing streak in over a decade - CNBC,GOOGL,Google RSS,negative,-0.8957086801528931
+2026-08-30 22:32:03,Alphabet Stock Pushes Attention Toward 3 US Tech Growth Stocks - simplywall.st,GOOGL,Google RSS,neutral,0.0
+2026-09-03 15:55:55,Alphabet's stock hits longest losing streak sin... - Pluang,GOOGL,Google RSS,negative,-0.862488865852356
+2026-09-03 15:50:14,Here Are My Top 5 Stocks for September - The Globe and Mail,AMZN,Google RSS,neutral,0.0
+2026-09-03 13:00:00,Microsoft and Meta Signed Multi-Decade Nuclear Power Deals. These 3 Stocks Supply That Power - 24/7 Wall St.,MSFT,Google RSS,neutral,0.0
+2026-09-01 17:38:00,Why Microsoft’s stock could rally another 20% even after a summer winning streak - MarketWatch,MSFT,Google RSS,neutral,0.0
+2026-08-28 16:17:00,"Microsoft, Stock Of The Day, Flashes New Buy Signal. Why It's Still An ‘AI Winner.' - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-08-31 17:00:58,Wall Street analyst sets Microsoft stock price target for next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
+2026-09-01 01:34:05,Microsoft stock downgraded from Strong Buy Candidate to Hold/Accumulate after Monday trading session - StockInvest.us,MSFT,Google RSS,negative,-0.6308479309082031
+2026-09-01 11:51:02,BofA raises Microsoft stock price target to $600 on AI growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-01 17:02:27,Microsoft Stock Drops as $41 Billion Capex Meets 4.8% Yields - GuruFocus,MSFT,Google RSS,negative,-0.9621094465255737
+2026-08-28 21:34:00,Microsoft’s stock seals its longest winning streak of the year as AI software fears fade - MarketWatch,MSFT,Google RSS,positive,0.5767619609832764
+2026-08-31 03:54:24,Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates? - The Globe and Mail,MSFT,Google RSS,positive,0.8483012318611145
+2026-09-01 10:38:00,Why Microsoft’s stock could rally another 20% even after a summer winning streak,MSFT,Bing RSS,positive,0.8242688775062561
+2026-08-30 21:15:00,Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates?,MSFT,Bing RSS,positive,0.9078645706176758
+2026-09-01 23:45:00,Why Microsoft stock could see upto 20% more upside despite gaining 30% since earnings,MSFT,Bing RSS,positive,0.8134633302688599
+2026-09-03 22:24:58,"S&P 500, Dow End Best Day In A Month On Calmer Yields As Rate Hike Bets Wane — SPCX, VSXY, NVDA, TSLA In Focus",MSFT,Yahoo RSS,neutral,0.0
+2026-09-04 03:20:35,Asian benchmarks mostly rise after tech stocks lead rally on Wall Street,MSFT,Yahoo RSS,positive,0.7054305672645569
+2026-08-31 22:01:34,Nvidia stock flashes unusual signal for investors - thestreet.com,NVDA,Google RSS,neutral,0.0
+2026-09-02 20:53:00,Nvidia Leads Chip Stocks Higher Amid Renewed Confidence In AI Spending - Investor's Business Daily,NVDA,Google RSS,positive,0.9479438066482544
+2026-09-03 17:22:00,Broadcom Tripled AI Chip Sales and the Stock Still Fell. Is AVGO the Nvidia Alternative Investors Missed? - 24/7 Wall St.,NVDA,Google RSS,negative,-0.8219830989837646
+2026-09-04 03:08:00,Dow Jones Futures Await Jobs Report After Bullish Market Move; Tesla Cybercabs Hit The Road - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
+2026-09-04 03:05:00,"Dow, S&P 500, Nasdaq Futures Tread Water As August Jobs Data Looms: TSLA, LULU, PL, CRDO Stocks In Focus",TSLA,Yahoo RSS,neutral,0.0
+2026-09-03 22:24:58,"S&P 500, Dow End Best Day In A Month On Calmer Yields As Rate Hike Bets Wane — SPCX, VSXY, NVDA, TSLA In Focus",TSLA,Yahoo RSS,neutral,0.0
+2026-09-03 18:54:41,How Much Upside Can APP Stock's Growth Deliver?,META,Yahoo RSS,neutral,0.0
+2026-09-03 04:27:06,Why Netflix stock gained 13% in August,NFLX,Bing RSS,positive,0.8867713809013367
