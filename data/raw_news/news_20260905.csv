@@ -1,0 +1,44 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-09-04 16:45:51,Apple stock hits $325 amid strong sales but fac... - Pluang,AAPL,Google RSS,positive,0.6509506106376648
+2026-09-04 18:48:04,"Citi Says Apple Foldable iPhone Starting Price May Exceed $2,000, iPhone 18 Series Overall Prices Expected to Rise Up to 20% - TradingKey",AAPL,Google RSS,positive,0.9123023152351379
+2026-09-04 20:55:37,"Stock Market Today: Dow Sinks Amid Rate Fears; Sandisk, KLA Lead Nasdaq-100 As Utilities Gain",AAPL,Yahoo RSS,negative,-0.6999940872192383
+2026-09-04 17:34:00,Alphabet Stock (GOOGL) Opinions on Strong Cloud Growth Prospects - Quiver Quantitative,GOOGL,Google RSS,neutral,0.0
+2026-09-04 18:23:00,3 Top Quantum Computing Stocks to Buy in September - fool.com,GOOGL,Google RSS,neutral,0.0
+2026-09-04 17:44:07,3 Top Quantum Computing Stocks to Buy in September - The Globe and Mail,GOOGL,Google RSS,neutral,0.0
+2026-08-30 22:32:03,Alphabet Stock Pushes Attention Toward 3 US Tech Growth Stocks - simplywall.st,GOOGL,Google RSS,neutral,0.0
+2026-09-04 18:18:32,Top 3 AI Stocks To Watch In September 2026,GOOGL,Yahoo RSS,neutral,0.0
+2026-09-04 17:43:00,3 Top Quantum Computing Stocks to Buy in September,GOOGL,Yahoo RSS,neutral,0.0
+2026-09-04 15:44:00,US diesel prices hit an all-time high — and it impacts you more than you might think,AMZN,Yahoo RSS,neutral,0.0
+2026-09-04 18:08:00,Founder-Led Companies That Are Redefining Technology and Growth,AMZN,Yahoo RSS,neutral,0.0
+2026-09-04 16:08:33,Microsoft Stock: Why Satya Nadella's $44 Million Sale May Not Spook Investors - benzinga.com,MSFT,Google RSS,neutral,0.0
+2026-09-04 12:05:52,Stifel raises Microsoft stock price target to $530 on AI momentum - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-01 17:38:00,Why Microsoft’s stock could rally another 20% even after a summer winning streak - MarketWatch,MSFT,Google RSS,neutral,0.0
+2026-08-31 17:00:58,Wall Street analyst sets Microsoft stock price target for next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
+2026-09-01 01:34:05,Microsoft stock downgraded from Strong Buy Candidate to Hold/Accumulate after Monday trading session - StockInvest.us,MSFT,Google RSS,negative,-0.6308479309082031
+2026-09-04 11:25:49,Analysts Offer Insights on Technology Companies: Microsoft (MSFT) and Broadcom (AVGO) - The Globe and Mail,MSFT,Google RSS,neutral,0.0
+2026-09-01 11:51:02,BofA raises Microsoft stock price target to $600 on AI growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-03 13:00:00,Microsoft and Meta Signed Multi-Decade Nuclear Power Deals. These 3 Stocks Supply That Power - 24/7 Wall St.,MSFT,Google RSS,neutral,0.0
+2026-09-04 12:04:26,Analysts Offer Insights on Technology Companies: Microsoft (MSFT) and Hewlett Packard Enterprise (HPE) - The Globe and Mail,MSFT,Google RSS,neutral,0.0
+2026-09-04 12:06:00,Microsoft (MSFT) Stock: Faces Pressure Despite Strong Cloud and AI Growth,MSFT,Bing RSS,negative,-0.9468289613723755
+2026-09-04 11:19:00,"Satya Nadella Has Delivered a More Than 10X Return for Microsoft Shareholders Since Becoming CEO in 2014, a 30% Annualized Growth Rate. Is That Pace Still Achievable From Here?",MSFT,Bing RSS,neutral,0.0
+2026-09-01 10:38:00,Why Microsoft’s stock could rally another 20% even after a summer winning streak,MSFT,Bing RSS,positive,0.8242691159248352
+2026-09-04 20:55:37,"Stock Market Today: Dow Sinks Amid Rate Fears; Sandisk, KLA Lead Nasdaq-100 As Utilities Gain",MSFT,Yahoo RSS,negative,-0.6999940872192383
+2026-09-04 15:12:00,"Intel Climbs 4%, AMD Rises 3%, NVIDIA Ticks Up as Chip Stocks Shrug Off Rising Rate Hike Odds - 24/7 Wall St.",NVDA,Google RSS,positive,0.898236095905304
+2026-08-31 22:01:34,Nvidia stock flashes unusual signal for investors - thestreet.com,NVDA,Google RSS,neutral,0.0
+2026-09-04 20:55:00,"Stock Market Today: Dow Sinks Amid Rate Fears; Sandisk, KLA Lead Nasdaq-100 As Utilities Gain - Investor's Business Daily",NVDA,Google RSS,positive,0.44141072034835815
+2026-09-04 09:41:35,Nvidia stock is leading a Mag Seven comeback: why these stocks deserve more attention - TradingView,NVDA,Google RSS,neutral,0.0
+2026-09-04 19:02:29,NVIDIA & 2 Profitable Stocks to Buy in September for Big Upside - Zacks Investment Research,NVDA,Google RSS,positive,0.7197862863540649
+2026-09-04 22:18:49,"S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq —TSLA, NFLX, BE, NVDA In Focus",NVDA,Yahoo RSS,negative,-0.8874526619911194
+2026-09-04 12:13:00,"Dow Jones Futures Fall, Techs Rise After Market Rally; Tesla Cybercab, Jobs Report In Focus - Investor's Business Daily",TSLA,Google RSS,negative,-0.6395502686500549
+2026-09-04 16:09:00,"Stocks Fall, Rebound Bullishly; Snowflake, Dell, Tesla, Jobs Report In Focus: Weekly Review - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-09-04 15:43:11,"Midday Need to Know: Strong jobs data, Tesla cybercab scrutiny & more (SPY:NYSEARCA) - Seeking Alpha",TSLA,Google RSS,neutral,0.0
+2026-09-04 11:38:56,"Tesla stock down 29% from all-time highs, analyst sees 93% more downside — 'sell the news'",TSLA,Bing RSS,negative,-0.9641825556755066
+2026-09-04 19:36:33,Sector Update: Consumer Stocks Fall Late Afternoon,TSLA,Yahoo RSS,negative,-0.9724589586257935
+2026-09-04 22:18:49,"S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq —TSLA, NFLX, BE, NVDA In Focus",TSLA,Yahoo RSS,negative,-0.8874526619911194
+2026-09-03 13:00:00,Microsoft and Meta Signed Multi-Decade Nuclear Power Deals. These 3 Stocks Supply That Power - 24/7 Wall St.,META,Google RSS,neutral,0.0
+2026-09-04 15:37:41,"SCHG Owns More Apple Than Tesla, Meta and Palantir Combined. Is That Why Growth Investors Are Falling Behind?",META,Yahoo RSS,neutral,0.0
+2026-09-04 16:47:55,Netflix shares drop 4% as rising Treasury yields pressure growth stocks in streaming sector - Pluang,NFLX,Google RSS,negative,-0.9645687937736511
+2026-09-04 17:08:57,Netflix stock slips as Q2 2026 guidance and higher yields test streaming optimism - AD HOC NEWS,NFLX,Google RSS,negative,-0.9496220350265503
+2026-09-03 04:27:06,Why Netflix stock gained 13% in August,NFLX,Bing RSS,positive,0.886771559715271
+2026-09-04 22:18:49,"S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq —TSLA, NFLX, BE, NVDA In Focus",NFLX,Yahoo RSS,negative,-0.8874526619911194
+2026-09-04 09:17:00,OTT Localization Market Forecast Report 2026-2031 - Rising Demand for Multilingual Streaming Content Driving Worldwide Industry Growth,NFLX,Yahoo RSS,positive,0.9327774047851562
