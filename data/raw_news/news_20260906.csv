@@ -8,7 +8,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-01 17:38:00,Why Microsoft’s stock could rally another 20% even after a summer winning streak - marketwatch.com,MSFT,Google RSS,positive,0.7054349780082703
 2026-09-01 01:34:05,Microsoft stock downgraded from Strong Buy Candidate to Hold/Accumulate after Monday trading session - StockInvest.us,MSFT,Google RSS,negative,-0.6308491230010986
 2026-09-01 11:51:02,BofA raises Microsoft stock price target to $600 on AI growth - Investing.com,MSFT,Google RSS,neutral,0.0
-2026-09-04 12:06:00,Microsoft (MSFT) Stock: Faces Pressure Despite Strong Cloud and AI Growth,MSFT,Bing RSS,negative,-0.9468288421630859
+2026-09-04 12:06:00,Microsoft (MSFT) Stock: Faces Pressure Despite Strong Cloud and AI Growth,MSFT,Bing RSS,negative,-0.946828842163086
 2026-09-05 20:14:14,3 Great Quality Stocks To Own In September 2026,MSFT,Yahoo RSS,neutral,0.0
 2026-09-04 20:55:37,"Stock Market Today: Dow Sinks Amid Rate Fears; Sandisk, KLA Lead Nasdaq-100 As Utilities Gain",MSFT,Yahoo RSS,negative,-0.6999948620796204
 2026-09-02 20:53:00,Nvidia Leads Chip Stocks Higher Amid Renewed Confidence In AI Spending - Investor's Business Daily,NVDA,Google RSS,positive,0.9479438066482544
@@ -18,7 +18,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-04 11:38:56,"Tesla stock down 29% from all-time highs, analyst sees 93% more downside — 'sell the news'",TSLA,Bing RSS,negative,-0.964182436466217
 2026-09-04 22:18:49,"S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq —TSLA, NFLX, BE, NVDA In Focus",TSLA,Yahoo RSS,negative,-0.8874526619911194
 2026-09-02 18:12:09,"Most Active Stocks: Meta Tops List with 27% Upside, Strong Buy Rating - TipRanks",META,Google RSS,positive,0.9100854396820068
-2026-09-04 16:47:55,Netflix shares drop 4% as rising Treasury yields pressure growth stocks in streaming sector - Pluang,NFLX,Google RSS,negative,-0.9645689129829407
+2026-09-04 16:47:55,Netflix shares drop 4% as rising Treasury yields pressure growth stocks in streaming sector - Pluang,NFLX,Google RSS,negative,-0.9645689129829408
 2026-09-03 04:27:06,Why Netflix stock gained 13% in August,NFLX,Bing RSS,positive,0.8867714405059814
 2026-09-04 22:18:49,"S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq —TSLA, NFLX, BE, NVDA In Focus",NFLX,Yahoo RSS,negative,-0.8874526619911194
 2026-09-04 09:17:00,OTT Localization Market Forecast Report 2026-2031 - Rising Demand for Multilingual Streaming Content Driving Worldwide Industry Growth,NFLX,Yahoo RSS,positive,0.9327774047851562
+2026-09-04 17:34:00,Alphabet Stock (GOOGL) Opinions on Strong Cloud Growth Prospects - quiverquant.com,GOOGL,Google RSS,neutral,0.0
+2026-09-03 16:30:00,Here Are My Top 5 Stocks for September - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-09-01 17:38:00,Why Microsoft’s stock could rally another 20% even after a summer winning streak - MarketWatch,MSFT,Google RSS,neutral,0.0
+2026-09-04 12:05:52,Stifel raises Microsoft stock price target to $530 on AI momentum - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-01 10:38:00,Why Microsoft’s stock could rally another 20% even after a summer winning streak,MSFT,Bing RSS,positive,0.8242688775062561
+2026-09-06 07:23:01,Why GitLab Stock Soared 35% in August and Why It's Already Rocketed Higher,NVDA,Yahoo RSS,neutral,0.0
+2026-09-06 08:18:22,"Biondo Investment Advisors LLC Makes New Investment in Tesla, Inc. $TSLA - marketbeat.com",TSLA,Google RSS,neutral,0.0
+2026-09-05 18:07:27,Netflix (NFLX) Hits a 52-Week Low — Why 37 Analysts Still See 56% Upside - TradingKey,NFLX,Google RSS,negative,-0.9517979025840759
