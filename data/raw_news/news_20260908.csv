@@ -33,3 +33,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-08 05:57:00,Tesla (TSLA) Stock Faces Headwinds as August Sales Plunge 26% and Cybercab Debut Falls Flat,TSLA,Bing RSS,negative,-0.9743618965148926
 2026-09-08 13:51:58,Bond yield worries persist as oil edges higher: AlphaCheck,TSLA,Yahoo RSS,neutral,0.0
 2026-09-08 13:47:00,The Death of the Safe Haven: How to Fix Your Bond Strategy as Yields Rise,META,Yahoo RSS,neutral,0.0
+2026-09-08 20:32:00,"Dow Jones Futures: Dow Breaks Support But AMD, HPE Are New Buys; Apple iPhone Event Due - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-09-08 13:33:00,Why Oracle stock rose nearly 15% last month,GOOGL,Bing RSS,positive,0.9228416085243225
+2026-09-08 19:49:32,6 Massive Reasons Standard Lithium Stock Popped 33% in August,NVDA,Yahoo RSS,positive,0.5494939684867859
+2026-09-08 20:50:00,"What Does ""Reshoring"" Actually Mean for Industrial Investors?",NVDA,Yahoo RSS,neutral,0.0
+2026-09-08 20:53:00,Meta Launches Simple-To-Use Muse Personal AI Agent - Investor's Business Daily,META,Google RSS,neutral,0.0
