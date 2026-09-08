@@ -21,3 +21,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-08 05:13:00,"Dow futures fall, oil jumps with Apple, inflation ahead; Nvidia, Micron, Sandisk flash buy signals",AAPL,Bing RSS,neutral,0.0
 2026-09-08 07:41:34,Oak Family Advisors LLC Has $3.97 Million Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,neutral,0.0
 2026-09-08 07:41:31,Interchange Capital Partners LLC Has $14.04 Million Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,neutral,0.0
+2026-09-08 08:12:59,"US Stock Market Week Ahead: CPI, Apple’s iPhone Event, and Oracle Earnings Loom in a Four-Day Week - Stocks Down Under",AAPL,Google RSS,negative,-0.9685028195381165
+2026-09-08 12:57:01,Apple's strong June quarter boosts investor con... - Pluang,AAPL,Google RSS,positive,0.9490602612495422
+2026-09-08 13:47:00,The Death of the Safe Haven: How to Fix Your Bond Strategy as Yields Rise,GOOGL,Yahoo RSS,neutral,0.0
+2026-09-08 13:13:00,Ryan Olohan Joins MDCalc as Head of Sales,GOOGL,Yahoo RSS,neutral,0.0
+2026-09-08 15:42:59,Amazon's AWS growth fuels bullish outlook; shar... - Pluang,AMZN,Google RSS,positive,0.9194980263710022
+2026-09-01 17:44:47,Microsoft Stock Drops as $41 Billion Capex Meets 4.8% Yields - finance.yahoo.com,MSFT,Google RSS,negative,-0.9413220882415771
+2026-09-07 19:20:01,Nvidia Stock: Is It Still a Good Buy at $230? - finance.yahoo.com,NVDA,Google RSS,neutral,0.0
+2026-09-08 16:07:38,Corning's stock plunged 46% in July despite hug... - Pluang,NVDA,Google RSS,negative,-0.9719858169555664
+2026-09-07 19:34:01,Nvidia Stock: Is It Still a Good Buy at $230? - The Globe and Mail,NVDA,Google RSS,neutral,0.0
+2026-09-08 05:57:00,Tesla (TSLA) Stock Faces Headwinds as August Sales Plunge 26% and Cybercab Debut Falls Flat,TSLA,Bing RSS,negative,-0.9743618965148926
+2026-09-08 13:51:58,Bond yield worries persist as oil edges higher: AlphaCheck,TSLA,Yahoo RSS,neutral,0.0
+2026-09-08 13:47:00,The Death of the Safe Haven: How to Fix Your Bond Strategy as Yields Rise,META,Yahoo RSS,neutral,0.0
