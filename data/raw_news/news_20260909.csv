@@ -38,7 +38,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-09 12:52:08,Cantor Has Strong Message for Nvidia Stock Investors,NVDA,Yahoo RSS,positive,0.872646152973175
 2026-09-09 12:13:35,Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due,NVDA,Yahoo RSS,negative,-0.8931109309196472
 2026-09-09 13:17:21,Morgan Stanley Deems Apple's September 9 Event 'Most Consequential in a Decade': What AAPL Stock Investors Should Know - Barchart.com,AAPL,Google RSS,neutral,0.0
-2026-09-09 16:20:22,"Dow, Nasdaq Down Triple Digits as Brent Crude Tops July Peak - Finviz",AAPL,Google RSS,negative,-0.9416946172714233
+2026-09-09 16:20:22,"Dow, Nasdaq Down Triple Digits as Brent Crude Tops July Peak - Finviz",AAPL,Google RSS,negative,-0.9416946172714232
 2026-09-09 13:44:53,Alphabet Inc. (GOOGL) Presents at Goldman Sachs Communacopia + Technology Conference 2026 - Slideshow - Seeking Alpha,GOOGL,Google RSS,neutral,0.0
 2026-09-09 13:31:50,Look Very Hard at Microsoft and Alphabet as Rate Hike Fears Roil Markets - finance.yahoo.com,GOOGL,Google RSS,neutral,0.0
 2026-09-09 15:14:00,Top 3 Streaming Stocks to Ride on Rising Ad and Viewing Trends - finance.yahoo.com,GOOGL,Google RSS,neutral,0.0
@@ -50,3 +50,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-09 17:31:00,My Top Dividend Growth Stock to Buy in September and Hold Forever,NVDA,Yahoo RSS,neutral,0.0
 2026-09-09 17:52:09,Meta stock outlook: momentum strong but short-term indicators overbought - Investing.com,META,Google RSS,neutral,0.0
 2026-09-09 16:52:32,Meta Stock Tests Key Resistance Above $650 as Meta Launches Muse Personal AI Agent - FXLeaders,META,Google RSS,positive,0.9207149147987366
+2026-09-09 20:32:00,"Stocks Fall On Oil, Yields, But Meta Jumps. Inflation Data Due. - Investor's Business Daily",AAPL,Google RSS,negative,-0.7840550541877747
+2026-09-09 21:15:17,"Dow Jones Futures: Oil Prices, Yields Hit Stocks, With Meta, SpaceX Key Movers. Apple Unfolds iPhone, Inflation Data Due",AAPL,Yahoo RSS,neutral,0.0
+2026-09-09 14:33:31,Top 3 Streaming Stocks to Ride on Rising Ad and Viewing Trends - Zacks Investment Research,GOOGL,Google RSS,neutral,0.0
+2026-09-09 20:31:01,Marvell Has Raised Its Growth Outlook 3 Times Since December. The Stock Still Sits 28% Below Its High.,NVDA,Yahoo RSS,negative,-0.9138557314872742
+2026-09-09 20:32:00,"Stocks Fall On Oil, Yields, But Meta Jumps. Inflation Data Due. - Investor's Business Daily",META,Google RSS,negative,-0.7840550541877747
+2026-09-09 20:14:04,Meta Stock Tests Key Tech Resistance Above $650 as Meta Launches Muse Personal AI Agent - FXLeaders,META,Google RSS,positive,0.9119209051132202
+2026-09-09 21:15:17,"Dow Jones Futures: Oil Prices, Yields Hit Stocks, With Meta, SpaceX Key Movers. Apple Unfolds iPhone, Inflation Data Due",META,Yahoo RSS,neutral,0.0
