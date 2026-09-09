@@ -57,3 +57,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-09 20:32:00,"Stocks Fall On Oil, Yields, But Meta Jumps. Inflation Data Due. - Investor's Business Daily",META,Google RSS,negative,-0.7840550541877747
 2026-09-09 20:14:04,Meta Stock Tests Key Tech Resistance Above $650 as Meta Launches Muse Personal AI Agent - FXLeaders,META,Google RSS,positive,0.9119209051132202
 2026-09-09 21:15:17,"Dow Jones Futures: Oil Prices, Yields Hit Stocks, With Meta, SpaceX Key Movers. Apple Unfolds iPhone, Inflation Data Due",META,Yahoo RSS,neutral,0.0
+2026-09-09 22:07:00,"Dow Jones Futures: Oil Prices, Yields Hit Stocks, Apple Unfolds iPhone. Inflation Data Due. - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-09-09 22:01:49,"S&P 500, Dow, Nasdaq End Lower As Oil Crosses $101, Yields Pop Following Bessent’s Expanded Buyback Plan — AAPL, META, AMZN, CRM In Focus",AAPL,Yahoo RSS,negative,-0.8027744889259338
+2026-09-09 23:33:27,Dow Jones Futures: Oil Prices Keep Rising But Market Hasn't Broken Yet. Inflation Data Due.,AAPL,Yahoo RSS,neutral,0.0
+2026-09-09 22:01:49,"S&P 500, Dow, Nasdaq End Lower As Oil Crosses $101, Yields Pop Following Bessent’s Expanded Buyback Plan — AAPL, META, AMZN, CRM In Focus",AMZN,Yahoo RSS,negative,-0.8027744889259338
+2026-09-09 22:07:00,"Dow Jones Futures: Oil Prices, Yields Hit Stocks, Apple Unfolds iPhone. Inflation Data Due. - Investor's Business Daily",META,Google RSS,neutral,0.0
+2026-09-09 23:33:27,Dow Jones Futures: Oil Prices Keep Rising But Market Hasn't Broken Yet. Inflation Data Due.,META,Yahoo RSS,neutral,0.0
+2026-09-03 04:27:06,Why Netflix stock gained 13% in August,NFLX,Bing RSS,positive,0.8867714405059814
