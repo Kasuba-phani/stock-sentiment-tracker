@@ -20,3 +20,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-09 02:11:00,"Dow Jones futures fall as Brent oil prices hit $100, Apple iPhone event due; AMD, HPE are new buys",AAPL,Bing RSS,negative,-0.61106938123703
 2026-09-09 08:05:55,Amazon Is Selling Its First Sterling Bonds in Four-Part Deal,AMZN,Yahoo RSS,neutral,0.0
 2026-09-09 05:27:00,"SpaceX, Nvidia Were Schwab Traders’ Favorite Stocks In August – These Software Names Were On The Sell List - Stocktwits",NVDA,Google RSS,neutral,0.0
+2026-09-09 12:13:00,Stock Market Today: Dow Falls Amid Rising Oil Prices; Apple Shares Drop Ahead Of iPhone Event (Live Coverage) - Investor's Business Daily,AAPL,Google RSS,negative,-0.9335985779762268
+2026-09-09 12:13:00,Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due - Investor's Business Daily,AAPL,Google RSS,negative,-0.8413516879081726
+2026-09-09 13:17:21,Morgan Stanley Deems Apple's September 9 Event 'Most Consequential in a Decade': What AAPL Stock Investors Should Know - barchart.com,AAPL,Google RSS,neutral,0.0
+2026-09-09 12:13:35,Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due,AAPL,Yahoo RSS,negative,-0.8931109309196472
+2026-09-09 13:31:00,Look Very Hard at Microsoft and Alphabet as Rate Hike Fears Roil Markets - 24/7 Wall St.,GOOGL,Google RSS,negative,-0.7086780667304993
+2026-09-09 13:31:50,Look Very Hard at Microsoft and Alphabet as Rate Hike Fears Roil Markets - AOL.com,GOOGL,Google RSS,neutral,0.0
+2026-09-09 12:11:16,Alphabet C stock holds near recent highs as Q2 2026 profits surge on equity gains - AD HOC NEWS,GOOGL,Google RSS,positive,0.7018440365791321
+2026-09-09 13:31:50,Look Very Hard at Microsoft and Alphabet as Rate Hike Fears Roil Markets,GOOGL,Yahoo RSS,negative,-0.8405802845954895
+2026-09-09 13:31:00,Look Very Hard at Microsoft and Alphabet as Rate Hike Fears Roil Markets - 24/7 Wall St.,MSFT,Google RSS,negative,-0.7086780667304993
+2026-09-09 13:12:58,Microsoft stock dips after breaking key Fibonacci support - AD HOC NEWS,MSFT,Google RSS,negative,-0.9437930583953857
+2026-09-09 13:31:50,Look Very Hard at Microsoft and Alphabet as Rate Hike Fears Roil Markets - AOL.com,MSFT,Google RSS,neutral,0.0
+2026-09-04 10:13:00,"After a Microsoft stock price spike, an options strategy aims for a robust profit in weeks",MSFT,Bing RSS,positive,0.9501358866691589
+2026-09-09 13:31:50,Look Very Hard at Microsoft and Alphabet as Rate Hike Fears Roil Markets,MSFT,Yahoo RSS,negative,-0.8405802845954895
+2026-09-09 10:30:07,Nvidia to Attend Goldman Sachs Tech Conference: What Investors Need to Watch - TradingKey,NVDA,Google RSS,neutral,0.0
+2026-09-09 13:11:35,"Gasoline Prices Just Hit New Records, and They're Still Rising. Could They Trigger a Market Crash?",NVDA,Yahoo RSS,negative,-0.571860134601593
+2026-09-09 12:52:08,Cantor Has Strong Message for Nvidia Stock Investors,NVDA,Yahoo RSS,positive,0.872646152973175
+2026-09-09 12:13:35,Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due,NVDA,Yahoo RSS,negative,-0.8931109309196472
