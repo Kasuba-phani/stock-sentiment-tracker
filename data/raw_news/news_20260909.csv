@@ -17,3 +17,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-08 20:53:00,Meta Launches Simple-To-Use Muse Personal AI Agent - Investor's Business Daily,META,Google RSS,neutral,0.0
 2026-09-06 15:26:26,3 Stocks With September Catalysts Investors Shouldn’t Ignore - MarketBeat,META,Google RSS,neutral,0.0
 2026-09-04 22:18:49,"S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq —TSLA, NFLX, BE, NVDA In Focus",NFLX,Yahoo RSS,negative,-0.8874525427818298
+2026-09-09 02:11:00,"Dow Jones futures fall as Brent oil prices hit $100, Apple iPhone event due; AMD, HPE are new buys",AAPL,Bing RSS,negative,-0.61106938123703
+2026-09-09 08:05:55,Amazon Is Selling Its First Sterling Bonds in Four-Part Deal,AMZN,Yahoo RSS,neutral,0.0
+2026-09-09 05:27:00,"SpaceX, Nvidia Were Schwab Traders’ Favorite Stocks In August – These Software Names Were On The Sell List - Stocktwits",NVDA,Google RSS,neutral,0.0
