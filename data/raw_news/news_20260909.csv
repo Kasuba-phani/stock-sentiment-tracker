@@ -1,0 +1,19 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-09-09 01:01:41,History Says September Is the Worst Month for Stocks. Here’s 1 Stock With a Major Catalyst This Month to Buy and Hold - The Motley Fool,AAPL,Google RSS,neutral,0.0
+2026-09-09 01:44:32,Weaker technical forecast for Apple as stock downgraded to Strong Sell Candidate - StockInvest.us,AAPL,Google RSS,negative,-0.8861916661262512
+2026-09-08 08:01:48,"US Stock Market Week Ahead: CPI, Apple’s iPhone Event, and Oracle Earnings Loom in a Four-Day Week - Stocks Down Under",AAPL,Google RSS,negative,-0.9685028195381165
+2026-09-08 12:57:01,Apple's strong June quarter boosts investor con... - Pluang,AAPL,Google RSS,positive,0.9490602612495422
+2026-09-09 00:50:01,History Says September Is the Worst Month for Stocks. Here’s 1 Stock With a Major Catalyst This Month to Buy and Hold,AAPL,Yahoo RSS,neutral,0.0
+2026-09-04 12:05:52,Stifel raises Microsoft stock price target to $530 on AI momentum - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-08 19:14:54,Nvidia Stock (NVDA) Prediction – Cantor Fitzgerald Stays Bullish on Strong AI Infrastructure Demand - TipRanks,NVDA,Google RSS,positive,0.6152883172035217
+2026-09-09 01:44:32,NVIDIA stock downgraded from Strong Buy Candidate to Buy Candidate after Tuesday trading session - StockInvest.us,NVDA,Google RSS,negative,-0.6297710537910461
+2026-09-07 20:00:00,Nvidia Stock: Is It Still a Good Buy at $230? - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-09-07 19:34:01,Nvidia Stock: Is It Still a Good Buy at $230? - The Globe and Mail,NVDA,Google RSS,neutral,0.0
+2026-09-07 12:21:00,Nvidia Stock: Is It Still a Good Buy at $230?,NVDA,Bing RSS,neutral,0.0
+2026-09-09 02:35:00,Fed Chairman Kevin Warsh Called Inflation 'More Concerning' at His First Jackson Hole Speech. Does That Signal a Rate Hike Is Coming?,NVDA,Yahoo RSS,neutral,0.0
+2026-09-09 00:50:01,History Says September Is the Worst Month for Stocks. Here’s 1 Stock With a Major Catalyst This Month to Buy and Hold,NVDA,Yahoo RSS,neutral,0.0
+2026-09-08 17:36:36,"Tesla stock bounces 4% after Cybercab selloff, reclaiming $369 - eciks.org",TSLA,Google RSS,positive,0.5760576128959656
+2026-09-08 05:57:00,Tesla (TSLA) Stock Faces Headwinds as August Sales Plunge 26% and Cybercab Debut Falls Flat,TSLA,Bing RSS,negative,-0.9743618965148926
+2026-09-08 20:53:00,Meta Launches Simple-To-Use Muse Personal AI Agent - Investor's Business Daily,META,Google RSS,neutral,0.0
+2026-09-06 15:26:26,3 Stocks With September Catalysts Investors Shouldn’t Ignore - MarketBeat,META,Google RSS,neutral,0.0
+2026-09-04 22:18:49,"S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq —TSLA, NFLX, BE, NVDA In Focus",NFLX,Yahoo RSS,negative,-0.8874525427818298
