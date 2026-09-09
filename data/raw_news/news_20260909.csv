@@ -29,11 +29,24 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-09 12:11:16,Alphabet C stock holds near recent highs as Q2 2026 profits surge on equity gains - AD HOC NEWS,GOOGL,Google RSS,positive,0.7018440365791321
 2026-09-09 13:31:50,Look Very Hard at Microsoft and Alphabet as Rate Hike Fears Roil Markets,GOOGL,Yahoo RSS,negative,-0.8405802845954895
 2026-09-09 13:31:00,Look Very Hard at Microsoft and Alphabet as Rate Hike Fears Roil Markets - 24/7 Wall St.,MSFT,Google RSS,negative,-0.7086780667304993
-2026-09-09 13:12:58,Microsoft stock dips after breaking key Fibonacci support - AD HOC NEWS,MSFT,Google RSS,negative,-0.9437930583953857
+2026-09-09 13:12:58,Microsoft stock dips after breaking key Fibonacci support - AD HOC NEWS,MSFT,Google RSS,negative,-0.9437930583953856
 2026-09-09 13:31:50,Look Very Hard at Microsoft and Alphabet as Rate Hike Fears Roil Markets - AOL.com,MSFT,Google RSS,neutral,0.0
-2026-09-04 10:13:00,"After a Microsoft stock price spike, an options strategy aims for a robust profit in weeks",MSFT,Bing RSS,positive,0.9501358866691589
+2026-09-04 10:13:00,"After a Microsoft stock price spike, an options strategy aims for a robust profit in weeks",MSFT,Bing RSS,positive,0.9501358866691588
 2026-09-09 13:31:50,Look Very Hard at Microsoft and Alphabet as Rate Hike Fears Roil Markets,MSFT,Yahoo RSS,negative,-0.8405802845954895
 2026-09-09 10:30:07,Nvidia to Attend Goldman Sachs Tech Conference: What Investors Need to Watch - TradingKey,NVDA,Google RSS,neutral,0.0
 2026-09-09 13:11:35,"Gasoline Prices Just Hit New Records, and They're Still Rising. Could They Trigger a Market Crash?",NVDA,Yahoo RSS,negative,-0.571860134601593
 2026-09-09 12:52:08,Cantor Has Strong Message for Nvidia Stock Investors,NVDA,Yahoo RSS,positive,0.872646152973175
 2026-09-09 12:13:35,Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due,NVDA,Yahoo RSS,negative,-0.8931109309196472
+2026-09-09 13:17:21,Morgan Stanley Deems Apple's September 9 Event 'Most Consequential in a Decade': What AAPL Stock Investors Should Know - Barchart.com,AAPL,Google RSS,neutral,0.0
+2026-09-09 16:20:22,"Dow, Nasdaq Down Triple Digits as Brent Crude Tops July Peak - Finviz",AAPL,Google RSS,negative,-0.9416946172714233
+2026-09-09 13:44:53,Alphabet Inc. (GOOGL) Presents at Goldman Sachs Communacopia + Technology Conference 2026 - Slideshow - Seeking Alpha,GOOGL,Google RSS,neutral,0.0
+2026-09-09 13:31:50,Look Very Hard at Microsoft and Alphabet as Rate Hike Fears Roil Markets - finance.yahoo.com,GOOGL,Google RSS,neutral,0.0
+2026-09-09 15:14:00,Top 3 Streaming Stocks to Ride on Rising Ad and Viewing Trends - finance.yahoo.com,GOOGL,Google RSS,neutral,0.0
+2026-09-09 13:31:50,Look Very Hard at Microsoft and Alphabet as Rate Hike Fears Roil Markets - finance.yahoo.com,MSFT,Google RSS,neutral,0.0
+2026-09-09 13:12:58,Microsoft stock dips after breaking key Fibonacci support - ad-hoc-news.de,MSFT,Google RSS,negative,-0.9457194209098816
+2026-09-09 18:02:38,"Microsoft CFO Touts AI Stack, Azure Efficiency and Agent Growth at Goldman Conference",MSFT,Yahoo RSS,neutral,0.0
+2026-09-09 12:52:08,Cantor Has Strong Message for Nvidia Stock Investors - TradingView,NVDA,Google RSS,positive,0.5027028322219849
+2026-09-07 19:20:01,Nvidia Stock: Is It Still a Good Buy at $230? - finance.yahoo.com,NVDA,Google RSS,neutral,0.0
+2026-09-09 17:31:00,My Top Dividend Growth Stock to Buy in September and Hold Forever,NVDA,Yahoo RSS,neutral,0.0
+2026-09-09 17:52:09,Meta stock outlook: momentum strong but short-term indicators overbought - Investing.com,META,Google RSS,neutral,0.0
+2026-09-09 16:52:32,Meta Stock Tests Key Resistance Above $650 as Meta Launches Muse Personal AI Agent - FXLeaders,META,Google RSS,positive,0.9207149147987366
