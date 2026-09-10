@@ -26,3 +26,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-07 12:21:00,Nvidia Stock: Is It Still a Good Buy at $230?,NVDA,Bing RSS,neutral,0.0
 2026-09-10 08:45:46,"Dow, S&P 500, Nasdaq Futures Edge Higher Ahead Of PPI, Jobless Claims: NVDA, AAPL, META, ORCL, TSM, TSLA, SLS In Focus",NVDA,Yahoo RSS,neutral,0.0
 2026-09-10 08:45:46,"Dow, S&P 500, Nasdaq Futures Edge Higher Ahead Of PPI, Jobless Claims: NVDA, AAPL, META, ORCL, TSM, TSLA, SLS In Focus",TSLA,Yahoo RSS,neutral,0.0
+2026-09-10 11:52:00,S&P 500: Traders Await PPI as Yields and Oil Pressure Indices; Apple Bucks the Trend - FXEmpire,AAPL,Google RSS,negative,-0.4096429646015167
+2026-09-10 13:56:52,Treasury yields rise as investors raise bets on Fed rate hike: AlphaCheck,AAPL,Yahoo RSS,neutral,0.0
+2026-09-10 12:07:13,"Dow Jones Futures Rise, Techs Fall As Oil Prices, Yields Keep Climbing. Inflation Data Due.",AAPL,Yahoo RSS,negative,-0.9352486729621887
+2026-09-10 12:27:21,Alphabet's stock dip amid strong growth signals a buying opportunity for investors. - pluang.com,GOOGL,Google RSS,negative,-0.5826825499534607
+2026-09-10 13:53:26,"Alphabet's stock dips despite strong earnings and AI-driven growth, with a 55% upside potential forecasted. - pluang.com",GOOGL,Google RSS,negative,-0.9604248404502869
+2026-09-10 12:38:40,Alphabet stock falls as Finland spending and cloud growth clash - ad-hoc-news.de,GOOGL,Google RSS,negative,-0.8438186645507812
+2026-09-10 13:41:50,"Stock Market Today: Nasdaq Sells Off After Inflation Surprise; Oil, Yields Surge (Live Coverage)",AMZN,Yahoo RSS,negative,-0.6405129432678223
+2026-09-10 11:15:52,"Microsoft stock dips despite Azure hitting $100B revenue, seen as a buying opportunity amid strong AI growth. - pluang.com",MSFT,Google RSS,negative,-0.9129344820976257
+2026-09-10 13:41:50,"Stock Market Today: Nasdaq Sells Off After Inflation Surprise; Oil, Yields Surge (Live Coverage)",MSFT,Yahoo RSS,negative,-0.6405129432678223
+2026-09-10 12:07:00,Stock Market Today: Dow Barely Up Ahead Of Inflation Data; Nvidia Chipmaker Falls On Sales (Live Coverage) - Investor's Business Daily,NVDA,Google RSS,negative,-0.951163113117218
+2026-09-10 13:56:52,Treasury yields rise as investors raise bets on Fed rate hike: AlphaCheck,NVDA,Yahoo RSS,neutral,0.0
+2026-09-10 13:41:50,"Stock Market Today: Nasdaq Sells Off After Inflation Surprise; Oil, Yields Surge (Live Coverage)",NVDA,Yahoo RSS,negative,-0.6405129432678223
+2026-09-10 12:30:27,Intel May Raise Chip Prices 10% and the Stock Took Off. Why Most Analysts Still Refuse to Buy.,NVDA,Yahoo RSS,negative,-0.7125120162963867
+2026-09-10 11:37:00,"In A SpaceX-Tesla Merger, Elon Musk May Be The Big Winner. What It May Mean For Other Investors. - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-09-10 11:37:02,"In A SpaceX-Tesla Merger, Elon Musk May Be The Big Winner. What It May Mean For Other Investors.",TSLA,Yahoo RSS,neutral,0.0
+2026-09-10 12:09:59,"Here Are Thursday’s Top Wall Street Analyst Research Calls: Advanced Micro Devices, Amgen, AngloGold Ashanti, Caterpillar, Chewy, Meta Platforms, Novartis, NVIDIA, SK hynix, and More",META,Yahoo RSS,neutral,0.0
+2026-09-10 12:07:13,"Dow Jones Futures Rise, Techs Fall As Oil Prices, Yields Keep Climbing. Inflation Data Due.",META,Yahoo RSS,negative,-0.9352486729621887
