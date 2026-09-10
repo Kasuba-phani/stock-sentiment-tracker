@@ -43,15 +43,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-10 11:37:02,"In A SpaceX-Tesla Merger, Elon Musk May Be The Big Winner. What It May Mean For Other Investors.",TSLA,Yahoo RSS,neutral,0.0
 2026-09-10 12:09:59,"Here Are Thursday’s Top Wall Street Analyst Research Calls: Advanced Micro Devices, Amgen, AngloGold Ashanti, Caterpillar, Chewy, Meta Platforms, Novartis, NVIDIA, SK hynix, and More",META,Yahoo RSS,neutral,0.0
 2026-09-10 12:07:13,"Dow Jones Futures Rise, Techs Fall As Oil Prices, Yields Keep Climbing. Inflation Data Due.",META,Yahoo RSS,negative,-0.9352486729621888
-2026-09-10 13:53:26,"Alphabet's stock dips despite strong earnings and AI-driven growth, with a 55% upside potential forecasted. - Pluang",GOOGL,Google RSS,negative,-0.9644374847412109
+2026-09-10 13:53:26,"Alphabet's stock dips despite strong earnings and AI-driven growth, with a 55% upside potential forecasted. - Pluang",GOOGL,Google RSS,negative,-0.9644374847412108
 2026-09-10 12:27:21,Alphabet's stock dip amid strong growth signals a buying opportunity for investors. - Pluang,GOOGL,Google RSS,negative,-0.7638867497444153
-2026-09-10 15:41:34,Top Midday Stories: Macy's Shares Fall Despite Strong Earnings; Amazon Reportedly Collaborates With OpenAI on ChatGPT Advertising,AMZN,Yahoo RSS,negative,-0.9727649092674255
+2026-09-10 15:41:34,Top Midday Stories: Macy's Shares Fall Despite Strong Earnings; Amazon Reportedly Collaborates With OpenAI on ChatGPT Advertising,AMZN,Yahoo RSS,negative,-0.9727649092674256
 2026-09-10 11:15:52,"Microsoft stock dips despite Azure hitting $100B revenue, seen as a buying opportunity amid strong AI growth. - Pluang",MSFT,Google RSS,negative,-0.9357454776763916
 2026-09-10 13:05:33,Microsoft shares stagnant for 12 months despite strong AI growth; analyst sees 75% upside soon. - Pluang,MSFT,Google RSS,negative,-0.7661572694778442
-2026-09-10 12:41:40,Microsoft stock dips slightly as cloud growth and AI spending reshape the outlook - ad-hoc-news.de,MSFT,Google RSS,negative,-0.9653293490409851
+2026-09-10 12:41:40,Microsoft stock dips slightly as cloud growth and AI spending reshape the outlook - ad-hoc-news.de,MSFT,Google RSS,negative,-0.9653293490409852
 2026-09-10 15:09:14,"‘I Am the House Now,’ Bessent Warns — But Bond Traders Keep Raising Yields Anyway",MSFT,Yahoo RSS,negative,-0.6104175448417664
 2026-09-10 14:50:00,"Coca-Cola Is Outperforming Broadcom and Every ""Magnificent Seven"" Stock in 2026. Is It Still a Top Dividend Stock to Buy in September?",MSFT,Yahoo RSS,neutral,0.0
-2026-09-10 03:04:00,NVIDIA (NVDA) Stock: Drops as Palantir Partnership Targets Smarter Global Supply Chains,NVDA,Bing RSS,negative,-0.9722002148628235
+2026-09-10 03:04:00,NVIDIA (NVDA) Stock: Drops as Palantir Partnership Targets Smarter Global Supply Chains,NVDA,Bing RSS,negative,-0.9722002148628236
 2026-09-10 14:50:00,"Coca-Cola Is Outperforming Broadcom and Every ""Magnificent Seven"" Stock in 2026. Is It Still a Top Dividend Stock to Buy in September?",TSLA,Yahoo RSS,neutral,0.0
 2026-09-10 14:50:00,"Coca-Cola Is Outperforming Broadcom and Every ""Magnificent Seven"" Stock in 2026. Is It Still a Top Dividend Stock to Buy in September?",META,Yahoo RSS,neutral,0.0
 2026-09-09 08:05:55,Amazon Is Selling Its First Sterling Bonds in Four-Part Deal,AMZN,Yahoo Global,neutral,0.0
+2026-09-10 21:06:50,"Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Jumps Late With CPI Inflation Due",AAPL,Yahoo RSS,negative,-0.6601466536521912
+2026-09-10 15:42:25,Top Midday Stories: Macy's Shares Fall Despite Strong Earnings; Amazon Reportedly Collaborates With OpenAI on ChatGPT Advertising - marketscreener.com,AMZN,Google RSS,negative,-0.9720019102096558
+2026-09-10 21:13:54,Nvidia stock edges higher on Microsoft data center expansion report By Investing.com - Investing.com Nigeria,NVDA,Google RSS,positive,0.9170309901237488
+2026-09-10 18:50:06,Goldman Sachs reiterates Nvidia stock Buy rating on AI growth outlook - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-09-10 21:06:50,"Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Jumps Late With CPI Inflation Due",NVDA,Yahoo RSS,negative,-0.6601466536521912
