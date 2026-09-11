@@ -47,5 +47,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-09 13:31:00,Look Very Hard at Microsoft and Alphabet as Rate Hike Fears Roil Markets - 24/7 Wall St.,GOOGL,Google RSS,negative,-0.7086780667304993
 2026-09-11 17:28:28,Is UiPath Stock A Buy After Falling Despite A Raised Outlook?,MSFT,Yahoo RSS,neutral,0.0
 2026-09-11 20:11:06,Inflation Stays Stubbornly High in August. Here's How Likely a Fed Rate Hike Is Next Week,NVDA,Yahoo RSS,neutral,0.0
-2026-09-11 18:04:15,Dell stock hits all-time high on RBC Capital outperform rating,NVDA,Yahoo RSS,positive,0.9064431190490723
+2026-09-11 18:04:15,Dell stock hits all-time high on RBC Capital outperform rating,NVDA,Yahoo RSS,positive,0.9064431190490724
 2026-09-11 19:54:14,Sector Update: Consumer Stocks Rise Late Afternoon,TSLA,Yahoo RSS,positive,0.7561094760894775
+2026-09-11 22:09:00,"Dow Jones Futures: $100 Oil, Surging Yields Pressure Stocks With Fed Rate Hike Seen. Apple, Moderna Are New Buys. - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-09-11 22:09:33,"Dow Jones Futures: $100 Oil, Surging Yields Pressure Stocks With Fed Rate Hike Seen. Apple, Moderna Are New Buys.",AAPL,Yahoo RSS,neutral,0.0
