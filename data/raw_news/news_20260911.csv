@@ -4,9 +4,29 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-10 21:36:55,Nvidia stock edges higher on Microsoft data center expansion report,MSFT,Yahoo RSS,positive,0.9140313863754272
 2026-09-11 00:03:00,Dell enters the S&P 100 index after monstrous three-year rally,MSFT,Yahoo RSS,positive,0.4886834919452667
 2026-09-07 12:21:00,Nvidia Stock: Is It Still a Good Buy at $230?,NVDA,Bing RSS,neutral,0.0
-2026-09-10 03:04:00,NVIDIA (NVDA) Stock: Drops as Palantir Partnership Targets Smarter Global Supply Chains,NVDA,Bing RSS,negative,-0.9722002148628235
+2026-09-10 03:04:00,NVIDIA (NVDA) Stock: Drops as Palantir Partnership Targets Smarter Global Supply Chains,NVDA,Bing RSS,negative,-0.9722002148628236
 2026-09-10 23:20:00,Are Record-Breaking Ticket Sales a Good Reason to Buy AMC Stock?,NVDA,Yahoo RSS,neutral,0.0
 2026-09-11 02:49:12,"Dow Jones Futures, Oracle Jumps After Oil Prices, Yields Surge; CPI Inflation Due",NVDA,Yahoo RSS,negative,-0.779401957988739
 2026-09-11 00:03:00,Dell enters the S&P 100 index after monstrous three-year rally,NVDA,Yahoo RSS,positive,0.4886834919452667
 2026-09-10 11:37:02,"In A SpaceX-Tesla Merger, Elon Musk May Be The Big Winner. What It May Mean For Other Investors.",TSLA,Yahoo RSS,neutral,0.0
 2026-09-10 14:50:00,"Coca-Cola Is Outperforming Broadcom and Every ""Magnificent Seven"" Stock in 2026. Is It Still a Top Dividend Stock to Buy in September?",TSLA,Yahoo RSS,neutral,0.0
+2026-09-10 22:09:00,Stock Market Trips With Nasdaq Making Key Test Before CPI Report; Apple Shines - Investor's Business Daily,AAPL,Google RSS,neutral,0.0
+2026-09-11 08:09:12,"Dow Jones Futures Rise, Oil Prices Fall, Oracle Jumps; CPI Inflation Data To Inform Fed",AAPL,Yahoo RSS,neutral,0.0
+2026-09-10 13:53:26,"Alphabet's stock dips despite strong earnings and AI-driven growth, with a 55% upside potential forecasted. - Pluang",GOOGL,Google RSS,negative,-0.96443772315979
+2026-09-10 12:27:21,Alphabet's stock dip amid strong growth signals a buying opportunity for investors. - Pluang,GOOGL,Google RSS,negative,-0.7638861536979675
+2026-09-09 13:44:53,Alphabet Inc. (GOOGL) Presents at Goldman Sachs Communacopia + Technology Conference 2026 - Slideshow - Seeking Alpha,GOOGL,Google RSS,neutral,0.0
+2026-09-10 21:30:50,Nvidia stock edges higher on Microsoft data center expansion report - Investing.com,MSFT,Google RSS,positive,0.9069882035255432
+2026-09-10 22:57:00,"Microsoft Rises, Defying Weak Market; Leads 17 To Top Growth Stock Lists - Investor's Business Daily",MSFT,Google RSS,positive,0.8619911074638367
+2026-09-10 11:15:52,"Microsoft stock dips despite Azure hitting $100B revenue, seen as a buying opportunity amid strong AI growth. - Pluang",MSFT,Google RSS,negative,-0.9357454776763916
+2026-09-04 12:05:52,Stifel raises Microsoft stock price target to $530 on AI momentum - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-10 21:30:50,Nvidia stock edges higher on Microsoft data center expansion report - Investing.com,NVDA,Google RSS,positive,0.9069882035255432
+2026-09-10 22:50:38,NVIDIA Stock Leads These Rate Sensitive US Growth Names Into The CPI Print - simplywall.st,NVDA,Google RSS,neutral,0.0
+2026-09-10 18:50:06,Goldman Sachs reiterates Nvidia stock Buy rating on AI growth outlook - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-09-11 07:25:00,There Are Only a Handful of Dow Stocks That Yield Over 3%. Here's My Top Pick to Buy Before September Ends.,NVDA,Yahoo RSS,neutral,0.0
+2026-09-11 08:26:01,Forget Today's Inflation Report: Fed Chair Kevin Warsh and His Colleagues Have Likely Already Made Up Their Mind for the Sept. 16 FOMC Meeting,NVDA,Yahoo RSS,neutral,0.0
+2026-09-11 08:09:12,"Dow Jones Futures Rise, Oil Prices Fall, Oracle Jumps; CPI Inflation Data To Inform Fed",NVDA,Yahoo RSS,neutral,0.0
+2026-09-10 11:37:00,"In A SpaceX-Tesla Merger, Elon Musk May Be The Big Winner. What It May Mean For Other Investors. - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-09-08 17:36:36,"Tesla stock bounces 4% after Cybercab selloff, reclaiming $369 - eciks.org",TSLA,Google RSS,positive,0.5760577321052551
+2026-09-11 08:33:52,"Nasdaq, Dow, S&P 500 Futures Rise After 4-Day Market Slide As CPI Looms Large: ORCL, ADBE, MU, TSLA, RKLB, IBRX, HOOD, GME In Focus",TSLA,Yahoo RSS,negative,-0.4886881709098816
+2026-09-08 20:53:00,Meta Launches Simple-To-Use Muse Personal AI Agent - Investor's Business Daily,META,Google RSS,neutral,0.0
+2026-09-09 17:52:09,Meta stock outlook: momentum strong but short-term indicators overbought - Investing.com,META,Google RSS,neutral,0.0
