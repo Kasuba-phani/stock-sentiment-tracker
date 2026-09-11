@@ -1,0 +1,12 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-09-11 00:03:00,Dell enters the S&P 100 index after monstrous three-year rally,AAPL,Yahoo RSS,positive,0.4886834919452667
+2026-09-11 02:49:12,"Dow Jones Futures, Oracle Jumps After Oil Prices, Yields Surge; CPI Inflation Due",AAPL,Yahoo RSS,negative,-0.779401957988739
+2026-09-10 21:36:55,Nvidia stock edges higher on Microsoft data center expansion report,MSFT,Yahoo RSS,positive,0.9140313863754272
+2026-09-11 00:03:00,Dell enters the S&P 100 index after monstrous three-year rally,MSFT,Yahoo RSS,positive,0.4886834919452667
+2026-09-07 12:21:00,Nvidia Stock: Is It Still a Good Buy at $230?,NVDA,Bing RSS,neutral,0.0
+2026-09-10 03:04:00,NVIDIA (NVDA) Stock: Drops as Palantir Partnership Targets Smarter Global Supply Chains,NVDA,Bing RSS,negative,-0.9722002148628235
+2026-09-10 23:20:00,Are Record-Breaking Ticket Sales a Good Reason to Buy AMC Stock?,NVDA,Yahoo RSS,neutral,0.0
+2026-09-11 02:49:12,"Dow Jones Futures, Oracle Jumps After Oil Prices, Yields Surge; CPI Inflation Due",NVDA,Yahoo RSS,negative,-0.779401957988739
+2026-09-11 00:03:00,Dell enters the S&P 100 index after monstrous three-year rally,NVDA,Yahoo RSS,positive,0.4886834919452667
+2026-09-10 11:37:02,"In A SpaceX-Tesla Merger, Elon Musk May Be The Big Winner. What It May Mean For Other Investors.",TSLA,Yahoo RSS,neutral,0.0
+2026-09-10 14:50:00,"Coca-Cola Is Outperforming Broadcom and Every ""Magnificent Seven"" Stock in 2026. Is It Still a Top Dividend Stock to Buy in September?",TSLA,Yahoo RSS,neutral,0.0
