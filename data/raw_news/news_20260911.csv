@@ -30,3 +30,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-11 08:33:52,"Nasdaq, Dow, S&P 500 Futures Rise After 4-Day Market Slide As CPI Looms Large: ORCL, ADBE, MU, TSLA, RKLB, IBRX, HOOD, GME In Focus",TSLA,Yahoo RSS,negative,-0.4886881709098816
 2026-09-08 20:53:00,Meta Launches Simple-To-Use Muse Personal AI Agent - Investor's Business Daily,META,Google RSS,neutral,0.0
 2026-09-09 17:52:09,Meta stock outlook: momentum strong but short-term indicators overbought - Investing.com,META,Google RSS,neutral,0.0
+2026-09-11 11:47:49,Amazon stock fell despite AWS growth; analyst s... - Pluang,AMZN,Google RSS,negative,-0.9639554023742676
+2026-09-11 13:08:11,Microsoft stock dips despite $678B cloud backlo... - Pluang,MSFT,Google RSS,negative,-0.9553384184837341
+2026-09-11 12:14:56,Microsoft stock gains as analysts raise targets - ad-hoc-news.de,MSFT,Google RSS,positive,0.5495684146881104
