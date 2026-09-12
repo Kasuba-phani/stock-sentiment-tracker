@@ -44,4 +44,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-10 18:28:45,"Nvidia Stock (NVDA) Falls Even as Jensen Huang Touts Strong Demand, Higher Pricing - TipRanks",NVDA,Google RSS,negative,-0.939370334148407
 2026-09-07 19:20:01,Nvidia Stock: Is It Still a Good Buy at $230? - finance.yahoo.com,NVDA,Google RSS,neutral,0.0
 2026-09-12 14:35:00,"Greg Abel Is Betting on Homebuilders Even as the Pending Home Sales Index Sits Near Its Second-Lowest Reading Ever, Down 36% Since 2021. Is Berkshire Early to a Housing Recovery, or Just Early?",NVDA,Yahoo RSS,negative,-0.9411008954048156
-2026-09-12 18:44:00,Microsoft (NASDAQ: MSFT) Stock Sits Flat In 2026 Despite Strong Rally From April Lows - foreignpolicyjournal.com,MSFT,Google RSS,negative,-0.9536058902740479
+2026-09-12 18:44:00,Microsoft (NASDAQ: MSFT) Stock Sits Flat In 2026 Despite Strong Rally From April Lows - foreignpolicyjournal.com,MSFT,Google RSS,negative,-0.953605890274048
+2026-09-12 15:49:20,Amazon stock eyes $300 as AWS growth accelerates despite recent share stagnation. - Pluang,AMZN,Google RSS,positive,0.587549090385437
+2026-09-12 20:02:01,"Zscaler Conference: AI Agents, Agentic SOC Fuel Zero-Trust Growth Ambitions",MSFT,Yahoo RSS,neutral,0.0
