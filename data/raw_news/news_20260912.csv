@@ -37,3 +37,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-12 10:20:00,Meet the Value Stock That's Crushing the S&P 500. Here's Why It's Still a Great Buy in September.,NVDA,Yahoo RSS,neutral,0.0
 2026-09-11 22:48:37,See how Tesla stocks performed for week ending Sept. 11 - usatoday.com,TSLA,Google RSS,neutral,0.0
 2026-09-11 11:12:10,"In A SpaceX-Tesla Merger, Elon Musk May Be The Big Winner. What It May Mean For Other Investors.",TSLA,Yahoo Global,neutral,0.0
+2026-09-12 13:19:00,"Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-09-09 13:17:21,Morgan Stanley Deems Apple's September 9 Event 'Most Consequential in a Decade': What AAPL Stock Investors Should Know - finance.yahoo.com,AAPL,Google RSS,neutral,0.0
+2026-09-12 12:48:22,"Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys",AAPL,Yahoo RSS,neutral,0.0
+2026-09-09 13:31:50,Look Very Hard at Microsoft and Alphabet as Rate Hike Fears Roil Markets - finance.yahoo.com,GOOGL,Google RSS,neutral,0.0
+2026-09-10 18:28:45,"Nvidia Stock (NVDA) Falls Even as Jensen Huang Touts Strong Demand, Higher Pricing - TipRanks",NVDA,Google RSS,negative,-0.939370334148407
+2026-09-07 19:20:01,Nvidia Stock: Is It Still a Good Buy at $230? - finance.yahoo.com,NVDA,Google RSS,neutral,0.0
+2026-09-12 14:35:00,"Greg Abel Is Betting on Homebuilders Even as the Pending Home Sales Index Sits Near Its Second-Lowest Reading Ever, Down 36% Since 2021. Is Berkshire Early to a Housing Recovery, or Just Early?",NVDA,Yahoo RSS,negative,-0.9411008954048157
