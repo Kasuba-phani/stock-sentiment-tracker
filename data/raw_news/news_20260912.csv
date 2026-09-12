@@ -3,7 +3,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-12 03:07:00,"Dow Jones Futures: $100 Oil, Surging Yields Pressure Stocks With Fed Rate Hike Seen. Apple, Moderna Are New Buys. - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
 2026-09-11 15:16:00,"Stocks Fall For Week As Oil Prices, Yields Soar, But End On High Note - Investor's Business Daily",AAPL,Google RSS,negative,-0.9053617119789124
 2026-09-11 23:11:02,"Dow Jones Futures: $100 Oil, Surging Yields Pressure Stocks With Fed Rate Hike Seen. Apple, Moderna Are New Buys.",AAPL,Yahoo RSS,neutral,0.0
-2026-09-11 21:15:00,Apple’s New Foldable Phone Poised for Strong Sales,AAPL,Yahoo RSS,positive,0.9429159164428711
+2026-09-11 21:15:00,Apple’s New Foldable Phone Poised for Strong Sales,AAPL,Yahoo RSS,positive,0.9429159164428712
 2026-09-09 13:44:53,Alphabet Inc. (GOOGL) Presents at Goldman Sachs Communacopia + Technology Conference 2026 - Slideshow - Seeking Alpha,GOOGL,Google RSS,neutral,0.0
 2026-09-10 12:27:21,Alphabet's stock dip amid strong growth signals a buying opportunity for investors. - Pluang,GOOGL,Google RSS,negative,-0.7638861536979675
 2026-09-10 13:53:26,"Alphabet's stock dips despite strong earnings and AI-driven growth, with a 55% upside potential forecasted. - Pluang",GOOGL,Google RSS,negative,-0.96443772315979
@@ -11,7 +11,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-11 11:47:49,Amazon stock fell despite AWS growth; analyst s... - Pluang,AMZN,Google RSS,negative,-0.9639554023742676
 2026-09-10 21:30:50,Nvidia stock edges higher on Microsoft data center expansion report - Investing.com,MSFT,Google RSS,positive,0.9069882035255432
 2026-09-10 22:57:00,"Microsoft Rises, Defying Weak Market; Leads 17 To Top Growth Stock Lists - Investor's Business Daily",MSFT,Google RSS,positive,0.8619911074638367
-2026-09-11 13:08:11,Microsoft stock dips despite $678B cloud backlo... - Pluang,MSFT,Google RSS,negative,-0.9553385376930237
+2026-09-11 13:08:11,Microsoft stock dips despite $678B cloud backlo... - Pluang,MSFT,Google RSS,negative,-0.9553385376930236
 2026-09-10 11:15:52,"Microsoft stock dips despite Azure hitting $100B revenue, seen as a buying opportunity amid strong AI growth. - Pluang",MSFT,Google RSS,negative,-0.9357454776763916
 2026-09-11 18:14:00,Microsoft stock is flat so far in 2026. Is a rally coming to end the year?,MSFT,Bing RSS,negative,-0.7980955243110657
 2026-09-11 23:10:55,"S&P 500, Dow Break Past Four-Day Loss To End Higher As Investors Eye Fed Meeting Next Week — DELL, HPE, EL, WMT In Focus",MSFT,Yahoo RSS,positive,0.5435983538627625
@@ -25,7 +25,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-11 15:30:25,Elon Musk Says Anthropic’s 15% US GDP Growth Scenario Will 'Certainly Be True’ Once Humanoid Robots Reach Volume Production,TSLA,Yahoo RSS,positive,0.9208989143371582
 2026-09-11 15:16:00,"Stocks Fall For Week As Oil Prices, Yields Soar, But End On High Note - Investor's Business Daily",META,Google RSS,negative,-0.9053617119789124
 2026-09-08 20:53:00,Meta Launches Simple-To-Use Muse Personal AI Agent - Investor's Business Daily,META,Google RSS,neutral,0.0
-2026-09-11 13:43:07,"Meta stock rises 7.5% in a month despite heavy capex and market challenges, signaling potential upside. - Pluang",META,Google RSS,positive,0.9368544816970825
+2026-09-11 13:43:07,"Meta stock rises 7.5% in a month despite heavy capex and market challenges, signaling potential upside. - Pluang",META,Google RSS,positive,0.9368544816970824
 2026-09-09 17:52:09,Meta stock outlook: momentum strong but short-term indicators overbought - Investing.com,META,Google RSS,neutral,0.0
 2026-09-11 16:47:53,Why Meta Platforms stock only bumped slightly higher on Friday,META,Bing RSS,positive,0.6754027605056763
 2026-09-11 15:16:01,"Stock Market Falls On Soaring Oil Prices, Yields, But Finishes Strong; CPI Inflation, Apple, Oracle, Meta In Focus: Weekly Review",META,Yahoo RSS,negative,-0.7848716974258423
+2026-09-11 23:16:08,Tesla Stock (TSLA): Top Morgan Stanley Analyst Sees Strong Upside in Autonomous Trucking Plans - TipRanks,TSLA,Google RSS,positive,0.9491063356399536
