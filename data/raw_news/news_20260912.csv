@@ -43,4 +43,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-09 13:31:50,Look Very Hard at Microsoft and Alphabet as Rate Hike Fears Roil Markets - finance.yahoo.com,GOOGL,Google RSS,neutral,0.0
 2026-09-10 18:28:45,"Nvidia Stock (NVDA) Falls Even as Jensen Huang Touts Strong Demand, Higher Pricing - TipRanks",NVDA,Google RSS,negative,-0.939370334148407
 2026-09-07 19:20:01,Nvidia Stock: Is It Still a Good Buy at $230? - finance.yahoo.com,NVDA,Google RSS,neutral,0.0
-2026-09-12 14:35:00,"Greg Abel Is Betting on Homebuilders Even as the Pending Home Sales Index Sits Near Its Second-Lowest Reading Ever, Down 36% Since 2021. Is Berkshire Early to a Housing Recovery, or Just Early?",NVDA,Yahoo RSS,negative,-0.9411008954048157
+2026-09-12 14:35:00,"Greg Abel Is Betting on Homebuilders Even as the Pending Home Sales Index Sits Near Its Second-Lowest Reading Ever, Down 36% Since 2021. Is Berkshire Early to a Housing Recovery, or Just Early?",NVDA,Yahoo RSS,negative,-0.9411008954048156
+2026-09-12 18:44:00,Microsoft (NASDAQ: MSFT) Stock Sits Flat In 2026 Despite Strong Rally From April Lows - foreignpolicyjournal.com,MSFT,Google RSS,negative,-0.9536058902740479
