@@ -31,3 +31,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-11 16:47:53,Why Meta Platforms stock only bumped slightly higher on Friday,META,Bing RSS,positive,0.6754036545753479
 2026-09-13 12:27:15,Alphabet A stock gains as analysts highlight AI growth and strong Q2 figures - ad-hoc-news.de,GOOGL,Google RSS,positive,0.6600202322006226
 2026-09-13 12:51:45,Microsoft stock gains as AI investments and cloud growth impress analysts - ad-hoc-news.de,MSFT,Google RSS,positive,0.8545423150062561
+2026-09-09 13:31:50,Look Very Hard at Microsoft and Alphabet as Rate Hike Fears Roil Markets - finance.yahoo.com,MSFT,Google RSS,neutral,0.0
+2026-09-07 19:20:01,Nvidia Stock: Is It Still a Good Buy at $230? - finance.yahoo.com,NVDA,Google RSS,neutral,0.0
+2026-09-13 18:03:00,"McDonald's Yields 3%, the Highest in Over 6 Years. Is the Dow Dividend Stock a Value Trap or Too Cheap to Ignore?",NVDA,Yahoo RSS,negative,-0.5488765239715576
+2026-09-13 16:25:01,Sept. 16 Will Provide a Clearer Path for Interest Rates -- These 3 High-Yield Dividend Stocks Win Either Way,NVDA,Yahoo RSS,neutral,0.0
