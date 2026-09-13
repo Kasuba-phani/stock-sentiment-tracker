@@ -1,0 +1,29 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-09-12 18:32:00,"Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-09-11 15:16:00,"Stocks Fall For Week As Oil Prices, Yields Soar, But End On High Note - Investor's Business Daily",AAPL,Google RSS,negative,-0.9053617119789124
+2026-09-12 16:24:45,"Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys",AAPL,Yahoo RSS,neutral,0.0
+2026-09-09 13:44:53,Alphabet Inc. (GOOGL) Presents at Goldman Sachs Communacopia + Technology Conference 2026 - Slideshow - Seeking Alpha,GOOGL,Google RSS,neutral,0.0
+2026-09-10 12:27:21,Alphabet's stock dip amid strong growth signals a buying opportunity for investors. - Pluang,GOOGL,Google RSS,negative,-0.7638861536979675
+2026-09-10 13:53:26,"Alphabet's stock dips despite strong earnings and AI-driven growth, with a 55% upside potential forecasted. - Pluang",GOOGL,Google RSS,negative,-0.96443772315979
+2026-09-12 10:49:58,"Amazon Stock: most of last quarter's profit was a markup, not a sale - techi.com",AMZN,Google RSS,neutral,0.0
+2026-09-12 15:49:20,Amazon stock eyes $300 as AWS growth accelerates despite recent share stagnation. - Pluang,AMZN,Google RSS,positive,0.5875491499900818
+2026-09-10 22:57:00,"Microsoft Rises, Defying Weak Market; Leads 17 To Top Growth Stock Lists - Investor's Business Daily",MSFT,Google RSS,positive,0.8619911074638367
+2026-09-12 18:44:00,Microsoft (NASDAQ: MSFT) Stock Sits Flat In 2026 Despite Strong Rally From April Lows - foreignpolicyjournal.com,MSFT,Google RSS,negative,-0.9536058902740479
+2026-09-10 21:30:50,Nvidia stock edges higher on Microsoft data center expansion report - Investing.com,MSFT,Google RSS,positive,0.9069882035255432
+2026-09-10 11:15:52,"Microsoft stock dips despite Azure hitting $100B revenue, seen as a buying opportunity amid strong AI growth. - Pluang",MSFT,Google RSS,negative,-0.9357454776763916
+2026-09-11 13:08:11,Microsoft stock dips despite $678B cloud backlo... - Pluang,MSFT,Google RSS,negative,-0.9553385376930237
+2026-09-12 12:05:36,Microsoft stock gains as AI-driven growth and heavy capex reshape outlook - ad-hoc-news.de,MSFT,Google RSS,positive,0.8736760020256042
+2026-09-11 18:14:00,Microsoft stock is flat so far in 2026. Is a rally coming to end the year?,MSFT,Bing RSS,negative,-0.7980955243110657
+2026-09-11 23:10:55,"S&P 500, Dow Break Past Four-Day Loss To End Higher As Investors Eye Fed Meeting Next Week — DELL, HPE, EL, WMT In Focus",MSFT,Yahoo RSS,positive,0.5435983538627625
+2026-09-12 20:02:01,"Zscaler Conference: AI Agents, Agentic SOC Fuel Zero-Trust Growth Ambitions",MSFT,Yahoo RSS,neutral,0.0
+2026-09-10 21:30:50,Nvidia stock edges higher on Microsoft data center expansion report - Investing.com,NVDA,Google RSS,positive,0.9069882035255432
+2026-09-10 22:50:38,NVIDIA Stock Leads These Rate Sensitive US Growth Names Into The CPI Print - simplywall.st,NVDA,Google RSS,neutral,0.0
+2026-09-10 18:50:06,Goldman Sachs reiterates Nvidia stock Buy rating on AI growth outlook - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-09-07 12:21:00,Nvidia Stock: Is It Still a Good Buy at $230?,NVDA,Bing RSS,neutral,0.0
+2026-09-11 11:12:00,"In A SpaceX-Tesla Merger, Elon Musk May Be The Big Winner. What It May Mean For Other Investors. - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-09-08 17:36:36,"Tesla stock bounces 4% after Cybercab selloff, reclaiming $369 - eciks.org",TSLA,Google RSS,positive,0.5760577321052551
+2026-09-11 19:54:14,Sector Update: Consumer Stocks Rise Late Afternoon,TSLA,Yahoo RSS,positive,0.7561114430427551
+2026-09-08 20:53:00,Meta Launches Simple-To-Use Muse Personal AI Agent - Investor's Business Daily,META,Google RSS,neutral,0.0
+2026-09-11 15:16:00,"Stocks Fall For Week As Oil Prices, Yields Soar, But End On High Note - Investor's Business Daily",META,Google RSS,negative,-0.9053617119789124
+2026-09-09 17:52:09,Meta stock outlook: momentum strong but short-term indicators overbought - Investing.com,META,Google RSS,neutral,0.0
+2026-09-11 13:43:07,"Meta stock rises 7.5% in a month despite heavy capex and market challenges, signaling potential upside. - Pluang",META,Google RSS,positive,0.9368544816970825
