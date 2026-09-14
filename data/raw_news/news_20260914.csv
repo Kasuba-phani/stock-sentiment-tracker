@@ -43,14 +43,26 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-14 12:25:24,Alphabet stock gains as dividend and cloud growth draw focus - ad-hoc-news.de,GOOGL,Google RSS,neutral,0.0
 2026-09-14 16:32:42,"Microsoft AI Safety Rules Send 3 Cyber Stocks Higher - Microsoft (NASDAQ:MSFT), Palo Alto Networks (NASDA - Benzinga",MSFT,Google RSS,positive,0.8847734928131104
 2026-09-14 15:07:12,Microsoft stock shows strong growth potential t... - Pluang,MSFT,Google RSS,positive,0.9394826889038086
-2026-09-14 15:53:49,Microsoft nears all-time highs as Azure growth and data center expansion boost optimism - Pluang,MSFT,Google RSS,positive,0.9266639947891235
+2026-09-14 15:53:49,Microsoft nears all-time highs as Azure growth and data center expansion boost optimism - Pluang,MSFT,Google RSS,positive,0.9266639947891236
 2026-09-14 12:35:53,Microsoft stock holds near USD 495 as cloud growth and AI bets back valuation - ad-hoc-news.de,MSFT,Google RSS,positive,0.8043346405029297
 2026-09-14 14:34:00,"Stock Market Today: Dow Falls, Oil Jumps On Houthi Moves; Chip Stocks Dive After AI Warning (Live Coverage) - Investor's Business Daily",NVDA,Google RSS,negative,-0.8785811066627502
-2026-09-14 15:28:05,Why Is Nvidia (NASDAQ:NVDA) Stock Falling Today? NVDA Drops Nearly 4% as AI Slowdown Fears Hit Chip Stocks - Stocks Down Under,NVDA,Google RSS,negative,-0.9720010161399841
-2026-09-14 13:57:39,"S&P 500 and Nasdaq open lower as AI jitters hit Nvidia, chipmakers By Reuters - Investing.com",NVDA,Google RSS,negative,-0.9339064955711365
+2026-09-14 15:28:05,Why Is Nvidia (NASDAQ:NVDA) Stock Falling Today? NVDA Drops Nearly 4% as AI Slowdown Fears Hit Chip Stocks - Stocks Down Under,NVDA,Google RSS,negative,-0.972001016139984
+2026-09-14 13:57:39,"S&P 500 and Nasdaq open lower as AI jitters hit Nvidia, chipmakers By Reuters - Investing.com",NVDA,Google RSS,negative,-0.9339064955711364
 2026-09-14 14:37:30,"Nasdaq drags on Wall St as AI slowdown fears hammer Nvidia, chipmakers By Reuters - Investing.com",NVDA,Google RSS,negative,-0.8503413200378418
 2026-09-14 14:07:42,Nvidia stock forecast shows modest 0.49% rise b... - Pluang,NVDA,Google RSS,positive,0.8874620199203491
 2026-09-14 16:01:01,There Is Now An 83% to 90% Chance the Fed Raises Interest Rates on Sept. 16. Here's What History Says Would Happen to the S&P 500 Index Next.,NVDA,Yahoo RSS,neutral,0.0
 2026-09-14 12:25:14,Stocks Fall Pre-Bell Amid AI Safety Warnings; Investors Await Fed Rate Decision,TSLA,Yahoo RSS,negative,-0.8533682227134705
 2026-09-14 11:11:49,Evercore ISI raises Netflix stock price target on survey strength - Investing.com,NFLX,Google RSS,neutral,0.0
 2026-09-14 12:55:33,Netflix stock gains as Evercore ISI lifts price target after Q2 growth - ad-hoc-news.de,NFLX,Google RSS,positive,0.7640863656997681
+2026-09-14 00:29:00,"Alphabet, Meta stocks rally because of AI slowdown fears, not in spite of them",GOOGL,Bing RSS,negative,-0.8244976997375488
+2026-09-14 19:50:35,Sector Update: Consumer Stocks Mixed Late Afternoon,GOOGL,Yahoo RSS,negative,-0.9352520108222961
+2026-09-14 19:50:35,Sector Update: Consumer Stocks Mixed Late Afternoon,AMZN,Yahoo RSS,negative,-0.9352520108222961
+2026-09-14 15:07:12,Microsoft stock shows strong growth potential t... - pluang.com,MSFT,Google RSS,positive,0.8386194705963135
+2026-09-14 14:39:17,Microsoft hovers near $500 in mixed signals: Live levels - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-14 15:53:49,Microsoft nears all-time highs as Azure growth and data center expansion boost optimism - pluang.com,MSFT,Google RSS,positive,0.9104003310203552
+2026-09-14 18:23:21,Wall Street drops as AI worries pummel chipmakers - Reuters,NVDA,Google RSS,negative,-0.8423782587051392
+2026-09-14 18:03:00,"Elon Musk sends strong signal for SpaceX, Nvidia stocks - thestreet.com",NVDA,Google RSS,positive,0.6685509085655212
+2026-09-14 11:03:00,"Elon Musk sends strong signal for SpaceX, Nvidia stocks",NVDA,Bing RSS,positive,0.8406031131744385
+2026-09-14 05:11:00,Nvidia stock: Should investors buy the dip amid AI slowdown fears?,NVDA,Bing RSS,negative,-0.49731937050819397
+2026-09-14 18:01:53,From Industrial Revolution to AI Revolution: Cathie Wood’s Bold Thesis on Why Global GDP Could Double,TSLA,Yahoo RSS,neutral,0.0
+2026-09-14 16:53:00,Alger Russell Innovation Index Updates for Third Quarter 2026,META,Yahoo RSS,neutral,0.0
