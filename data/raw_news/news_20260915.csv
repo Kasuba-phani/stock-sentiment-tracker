@@ -1,0 +1,30 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-09-13 11:57:00,"Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-09-13 23:30:00,SpaceX vs. Apple: Wall Street Sees Strong Upside for One of These Stocks and Remains Neutral On the Other - The Motley Fool,AAPL,Google RSS,positive,0.8109142780303955
+2026-09-14 08:43:04,Apple stock trades near 52-week high as analyst tracks iPhone 18 demand signals,AAPL,Bing RSS,positive,0.8099400997161865
+2026-09-14 17:31:00,"Alphabet, Meta stocks rally because of AI slowdown fears, not in spite of them - MarketWatch",GOOGL,Google RSS,negative,-0.7038342952728271
+2026-09-14 00:29:00,"Alphabet, Meta stocks rally because of AI slowdown fears, not in spite of them",GOOGL,Bing RSS,negative,-0.824497640132904
+2026-09-14 19:50:35,Sector Update: Consumer Stocks Mixed Late Afternoon,GOOGL,Yahoo RSS,negative,-0.935251772403717
+2026-09-12 15:49:20,Amazon stock eyes $300 as AWS growth accelerates despite recent share stagnation. - Pluang,AMZN,Google RSS,positive,0.5875487923622131
+2026-09-14 19:50:35,Sector Update: Consumer Stocks Mixed Late Afternoon,AMZN,Yahoo RSS,negative,-0.935251772403717
+2026-09-14 15:07:12,Microsoft stock shows strong growth potential t... - Pluang,MSFT,Google RSS,positive,0.9394826889038086
+2026-09-14 16:32:42,"Microsoft AI Safety Rules Send 3 Cyber Stocks Higher - Microsoft (NASDAQ:MSFT), Palo Alto Networks (NASDA - Benzinga",MSFT,Google RSS,positive,0.8847739100456238
+2026-09-14 14:39:17,Microsoft hovers near $500 in mixed signals: Live levels - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-14 15:53:49,Microsoft nears all-time highs as Azure growth and data center expansion boost optimism - Pluang,MSFT,Google RSS,positive,0.9266641736030579
+2026-09-14 12:35:53,Microsoft stock holds near USD 495 as cloud growth and AI bets back valuation - ad-hoc-news.de,MSFT,Google RSS,positive,0.8043344020843506
+2026-09-10 11:15:52,"Microsoft stock dips despite Azure hitting $100B revenue, seen as a buying opportunity amid strong AI growth. - Pluang",MSFT,Google RSS,negative,-0.935745358467102
+2026-09-11 13:08:11,Microsoft stock dips despite $678B cloud backlo... - Pluang,MSFT,Google RSS,negative,-0.9553385376930237
+2026-09-14 21:53:54,"S&P 500, Nasdaq, Dow Drop On Chipmaker Weakness, Treasury Yield Pressure — MSFT, NFLX, ORCL, CRWD, RBLX In Focus",MSFT,Yahoo RSS,negative,-0.8639874458312988
+2026-09-14 18:03:00,"Elon Musk sends strong signal for SpaceX, Nvidia stocks - thestreet.com",NVDA,Google RSS,positive,0.6685510873794556
+2026-09-15 02:21:00,"Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms - Investor's Business Daily",NVDA,Google RSS,negative,-0.8653885722160339
+2026-09-14 15:23:14,Why Is Nvidia (NASDAQ:NVDA) Stock Falling Today? NVDA Drops Nearly 4% as AI Slowdown Fears Hit Chip Stocks - Stocks Down Under,NVDA,Google RSS,negative,-0.9720010161399841
+2026-09-10 21:30:50,Nvidia stock edges higher on Microsoft data center expansion report - Investing.com,NVDA,Google RSS,positive,0.9069882035255432
+2026-09-14 22:29:28,"Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms",NVDA,Yahoo RSS,negative,-0.9437121152877808
+2026-09-14 18:01:53,From Industrial Revolution to AI Revolution: Cathie Wood’s Bold Thesis on Why Global GDP Could Double,TSLA,Yahoo RSS,neutral,0.0
+2026-09-08 20:53:00,Meta Launches Simple-To-Use Muse Personal AI Agent - Investor's Business Daily,META,Google RSS,neutral,0.0
+2026-09-11 13:43:07,"Meta stock rises 7.5% in a month despite heavy capex and market challenges, signaling potential upside. - Pluang",META,Google RSS,positive,0.9368544816970825
+2026-09-11 16:47:53,Why Meta Platforms stock only bumped slightly higher on Friday,META,Bing RSS,positive,0.6754021644592285
+2026-09-14 16:53:00,Alger Russell Innovation Index Updates for Third Quarter 2026,META,Yahoo RSS,neutral,0.0
+2026-09-14 11:11:49,Evercore ISI raises Netflix stock price target on survey strength - Investing.com,NFLX,Google RSS,neutral,0.0
+2026-09-14 12:55:33,Netflix stock gains as Evercore ISI lifts price target after Q2 growth - ad-hoc-news.de,NFLX,Google RSS,positive,0.7640866637229919
+2026-09-14 21:53:54,"S&P 500, Nasdaq, Dow Drop On Chipmaker Weakness, Treasury Yield Pressure — MSFT, NFLX, ORCL, CRWD, RBLX In Focus",NFLX,Yahoo RSS,negative,-0.8639874458312988
