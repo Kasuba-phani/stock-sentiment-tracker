@@ -39,3 +39,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-16 19:02:49,Former Waymo CFO jumps to self-driving startup Wayve,AAPL,Yahoo RSS,neutral,0.0
 2026-09-16 19:02:49,Former Waymo CFO jumps to self-driving startup Wayve,GOOGL,Yahoo RSS,neutral,0.0
 2026-09-16 19:43:46,Microsoft Leads S&P 500 Stocks Going Nowhere - GuruFocus,MSFT,Google RSS,neutral,0.0
+2026-09-14 16:32:42,"Microsoft AI Safety Rules Send 3 Cyber Stocks Higher - Microsoft (NASDAQ:MSFT), Palo Alto Networks (NASDA - benzinga.com",MSFT,Google RSS,positive,0.8872225880622864
+2026-09-16 19:59:12,Microsoft Leads S&P 500 Stocks Going Nowhere,MSFT,Yahoo RSS,neutral,0.0
+2026-09-16 07:31:22,Sivia Capital Partners LLC Has $29.06 Million Stock Position in NVIDIA Corporation $NVDA - marketbeat.com,NVDA,Google RSS,neutral,0.0
+2026-09-16 21:45:01,The Fed Voted 12-0 to Raise Interest Rates for the First Time in 3 Years. Here’s How a 3.75%-4% Fed Funds Rate Impacts Housing Stocks.,NVDA,Yahoo RSS,neutral,0.0
