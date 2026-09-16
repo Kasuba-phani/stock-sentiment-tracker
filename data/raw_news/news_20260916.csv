@@ -25,7 +25,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-15 14:35:06,"‘Not If, but When,’ Says Top Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
 2026-09-15 15:56:47,Analysts revise Microsoft stock price target - Finbold,MSFT,Google RSS,neutral,0.0
 2026-09-16 07:31:22,Sivia Capital Partners LLC Has $29.06 Million Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,neutral,0.0
-2026-09-16 11:38:31,"Down 25%, Is Shopify Stock a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in September? - The Motley Fool",GOOGL,Google RSS,negative,-0.9313260316848755
+2026-09-16 11:38:31,"Down 25%, Is Shopify Stock a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in September? - The Motley Fool",GOOGL,Google RSS,negative,-0.9313260316848756
 2026-09-16 12:54:12,Amazon stock outlook: Is AMZN a buy heading into next quarter? - Investing.com,AMZN,Google RSS,neutral,0.0
 2026-09-16 13:31:15,"Amazon, Walmart and Target Forecast: Retail Stocks Test Key Levels - FXEmpire",AMZN,Google RSS,positive,0.55381178855896
 2026-09-16 13:03:47,Microsoft stock slips after Fed jitters as analysts keep upside targets - ad-hoc-news.de,MSFT,Google RSS,negative,-0.9472981095314026
@@ -36,3 +36,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-15 14:50:44,"Meta's stock experienced a ""false breakout"" over the past year! However, with litigation risks receding and bolstered by Muse AI, bulls are betting that the market trend is finally breaking through. - news.futunn.com",META,Google RSS,positive,0.5309361219406128
 2026-09-16 14:46:00,Inverse Equity ETFs to Consider Amid Rising Market Risks,META,Yahoo RSS,positive,0.5452480912208557
 2026-09-16 13:01:47,Netflix stock slips 3 percent as analysts stick to upbeat targets - ad-hoc-news.de,NFLX,Google RSS,negative,-0.9451488256454468
+2026-09-16 19:02:49,Former Waymo CFO jumps to self-driving startup Wayve,AAPL,Yahoo RSS,neutral,0.0
+2026-09-16 19:02:49,Former Waymo CFO jumps to self-driving startup Wayve,GOOGL,Yahoo RSS,neutral,0.0
+2026-09-16 19:43:46,Microsoft Leads S&P 500 Stocks Going Nowhere - GuruFocus,MSFT,Google RSS,neutral,0.0
