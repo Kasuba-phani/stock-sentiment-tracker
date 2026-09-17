@@ -28,3 +28,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-15 15:56:47,Analysts revise Microsoft stock price target - Finbold,MSFT,Google RSS,neutral,0.0
 2026-09-14 16:32:42,"Microsoft AI Safety Rules Send 3 Cyber Stocks Higher - Microsoft (NASDAQ:MSFT), Palo Alto Networks (NASDA - Benzinga",MSFT,Google RSS,positive,0.8847734928131104
 2026-09-15 13:46:57,"Meta Platforms' stock price experienced a ""false breakout"" over the past year! However, with litigation risks alleviated and bolstered by Muse AI, bulls are betting that the market trend is finally breaking through. - moomoo.com",META,Google RSS,positive,0.6850261688232422
+2026-09-17 12:16:19,Top strategist thinks the Federal Reserve interest rate hike won't fix this huge earnings risk,AAPL,Yahoo RSS,negative,-0.9561429023742676
+2026-09-17 12:30:41,Alphabet C stock edges lower as investors digest strong Q2 2026 cloud growth and raised CapEx - ad-hoc-news.de,GOOGL,Google RSS,negative,-0.9585232138633728
+2026-09-17 11:25:57,Dow futures rally 600 points after Fed rate hike selloff,AMZN,Yahoo RSS,negative,-0.4758386015892029
+2026-09-17 11:59:53,Nokia stock jumps after Microsoft partnership expands into AI-driven telecom data - qz.com,MSFT,Google RSS,neutral,0.0
+2026-09-16 19:59:12,Microsoft Leads S&P 500 Stocks Going Nowhere - tradingview.com,MSFT,Google RSS,neutral,0.0
+2026-09-17 05:30:00,Nokia stock jumps as Microsoft AI data partnership expands,MSFT,Bing RSS,neutral,0.0
+2026-09-17 11:25:57,Dow futures rally 600 points after Fed rate hike selloff,MSFT,Yahoo RSS,negative,-0.4758386015892029
+2026-09-17 12:12:00,Why Falling EV Deliveries Aren’t a Problem for Tesla Stock - Barron's,TSLA,Google RSS,neutral,0.0
+2026-09-17 12:25:26,"With a Strong Product Pipeline, Tesla Stock Is Positioned for Growth Acceleration - Barchart.com",TSLA,Google RSS,positive,0.61359703540802
