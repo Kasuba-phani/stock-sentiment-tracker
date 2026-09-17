@@ -1,0 +1,26 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-09-15 13:01:35,Apple stock edges toward record high as analysts lift targets on strong iPhone 18 demand - ad-hoc-news.de,AAPL,Google RSS,positive,0.9280939698219299
+2026-09-13 23:30:00,SpaceX vs. Apple: Wall Street Sees Strong Upside for One of These Stocks and Remains Neutral On the Other - The Motley Fool,AAPL,Google RSS,positive,0.8109143376350403
+2026-09-16 19:02:49,Former Waymo CFO jumps to self-driving startup Wayve,AAPL,Yahoo RSS,neutral,0.0
+2026-09-16 23:29:42,"S&P 500, Nasdaq, Dow Futures Inch Higher As Investors Digest First Rate Hike Since 2023 — INTC, GOOGL, AAPL, SKHY, UAL In Focus",AAPL,Yahoo RSS,positive,0.5200755000114441
+2026-09-16 12:03:00,"Down 25%, Is Shopify Stock a Better Buy than SpaceX and the ""Magnificent Seven"" Stocks in September? - The Motley Fool",GOOGL,Google RSS,negative,-0.9313256740570068
+2026-09-16 23:29:42,"S&P 500, Nasdaq, Dow Futures Inch Higher As Investors Digest First Rate Hike Since 2023 — INTC, GOOGL, AAPL, SKHY, UAL In Focus",GOOGL,Yahoo RSS,positive,0.5200755000114441
+2026-09-16 19:02:49,Former Waymo CFO jumps to self-driving startup Wayve,GOOGL,Yahoo RSS,neutral,0.0
+2026-09-15 18:48:45,Amazon Stock (AMZN) Is Falling on Tuesday – Here’s Why - TipRanks,AMZN,Google RSS,negative,-0.9402338862419128
+2026-09-16 12:54:12,Amazon stock outlook: Is AMZN a buy heading into next quarter? - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-09-16 13:31:15,"Amazon, Walmart and Target Forecast: Retail Stocks Test Key Levels - FXEmpire",AMZN,Google RSS,positive,0.5538109540939331
+2026-09-15 15:56:47,Analysts revise Microsoft stock price target - finbold.com,MSFT,Google RSS,neutral,0.0
+2026-09-16 13:03:47,Microsoft stock slips after Fed jitters as analysts keep upside targets - ad-hoc-news.de,MSFT,Google RSS,negative,-0.9472981095314026
+2026-09-14 16:32:42,"Microsoft AI Safety Rules Send 3 Cyber Stocks Higher - Microsoft (NASDAQ:MSFT), Palo Alto Networks (NASDA - benzinga.com",MSFT,Google RSS,positive,0.8872228860855103
+2026-09-16 19:59:12,Microsoft Leads S&P 500 Stocks Going Nowhere,MSFT,Yahoo RSS,neutral,0.0
+2026-09-14 18:03:00,"Elon Musk sends strong signal for SpaceX, Nvidia stocks - thestreet.com",NVDA,Google RSS,positive,0.6685518622398376
+2026-09-16 07:31:22,Sivia Capital Partners LLC Has $29.06 Million Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,neutral,0.0
+2026-09-15 09:04:00,Nvidia (NVDA) Stock:Considers Major Anthropic Investment Despite AI Demand Concerns,NVDA,Bing RSS,positive,0.9294913411140442
+2026-09-17 00:11:01,"These 2 Words From Fed Chair Kevin Warsh Sunk the Dow, S&P 500, and Nasdaq, and Put Wall Street on Notice",NVDA,Yahoo RSS,neutral,0.0
+2026-09-15 21:05:18,Goldman Sachs cuts Tesla stock delivery forecast on weak demand - Investing.com,TSLA,Google RSS,negative,-0.9583165049552917
+2026-09-16 14:25:46,Goldman Slashes Tesla’s Q3 Delivery Forecast — Says Weaker Sales Across Largest Markets May Offset Export Strength,TSLA,Yahoo RSS,negative,-0.9643623232841492
+2026-09-15 14:50:44,"Meta's stock experienced a ""false breakout"" over the past year! However, with litigation risks receding and bolstered by Muse AI, bulls are betting that the market trend is finally breaking through. - 富途牛牛",META,Google RSS,positive,0.6582636833190918
+2026-09-15 13:46:57,"Meta Platforms' stock price experienced a ""false breakout"" over the past year! However, with litigation risks alleviated and bolstered by Muse AI, bulls are betting that the market trend is finally breaking through. - Moomoo",META,Google RSS,positive,0.8686694502830505
+2026-09-14 11:11:49,Evercore ISI raises Netflix stock price target on survey strength - Investing.com,NFLX,Google RSS,neutral,0.0
+2026-09-16 13:01:47,Netflix stock slips 3 percent as analysts stick to upbeat targets - ad-hoc-news.de,NFLX,Google RSS,negative,-0.9451486468315125
+2026-09-14 21:53:54,"S&P 500, Nasdaq, Dow Drop On Chipmaker Weakness, Treasury Yield Pressure — MSFT, NFLX, ORCL, CRWD, RBLX In Focus",NFLX,Yahoo RSS,negative,-0.8639872670173645
