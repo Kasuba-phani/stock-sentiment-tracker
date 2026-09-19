@@ -36,3 +36,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-19 10:16:06,Alphabet A stock gains as Tigress lifts price target on AI momentum - AD HOC NEWS,GOOGL,Google RSS,positive,0.628082275390625
 2026-09-19 07:17:52,3 AI Security Stocks Retail Investors May Want On Their Watchlist,GOOGL,Yahoo RSS,neutral,0.0
 2026-09-19 09:04:01,Microsoft stock dips from 52-week high as analysts stick with upbeat targets - AD HOC NEWS,MSFT,Google RSS,negative,-0.9449331164360046
+2026-09-19 14:55:00,"Nvidia Executives Dispose of Shares in Bulk: Huang Renxun Has Nearly $10 Million in Stock Withheld for Taxes, CFO Kress Cashes Out $7.65 Million Separately - finance.biggo.com",NVDA,Google RSS,negative,-0.5258440375328064
+2026-09-19 15:57:00,Federal Reserve Inflation Outlook Signals a Critical Warning for Investors,NVDA,Yahoo RSS,positive,0.7488331198692322
