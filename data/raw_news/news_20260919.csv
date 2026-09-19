@@ -38,3 +38,4 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-19 09:04:01,Microsoft stock dips from 52-week high as analysts stick with upbeat targets - AD HOC NEWS,MSFT,Google RSS,negative,-0.9449331164360046
 2026-09-19 14:55:00,"Nvidia Executives Dispose of Shares in Bulk: Huang Renxun Has Nearly $10 Million in Stock Withheld for Taxes, CFO Kress Cashes Out $7.65 Million Separately - finance.biggo.com",NVDA,Google RSS,negative,-0.5258440375328064
 2026-09-19 15:57:00,Federal Reserve Inflation Outlook Signals a Critical Warning for Investors,NVDA,Yahoo RSS,positive,0.7488331198692322
+2026-09-18 22:52:56,See how Tesla stocks performed for week ending Sept. 18 - usatoday.com,TSLA,Google RSS,neutral,0.0
