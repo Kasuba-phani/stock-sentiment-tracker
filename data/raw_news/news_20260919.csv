@@ -10,21 +10,25 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-17 11:59:53,Nokia stock jumps as Microsoft AI data partnership expands - qz.com,MSFT,Google RSS,neutral,0.0
 2026-09-18 12:14:47,Microsoft stock gains as analysts highlight upside toward consensus targets - AD HOC NEWS,MSFT,Google RSS,positive,0.6004635095596313
 2026-09-17 05:30:00,Nokia stock jumps as Microsoft AI data partnership expands,MSFT,Bing RSS,neutral,0.0
-2026-09-18 23:35:58,"Dow Drops To Record Worst Week In Six Months Amid Elevated Yields, Oil — NVDA, TSLA, SPCX, ONON In Focus",NVDA,Yahoo RSS,negative,-0.9524503946304321
+2026-09-18 23:35:58,"Dow Drops To Record Worst Week In Six Months Amid Elevated Yields, Oil — NVDA, TSLA, SPCX, ONON In Focus",NVDA,Yahoo RSS,negative,-0.952450394630432
 2026-09-18 21:25:00,3 Unstoppable Dividend Stocks to Buy Now (1 Yields 5.5%),NVDA,Yahoo RSS,neutral,0.0
 2026-09-17 12:25:26,"With a Strong Product Pipeline, Tesla Stock Is Positioned for Growth Acceleration - Barchart.com",TSLA,Google RSS,positive,0.6135982275009155
 2026-09-17 12:12:00,Why Falling EV Deliveries Aren’t a Problem for Tesla Stock - Barron's,TSLA,Google RSS,neutral,0.0
 2026-09-18 13:51:00,SpaceX Stock Is on a Good Run While Retail Investors Are Selling. What Gives? - Barron's,TSLA,Google RSS,neutral,0.0
-2026-09-15 21:05:18,Goldman Sachs cuts Tesla stock delivery forecast on weak demand - Investing.com,TSLA,Google RSS,negative,-0.9583165049552917
+2026-09-15 21:05:18,Goldman Sachs cuts Tesla stock delivery forecast on weak demand - Investing.com,TSLA,Google RSS,negative,-0.9583165049552916
 2026-09-17 14:18:03,Tesla's stock lags despite record deliveries an... - Pluang,TSLA,Google RSS,negative,-0.9650487303733826
 2026-09-18 09:38:02,"Tesla stock fell after its last 4 delivery reports, even a big beat. Here's what history says to expect in October",TSLA,Bing RSS,negative,-0.8810115456581116
-2026-09-17 05:25:00,"With a Strong Product Pipeline, Tesla Stock Is Positioned for Growth Acceleration",TSLA,Bing RSS,positive,0.9297981262207031
-2026-09-18 23:35:58,"Dow Drops To Record Worst Week In Six Months Amid Elevated Yields, Oil — NVDA, TSLA, SPCX, ONON In Focus",TSLA,Yahoo RSS,negative,-0.9524503946304321
+2026-09-17 05:25:00,"With a Strong Product Pipeline, Tesla Stock Is Positioned for Growth Acceleration",TSLA,Bing RSS,positive,0.9297981262207032
+2026-09-18 23:35:58,"Dow Drops To Record Worst Week In Six Months Amid Elevated Yields, Oil — NVDA, TSLA, SPCX, ONON In Focus",TSLA,Yahoo RSS,negative,-0.952450394630432
 2026-09-18 14:35:01,Meta Stock Surges as It Unveils New Personal AI Agent - Barchart.com,META,Google RSS,positive,0.6268895268440247
 2026-09-18 19:10:30,"Catalyst Watch: Trump-Xi in DC, Meta Connect, and McDonald's Investor Day (SPY:NYSEARCA) - Seeking Alpha",META,Google RSS,neutral,0.0
 2026-09-15 14:50:44,"Meta's stock experienced a ""false breakout"" over the past year! However, with litigation risks receding and bolstered by Muse AI, bulls are betting that the market trend is finally breaking through. - 富途牛牛",META,Google RSS,positive,0.6582645177841187
 2026-09-18 17:35:00,Sector Update: Tech Stocks Edge Higher Friday Afternoon,META,Yahoo RSS,positive,0.9413481950759888
 2026-09-18 12:52:56,Why Is Netflix Stock Falling Friday? - Benzinga,NFLX,Google RSS,negative,-0.9311001300811768
 2026-09-14 11:11:49,Evercore ISI raises Netflix stock price target on survey strength - Investing.com,NFLX,Google RSS,neutral,0.0
-2026-09-18 12:07:59,Netflix stock slides as Wells Fargo turns bearish despite solid Q2 2026 growth - AD HOC NEWS,NFLX,Google RSS,negative,-0.9490233063697815
-2026-09-18 14:40:00,Netflix downgraded as ‘worrying’ engagement trends emerge,NFLX,Yahoo RSS,negative,-0.9402680397033691
+2026-09-18 12:07:59,Netflix stock slides as Wells Fargo turns bearish despite solid Q2 2026 growth - AD HOC NEWS,NFLX,Google RSS,negative,-0.9490233063697816
+2026-09-18 14:40:00,Netflix downgraded as ‘worrying’ engagement trends emerge,NFLX,Yahoo RSS,negative,-0.9402680397033693
+2026-09-18 19:40:32,Apple Stock (AAPL): iPhone Survey Points to 28% Higher Average Selling Price - tipranks.com,AAPL,Google RSS,positive,0.7658106684684753
+2026-09-18 12:24:23,"Dividend Roundup: Microsoft, JPMorgan Chase, McDonald's, Broadcom, and more (VIG:NYSEARCA) - Seeking Alpha",MSFT,Google RSS,neutral,0.0
+2026-09-19 00:51:38,"NVIDIA stock price ended at $222.27 on Friday, after gaining 1.34% - StockInvest.us",NVDA,Google RSS,positive,0.8238752484321594
+2026-09-17 15:09:00,Looking for a Good Deal on an AI Stock? This Leading Chipmaker Is Cheaper Than Broadcom and AMD. - The Motley Fool,NVDA,Google RSS,neutral,0.0
