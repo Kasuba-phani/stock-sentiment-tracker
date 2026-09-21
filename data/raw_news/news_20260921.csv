@@ -30,9 +30,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-18 14:18:59,"Microsoft vs. Alphabet: One AI Stock Gets an Upgrade, but the Sidelines Call for the Other, Says Top Investor - tipranks.com",MSFT,Google RSS,positive,0.8687446713447571
 2026-09-21 16:03:07,Wall Street sets Microsoft stock price for next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
 2026-09-21 12:48:19,Cantor Fitzgerald raises Microsoft stock price target on growth - Investing.com,MSFT,Google RSS,neutral,0.0
-2026-09-21 14:41:00,NOW Rides on Strong Workflow Demand: Can It Outpace CRM & MSFT?,MSFT,Yahoo RSS,positive,0.9252355098724365
+2026-09-21 14:41:00,NOW Rides on Strong Workflow Demand: Can It Outpace CRM & MSFT?,MSFT,Yahoo RSS,positive,0.9252355098724364
 2026-09-21 13:04:05,Wall Street Analysts See a 46.61% Upside in Nvidia (NVDA): Can the Stock Really Move This High? - Zacks Investment Research,NVDA,Google RSS,positive,0.7708902955055237
 2026-09-21 09:26:05,Tesla stock jumps ahead of highly anticipated Roadster event,TSLA,Bing RSS,neutral,0.0
 2026-09-21 13:50:33,"Tech stocks rise, Bitcoin rallies as Treasury yields ease: AlphaCheck",TSLA,Yahoo RSS,neutral,0.0
 2026-09-21 06:50:00,"Meta stock reaches $700, highest since February 2026",META,Bing RSS,positive,0.8818641304969788
 2026-09-21 05:44:00,Netflix's stock has fallen sharply after recent earnings reports,NFLX,Bing RSS,negative,-0.9755821824073792
+2026-09-21 18:15:59,"A 0.25% rate hike slashed NVIDIA's market value by $300 billion, highlighting AI growth's sensitivity to interest rates. - Pluang",NVDA,Google RSS,negative,-0.9512494802474976
+2026-09-21 12:14:29,"Meta, Tech Stocks Lift S&P 500 to Best Day Since August - Bloomberg.com",META,Google RSS,positive,0.48679667711257935
+2026-09-21 20:22:41,"US Equity Markets Higher as Tech, Communication Stocks Rise Amid Drop in Government Bond Yields, Crude Oil Prices",META,Yahoo RSS,positive,0.6363703012466431
