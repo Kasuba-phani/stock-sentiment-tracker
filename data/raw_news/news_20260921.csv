@@ -37,5 +37,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-21 06:50:00,"Meta stock reaches $700, highest since February 2026",META,Bing RSS,positive,0.8818641304969788
 2026-09-21 05:44:00,Netflix's stock has fallen sharply after recent earnings reports,NFLX,Bing RSS,negative,-0.9755821824073792
 2026-09-21 18:15:59,"A 0.25% rate hike slashed NVIDIA's market value by $300 billion, highlighting AI growth's sensitivity to interest rates. - Pluang",NVDA,Google RSS,negative,-0.9512494802474976
-2026-09-21 12:14:29,"Meta, Tech Stocks Lift S&P 500 to Best Day Since August - Bloomberg.com",META,Google RSS,positive,0.48679667711257935
+2026-09-21 12:14:29,"Meta, Tech Stocks Lift S&P 500 to Best Day Since August - Bloomberg.com",META,Google RSS,positive,0.4867966771125793
 2026-09-21 20:22:41,"US Equity Markets Higher as Tech, Communication Stocks Rise Amid Drop in Government Bond Yields, Crude Oil Prices",META,Yahoo RSS,positive,0.6363703012466431
+2026-09-21 21:35:10,Microsoft Stock: BNP Sees More Azure Growth as Higher Prices Kick In - TipRanks,MSFT,Google RSS,positive,0.8371114134788513
+2026-09-21 21:13:00,"Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-09-21 16:52:00,"Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",NVDA,Bing RSS,positive,0.674679696559906
+2026-09-21 21:35:00,"Inflation. The Iran War. A Hawkish Fed. Soaring Bond Yields. And Concerns About Artificial Intelligence. The Stock Market Faces Many Hurdles, But Only 1 Metric Truly Matters Right Now",NVDA,Yahoo RSS,neutral,0.0
+2026-09-21 02:51:58,Meta: Poised For Strong Long-Term Growth - Seeking Alpha,META,Google RSS,positive,0.9413027763366699
+2026-09-21 13:50:00,Here’s How Much Traders See Meta Stock Moving After Connect Event This Week,META,Bing RSS,neutral,0.0
+2026-09-21 21:09:45,"Update: Communication Services, Tech Heavyweights Push US Equity Indexes Higher as Crude Oil Slides With Treasury Yields",META,Yahoo RSS,positive,0.8483451008796692
+2026-09-18 12:52:56,Why Is Netflix Stock Falling Friday? - Benzinga,NFLX,Google RSS,negative,-0.9311001300811768
