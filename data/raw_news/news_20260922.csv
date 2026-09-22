@@ -18,7 +18,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-21 21:09:45,"Update: Communication Services, Tech Heavyweights Push US Equity Indexes Higher as Crude Oil Slides With Treasury Yields",META,Yahoo RSS,positive,0.8483455777168274
 2026-09-18 12:52:56,Why Is Netflix Stock Falling Friday? - Benzinga,NFLX,Google RSS,negative,-0.9310999512672424
 2026-09-21 05:44:00,Netflix's stock has fallen sharply after recent earnings reports,NFLX,Bing RSS,negative,-0.9755821824073792
-2026-09-22 07:48:16,DSM Capital Partners LLC Cuts Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,negative,-0.9572504758834839
+2026-09-22 07:48:16,DSM Capital Partners LLC Cuts Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,negative,-0.957250475883484
 2026-09-22 08:22:00,2 Rock-Solid Dividend Stocks to Buy in September Even as Oil Surges Past $100 Per Barrel.,NVDA,Yahoo RSS,positive,0.7605335116386414
 2026-09-18 22:52:56,See how Tesla stocks performed for week ending Sept. 18 - usatoday.com,TSLA,Google RSS,neutral,0.0
 2026-09-17 12:25:26,"With a Strong Product Pipeline, Tesla Stock Is Positioned for Growth Acceleration - Barchart.com",TSLA,Google RSS,positive,0.6135982275009155
@@ -26,3 +26,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-18 14:35:01,Meta Stock Surges as It Unveils New Personal AI Agent - Barchart.com,META,Google RSS,positive,0.6268895268440247
 2026-09-22 08:06:25,"Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",META,Yahoo RSS,neutral,0.0
 2026-09-22 08:57:23,"Stocks rise on AI buzz, oil prices cool",META,Yahoo RSS,negative,-0.6681886315345764
+2026-09-22 13:41:37,"Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",AAPL,Yahoo RSS,negative,-0.7947749495506287
+2026-09-22 14:19:29,"Stock Market Today: Dow Slips, Oil Stocks Fall On U.S.-Iran Hopes; Homebuilders, Retailers Shine (Live Coverage)",AAPL,Yahoo RSS,negative,-0.945719301700592
+2026-09-22 10:41:15,"Stock Market Today: Futures Tick Higher After Nasdaq Closes at Record; Oil Prices, Bond Yields Slip",AAPL,Yahoo RSS,positive,0.8543113470077515
+2026-09-22 12:00:00,How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge - Investor's Business Daily,GOOGL,Google RSS,neutral,0.0
+2026-09-22 10:59:09,"Big Tech’s AI Debt Spree Hits a Wall as Bond Investors Demand Higher Yields From Alphabet, Meta and Nvidia - TradingView",GOOGL,Google RSS,negative,-0.5484262704849243
+2026-09-22 09:51:24,Alphabet stock holds near USD 355 as cloud growth accelerates - AD HOC NEWS,GOOGL,Google RSS,neutral,0.0
+2026-09-22 14:19:29,"Stock Market Today: Dow Slips, Oil Stocks Fall On U.S.-Iran Hopes; Homebuilders, Retailers Shine (Live Coverage)",GOOGL,Yahoo RSS,negative,-0.945719301700592
+2026-09-22 12:50:00,Buy These 2 Technology Services Stocks to Tap Recent Northbound Trend,AMZN,Yahoo RSS,neutral,0.0
+2026-09-22 11:35:40,Oppenheimer raises Microsoft stock price target to $570 on AI growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-22 10:25:40,Microsoft stock gains 1.59 percent as targets rise - AD HOC NEWS,MSFT,Google RSS,neutral,0.0
+2026-09-22 12:00:00,How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
+2026-09-21 20:50:56,Here’s How Much Traders See Meta Stock Moving After Connect Event This Week - Investopedia,META,Google RSS,neutral,0.0
+2026-09-21 02:51:58,Meta: Poised For Strong Long-Term Growth - seekingalpha.com,META,Google RSS,neutral,0.0
+2026-09-22 13:41:37,"Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",META,Yahoo RSS,negative,-0.7947749495506287
+2026-09-22 14:08:20,"Stocks climb as oil slides, AI buzz returns",META,Yahoo RSS,negative,-0.7115336656570435
+2026-09-22 13:56:35,"Stock Market Today (Sept. 22, 2027): Dow edges higher as oil prices slide and AI stocks rise",META,Yahoo RSS,positive,0.7066917419433594
+2026-09-22 13:05:02,"‘Dodging a Bullet,’ Says Top Investor About Netflix Stock - TipRanks",NFLX,Google RSS,neutral,0.0
