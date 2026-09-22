@@ -46,3 +46,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-22 09:22:13,"​Nasdaq hits intraday record high on Alphabet boost, Mideast negotiation hopes - The Globe and Mail",GOOGL,Google RSS,positive,0.7605196833610535
 2026-09-22 10:59:09,"Big Tech’s AI Debt Spree Hits a Wall as Bond Investors Demand Higher Yields From Alphabet, Meta and Nvidi - Benzinga",GOOGL,Google RSS,negative,-0.702507495880127
 2026-09-22 10:59:09,"Big Tech’s AI Debt Spree Hits a Wall as Bond Investors Demand Higher Yields From Alphabet, Meta and Nvidia - tradingview.com",GOOGL,Google RSS,negative,-0.4142054319381714
+2026-09-22 19:07:51,"Rising Memory Costs Dampen Consumer PC Demand, UBS Says",AAPL,Yahoo RSS,negative,-0.9389950633049011
+2026-09-22 17:26:00,Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level - Investor's Business Daily,AMZN,Google RSS,positive,0.4336860179901123
+2026-09-22 20:33:00,"Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution - The Motley Fool",AMZN,Google RSS,neutral,0.0
+2026-09-22 20:50:00,"Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution",AMZN,Yahoo RSS,neutral,0.0
+2026-09-22 18:57:03,Market Chatter: Nvidia's Falling Stock Price Is Raising Worries About Profit Growth Prospects - Moomoo,NVDA,Google RSS,negative,-0.9573504328727722
+2026-09-22 19:01:42,Nvidia's Falling Stock Price is Raising Worries About Profit Growth Prospects - marketscreener.com,NVDA,Google RSS,negative,-0.9559473395347595
+2026-09-22 11:46:00,Market Chatter: Nvidia's Falling Stock Price is Raising Worries About Profit Growth Prospects,NVDA,Bing RSS,negative,-0.9712374806404114
+2026-09-22 20:50:00,"Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution",NVDA,Yahoo RSS,neutral,0.0
