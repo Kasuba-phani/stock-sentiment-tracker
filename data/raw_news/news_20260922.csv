@@ -43,3 +43,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-22 14:08:20,"Stocks climb as oil slides, AI buzz returns",META,Yahoo RSS,negative,-0.7115336656570435
 2026-09-22 13:56:35,"Stock Market Today (Sept. 22, 2027): Dow edges higher as oil prices slide and AI stocks rise",META,Yahoo RSS,positive,0.7066917419433594
 2026-09-22 13:05:02,"‘Dodging a Bullet,’ Says Top Investor About Netflix Stock - TipRanks",NFLX,Google RSS,neutral,0.0
+2026-09-22 09:22:13,"​Nasdaq hits intraday record high on Alphabet boost, Mideast negotiation hopes - The Globe and Mail",GOOGL,Google RSS,positive,0.7605196833610535
+2026-09-22 10:59:09,"Big Tech’s AI Debt Spree Hits a Wall as Bond Investors Demand Higher Yields From Alphabet, Meta and Nvidi - Benzinga",GOOGL,Google RSS,negative,-0.702507495880127
+2026-09-22 10:59:09,"Big Tech’s AI Debt Spree Hits a Wall as Bond Investors Demand Higher Yields From Alphabet, Meta and Nvidia - tradingview.com",GOOGL,Google RSS,negative,-0.4142054319381714
