@@ -4,7 +4,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-21 16:03:07,Wall Street sets Microsoft stock price for next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
 2026-09-21 12:48:19,Cantor Fitzgerald raises Microsoft stock price target on growth - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-09-20 14:15:18,"Microsoft: Strong AI Story, But Why Is the Stock Struggling? - Moomoo",MSFT,Google RSS,negative,-0.8276141881942749
-2026-09-22 02:56:45,Asia chip stocks soar after Wall Street AI rally; LG jumps on Nvidia cooling nod - Investing.com,NVDA,Google RSS,positive,0.47584474086761475
+2026-09-22 02:56:45,Asia chip stocks soar after Wall Street AI rally; LG jumps on Nvidia cooling nod - Investing.com,NVDA,Google RSS,positive,0.4758447408676147
 2026-09-21 20:31:00,"Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High - Investor's Business Daily",NVDA,Google RSS,positive,0.8196506500244141
 2026-09-22 02:21:00,"Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
 2026-09-21 13:04:05,Wall Street Analysts See a 46.61% Upside in Nvidia (NVDA): Can the Stock Really Move This High? - Zacks Investment Research,NVDA,Google RSS,positive,0.7708895206451416
@@ -14,7 +14,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-21 02:51:58,Meta: Poised For Strong Long-Term Growth - Seeking Alpha,META,Google RSS,positive,0.9413026571273804
 2026-09-18 14:35:01,Meta Stock Surges as It Unveils New Personal AI Agent - barchart.com,META,Google RSS,positive,0.6268905401229858
 2026-09-21 13:50:00,Here’s How Much Traders See Meta Stock Moving After Connect Event This Week,META,Bing RSS,neutral,0.0
-2026-09-22 02:37:48,"Stocks rise on AI buzz, drop in oil prices",META,Yahoo RSS,negative,-0.9115811586380005
+2026-09-22 02:37:48,"Stocks rise on AI buzz, drop in oil prices",META,Yahoo RSS,negative,-0.9115811586380004
 2026-09-21 21:09:45,"Update: Communication Services, Tech Heavyweights Push US Equity Indexes Higher as Crude Oil Slides With Treasury Yields",META,Yahoo RSS,positive,0.8483455777168274
 2026-09-18 12:52:56,Why Is Netflix Stock Falling Friday? - Benzinga,NFLX,Google RSS,negative,-0.9310999512672424
 2026-09-21 05:44:00,Netflix's stock has fallen sharply after recent earnings reports,NFLX,Bing RSS,negative,-0.9755821824073792
+2026-09-22 07:48:16,DSM Capital Partners LLC Cuts Stock Position in NVIDIA Corporation $NVDA - MarketBeat,NVDA,Google RSS,negative,-0.9572504758834839
+2026-09-22 08:22:00,2 Rock-Solid Dividend Stocks to Buy in September Even as Oil Surges Past $100 Per Barrel.,NVDA,Yahoo RSS,positive,0.7605335116386414
+2026-09-18 22:52:56,See how Tesla stocks performed for week ending Sept. 18 - usatoday.com,TSLA,Google RSS,neutral,0.0
+2026-09-17 12:25:26,"With a Strong Product Pipeline, Tesla Stock Is Positioned for Growth Acceleration - Barchart.com",TSLA,Google RSS,positive,0.6135982275009155
+2026-09-22 07:32:34,Meta’s stock $800 Bullish Breakout on Muse Strong Adoption - FXLeaders,META,Google RSS,positive,0.8884492516517639
+2026-09-18 14:35:01,Meta Stock Surges as It Unveils New Personal AI Agent - Barchart.com,META,Google RSS,positive,0.6268895268440247
+2026-09-22 08:06:25,"Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",META,Yahoo RSS,neutral,0.0
+2026-09-22 08:57:23,"Stocks rise on AI buzz, oil prices cool",META,Yahoo RSS,negative,-0.6681886315345764
