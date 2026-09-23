@@ -36,4 +36,16 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-23 10:55:42,Microsoft stock gains on AI pricing and analyst upgrades - AD HOC NEWS,MSFT,Google RSS,positive,0.5653685927391052
 2026-09-21 20:50:56,Here’s How Much Traders See Meta Stock Moving After Connect Event This Week - Investopedia,META,Google RSS,neutral,0.0
 2026-09-23 09:28:24,"U.S. Futures Edge Higher as Investors Monitor Meta’s Muse and Oil Prices: Dow Jones, S&P, Nasdaq, Wall Street",META,Yahoo RSS,positive,0.6850259900093079
-2026-09-18 12:52:56,Why Is Netflix Stock Falling Friday? - benzinga.com,NFLX,Google RSS,negative,-0.9185711741447449
+2026-09-18 12:52:56,Why Is Netflix Stock Falling Friday? - benzinga.com,NFLX,Google RSS,negative,-0.9185711741447448
+2026-09-23 15:22:11,Charles Schwab Stock Fell 6% on AI Fears. The Rate Hike Everyone Feared Actually Helps It,AAPL,Yahoo RSS,negative,-0.9284573197364807
+2026-09-23 16:16:30,Alphabet's stock could jump 50% by 2027 driven by booming cloud growth and Gemini's user surge. - Pluang,GOOGL,Google RSS,positive,0.7773901224136353
+2026-09-22 14:32:00,AWS Is Growing at Its Fastest Rate in 18 Quarters. Is Amazon Stock Still a Buy at $255?,AMZN,Bing RSS,neutral,0.0
+2026-09-23 12:43:21,Oppenheimer Boosts Microsoft Price Target to $570 Following Strong Azure and Copilot Growth - TIKR.com,MSFT,Google RSS,positive,0.8535523414611816
+2026-09-23 08:03:27,Stifel upgrades Microsoft stock rating to buy on AI growth outlook - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-23 14:55:18,Quantum computing stocks rally after IonQ reports a fresh technical breakthrough - Business Insider,NVDA,Google RSS,positive,0.5055527687072754
+2026-09-23 15:47:26,Chip Stocks Drop After Six-Day Climb For SOX Index,NVDA,Yahoo RSS,negative,-0.9613034725189209
+2026-09-23 12:44:48,"Meta Could Ride AI’s ‘Third S-Curve’ As Personal Agent Muse Takes Off, Says Cantor — KeyBanc Lifts Target To $900 - TradingView",META,Google RSS,positive,0.7306830286979675
+2026-09-23 13:53:23,Tech retreats as Treasury yields and oil climb: AlphaCheck,META,Yahoo RSS,negative,-0.8379470109939575
+2026-09-23 15:22:11,Charles Schwab Stock Fell 6% on AI Fears. The Rate Hike Everyone Feared Actually Helps It,META,Yahoo RSS,negative,-0.9284573197364807
+2026-09-23 14:59:14,Meta Rallies Into Connect Conference. Why The Muse AI Agent Is Sending Some Stocks Lower.,META,Yahoo RSS,negative,-0.9461107850074768
+2026-09-23 14:14:49,"Nasdaq climbs higher, McDonald's investor day updates",META,Yahoo RSS,positive,0.7189728617668152
