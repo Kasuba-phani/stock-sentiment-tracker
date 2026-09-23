@@ -54,3 +54,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-23 14:59:00,Meta Rallies Into Connect Conference. Why The Muse AI Agent Is Sending Some Stocks Lower. - Investor's Business Daily,META,Google RSS,negative,-0.8621721267700195
 2026-09-23 12:44:48,"Meta Could Ride AI’s ‘Third S-Curve’ As Personal Agent Muse Takes Off, Says Cantor — KeyBanc Lifts Target To $900 - tradingview.com",META,Google RSS,positive,0.6056891083717346
 2026-09-23 19:13:16,"Etsy, CarGurus, Cars.com, and EverQuote Shares Are Falling, What You Need To Know",META,Yahoo RSS,negative,-0.611522912979126
+2026-09-23 17:49:05,"$5,000 in Alphabet stock could grow to $14,860 in 5 years amid strong AI-driven growth. - Pluang",GOOGL,Google RSS,positive,0.7823187112808228
+2026-09-23 21:23:28,"S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes — AMZN, GOOGL, NFLX, SPCX, RKLB In Focus",GOOGL,Yahoo RSS,negative,-0.9100394248962402
+2026-09-23 21:23:28,"S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes — AMZN, GOOGL, NFLX, SPCX, RKLB In Focus",AMZN,Yahoo RSS,negative,-0.9100394248962402
+2026-09-21 16:03:07,Wall Street sets Microsoft stock price for next 12 months - finbold.com,MSFT,Google RSS,neutral,0.0
+2026-09-23 20:53:16,Meta Stock Forecast: Bullish Trend Strong Despite Pullback Risk - FXEmpire,META,Google RSS,positive,0.8457692861557007
+2026-09-23 22:26:01,"Dow Jones Futures: Stocks Fall As Treasury Yields Soar; Palantir, Palo Alto Flash Buy Signals",META,Yahoo RSS,negative,-0.9555424451828003
+2026-09-23 21:23:28,"S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes — AMZN, GOOGL, NFLX, SPCX, RKLB In Focus",NFLX,Yahoo RSS,negative,-0.9100394248962402
