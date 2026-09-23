@@ -1,0 +1,25 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-09-22 19:07:51,"Rising Memory Costs Dampen Consumer PC Demand, UBS Says",AAPL,Yahoo RSS,negative,-0.9389951229095459
+2026-09-22 10:59:09,"Big Tech’s AI Debt Spree Hits a Wall as Bond Investors Demand Higher Yields From Alphabet, Meta and Nvidia - Benzinga",GOOGL,Google RSS,negative,-0.6601906418800354
+2026-09-22 12:00:00,How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge - Investor's Business Daily,GOOGL,Google RSS,neutral,0.0
+2026-09-22 17:26:00,Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level - Investor's Business Daily,AMZN,Google RSS,positive,0.4336864650249481
+2026-09-22 20:33:00,"Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution - The Motley Fool",AMZN,Google RSS,neutral,0.0
+2026-09-22 20:50:00,"Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution",AMZN,Yahoo RSS,neutral,0.0
+2026-09-22 11:35:40,Oppenheimer raises Microsoft stock price target to $570 on AI growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-21 16:03:07,Wall Street sets Microsoft stock price for next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
+2026-09-21 12:48:19,Cantor Fitzgerald raises Microsoft stock price target on growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-22 13:24:00,"Trump Discloses Over 1,100 New Trades, Including Major Amazon and Microsoft Sales - Quiver Quantitative",MSFT,Google RSS,neutral,0.0
+2026-09-20 14:15:18,"Microsoft: Strong AI Story, But Why Is the Stock Struggling? - Moomoo",MSFT,Google RSS,negative,-0.8276148438453674
+2026-09-22 10:25:40,Microsoft stock gains 1.59 percent as targets rise - AD HOC NEWS,MSFT,Google RSS,neutral,0.0
+2026-09-22 12:00:00,How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
+2026-09-22 19:01:42,Nvidia's Falling Stock Price is Raising Worries About Profit Growth Prospects - marketscreener.com,NVDA,Google RSS,negative,-0.9559473395347595
+2026-09-22 18:57:03,Market Chatter: Nvidia's Falling Stock Price Is Raising Worries About Profit Growth Prospects - Moomoo,NVDA,Google RSS,negative,-0.9573504328727722
+2026-09-21 20:31:00,"Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High - Investor's Business Daily",NVDA,Google RSS,positive,0.8196503520011902
+2026-09-22 02:21:00,"Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-09-22 16:40:01,Nvidia’s cooling stock valuations are being looked at as a warning signal,NVDA,Bing RSS,negative,-0.9619370102882385
+2026-09-22 20:50:00,"Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution",NVDA,Yahoo RSS,neutral,0.0
+2026-09-17 12:25:26,"With a Strong Product Pipeline, Tesla Stock Is Positioned for Growth Acceleration - Barchart.com",TSLA,Google RSS,positive,0.6135982275009155
+2026-09-21 09:26:05,Tesla stock jumps ahead of highly anticipated Roadster event,TSLA,Bing RSS,neutral,0.0
+2026-09-22 13:05:02,"‘Dodging a Bullet,’ Says Top Investor About Netflix Stock - TipRanks",NFLX,Google RSS,neutral,0.0
+2026-09-18 12:52:56,Why Is Netflix Stock Falling Friday? - Benzinga,NFLX,Google RSS,negative,-0.9311001300811768
+2026-09-21 05:44:00,Netflix's stock has fallen sharply after recent earnings reports,NFLX,Bing RSS,negative,-0.9755821824073792
