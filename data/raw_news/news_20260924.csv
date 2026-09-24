@@ -14,7 +14,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-23 08:03:27,Stifel upgrades Microsoft stock rating to buy on AI growth outlook - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-09-21 16:03:07,Wall Street sets Microsoft stock price for next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
 2026-09-21 12:48:19,Cantor Fitzgerald raises Microsoft stock price target on growth - Investing.com,MSFT,Google RSS,neutral,0.0
-2026-09-24 01:25:38,Microsoft shows strong cloud growth and tech ad... - Pluang,MSFT,Google RSS,positive,0.9406672120094299
+2026-09-24 01:25:38,Microsoft shows strong cloud growth and tech ad... - Pluang,MSFT,Google RSS,positive,0.94066721200943
 2026-09-23 17:04:51,"Microsoft struggles to hold $500 as Nasdaq hits record highs, pressured by rising rates and heavy AI spending. - Pluang",MSFT,Google RSS,negative,-0.9332489371299744
 2026-09-23 10:55:42,Microsoft stock gains on AI pricing and analyst upgrades - AD HOC NEWS,MSFT,Google RSS,positive,0.5653687715530396
 2026-09-23 17:18:24,Microsoft Stays Flat After Cutting an AI Phishing Supply Chain,MSFT,Yahoo RSS,negative,-0.9298391342163086
@@ -27,8 +27,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-24 01:25:04,"Meta Platforms, McDonald's, Beneficient, Palantir and Palo Alto Networks: Why These 5 Stocks Are on Inves - Benzinga",META,Google RSS,neutral,0.0
 2026-09-21 02:51:58,Meta: Poised For Strong Long-Term Growth - Seeking Alpha,META,Google RSS,positive,0.9413026571273804
 2026-09-21 13:50:00,Here’s How Much Traders See Meta Stock Moving After Connect Event This Week,META,Bing RSS,neutral,0.0
-2026-09-24 00:13:48,Why Twilio (TWLO) Is Up 21.7% After Strong Q2 And Higher 2026 AI-Driven Growth Outlook,META,Yahoo RSS,positive,0.9542528986930847
+2026-09-24 00:13:48,Why Twilio (TWLO) Is Up 21.7% After Strong Q2 And Higher 2026 AI-Driven Growth Outlook,META,Yahoo RSS,positive,0.9542528986930848
 2026-09-24 03:10:09,"Dow Jones Futures Fall After Soaring Yields Hit Stocks, But Palantir Flashes Buy Signal; Trump-Xi On Tap",META,Yahoo RSS,negative,-0.6540392637252808
-2026-09-18 12:52:56,Why Is Netflix Stock Falling Friday? - Benzinga,NFLX,Google RSS,negative,-0.9310998320579529
+2026-09-18 12:52:56,Why Is Netflix Stock Falling Friday? - Benzinga,NFLX,Google RSS,negative,-0.9310998320579528
 2026-09-21 05:44:00,Netflix's stock has fallen sharply after recent earnings reports,NFLX,Bing RSS,negative,-0.9755821824073792
 2026-09-23 21:23:28,"S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes — AMZN, GOOGL, NFLX, SPCX, RKLB In Focus",NFLX,Yahoo RSS,negative,-0.9100395441055298
+2026-09-24 08:25:55,"Nasdaq, S&P 500 Futures Slide As Treasury Yields, Trump-Xi Summit Keep Traders On Edge: META, GOOGL, SPCX, VKTX, SNAP, MCD, BB Stocks In Focus",GOOGL,Yahoo RSS,negative,-0.6889663934707642
+2026-09-24 07:25:56,"Gallagher Fiduciary Advisors LLC Buys New Shares in Amazon.com, Inc. $AMZN - MarketBeat",AMZN,Google RSS,neutral,0.0
+2026-09-21 16:03:07,Wall Street sets Microsoft stock price for next 12 months - finbold.com,MSFT,Google RSS,neutral,0.0
+2026-09-24 05:00:20,Microsoft stock gains 0.56 percent before the bell - AD HOC NEWS,MSFT,Google RSS,positive,0.4400005042552948
+2026-09-24 06:07:00,Can Nvidia stock really hit $333 in September 2027? - uk.finance.yahoo.com,NVDA,Google RSS,neutral,0.0
+2026-09-24 09:26:01,"The Retail Investor Fleecing Marches On: Another 319 Million SpaceX Shares Unlock Today, Sept. 24",NVDA,Yahoo RSS,neutral,0.0
+2026-09-24 08:17:00,My Top Dividend Growth Stock to Buy in September and Hold Forever,NVDA,Yahoo RSS,neutral,0.0
