@@ -1,0 +1,34 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-09-18 20:21:20,Apple Stock Gets Stunning Price Target Hike on Strong iPhone Demand - finance.yahoo.com,AAPL,Google RSS,positive,0.674180805683136
+2026-09-23 15:22:11,Charles Schwab Stock Fell 6% on AI Fears. The Rate Hike Everyone Feared Actually Helps It,AAPL,Yahoo RSS,negative,-0.9284570217132568
+2026-09-23 20:25:00,"Stock Market Today: Small Caps, Gold Miners Spanked Amid Sell-Off; Meta Makes A Bullish Move - Investor's Business Daily",GOOGL,Google RSS,neutral,0.0
+2026-09-23 16:16:30,Alphabet's stock could jump 50% by 2027 driven by booming cloud growth and Gemini's user surge. - Pluang,GOOGL,Google RSS,positive,0.7773893475532532
+2026-09-23 17:49:05,"$5,000 in Alphabet stock could grow to $14,860 in 5 years amid strong AI-driven growth. - Pluang",GOOGL,Google RSS,positive,0.7823182940483093
+2026-09-24 03:05:15,"Dow, S&P 500, Nasdaq Futures Dip As Bond Yields Bite And Trump-Xi Meet Grabs Spotlight: Why META, MCD, GOOG, U Stocks Are Trending",GOOGL,Yahoo RSS,negative,-0.865574061870575
+2026-09-23 21:23:28,"S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes — AMZN, GOOGL, NFLX, SPCX, RKLB In Focus",GOOGL,Yahoo RSS,negative,-0.9100395441055298
+2026-09-22 17:26:00,Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level - Investor's Business Daily,AMZN,Google RSS,positive,0.4336860179901123
+2026-09-22 21:30:00,"Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution - The Motley Fool",AMZN,Google RSS,neutral,0.0
+2026-09-22 20:50:00,"Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution - finance.yahoo.com",AMZN,Google RSS,neutral,0.0
+2026-09-23 21:23:28,"S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes — AMZN, GOOGL, NFLX, SPCX, RKLB In Focus",AMZN,Yahoo RSS,negative,-0.9100395441055298
+2026-09-23 12:43:21,Oppenheimer Boosts Microsoft Price Target to $570 Following Strong Azure and Copilot Growth - TIKR.com,MSFT,Google RSS,positive,0.8535525798797607
+2026-09-23 08:03:27,Stifel upgrades Microsoft stock rating to buy on AI growth outlook - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-21 16:03:07,Wall Street sets Microsoft stock price for next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
+2026-09-21 12:48:19,Cantor Fitzgerald raises Microsoft stock price target on growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-24 01:25:38,Microsoft shows strong cloud growth and tech ad... - Pluang,MSFT,Google RSS,positive,0.9406672120094299
+2026-09-23 17:04:51,"Microsoft struggles to hold $500 as Nasdaq hits record highs, pressured by rising rates and heavy AI spending. - Pluang",MSFT,Google RSS,negative,-0.9332489371299744
+2026-09-23 10:55:42,Microsoft stock gains on AI pricing and analyst upgrades - AD HOC NEWS,MSFT,Google RSS,positive,0.5653687715530396
+2026-09-23 17:18:24,Microsoft Stays Flat After Cutting an AI Phishing Supply Chain,MSFT,Yahoo RSS,negative,-0.9298391342163086
+2026-09-23 14:55:00,Quantum computing stocks rally after IonQ reports a fresh technical breakthrough - Business Insider,NVDA,Google RSS,positive,0.5055544972419739
+2026-09-21 20:31:00,"Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High - Investor's Business Daily",NVDA,Google RSS,positive,0.8196508288383484
+2026-09-21 16:26:05,Tesla stock jumps ahead of highly anticipated Roadster event - finance.yahoo.com,TSLA,Google RSS,neutral,0.0
+2026-09-21 20:50:56,Here’s How Much Traders See Meta Stock Moving After Connect Event This Week - Investopedia,META,Google RSS,neutral,0.0
+2026-09-24 02:47:55,Meta Stock Forecast: Bullish Trend Strong Despite Pullback Risk - FXEmpire,META,Google RSS,positive,0.845768928527832
+2026-09-23 20:25:00,"Stock Market Today: Small Caps, Gold Miners Spanked Amid Sell-Off; Meta Makes A Bullish Move - Investor's Business Daily",META,Google RSS,neutral,0.0
+2026-09-24 01:25:04,"Meta Platforms, McDonald's, Beneficient, Palantir and Palo Alto Networks: Why These 5 Stocks Are on Inves - Benzinga",META,Google RSS,neutral,0.0
+2026-09-21 02:51:58,Meta: Poised For Strong Long-Term Growth - Seeking Alpha,META,Google RSS,positive,0.9413026571273804
+2026-09-21 13:50:00,Here’s How Much Traders See Meta Stock Moving After Connect Event This Week,META,Bing RSS,neutral,0.0
+2026-09-24 00:13:48,Why Twilio (TWLO) Is Up 21.7% After Strong Q2 And Higher 2026 AI-Driven Growth Outlook,META,Yahoo RSS,positive,0.9542528986930847
+2026-09-24 03:10:09,"Dow Jones Futures Fall After Soaring Yields Hit Stocks, But Palantir Flashes Buy Signal; Trump-Xi On Tap",META,Yahoo RSS,negative,-0.6540392637252808
+2026-09-18 12:52:56,Why Is Netflix Stock Falling Friday? - Benzinga,NFLX,Google RSS,negative,-0.9310998320579529
+2026-09-21 05:44:00,Netflix's stock has fallen sharply after recent earnings reports,NFLX,Bing RSS,negative,-0.9755821824073792
+2026-09-23 21:23:28,"S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes — AMZN, GOOGL, NFLX, SPCX, RKLB In Focus",NFLX,Yahoo RSS,negative,-0.9100395441055298
