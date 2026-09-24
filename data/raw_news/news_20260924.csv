@@ -54,3 +54,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-24 02:30:00,Tesla stock at risk despite rising EV sales amid rising gasoline prices,TSLA,Bing RSS,negative,-0.6588254570960999
 2026-09-24 12:04:00,"Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Meta, Everpure, Grail Are Early Movers. - Investor's Business Daily",META,Google RSS,negative,-0.8367129564285278
 2026-09-24 11:44:00,Bond Yields Are Flashing Red for Stocks. What Happens Next.,NFLX,Yahoo RSS,neutral,0.0
+2026-09-24 18:14:59,These Dow Jones Stocks Buck Index's Dud Performance,AAPL,Yahoo RSS,neutral,0.0
+2026-09-24 18:36:24,"Stock Market Today: Dow Pressured By Rising Oil, Yields; AI Data Center Name Falls (Live Coverage)",AMZN,Yahoo RSS,negative,-0.9449791312217712
+2026-09-24 18:14:00,These Dow Jones Stocks Buck Index's Dud Performance - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
+2026-09-23 12:43:21,Oppenheimer Boosts Microsoft Price Target to $570 Following Strong Azure and Copilot Growth - tikr.com,MSFT,Google RSS,positive,0.8535523414611816
+2026-09-24 18:14:59,These Dow Jones Stocks Buck Index's Dud Performance,MSFT,Yahoo RSS,neutral,0.0
+2026-09-24 18:36:24,"Stock Market Today: Dow Pressured By Rising Oil, Yields; AI Data Center Name Falls (Live Coverage)",NVDA,Yahoo RSS,negative,-0.9449791312217712
+2026-09-24 17:25:00,"Muse is expanding Meta's moat, consumer exposure to tech products",META,Yahoo RSS,positive,0.5115095973014832
+2026-09-24 16:44:23,"Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",META,Yahoo RSS,negative,-0.9670326709747314
