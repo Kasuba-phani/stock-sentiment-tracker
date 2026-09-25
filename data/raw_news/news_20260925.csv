@@ -48,4 +48,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-25 04:20:00,Nike and McDonald's Are the Worst-Performing Dow Stocks This Year. Here's the 1 to Buy in October.,NVDA,Yahoo RSS,negative,-0.787411630153656
 2026-09-25 03:07:00,"Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
 2026-09-23 19:32:00,Meta Rallies Into Connect Conference. Why The Muse AI Agent Is Sending Some Stocks Lower. - Investor's Business Daily,META,Google RSS,negative,-0.8621721267700195
-2026-09-21 02:51:58,Meta: Poised For Strong Long-Term Growth - Seeking Alpha,META,Google RSS,positive,0.9413027763366699
+2026-09-21 02:51:58,Meta: Poised For Strong Long-Term Growth - Seeking Alpha,META,Google RSS,positive,0.94130277633667
+2026-09-25 13:12:14,Bernstein sees downside risk to Apple’s December quarter results - Investing.com,AAPL,Google RSS,negative,-0.633156418800354
+2026-09-23 16:16:30,Alphabet's stock could jump 50% by 2027 driven by booming cloud growth and Gemini's user surge. - pluang.com,GOOGL,Google RSS,positive,0.6349632143974304
+2026-09-24 19:34:56,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - GuruFocus,AMZN,Google RSS,negative,-0.9678932428359985
+2026-09-25 07:32:43,"9,807 Shares in Amazon.com, Inc. $AMZN Acquired by Philadelphia Investment Partners LLC - MarketBeat",AMZN,Google RSS,neutral,0.0
+2026-09-22 21:30:00,"Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution - fool.com",AMZN,Google RSS,neutral,0.0
+2026-09-22 14:32:00,AWS Is Growing at Its Fastest Rate in 18 Quarters. Is Amazon Stock Still a Buy at $255?,AMZN,Bing RSS,neutral,0.0
+2026-09-25 07:24:59,NVIDIA Corporation $NVDA Stock Purchased by LiftPoint Family Wealth Advisors LLC - marketbeat.com,NVDA,Google RSS,neutral,0.0
+2026-09-25 08:29:10,"Nasdaq, S&P 500 Futures Rise Despite Surging Treasury Yields: AMD, TSLA, SPCX, AKAM, BE Stocks In Focus",TSLA,Yahoo RSS,neutral,0.0
+2026-09-25 08:39:19,Piper Sandler raises Meta stock price target to $875 on AI optimism - Investing.com,META,Google RSS,neutral,0.0
