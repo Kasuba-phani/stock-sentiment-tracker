@@ -71,4 +71,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-25 16:17:00,"Twilio Stock Is Falling. Yes, It’s About Meta’s Muse. - Barron's",META,Google RSS,negative,-0.859221339225769
 2026-09-25 14:35:01,Friday's session: gap up and gap down stock in the S&P500 index - ChartMill,META,Google RSS,negative,-0.7640438079833984
 2026-09-25 18:09:46,The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points,META,Yahoo RSS,positive,0.7613268494606018
-2026-09-25 16:17:00,"Twilio Stock Is Falling. Yes, It’s About Meta’s Muse.",META,Yahoo RSS,negative,-0.9216755628585815
+2026-09-25 16:17:00,"Twilio Stock Is Falling. Yes, It’s About Meta’s Muse.",META,Yahoo RSS,negative,-0.9216755628585817
+2026-09-25 19:15:10,"Apple stock rises 10% in a month, eyes $350 as AI-powered Mac sales could boost analyst targets. - Pluang",AAPL,Google RSS,positive,0.9411975741386414
+2026-09-25 21:39:36,Wall Street ends higher as investors buy AI stocks; Microsoft rallies - Reuters,MSFT,Google RSS,positive,0.6965717077255249
+2026-09-25 18:49:00,The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points - The Motley Fool,MSFT,Google RSS,positive,0.7636059522628784
+2026-09-25 20:42:00,"Market Bounces To Cap Strong Week For Growth; Microsoft, Amphenol, Bloom Energy, Micron In Focus - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-09-25 10:59:00,Microsoft shares rise over 3% after expanded Copilot release - Proactive financial news,MSFT,Google RSS,positive,0.8272920846939087
+2026-09-25 16:59:00,"Microsoft, Meta, Akamai, Zscaler, Comcast, and More Stocks That Explain Today's Market -- Barrons.com - 富途牛牛",MSFT,Google RSS,neutral,0.0
+2026-09-25 18:26:58,Wall Street climbs as investors buy AI stocks; Microsoft rallies - TradingView,MSFT,Google RSS,neutral,0.0
+2026-09-25 14:35:00,Microsoft stock closes at highest level of the year after Copilot AI expansion,MSFT,Bing RSS,positive,0.8977827429771423
+2026-09-25 22:00:10,"Goldman Sachs Outweighs Microsoft in This Popular Dow ETF, and Share Price Is the Only Reason",MSFT,Yahoo RSS,neutral,0.0
+2026-09-25 21:04:06,"Dow Jones Futures: Growth Stocks Shrug Off Surging Yields; Micron, SpaceX, Tesla, Key Economic Data Due",MSFT,Yahoo RSS,neutral,0.0
+2026-09-25 21:04:00,"Dow Jones Futures: Growth Stocks Shrug Off Surging Yields; Micron, SpaceX, Tesla, Key Economic Data Due - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-09-25 14:50:00,"Dow Jones futures: Growth stocks shrug off surging yields; Micron, SpaceX, Tesla, key economic data due",TSLA,Bing RSS,neutral,0.0
+2026-09-25 21:04:06,"Dow Jones Futures: Growth Stocks Shrug Off Surging Yields; Micron, SpaceX, Tesla, Key Economic Data Due",TSLA,Yahoo RSS,neutral,0.0
