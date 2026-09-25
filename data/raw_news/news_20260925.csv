@@ -41,3 +41,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-21 05:44:00,Netflix's stock has fallen sharply after recent earnings reports,NFLX,Bing RSS,negative,-0.9755821824073792
 2026-09-24 11:44:00,Bond Yields Are Flashing Red for Stocks. What Happens Next.,NFLX,Yahoo RSS,neutral,0.0
 2026-09-23 21:23:28,"S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes — AMZN, GOOGL, NFLX, SPCX, RKLB In Focus",NFLX,Yahoo RSS,negative,-0.9100394248962402
+2026-09-23 17:49:05,"$5,000 in Alphabet stock could grow to $14,860 in 5 years amid strong AI-driven growth. - Pluang",GOOGL,Google RSS,positive,0.7823187112808228
+2026-09-24 19:34:56,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - gurufocus.com,AMZN,Google RSS,negative,-0.9475064277648926
+2026-09-23 12:43:21,Oppenheimer Boosts Microsoft Price Target to $570 Following Strong Azure and Copilot Growth - TIKR.com,MSFT,Google RSS,positive,0.8535523414611816
+2026-09-21 16:03:07,Wall Street sets Microsoft stock price for next 12 months - finbold.com,MSFT,Google RSS,neutral,0.0
+2026-09-25 04:20:00,Nike and McDonald's Are the Worst-Performing Dow Stocks This Year. Here's the 1 to Buy in October.,NVDA,Yahoo RSS,negative,-0.787411630153656
+2026-09-25 03:07:00,"Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-09-23 19:32:00,Meta Rallies Into Connect Conference. Why The Muse AI Agent Is Sending Some Stocks Lower. - Investor's Business Daily,META,Google RSS,negative,-0.8621721267700195
+2026-09-21 02:51:58,Meta: Poised For Strong Long-Term Growth - Seeking Alpha,META,Google RSS,positive,0.9413027763366699
