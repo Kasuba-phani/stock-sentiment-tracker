@@ -51,10 +51,24 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-21 02:51:58,Meta: Poised For Strong Long-Term Growth - Seeking Alpha,META,Google RSS,positive,0.94130277633667
 2026-09-25 13:12:14,Bernstein sees downside risk to Apple’s December quarter results - Investing.com,AAPL,Google RSS,negative,-0.633156418800354
 2026-09-23 16:16:30,Alphabet's stock could jump 50% by 2027 driven by booming cloud growth and Gemini's user surge. - pluang.com,GOOGL,Google RSS,positive,0.6349632143974304
-2026-09-24 19:34:56,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - GuruFocus,AMZN,Google RSS,negative,-0.9678932428359985
+2026-09-24 19:34:56,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - GuruFocus,AMZN,Google RSS,negative,-0.9678932428359984
 2026-09-25 07:32:43,"9,807 Shares in Amazon.com, Inc. $AMZN Acquired by Philadelphia Investment Partners LLC - MarketBeat",AMZN,Google RSS,neutral,0.0
 2026-09-22 21:30:00,"Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution - fool.com",AMZN,Google RSS,neutral,0.0
 2026-09-22 14:32:00,AWS Is Growing at Its Fastest Rate in 18 Quarters. Is Amazon Stock Still a Buy at $255?,AMZN,Bing RSS,neutral,0.0
 2026-09-25 07:24:59,NVIDIA Corporation $NVDA Stock Purchased by LiftPoint Family Wealth Advisors LLC - marketbeat.com,NVDA,Google RSS,neutral,0.0
 2026-09-25 08:29:10,"Nasdaq, S&P 500 Futures Rise Despite Surging Treasury Yields: AMD, TSLA, SPCX, AKAM, BE Stocks In Focus",TSLA,Yahoo RSS,neutral,0.0
 2026-09-25 08:39:19,Piper Sandler raises Meta stock price target to $875 on AI optimism - Investing.com,META,Google RSS,neutral,0.0
+2026-09-25 13:39:45,Bernstein sees downside risk to Apple’s December quarter results,AAPL,Yahoo RSS,negative,-0.9522796869277954
+2026-09-25 16:32:49,Top 3 Undervalued Stocks To Watch In September 2026 - simplywall.st,GOOGL,Google RSS,neutral,0.0
+2026-09-25 16:24:40,"Cybersecurity Stocks Pare Early-Week Gains — Analysts See AI Security Demand Building, But Valuations Raise The Bar",GOOGL,Yahoo RSS,positive,0.7581591606140137
+2026-09-25 14:49:00,Microsoft stock rises as analysts warm to Azure and AI growth outlook - Quiver Quantitative,MSFT,Google RSS,positive,0.7719802856445312
+2026-09-25 11:30:02,Analysts Are Getting Bullish on Microsoft Stock. Buy MSFT While It’s Still Below $500. - Barchart.com,MSFT,Google RSS,neutral,0.0
+2026-09-25 18:13:25,The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points - fool.com,MSFT,Google RSS,neutral,0.0
+2026-09-25 04:30:00,Analysts Are Getting Bullish on Microsoft Stock. Buy MSFT While It’s Still Below $500.,MSFT,Bing RSS,neutral,0.0
+2026-09-25 18:09:46,The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points,MSFT,Yahoo RSS,positive,0.7613268494606018
+2026-09-25 18:09:46,The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points,NVDA,Yahoo RSS,positive,0.7613268494606018
+2026-09-25 17:55:33,Sector Update: Consumer Stocks Advance Friday Afternoon,TSLA,Yahoo RSS,positive,0.457773894071579
+2026-09-25 16:17:00,"Twilio Stock Is Falling. Yes, It’s About Meta’s Muse. - Barron's",META,Google RSS,negative,-0.859221339225769
+2026-09-25 14:35:01,Friday's session: gap up and gap down stock in the S&P500 index - ChartMill,META,Google RSS,negative,-0.7640438079833984
+2026-09-25 18:09:46,The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points,META,Yahoo RSS,positive,0.7613268494606018
+2026-09-25 16:17:00,"Twilio Stock Is Falling. Yes, It’s About Meta’s Muse.",META,Yahoo RSS,negative,-0.9216755628585815
