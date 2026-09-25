@@ -1,0 +1,43 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-09-18 20:21:20,Apple Stock Gets Stunning Price Target Hike on Strong iPhone Demand - finance.yahoo.com,AAPL,Google RSS,positive,0.6741787791252136
+2026-09-24 20:18:26,3 Stocks Tied To Apple And Nvidia Supply Chain Demand,AAPL,Yahoo RSS,neutral,0.0
+2026-09-24 18:14:59,These Dow Jones Stocks Buck Index's Dud Performance,AAPL,Yahoo RSS,neutral,0.0
+2026-09-25 00:12:00,"S&P 500, Dow, Nasdaq Futures Ease As Treasury Yields Continue To Spike — ORCL, META, AKAM, GOOGL, MGM In Focus - TradingView",GOOGL,Google RSS,neutral,0.0
+2026-09-23 20:25:00,"Stock Market Today: Small Caps, Gold Miners Spanked Amid Sell-Off; Meta Makes A Bullish Move - Investor's Business Daily",GOOGL,Google RSS,neutral,0.0
+2026-09-23 16:16:30,Alphabet's stock could jump 50% by 2027 driven by booming cloud growth and Gemini's user surge. - Pluang,GOOGL,Google RSS,positive,0.7773901224136353
+2026-09-25 00:12:54,"S&P 500, Dow, Nasdaq Futures Ease As Treasury Yields Continue To Spike — ORCL, META, AKAM, GOOGL, MGM In Focus",GOOGL,Yahoo RSS,neutral,0.0
+2026-09-24 19:36:03,Adobe Stock Slides 18%: Value Play or Falling Knife?,GOOGL,Yahoo RSS,negative,-0.9021064043045044
+2026-09-24 20:15:53,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - TradingView,AMZN,Google RSS,negative,-0.9665130972862244
+2026-09-22 17:26:00,Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level - Investor's Business Daily,AMZN,Google RSS,positive,0.4336864650249481
+2026-09-22 21:31:30,AWS Is Growing at Its Fastest Rate in 18 Quarters. Is Amazon Stock Still a Buy at $255? - finance.yahoo.com,AMZN,Google RSS,neutral,0.0
+2026-09-22 21:30:00,"Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution - The Motley Fool",AMZN,Google RSS,neutral,0.0
+2026-09-22 20:50:00,"Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution - finance.yahoo.com",AMZN,Google RSS,neutral,0.0
+2026-09-24 07:25:56,"Gallagher Fiduciary Advisors LLC Buys New Shares in Amazon.com, Inc. $AMZN - MarketBeat",AMZN,Google RSS,neutral,0.0
+2026-09-24 20:15:53,Amazon Stock Dips After $100 Million Indiana Manufacturing Push,AMZN,Yahoo RSS,negative,-0.9644649028778076
+2026-09-24 20:34:16,Stock Market Today: Dow Slides As Treasury Yields Surge; Nvidia Slips While Micron Rises,AMZN,Yahoo RSS,negative,-0.9580115675926208
+2026-09-23 12:43:21,Oppenheimer Boosts Microsoft Price Target to $570 Following Strong Azure and Copilot Growth - tikr.com,MSFT,Google RSS,positive,0.8535523414611816
+2026-09-24 12:30:16,Prediction: Microsoft’s Best Growth Opportunity May Still Be Ahead - finance.yahoo.com,MSFT,Google RSS,neutral,0.0
+2026-09-24 18:14:00,These Dow Jones Stocks Buck Index's Dud Performance - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
+2026-09-21 16:03:07,Wall Street sets Microsoft stock price for next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
+2026-09-21 12:48:19,Cantor Fitzgerald raises Microsoft stock price target on growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-24 06:30:00,Prediction: Microsoft’s Best Growth Opportunity May Still Be Ahead,MSFT,Bing RSS,positive,0.8958867788314819
+2026-09-24 19:36:03,Adobe Stock Slides 18%: Value Play or Falling Knife?,MSFT,Yahoo RSS,negative,-0.9021064043045044
+2026-09-24 18:14:59,These Dow Jones Stocks Buck Index's Dud Performance,MSFT,Yahoo RSS,neutral,0.0
+2026-09-24 20:34:00,Stock Market Today: Dow Slides As Treasury Yields Surge; Nvidia Slips While Micron Rises - Investor's Business Daily,NVDA,Google RSS,negative,-0.9118162989616394
+2026-09-24 13:42:15,Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck - finance.yahoo.com,NVDA,Google RSS,negative,-0.6866744756698608
+2026-09-24 06:07:00,Can Nvidia stock really hit $333 in September 2027? - uk.finance.yahoo.com,NVDA,Google RSS,neutral,0.0
+2026-09-21 20:31:00,"Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High - Investor's Business Daily",NVDA,Google RSS,positive,0.8196503520011902
+2026-09-23 14:55:00,Quantum computing stocks rally after IonQ reports a fresh technical breakthrough - Business Insider,NVDA,Google RSS,positive,0.5055527687072754
+2026-09-24 21:50:00,I've Covered Stocks for 10 Years. This Is the Single Best Way a New Investor Should Start.,NVDA,Yahoo RSS,neutral,0.0
+2026-09-21 16:26:05,Tesla stock jumps ahead of highly anticipated Roadster event - finance.yahoo.com,TSLA,Google RSS,neutral,0.0
+2026-09-25 00:31:00,Futures Fall As Treasury Yields Keep Rising; 3 Stocks In Buy Areas - Investor's Business Daily,TSLA,Google RSS,negative,-0.8717445135116577
+2026-09-24 02:30:00,Tesla stock at risk despite rising EV sales amid rising gasoline prices,TSLA,Bing RSS,negative,-0.6588254570960999
+2026-09-24 04:31:00,"Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",TSLA,Bing RSS,positive,0.5840376615524292
+2026-09-25 01:07:18,"Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event",TSLA,Yahoo RSS,positive,0.907220721244812
+2026-09-24 19:11:20,Is Tesla (TSLA) Priced For Too Much Sales Growth After Recent Expansion Bets?,TSLA,Yahoo RSS,negative,-0.7489908933639526
+2026-09-21 20:50:56,Here’s How Much Traders See Meta Stock Moving After Connect Event This Week - Investopedia,META,Google RSS,neutral,0.0
+2026-09-24 12:04:00,"Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Meta, Everpure, Grail Are Early Movers. - Investor's Business Daily",META,Google RSS,negative,-0.8367129564285278
+2026-09-18 12:52:56,Why Is Netflix Stock Falling Friday? - Benzinga,NFLX,Google RSS,negative,-0.9311001300811768
+2026-09-21 05:44:00,Netflix's stock has fallen sharply after recent earnings reports,NFLX,Bing RSS,negative,-0.9755821824073792
+2026-09-24 11:44:00,Bond Yields Are Flashing Red for Stocks. What Happens Next.,NFLX,Yahoo RSS,neutral,0.0
+2026-09-23 21:23:28,"S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes — AMZN, GOOGL, NFLX, SPCX, RKLB In Focus",NFLX,Yahoo RSS,negative,-0.9100394248962402
