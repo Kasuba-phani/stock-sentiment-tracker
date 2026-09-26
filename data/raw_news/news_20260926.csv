@@ -3,7 +3,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-25 16:32:49,Top 3 Undervalued Stocks To Watch In September 2026 - simplywall.st,GOOGL,Google RSS,neutral,0.0
 2026-09-23 20:25:00,"Stock Market Today: Small Caps, Gold Miners Spanked Amid Sell-Off; Meta Makes A Bullish Move - Investor's Business Daily",GOOGL,Google RSS,neutral,0.0
 2026-09-23 16:16:30,Alphabet's stock could jump 50% by 2027 driven by booming cloud growth and Gemini's user surge. - Pluang,GOOGL,Google RSS,positive,0.7773901224136353
-2026-09-24 19:34:56,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - GuruFocus,AMZN,Google RSS,negative,-0.9678932428359985
+2026-09-24 19:34:56,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - GuruFocus,AMZN,Google RSS,negative,-0.9678932428359984
 2026-09-22 17:26:00,Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level - Investor's Business Daily,AMZN,Google RSS,positive,0.4336864650249481
 2026-09-24 20:15:53,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - TradingView,AMZN,Google RSS,negative,-0.9665130972862244
 2026-09-25 07:32:43,"9,807 Shares in Amazon.com, Inc. $AMZN Acquired by Philadelphia Investment Partners LLC - marketbeat.com",AMZN,Google RSS,neutral,0.0
@@ -36,3 +36,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-21 05:44:00,Netflix's stock has fallen sharply after recent earnings reports,NFLX,Bing RSS,negative,-0.9755821824073792
 2026-09-24 11:44:00,Bond Yields Are Flashing Red for Stocks. What Happens Next.,NFLX,Yahoo RSS,neutral,0.0
 2026-09-23 21:23:28,"S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes — AMZN, GOOGL, NFLX, SPCX, RKLB In Focus",NFLX,Yahoo RSS,negative,-0.9100394248962402
+2026-09-26 07:06:50,"Investor Focus: Where to Buy Bonds, Berkshire’s Alphabet Bet, and How to Invest in Wayve - Morningstar",GOOGL,Google RSS,neutral,0.0
+2026-09-24 19:34:56,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - gurufocus.com,AMZN,Google RSS,negative,-0.9475064277648926
+2026-09-26 07:16:27,"Coastal Bridge Advisors LLC Purchases New Shares in Amazon.com, Inc. $AMZN - MarketBeat",AMZN,Google RSS,neutral,0.0
+2026-09-25 14:49:00,Microsoft stock rises as analysts warm to Azure and AI growth outlook - quiverquant.com,MSFT,Google RSS,positive,0.5441089272499084
+2026-09-25 22:00:10,"Goldman Sachs Outweighs Microsoft in This Popular Dow ETF, and Share Price Is the Only Reason - AOL.com",MSFT,Google RSS,neutral,0.0
