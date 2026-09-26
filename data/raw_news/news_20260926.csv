@@ -49,3 +49,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-25 21:05:43,Microsoft stock hits new short-term high after major Copilot AI platform upgrade. - pluang.com,MSFT,Google RSS,positive,0.6864575743675232
 2026-09-22 11:35:40,Oppenheimer raises Microsoft stock price target to $570 on AI growth - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-09-21 20:50:56,Here’s How Much Traders See Meta Stock Moving After Connect Event This Week - investopedia.com,META,Google RSS,neutral,0.0
+2026-09-26 13:02:00,Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake.,AAPL,Yahoo RSS,neutral,0.0
+2026-09-26 13:13:58,Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake. - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-09-26 13:02:00,Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake.,GOOGL,Yahoo RSS,neutral,0.0
+2026-09-26 13:02:00,Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake.,AMZN,Yahoo RSS,neutral,0.0
+2026-09-26 16:17:41,Meta and Microsoft led tech stocks higher last week despite soaring bond yields - CNBC,MSFT,Google RSS,positive,0.6699396371841431
+2026-09-26 11:39:59,Microsoft Stock Rises 3.7% as Azure Growth and AI Demand Drive Strong Results - fxleaders.com,MSFT,Google RSS,positive,0.828689694404602
+2026-09-25 23:35:00,US stocks: Wall Street ends higher as investors buy AI stocks; Microsoft rallies - businesstimes.com.sg,MSFT,Google RSS,positive,0.7188449501991272
+2026-09-26 15:34:19,"Dow Jones Futures: Growth Shrugs Off Surging Yields, But Trump Rejects Iran Deal; Micron, SpaceX, Tesla Eye Buy Points",MSFT,Yahoo RSS,neutral,0.0
+2026-09-26 13:02:00,Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake.,MSFT,Yahoo RSS,neutral,0.0
+2026-09-26 15:50:00,Growth Shrugs Off Surging Yields; Trump Makes This Iran Decision - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
+2026-09-25 23:34:49,"Dow Jones futures: Growth stocks shrug off surging yields; Micron, SpaceX, Tesla, key economic data due - MSN",TSLA,Google RSS,neutral,0.0
+2026-09-26 08:38:00,"Dow Jones futures: Growth shrugs off surging yields, but Trump rejects Iran deal; Micron, SpaceX, Tesla eye buy points",TSLA,Bing RSS,neutral,0.0
+2026-09-26 15:34:19,"Dow Jones Futures: Growth Shrugs Off Surging Yields, But Trump Rejects Iran Deal; Micron, SpaceX, Tesla Eye Buy Points",TSLA,Yahoo RSS,neutral,0.0
+2026-09-26 13:02:00,Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake.,TSLA,Yahoo RSS,neutral,0.0
+2026-09-26 13:02:00,Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake.,META,Yahoo RSS,neutral,0.0
