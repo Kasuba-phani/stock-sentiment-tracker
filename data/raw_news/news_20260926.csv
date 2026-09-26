@@ -1,0 +1,38 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-09-25 19:15:10,"Apple stock rises 10% in a month, eyes $350 as AI-powered Mac sales could boost analyst targets. - Pluang",AAPL,Google RSS,positive,0.9411975741386414
+2026-09-25 16:32:49,Top 3 Undervalued Stocks To Watch In September 2026 - simplywall.st,GOOGL,Google RSS,neutral,0.0
+2026-09-23 20:25:00,"Stock Market Today: Small Caps, Gold Miners Spanked Amid Sell-Off; Meta Makes A Bullish Move - Investor's Business Daily",GOOGL,Google RSS,neutral,0.0
+2026-09-23 16:16:30,Alphabet's stock could jump 50% by 2027 driven by booming cloud growth and Gemini's user surge. - Pluang,GOOGL,Google RSS,positive,0.7773901224136353
+2026-09-24 19:34:56,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - GuruFocus,AMZN,Google RSS,negative,-0.9678932428359985
+2026-09-22 17:26:00,Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level - Investor's Business Daily,AMZN,Google RSS,positive,0.4336864650249481
+2026-09-24 20:15:53,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - TradingView,AMZN,Google RSS,negative,-0.9665130972862244
+2026-09-25 07:32:43,"9,807 Shares in Amazon.com, Inc. $AMZN Acquired by Philadelphia Investment Partners LLC - marketbeat.com",AMZN,Google RSS,neutral,0.0
+2026-09-22 21:30:00,"Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution - The Motley Fool",AMZN,Google RSS,neutral,0.0
+2026-09-25 14:49:00,Microsoft stock rises as analysts warm to Azure and AI growth outlook - Quiver Quantitative,MSFT,Google RSS,positive,0.7719802856445312
+2026-09-25 09:48:00,Wall Street ends higher as investors buy AI stocks; Microsoft rallies - Reuters,MSFT,Google RSS,positive,0.6965693235397339
+2026-09-25 11:30:02,Analysts Are Getting Bullish on Microsoft Stock. Buy MSFT While It’s Still Below $500. - Barchart.com,MSFT,Google RSS,neutral,0.0
+2026-09-25 18:49:00,The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points - The Motley Fool,MSFT,Google RSS,positive,0.763605535030365
+2026-09-25 22:00:00,"Goldman Sachs Outweighs Microsoft in This Popular Dow ETF, and Share Price Is the Only Reason - 24/7 Wall St.",MSFT,Google RSS,neutral,0.0
+2026-09-25 21:05:43,Microsoft stock hits new short-term high after major Copilot AI platform upgrade. - Pluang,MSFT,Google RSS,positive,0.9003631472587585
+2026-09-23 12:43:21,Oppenheimer Boosts Microsoft Price Target to $570 Following Strong Azure and Copilot Growth - TIKR.com,MSFT,Google RSS,positive,0.8535523414611816
+2026-09-25 20:42:00,"Market Bounces To Cap Strong Week For Growth; Microsoft, Amphenol, Bloom Energy, Micron In Focus - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-09-25 10:59:00,Microsoft shares rise over 3% after expanded Copilot release - Proactive financial news,MSFT,Google RSS,positive,0.8272911310195923
+2026-09-25 16:59:00,"Microsoft, Meta, Akamai, Zscaler, Comcast, and More Stocks That Explain Today's Market -- Barrons.com - 富途牛牛",MSFT,Google RSS,neutral,0.0
+2026-09-25 18:26:58,Wall Street climbs as investors buy AI stocks; Microsoft rallies - TradingView,MSFT,Google RSS,neutral,0.0
+2026-09-24 18:14:00,These Dow Jones Stocks Buck Index's Dud Performance - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
+2026-09-25 14:35:00,Microsoft stock closes at highest level of the year after Copilot AI expansion,MSFT,Bing RSS,positive,0.8977827429771423
+2026-09-25 22:51:48,"S&P 500, Dow, Nasdaq End Week Higher On Chipmaker Strength, Easing Oil Amid Signs Of Easing US-Iran Conflict — META, COST, MSFT, CRWD, SKHY In Focus",MSFT,Yahoo RSS,positive,0.888611376285553
+2026-09-25 22:00:10,"Goldman Sachs Outweighs Microsoft in This Popular Dow ETF, and Share Price Is the Only Reason",MSFT,Yahoo RSS,neutral,0.0
+2026-09-25 21:04:06,"Dow Jones Futures: Growth Stocks Shrug Off Surging Yields; Micron, SpaceX, Tesla, Key Economic Data Due",MSFT,Yahoo RSS,neutral,0.0
+2026-09-24 20:34:00,Stock Market Today: Dow Slides As Treasury Yields Surge; Nvidia Slips While Micron Rises - Investor's Business Daily,NVDA,Google RSS,negative,-0.9118162989616394
+2026-09-25 23:12:00,"Dow Jones Futures: Growth Stocks Shrug Off Surging Yields; Micron, SpaceX, Tesla, Key Economic Data Due - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-09-24 02:30:00,Tesla stock at risk despite rising EV sales amid rising gasoline prices,TSLA,Bing RSS,negative,-0.6588254570960999
+2026-09-25 21:04:06,"Dow Jones Futures: Growth Stocks Shrug Off Surging Yields; Micron, SpaceX, Tesla, Key Economic Data Due",TSLA,Yahoo RSS,neutral,0.0
+2026-09-25 17:55:33,Sector Update: Consumer Stocks Advance Friday Afternoon,TSLA,Yahoo RSS,positive,0.457773894071579
+2026-09-23 19:32:00,Meta Rallies Into Connect Conference. Why The Muse AI Agent Is Sending Some Stocks Lower. - Investor's Business Daily,META,Google RSS,negative,-0.8621721267700195
+2026-09-21 20:50:56,Here’s How Much Traders See Meta Stock Moving After Connect Event This Week - Investopedia,META,Google RSS,neutral,0.0
+2026-09-25 08:39:19,Piper Sandler raises Meta stock price target to $875 on AI optimism - Investing.com,META,Google RSS,neutral,0.0
+2026-09-25 16:17:00,"Twilio Stock Is Falling. Yes, It’s About Meta’s Muse. - Barron's",META,Google RSS,negative,-0.859221339225769
+2026-09-21 05:44:00,Netflix's stock has fallen sharply after recent earnings reports,NFLX,Bing RSS,negative,-0.9755821824073792
+2026-09-24 11:44:00,Bond Yields Are Flashing Red for Stocks. What Happens Next.,NFLX,Yahoo RSS,neutral,0.0
+2026-09-23 21:23:28,"S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes — AMZN, GOOGL, NFLX, SPCX, RKLB In Focus",NFLX,Yahoo RSS,negative,-0.9100394248962402
