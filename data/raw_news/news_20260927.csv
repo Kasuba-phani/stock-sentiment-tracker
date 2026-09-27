@@ -1,0 +1,40 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-09-25 19:15:10,"Apple stock rises 10% in a month, eyes $350 as AI-powered Mac sales could boost analyst targets. - Pluang",AAPL,Google RSS,positive,0.9411975741386414
+2026-09-26 13:02:00,Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake.,AAPL,Yahoo RSS,neutral,0.0
+2026-09-26 07:06:50,"Investor Focus: Where to Buy Bonds, Berkshire’s Alphabet Bet, and How to Invest in Wayve - Morningstar",GOOGL,Google RSS,neutral,0.0
+2026-09-26 12:30:41,Alphabet (NASDAQ:GOOG) Combines Strong Growth With a Quality Technical Setup - ChartMill,GOOGL,Google RSS,positive,0.7618421912193298
+2026-09-26 13:42:00,Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake. - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-09-23 20:25:00,"Stock Market Today: Small Caps, Gold Miners Spanked Amid Sell-Off; Meta Makes A Bullish Move - Investor's Business Daily",GOOGL,Google RSS,neutral,0.0
+2026-09-26 13:02:00,Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake.,GOOGL,Yahoo RSS,neutral,0.0
+2026-09-24 19:34:56,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - GuruFocus,AMZN,Google RSS,negative,-0.967893123626709
+2026-09-22 17:26:00,Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level - Investor's Business Daily,AMZN,Google RSS,positive,0.4336857795715332
+2026-09-24 20:15:53,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - TradingView,AMZN,Google RSS,negative,-0.9665130972862244
+2026-09-26 07:16:27,"Coastal Bridge Advisors LLC Purchases New Shares in Amazon.com, Inc. $AMZN - marketbeat.com",AMZN,Google RSS,neutral,0.0
+2026-09-22 14:32:00,AWS Is Growing at Its Fastest Rate in 18 Quarters. Is Amazon Stock Still a Buy at $255?,AMZN,Bing RSS,neutral,0.0
+2026-09-26 13:02:00,Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake.,AMZN,Yahoo RSS,neutral,0.0
+2026-09-25 14:49:00,Microsoft stock rises as analysts warm to Azure and AI growth outlook - Quiver Quantitative,MSFT,Google RSS,positive,0.7719806432723999
+2026-09-25 09:48:00,Wall Street ends higher as investors buy AI stocks; Microsoft rallies - Reuters,MSFT,Google RSS,positive,0.6965715885162354
+2026-09-26 11:39:59,Microsoft Stock Rises 3.7% as Azure Growth and AI Demand Drive Strong Results - FXLeaders,MSFT,Google RSS,positive,0.941760241985321
+2026-09-25 11:30:02,Analysts Are Getting Bullish on Microsoft Stock. Buy MSFT While It’s Still Below $500. - Barchart.com,MSFT,Google RSS,neutral,0.0
+2026-09-23 12:43:21,Oppenheimer Boosts Microsoft Price Target to $570 Following Strong Azure and Copilot Growth - TIKR.com,MSFT,Google RSS,positive,0.8535523414611816
+2026-09-25 18:49:00,The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points - The Motley Fool,MSFT,Google RSS,positive,0.7636057734489441
+2026-09-24 18:14:00,These Dow Jones Stocks Buck Index's Dud Performance - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
+2026-09-25 08:38:00,Microsoft stock closes at highest level of the year after Copilot AI expansion,MSFT,Bing RSS,positive,0.8977827429771423
+2026-09-25 22:51:48,"S&P 500, Dow, Nasdaq End Week Higher On Chipmaker Strength, Easing Oil Amid Signs Of Easing US-Iran Conflict — META, COST, MSFT, CRWD, SKHY In Focus",MSFT,Yahoo RSS,positive,0.888611376285553
+2026-09-25 22:00:10,"Goldman Sachs Outweighs Microsoft in This Popular Dow ETF, and Share Price Is the Only Reason",MSFT,Yahoo RSS,neutral,0.0
+2026-09-26 17:43:58,"Dow Jones Futures: Growth Shrugs Off Surging Yields, But Trump Rejects Iran Deal; Micron, SpaceX, Tesla Eye Buy Points",MSFT,Yahoo RSS,neutral,0.0
+2026-09-26 13:02:00,Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake.,MSFT,Yahoo RSS,neutral,0.0
+2026-09-24 20:34:00,Stock Market Today: Dow Slides As Treasury Yields Surge; Nvidia Slips While Micron Rises - Investor's Business Daily,NVDA,Google RSS,negative,-0.9118160009384155
+2026-09-26 18:20:00,"Home Depot Yields More Than 3x the S&P 500. Here's the Effect on a $10,000 Investment.",NVDA,Yahoo RSS,neutral,0.0
+2026-09-26 21:26:40,Tesla Stock Plus 2 High Growth Insider Stocks - simplywall.st,TSLA,Google RSS,neutral,0.0
+2026-09-26 20:55:00,Growth Stocks Shrug Off Surging Yields; Trump's Iran Decision - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
+2026-09-25 23:34:49,"Dow Jones futures: Growth stocks shrug off surging yields; Micron, SpaceX, Tesla, key economic data due - msn.com",TSLA,Google RSS,neutral,0.0
+2026-09-24 02:30:00,Tesla stock at risk despite rising EV sales amid rising gasoline prices,TSLA,Bing RSS,negative,-0.6588238477706909
+2026-09-26 17:43:58,"Dow Jones Futures: Growth Shrugs Off Surging Yields, But Trump Rejects Iran Deal; Micron, SpaceX, Tesla Eye Buy Points",TSLA,Yahoo RSS,neutral,0.0
+2026-09-26 13:02:00,Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake.,TSLA,Yahoo RSS,neutral,0.0
+2026-09-23 19:32:00,Meta Rallies Into Connect Conference. Why The Muse AI Agent Is Sending Some Stocks Lower. - Investor's Business Daily,META,Google RSS,negative,-0.8621717691421509
+2026-09-21 20:50:56,Here’s How Much Traders See Meta Stock Moving After Connect Event This Week - Investopedia,META,Google RSS,neutral,0.0
+2026-09-25 08:39:19,Piper Sandler raises Meta stock price target to $875 on AI optimism - Investing.com,META,Google RSS,neutral,0.0
+2026-09-26 13:02:00,Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake.,META,Yahoo RSS,neutral,0.0
+2026-09-24 11:44:00,Bond Yields Are Flashing Red for Stocks. What Happens Next.,NFLX,Yahoo RSS,neutral,0.0
+2026-09-23 21:23:28,"S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes — AMZN, GOOGL, NFLX, SPCX, RKLB In Focus",NFLX,Yahoo RSS,negative,-0.9100394248962402
