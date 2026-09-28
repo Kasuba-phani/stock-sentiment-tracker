@@ -4,7 +4,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-26 12:30:41,Alphabet (NASDAQ:GOOG) Combines Strong Growth With a Quality Technical Setup - ChartMill,GOOGL,Google RSS,positive,0.7618421912193298
 2026-09-26 13:42:00,Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake. - The Motley Fool,GOOGL,Google RSS,neutral,0.0
 2026-09-27 11:50:22,The AI gold rush is fueling a record tech bond boom: Chart of the Day,GOOGL,Yahoo RSS,neutral,0.0
-2026-09-24 19:34:56,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - GuruFocus,AMZN,Google RSS,negative,-0.9678932428359985
+2026-09-24 19:34:56,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - GuruFocus,AMZN,Google RSS,negative,-0.9678932428359984
 2026-09-24 20:15:53,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - finance.yahoo.com,AMZN,Google RSS,negative,-0.9424394965171814
 2026-09-22 17:26:00,Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level - Investor's Business Daily,AMZN,Google RSS,positive,0.4336860179901123
 2026-09-22 21:31:30,AWS Is Growing at Its Fastest Rate in 18 Quarters. Is Amazon Stock Still a Buy at $255? - finance.yahoo.com,AMZN,Google RSS,neutral,0.0
@@ -22,7 +22,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-27 17:31:00,"FANG+ sees 7 stocks rise, yet averages only +0.12%—Microsoft's surge and Meta's pullback signal a 'changing of the guard'",MSFT,Bing RSS,positive,0.7223137617111206
 2026-09-27 04:16:02,3 Cloud And AI Stocks Retail Investors Are Watching After Microsoft Copilot Expansion,MSFT,Yahoo RSS,neutral,0.0
 2026-09-27 11:50:22,The AI gold rush is fueling a record tech bond boom: Chart of the Day,MSFT,Yahoo RSS,neutral,0.0
-2026-09-24 20:34:00,Stock Market Today: Dow Slides As Treasury Yields Surge; Nvidia Slips While Micron Rises - Investor's Business Daily,NVDA,Google RSS,negative,-0.9118161201477051
+2026-09-24 20:34:00,Stock Market Today: Dow Slides As Treasury Yields Surge; Nvidia Slips While Micron Rises - Investor's Business Daily,NVDA,Google RSS,negative,-0.9118161201477052
 2026-09-24 20:18:26,3 Stocks Tied To Apple And Nvidia Supply Chain Demand - finance.yahoo.com,NVDA,Google RSS,neutral,0.0
 2026-09-24 13:42:15,Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck - finance.yahoo.com,NVDA,Google RSS,negative,-0.6866760849952698
 2026-09-27 07:07:11,NVIDIA Corporation $NVDA Stock Sold by Fort Sheridan Advisors LLC - MarketBeat,NVDA,Google RSS,neutral,0.0
@@ -35,3 +35,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-25 08:39:19,Piper Sandler raises Meta stock price target to $875 on AI optimism - Investing.com,META,Google RSS,neutral,0.0
 2026-09-27 11:50:22,The AI gold rush is fueling a record tech bond boom: Chart of the Day,META,Yahoo RSS,neutral,0.0
 2026-09-24 11:44:00,Bond Yields Are Flashing Red for Stocks. What Happens Next.,NFLX,Yahoo RSS,neutral,0.0
+2026-09-25 19:15:10,"Apple stock rises 10% in a month, eyes $350 as AI-powered Mac sales could boost analyst targets. - Pluang",AAPL,Google RSS,positive,0.9411975741386414
+2026-09-28 01:38:12,"META, GOOGL, NVDA, BB, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",AAPL,Yahoo RSS,neutral,0.0
+2026-09-28 01:41:31,"META, GOOGL, NVDA, BB, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week - Stocktwits",GOOGL,Google RSS,neutral,0.0
+2026-09-28 01:38:12,"META, GOOGL, NVDA, BB, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",GOOGL,Yahoo RSS,neutral,0.0
+2026-09-28 03:58:15,"Microsoft Stock Forecast: Copilot Gets Major Upgrade, Autopilot Can Run Continuously, Can MSFT Keep Rising? - TradingKey",MSFT,Google RSS,positive,0.8608154654502869
+2026-09-25 14:49:00,Microsoft stock rises as analysts warm to Azure and AI growth outlook - quiverquant.com,MSFT,Google RSS,positive,0.5441089272499084
+2026-09-28 01:23:00,"U.S. stocks rise as Microsoft surges 3.66% on new Copilot, 10-year Treasury yield hits 5.23% - kucoin.com",MSFT,Google RSS,positive,0.5211695432662964
+2026-09-28 01:38:12,"META, GOOGL, NVDA, BB, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",NVDA,Yahoo RSS,neutral,0.0
+2026-09-28 03:10:00,"Dow Jones Futures Fall, Oil Prices Rise Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-09-24 02:30:00,Tesla stock at risk despite rising EV sales amid rising gasoline prices,TSLA,Bing RSS,negative,-0.6588254570960999
+2026-09-28 01:41:31,"META, GOOGL, NVDA, BB, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week - Stocktwits",META,Google RSS,neutral,0.0
+2026-09-28 01:38:12,"META, GOOGL, NVDA, BB, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",META,Yahoo RSS,neutral,0.0
