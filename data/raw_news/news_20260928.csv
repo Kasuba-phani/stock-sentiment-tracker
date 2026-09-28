@@ -1,0 +1,37 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-09-24 20:18:26,3 Stocks Tied To Apple And Nvidia Supply Chain Demand - finance.yahoo.com,AAPL,Google RSS,neutral,0.0
+2026-09-26 07:06:50,"Investor Focus: Where to Buy Bonds, Berkshire’s Alphabet Bet, and How to Invest in Wayve - Morningstar",GOOGL,Google RSS,neutral,0.0
+2026-09-26 12:30:41,Alphabet (NASDAQ:GOOG) Combines Strong Growth With a Quality Technical Setup - ChartMill,GOOGL,Google RSS,positive,0.7618421912193298
+2026-09-26 13:42:00,Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake. - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-09-27 11:50:22,The AI gold rush is fueling a record tech bond boom: Chart of the Day,GOOGL,Yahoo RSS,neutral,0.0
+2026-09-24 19:34:56,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - GuruFocus,AMZN,Google RSS,negative,-0.9678932428359985
+2026-09-24 20:15:53,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - finance.yahoo.com,AMZN,Google RSS,negative,-0.9424394965171814
+2026-09-22 17:26:00,Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level - Investor's Business Daily,AMZN,Google RSS,positive,0.4336860179901123
+2026-09-22 21:31:30,AWS Is Growing at Its Fastest Rate in 18 Quarters. Is Amazon Stock Still a Buy at $255? - finance.yahoo.com,AMZN,Google RSS,neutral,0.0
+2026-09-26 13:42:00,Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake. - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-09-27 11:50:22,The AI gold rush is fueling a record tech bond boom: Chart of the Day,AMZN,Yahoo RSS,neutral,0.0
+2026-09-25 09:48:00,Wall Street ends higher as investors buy AI stocks; Microsoft rallies - Reuters,MSFT,Google RSS,positive,0.6965717077255249
+2026-09-25 14:49:00,Microsoft stock rises as analysts warm to Azure and AI growth outlook - Quiver Quantitative,MSFT,Google RSS,positive,0.7719805240631104
+2026-09-25 11:30:02,Analysts Are Getting Bullish on Microsoft Stock. Buy MSFT While It’s Still Below $500. - Barchart.com,MSFT,Google RSS,neutral,0.0
+2026-09-24 12:30:16,Prediction: Microsoft’s Best Growth Opportunity May Still Be Ahead - finance.yahoo.com,MSFT,Google RSS,neutral,0.0
+2026-09-23 12:43:21,Oppenheimer Boosts Microsoft Price Target to $570 Following Strong Azure and Copilot Growth - TIKR.com,MSFT,Google RSS,positive,0.8535525798797607
+2026-09-25 18:49:00,The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points - The Motley Fool,MSFT,Google RSS,positive,0.7636059522628784
+2026-09-26 11:39:59,Microsoft Stock Rises 3.7% as Azure Growth and AI Demand Drive Strong Results - FXLeaders,MSFT,Google RSS,positive,0.941760241985321
+2026-09-25 21:05:43,Microsoft stock hits new short-term high after major Copilot AI platform upgrade. - Pluang,MSFT,Google RSS,positive,0.900363564491272
+2026-09-25 22:00:00,"Goldman Sachs Outweighs Microsoft in This Popular Dow ETF, and Share Price Is the Only Reason - 24/7 Wall St.",MSFT,Google RSS,neutral,0.0
+2026-09-27 17:31:00,"FANG+ sees 7 stocks rise, yet averages only +0.12%—Microsoft's surge and Meta's pullback signal a 'changing of the guard'",MSFT,Bing RSS,positive,0.7223137617111206
+2026-09-27 04:16:02,3 Cloud And AI Stocks Retail Investors Are Watching After Microsoft Copilot Expansion,MSFT,Yahoo RSS,neutral,0.0
+2026-09-27 11:50:22,The AI gold rush is fueling a record tech bond boom: Chart of the Day,MSFT,Yahoo RSS,neutral,0.0
+2026-09-24 20:34:00,Stock Market Today: Dow Slides As Treasury Yields Surge; Nvidia Slips While Micron Rises - Investor's Business Daily,NVDA,Google RSS,negative,-0.9118161201477051
+2026-09-24 20:18:26,3 Stocks Tied To Apple And Nvidia Supply Chain Demand - finance.yahoo.com,NVDA,Google RSS,neutral,0.0
+2026-09-24 13:42:15,Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck - finance.yahoo.com,NVDA,Google RSS,negative,-0.6866760849952698
+2026-09-27 07:07:11,NVIDIA Corporation $NVDA Stock Sold by Fort Sheridan Advisors LLC - MarketBeat,NVDA,Google RSS,neutral,0.0
+2026-09-21 16:26:05,Tesla stock jumps ahead of highly anticipated Roadster event - finance.yahoo.com,TSLA,Google RSS,neutral,0.0
+2026-09-26 21:26:40,Tesla Stock Plus 2 High Growth Insider Stocks - simplywall.st,TSLA,Google RSS,neutral,0.0
+2026-09-26 13:02:00,Most Investors Own All Seven Magnificent Seven Stocks. That's a Mistake.,TSLA,Yahoo RSS,neutral,0.0
+2026-09-23 19:32:00,Meta Rallies Into Connect Conference. Why The Muse AI Agent Is Sending Some Stocks Lower. - Investor's Business Daily,META,Google RSS,negative,-0.8621719479560852
+2026-09-26 16:17:41,Meta and Microsoft led tech stocks higher last week despite soaring bond yields - CNBC,META,Google RSS,positive,0.6699396371841431
+2026-09-21 20:50:56,Here’s How Much Traders See Meta Stock Moving After Connect Event This Week - Investopedia,META,Google RSS,neutral,0.0
+2026-09-25 08:39:19,Piper Sandler raises Meta stock price target to $875 on AI optimism - Investing.com,META,Google RSS,neutral,0.0
+2026-09-27 11:50:22,The AI gold rush is fueling a record tech bond boom: Chart of the Day,META,Yahoo RSS,neutral,0.0
+2026-09-24 11:44:00,Bond Yields Are Flashing Red for Stocks. What Happens Next.,NFLX,Yahoo RSS,neutral,0.0
