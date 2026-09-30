@@ -3,7 +3,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-29 15:19:58,"Alphabet stock seen rising 64% as cloud and AI growth outpace rivals, with $559 price target. - Pluang",GOOGL,Google RSS,positive,0.921459436416626
 2026-09-28 14:13:42,Piper Sandler raises Alphabet stock price target on TPU sales outlook - Investing.com,GOOGL,Google RSS,neutral,0.0
 2026-09-28 17:36:39,AI’s $1 Trillion Funding Problem Is Moving From Stocks to Bonds - Benzinga,GOOGL,Google RSS,neutral,0.0
-2026-09-28 18:24:14,Analyst predicts Alphabet stock to rise 17% to $400 on strong Google Cloud and hardware growth. - Pluang,GOOGL,Google RSS,positive,0.9491651058197021
+2026-09-28 18:24:14,Analyst predicts Alphabet stock to rise 17% to $400 on strong Google Cloud and hardware growth. - Pluang,GOOGL,Google RSS,positive,0.949165105819702
 2026-09-29 16:18:00,"Alphabet Is Building An AI Empire, But Investors May Be Paying Too Much",GOOGL,Bing RSS,negative,-0.8199916481971741
 2026-09-29 11:40:14,"Microsoft: Still Great Business, But AI Raises Serious Questions (NASDAQ:MSFT) - Seeking Alpha",MSFT,Google RSS,neutral,0.0
 2026-09-25 14:49:00,Microsoft stock rises as analysts warm to Azure and AI growth outlook - Quiver Quantitative,MSFT,Google RSS,positive,0.7719802856445312
@@ -26,3 +26,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-29 17:59:49,Meta Expands Its AI Agent Push With Muse Tools For Small Businesses - AOL.com,META,Google RSS,positive,0.6350921392440796
 2026-09-29 09:53:00,Meta Platforms (META) Stock: Platforms Expands Muse AI Agent to Small Businesses,META,Bing RSS,neutral,0.0
 2026-09-29 15:03:37,"Netflix's Growth Undervalued Despite Strong Global Content, AI Leadership, Deutsche Bank Says",NFLX,Yahoo RSS,positive,0.8721246719360352
+2026-09-30 00:29:23,Alphabet poised for 24-54% stock growth by 2027-28 amid AI innovation and strong partnerships - Pluang,GOOGL,Google RSS,positive,0.8771345019340515
+2026-09-30 03:07:06,Executives of Iconic American Companies Reflect on How They Stay on Top,GOOGL,Yahoo RSS,neutral,0.0
+2026-09-24 19:34:56,Amazon Stock Dips After $100 Million Indiana Manufacturing Push - GuruFocus,AMZN,Google RSS,negative,-0.9678932428359985
+2026-09-26 11:39:59,Microsoft Stock Rises 3.7% as Azure Growth and AI Demand Drive Strong Results - FXLeaders,MSFT,Google RSS,positive,0.941760241985321
