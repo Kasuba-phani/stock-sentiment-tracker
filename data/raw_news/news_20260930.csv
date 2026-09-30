@@ -48,6 +48,23 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-30 15:09:11,Why Is Everyone Ignoring Adobe Stock's High Cash Yield?,MSFT,Yahoo RSS,negative,-0.6462679505348206
 2026-09-30 08:01:31,"NVIDIA Stock Analysis: Extraordinary Growth, Strong Financials, and Key Risks - F.A.S.T. Graphs - Commentaries - Advisor Perspectives",NVDA,Google RSS,neutral,0.0
 2026-09-30 15:51:07,Tesla stock after-hours at EUR 308.03: minus 1.19 percent versus prior close - AD HOC NEWS,TSLA,Google RSS,negative,-0.6515408158302307
-2026-09-30 10:05:00,Wall Street expects a 7% drop in Tesla Q3 deliveries; the stock keeps falling,TSLA,Bing RSS,negative,-0.9740022420883179
-2026-09-30 17:03:25,Wall Street Expects A 7% Drop In Tesla Q3 Deliveries; The Stock Keeps Falling,TSLA,Yahoo RSS,negative,-0.9740022420883179
-2026-09-30 13:06:00,"CarMax Q2 Earnings Beat Estimates on Strong Unit Sales, CAF Growth",TSLA,Yahoo RSS,positive,0.9371941089630127
+2026-09-30 10:05:00,Wall Street expects a 7% drop in Tesla Q3 deliveries; the stock keeps falling,TSLA,Bing RSS,negative,-0.974002242088318
+2026-09-30 17:03:25,Wall Street Expects A 7% Drop In Tesla Q3 Deliveries; The Stock Keeps Falling,TSLA,Yahoo RSS,negative,-0.974002242088318
+2026-09-30 13:06:00,"CarMax Q2 Earnings Beat Estimates on Strong Unit Sales, CAF Growth",TSLA,Yahoo RSS,positive,0.9371941089630128
+2026-09-30 20:08:47,Meta stock enjoys best month since 2022 on AI momentum - cnbc.com,AAPL,Google RSS,positive,0.7039580941200256
+2026-09-30 21:23:29,"S&P 500, Dow End Lower As Investors Shrug Off Cooler-Than-Expected Inflation Data — MGM, SPCX, AAPL, TSM In Focus",AAPL,Yahoo RSS,negative,-0.9132573008537292
+2026-09-30 18:03:00,"Stock Market Indexes Rally on Inflation Data, Though the Dow Sat It Out - fool.com",GOOGL,Google RSS,negative,-0.6056289076805115
+2026-09-30 17:38:48,The Nasdaq 100’s Top Companies Aren’t All the Same - Investopedia,GOOGL,Google RSS,neutral,0.0
+2026-09-30 19:05:25,Options traders place bullish bets on Alphabet and Microsoft amid strong economic data. - Pluang,GOOGL,Google RSS,positive,0.5327205657958984
+2026-09-30 22:34:57,"Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",GOOGL,Yahoo RSS,positive,0.6436886787414551
+2026-09-30 18:55:30,Consumer Confidence Fell to Its Lowest Level Since 2014 and Consumer Stocks Are Already Paying for It,AMZN,Yahoo RSS,negative,-0.9709932804107666
+2026-09-30 19:56:11,Sector Update: Tech Stocks Higher Late Afternoon,AMZN,Yahoo RSS,positive,0.9232140183448792
+2026-09-30 09:14:00,"Microsoft Stock Has Grown Roughly 14-Fold Since Satya Nadella Became CEO in 2014, a 23% Annual Growth Rate That Ended 14 Years of Negative Growth. Can That Pace Continue Under Heavy AI Spending? - fool.com",MSFT,Google RSS,neutral,0.0
+2026-09-30 20:37:00,"Stocks Mixed Amid Rising Yields, Oil Prices; HPE, Snowflake, Microsoft In Focus - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-09-30 16:33:16,Microsoft Stocks Jumps Higher as OpenAI Dots Enters Teams - GuruFocus,MSFT,Google RSS,positive,0.875403106212616
+2026-09-25 11:30:02,Analysts Are Getting Bullish on Microsoft Stock. Buy MSFT While It’s Still Below $500. - barchart.com,MSFT,Google RSS,neutral,0.0
+2026-09-30 22:34:57,"Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",MSFT,Yahoo RSS,positive,0.6436886787414551
+2026-09-24 02:30:00,Tesla stock at risk despite rising EV sales amid rising gasoline prices,TSLA,Bing RSS,negative,-0.6588254570960999
+2026-09-30 18:55:30,Consumer Confidence Fell to Its Lowest Level Since 2014 and Consumer Stocks Are Already Paying for It,TSLA,Yahoo RSS,negative,-0.9709932804107666
+2026-09-29 09:30:01,Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market - cnbc.com,META,Google RSS,neutral,0.0
+2026-09-30 13:08:00,Meta stock enjoys best month since 2022 on AI momentum,META,Bing RSS,positive,0.9080215096473694
