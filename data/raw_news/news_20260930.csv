@@ -40,4 +40,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-30 04:13:53,"MU Stock Rises Ahead Of Crucial Q4 Report: Investors, Analysts Looking For Signs Of Memory Peak Fading - Stocktwits",META,Google RSS,negative,-0.4375511109828949
 2026-09-30 12:12:31,Why Is Apple Stock Falling When Chipmakers Are Rising?,META,Yahoo RSS,negative,-0.91440349817276
 2026-09-29 12:23:43,Wall Street becoming wary of Netflix’s stock as lack of hit shows spark concern - The Irish Times,NFLX,Google RSS,negative,-0.9422850608825684
-2026-09-28 06:08:00,"Netflix Stock Is Falling, And Billionaires Were Already Heading For The Exit",NFLX,Bing RSS,negative,-0.9668629169464111
+2026-09-28 06:08:00,"Netflix Stock Is Falling, And Billionaires Were Already Heading For The Exit",NFLX,Bing RSS,negative,-0.9668629169464112
+2026-09-30 16:20:00,Alphabet shares rise as softer inflation sentiment adds to ongoing AI optimism - Quiver Quantitative,GOOGL,Google RSS,negative,-0.6598883271217346
+2026-09-30 17:20:27,"Stock Market Indexes Rally on Inflation Data, Though the Dow Sat It Out - The Motley Fool",GOOGL,Google RSS,negative,-0.7594660520553589
+2026-09-30 00:29:23,Alphabet poised for 24-54% stock growth by 2027-28 amid AI innovation and strong partnerships - pluang.com,GOOGL,Google RSS,positive,0.801206648349762
+2026-09-30 08:34:00,"Microsoft Stock Has Grown Roughly 14-Fold Since Satya Nadella Became CEO in 2014, a 23% Annual Growth Rate That Ended 14 Years of Negative Growth. Can That Pace Continue Under Heavy AI Spending? - AOL.com",MSFT,Google RSS,neutral,0.0
+2026-09-30 15:09:11,Why Is Everyone Ignoring Adobe Stock's High Cash Yield?,MSFT,Yahoo RSS,negative,-0.6462679505348206
+2026-09-30 08:01:31,"NVIDIA Stock Analysis: Extraordinary Growth, Strong Financials, and Key Risks - F.A.S.T. Graphs - Commentaries - Advisor Perspectives",NVDA,Google RSS,neutral,0.0
+2026-09-30 15:51:07,Tesla stock after-hours at EUR 308.03: minus 1.19 percent versus prior close - AD HOC NEWS,TSLA,Google RSS,negative,-0.6515408158302307
+2026-09-30 10:05:00,Wall Street expects a 7% drop in Tesla Q3 deliveries; the stock keeps falling,TSLA,Bing RSS,negative,-0.9740022420883179
+2026-09-30 17:03:25,Wall Street Expects A 7% Drop In Tesla Q3 Deliveries; The Stock Keeps Falling,TSLA,Yahoo RSS,negative,-0.9740022420883179
+2026-09-30 13:06:00,"CarMax Q2 Earnings Beat Estimates on Strong Unit Sales, CAF Growth",TSLA,Yahoo RSS,positive,0.9371941089630127
