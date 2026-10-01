@@ -1,0 +1,35 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-09-30 20:08:47,Meta stock enjoys best month since 2022 on AI momentum - cnbc.com,AAPL,Google RSS,positive,0.7039600610733032
+2026-09-30 12:12:00,Why Is Apple Stock Falling When Chipmakers Are Rising? - BeInCrypto,AAPL,Google RSS,negative,-0.7586144208908081
+2026-09-30 21:23:29,"S&P 500, Dow End Lower As Investors Shrug Off Cooler-Than-Expected Inflation Data — MGM, SPCX, AAPL, TSM In Focus",AAPL,Yahoo RSS,negative,-0.9132577776908875
+2026-09-30 16:20:00,Alphabet shares rise as softer inflation sentiment adds to ongoing AI optimism - Quiver Quantitative,GOOGL,Google RSS,negative,-0.6598909497261047
+2026-09-30 18:03:00,"Stock Market Indexes Rally on Inflation Data, Though the Dow Sat It Out - The Motley Fool",GOOGL,Google RSS,negative,-0.7594659924507141
+2026-09-28 14:13:42,Piper Sandler raises Alphabet stock price target on TPU sales outlook - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-09-30 19:05:25,Options traders place bullish bets on Alphabet and Microsoft amid strong economic data. - Pluang,GOOGL,Google RSS,positive,0.5327192544937134
+2026-09-28 18:24:14,Analyst predicts Alphabet stock to rise 17% to $400 on strong Google Cloud and hardware growth. - Pluang,GOOGL,Google RSS,positive,0.9491651058197021
+2026-09-30 00:29:23,Alphabet poised for 24-54% stock growth by 2027-28 amid AI innovation and strong partnerships - Pluang,GOOGL,Google RSS,positive,0.8771340250968933
+2026-09-29 15:19:58,"Alphabet stock seen rising 64% as cloud and AI growth outpace rivals, with $559 price target. - Pluang",GOOGL,Google RSS,positive,0.9214593172073364
+2026-09-29 21:42:27,Forever Stocks: 4 Undervalued Dividend Stocks Investors Can Buy Now and Hold Forever,GOOGL,Bing RSS,neutral,0.0
+2026-10-01 01:30:49,"Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",GOOGL,Yahoo RSS,positive,0.6436914801597595
+2026-09-30 18:55:30,Consumer Confidence Fell to Its Lowest Level Since 2014 and Consumer Stocks Are Already Paying for It,AMZN,Yahoo RSS,negative,-0.9709932804107666
+2026-09-30 19:56:11,Sector Update: Tech Stocks Higher Late Afternoon,AMZN,Yahoo RSS,positive,0.9232141375541687
+2026-09-30 09:14:00,"Microsoft Stock Has Grown Roughly 14-Fold Since Satya Nadella Became CEO in 2014, a 23% Annual Growth Rate That Ended 14 Years of Negative Growth. Can That Pace Continue Under Heavy AI Spending? - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-09-30 13:55:29,Piper Sandler raises Microsoft stock price target on Copilot growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-30 20:37:00,"Stocks Mixed Amid Rising Yields, Oil Prices; HPE, Snowflake, Microsoft In Focus - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-09-30 16:33:16,Microsoft Stocks Jumps Higher as OpenAI Dots Enters Teams - GuruFocus,MSFT,Google RSS,positive,0.8754034042358398
+2026-09-30 08:34:00,"Microsoft Stock Has Grown Roughly 14-Fold Since Satya Nadella Became CEO in 2014, a 23% Annual Growth Rate That Ended 14 Years of Negative Growth. Can That Pace Continue Under Heavy AI Spending? - AOL.com",MSFT,Google RSS,neutral,0.0
+2026-09-28 04:00:15,"Microsoft Stock Forecast: Copilot Gets Major Upgrade, Autopilot Can Run Continuously, Can MSFT Keep Rising? - TradingKey",MSFT,Google RSS,positive,0.8608160018920898
+2026-09-25 11:30:02,Analysts Are Getting Bullish on Microsoft Stock. Buy MSFT While It’s Still Below $500. - Barchart.com,MSFT,Google RSS,neutral,0.0
+2026-09-30 02:14:00,"Microsoft Stock Has Grown Roughly 14-Fold Since Satya Nadella Became CEO in 2014, a 23% Annual Growth Rate That Ended 14 Years of Negative Growth. Can That Pace Continue Under ...",MSFT,Bing RSS,positive,0.795359194278717
+2026-09-29 14:35:00,Microsoft stock set for biggest quarterly gain in 28 years,MSFT,Bing RSS,positive,0.8798505663871765
+2026-10-01 01:30:49,"Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",MSFT,Yahoo RSS,positive,0.6436914801597595
+2026-09-30 08:01:31,"NVIDIA Stock Analysis: Extraordinary Growth, Strong Financials, and Key Risks - F.A.S.T. Graphs - Commentaries - Advisor Perspectives",NVDA,Google RSS,neutral,0.0
+2026-09-28 21:09:34,Why Is Tesla (NASDAQ:TSLA) Stock Falling? JPMorgan Cuts Its Target Before Friday’s Delivery Report - Stocks Down Under,TSLA,Google RSS,negative,-0.957172155380249
+2026-09-30 17:03:25,Wall Street Expects A 7% Drop In Tesla Q3 Deliveries; The Stock Keeps Falling,TSLA,Yahoo RSS,negative,-0.9740022420883179
+2026-09-30 18:55:30,Consumer Confidence Fell to Its Lowest Level Since 2014 and Consumer Stocks Are Already Paying for It,TSLA,Yahoo RSS,negative,-0.9709932804107666
+2026-09-30 20:08:47,Meta stock enjoys best month since 2022 on AI momentum - cnbc.com,META,Google RSS,positive,0.7039600610733032
+2026-09-29 09:30:01,Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market - cnbc.com,META,Google RSS,neutral,0.0
+2026-09-29 14:30:05,Meta Expands Muse AI Agent to Enterprise Software and Small Businesses - tikr.com,META,Google RSS,neutral,0.0
+2026-09-29 17:59:49,Meta Expands Its AI Agent Push With Muse Tools For Small Businesses - Investopedia,META,Google RSS,positive,0.7600354552268982
+2026-09-30 13:08:00,Meta stock enjoys best month since 2022 on AI momentum,META,Bing RSS,positive,0.9080216288566589
+2026-09-28 06:08:00,"Netflix Stock Is Falling, And Billionaires Were Already Heading For The Exit",NFLX,Bing RSS,negative,-0.9668629169464111
