@@ -49,20 +49,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-01 15:49:01,Why Is Everyone Ignoring Snap Stock's High Cash Yield?,GOOGL,Yahoo RSS,negative,-0.6424750089645386
 2026-10-01 14:06:19,"Dow, S&P 500, Nasdaq open higher to start October 2026",GOOGL,Yahoo RSS,neutral,0.0
 2026-10-01 14:13:25,Goldman Sachs sets Amazon stock price for 12 months - Finbold,AMZN,Google RSS,neutral,0.0
-2026-10-01 14:25:39,"Amazon stock seen rising over 50% in 12 months despite recent dip, says Goldman Sachs. - Pluang",AMZN,Google RSS,positive,0.9462534785270691
+2026-10-01 14:25:39,"Amazon stock seen rising over 50% in 12 months despite recent dip, says Goldman Sachs. - Pluang",AMZN,Google RSS,positive,0.9462534785270692
 2026-10-01 14:43:12,"Amazon stock set to hit $400 by Sept 2028 after key earnings report on Oct 28, 2026. - Pluang",AMZN,Google RSS,neutral,0.0
 2026-10-01 15:38:23,"Top Midday Stories: Micron Shares Fall Despite Strong Earnings, Guidance; Broadcom to Lend Anthropic $42 Billion for Infrastructure Spending",AMZN,Yahoo RSS,negative,-0.969658613204956
 2026-10-01 15:49:01,Why Is Everyone Ignoring Snap Stock's High Cash Yield?,AMZN,Yahoo RSS,negative,-0.6424750089645386
 2026-10-01 13:23:00,META Expands Muse for Small Businesses: Will Ad Growth Accelerate?,AMZN,Yahoo RSS,neutral,0.0
 2026-10-01 11:46:37,Microsoft stock best quarter since 1998: Q3 2026 gains 37.5% - qz.com,MSFT,Google RSS,positive,0.5029770731925964
 2026-09-30 19:00:50,"‘It’s Not Even Close,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
-2026-10-01 10:03:42,Microsoft stock grew 14-fold since 2014 under N... - Pluang,MSFT,Google RSS,positive,0.9455732703208923
+2026-10-01 10:03:42,Microsoft stock grew 14-fold since 2014 under N... - Pluang,MSFT,Google RSS,positive,0.9455732703208924
 2026-10-01 11:34:05,"Microsoft posts best quarterly stock gain since 1991, driven by strong Azure and Copilot growth. - Pluang",MSFT,Google RSS,positive,0.9473892450332642
 2026-10-01 10:52:27,Microsoft’s trillion-dollar quarter shows AI trade won’t quit - The Edge Malaysia,MSFT,Google RSS,neutral,0.0
 2026-10-01 05:30:00,Microsoft stock best quarter since 1998: Q3 2026 gains 37.5%,MSFT,Bing RSS,positive,0.9177579879760742
 2026-09-28 11:16:00,Microsoft’s AI gains can push the stock higher. That’s good news for software peers.,MSFT,Bing RSS,positive,0.9300230741500854
 2026-10-01 12:16:26,"Dow Jones Futures Rise, S&P 500 Finds Key Support As Micron Earnings Crush Views; Oil Prices, Treasury Yields In Focus",MSFT,Yahoo RSS,positive,0.7383019924163818
-2026-10-01 10:16:51,"Nvidia, AMD and Intel rise on Micron earnings, so why is MU stock falling? - TradingView",NVDA,Google RSS,negative,-0.9139522314071655
+2026-10-01 10:16:51,"Nvidia, AMD and Intel rise on Micron earnings, so why is MU stock falling? - TradingView",NVDA,Google RSS,negative,-0.9139522314071656
 2026-10-01 14:35:00,3 Top AI Stocks for October,NVDA,Yahoo RSS,neutral,0.0
 2026-10-01 14:35:00,Want Reliable Dividend Income? These 2 Industrial Stocks Deliver.,NVDA,Yahoo RSS,positive,0.719190776348114
 2026-10-01 11:00:00,"Tesla stock price prediction: $480 bull, $268 bear - FinanceFeeds",TSLA,Google RSS,neutral,0.0
@@ -71,3 +71,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-01 05:30:00,"Meta stock rises 27% in September, best month since 2022",META,Bing RSS,positive,0.9357507824897766
 2026-10-01 13:23:00,META Expands Muse for Small Businesses: Will Ad Growth Accelerate?,META,Yahoo RSS,neutral,0.0
 2026-10-01 15:49:01,Why Is Everyone Ignoring Snap Stock's High Cash Yield?,META,Yahoo RSS,negative,-0.6424750089645386
+2026-10-01 18:31:58,Why Is Alphabet (NASDAQ:GOOGL) Stock Falling Despite the Gemini 4 Argon Launch? Analysts Stay Bullish - Stocks Down Under,GOOGL,Google RSS,negative,-0.9642831683158875
+2026-10-01 20:25:00,Google Just Went Nuclear in Georgia. These 2 Industrial Stocks Get Paid to Build It.,GOOGL,Yahoo RSS,neutral,0.0
+2026-10-01 18:15:00,"Global Foods Group (Jaca) Presenting at NIBA's 153rd Investment Conference in Fort Lauderdale, FL October 7, 2026",AMZN,Yahoo RSS,neutral,0.0
+2026-10-01 20:25:00,Google Just Went Nuclear in Georgia. These 2 Industrial Stocks Get Paid to Build It.,NVDA,Yahoo RSS,neutral,0.0
+2026-10-01 20:50:00,"Dow Jones Futures: Stocks Rise Off Support As Yields Tumble, Micron, Meta In Focus; Tesla, Jobs Report Due - Investor's Business Daily",TSLA,Google RSS,negative,-0.4839245676994324
+2026-10-01 20:50:59,"Dow Jones Futures: Stocks Rise Off Support As Yields Tumble, Micron, Meta In Focus; Tesla, Jobs Report Due",TSLA,Yahoo RSS,negative,-0.7494387030601501
+2026-10-01 20:50:00,"Dow Jones Futures: Stocks Rise Off Support As Yields Tumble, Micron, Meta In Focus; Tesla, Jobs Report Due - Investor's Business Daily",META,Google RSS,negative,-0.4839245676994324
+2026-10-01 20:50:59,"Dow Jones Futures: Stocks Rise Off Support As Yields Tumble, Micron, Meta In Focus; Tesla, Jobs Report Due",META,Yahoo RSS,negative,-0.7494387030601501
