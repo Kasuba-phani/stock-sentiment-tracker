@@ -34,14 +34,40 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-30 13:08:00,Meta stock enjoys best month since 2022 on AI momentum,META,Bing RSS,positive,0.9080216288566588
 2026-09-28 06:08:00,"Netflix Stock Is Falling, And Billionaires Were Already Heading For The Exit",NFLX,Bing RSS,negative,-0.9668629169464112
 2026-09-30 20:08:47,Meta stock enjoys best month since 2022 on AI momentum - CNBC,AAPL,Google RSS,positive,0.8413490653038025
-2026-09-30 04:00:00,Why Is Apple Stock Falling When Chipmakers Are Rising?,AAPL,Bing RSS,negative,-0.9144037365913391
+2026-09-30 04:00:00,Why Is Apple Stock Falling When Chipmakers Are Rising?,AAPL,Bing RSS,negative,-0.9144037365913392
 2026-09-29 16:18:00,"Alphabet Is Building An AI Empire, But Investors May Be Paying Too Much",GOOGL,Bing RSS,negative,-0.8199923038482666
 2026-10-01 07:27:01,Most S&P 500 Stocks Sank In September — But Retail Traders Didn't Flee,GOOGL,Yahoo RSS,negative,-0.9581266045570374
 2026-10-01 07:25:06,Investor cautious on Microsoft despite 40% gain; awaits clear AI-driven growth proof amid rising rates. - Pluang,MSFT,Google RSS,neutral,0.0
 2026-09-28 04:00:15,"Microsoft Stock Forecast: Copilot Gets Major Upgrade, Autopilot Can Run Continuously, Can MSFT Keep Rising? - tradingkey.com",MSFT,Google RSS,neutral,0.0
 2026-09-25 11:30:02,Analysts Are Getting Bullish on Microsoft Stock. Buy MSFT While It’s Still Below $500. - barchart.com,MSFT,Google RSS,neutral,0.0
-2026-10-01 01:21:00,Tesla (TSLA) Stock Rises After Strong European Sales Data,TSLA,Bing RSS,positive,0.9089663028717041
+2026-10-01 01:21:00,Tesla (TSLA) Stock Rises After Strong European Sales Data,TSLA,Bing RSS,positive,0.908966302871704
 2026-09-30 20:08:47,Meta stock enjoys best month since 2022 on AI momentum - CNBC,META,Google RSS,positive,0.8413490653038025
 2026-09-29 09:30:01,Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market - CNBC,META,Google RSS,neutral,0.0
 2026-09-29 14:30:05,Meta Expands Muse AI Agent to Enterprise Software and Small Businesses - TIKR.com,META,Google RSS,neutral,0.0
 2026-10-01 07:27:01,Most S&P 500 Stocks Sank In September — But Retail Traders Didn't Flee,META,Yahoo RSS,negative,-0.9581266045570374
+2026-10-01 15:49:01,Why Is Everyone Ignoring Snap Stock's High Cash Yield?,AAPL,Yahoo RSS,negative,-0.6424750089645386
+2026-10-01 15:49:01,Why Is Everyone Ignoring Snap Stock's High Cash Yield?,GOOGL,Yahoo RSS,negative,-0.6424750089645386
+2026-10-01 14:06:19,"Dow, S&P 500, Nasdaq open higher to start October 2026",GOOGL,Yahoo RSS,neutral,0.0
+2026-10-01 14:13:25,Goldman Sachs sets Amazon stock price for 12 months - Finbold,AMZN,Google RSS,neutral,0.0
+2026-10-01 14:25:39,"Amazon stock seen rising over 50% in 12 months despite recent dip, says Goldman Sachs. - Pluang",AMZN,Google RSS,positive,0.9462534785270691
+2026-10-01 14:43:12,"Amazon stock set to hit $400 by Sept 2028 after key earnings report on Oct 28, 2026. - Pluang",AMZN,Google RSS,neutral,0.0
+2026-10-01 15:38:23,"Top Midday Stories: Micron Shares Fall Despite Strong Earnings, Guidance; Broadcom to Lend Anthropic $42 Billion for Infrastructure Spending",AMZN,Yahoo RSS,negative,-0.969658613204956
+2026-10-01 15:49:01,Why Is Everyone Ignoring Snap Stock's High Cash Yield?,AMZN,Yahoo RSS,negative,-0.6424750089645386
+2026-10-01 13:23:00,META Expands Muse for Small Businesses: Will Ad Growth Accelerate?,AMZN,Yahoo RSS,neutral,0.0
+2026-10-01 11:46:37,Microsoft stock best quarter since 1998: Q3 2026 gains 37.5% - qz.com,MSFT,Google RSS,positive,0.5029770731925964
+2026-09-30 19:00:50,"‘It’s Not Even Close,’ Says Investor About Microsoft Stock - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-10-01 10:03:42,Microsoft stock grew 14-fold since 2014 under N... - Pluang,MSFT,Google RSS,positive,0.9455732703208923
+2026-10-01 11:34:05,"Microsoft posts best quarterly stock gain since 1991, driven by strong Azure and Copilot growth. - Pluang",MSFT,Google RSS,positive,0.9473892450332642
+2026-10-01 10:52:27,Microsoft’s trillion-dollar quarter shows AI trade won’t quit - The Edge Malaysia,MSFT,Google RSS,neutral,0.0
+2026-10-01 05:30:00,Microsoft stock best quarter since 1998: Q3 2026 gains 37.5%,MSFT,Bing RSS,positive,0.9177579879760742
+2026-09-28 11:16:00,Microsoft’s AI gains can push the stock higher. That’s good news for software peers.,MSFT,Bing RSS,positive,0.9300230741500854
+2026-10-01 12:16:26,"Dow Jones Futures Rise, S&P 500 Finds Key Support As Micron Earnings Crush Views; Oil Prices, Treasury Yields In Focus",MSFT,Yahoo RSS,positive,0.7383019924163818
+2026-10-01 10:16:51,"Nvidia, AMD and Intel rise on Micron earnings, so why is MU stock falling? - TradingView",NVDA,Google RSS,negative,-0.9139522314071655
+2026-10-01 14:35:00,3 Top AI Stocks for October,NVDA,Yahoo RSS,neutral,0.0
+2026-10-01 14:35:00,Want Reliable Dividend Income? These 2 Industrial Stocks Deliver.,NVDA,Yahoo RSS,positive,0.719190776348114
+2026-10-01 11:00:00,"Tesla stock price prediction: $480 bull, $268 bear - FinanceFeeds",TSLA,Google RSS,neutral,0.0
+2026-10-01 11:55:20,"Meta stock posted its best month since 2022, rising 27% in September - qz.com",META,Google RSS,positive,0.9372025728225708
+2026-10-01 15:36:18,META Expands Muse for Small Businesses: Will Ad Growth Accelerate? - The Globe and Mail,META,Google RSS,neutral,0.0
+2026-10-01 05:30:00,"Meta stock rises 27% in September, best month since 2022",META,Bing RSS,positive,0.9357507824897766
+2026-10-01 13:23:00,META Expands Muse for Small Businesses: Will Ad Growth Accelerate?,META,Yahoo RSS,neutral,0.0
+2026-10-01 15:49:01,Why Is Everyone Ignoring Snap Stock's High Cash Yield?,META,Yahoo RSS,negative,-0.6424750089645386
