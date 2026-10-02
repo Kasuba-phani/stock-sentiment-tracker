@@ -1,34 +1,34 @@
 date,headline,ticker,source,sentiment_label,compound
 2026-09-30 12:12:00,Why Is Apple Stock Falling When Chipmakers Are Rising? - BeInCrypto,AAPL,Google RSS,negative,-0.7586149573326111
-2026-09-30 05:12:00,Why Is Apple Stock Falling When Chipmakers Are Rising?,AAPL,Bing RSS,negative,-0.9144037365913391
+2026-09-30 05:12:00,Why Is Apple Stock Falling When Chipmakers Are Rising?,AAPL,Bing RSS,negative,-0.9144037365913392
 2026-10-01 15:49:01,Why Is Everyone Ignoring Snap Stock's High Cash Yield?,AAPL,Yahoo RSS,negative,-0.6424751281738281
-2026-10-01 18:53:38,Why Is Alphabet (NASDAQ:GOOGL) Stock Falling Despite the Gemini 4 Argon Launch? Analysts Stay Bullish - Stocks Down Under,GOOGL,Google RSS,negative,-0.9642831683158875
+2026-10-01 18:53:38,Why Is Alphabet (NASDAQ:GOOGL) Stock Falling Despite the Gemini 4 Argon Launch? Analysts Stay Bullish - Stocks Down Under,GOOGL,Google RSS,negative,-0.9642831683158876
 2026-09-30 16:20:00,Alphabet shares rise as softer inflation sentiment adds to ongoing AI optimism - Quiver Quantitative,GOOGL,Google RSS,negative,-0.6598883271217346
 2026-10-02 00:02:24,"Rezolve AI Highlights Agentic Commerce Strategy, 2026 Revenue Growth at Lytham Conference",GOOGL,Yahoo RSS,neutral,0.0
 2026-10-01 23:27:59,"S&P 500, Nasdaq, Dow Futures Inch Higher As Investors Cheer Cooling Yields — GOOGL, MU, MAT, NVDA In Focus",GOOGL,Yahoo RSS,positive,0.5173254609107971
 2026-10-01 20:25:00,Google Just Went Nuclear in Georgia. These 2 Industrial Stocks Get Paid to Build It.,GOOGL,Yahoo RSS,neutral,0.0
 2026-10-01 14:13:25,Goldman Sachs sets Amazon stock price for 12 months - Finbold,AMZN,Google RSS,neutral,0.0
-2026-10-01 14:25:39,"Amazon stock seen rising over 50% in 12 months despite recent dip, says Goldman Sachs. - Pluang",AMZN,Google RSS,positive,0.9462534785270691
+2026-10-01 14:25:39,"Amazon stock seen rising over 50% in 12 months despite recent dip, says Goldman Sachs. - Pluang",AMZN,Google RSS,positive,0.9462534785270692
 2026-10-01 14:43:12,"Amazon stock set to hit $400 by Sept 2028 after key earnings report on Oct 28, 2026. - Pluang",AMZN,Google RSS,neutral,0.0
 2026-10-01 18:15:00,"Global Foods Group (Jaca) Presenting at NIBA's 153rd Investment Conference in Fort Lauderdale, FL October 7, 2026",AMZN,Yahoo RSS,neutral,0.0
 2026-10-02 00:51:08,How Risky Is Home Depot Stock?,AMZN,Yahoo RSS,neutral,0.0
 2026-09-30 09:14:00,"Microsoft Stock Has Grown Roughly 14-Fold Since Satya Nadella Became CEO in 2014, a 23% Annual Growth Rate That Ended 14 Years of Negative Growth. Can That Pace Continue Under Heavy AI Spending? - The Motley Fool",MSFT,Google RSS,neutral,0.0
 2026-09-30 13:55:29,Piper Sandler raises Microsoft stock price target on Copilot growth - Investing.com,MSFT,Google RSS,neutral,0.0
-2026-10-01 10:03:42,Microsoft stock grew 14-fold since 2014 under N... - Pluang,MSFT,Google RSS,positive,0.9455732703208923
+2026-10-01 10:03:42,Microsoft stock grew 14-fold since 2014 under N... - Pluang,MSFT,Google RSS,positive,0.9455732703208924
 2026-10-01 11:34:05,"Microsoft posts best quarterly stock gain since 1991, driven by strong Azure and Copilot growth. - Pluang",MSFT,Google RSS,positive,0.9473892450332642
 2026-09-28 04:00:15,"Microsoft Stock Forecast: Copilot Gets Major Upgrade, Autopilot Can Run Continuously, Can MSFT Keep Rising? - TradingKey",MSFT,Google RSS,positive,0.860815703868866
 2026-09-30 20:37:00,"Stocks Mixed Amid Rising Yields, Oil Prices; HPE, Snowflake, Microsoft In Focus - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
 2026-10-01 05:30:00,Microsoft stock best quarter since 1998: Q3 2026 gains 37.5%,MSFT,Bing RSS,positive,0.917758047580719
 2026-09-30 02:14:00,"Microsoft Stock Has Grown Roughly 14-Fold Since Satya Nadella Became CEO in 2014, a 23% Annual Growth Rate That Ended 14 Years of Negative Growth. Can That Pace Continue Under ...",MSFT,Bing RSS,positive,0.7953604459762573
 2026-10-02 00:02:24,"Rezolve AI Highlights Agentic Commerce Strategy, 2026 Revenue Growth at Lytham Conference",MSFT,Yahoo RSS,neutral,0.0
-2026-10-01 10:16:51,"Nvidia, AMD and Intel rise on Micron earnings, so why is MU stock falling? - TradingView",NVDA,Google RSS,negative,-0.9139516949653625
+2026-10-01 10:16:51,"Nvidia, AMD and Intel rise on Micron earnings, so why is MU stock falling? - TradingView",NVDA,Google RSS,negative,-0.9139516949653624
 2026-10-01 23:50:00,History Says a Market Crash Would Be a Buying Opportunity for These 2 Industrial Stocks,NVDA,Yahoo RSS,neutral,0.0
-2026-10-01 23:31:39,Why Thomson Reuters Stock Topped the Market on Thursday,NVDA,Yahoo RSS,positive,0.49295470118522644
+2026-10-01 23:31:39,Why Thomson Reuters Stock Topped the Market on Thursday,NVDA,Yahoo RSS,positive,0.4929547011852264
 2026-10-01 23:27:59,"S&P 500, Nasdaq, Dow Futures Inch Higher As Investors Cheer Cooling Yields — GOOGL, MU, MAT, NVDA In Focus",NVDA,Yahoo RSS,positive,0.5173254609107971
 2026-09-28 21:09:34,Why Is Tesla (NASDAQ:TSLA) Stock Falling? JPMorgan Cuts Its Target Before Friday’s Delivery Report - Stocks Down Under,TSLA,Google RSS,negative,-0.957172155380249
 2026-10-01 11:00:00,"Tesla stock price prediction: $480 bull, $268 bear - FinanceFeeds",TSLA,Google RSS,neutral,0.0
 2026-10-02 00:23:00,"Dow Jones Futures: Stocks Rise Off Support As Yields Skid, Micron In Buy Area; Tesla, Jobs Report Due - Investor's Business Daily",TSLA,Google RSS,negative,-0.8497346639633179
-2026-10-01 01:21:00,Tesla (TSLA) Stock Rises After Strong European Sales Data,TSLA,Bing RSS,positive,0.9089663028717041
+2026-10-01 01:21:00,Tesla (TSLA) Stock Rises After Strong European Sales Data,TSLA,Bing RSS,positive,0.908966302871704
 2026-10-02 01:11:57,"Dow Jones Futures: Stocks Rise Off Support As Yields Skid, Micron In Buy Area; Tesla, Jobs Report Due",TSLA,Yahoo RSS,negative,-0.9450499415397644
 2026-10-01 11:55:20,"Meta stock posted its best month since 2022, rising 27% in September - qz.com",META,Google RSS,positive,0.9372026920318604
 2026-10-02 00:23:00,"Dow Jones Futures: Stocks Rise Off Support As Yields Skid, Micron In Buy Area; Tesla, Jobs Report Due - Investor's Business Daily",META,Google RSS,negative,-0.8497346639633179
@@ -37,3 +37,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-29 14:30:05,Meta Expands Muse AI Agent to Enterprise Software and Small Businesses - TIKR.com,META,Google RSS,neutral,0.0
 2026-10-01 05:30:00,"Meta stock rises 27% in September, best month since 2022",META,Bing RSS,positive,0.9357509016990662
 2026-10-02 01:11:57,"Dow Jones Futures: Stocks Rise Off Support As Yields Skid, Micron In Buy Area; Tesla, Jobs Report Due",META,Yahoo RSS,negative,-0.9450499415397644
+2026-10-01 21:05:00,Google Just Went Nuclear in Georgia. These 2 Industrial Stocks Get Paid to Build It. - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-10-01 13:15:05,Goldman Sachs added Amazon to its conviction list with a $375 price target - qz.com,AMZN,Google RSS,neutral,0.0
+2026-09-26 16:17:41,Meta and Microsoft led tech stocks higher last week despite soaring bond yields - CNBC,MSFT,Google RSS,positive,0.6699399948120117
+2026-10-02 07:06:33,NVIDIA Corporation $NVDA Stock Sold by Artemis Wealth Advisors LLC - MarketBeat,NVDA,Google RSS,neutral,0.0
+2026-10-02 03:58:02,Micron Says Memory Supply Will Be Much Tighter in 2028. Sandisk's Contracts Limit How Much It Can Gain.,NVDA,Yahoo RSS,negative,-0.663555920124054
+2026-10-02 07:25:00,Chipotle Is Down 14% Compared to McDonald's 24%. But There's an Even Better Restaurant Stock to Buy in October.,NVDA,Yahoo RSS,negative,-0.9455283284187317
+2026-09-29 09:30:01,Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market - CNBC,META,Google RSS,neutral,0.0
+2026-10-01 15:36:18,META Expands Muse for Small Businesses: Will Ad Growth Accelerate? - The Globe and Mail,META,Google RSS,neutral,0.0
+2026-09-29 17:59:49,Meta Expands Its AI Agent Push With Muse Tools For Small Businesses - Investopedia,META,Google RSS,positive,0.7600350975990295
+2026-10-01 06:47:01,Netflix reports Oct. 20; its stock has fallen after each of its last 4 reports,NFLX,Bing RSS,negative,-0.9727338552474976
+2026-09-28 06:08:00,"Netflix Stock Is Falling, And Billionaires Were Already Heading For The Exit",NFLX,Bing RSS,negative,-0.9668629169464111
+2026-10-02 02:37:11,"Dow, S&P 500, Nasdaq Futures Rise Ahead Of Key Jobs Report: NKE, NFLX, BABA, XRPN Stocks In Focus",NFLX,Yahoo RSS,neutral,0.0
