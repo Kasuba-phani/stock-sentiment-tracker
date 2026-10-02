@@ -42,10 +42,29 @@ date,headline,ticker,source,sentiment_label,compound
 2026-09-26 16:17:41,Meta and Microsoft led tech stocks higher last week despite soaring bond yields - CNBC,MSFT,Google RSS,positive,0.6699399948120117
 2026-10-02 07:06:33,NVIDIA Corporation $NVDA Stock Sold by Artemis Wealth Advisors LLC - MarketBeat,NVDA,Google RSS,neutral,0.0
 2026-10-02 03:58:02,Micron Says Memory Supply Will Be Much Tighter in 2028. Sandisk's Contracts Limit How Much It Can Gain.,NVDA,Yahoo RSS,negative,-0.663555920124054
-2026-10-02 07:25:00,Chipotle Is Down 14% Compared to McDonald's 24%. But There's an Even Better Restaurant Stock to Buy in October.,NVDA,Yahoo RSS,negative,-0.9455283284187317
+2026-10-02 07:25:00,Chipotle Is Down 14% Compared to McDonald's 24%. But There's an Even Better Restaurant Stock to Buy in October.,NVDA,Yahoo RSS,negative,-0.9455283284187316
 2026-09-29 09:30:01,Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market - CNBC,META,Google RSS,neutral,0.0
 2026-10-01 15:36:18,META Expands Muse for Small Businesses: Will Ad Growth Accelerate? - The Globe and Mail,META,Google RSS,neutral,0.0
 2026-09-29 17:59:49,Meta Expands Its AI Agent Push With Muse Tools For Small Businesses - Investopedia,META,Google RSS,positive,0.7600350975990295
 2026-10-01 06:47:01,Netflix reports Oct. 20; its stock has fallen after each of its last 4 reports,NFLX,Bing RSS,negative,-0.9727338552474976
-2026-09-28 06:08:00,"Netflix Stock Is Falling, And Billionaires Were Already Heading For The Exit",NFLX,Bing RSS,negative,-0.9668629169464111
+2026-09-28 06:08:00,"Netflix Stock Is Falling, And Billionaires Were Already Heading For The Exit",NFLX,Bing RSS,negative,-0.9668629169464112
 2026-10-02 02:37:11,"Dow, S&P 500, Nasdaq Futures Rise Ahead Of Key Jobs Report: NKE, NFLX, BABA, XRPN Stocks In Focus",NFLX,Yahoo RSS,neutral,0.0
+2026-09-30 12:12:00,Why Is Apple Stock Falling When Chipmakers Are Rising? - beincrypto.com,AAPL,Google RSS,negative,-0.7474193572998047
+2026-10-01 18:58:28,Why Is Alphabet (NASDAQ:GOOGL) Stock Falling Despite the Gemini 4 Argon Launch? Analysts Stay Bullish - stocksdownunder.com,GOOGL,Google RSS,negative,-0.9432579278945923
+2026-10-02 09:30:00,"Got $1,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence. - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-10-02 09:21:35,"Got $1,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence. - The Globe and Mail",GOOGL,Google RSS,neutral,0.0
+2026-10-02 13:15:05,Treasury Yields Are Crushing Dividend Stocks. These 5 Could Be October Opportunities,GOOGL,Yahoo RSS,negative,-0.9434980154037476
+2026-10-02 09:44:29,3 Dow Jones Stocks with Exciting Potential - StockStory,AMZN,Google RSS,neutral,0.0
+2026-10-01 11:46:37,Microsoft stock best quarter since 1998: Q3 2026 gains 37.5% - qz.com,MSFT,Google RSS,positive,0.5029770731925964
+2026-10-02 09:30:00,"Got $1,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence. - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-10-02 12:14:17,Microsoft stock stagnant despite strong analyst buy ratings and Azure's $100B revenue milestone. - Pluang,MSFT,Google RSS,negative,-0.8307353854179382
+2026-09-29 14:35:00,Microsoft stock set for biggest quarterly gain in 28 years,MSFT,Bing RSS,positive,0.8798502683639526
+2026-10-02 12:54:00,AI Is Hurting and Helping the Stock Market Contributing to Soaring Bond Yields,MSFT,Yahoo RSS,negative,-0.9588578343391418
+2026-10-02 14:14:35,"Nvidia hits record high as AI optimism, buyback lift shares - Investing.com",NVDA,Google RSS,neutral,0.0
+2026-10-02 14:42:16,"Nvidia hits record high as AI optimism, buyback lift shares",NVDA,Yahoo RSS,positive,0.8671996593475342
+2026-10-02 14:22:37,U.S. Stock Market Update | Major tech stocks rise broadly; Tesla (TSLA.US) gains over 5% - Moomoo,TSLA,Google RSS,positive,0.9289653301239014
+2026-10-02 14:19:45,"Tesla reports 486,532 deliveries and Tesla stock gains 4.29 percent - AD HOC NEWS",TSLA,Google RSS,positive,0.7067221403121948
+2026-09-30 20:08:47,Meta stock enjoys best month since 2022 on AI momentum - CNBC,META,Google RSS,positive,0.8413485288619995
+2026-10-01 14:39:00,"Stocks Rise Off Key Levels As Yields Tumble; Lumentum, Micron, Meta In Focus",META,Bing RSS,negative,-0.7339792847633362
+2026-10-02 12:54:00,AI Is Hurting and Helping the Stock Market Contributing to Soaring Bond Yields,META,Yahoo RSS,negative,-0.9588578343391418
+2026-10-01 16:50:18,Netflix stock just got a stunning upgrade after a brutal 2026 selloff,NFLX,Bing RSS,positive,0.9446467757225037
