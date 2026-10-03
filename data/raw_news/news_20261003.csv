@@ -1,0 +1,37 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-10-02 20:03:07,Morgan Stanley Has Strong Verdict for Apple Stock Investors - TradingView,AAPL,Google RSS,positive,0.5507503151893616
+2026-09-30 12:12:00,Why Is Apple Stock Falling When Chipmakers Are Rising? - BeInCrypto,AAPL,Google RSS,negative,-0.7586141228675842
+2026-10-01 18:33:10,Why Is Alphabet (NASDAQ:GOOGL) Stock Falling Despite the Gemini 4 Argon Launch? Analysts Stay Bullish - Stocks Down Under,GOOGL,Google RSS,negative,-0.9642830491065979
+2026-09-30 16:20:00,Alphabet shares rise as softer inflation sentiment adds to ongoing AI optimism - Quiver Quantitative,GOOGL,Google RSS,negative,-0.6598924398422241
+2026-10-02 09:30:00,"Got $1,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence. - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-10-02 09:44:29,3 Dow Jones Stocks with Exciting Potential - StockStory,AMZN,Google RSS,neutral,0.0
+2026-10-01 14:13:25,Goldman Sachs sets Amazon stock price for 12 months - Finbold,AMZN,Google RSS,neutral,0.0
+2026-10-01 14:25:39,"Amazon stock seen rising over 50% in 12 months despite recent dip, says Goldman Sachs. - Pluang",AMZN,Google RSS,positive,0.9462534785270691
+2026-10-01 11:46:37,Microsoft stock best quarter since 1998: Q3 2026 gains 37.5% - qz.com,MSFT,Google RSS,positive,0.5029770731925964
+2026-09-30 09:14:00,"Microsoft Stock Has Grown Roughly 14-Fold Since Satya Nadella Became CEO in 2014, a 23% Annual Growth Rate That Ended 14 Years of Negative Growth. Can That Pace Continue Under Heavy AI Spending? - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-10-02 09:30:00,"Got $1,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence. - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-10-02 12:14:17,Microsoft stock stagnant despite strong analyst buy ratings and Azure's $100B revenue milestone. - Pluang,MSFT,Google RSS,negative,-0.8307353854179382
+2026-09-30 13:55:29,Piper Sandler raises Microsoft stock price target on Copilot growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-09-30 20:37:00,"Stocks Mixed Amid Rising Yields, Oil Prices; HPE, Snowflake, Microsoft In Focus - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-09-30 02:14:00,"Microsoft Stock Has Grown Roughly 14-Fold Since Satya Nadella Became CEO in 2014, a 23% Annual Growth Rate That Ended 14 Years of Negative Growth. Can That Pace Continue Under ...",MSFT,Bing RSS,positive,0.7953594923019409
+2026-10-01 04:43:00,Microsoft stock best quarter since 1998: Q3 2026 gains 37.5%,MSFT,Bing RSS,positive,0.9177579879760742
+2026-10-02 20:12:30,Arm (NASDAQ:ARM) Stock Jumps 7% as Nvidia AI Safety Platform and US$2 Billion CPU Demand Fuel the Rally - Stocks Down Under,NVDA,Google RSS,negative,-0.9637327194213867
+2026-10-02 15:39:00,"Stock Market Finishes Strong, Yields Off Highs; Micron, Meta, Nvidia, Tesla In Focus: Weekly Review - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
+2026-10-02 19:58:18,Morgan Stanley Has Strong Message For Nvidia Stock Investors - TradingView,NVDA,Google RSS,positive,0.6540647745132446
+2026-10-02 17:53:20,"NVDA Stock Hits Record High After Morgan Stanley Names Nvidia Top Pick, Says AI Trends Play To Its ‘Strengths’ - Stocktwits",NVDA,Google RSS,positive,0.7501323819160461
+2026-10-02 22:28:59,"S&P 500, Nasdaq, Dow End Week Higher As Weak Jobs Report Cools Rate Hike Bets — NVDA, BA, SPCX, RIVN, APLD In Focus",NVDA,Yahoo RSS,negative,-0.4602523446083069
+2026-10-02 13:03:51,Tesla stock jumps 5% on better-than-expected vehicle deliveries report - CNBC,TSLA,Google RSS,positive,0.916980504989624
+2026-10-02 15:39:00,"Stock Market Finishes Strong, Yields Off Highs; Micron, Meta, Nvidia, Tesla In Focus: Weekly Review - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-10-02 21:42:13,"Tesla Q3 deliveries better-than-expected, stock jumps on news - CNBC",TSLA,Google RSS,positive,0.6360933184623718
+2026-10-02 07:30:00,"Tesla’s EV sales beat Wall Street’s expectations again, and the stock jumps",TSLA,Bing RSS,positive,0.9406722784042358
+2026-10-02 19:44:35,Sector Update: Consumer Stocks Rise Late Afternoon,TSLA,Yahoo RSS,positive,0.7561094760894775
+2026-09-30 20:08:47,Meta stock enjoys best month since 2022 on AI momentum - CNBC,META,Google RSS,positive,0.8413485288619995
+2026-10-02 20:01:13,BNP Has Strong Message For Meta Stock Investors - TradingView,META,Google RSS,neutral,0.0
+2026-10-02 15:39:00,"Stock Market Finishes Strong, Yields Off Highs; Micron, Meta, Nvidia, Tesla In Focus: Weekly Review - Investor's Business Daily",META,Google RSS,neutral,0.0
+2026-10-01 11:55:20,"Meta stock posted its best month since 2022, rising 27% in September - qz.com",META,Google RSS,positive,0.9372025728225708
+2026-09-29 14:30:05,Meta Expands Muse AI Agent to Enterprise Software and Small Businesses - TIKR.com,META,Google RSS,neutral,0.0
+2026-10-02 01:05:28,Meta stock rides Muse AI to best quarter in over 2 years — but analyst warns monetization could be 'notoriously slow',META,Bing RSS,negative,-0.944239616394043
+2026-10-01 16:50:18,Netflix stock just got a stunning upgrade after a brutal 2026 selloff,NFLX,Bing RSS,positive,0.9446467757225037
+2026-10-01 06:47:01,Netflix reports Oct. 20; its stock has fallen after each of its last 4 reports,NFLX,Bing RSS,negative,-0.9727338552474976
+2026-09-28 06:08:00,"Netflix Stock Is Falling, And Billionaires Were Already Heading For The Exit",NFLX,Bing RSS,negative,-0.9668629169464111
+2026-10-02 02:37:11,"Dow, S&P 500, Nasdaq Futures Rise Ahead Of Key Jobs Report: NKE, NFLX, BABA, XRPN Stocks In Focus",NFLX,Yahoo RSS,neutral,0.0
