@@ -62,3 +62,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-03 15:06:10,"How Nvidia, Micron and a surprising jobs report drove last week's stock action - CNBC",NVDA,Google RSS,neutral,0.0
 2026-10-03 07:10:01,This stock posted the best performance in the “Magnificent Seven” in September (hint: it’s not Nvidia),NVDA,Bing RSS,neutral,0.0
 2026-10-02 18:25:00,Tesla Q3 Deliveries Top Expectations; The Stock Is Rising - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
+2026-10-01 11:32:00,Why Is Alphabet (NASDAQ:GOOGL) Stock Falling Despite the Gemini 4 Argon Launch? Analysts Stay Bullish,GOOGL,Bing RSS,negative,-0.9580170512199402
+2026-10-03 17:19:38,"Bessent says rising Treasury yields reflect global trend, not cause for alarm",GOOGL,Yahoo RSS,positive,0.6192775368690491
+2026-10-02 12:14:17,Microsoft stock stagnant despite strong analyst buy ratings and Azure's $100B revenue milestone. - pluang.com,MSFT,Google RSS,negative,-0.7347272634506226
+2026-10-03 17:19:38,"Bessent says rising Treasury yields reflect global trend, not cause for alarm",MSFT,Yahoo RSS,positive,0.6192775368690491
+2026-10-03 15:06:10,"How Nvidia, Micron and a surprising jobs report drove last week's stock action - cnbc.com",NVDA,Google RSS,neutral,0.0
+2026-10-02 21:45:06,"Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration - cnbc.com",NVDA,Google RSS,negative,-0.965716540813446
+2026-10-02 22:00:00,"Tesla Q3 deliveries better-than-expected, stock jumps on news - cnbc.com",TSLA,Google RSS,neutral,0.0
+2026-09-30 20:08:47,Meta stock enjoys best month since 2022 on AI momentum - cnbc.com,META,Google RSS,positive,0.7039580941200256
