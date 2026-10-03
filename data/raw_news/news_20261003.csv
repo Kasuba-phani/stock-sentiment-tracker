@@ -70,3 +70,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-02 21:45:06,"Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration - cnbc.com",NVDA,Google RSS,negative,-0.965716540813446
 2026-10-02 22:00:00,"Tesla Q3 deliveries better-than-expected, stock jumps on news - cnbc.com",TSLA,Google RSS,neutral,0.0
 2026-09-30 20:08:47,Meta stock enjoys best month since 2022 on AI momentum - cnbc.com,META,Google RSS,positive,0.7039580941200256
+2026-10-01 14:13:25,Goldman Sachs sets Amazon stock price for 12 months - finbold.com,AMZN,Google RSS,neutral,0.0
+2026-10-01 03:59:00,"Tesla stock price prediction: $480 bull, $268 bear",TSLA,Bing RSS,neutral,0.0
