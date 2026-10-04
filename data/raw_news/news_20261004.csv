@@ -1,11 +1,11 @@
 date,headline,ticker,source,sentiment_label,compound
 2026-10-02 20:03:07,Morgan Stanley Has Strong Verdict for Apple Stock Investors - TradingView,AAPL,Google RSS,positive,0.5507503151893616
-2026-10-01 18:33:10,Why Is Alphabet (NASDAQ:GOOGL) Stock Falling Despite the Gemini 4 Argon Launch? Analysts Stay Bullish - Stocks Down Under,GOOGL,Google RSS,negative,-0.9642830491065979
+2026-10-01 18:33:10,Why Is Alphabet (NASDAQ:GOOGL) Stock Falling Despite the Gemini 4 Argon Launch? Analysts Stay Bullish - Stocks Down Under,GOOGL,Google RSS,negative,-0.964283049106598
 2026-09-30 16:20:00,Alphabet shares rise as softer inflation sentiment adds to ongoing AI optimism - Quiver Quantitative,GOOGL,Google RSS,negative,-0.6598924398422241
 2026-10-02 09:30:00,"Got $1,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence. - The Motley Fool",GOOGL,Google RSS,neutral,0.0
 2026-10-03 17:19:38,"Bessent says rising Treasury yields reflect global trend, not cause for alarm",GOOGL,Yahoo RSS,positive,0.6192775368690491
 2026-10-01 14:13:25,Goldman Sachs sets Amazon stock price for 12 months - Finbold,AMZN,Google RSS,neutral,0.0
-2026-10-01 14:25:39,"Amazon stock seen rising over 50% in 12 months despite recent dip, says Goldman Sachs. - Pluang",AMZN,Google RSS,positive,0.9462534785270691
+2026-10-01 14:25:39,"Amazon stock seen rising over 50% in 12 months despite recent dip, says Goldman Sachs. - Pluang",AMZN,Google RSS,positive,0.9462534785270692
 2026-10-01 11:46:37,Microsoft stock best quarter since 1998: Q3 2026 gains 37.5% - qz.com,MSFT,Google RSS,positive,0.5029770731925964
 2026-09-30 09:14:00,"Microsoft Stock Has Grown Roughly 14-Fold Since Satya Nadella Became CEO in 2014, a 23% Annual Growth Rate That Ended 14 Years of Negative Growth. Can That Pace Continue Under Heavy AI Spending? - The Motley Fool",MSFT,Google RSS,neutral,0.0
 2026-09-30 13:55:29,Piper Sandler raises Microsoft stock price target on Copilot growth - Investing.com,MSFT,Google RSS,neutral,0.0
@@ -22,7 +22,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-02 13:03:51,Tesla stock jumps 5% on better-than-expected vehicle deliveries report - CNBC,TSLA,Google RSS,positive,0.916980504989624
 2026-10-02 18:25:00,Tesla Q3 Deliveries Top Expectations; The Stock Is Rising - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
 2026-10-02 22:00:00,"Tesla Q3 deliveries better-than-expected, stock jumps on news - CNBC",TSLA,Google RSS,positive,0.6360933184623718
-2026-10-02 09:17:07,Tesla stock surges 5% after company reports better-than-expected Q3 deliveries,TSLA,Bing RSS,positive,0.9281172752380371
+2026-10-02 09:17:07,Tesla stock surges 5% after company reports better-than-expected Q3 deliveries,TSLA,Bing RSS,positive,0.9281172752380372
 2026-10-01 03:59:00,"Tesla stock price prediction: $480 bull, $268 bear",TSLA,Bing RSS,neutral,0.0
 2026-09-30 20:08:47,Meta stock enjoys best month since 2022 on AI momentum - CNBC,META,Google RSS,positive,0.8413485288619995
 2026-10-03 06:27:00,Meta Platforms Stock Rose 25% in September. Is It Still a Buy in October? - The Motley Fool,META,Google RSS,neutral,0.0
@@ -32,5 +32,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-03 05:47:39,Meta Platforms Stock Rose 25% in September. Is It Still a Buy in October? - The Globe and Mail,META,Google RSS,neutral,0.0
 2026-10-02 23:27:00,Meta Platforms stock rose 25% in September. Is it still a buy in October?,META,Bing RSS,neutral,0.0
 2026-10-03 05:47:00,Meta Platforms Stock Rose 25% in September. Is It Still a Buy in October?,META,Yahoo RSS,neutral,0.0
-2026-10-01 16:50:18,Netflix stock just got a stunning upgrade after a brutal 2026 selloff,NFLX,Bing RSS,positive,0.9446467757225037
+2026-10-01 16:50:18,Netflix stock just got a stunning upgrade after a brutal 2026 selloff,NFLX,Bing RSS,positive,0.9446467757225036
 2026-10-02 02:37:11,"Dow, S&P 500, Nasdaq Futures Rise Ahead Of Key Jobs Report: NKE, NFLX, BABA, XRPN Stocks In Focus",NFLX,Yahoo RSS,neutral,0.0
+2026-09-29 14:35:00,Microsoft stock set for biggest quarterly gain in 28 years,MSFT,Bing RSS,positive,0.8798502683639526
+2026-10-04 10:13:02,Costco's Underlying Sales Growth Has Slowed 3 Months in a Row. Its September Report Comes Oct. 7.,NVDA,Yahoo RSS,negative,-0.9690636992454529
