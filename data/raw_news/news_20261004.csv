@@ -35,4 +35,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-01 16:50:18,Netflix stock just got a stunning upgrade after a brutal 2026 selloff,NFLX,Bing RSS,positive,0.9446467757225036
 2026-10-02 02:37:11,"Dow, S&P 500, Nasdaq Futures Rise Ahead Of Key Jobs Report: NKE, NFLX, BABA, XRPN Stocks In Focus",NFLX,Yahoo RSS,neutral,0.0
 2026-09-29 14:35:00,Microsoft stock set for biggest quarterly gain in 28 years,MSFT,Bing RSS,positive,0.8798502683639526
-2026-10-04 10:13:02,Costco's Underlying Sales Growth Has Slowed 3 Months in a Row. Its September Report Comes Oct. 7.,NVDA,Yahoo RSS,negative,-0.9690636992454529
+2026-10-04 10:13:02,Costco's Underlying Sales Growth Has Slowed 3 Months in a Row. Its September Report Comes Oct. 7.,NVDA,Yahoo RSS,negative,-0.9690636992454528
+2026-10-04 15:09:45,Microsoft declares dividend as Microsoft stock trades at EUR 459.78 versus its EUR 459.78 close - AD HOC NEWS,MSFT,Google RSS,negative,-0.47815951704978943
+2026-10-04 07:16:42,NVIDIA Corporation $NVDA Stock Sold by Quartz Partners LLC - MarketBeat,NVDA,Google RSS,neutral,0.0
+2026-10-04 15:10:00,"Fed Chair Kevin Warsh Just Used 5 Words to Describe the Fed's First Rate Hike Since 2023, Saying The Fed ""Removed A Dose of Accommodation."" Should Investors Brace for More Hikes This Year?",NVDA,Yahoo RSS,neutral,0.0
+2026-10-03 13:46:38,3 Robotaxi Stocks Retail Investors Are Screening After Tesla Cybercab Headlines - Simply Wall Street,TSLA,Google RSS,neutral,0.0
+2026-10-03 07:46:00,Why the Meta share price surged 27% in September - uk.finance.yahoo.com,META,Google RSS,neutral,0.0
+2026-09-29 14:30:05,Meta Expands Muse AI Agent to Enterprise Software and Small Businesses - TIKR.com,META,Google RSS,neutral,0.0
+2026-10-01 13:23:00,META Expands Muse for Small Businesses: Will Ad Growth Accelerate? - uk.finance.yahoo.com,META,Google RSS,neutral,0.0
+2026-09-28 06:08:00,"Netflix Stock Is Falling, And Billionaires Were Already Heading For The Exit",NFLX,Bing RSS,negative,-0.9668629169464111
