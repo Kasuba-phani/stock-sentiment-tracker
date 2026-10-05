@@ -1,12 +1,12 @@
 date,headline,ticker,source,sentiment_label,compound
 2026-10-02 20:03:07,Morgan Stanley Has Strong Verdict for Apple Stock Investors - TradingView,AAPL,Google RSS,positive,0.5507503151893616
-2026-10-01 18:33:10,Why Is Alphabet (NASDAQ:GOOGL) Stock Falling Despite the Gemini 4 Argon Launch? Analysts Stay Bullish - Stocks Down Under,GOOGL,Google RSS,negative,-0.9642830491065979
+2026-10-01 18:33:10,Why Is Alphabet (NASDAQ:GOOGL) Stock Falling Despite the Gemini 4 Argon Launch? Analysts Stay Bullish - Stocks Down Under,GOOGL,Google RSS,negative,-0.964283049106598
 2026-10-02 09:30:00,"Got $1,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence. - The Motley Fool",GOOGL,Google RSS,neutral,0.0
 2026-10-01 14:13:25,Goldman Sachs sets Amazon stock price for 12 months - Finbold,AMZN,Google RSS,neutral,0.0
 2026-10-01 11:46:37,Microsoft stock best quarter since 1998: Q3 2026 gains 37.5% - qz.com,MSFT,Google RSS,positive,0.5029770731925964
 2026-09-30 09:14:00,"Microsoft Stock Has Grown Roughly 14-Fold Since Satya Nadella Became CEO in 2014, a 23% Annual Growth Rate That Ended 14 Years of Negative Growth. Can That Pace Continue Under Heavy AI Spending? - The Motley Fool",MSFT,Google RSS,neutral,0.0
 2026-10-02 09:30:00,"Got $1,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence. - The Motley Fool",MSFT,Google RSS,neutral,0.0
-2026-10-04 15:09:45,Microsoft declares dividend as Microsoft stock trades at EUR 459.78 versus its EUR 459.78 close - AD HOC NEWS,MSFT,Google RSS,negative,-0.47815951704978943
+2026-10-04 15:09:45,Microsoft declares dividend as Microsoft stock trades at EUR 459.78 versus its EUR 459.78 close - AD HOC NEWS,MSFT,Google RSS,negative,-0.4781595170497894
 2026-09-30 02:14:00,"Microsoft Stock Has Grown Roughly 14-Fold Since Satya Nadella Became CEO in 2014, a 23% Annual Growth Rate That Ended 14 Years of Negative Growth. Can That Pace Continue Under ...",MSFT,Bing RSS,positive,0.7953594923019409
 2026-10-02 21:45:06,"Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration - cnbc.com",NVDA,Google RSS,negative,-0.965716540813446
 2026-10-03 15:06:10,"How Nvidia, Micron and a surprising jobs report drove last week's stock action - cnbc.com",NVDA,Google RSS,neutral,0.0
@@ -25,3 +25,26 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-03 05:47:39,Meta Platforms Stock Rose 25% in September. Is It Still a Buy in October? - The Globe and Mail,META,Google RSS,neutral,0.0
 2026-10-02 23:27:00,Meta Platforms stock rose 25% in September. Is it still a buy in October?,META,Bing RSS,neutral,0.0
 2026-10-02 02:37:11,"Dow, S&P 500, Nasdaq Futures Rise Ahead Of Key Jobs Report: NKE, NFLX, BABA, XRPN Stocks In Focus",NFLX,Yahoo RSS,neutral,0.0
+2026-10-05 02:07:37,Alphabet rated 'Strong Buy' as AI fears fade an... - Pluang,GOOGL,Google RSS,positive,0.9256814122200012
+2026-10-04 22:56:01,Price-Driven Insight from (GOOG) for Rule-Based Strategy - Stock Traders Daily,GOOGL,Google RSS,neutral,0.0
+2026-10-05 02:06:06,3 Great AI Stocks To Watch In October 2026,GOOGL,Yahoo RSS,neutral,0.0
+2026-10-05 01:58:47,"MU, HPE, AMZN, META, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week - Stocktwits",AMZN,Google RSS,neutral,0.0
+2026-10-05 01:54:00,"MU, HPE, AMZN, META, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week - TradingView",AMZN,Google RSS,neutral,0.0
+2026-10-01 14:13:25,Goldman Sachs sets Amazon stock price for 12 months - finbold.com,AMZN,Google RSS,neutral,0.0
+2026-10-05 01:54:51,"MU, HPE, AMZN, META, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",AMZN,Yahoo RSS,neutral,0.0
+2026-10-02 12:14:17,Microsoft stock stagnant despite strong analyst buy ratings and Azure's $100B revenue milestone. - Pluang,MSFT,Google RSS,negative,-0.8307353854179382
+2026-10-03 15:06:10,"How Nvidia, Micron and a surprising jobs report drove last week's stock action - CNBC",NVDA,Google RSS,neutral,0.0
+2026-10-02 21:45:06,"Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration - CNBC",NVDA,Google RSS,negative,-0.9670517444610596
+2026-10-05 06:35:00,8 Years of History Warns What a September Rate Hike Could Mean for Stocks,NVDA,Yahoo RSS,negative,-0.5022240877151489
+2026-10-05 02:06:06,3 Great AI Stocks To Watch In October 2026,NVDA,Yahoo RSS,neutral,0.0
+2026-10-05 01:54:51,"MU, HPE, AMZN, META, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",NVDA,Yahoo RSS,neutral,0.0
+2026-10-02 13:03:51,Tesla stock jumps 5% on better-than-expected vehicle deliveries report - CNBC,TSLA,Google RSS,positive,0.916980504989624
+2026-10-02 18:25:00,Tesla Q3 Deliveries Top Expectations; The Stock Is Rising - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
+2026-10-02 22:00:00,"Tesla Q3 deliveries better-than-expected, stock jumps on news - CNBC",TSLA,Google RSS,positive,0.6360933184623718
+2026-10-05 03:09:51,Top 3 Founder Run Stocks To Watch In October 2026,TSLA,Yahoo RSS,neutral,0.0
+2026-09-30 20:08:47,Meta stock enjoys best month since 2022 on AI momentum - CNBC,META,Google RSS,positive,0.8413485288619995
+2026-09-29 14:30:05,Meta Expands Muse AI Agent to Enterprise Software and Small Businesses - TIKR.com,META,Google RSS,neutral,0.0
+2026-10-05 03:09:51,Top 3 Founder Run Stocks To Watch In October 2026,META,Yahoo RSS,neutral,0.0
+2026-10-05 01:54:51,"MU, HPE, AMZN, META, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",META,Yahoo RSS,neutral,0.0
+2026-10-01 16:50:18,Netflix stock just got a stunning upgrade after a brutal 2026 selloff,NFLX,Bing RSS,positive,0.9446467757225037
+2026-09-28 06:08:00,"Netflix Stock Is Falling, And Billionaires Were Already Heading For The Exit",NFLX,Bing RSS,negative,-0.9668629169464111
