@@ -62,6 +62,29 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-05 14:18:00,"Week ahead: Wall Street tests rally as Fed minutes, Microsoft event loom",MSFT,Yahoo RSS,neutral,0.0
 2026-10-05 12:24:36,Cantor Fitzgerald reiterates Nvidia stock rating on growth outlook - Investing.com,NVDA,Google RSS,neutral,0.0
 2026-10-05 10:18:11,NVIDIA Stock Hits New High Near $238 After Big Buyback and Strong AI Sales - FXLeaders,NVDA,Google RSS,positive,0.9161765575408936
-2026-10-05 11:19:41,HSBC raises Tesla price target to $157 but keeps 'Reduce' rating amid production and energy business concerns. - Pluang,TSLA,Google RSS,negative,-0.40262696146965027
+2026-10-05 11:19:41,HSBC raises Tesla price target to $157 but keeps 'Reduce' rating amid production and energy business concerns. - Pluang,TSLA,Google RSS,negative,-0.4026269614696502
 2026-10-01 11:55:20,"Meta stock posted its best month since 2022, rising 27% in September - qz.com",META,Google RSS,positive,0.9372025728225708
 2026-10-05 13:26:39,Analyst Sells Cisco (CSCO) and Trims Meta (META) Amid Rising Yields,META,Yahoo RSS,positive,0.8571691513061523
+2026-10-05 17:07:28,3 US Tech Stocks Investors Are Repricing As Treasury Yields Pressure Growth,AAPL,Yahoo RSS,negative,-0.9296319484710693
+2026-10-05 13:24:00,Here Are My Top 4 Stocks to Buy in October - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-10-05 20:32:43,"Update: Nasdaq Composite Reaches New High, 10-Year Yield Tops 5.3%",GOOGL,Yahoo RSS,positive,0.9280989170074463
+2026-10-05 18:14:52,Update: Equity Markets Rise Intraday Despite Higher Yields,GOOGL,Yahoo RSS,positive,0.9281564354896545
+2026-10-05 19:20:38,Amazon Stocks Edged Higher as TD Cowen Reaffirms AWS Growth - TradingView,AMZN,Google RSS,positive,0.9356012344360352
+2026-10-05 18:14:52,Update: Equity Markets Rise Intraday Despite Higher Yields,AMZN,Yahoo RSS,positive,0.9281564354896545
+2026-10-05 21:06:34,Melius Research upgrades Microsoft stock to Buy with a $665 price target - qz.com,MSFT,Google RSS,neutral,0.0
+2026-10-05 21:27:00,"Microsoft’s blazing stock comeback isn’t even close to being over, analyst says - MarketWatch",MSFT,Google RSS,neutral,0.0
+2026-10-05 20:15:00,Microsoft hits $528.58 high with RSI near overbought: Live levels - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-05 19:17:10,Microsoft stock gains on 43 percent Azure growth - AD HOC NEWS,MSFT,Google RSS,positive,0.7529411911964417
+2026-10-05 10:02:00,"Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",MSFT,Bing RSS,neutral,0.0
+2026-10-05 17:07:28,3 US Tech Stocks Investors Are Repricing As Treasury Yields Pressure Growth,MSFT,Yahoo RSS,negative,-0.9296319484710693
+2026-10-05 18:14:52,Update: Equity Markets Rise Intraday Despite Higher Yields,MSFT,Yahoo RSS,positive,0.9281564354896545
+2026-10-05 17:19:15,Nasdaq hits record high as AI stocks rally amid high bond yields,MSFT,Yahoo RSS,positive,0.745648205280304
+2026-10-05 20:32:43,"Update: Nasdaq Composite Reaches New High, 10-Year Yield Tops 5.3%",MSFT,Yahoo RSS,positive,0.9280989170074463
+2026-10-05 21:11:00,"Dow Jones Futures: Nasdaq Hits Record Highs; TSMC, Nvidia, Elon Musk-Led SpaceX, Tesla Rally - Investor's Business Daily",NVDA,Google RSS,positive,0.6363545656204224
+2026-10-05 22:09:32,"Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus",NVDA,Yahoo RSS,positive,0.8815421462059021
+2026-10-05 20:32:43,"Update: Nasdaq Composite Reaches New High, 10-Year Yield Tops 5.3%",NVDA,Yahoo RSS,positive,0.9280989170074463
+2026-10-01 03:59:00,"Tesla stock price prediction: $480 bull, $268 bear",TSLA,Bing RSS,neutral,0.0
+2026-10-05 22:09:32,"Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus",TSLA,Yahoo RSS,positive,0.8815421462059021
+2026-10-05 17:19:15,Nasdaq hits record high as AI stocks rally amid high bond yields,TSLA,Yahoo RSS,positive,0.745648205280304
+2026-10-05 20:31:59,The Nasdaq hits a record high as AI stocks rally despite elevated Treasury yields - qz.com,META,Google RSS,positive,0.4518881142139435
+2026-10-05 17:19:15,Nasdaq hits record high as AI stocks rally amid high bond yields,META,Yahoo RSS,positive,0.745648205280304
