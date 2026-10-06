@@ -55,8 +55,25 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-06 08:05:26,"Stock market today: Dow, S&P 500, Nasdaq futures climb after record-breaking rally",NVDA,Yahoo RSS,positive,0.8993821144104004
 2026-10-06 02:38:00,"Dow Jones Futures: Nasdaq Hits Record Highs; TSMC, Nvidia, Elon Musk-Led SpaceX, Tesla Rally - Investor's Business Daily",TSLA,Google RSS,positive,0.6363545656204224
 2026-10-06 02:03:50,U.S. stock futures inch up after Nasdaq hits record on reduced Fed hike bets,TSLA,Yahoo RSS,positive,0.7150021195411682
-2026-10-05 20:31:59,Nasdaq hits record high as AI stocks rally amid high bond yields - qz.com,META,Google RSS,positive,0.44027963280677795
+2026-10-05 20:31:59,Nasdaq hits record high as AI stocks rally amid high bond yields - qz.com,META,Google RSS,positive,0.4402796328067779
 2026-10-03 05:47:39,Meta Platforms Stock Rose 25% in September. Is It Still a Buy in October? - The Globe and Mail,META,Google RSS,neutral,0.0
 2026-10-02 23:27:00,Meta Platforms stock rose 25% in September. Is it still a buy in October?,META,Bing RSS,neutral,0.0
 2026-10-06 02:45:36,"Dow, S&P 500, Nasdaq Futures Edge Higher After Nasdaq Climbs To Record High: SPCX, USAR, CEG, NVAX Stocks In Focus",META,Yahoo RSS,positive,0.8103151917457581
 2026-10-06 02:03:50,U.S. stock futures inch up after Nasdaq hits record on reduced Fed hike bets,META,Yahoo RSS,positive,0.7150021195411682
+2026-10-06 15:39:31,"Apple's App Store Growth Rebounds in September; Sees Solid iPhone Demand, UBS Says",AAPL,Yahoo RSS,positive,0.5494467616081238
+2026-10-05 22:29:15,Congressman Who Loves Magnificent Seven Stocks Buys 3 Mag 7 Names in September - Benzinga,GOOGL,Google RSS,neutral,0.0
+2026-10-06 15:08:37,3 Great AI Stocks To Own In October 2026,GOOGL,Yahoo RSS,neutral,0.0
+2026-10-04 13:24:16,Top Wall Street analysts are upbeat about the prospects for these 3 stocks - CNBC,AMZN,Google RSS,neutral,0.0
+2026-10-05 17:13:38,"Stocks making the biggest moves midday: Microsoft, SpaceX, Vaxcyte, Banco Bradesco, DraftKings & more - CNBC",MSFT,Google RSS,neutral,0.0
+2026-10-01 11:46:37,Microsoft stock best quarter since 1998: Q3 2026 gains 37.5% - Quartz,MSFT,Google RSS,positive,0.9237086176872253
+2026-10-06 15:29:51,"Stock Market Today: Dow Rises As Caterpillar, Nvidia Pop; AI Stock Clears Entry (Live Coverage)",MSFT,Yahoo RSS,neutral,0.0
+2026-10-06 15:29:51,"Stock Market Today: Dow Rises As Caterpillar, Nvidia Pop; AI Stock Clears Entry (Live Coverage)",NVDA,Yahoo RSS,neutral,0.0
+2026-10-06 11:07:28,Goldman Sachs reiterates Tesla stock rating ahead of earnings - Investing.com,TSLA,Google RSS,neutral,0.0
+2026-10-06 14:09:37,3 Growth Stocks To Watch With Revenue Growth Up To 43%,TSLA,Yahoo RSS,positive,0.8883248567581177
+2026-10-06 13:08:02,Tesla And 2 More High Growth Insider Stocks To Watch,TSLA,Yahoo RSS,neutral,0.0
+2026-10-06 15:29:51,"Stock Market Today: Dow Rises As Caterpillar, Nvidia Pop; AI Stock Clears Entry (Live Coverage)",TSLA,Yahoo RSS,neutral,0.0
+2026-10-06 13:40:08,S&P 500 hovers near record highs as Treasury yields ease: AlphaCheck,TSLA,Yahoo RSS,negative,-0.474507212638855
+2026-10-06 11:56:04,Stocks Rise Pre-Bell After Nasdaq Reaches New Record High,TSLA,Yahoo RSS,positive,0.6051324009895325
+2026-10-01 11:55:20,"Meta stock posted its best month since 2022, rising 27% in September - Quartz",META,Google RSS,positive,0.9502244591712952
+2026-10-06 14:53:40,Sarandos warns of slower growth as Netflix stock sits 43.53 percent below its high - AD HOC NEWS,NFLX,Google RSS,negative,-0.9373028874397278
+2026-10-06 15:29:59,Netflix stock gains 1.35 percent above its yearly low - AD HOC NEWS,NFLX,Google RSS,positive,0.9392362236976624
