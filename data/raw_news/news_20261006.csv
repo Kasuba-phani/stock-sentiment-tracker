@@ -65,7 +65,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-06 15:08:37,3 Great AI Stocks To Own In October 2026,GOOGL,Yahoo RSS,neutral,0.0
 2026-10-04 13:24:16,Top Wall Street analysts are upbeat about the prospects for these 3 stocks - CNBC,AMZN,Google RSS,neutral,0.0
 2026-10-05 17:13:38,"Stocks making the biggest moves midday: Microsoft, SpaceX, Vaxcyte, Banco Bradesco, DraftKings & more - CNBC",MSFT,Google RSS,neutral,0.0
-2026-10-01 11:46:37,Microsoft stock best quarter since 1998: Q3 2026 gains 37.5% - Quartz,MSFT,Google RSS,positive,0.9237086176872253
+2026-10-01 11:46:37,Microsoft stock best quarter since 1998: Q3 2026 gains 37.5% - Quartz,MSFT,Google RSS,positive,0.9237086176872252
 2026-10-06 15:29:51,"Stock Market Today: Dow Rises As Caterpillar, Nvidia Pop; AI Stock Clears Entry (Live Coverage)",MSFT,Yahoo RSS,neutral,0.0
 2026-10-06 15:29:51,"Stock Market Today: Dow Rises As Caterpillar, Nvidia Pop; AI Stock Clears Entry (Live Coverage)",NVDA,Yahoo RSS,neutral,0.0
 2026-10-06 11:07:28,Goldman Sachs reiterates Tesla stock rating ahead of earnings - Investing.com,TSLA,Google RSS,neutral,0.0
@@ -77,3 +77,28 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-01 11:55:20,"Meta stock posted its best month since 2022, rising 27% in September - Quartz",META,Google RSS,positive,0.9502244591712952
 2026-10-06 14:53:40,Sarandos warns of slower growth as Netflix stock sits 43.53 percent below its high - AD HOC NEWS,NFLX,Google RSS,negative,-0.9373028874397278
 2026-10-06 15:29:59,Netflix stock gains 1.35 percent above its yearly low - AD HOC NEWS,NFLX,Google RSS,positive,0.9392362236976624
+2026-10-06 17:34:23,"Nvidia, Apple, Microsoft Now Drive 21% of S&P 500: Here’s How Much ETF Investors Own - TradingView",AAPL,Google RSS,neutral,0.0
+2026-10-06 20:18:00,Markets climb as a handful of tech stocks power the rally,AAPL,Yahoo RSS,neutral,0.0
+2026-10-06 20:26:06,"US Equity Markets End Higher as Big Tech Gains, Government Bond Yields Fall",GOOGL,Yahoo RSS,positive,0.4611819386482239
+2026-10-06 20:11:38,Marvell Lifts Its Sales Outlook on Strong AI Demand. The Stock Is Surging,GOOGL,Yahoo RSS,positive,0.9320055246353149
+2026-10-06 17:36:09,"Amazon stock expected to rally 27%+ in 12 months despite recent dip, driven by AI and holiday momentum - Pluang",AMZN,Google RSS,positive,0.9444117546081543
+2026-10-06 13:06:51,The cheapest tone upgrade you'll make all year – stock up on multi-pack guitar strings from just $4.99 in Amazon's Big Deal Days sale - GuitarPlayer.com,AMZN,Google RSS,positive,0.9115857481956482
+2026-10-06 17:35:01,3 of the Best Growth Stocks to Buy in October 2026,AMZN,Yahoo RSS,neutral,0.0
+2026-10-06 20:18:00,Markets climb as a handful of tech stocks power the rally,AMZN,Yahoo RSS,neutral,0.0
+2026-10-06 19:56:09,Sector Update: Consumer Stocks Higher Late Afternoon,AMZN,Yahoo RSS,positive,0.9222398400306702
+2026-10-06 18:42:45,Why Is Everyone Ignoring Home Depot Stock's High Cash Yield?,AMZN,Yahoo RSS,negative,-0.6471942067146301
+2026-10-06 17:36:11,Update: Equity Markets Rise Intraday as Yields Fall,AMZN,Yahoo RSS,negative,-0.7146472930908203
+2026-10-06 17:09:21,Top 3 Cash Flow Stocks To Watch In October 2026,AMZN,Yahoo RSS,neutral,0.0
+2026-10-06 16:35:00,"M365 Con 27 Brings 120+ Microsoft Experts Together — Including 90+ Microsoft MVPs — for a Global Conference on AI, Copilot and the Future of Work",MSFT,Yahoo RSS,neutral,0.0
+2026-10-06 20:18:00,Markets climb as a handful of tech stocks power the rally,MSFT,Yahoo RSS,neutral,0.0
+2026-10-06 19:33:00,Nvidia stock flashes massive signal as Wall Street leans in - TheStreet,NVDA,Google RSS,positive,0.7660070657730103
+2026-10-06 20:09:44,Nvidia (NASDAQ:NVDA) Stock Hits Record High as Market Cap Nears US$6 Trillion - Stocks Down Under,NVDA,Google RSS,negative,-0.9557992219924927
+2026-10-06 20:18:00,Markets climb as a handful of tech stocks power the rally,NVDA,Yahoo RSS,neutral,0.0
+2026-10-06 20:11:38,Marvell Lifts Its Sales Outlook on Strong AI Demand. The Stock Is Surging,NVDA,Yahoo RSS,positive,0.9320055246353149
+2026-10-06 18:26:42,Tesla stock after-hours at EUR 337.38: minus 0.18 percent versus prior close - AD HOC NEWS,TSLA,Google RSS,negative,-0.7272049784660339
+2026-10-06 18:20:00,"How Meta’s stock can surge to $1,000, according to the biggest bull on Wall Street - MarketWatch",META,Google RSS,neutral,0.0
+2026-10-06 18:12:38,These 3 Stocks Got the Most Love From Analysts in September - MarketBeat,META,Google RSS,neutral,0.0
+2026-10-05 20:31:59,The Nasdaq hits a record high as AI stocks rally despite elevated Treasury yields - Quartz,META,Google RSS,positive,0.8709671497344971
+2026-10-06 06:23:00,[US Stock Investment Diary] The Bull Market is Just Beginning! 5 Reasons Why QQQ is Heading to 800 Amidst the Semiconductor Explosion and Meta's Strong Pursuit_817,META,Bing RSS,neutral,0.0
+2026-10-06 18:15:00,3 of the Best Growth Stocks to Buy in October 2026 - The Motley Fool,NFLX,Google RSS,neutral,0.0
+2026-10-06 17:35:01,3 of the Best Growth Stocks to Buy in October 2026,NFLX,Yahoo RSS,neutral,0.0
