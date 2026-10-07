@@ -2,12 +2,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-06 17:34:23,"Nvidia, Apple, Microsoft Now Drive 21% of S&P 500: Here’s How Much ETF Investors Own - TradingView",AAPL,Google RSS,neutral,0.0
 2026-10-06 15:39:31,"Apple's App Store Growth Rebounds in September; Sees Solid iPhone Demand, UBS Says",AAPL,Yahoo RSS,positive,0.5494467616081238
 2026-10-06 20:18:00,Markets climb as a handful of tech stocks power the rally,AAPL,Yahoo RSS,neutral,0.0
-2026-10-01 18:33:10,Why Is Alphabet (NASDAQ:GOOGL) Stock Falling Despite the Gemini 4 Argon Launch? Analysts Stay Bullish - Stocks Down Under,GOOGL,Google RSS,negative,-0.9642830491065979
+2026-10-01 18:33:10,Why Is Alphabet (NASDAQ:GOOGL) Stock Falling Despite the Gemini 4 Argon Launch? Analysts Stay Bullish - Stocks Down Under,GOOGL,Google RSS,negative,-0.964283049106598
 2026-10-05 09:01:08,Alphabet (NASDAQ:GOOGL) Combines Strong Growth Fundamentals With a Quality Technical Setup - ChartMill,GOOGL,Google RSS,positive,0.6852498650550842
 2026-10-06 20:26:06,"US Equity Markets End Higher as Big Tech Gains, Government Bond Yields Fall",GOOGL,Yahoo RSS,positive,0.4611819386482239
-2026-10-06 20:11:38,Marvell Lifts Its Sales Outlook on Strong AI Demand. The Stock Is Surging,GOOGL,Yahoo RSS,positive,0.9320055246353149
+2026-10-06 20:11:38,Marvell Lifts Its Sales Outlook on Strong AI Demand. The Stock Is Surging,GOOGL,Yahoo RSS,positive,0.9320055246353148
 2026-10-06 22:43:52,Amazon (NASDAQ:AMZN) Stock Could Surge 50% as Tigress Raises Price Target to US$385 on AI Growth - Stocks Down Under,AMZN,Google RSS,positive,0.7245181202888489
-2026-10-06 17:36:09,"Amazon stock expected to rally 27%+ in 12 months despite recent dip, driven by AI and holiday momentum - Pluang",AMZN,Google RSS,positive,0.9444117546081543
+2026-10-06 17:36:09,"Amazon stock expected to rally 27%+ in 12 months despite recent dip, driven by AI and holiday momentum - Pluang",AMZN,Google RSS,positive,0.9444117546081544
 2026-10-06 13:06:51,The cheapest tone upgrade you'll make all year – stock up on multi-pack guitar strings from just $4.99 in Amazon's Big Deal Days sale - GuitarPlayer.com,AMZN,Google RSS,positive,0.9115857481956482
 2026-10-05 14:24:35,TD Cowen reiterates Amazon stock Buy rating on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
 2026-10-04 13:24:16,Top Wall Street analysts are upbeat about the prospects for these 3 stocks - CNBC,AMZN,Google RSS,neutral,0.0
@@ -15,14 +15,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-06 19:56:09,Sector Update: Consumer Stocks Higher Late Afternoon,AMZN,Yahoo RSS,positive,0.9222398400306702
 2026-10-05 17:13:38,"Stocks making the biggest moves midday: Microsoft, SpaceX, Vaxcyte, Banco Bradesco, DraftKings & more - CNBC",MSFT,Google RSS,neutral,0.0
 2026-10-06 22:55:00,"As Microsoft Adapted To AI Megatrend, Sales, Profits Surged. MSFT Leads 9 Joining IBD Best Stock Lists - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
-2026-10-01 11:46:37,Microsoft stock best quarter since 1998: Q3 2026 gains 37.5% - Quartz,MSFT,Google RSS,positive,0.9237086176872253
+2026-10-01 11:46:37,Microsoft stock best quarter since 1998: Q3 2026 gains 37.5% - Quartz,MSFT,Google RSS,positive,0.9237086176872252
 2026-10-05 14:27:00,"Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",MSFT,Bing RSS,neutral,0.0
 2026-10-05 05:47:00,"Microsoft stock rises as Melius upgrades to Buy, sees over 26% upside",MSFT,Bing RSS,positive,0.9266948699951172
 2026-10-06 20:18:00,Markets climb as a handful of tech stocks power the rally,MSFT,Yahoo RSS,neutral,0.0
 2026-10-06 21:58:22,Nvidia stock flashes massive signal as Wall Street leans in - TheStreet,NVDA,Google RSS,positive,0.7660070657730103
 2026-10-05 12:24:36,Cantor Fitzgerald reiterates Nvidia stock rating on growth outlook - Investing.com,NVDA,Google RSS,neutral,0.0
 2026-10-03 15:06:10,"How Nvidia, Micron and a surprising jobs report drove last week's stock action - CNBC",NVDA,Google RSS,neutral,0.0
-2026-10-06 20:09:44,Nvidia (NASDAQ:NVDA) Stock Hits Record High as Market Cap Nears US$6 Trillion - Stocks Down Under,NVDA,Google RSS,negative,-0.9557992219924927
+2026-10-06 20:09:44,Nvidia (NASDAQ:NVDA) Stock Hits Record High as Market Cap Nears US$6 Trillion - Stocks Down Under,NVDA,Google RSS,negative,-0.9557992219924928
 2026-10-06 04:24:00,Why Nvidia stock hit another record high on Tuesday,NVDA,Bing RSS,positive,0.8279045820236206
 2026-10-06 22:33:00,Nvidia stock flashes massive signal as Wall Street leans in,NVDA,Yahoo RSS,positive,0.6692104339599609
 2026-10-06 11:07:28,Goldman Sachs reiterates Tesla stock rating ahead of earnings - Investing.com,TSLA,Google RSS,neutral,0.0
@@ -39,3 +39,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-06 14:53:40,Sarandos warns of slower growth as Netflix stock sits 43.53 percent below its high - AD HOC NEWS,NFLX,Google RSS,negative,-0.9373028874397278
 2026-10-06 15:29:59,Netflix stock gains 1.35 percent above its yearly low - AD HOC NEWS,NFLX,Google RSS,positive,0.9392362236976624
 2026-10-06 17:35:01,3 of the Best Growth Stocks to Buy in October 2026,NFLX,Yahoo RSS,neutral,0.0
+2026-10-07 08:02:41,"Stock market today: Dow, S&P 500, Nasdaq futures steady after tech rally",AAPL,Yahoo RSS,positive,0.7732709646224976
+2026-10-07 07:56:43,3 Top AI Stocks to Watch in October: They May Set the Tone for the Rest of the Market. - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-10-05 13:24:00,Here Are My Top 4 Stocks to Buy in October - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-10-07 02:40:15,"Dow, S&P 500, Nasdaq Futures Mixed After S&P 500, Nasdaq Notch Record Highs: SPCX, NLST, PENG, WDC Stocks In Focus",GOOGL,Yahoo RSS,neutral,0.0
+2026-09-30 02:14:00,"Microsoft Stock Has Grown Roughly 14-Fold Since Satya Nadella Became CEO in 2014, a 23% Annual Growth Rate That Ended 14 Years of Negative Growth. Can That Pace Continue Under ...",MSFT,Bing RSS,positive,0.795359194278717
+2026-10-07 08:02:41,"Stock market today: Dow, S&P 500, Nasdaq futures steady after tech rally",MSFT,Yahoo RSS,positive,0.7732709646224976
+2026-10-07 08:10:02,3 Top AI Stocks to Watch in October: They May Set the Tone for the Rest of the Market.,NVDA,Yahoo RSS,neutral,0.0
+2026-10-07 08:21:38,Oil rises and stocks fall as Hormuz worries flare,NVDA,Yahoo RSS,negative,-0.955374002456665
+2026-10-07 08:02:41,"Stock market today: Dow, S&P 500, Nasdaq futures steady after tech rally",NVDA,Yahoo RSS,positive,0.7732709646224976
+2026-10-06 11:20:00,"How Meta’s stock can surge to $1,000, according to the biggest bull on Wall Street",META,Bing RSS,neutral,0.0
+2026-10-02 23:27:00,Meta Platforms Stock Rose 25% in September. Is It Still a Buy in October?,META,Bing RSS,neutral,0.0
+2026-10-06 18:15:00,3 of the Best Growth Stocks to Buy in October 2026 - The Motley Fool,NFLX,Google RSS,neutral,0.0
