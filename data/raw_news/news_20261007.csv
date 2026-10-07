@@ -53,7 +53,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-06 18:15:00,3 of the Best Growth Stocks to Buy in October 2026 - The Motley Fool,NFLX,Google RSS,neutral,0.0
 2026-10-07 10:00:00,"S&P 500, Nasdaq hit records — but 'the breadth of the rally has narrowed': Chart of the Day",AAPL,Yahoo RSS,neutral,0.0
 2026-10-07 08:02:41,"Stock market today: Dow falls 500 points, S&P 500 and Nasdaq retreat from records as Treasury yields hit 24-year high",AAPL,Yahoo RSS,negative,-0.9566351175308228
-2026-10-07 12:10:44,Alphabet Inc. - GOOGL 6 1/4 05/15/29 (NASDAQ:GOOGN): Strong Growth and a High-Quality Technical Setup - ChartMill,GOOGL,Google RSS,positive,0.9184446930885315
+2026-10-07 12:10:44,Alphabet Inc. - GOOGL 6 1/4 05/15/29 (NASDAQ:GOOGN): Strong Growth and a High-Quality Technical Setup - ChartMill,GOOGL,Google RSS,positive,0.9184446930885316
 2026-10-07 15:35:01,"Unity Software Stock Is Falling Wednesday: What's Going On? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:G - Benzinga",GOOGL,Google RSS,negative,-0.954982340335846
 2026-10-07 09:11:11,Alphabet Inc - GOOGL 6 1/4 05/15/29 (NASDAQ:GOOGM) Combines Strong Growth With a Quality Technical Setup - ChartMill,GOOGL,Google RSS,positive,0.8910848498344421
 2026-10-07 16:01:19,Why Is Oklo Stock Falling on Wednesday? - Benzinga,GOOGL,Google RSS,negative,-0.8857229948043823
@@ -62,9 +62,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-07 13:47:45,"3 Tech Stocks to Buy in October, Starting With Microsoft - The Motley Fool",MSFT,Google RSS,neutral,0.0
 2026-10-07 07:45:00,"3 Tech Stocks to Buy in October, Starting With Microsoft",MSFT,Bing RSS,neutral,0.0
 2026-10-07 14:06:10,"S&P 500 Stocks With +100% Revenue Growth: Top 7 - NVIDIA (NASDAQ:NVDA), Micron Technology (NASDAQ:MU) - Benzinga",NVDA,Google RSS,neutral,0.0
-2026-10-07 16:02:07,Stocks slide as oil climbs on Mideast flareup,NVDA,Yahoo RSS,negative,-0.9077319502830505
+2026-10-07 16:02:07,Stocks slide as oil climbs on Mideast flareup,NVDA,Yahoo RSS,negative,-0.9077319502830504
 2026-10-07 13:32:53,Meta Joins Industry Alliance to Launch Personal AI Agent Standard - TIKR.com,META,Google RSS,neutral,0.0
 2026-10-07 04:00:00,Meta Joins Industry Alliance to Launch Personal AI Agent Standard,META,Bing RSS,neutral,0.0
 2026-10-07 15:19:16,Dow Jones AI Giant Nvidia Stock Hits New High And Fresh Buy Point,META,Yahoo RSS,positive,0.7478297352790833
 2026-10-07 13:30:00,Ray Dalio warns AI bubble is nearing a breaking point as debt and rates rise,META,Yahoo RSS,negative,-0.9140045046806335
 2026-10-07 14:04:05,Netflix stock enters a key earnings phase as growth slows - AD HOC NEWS,NFLX,Google RSS,neutral,0.0
+2026-10-07 20:39:00,"Stocks Pare Losses As Yields Slash Gains; AbbVie, Apple, Micron In Focus - Investor's Business Daily",AAPL,Google RSS,negative,-0.5450289249420166
+2026-10-07 16:16:56,"Model sees Alphabet stock rising above $500 as cloud backlog hits $514B, despite current price lagging peers. - Pluang",GOOGL,Google RSS,positive,0.9452435970306396
+2026-10-07 18:45:45,"Amazon AI Boom: Analysts See AWS, AI Agents Driving Bigger Growth - Benzinga",AMZN,Google RSS,neutral,0.0
+2026-10-05 21:27:00,"Microsoft’s blazing stock comeback isn’t even close to being over, analyst says - MarketWatch",MSFT,Google RSS,neutral,0.0
+2026-10-06 14:22:22,The “Adults in Charge” of AI: Microsoft Stock (NASDAQ:MSFT) Rises Thanks to New Investor Perception - TipRanks,MSFT,Google RSS,positive,0.949263334274292
+2026-10-07 15:19:00,Dow Jones AI Giant Nvidia Stock Hits New High And Fresh Buy Point - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
+2026-10-07 20:43:24,Stocks slide as oil sees volatile trading day over Iran war fears,NVDA,Yahoo RSS,negative,-0.9259428381919861
+2026-10-07 18:34:46,EUR 336.23 at Lang & Schwarz: Tesla stock after-hours minus 0.39 percent versus the prior close - AD HOC NEWS,TSLA,Google RSS,negative,-0.7962047457695007
+2026-10-07 15:19:00,Dow Jones AI Giant Nvidia Stock Hits New High And Fresh Buy Point - Investor's Business Daily,META,Google RSS,neutral,0.0
