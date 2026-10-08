@@ -41,3 +41,19 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-08 07:31:19,NVIDIA Corporation $NVDA Stock Bought by GQG Partners LLC - MarketBeat,NVDA,Google RSS,neutral,0.0
 2026-10-07 09:19:00,Dow Jones AI Giant Nvidia Stock Hits New High And Fresh Buy Point,NVDA,Bing RSS,positive,0.7478301525115967
 2026-10-08 06:24:47,EUR 336.53 at Lang & Schwarz: Tesla stock pre-market minus 0.19 percent versus the prior close - AD HOC NEWS,TSLA,Google RSS,negative,-0.7906097173690796
+2026-10-08 13:51:08,"With Q2 Sales Growth of 82% and a Backlog of $514 Billion, Is Cloud Now a Bigger Growth Engine for Sundar Pichai's Alphabet Than Google's Search Business? - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-10-08 12:44:00,TD Cowen raises Alphabet stock price target on cloud growth expectations - Investing.com UK,GOOGL,Google RSS,neutral,0.0
+2026-10-08 14:09:06,"With Q2 Sales Growth of 82% and a Backlog of $514 Billion, Is Cloud Now a Bigger Growth Engine for Sundar Pichai's Alphabet Than Google's Search Business? - The Globe and Mail",GOOGL,Google RSS,positive,0.6985530257225037
+2026-10-08 12:33:45,Alphabet Stocks Drop Although TPU Sales Escape Google's Cloud - GuruFocus,GOOGL,Google RSS,negative,-0.9679279923439026
+2026-10-08 15:29:34,"Megadeals Propel $1T Global Equity Issuance: ION Head of Global Equity Capital Markets & Head of Mergermarket EMEA Samuel Kerr​, Live at Nasdaq",GOOGL,Yahoo RSS,neutral,0.0
+2026-10-08 14:07:00,"With Q2 Sales Growth of 82% and a Backlog of $514 Billion, Is Cloud Now a Bigger Growth Engine for Sundar Pichai's Alphabet Than Google's Search Business?",GOOGL,Yahoo RSS,neutral,0.0
+2026-10-08 13:00:00,Amazon Stock Has Another Growth Story Investors May Be Missing - 24/7 Wall St.,AMZN,Google RSS,neutral,0.0
+2026-10-08 13:00:49,Amazon Stock Has Another Growth Story Investors May Be Missing - AOL.com,AMZN,Google RSS,neutral,0.0
+2026-10-05 21:27:00,"Microsoft’s blazing stock comeback isn’t even close to being over, analyst says - MarketWatch",MSFT,Google RSS,neutral,0.0
+2026-10-08 13:00:00,Amazon Stock Has Another Growth Story Investors May Be Missing - 24/7 Wall St.,MSFT,Google RSS,neutral,0.0
+2026-10-08 13:47:00,Why Nvidia & Microsoft are still worth watching as Treasury yields rise - TheStreet,MSFT,Google RSS,neutral,0.0
+2026-10-08 15:00:00,Resilinc Brings Supply Chain Risk and Compliance Intelligence into Microsoft Copilot,MSFT,Yahoo RSS,positive,0.5185136198997498
+2026-10-08 15:29:34,"Megadeals Propel $1T Global Equity Issuance: ION Head of Global Equity Capital Markets & Head of Mergermarket EMEA Samuel Kerr​, Live at Nasdaq",MSFT,Yahoo RSS,neutral,0.0
+2026-10-08 14:05:00,Intel Slides 3% as Chip Stocks Sell Off With Yields and Oil Higher; NVIDIA and AMD Slip - 24/7 Wall St.,NVDA,Google RSS,negative,-0.9681392312049866
+2026-10-01 03:59:00,"Tesla stock price prediction: $480 bull, $268 bear",TSLA,Bing RSS,neutral,0.0
+2026-10-08 14:55:11,"Trump Makes 517 Trades in August: Buys Meta and SpaceX Bonds, Sells AMD and Nvidia - TradingKey",META,Google RSS,neutral,0.0
