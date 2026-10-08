@@ -1,0 +1,40 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-10-07 21:54:00,"Stocks Sharply Off Lows As Treasury Yields Slash Gains; Apple, Micron Eye Buy Points - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-10-07 20:39:00,"Stocks Pare Losses As Yields Slash Gains; AbbVie, Apple, Micron In Focus - Investor's Business Daily",AAPL,Google RSS,negative,-0.5450305938720703
+2026-10-07 15:54:00,"Stocks Sharply Off Lows As Treasury Yields Slash Gains; Apple, Micron Eye Buy Points",AAPL,Bing RSS,negative,-0.6787539720535278
+2026-10-07 12:10:44,Alphabet Inc. - GOOGL 6 1/4 05/15/29 (NASDAQ:GOOGN): Strong Growth and a High-Quality Technical Setup - ChartMill,GOOGL,Google RSS,positive,0.9184446930885315
+2026-10-07 09:11:11,Alphabet Inc - GOOGL 6 1/4 05/15/29 (NASDAQ:GOOGM) Combines Strong Growth With a Quality Technical Setup - ChartMill,GOOGL,Google RSS,positive,0.8910848498344421
+2026-10-07 15:35:01,"Unity Software Stock Is Falling Wednesday: What's Going On? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:G - Benzinga",GOOGL,Google RSS,negative,-0.954982340335846
+2026-10-07 16:16:56,"Model sees Alphabet stock rising above $500 as cloud backlog hits $514B, despite current price lagging peers. - Pluang",GOOGL,Google RSS,positive,0.9452437162399292
+2026-10-07 16:01:19,Why Is Oklo Stock Falling on Wednesday? - Benzinga,GOOGL,Google RSS,negative,-0.8857229948043823
+2026-10-07 08:50:00,3 Top AI Stocks to Watch in October: They May Set the Tone for the Rest of the Market. - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-10-01 18:33:10,Why Is Alphabet (NASDAQ:GOOGL) Stock Falling Despite the Gemini 4 Argon Launch? Analysts Stay Bullish - Stocks Down Under,GOOGL,Google RSS,negative,-0.9642830491065979
+2026-10-06 22:39:37,Amazon (NASDAQ:AMZN) Stock Could Surge 50% as Tigress Raises Price Target to US$385 on AI Growth - Stocks Down Under,AMZN,Google RSS,positive,0.7245181202888489
+2026-10-07 18:45:45,"Amazon AI Boom: Analysts See AWS, AI Agents Driving Bigger Growth - Benzinga",AMZN,Google RSS,neutral,0.0
+2026-10-05 14:24:35,TD Cowen reiterates Amazon stock Buy rating on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-10-07 15:43:48,Amazon's AWS posts fastest growth in 4.5 years; shares trade 12% below peak amid rising capex concerns. - Pluang,AMZN,Google RSS,negative,-0.5333280563354492
+2026-10-06 17:36:09,"Amazon stock expected to rally 27%+ in 12 months despite recent dip, driven by AI and holiday momentum - Pluang",AMZN,Google RSS,positive,0.9444117546081543
+2026-10-05 17:13:38,"Stocks making the biggest moves midday: Microsoft, SpaceX, Vaxcyte, Banco Bradesco, DraftKings & more - CNBC",MSFT,Google RSS,neutral,0.0
+2026-10-07 14:45:00,"3 Tech Stocks to Buy in October, Starting With Microsoft - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-10-01 11:46:37,Microsoft stock best quarter since 1998: Q3 2026 gains 37.5% - Quartz,MSFT,Google RSS,positive,0.9237086176872253
+2026-10-06 22:55:00,"As Microsoft Adapted To AI Megatrend, Sales, Profits Surged. MSFT Leads 9 Joining IBD Best Stock Lists - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-10-05 14:27:00,"Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",MSFT,Bing RSS,neutral,0.0
+2026-10-07 07:45:00,"3 Tech Stocks to Buy in October, Starting With Microsoft",MSFT,Bing RSS,neutral,0.0
+2026-10-07 23:36:57,Robot data startup Mecka AI nabs $60M from Sequoia,MSFT,Yahoo RSS,positive,0.740766167640686
+2026-10-07 14:06:10,"S&P 500 Stocks With +100% Revenue Growth: Top 7 - NVIDIA (NASDAQ:NVDA), Micron Technology (NASDAQ:MU) - Benzinga",NVDA,Google RSS,neutral,0.0
+2026-10-07 15:19:00,Dow Jones AI Giant Nvidia Stock Hits New High And Fresh Buy Point - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
+2026-10-06 21:58:22,Nvidia stock flashes massive signal as Wall Street leans in - TheStreet,NVDA,Google RSS,positive,0.7660070657730103
+2026-10-06 04:24:00,Why Nvidia stock hit another record high on Tuesday,NVDA,Bing RSS,positive,0.8279045820236206
+2026-10-07 23:36:57,Robot data startup Mecka AI nabs $60M from Sequoia,NVDA,Yahoo RSS,positive,0.740766167640686
+2026-10-07 22:50:51,"S&P 500 And Nasdaq 100 Slip From Record Highs Amid Pressure From Soaring Treasury Yields — SPCX, AMD, NVDA, MRVL In Focus",NVDA,Yahoo RSS,negative,-0.9544215798377991
+2026-10-07 23:51:27,"Samsung Q3 profit surges to record high, but misses lofty expectations",NVDA,Yahoo RSS,positive,0.9157735109329224
+2026-10-02 13:03:51,Tesla stock jumps 5% on better-than-expected vehicle deliveries report - CNBC,TSLA,Google RSS,positive,0.916980504989624
+2026-10-06 11:07:28,Goldman Sachs reiterates Tesla stock rating ahead of earnings - Investing.com,TSLA,Google RSS,neutral,0.0
+2026-10-06 18:20:00,"How Meta’s stock can surge to $1,000, according to the biggest bull on Wall Street - MarketWatch",META,Google RSS,neutral,0.0
+2026-10-07 13:32:53,Meta Joins Industry Alliance to Launch Personal AI Agent Standard - TIKR.com,META,Google RSS,neutral,0.0
+2026-10-07 15:19:00,Dow Jones AI Giant Nvidia Stock Hits New High And Fresh Buy Point - Investor's Business Daily,META,Google RSS,neutral,0.0
+2026-10-01 11:55:20,"Meta stock posted its best month since 2022, rising 27% in September - Quartz",META,Google RSS,positive,0.9502244591712952
+2026-10-02 23:27:00,Meta Platforms Stock Rose 25% in September. Is It Still a Buy in October?,META,Bing RSS,neutral,0.0
+2026-10-06 18:15:00,3 of the Best Growth Stocks to Buy in October 2026 - The Motley Fool,NFLX,Google RSS,neutral,0.0
+2026-10-07 14:04:05,Netflix stock enters a key earnings phase as growth slows - AD HOC NEWS,NFLX,Google RSS,neutral,0.0
+2026-10-06 17:35:01,3 of the Best Growth Stocks to Buy in October 2026,NFLX,Yahoo RSS,neutral,0.0
