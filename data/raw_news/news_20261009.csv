@@ -1,0 +1,27 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-10-08 18:20:36,Why Retirees Ditching Bonds for SPYI Are Missing the Real Reason to Own Bonds,AAPL,Yahoo RSS,neutral,0.0
+2026-10-08 14:47:00,"With Q2 Sales Growth of 82% and a Backlog of $514 Billion, Is Cloud Now a Bigger Growth Engine for Sundar Pichai's Alphabet Than Google's Search Business? - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-10-07 12:10:44,Alphabet Inc. - GOOGL 6 1/4 05/15/29 (NASDAQ:GOOGN): Strong Growth and a High-Quality Technical Setup - ChartMill,GOOGL,Google RSS,positive,0.9184448719024658
+2026-10-07 09:11:11,Alphabet Inc - GOOGL 6 1/4 05/15/29 (NASDAQ:GOOGM) Combines Strong Growth With a Quality Technical Setup - ChartMill,GOOGL,Google RSS,positive,0.8910849690437317
+2026-10-08 12:58:40,TD Cowen raises Alphabet stock price target on cloud growth expectations - Investing.com Canada,GOOGL,Google RSS,neutral,0.0
+2026-10-08 12:34:19,Alphabet Stocks Drop Although TPU Sales Escape Google's Cloud - GuruFocus,GOOGL,Google RSS,negative,-0.9679279923439026
+2026-10-07 15:35:01,"Unity Software Stock Is Falling Wednesday: What's Going On? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:G - Benzinga",GOOGL,Google RSS,negative,-0.954982340335846
+2026-10-06 22:39:37,Amazon (NASDAQ:AMZN) Stock Could Surge 50% as Tigress Raises Price Target to US$385 on AI Growth - Stocks Down Under,AMZN,Google RSS,positive,0.7245180010795593
+2026-10-08 13:00:00,Amazon Stock Has Another Growth Story Investors May Be Missing - 24/7 Wall St.,AMZN,Google RSS,neutral,0.0
+2026-10-08 17:46:51,Amazon's stock lags S&P 500 despite strong AWS growth and potential $2T Anthropic IPO unlocking $400B assets. - Pluang,AMZN,Google RSS,negative,-0.8505269885063171
+2026-10-05 14:24:35,TD Cowen reiterates Amazon stock Buy rating on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-10-06 17:36:09,"Amazon stock expected to rally 27%+ in 12 months despite recent dip, driven by AI and holiday momentum - Pluang",AMZN,Google RSS,positive,0.9444117546081543
+2026-10-08 06:59:00,Amazon Stock Has Another Growth Story Investors May Be Missing,AMZN,Bing RSS,neutral,0.0
+2026-10-05 21:27:00,"Microsoft’s blazing stock comeback isn’t even close to being over, analyst says - MarketWatch",MSFT,Google RSS,neutral,0.0
+2026-10-07 14:45:00,"3 Tech Stocks to Buy in October, Starting With Microsoft - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-10-08 13:00:00,Amazon Stock Has Another Growth Story Investors May Be Missing - 24/7 Wall St.,MSFT,Google RSS,neutral,0.0
+2026-10-08 18:14:00,"Microsoft stock MSFT today: Wells Fargo raises price target to $725 on AI strength, Azure reporting changes, and year-end catalysts",MSFT,Bing RSS,positive,0.9282421469688416
+2026-10-06 21:58:22,Nvidia stock flashes massive signal as Wall Street leans in - TheStreet,NVDA,Google RSS,positive,0.7660066485404968
+2026-10-07 15:19:00,Dow Jones AI Giant Nvidia Stock Hits New High And Fresh Buy Point - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
+2026-10-08 07:31:19,NVIDIA Corporation $NVDA Stock Bought by GQG Partners LLC - MarketBeat,NVDA,Google RSS,neutral,0.0
+2026-10-07 09:19:00,Dow Jones AI Giant Nvidia Stock Hits New High And Fresh Buy Point,NVDA,Bing RSS,positive,0.7478301525115967
+2026-10-02 13:03:51,Tesla stock jumps 5% on better-than-expected vehicle deliveries report - CNBC,TSLA,Google RSS,positive,0.9169806838035583
+2026-10-06 11:07:28,Goldman Sachs reiterates Tesla stock rating ahead of earnings - Investing.com,TSLA,Google RSS,neutral,0.0
+2026-10-06 18:20:00,"How Meta’s stock can surge to $1,000, according to the biggest bull on Wall Street - MarketWatch",META,Google RSS,neutral,0.0
+2026-10-07 13:32:53,Meta Joins Industry Alliance to Launch Personal AI Agent Standard - TIKR.com,META,Google RSS,neutral,0.0
+2026-10-06 18:15:00,3 of the Best Growth Stocks to Buy in October 2026 - The Motley Fool,NFLX,Google RSS,neutral,0.0
