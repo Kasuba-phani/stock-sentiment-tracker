@@ -27,9 +27,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-06 18:15:00,3 of the Best Growth Stocks to Buy in October 2026 - The Motley Fool,NFLX,Google RSS,neutral,0.0
 2026-10-09 07:38:00,"Stock Market Today: Dow, S&P 500 and Nasdaq set to climb after selloff in chip stocks on OpenAI revenue concerns; Apple stock falls on report of cut in iPhone orders - MarketWatch",AAPL,Google RSS,negative,-0.961254358291626
 2026-10-09 06:22:05,Apple cuts iPhone18 Pro component orders amid sluggish demand- Nikkei - Investing.com,AAPL,Google RSS,negative,-0.9590484499931335
-2026-10-09 06:13:26,"Apple cuts iPhone 18 Pro orders due to soft demand, Nikkei Asia reports By Reuters - Investing.com",AAPL,Google RSS,negative,-0.9598138332366943
+2026-10-09 06:13:26,"Apple cuts iPhone 18 Pro orders due to soft demand, Nikkei Asia reports By Reuters - Investing.com",AAPL,Google RSS,negative,-0.9598138332366944
 2026-10-09 01:08:44,"Is iPhone 18 Pro demand slowing? Apple reportedly cuts October component orders, stock slips premarket",AAPL,Bing RSS,negative,-0.9572462439537048
 2026-10-09 06:51:18,Apple cuts iPhone18 Pro component orders amid sluggish demand- Nikkei,AAPL,Yahoo RSS,negative,-0.9636585116386414
 2026-10-06 18:15:00,3 of the Best Growth Stocks to Buy in October 2026 - The Motley Fool,AMZN,Google RSS,neutral,0.0
 2026-10-09 07:37:15,NVIDIA Corporation $NVDA Stock Position Increased by Infrastructure Capital Advisors LLC - MarketBeat,NVDA,Google RSS,positive,0.9271294474601746
 2026-10-09 08:25:55,"Asian stocks mostly up as traders weigh AI, oil dips after surge",NVDA,Yahoo RSS,positive,0.5489040613174438
+2026-10-09 11:58:58,"Apple reportedly cuts iPhone18 Pro component orders amid soft demand, shares dip - Investing.com",AAPL,Google RSS,negative,-0.9671269655227661
+2026-10-09 10:04:00,Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders. - MarketWatch,AAPL,Google RSS,negative,-0.9615734219551086
+2026-10-09 12:07:00,"Dow Jones Futures: AI Stocks Rebound From OpenAI Slide; SpaceX, Verizon, Delta, Apple Early Movers - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-10-09 06:26:55,Apple stock falls on report that company is cutting component orders on soft iPhone 18 Pro demand,AAPL,Bing RSS,negative,-0.9690886735916138
+2026-10-09 14:23:19,Microsoft sets fiscal first-quarter results. Microsoft stock gains 1.49 percent. - AD HOC NEWS,MSFT,Google RSS,neutral,0.0
