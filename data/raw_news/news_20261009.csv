@@ -10,7 +10,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-08 13:00:00,Amazon Stock Has Another Growth Story Investors May Be Missing - 24/7 Wall St.,AMZN,Google RSS,neutral,0.0
 2026-10-08 17:46:51,Amazon's stock lags S&P 500 despite strong AWS growth and potential $2T Anthropic IPO unlocking $400B assets. - Pluang,AMZN,Google RSS,negative,-0.8505269885063171
 2026-10-05 14:24:35,TD Cowen reiterates Amazon stock Buy rating on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
-2026-10-06 17:36:09,"Amazon stock expected to rally 27%+ in 12 months despite recent dip, driven by AI and holiday momentum - Pluang",AMZN,Google RSS,positive,0.9444117546081543
+2026-10-06 17:36:09,"Amazon stock expected to rally 27%+ in 12 months despite recent dip, driven by AI and holiday momentum - Pluang",AMZN,Google RSS,positive,0.9444117546081544
 2026-10-08 06:59:00,Amazon Stock Has Another Growth Story Investors May Be Missing,AMZN,Bing RSS,neutral,0.0
 2026-10-05 21:27:00,"Microsoft’s blazing stock comeback isn’t even close to being over, analyst says - MarketWatch",MSFT,Google RSS,neutral,0.0
 2026-10-07 14:45:00,"3 Tech Stocks to Buy in October, Starting With Microsoft - The Motley Fool",MSFT,Google RSS,neutral,0.0
@@ -25,3 +25,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-06 18:20:00,"How Meta’s stock can surge to $1,000, according to the biggest bull on Wall Street - MarketWatch",META,Google RSS,neutral,0.0
 2026-10-07 13:32:53,Meta Joins Industry Alliance to Launch Personal AI Agent Standard - TIKR.com,META,Google RSS,neutral,0.0
 2026-10-06 18:15:00,3 of the Best Growth Stocks to Buy in October 2026 - The Motley Fool,NFLX,Google RSS,neutral,0.0
+2026-10-09 07:38:00,"Stock Market Today: Dow, S&P 500 and Nasdaq set to climb after selloff in chip stocks on OpenAI revenue concerns; Apple stock falls on report of cut in iPhone orders - MarketWatch",AAPL,Google RSS,negative,-0.961254358291626
+2026-10-09 06:22:05,Apple cuts iPhone18 Pro component orders amid sluggish demand- Nikkei - Investing.com,AAPL,Google RSS,negative,-0.9590484499931335
+2026-10-09 06:13:26,"Apple cuts iPhone 18 Pro orders due to soft demand, Nikkei Asia reports By Reuters - Investing.com",AAPL,Google RSS,negative,-0.9598138332366943
+2026-10-09 01:08:44,"Is iPhone 18 Pro demand slowing? Apple reportedly cuts October component orders, stock slips premarket",AAPL,Bing RSS,negative,-0.9572462439537048
+2026-10-09 06:51:18,Apple cuts iPhone18 Pro component orders amid sluggish demand- Nikkei,AAPL,Yahoo RSS,negative,-0.9636585116386414
+2026-10-06 18:15:00,3 of the Best Growth Stocks to Buy in October 2026 - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-10-09 07:37:15,NVIDIA Corporation $NVDA Stock Position Increased by Infrastructure Capital Advisors LLC - MarketBeat,NVDA,Google RSS,positive,0.9271294474601746
+2026-10-09 08:25:55,"Asian stocks mostly up as traders weigh AI, oil dips after surge",NVDA,Yahoo RSS,positive,0.5489040613174438
