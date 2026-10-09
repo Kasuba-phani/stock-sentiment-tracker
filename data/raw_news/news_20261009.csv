@@ -33,8 +33,27 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-06 18:15:00,3 of the Best Growth Stocks to Buy in October 2026 - The Motley Fool,AMZN,Google RSS,neutral,0.0
 2026-10-09 07:37:15,NVIDIA Corporation $NVDA Stock Position Increased by Infrastructure Capital Advisors LLC - MarketBeat,NVDA,Google RSS,positive,0.9271294474601746
 2026-10-09 08:25:55,"Asian stocks mostly up as traders weigh AI, oil dips after surge",NVDA,Yahoo RSS,positive,0.5489040613174438
-2026-10-09 11:58:58,"Apple reportedly cuts iPhone18 Pro component orders amid soft demand, shares dip - Investing.com",AAPL,Google RSS,negative,-0.9671269655227661
+2026-10-09 11:58:58,"Apple reportedly cuts iPhone18 Pro component orders amid soft demand, shares dip - Investing.com",AAPL,Google RSS,negative,-0.967126965522766
 2026-10-09 10:04:00,Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders. - MarketWatch,AAPL,Google RSS,negative,-0.9615734219551086
 2026-10-09 12:07:00,"Dow Jones Futures: AI Stocks Rebound From OpenAI Slide; SpaceX, Verizon, Delta, Apple Early Movers - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
 2026-10-09 06:26:55,Apple stock falls on report that company is cutting component orders on soft iPhone 18 Pro demand,AAPL,Bing RSS,negative,-0.9690886735916138
 2026-10-09 14:23:19,Microsoft sets fiscal first-quarter results. Microsoft stock gains 1.49 percent. - AD HOC NEWS,MSFT,Google RSS,neutral,0.0
+2026-10-09 17:31:27,Apple is cutting iPhone 18 Pro component orders amid soft demand - Quartz,AAPL,Google RSS,negative,-0.973340630531311
+2026-10-09 16:35:19,Why Is Apple (NASDAQ:AAPL) Stock Falling Today? Reported iPhone 18 Pro Order Cuts Raise Demand Fears - Stocks Down Under,AAPL,Google RSS,negative,-0.968438982963562
+2026-10-09 11:58:58,"Apple reportedly cuts iPhone18 Pro component orders amid soft demand, shares fall - Investing.com",AAPL,Google RSS,negative,-0.9629741907119751
+2026-10-09 05:46:58,Apple stock falls on reports it cut iPhone 18 Pro component orders by 15% to 20%,AAPL,Bing RSS,negative,-0.9673192501068115
+2026-10-09 10:29:00,Apple cuts iPhone 18 Pro component orders amid soft demand,AAPL,Bing RSS,negative,-0.9688010215759277
+2026-10-09 19:51:09,Sector Update: Consumer Stocks Rise Late Afternoon,AAPL,Yahoo RSS,positive,0.7561116814613342
+2026-10-09 16:44:48,"Stock Market Midday, Oct. 9: Stocks Edge Higher, Humana jumps 13%",AAPL,Yahoo RSS,positive,0.9349128007888794
+2026-10-09 19:05:08,"This Week On Wall Street: 24-Year High Yields, Telecom Rout - Alphabet (NASDAQ:GOOGL), T-Mobile US (NASDA - Benzinga",GOOGL,Google RSS,neutral,0.0
+2026-10-09 19:51:09,Sector Update: Consumer Stocks Rise Late Afternoon,GOOGL,Yahoo RSS,positive,0.7561116814613342
+2026-10-09 17:16:19,"How Investors May Respond To Berkshire Hathaway (BRK.A) Leadership Shift, Index Tilt, and Regulatory Scrutiny",GOOGL,Yahoo RSS,neutral,0.0
+2026-10-09 19:51:09,Sector Update: Consumer Stocks Rise Late Afternoon,AMZN,Yahoo RSS,positive,0.7561116814613342
+2026-10-09 18:06:00,Microsoft is nearing a big milestone that solidifies its revival - MarketWatch,MSFT,Google RSS,positive,0.8961647748947144
+2026-10-09 08:35:00,"Microsoft Stock Climbs 2.3% to $534 as Investors Bet Big on AI, Pushing Shares Closer to 52-Week High",MSFT,Bing RSS,positive,0.929977297782898
+2026-10-09 19:41:15,Update: Mega-Cap Technology Helps Lift US Equity Indexes Higher,MSFT,Yahoo RSS,positive,0.9479405879974365
+2026-10-09 20:44:00,Stocks Trend Higher With Big Earnings Due - Investor's Business Daily,NVDA,Google RSS,positive,0.6158936619758606
+2026-10-09 19:57:46,Nio Stock Slumped 18.9% in September Despite a Big Geely Deal. Should You Buy the Dip?,NVDA,Yahoo RSS,negative,-0.9401766657829285
+2026-10-09 14:22:11,Tesla’s China-made EV sales rise as Europe recovery continues (TSLA:NASDAQ) - Seeking Alpha,TSLA,Google RSS,positive,0.9452967643737793
+2026-10-09 19:51:09,Sector Update: Consumer Stocks Rise Late Afternoon,TSLA,Yahoo RSS,positive,0.7561116814613342
+2026-10-09 18:06:00,Microsoft is nearing a big milestone that solidifies its revival,MSFT,MarketWatch Top,positive,0.8315147161483765
