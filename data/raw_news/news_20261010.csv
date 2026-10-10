@@ -51,3 +51,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-10 14:15:00,"Microsoft Stock Has Grown Roughly 15-Fold Since Satya Nadella Became CEO in 2014, a 27% Annual Growth Rate That Ended 14 Years of Near-Zero Growth. Can That Pace Continue Under Heavy AI Spending?",MSFT,Yahoo RSS,positive,0.6512759923934937
 2026-10-09 22:54:00,"Nvidia, Gold Miners Among 15 Stocks Making It Onto IBD Best Stock Lists - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
 2026-10-10 16:05:00,Expectations of Another Fed Rate Hike This Month Are Shifting Dramatically,NVDA,Yahoo RSS,negative,-0.668978750705719
+2026-10-06 20:12:48,Nvidia (NASDAQ:NVDA) Stock Hits Record High as Market Cap Nears US$6 Trillion - Stocks Down Under,NVDA,Google RSS,negative,-0.9557991027832031
+2026-10-10 18:00:15,"Tesla China-Made EV Sales Rise 5% in September, Extending Growth Streak To 11 Months Despite Global Sales Slump",TSLA,Yahoo RSS,positive,0.951442539691925
