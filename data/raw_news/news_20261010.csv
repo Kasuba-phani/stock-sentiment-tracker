@@ -1,0 +1,42 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-10-07 21:54:00,"Stocks Sharply Off Lows As Treasury Yields Slash Gains; Apple, Micron Eye Buy Points - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-10-09 21:30:00,Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders. - MarketWatch,AAPL,Google RSS,negative,-0.9615734219551086
+2026-10-09 17:31:27,Apple is cutting iPhone 18 Pro component orders amid soft demand - Quartz,AAPL,Google RSS,negative,-0.973340630531311
+2026-10-09 16:36:11,Why Is Apple (NASDAQ:AAPL) Stock Falling Today? Reported iPhone 18 Pro Order Cuts Raise Demand Fears - Stocks Down Under,AAPL,Google RSS,negative,-0.968438982963562
+2026-10-09 12:07:00,"Dow Jones Futures: AI Stocks Rebound From OpenAI Slide; SpaceX, Verizon, Delta, Apple Early Movers - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-10-09 11:58:58,"Apple reportedly cuts iPhone18 Pro component orders amid soft demand, shares fall - Investing.com",AAPL,Google RSS,negative,-0.9629741907119751
+2026-10-09 21:38:48,Apple’s App Store Growth Improved in September. What UBS Sees Coming in October Is Harder,AAPL,Yahoo RSS,positive,0.5653331875801086
+2026-10-09 19:51:09,Sector Update: Consumer Stocks Rise Late Afternoon,AAPL,Yahoo RSS,positive,0.7561116814613342
+2026-10-07 09:11:11,Alphabet Inc - GOOGL 6 1/4 05/15/29 (NASDAQ:GOOGM) Combines Strong Growth With a Quality Technical Setup - ChartMill,GOOGL,Google RSS,positive,0.8910849690437317
+2026-10-07 12:10:44,Alphabet Inc. - GOOGL 6 1/4 05/15/29 (NASDAQ:GOOGN): Strong Growth and a High-Quality Technical Setup - ChartMill,GOOGL,Google RSS,positive,0.9184448719024658
+2026-10-09 19:05:08,"This Week On Wall Street: 24-Year High Yields, Telecom Rout - Alphabet (NASDAQ:GOOGL), T-Mobile US (NASDA - Benzinga",GOOGL,Google RSS,neutral,0.0
+2026-10-07 15:35:01,"Unity Software Stock Is Falling Wednesday: What's Going On? - Alphabet (NASDAQ:GOOGL), Alphabet (NASDAQ:G - Benzinga",GOOGL,Google RSS,negative,-0.954982340335846
+2026-10-09 21:04:15,Are markets still overconcentrated in tech heading into earnings season?,GOOGL,Yahoo RSS,negative,-0.6895621418952942
+2026-10-09 19:51:09,Sector Update: Consumer Stocks Rise Late Afternoon,GOOGL,Yahoo RSS,positive,0.7561116814613342
+2026-10-09 17:16:19,"How Investors May Respond To Berkshire Hathaway (BRK.A) Leadership Shift, Index Tilt, and Regulatory Scrutiny",GOOGL,Yahoo RSS,neutral,0.0
+2026-10-06 22:39:37,Amazon (NASDAQ:AMZN) Stock Could Surge 50% as Tigress Raises Price Target to US$385 on AI Growth - Stocks Down Under,AMZN,Google RSS,positive,0.7245180010795593
+2026-10-05 14:24:35,TD Cowen reiterates Amazon stock Buy rating on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-10-08 13:00:00,Amazon Stock Has Another Growth Story Investors May Be Missing - 24/7 Wall St.,AMZN,Google RSS,neutral,0.0
+2026-10-08 17:46:51,Amazon's stock lags S&P 500 despite strong AWS growth and potential $2T Anthropic IPO unlocking $400B assets. - Pluang,AMZN,Google RSS,negative,-0.8505269885063171
+2026-10-08 06:59:00,Amazon Stock Has Another Growth Story Investors May Be Missing,AMZN,Bing RSS,neutral,0.0
+2026-10-09 19:51:09,Sector Update: Consumer Stocks Rise Late Afternoon,AMZN,Yahoo RSS,positive,0.7561116814613342
+2026-10-07 14:45:00,"3 Tech Stocks to Buy in October, Starting With Microsoft - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-10-08 13:00:00,Amazon Stock Has Another Growth Story Investors May Be Missing - 24/7 Wall St.,MSFT,Google RSS,neutral,0.0
+2026-10-09 08:35:00,"Microsoft Stock Climbs 2.3% to $534 as Investors Bet Big on AI, Pushing Shares Closer to 52-Week High",MSFT,Bing RSS,positive,0.929977297782898
+2026-10-08 20:49:00,"Microsoft stock MSFT today: Wells Fargo raises price target to $725 on AI strength, Azure reporting changes, and year-end catalysts",MSFT,Bing RSS,positive,0.9282421469688416
+2026-10-09 22:53:11,"S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season — MSFT, NFLX, SPCX, ASTS In Focus",MSFT,Yahoo RSS,positive,0.7907627820968628
+2026-10-09 19:41:15,Update: Mega-Cap Technology Helps Lift US Equity Indexes Higher,MSFT,Yahoo RSS,positive,0.9479405879974365
+2026-10-08 14:05:00,Intel Slides 3% as Chip Stocks Sell Off With Yields and Oil Higher; NVIDIA and AMD Slip - 24/7 Wall St.,NVDA,Google RSS,negative,-0.9681392312049866
+2026-10-06 21:58:22,Nvidia stock flashes massive signal as Wall Street leans in - TheStreet,NVDA,Google RSS,positive,0.7660066485404968
+2026-10-07 15:19:00,Dow Jones AI Giant Nvidia Stock Hits New High And Fresh Buy Point - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
+2026-10-03 15:06:10,"How Nvidia, Micron and a surprising jobs report drove last week's stock action - CNBC",NVDA,Google RSS,neutral,0.0
+2026-10-09 21:04:15,Are markets still overconcentrated in tech heading into earnings season?,NVDA,Yahoo RSS,negative,-0.6895621418952942
+2026-10-09 14:22:11,Tesla’s China-made EV sales rise as Europe recovery continues (TSLA:NASDAQ) - Seeking Alpha,TSLA,Google RSS,positive,0.9452967643737793
+2026-10-09 20:52:00,Weekly Wrap: Rising Treasury Yields Sink Bitcoin,TSLA,Yahoo RSS,neutral,0.0
+2026-10-09 19:51:09,Sector Update: Consumer Stocks Rise Late Afternoon,TSLA,Yahoo RSS,positive,0.7561116814613342
+2026-10-06 18:20:00,"How Meta’s stock can surge to $1,000, according to the biggest bull on Wall Street - MarketWatch",META,Google RSS,neutral,0.0
+2026-10-07 13:32:53,Meta Joins Industry Alliance to Launch Personal AI Agent Standard - TIKR.com,META,Google RSS,neutral,0.0
+2026-10-06 18:15:00,3 of the Best Growth Stocks to Buy in October 2026 - The Motley Fool,NFLX,Google RSS,neutral,0.0
+2026-10-09 22:53:11,"S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season — MSFT, NFLX, SPCX, ASTS In Focus",NFLX,Yahoo RSS,positive,0.7907627820968628
+2026-10-09 21:30:00,Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.,AAPL,MarketWatch Top,negative,-0.9671836495399475
+2026-10-09 21:24:00,Microsoft is nearing a big milestone that solidifies its revival,MSFT,MarketWatch Top,positive,0.8315147161483765
