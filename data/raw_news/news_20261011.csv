@@ -32,9 +32,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-07 13:32:53,Meta Joins Industry Alliance to Launch Personal AI Agent Standard - TIKR.com,META,Google RSS,neutral,0.0
 2026-10-06 18:15:00,3 of the Best Growth Stocks to Buy in October 2026 - The Motley Fool,NFLX,Google RSS,neutral,0.0
 2026-10-09 22:53:11,"S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season — MSFT, NFLX, SPCX, ASTS In Focus",NFLX,Yahoo RSS,positive,0.7907627820968628
-2026-10-09 11:58:58,"Apple reportedly cuts iPhone18 Pro component orders amid soft demand, shares fall - Investing.com",AAPL,Google RSS,negative,-0.9629741907119751
+2026-10-09 11:58:58,"Apple reportedly cuts iPhone18 Pro component orders amid soft demand, shares fall - Investing.com",AAPL,Google RSS,negative,-0.9629741907119752
 2026-10-09 12:07:00,"Dow Jones Futures: AI Stocks Rebound From OpenAI Slide; SpaceX, Verizon, Delta, Apple Early Movers - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
 2026-10-09 06:26:55,Apple stock falls on report that company is cutting component orders on soft iPhone 18 Pro demand,AAPL,Bing RSS,negative,-0.9690886735916138
 2026-10-10 14:55:00,"Microsoft Stock Has Grown Roughly 15-Fold Since Satya Nadella Became CEO in 2014, a 27% Annual Growth Rate That Ended 14 Years of Near-Zero Growth. Can That Pace Continue Under Heavy AI Spending? - The Motley Fool",MSFT,Google RSS,neutral,0.0
 2026-10-11 05:10:51,Top Quality Stocks For October 2026,NVDA,Yahoo RSS,neutral,0.0
 2026-10-11 07:47:33,"Meta Platforms, Inc. $META Stock: Capital Advisors Wealth Management LLC Lowers Stake - MarketBeat",META,Google RSS,negative,-0.6085774898529053
+2026-10-11 13:18:00,S&P 500 Earnings Expected to Rise 31% in Q3 as AI-Related Companies Lead Growth,GOOGL,Yahoo RSS,positive,0.9491209387779236
+2026-10-11 13:03:27,Why ’Net Stocks’ are down sharply this year despite Nasdaq’s gains,GOOGL,Yahoo RSS,negative,-0.9344658851623535
+2026-10-11 13:18:00,S&P 500 Earnings Expected to Rise 31% in Q3 as AI-Related Companies Lead Growth,AMZN,Yahoo RSS,positive,0.9491209387779236
+2026-10-11 13:03:27,Why ’Net Stocks’ are down sharply this year despite Nasdaq’s gains,AMZN,Yahoo RSS,negative,-0.9344658851623535
+2026-10-05 19:24:57,Melius Research upgrades Microsoft stock to Buy with a $665 price target - Quartz,MSFT,Google RSS,positive,0.8307636976242065
+2026-10-11 13:18:00,S&P 500 Earnings Expected to Rise 31% in Q3 as AI-Related Companies Lead Growth,META,Yahoo RSS,positive,0.9491209387779236
