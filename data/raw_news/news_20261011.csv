@@ -2,7 +2,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-09 17:31:27,Apple is cutting iPhone 18 Pro component orders amid soft demand - Quartz,AAPL,Google RSS,negative,-0.973340630531311
 2026-10-09 16:36:13,Why Is Apple (NASDAQ:AAPL) Stock Falling Today? Reported iPhone 18 Pro Order Cuts Raise Demand Fears - Stocks Down Under,AAPL,Google RSS,negative,-0.968438982963562
 2026-10-09 21:30:00,Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders. - MarketWatch,AAPL,Google RSS,negative,-0.9615734219551086
-2026-10-09 05:46:58,Apple stock falls on reports it cut iPhone 18 Pro component orders by 15% to 20%,AAPL,Bing RSS,negative,-0.9673192501068115
+2026-10-09 05:46:58,Apple stock falls on reports it cut iPhone 18 Pro component orders by 15% to 20%,AAPL,Bing RSS,negative,-0.9673192501068116
 2026-10-10 14:38:48,Apple’s App Store Growth Improved in September. What UBS Sees Coming in October Is Harder,AAPL,Yahoo RSS,positive,0.5653331875801086
 2026-10-07 09:11:11,Alphabet Inc - GOOGL 6 1/4 05/15/29 (NASDAQ:GOOGM) Combines Strong Growth With a Quality Technical Setup - ChartMill,GOOGL,Google RSS,positive,0.8910849690437317
 2026-10-07 12:10:44,Alphabet Inc. - GOOGL 6 1/4 05/15/29 (NASDAQ:GOOGN): Strong Growth and a High-Quality Technical Setup - ChartMill,GOOGL,Google RSS,positive,0.9184448719024658
@@ -24,7 +24,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-09 22:54:00,"Nvidia, Gold Miners Among 15 Stocks Making It Onto IBD Best Stock Lists - Investor's Business Daily",NVDA,Google RSS,neutral,0.0
 2026-10-07 15:19:00,Dow Jones AI Giant Nvidia Stock Hits New High And Fresh Buy Point - Investor's Business Daily,NVDA,Google RSS,neutral,0.0
 2026-10-06 21:58:22,Nvidia stock flashes massive signal as Wall Street leans in - TheStreet,NVDA,Google RSS,positive,0.7660066485404968
-2026-10-09 14:22:11,Tesla’s China-made EV sales rise as Europe recovery continues (TSLA:NASDAQ) - Seeking Alpha,TSLA,Google RSS,positive,0.9452967643737793
+2026-10-09 14:22:11,Tesla’s China-made EV sales rise as Europe recovery continues (TSLA:NASDAQ) - Seeking Alpha,TSLA,Google RSS,positive,0.9452967643737792
 2026-10-10 18:00:15,"Tesla China-Made EV Sales Rise 5% in September, Extending Growth Streak To 11 Months Despite Global Sales Slump",TSLA,Yahoo RSS,positive,0.951442539691925
 2026-10-09 20:52:00,Weekly Wrap: Rising Treasury Yields Sink Bitcoin,TSLA,Yahoo RSS,neutral,0.0
 2026-10-09 19:51:09,Sector Update: Consumer Stocks Rise Late Afternoon,TSLA,Yahoo RSS,positive,0.7561116814613342
@@ -32,3 +32,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-07 13:32:53,Meta Joins Industry Alliance to Launch Personal AI Agent Standard - TIKR.com,META,Google RSS,neutral,0.0
 2026-10-06 18:15:00,3 of the Best Growth Stocks to Buy in October 2026 - The Motley Fool,NFLX,Google RSS,neutral,0.0
 2026-10-09 22:53:11,"S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season — MSFT, NFLX, SPCX, ASTS In Focus",NFLX,Yahoo RSS,positive,0.7907627820968628
+2026-10-09 11:58:58,"Apple reportedly cuts iPhone18 Pro component orders amid soft demand, shares fall - Investing.com",AAPL,Google RSS,negative,-0.9629741907119751
+2026-10-09 12:07:00,"Dow Jones Futures: AI Stocks Rebound From OpenAI Slide; SpaceX, Verizon, Delta, Apple Early Movers - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-10-09 06:26:55,Apple stock falls on report that company is cutting component orders on soft iPhone 18 Pro demand,AAPL,Bing RSS,negative,-0.9690886735916138
+2026-10-10 14:55:00,"Microsoft Stock Has Grown Roughly 15-Fold Since Satya Nadella Became CEO in 2014, a 27% Annual Growth Rate That Ended 14 Years of Near-Zero Growth. Can That Pace Continue Under Heavy AI Spending? - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-10-11 05:10:51,Top Quality Stocks For October 2026,NVDA,Yahoo RSS,neutral,0.0
+2026-10-11 07:47:33,"Meta Platforms, Inc. $META Stock: Capital Advisors Wealth Management LLC Lowers Stake - MarketBeat",META,Google RSS,negative,-0.6085774898529053
