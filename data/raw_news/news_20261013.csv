@@ -39,5 +39,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-13 07:42:45,NVIDIA Corporation $NVDA Stock: Perennial Investment Advisors LLC Increases Stake - MarketBeat,NVDA,Google RSS,positive,0.8337445855140686
 2026-10-13 07:42:44,NVIDIA Corporation $NVDA Stock: Transamerica Financial Advisors LLC Increases Stake - MarketBeat,NVDA,Google RSS,positive,0.7687090039253235
 2026-10-13 12:51:00,Investors Are Split on AI Bubble Risks but Still Piling In to the Stocks,META,Yahoo RSS,negative,-0.5456032156944275
-2026-10-12 05:16:00,"Netflix layoffs loom as stock performance struggles, growth slows, and investors cool in 2026: reports",NFLX,Bing RSS,negative,-0.9518900513648987
+2026-10-12 05:16:00,"Netflix layoffs loom as stock performance struggles, growth slows, and investors cool in 2026: reports",NFLX,Bing RSS,negative,-0.9518900513648988
 2026-10-13 14:11:10,October 2026s Top Cash Flow Stocks To Own,NFLX,Yahoo RSS,neutral,0.0
+2026-10-13 16:25:50,"Stocks making the biggest moves midday: Apple, Meta Platforms, Bumble, Fermi, Goldman Sachs & more - CNBC",AAPL,Google RSS,neutral,0.0
+2026-10-13 19:55:59,Sector Update: Consumer Stocks Mixed Late Afternoon,AMZN,Yahoo RSS,negative,-0.935251772403717
+2026-10-13 17:15:56,Microsoft stock is on pace for its first record close in nearly a year - Quartz,MSFT,Google RSS,positive,0.7518539428710938
+2026-10-13 20:56:11,"Dow Jones Futures: Stock Market Holds Up As Meta, AMD Lead Buys; ASML, CPI Inflation Due",MSFT,Yahoo RSS,positive,0.9155699014663696
+2026-10-13 04:53:00,2X Nvidia ETFs Underperform Despite Stock's 34.8% Gain,NVDA,Bing RSS,negative,-0.9478368163108826
+2026-10-12 20:38:41,Meta to Announce Third Quarter 2026 Results - Meta Investor Relations,META,Google RSS,neutral,0.0
+2026-10-13 20:34:00,"Dow Jones Futures: Stock Market Holds Up As Meta, AMD Lead Buys; ASML, CPI Inflation Due - Investor's Business Daily",META,Google RSS,positive,0.4720272123813629
+2026-10-13 20:56:11,"Dow Jones Futures: Stock Market Holds Up As Meta, AMD Lead Buys; ASML, CPI Inflation Due",META,Yahoo RSS,positive,0.9155699014663696
