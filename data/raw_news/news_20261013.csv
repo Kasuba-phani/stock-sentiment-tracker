@@ -27,3 +27,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-12 20:40:00,Microsoft hits a big milestone that solidifies its revival,MSFT,MarketWatch Top,positive,0.8686026334762573
 2026-10-10 14:19:12,"Microsoft Stock Has Grown Roughly 15-Fold Since Satya Nadella Became CEO in 2014, a 27% Annual Growth Rate That Ended 14 Years of Near-Zero Growth. Can That Pace Continue Under Heavy AI Spending? - The Globe and Mail",MSFT,Google RSS,positive,0.8634078502655029
 2026-10-12 02:13:00,"SPCX, TSM, APLD, AMZN, TSLA: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week - TradingView",TSLA,Google RSS,neutral,0.0
+2026-10-13 13:34:15,"Apple stock hits all-time high, reaching 345.45 USD - Investing.com",AAPL,Google RSS,neutral,0.0
+2026-10-09 06:26:55,Apple stock falls on report that company is cutting component orders on soft iPhone 18 Pro demand,AAPL,Bing RSS,negative,-0.9690886735916138
+2026-10-13 14:11:10,October 2026s Top Cash Flow Stocks To Own,GOOGL,Yahoo RSS,neutral,0.0
+2026-10-13 12:51:00,Investors Are Split on AI Bubble Risks but Still Piling In to the Stocks,AMZN,Yahoo RSS,negative,-0.5456032156944275
+2026-10-13 14:02:58,"U.S. cloud giants' stocks surge, Microsoft hits new record high - KuCoin",MSFT,Google RSS,positive,0.7842153906822205
+2026-10-13 14:03:07,Microsoft hits all-time high during trading session - 富途牛牛,MSFT,Google RSS,positive,0.8319587111473083
+2026-10-13 04:16:00,Microsoft stock trades near record highs: here's why,MSFT,Bing RSS,neutral,0.0
+2026-10-13 13:55:41,"Bank stocks rise on JPMorgan, Goldman earnings as chip stocks fall: AlphaCheck",MSFT,Yahoo RSS,negative,-0.8572821617126465
+2026-10-13 12:51:00,Investors Are Split on AI Bubble Risks but Still Piling In to the Stocks,MSFT,Yahoo RSS,negative,-0.5456032156944275
+2026-10-13 07:42:45,NVIDIA Corporation $NVDA Stock: Perennial Investment Advisors LLC Increases Stake - MarketBeat,NVDA,Google RSS,positive,0.8337445855140686
+2026-10-13 07:42:44,NVIDIA Corporation $NVDA Stock: Transamerica Financial Advisors LLC Increases Stake - MarketBeat,NVDA,Google RSS,positive,0.7687090039253235
+2026-10-13 12:51:00,Investors Are Split on AI Bubble Risks but Still Piling In to the Stocks,META,Yahoo RSS,negative,-0.5456032156944275
+2026-10-12 05:16:00,"Netflix layoffs loom as stock performance struggles, growth slows, and investors cool in 2026: reports",NFLX,Bing RSS,negative,-0.9518900513648987
+2026-10-13 14:11:10,October 2026s Top Cash Flow Stocks To Own,NFLX,Yahoo RSS,neutral,0.0
