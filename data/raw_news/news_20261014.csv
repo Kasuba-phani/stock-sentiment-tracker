@@ -5,7 +5,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-12 22:07:50,Alphabet stock jumps 79% since July 2025 on Wiz acquisition and AI-driven cloud growth - Pluang,GOOGL,Google RSS,positive,0.8970381021499634
 2026-10-08 13:00:00,Amazon Stock Has Another Growth Story Investors May Be Missing - 24/7 Wall St.,AMZN,Google RSS,neutral,0.0
 2026-10-08 06:59:00,Amazon Stock Has Another Growth Story Investors May Be Missing,AMZN,Bing RSS,neutral,0.0
-2026-10-13 19:55:59,Sector Update: Consumer Stocks Mixed Late Afternoon,AMZN,Yahoo RSS,negative,-0.9352520108222961
+2026-10-13 19:55:59,Sector Update: Consumer Stocks Mixed Late Afternoon,AMZN,Yahoo RSS,negative,-0.935252010822296
 2026-10-13 17:15:56,Microsoft stock is on pace for its first record close in nearly a year - Quartz,MSFT,Google RSS,positive,0.7518540620803833
 2026-10-12 16:30:47,"This Is the Key for Microsoft Stock, Says Top Investor - TipRanks",MSFT,Google RSS,neutral,0.0
 2026-10-12 13:49:09,Wall Street sets Microsoft stock price for the next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
@@ -23,5 +23,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-13 17:35:00,"Dow Jones futures: Stock market holds up as Meta, AMD lead buys; ASML, CPI inflation due",META,Bing RSS,positive,0.9155699014663696
 2026-10-14 00:35:20,"Dow Jones Futures: Stock Market Holds Up As Meta, AMD Lead Buys; ASML, CPI Inflation Due",META,Yahoo RSS,positive,0.9155699014663696
 2026-10-12 00:07:00,Why Goldman Sachs still backs Netflix despite falling viewership - TheStreet,NFLX,Google RSS,negative,-0.8850398659706116
-2026-10-12 05:16:00,"Netflix layoffs loom as stock performance struggles, growth slows, and investors cool in 2026: reports",NFLX,Bing RSS,negative,-0.9518901109695435
+2026-10-12 05:16:00,"Netflix layoffs loom as stock performance struggles, growth slows, and investors cool in 2026: reports",NFLX,Bing RSS,negative,-0.9518901109695436
 2026-10-13 14:11:10,October 2026s Top Cash Flow Stocks To Own,NFLX,Yahoo RSS,neutral,0.0
+2026-10-14 02:19:00,Microsoft hits first record in a year after US$1.4 trillion rally; shares soar 54% from June low - The Business Times,MSFT,Google RSS,positive,0.8629757761955261
+2026-10-14 03:06:01,"Dow Jones Futures: Techs Rise After Meta, AMD Lead Buys; ASML, CPI Inflation Due",MSFT,Yahoo RSS,positive,0.8815765380859375
+2026-10-14 04:29:50,NVIDIA Heads 3 Top Growth Stocks To Watch,NVDA,Yahoo RSS,neutral,0.0
+2026-10-14 03:06:01,"Dow Jones Futures: Techs Rise After Meta, AMD Lead Buys; ASML, CPI Inflation Due",META,Yahoo RSS,positive,0.8815765380859375
