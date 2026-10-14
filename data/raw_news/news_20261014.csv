@@ -29,3 +29,16 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-14 03:06:01,"Dow Jones Futures: Techs Rise After Meta, AMD Lead Buys; ASML, CPI Inflation Due",MSFT,Yahoo RSS,positive,0.8815765380859375
 2026-10-14 04:29:50,NVIDIA Heads 3 Top Growth Stocks To Watch,NVDA,Yahoo RSS,neutral,0.0
 2026-10-14 03:06:01,"Dow Jones Futures: Techs Rise After Meta, AMD Lead Buys; ASML, CPI Inflation Due",META,Yahoo RSS,positive,0.8815765380859375
+2026-10-14 10:28:03,"Jamie Dimon Warns Of Forces That “Continue To Shift Under The Surface,” As Half Of Russell 3000 Stocks Sit In A Bear Market With The S&P 500 Near Records",AAPL,Yahoo RSS,negative,-0.9458431005477905
+2026-10-14 07:20:00,Dow Jones Industrial Average Monitor Update - A Look At 30 U.S. Large-Caps - Seeking Alpha,GOOGL,Google RSS,neutral,0.0
+2026-10-14 13:00:00,"Leverage Shares by Themes to Launch MANGOS ETF (MGOL) on Nasdaq October 14, Providing Exposure to Six Leading Technology and AI Companies",GOOGL,Yahoo RSS,positive,0.498236745595932
+2026-10-14 12:31:30,Wall Street sets Microsoft stock price target for next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
+2026-10-10 07:55:00,"Microsoft Stock Has Grown Roughly 15-Fold Since Satya Nadella Became CEO in 2014, a 27% Annual Growth Rate That Ended 14 Years of Near-Zero Growth. Can That Pace Continue Under ...",MSFT,Bing RSS,positive,0.7458137273788452
+2026-10-14 10:28:03,"Jamie Dimon Warns Of Forces That “Continue To Shift Under The Surface,” As Half Of Russell 3000 Stocks Sit In A Bear Market With The S&P 500 Near Records",MSFT,Yahoo RSS,negative,-0.9458431005477905
+2026-10-14 06:21:00,LSEG taps Nvidia for faster historical market data processing - Reuters,NVDA,Google RSS,positive,0.8312538862228394
+2026-10-14 13:00:00,"Leverage Shares by Themes to Launch MANGOS ETF (MGOL) on Nasdaq October 14, Providing Exposure to Six Leading Technology and AI Companies",NVDA,Yahoo RSS,positive,0.498236745595932
+2026-10-14 08:51:40,"Dow Futures Rise, Nasdaq Subdued Premarket Ahead Of Inflation Data: ASML, MU, SKHY, TSLA, BAC, LQDA, GME, IREN Stocks In Focus",TSLA,Yahoo RSS,neutral,0.0
+2026-10-14 12:09:00,"Dow Jones Futures Rise With ASML, BofA, Dell, HPE Early Movers; CPI Inflation Due - Investor's Business Daily",META,Google RSS,neutral,0.0
+2026-10-14 12:09:03,"Dow Jones Futures Rise With ASML, BofA, Dell, HPE Early Movers; CPI Inflation Due",META,Yahoo RSS,negative,-0.7072674036026001
+2026-10-14 13:00:00,"Leverage Shares by Themes to Launch MANGOS ETF (MGOL) on Nasdaq October 14, Providing Exposure to Six Leading Technology and AI Companies",META,Yahoo RSS,positive,0.498236745595932
+2026-10-14 10:28:03,"Jamie Dimon Warns Of Forces That “Continue To Shift Under The Surface,” As Half Of Russell 3000 Stocks Sit In A Bear Market With The S&P 500 Near Records",META,Yahoo RSS,negative,-0.9458431005477905
