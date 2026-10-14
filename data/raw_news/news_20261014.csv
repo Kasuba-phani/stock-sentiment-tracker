@@ -1,0 +1,27 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-10-13 16:25:50,"Stocks making the biggest moves midday: Apple, Meta Platforms, Bumble, Fermi, Goldman Sachs & more - CNBC",AAPL,Google RSS,neutral,0.0
+2026-10-13 13:42:16,"Apple stock hits all-time high, reaching 345.45 USD - Investing.com",AAPL,Google RSS,neutral,0.0
+2026-10-13 15:26:11,Apple stock hits all-time highs — and there could be good news about iPhone duo,AAPL,Bing RSS,positive,0.6751606464385986
+2026-10-12 22:07:50,Alphabet stock jumps 79% since July 2025 on Wiz acquisition and AI-driven cloud growth - Pluang,GOOGL,Google RSS,positive,0.8970381021499634
+2026-10-08 13:00:00,Amazon Stock Has Another Growth Story Investors May Be Missing - 24/7 Wall St.,AMZN,Google RSS,neutral,0.0
+2026-10-08 06:59:00,Amazon Stock Has Another Growth Story Investors May Be Missing,AMZN,Bing RSS,neutral,0.0
+2026-10-13 19:55:59,Sector Update: Consumer Stocks Mixed Late Afternoon,AMZN,Yahoo RSS,negative,-0.9352520108222961
+2026-10-13 17:15:56,Microsoft stock is on pace for its first record close in nearly a year - Quartz,MSFT,Google RSS,positive,0.7518540620803833
+2026-10-12 16:30:47,"This Is the Key for Microsoft Stock, Says Top Investor - TipRanks",MSFT,Google RSS,neutral,0.0
+2026-10-12 13:49:09,Wall Street sets Microsoft stock price for the next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
+2026-10-10 14:55:00,"Microsoft Stock Has Grown Roughly 15-Fold Since Satya Nadella Became CEO in 2014, a 27% Annual Growth Rate That Ended 14 Years of Near-Zero Growth. Can That Pace Continue Under Heavy AI Spending? - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-10-12 17:32:22,Microsoft stock outlook: Azure growth and earnings set to drive next move - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-13 14:02:58,"U.S. cloud giants' stocks surge, Microsoft hits new record high - KuCoin",MSFT,Google RSS,positive,0.7842150926589966
+2026-10-10 14:19:12,"Microsoft Stock Has Grown Roughly 15-Fold Since Satya Nadella Became CEO in 2014, a 27% Annual Growth Rate That Ended 14 Years of Near-Zero Growth. Can That Pace Continue Under Heavy AI Spending? - The Globe and Mail",MSFT,Google RSS,positive,0.8634078502655029
+2026-10-13 14:03:07,Microsoft hits all-time high during trading session - 富途牛牛,MSFT,Google RSS,positive,0.8319585919380188
+2026-10-14 00:35:20,"Dow Jones Futures: Stock Market Holds Up As Meta, AMD Lead Buys; ASML, CPI Inflation Due",MSFT,Yahoo RSS,positive,0.9155699014663696
+2026-10-13 07:42:45,NVIDIA Corporation $NVDA Stock: Perennial Investment Advisors LLC Increases Stake - MarketBeat,NVDA,Google RSS,positive,0.8337434530258179
+2026-10-13 07:42:44,NVIDIA Corporation $NVDA Stock: Transamerica Financial Advisors LLC Increases Stake - MarketBeat,NVDA,Google RSS,positive,0.7687075734138489
+2026-10-12 20:38:41,Meta to Announce Third Quarter 2026 Results - Meta Investor Relations,META,Google RSS,neutral,0.0
+2026-10-14 00:25:00,"Dow Jones Futures: Stock Market Holds Up As Meta, AMD Lead Buys; ASML, CPI Inflation Due - Investor's Business Daily",META,Google RSS,positive,0.4720269441604614
+2026-10-11 17:36:49,"Meta Platforms (NASDAQ: META) stock price forecast: Can AI push META to $1,000? - Beinsure",META,Google RSS,neutral,0.0
+2026-10-13 17:35:00,"Dow Jones futures: Stock market holds up as Meta, AMD lead buys; ASML, CPI inflation due",META,Bing RSS,positive,0.9155699014663696
+2026-10-14 00:35:20,"Dow Jones Futures: Stock Market Holds Up As Meta, AMD Lead Buys; ASML, CPI Inflation Due",META,Yahoo RSS,positive,0.9155699014663696
+2026-10-12 00:07:00,Why Goldman Sachs still backs Netflix despite falling viewership - TheStreet,NFLX,Google RSS,negative,-0.8850398659706116
+2026-10-12 05:16:00,"Netflix layoffs loom as stock performance struggles, growth slows, and investors cool in 2026: reports",NFLX,Bing RSS,negative,-0.9518901109695435
+2026-10-13 14:11:10,October 2026s Top Cash Flow Stocks To Own,NFLX,Yahoo RSS,neutral,0.0
