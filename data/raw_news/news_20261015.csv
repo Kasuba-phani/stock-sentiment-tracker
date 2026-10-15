@@ -39,6 +39,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-15 05:37:30,NFLX Stock Dips Overnight: Retail Turns Bearish Ahead Of Earnings As Netflix Reels Under Growth Pressure - Stocktwits,NFLX,Google RSS,negative,-0.953382968902588
 2026-10-14 22:27:00,NFLX Stock Dips Overnight: Retail Turns Bearish Ahead Of Earnings As Netflix Reels Under Growth Pressure,NFLX,Bing RSS,negative,-0.9629337787628174
 2026-10-15 12:46:49,How Investors May Respond To NVIDIA (NVDA) Higher AI Funding Costs - Simply Wall Street,NVDA,Google RSS,neutral,0.0
-2026-10-15 12:20:56,"Stock market today: S&P 500, Nasdaq futures slip as semiconductor sell-off continues",NVDA,Yahoo RSS,negative,-0.9686045050621033
+2026-10-15 12:20:56,"Stock market today: S&P 500, Nasdaq futures slip as semiconductor sell-off continues",NVDA,Yahoo RSS,negative,-0.9686045050621032
 2026-10-15 10:45:36,TSMC posts record profit amid 'extremely robust demand' for AI chips,TSLA,Yahoo RSS,positive,0.9475548267364502
 2026-10-15 11:26:01,"SpaceX Is on the Verge of Making Dubious History Yet Again, and Retail Investors May Pay the Price",TSLA,Yahoo RSS,neutral,0.0
+2026-10-15 05:30:00,"Stock market today: Dow, S&P 500 rise, Nasdaq trims losses as Treasury yields sink",AAPL,Bing RSS,negative,-0.5334261655807495
+2026-10-15 15:25:00,5 Growth Stocks With Home Run Potential,AMZN,Yahoo RSS,neutral,0.0
+2026-10-15 13:56:58,Microsoft stock seen rising 21% with strong Azu... - Pluang,MSFT,Google RSS,positive,0.9491462707519531
+2026-10-15 17:49:37,Stock Market Today: Nasdaq Pares Loss As Yields Dive; Drug Giant Hits All-Time High (Live Coverage),NVDA,Yahoo RSS,negative,-0.6305429339408875
+2026-10-15 14:28:23,Tesla shares fall amid inflation data and rate concerns - StreetInsider,TSLA,Google RSS,negative,-0.9551507830619812
+2026-10-15 10:27:11,This warning signal just flashed ahead of Netflix's earnings -- here's what it means for the stock,NFLX,Bing RSS,neutral,0.0
