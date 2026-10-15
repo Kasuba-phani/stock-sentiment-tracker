@@ -1,0 +1,30 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-10-13 16:25:50,"Stocks making the biggest moves midday: Apple, Meta Platforms, Bumble, Fermi, Goldman Sachs & more - CNBC",AAPL,Google RSS,neutral,0.0
+2026-10-14 20:40:00,"Skydance Shares Tumble In Technical Adjustment As Inflation, Interest Rate Jitters Roil Markets; Apple Regains $5 Trillion Market Cap - Deadline",AAPL,Google RSS,negative,-0.9388654828071594
+2026-10-13 13:42:16,"Apple stock hits all-time high, reaching 345.45 USD - Investing.com",AAPL,Google RSS,neutral,0.0
+2026-10-12 22:07:50,Alphabet stock jumps 79% since July 2025 on Wiz acquisition and AI-driven cloud growth - Pluang,GOOGL,Google RSS,positive,0.8970381021499634
+2026-10-08 13:00:00,Amazon Stock Has Another Growth Story Investors May Be Missing - 24/7 Wall St.,AMZN,Google RSS,neutral,0.0
+2026-10-08 06:59:00,Amazon Stock Has Another Growth Story Investors May Be Missing,AMZN,Bing RSS,neutral,0.0
+2026-10-13 17:15:56,Microsoft stock is on pace for its first record close in nearly a year - Quartz,MSFT,Google RSS,positive,0.7518540620803833
+2026-10-14 12:31:30,Wall Street sets Microsoft stock price target for next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
+2026-10-12 13:49:09,Wall Street sets Microsoft stock price for the next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
+2026-10-10 14:55:00,"Microsoft Stock Has Grown Roughly 15-Fold Since Satya Nadella Became CEO in 2014, a 27% Annual Growth Rate That Ended 14 Years of Near-Zero Growth. Can That Pace Continue Under Heavy AI Spending? - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-10-14 16:32:59,Microsoft Stocks Slip Lower Although Maia Targets 40% More Tokens per Megawatt - GuruFocus,MSFT,Google RSS,negative,-0.9694378972053528
+2026-10-12 17:32:22,Microsoft stock outlook: Azure growth and earnings set to drive next move - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-10 14:19:12,"Microsoft Stock Has Grown Roughly 15-Fold Since Satya Nadella Became CEO in 2014, a 27% Annual Growth Rate That Ended 14 Years of Near-Zero Growth. Can That Pace Continue Under Heavy AI Spending? - The Globe and Mail",MSFT,Google RSS,positive,0.8634078502655029
+2026-10-14 11:20:00,Should Microsoft Stock's New High Stop You From Buying?,MSFT,Bing RSS,negative,-0.781644880771637
+2026-10-14 16:14:00,"Caterpillar, NVIDIA Corp. Share Losses Contribute To Dow's Nearly 150-Point Drop - Moomoo",NVDA,Google RSS,negative,-0.9696432948112488
+2026-10-14 06:21:00,LSEG taps Nvidia for faster historical market data processing - Reuters,NVDA,Google RSS,positive,0.8312538862228394
+2026-10-14 17:51:02,History says Nvidia stock usually rises in the fourth quarter -- it has in 20 of the last 27,NVDA,Bing RSS,positive,0.8547878265380859
+2026-10-14 22:25:00,Prediction: UPS Will Miss Estimates (but the Stock Could Still Be a Good Value),NVDA,Yahoo RSS,negative,-0.7524281740188599
+2026-10-14 16:42:52,Tesla rated Strong Sell despite Q2 revenue grow... - Pluang,TSLA,Google RSS,positive,0.945099413394928
+2026-10-14 16:52:19,"Tesla Q3 deliveries beat expectations but face margin, pricing, and investment risks ahead - Pluang",TSLA,Google RSS,positive,0.8466646075248718
+2026-10-12 20:38:41,Meta to Announce Third Quarter 2026 Results - Meta Investor Relations,META,Google RSS,neutral,0.0
+2026-10-14 12:09:00,"Dow Jones Futures Rise With ASML, BofA, Dell, HPE Early Movers; CPI Inflation Due - Investor's Business Daily",META,Google RSS,neutral,0.0
+2026-10-11 17:36:49,"Meta Platforms (NASDAQ: META) stock price forecast: Can AI push META to $1,000? - Beinsure",META,Google RSS,neutral,0.0
+2026-10-14 15:34:00,Netflix eliminates roughly 6% of workforce amid slowing growth concerns - The Business Journals,NFLX,Google RSS,negative,-0.9709005355834961
+2026-10-14 14:44:56,"Netflix cutting 1,000 jobs in reaction to engagement concerns, stock price slide - C21media",NFLX,Google RSS,negative,-0.9560235142707825
+2026-10-14 09:02:42,"Netflix to Lay Off Nearly 1,000 Employees Despite Global Expansion. Its Stock is Falling.",NFLX,Bing RSS,negative,-0.9720731377601624
+2026-10-12 05:16:00,"Netflix layoffs loom as stock performance struggles, growth slows, and investors cool in 2026: reports",NFLX,Bing RSS,negative,-0.9518901109695435
+2026-10-14 18:05:45,Netflix cutting workforce as its revenue growth slows,NFLX,Yahoo RSS,negative,-0.9699421525001526
+2026-10-14 19:50:00,Over 25% of the Stocks in the S&P 500 Are Down 40% or More. 4 Bargain Tech Stocks to Buy Now,NFLX,Yahoo RSS,negative,-0.9721744060516357
