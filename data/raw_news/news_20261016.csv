@@ -51,15 +51,25 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-16 16:12:00,Netflix Hires Former Disney Exec to Fix Content Problem. Why the Stock Is Falling.,GOOGL,Yahoo RSS,negative,-0.8816652894020081
 2026-10-16 06:44:40,Microsoft stock had a monstrous rally after its last earnings. Don’t expect it to repeat this time.,MSFT,Bing RSS,positive,0.7487046122550964
 2026-10-12 02:23:00,"This Is the Key for Microsoft Stock, Says Top Investor",MSFT,Bing RSS,neutral,0.0
-2026-10-16 16:06:51,Strong Azure Results Powered Microsoft Corporation’s (MSFT) Rally,MSFT,Yahoo RSS,positive,0.9500215649604797
+2026-10-16 16:06:51,Strong Azure Results Powered Microsoft Corporation’s (MSFT) Rally,MSFT,Yahoo RSS,positive,0.9500215649604796
 2026-10-16 16:13:38,Top 3 British Undervalued Tech Stocks To Watch In October 2026,MSFT,Yahoo RSS,negative,-0.6166235208511353
 2026-10-16 16:33:09,"Nvidia Stock Price Forecast: Jensen Huang Says AI Chip Demand Is Strong, Dan Ives Sees Selloff as Buying Opportunity; Can the Stock Return to an Uptrend? - TradingKey",NVDA,Google RSS,neutral,0.0
 2026-10-16 02:51:00,Why Nvidia Stock Is Rising While the Broader Chip Sector Keeps Falling,NVDA,Bing RSS,neutral,0.0
 2026-10-16 14:21:30,Tesla: Roadster Shows Unique Technology That Will Make a Strong Halo Car - Morningstar,TSLA,Google RSS,positive,0.5561484098434448
 2026-10-16 15:54:31,Meta Platforms Will Report Q3 Earnings on October 21. Here’s Who Still Owns META Stock - TipRanks,META,Google RSS,neutral,0.0
 2026-10-16 16:33:10,Strong Top-Line Growth and AI Innovation Lifted Meta Platforms (META) Higher,META,Yahoo RSS,positive,0.9537484049797058
-2026-10-16 16:24:09,RBC raises Shopify price target to $200 on sustained growth outlook,META,Yahoo RSS,positive,0.9187178611755371
-2026-10-16 14:27:32,US stock indexes off to mixed start as tech sector weighs on market - San Antonio Express-News,NFLX,Google RSS,negative,-0.42898958921432495
-2026-10-16 15:24:21,U.S. stock indexes are mixed as tech sector weighs on market - BNN Bloomberg,NFLX,Google RSS,negative,-0.9455773234367371
-2026-10-16 11:29:39,"Stock market today: Nasdaq and S&P 500 fall as tech stocks slide, capping volatile week",NFLX,Yahoo RSS,negative,-0.9686679244041443
+2026-10-16 16:24:09,RBC raises Shopify price target to $200 on sustained growth outlook,META,Yahoo RSS,positive,0.9187178611755372
+2026-10-16 14:27:32,US stock indexes off to mixed start as tech sector weighs on market - San Antonio Express-News,NFLX,Google RSS,negative,-0.4289895892143249
+2026-10-16 15:24:21,U.S. stock indexes are mixed as tech sector weighs on market - BNN Bloomberg,NFLX,Google RSS,negative,-0.9455773234367372
+2026-10-16 11:29:39,"Stock market today: Nasdaq and S&P 500 fall as tech stocks slide, capping volatile week",NFLX,Yahoo RSS,negative,-0.9686679244041444
 2026-10-16 16:12:00,Netflix Hires Former Disney Exec to Fix Content Problem. Why the Stock Is Falling.,NFLX,Yahoo RSS,negative,-0.8816652894020081
+2026-10-16 19:00:00,9 Dow Jones Stocks Make Bullish Moves In A Defensive Market Rotation - Investor's Business Daily,AAPL,Google RSS,neutral,0.0
+2026-10-16 20:17:52,9 Dow Jones Stocks Make Bullish Moves In A Defensive Market Rotation,AAPL,Yahoo RSS,neutral,0.0
+2026-10-16 17:37:57,Alphabet stock analysis: stalled near 200-day average ahead of Q3 earnings - Investing.com,GOOGL,Google RSS,negative,-0.5529971718788147
+2026-10-16 19:11:18,"Dow Jones Losers: GOOGL, CRM, MSFT, AMZN, CSCO in Today's US Session - ChartMill",GOOGL,Google RSS,neutral,0.0
+2026-10-16 17:29:13,Microsoft is the only hyperscaler not forecast to dip into negative FCF in the next year (MSFT:NASDAQ) - Seeking Alpha,MSFT,Google RSS,negative,-0.7558078765869141
+2026-10-16 19:11:18,"Dow Jones Losers: GOOGL, CRM, MSFT, AMZN, CSCO in Today's US Session - ChartMill",MSFT,Google RSS,neutral,0.0
+2026-10-16 20:12:37,Dell Technologies (DELL) Lands Core AI Infrastructure Role In New Industrial Platform,NVDA,Yahoo RSS,neutral,0.0
+2026-10-16 17:48:48,Sector Update: Consumer Stocks Mixed Friday Afternoon,TSLA,Yahoo RSS,negative,-0.9483304619789124
+2026-10-16 17:42:46,"Meta Muse continues to see increased adoption, though overall rates are low: BNP (META:NASDAQ) - Seeking Alpha",META,Google RSS,positive,0.876194179058075
+2026-10-16 18:25:14,U.S. markets weighed down by extended sell-off in the tech sector - BNN Bloomberg,NFLX,Google RSS,negative,-0.9665811657905579
