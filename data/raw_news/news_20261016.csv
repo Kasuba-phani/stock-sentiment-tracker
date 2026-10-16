@@ -36,14 +36,30 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-16 02:08:36,"Asian stocks rise as tech bounces from rout, eyes on Warsh",NVDA,Yahoo RSS,positive,0.3672612309455871
 2026-10-16 05:17:55,Top 3 Founder Led Stocks To Watch In October 2026,TSLA,Yahoo RSS,positive,0.4915084540843963
 2026-10-14 02:19:00,Microsoft hits first record in a year after US$1.4 trillion rally; shares soar 54% from June low - The Business Times,MSFT,Google RSS,positive,0.8629763126373291
-2026-10-16 09:35:21,Nvidia Unveils Three New AI Models Amid Strong Demand - Intellectia AI,NVDA,Google RSS,positive,0.9106690883636475
+2026-10-16 09:35:21,Nvidia Unveils Three New AI Models Amid Strong Demand - Intellectia AI,NVDA,Google RSS,positive,0.9106690883636476
 2026-10-16 02:51:00,Why Nvidia stock is rising while the broader chip sector keeps falling,NVDA,Bing RSS,neutral,0.0
 2026-10-15 20:54:00,"Why Nvidia Stock Is Rising While AMD, Broadcom, and Intel Stocks Are Falling in Premarket Today, October 16",NVDA,Bing RSS,negative,-0.8333091139793396
-2026-10-16 11:29:39,"Stock market today: Dow, S&P 500, Nasdaq futures mixed amid volatile week",NVDA,Yahoo RSS,negative,-0.9097215533256531
+2026-10-16 11:29:39,"Stock market today: Dow, S&P 500, Nasdaq futures mixed amid volatile week",NVDA,Yahoo RSS,negative,-0.9097215533256532
 2026-10-16 11:30:58,Stocks rise as tech bounces after rout over AI worries,NVDA,Yahoo RSS,negative,-0.4832361936569214
 2026-10-16 11:07:21,"Wall St futures mixed as tech wobbles again, Tesla gains - Reuters",TSLA,Google RSS,negative,-0.7717306017875671
 2026-10-15 21:36:00,"‘A Flying Car Doesn’t Change the Math,’ Says Top Investor About Tesla Stock",TSLA,Bing RSS,neutral,0.0
-2026-10-16 11:29:39,"Stock market today: Dow, S&P 500, Nasdaq futures mixed amid volatile week",TSLA,Yahoo RSS,negative,-0.9097215533256531
-2026-10-16 11:29:39,"Stock market today: Dow, S&P 500, Nasdaq futures mixed amid volatile week",META,Yahoo RSS,negative,-0.9097215533256531
+2026-10-16 11:29:39,"Stock market today: Dow, S&P 500, Nasdaq futures mixed amid volatile week",TSLA,Yahoo RSS,negative,-0.9097215533256532
+2026-10-16 11:29:39,"Stock market today: Dow, S&P 500, Nasdaq futures mixed amid volatile week",META,Yahoo RSS,negative,-0.9097215533256532
 2026-10-14 09:02:42,"Netflix to Lay Off Nearly 1,000 Employees Despite Global Expansion. Its Stock is Falling.",NFLX,Bing RSS,negative,-0.9720731377601624
-2026-10-16 11:29:39,"Stock market today: Dow, S&P 500, Nasdaq futures mixed amid volatile week",NFLX,Yahoo RSS,negative,-0.9097215533256531
+2026-10-16 11:29:39,"Stock market today: Dow, S&P 500, Nasdaq futures mixed amid volatile week",NFLX,Yahoo RSS,negative,-0.9097215533256532
+2026-10-16 15:21:11,Why Is Applied Digital Stock Falling Friday? - Benzinga,GOOGL,Google RSS,negative,-0.8887026309967041
+2026-10-16 16:12:00,Netflix Hires Former Disney Exec to Fix Content Problem. Why the Stock Is Falling.,GOOGL,Yahoo RSS,negative,-0.8816652894020081
+2026-10-16 06:44:40,Microsoft stock had a monstrous rally after its last earnings. Don’t expect it to repeat this time.,MSFT,Bing RSS,positive,0.7487046122550964
+2026-10-12 02:23:00,"This Is the Key for Microsoft Stock, Says Top Investor",MSFT,Bing RSS,neutral,0.0
+2026-10-16 16:06:51,Strong Azure Results Powered Microsoft Corporation’s (MSFT) Rally,MSFT,Yahoo RSS,positive,0.9500215649604797
+2026-10-16 16:13:38,Top 3 British Undervalued Tech Stocks To Watch In October 2026,MSFT,Yahoo RSS,negative,-0.6166235208511353
+2026-10-16 16:33:09,"Nvidia Stock Price Forecast: Jensen Huang Says AI Chip Demand Is Strong, Dan Ives Sees Selloff as Buying Opportunity; Can the Stock Return to an Uptrend? - TradingKey",NVDA,Google RSS,neutral,0.0
+2026-10-16 02:51:00,Why Nvidia Stock Is Rising While the Broader Chip Sector Keeps Falling,NVDA,Bing RSS,neutral,0.0
+2026-10-16 14:21:30,Tesla: Roadster Shows Unique Technology That Will Make a Strong Halo Car - Morningstar,TSLA,Google RSS,positive,0.5561484098434448
+2026-10-16 15:54:31,Meta Platforms Will Report Q3 Earnings on October 21. Here’s Who Still Owns META Stock - TipRanks,META,Google RSS,neutral,0.0
+2026-10-16 16:33:10,Strong Top-Line Growth and AI Innovation Lifted Meta Platforms (META) Higher,META,Yahoo RSS,positive,0.9537484049797058
+2026-10-16 16:24:09,RBC raises Shopify price target to $200 on sustained growth outlook,META,Yahoo RSS,positive,0.9187178611755371
+2026-10-16 14:27:32,US stock indexes off to mixed start as tech sector weighs on market - San Antonio Express-News,NFLX,Google RSS,negative,-0.42898958921432495
+2026-10-16 15:24:21,U.S. stock indexes are mixed as tech sector weighs on market - BNN Bloomberg,NFLX,Google RSS,negative,-0.9455773234367371
+2026-10-16 11:29:39,"Stock market today: Nasdaq and S&P 500 fall as tech stocks slide, capping volatile week",NFLX,Yahoo RSS,negative,-0.9686679244041443
+2026-10-16 16:12:00,Netflix Hires Former Disney Exec to Fix Content Problem. Why the Stock Is Falling.,NFLX,Yahoo RSS,negative,-0.8816652894020081
