@@ -72,4 +72,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-16 20:12:37,Dell Technologies (DELL) Lands Core AI Infrastructure Role In New Industrial Platform,NVDA,Yahoo RSS,neutral,0.0
 2026-10-16 17:48:48,Sector Update: Consumer Stocks Mixed Friday Afternoon,TSLA,Yahoo RSS,negative,-0.9483304619789124
 2026-10-16 17:42:46,"Meta Muse continues to see increased adoption, though overall rates are low: BNP (META:NASDAQ) - Seeking Alpha",META,Google RSS,positive,0.876194179058075
-2026-10-16 18:25:14,U.S. markets weighed down by extended sell-off in the tech sector - BNN Bloomberg,NFLX,Google RSS,negative,-0.9665811657905579
+2026-10-16 18:25:14,U.S. markets weighed down by extended sell-off in the tech sector - BNN Bloomberg,NFLX,Google RSS,negative,-0.966581165790558
+2026-10-14 06:40:00,"Skydance Shares Tumble In Technical Adjustment As Inflation, Interest Rate Jitters Roil Markets; Apple Regains $5 Trillion Market Cap",AAPL,Bing RSS,negative,-0.943913996219635
+2026-10-16 12:30:00,Dow Jones Futures: Tesla Flies On Roadster As Investors Question Anthropic Valuation - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
+2026-10-16 21:08:07,"Dow Jones Futures: S&P 500, Nasdaq Break Key Levels As CoreWeave, Dell Dive; Tesla, SpaceX, Meta Loom",TSLA,Yahoo RSS,positive,0.7174441814422607
+2026-10-16 21:08:07,"Dow Jones Futures: S&P 500, Nasdaq Break Key Levels As CoreWeave, Dell Dive; Tesla, SpaceX, Meta Loom",META,Yahoo RSS,positive,0.7174441814422607
+2026-10-16 20:55:50,Here’s How Much Traders See Netflix Stock Moving After Earnings - Investopedia,NFLX,Google RSS,neutral,0.0
+2026-10-16 20:55:50,Here’s How Much Traders See Netflix Stock Moving After Earnings,NFLX,Yahoo RSS,neutral,0.0
