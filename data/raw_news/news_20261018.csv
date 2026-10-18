@@ -1,0 +1,27 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-10-16 20:17:00,9 Dow Jones Stocks Make Bullish Moves In A Defensive Market Rotation - Investor's Business Daily,AAPL,Google RSS,neutral,0.0
+2026-10-17 11:20:15,"Smart Investor: Top Stock Picks by Sector, Durable Dividend Payers, and What’s Behind the Bond Selloff - Morningstar",GOOGL,Google RSS,neutral,0.0
+2026-10-16 21:11:57,Alphabet stock analysis: stalled near 200-day average ahead of Q3 earnings - Investing.com,GOOGL,Google RSS,negative,-0.5529972910881042
+2026-10-16 15:21:11,Why Is Applied Digital Stock Falling Friday? - Benzinga,GOOGL,Google RSS,negative,-0.8887016773223877
+2026-10-14 23:05:00,Prediction: UPS Will Miss Estimates (but the Stock Could Still Be a Good Value) - The Motley Fool,AMZN,Google RSS,negative,-0.7267898321151733
+2026-10-13 17:15:56,Microsoft stock is on pace for its first record close in nearly a year - Quartz,MSFT,Google RSS,positive,0.7518539428710938
+2026-10-14 12:31:30,Wall Street sets Microsoft stock price target for next 12 months - Finbold,MSFT,Google RSS,neutral,0.0
+2026-10-12 17:32:22,Microsoft stock outlook: Azure growth and earnings set to drive next move - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-14 11:20:00,Should Microsoft Stock's New High Stop You From Buying?,MSFT,Bing RSS,negative,-0.7816449403762817
+2026-10-17 20:25:00,4 Charts That Explain the Copper Supply Crunch Investors Should Watch,NVDA,Yahoo RSS,neutral,0.0
+2026-10-17 20:08:34,"Stock market week ahead: Meta, Tesla lead 6 major tech reports - Opening Bell Daily",TSLA,Google RSS,neutral,0.0
+2026-10-16 14:21:30,Tesla: Roadster Shows Unique Technology That Will Make a Strong Halo Car - Morningstar,TSLA,Google RSS,positive,0.5561487674713135
+2026-10-16 12:30:00,Dow Jones Futures: Tesla Flies On Roadster As Investors Question Anthropic Valuation - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
+2026-10-17 09:21:53,Why Is Tesla (NASDAQ:TSLA) Stock Falling After Musk’s Flying Roadster Reveal? - Stocks Down Under,TSLA,Google RSS,negative,-0.9662535190582275
+2026-10-17 23:47:05,"Dow Jones Futures: What To Do After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",TSLA,Yahoo RSS,neutral,0.0
+2026-10-16 15:54:31,Meta Platforms Will Report Q3 Earnings on October 21. Here’s Who Still Owns META Stock - TipRanks,META,Google RSS,neutral,0.0
+2026-10-16 17:42:46,"Meta Muse continues to see increased adoption, though overall rates are low: BNP (META:NASDAQ) - Seeking Alpha",META,Google RSS,positive,0.8761940002441406
+2026-10-17 20:08:34,"Stock market week ahead: Meta, Tesla lead 6 major tech reports - Opening Bell Daily",META,Google RSS,neutral,0.0
+2026-10-17 23:47:05,"Dow Jones Futures: What To Do After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",META,Yahoo RSS,neutral,0.0
+2026-10-16 20:55:50,Here’s How Much Traders See Netflix Stock Moving After Earnings - Investopedia,NFLX,Google RSS,neutral,0.0
+2026-10-15 05:27:00,NFLX Stock Dips Overnight: Retail Turns Bearish Ahead Of Earnings As Netflix Reels Under Growth Pressure - TradingView,NFLX,Google RSS,negative,-0.9603967070579529
+2026-10-17 10:44:14,Why Is Netflix (NFLX) Stock Falling? 3 Key Factors to Watch - Coinpedia,NFLX,Google RSS,negative,-0.6926745176315308
+2026-10-17 03:27:00,Why Is Netflix (NFLX) Stock Falling? 3 Key Factors to Watch,NFLX,Bing RSS,negative,-0.5604413151741028
+2026-10-14 22:27:00,NFLX Stock Dips Overnight: Retail Turns Bearish Ahead Of Earnings As Netflix Reels Under Growth Pressure,NFLX,Bing RSS,negative,-0.9629337787628174
+2026-10-16 20:55:50,Here’s How Much Traders See Netflix Stock Moving After Earnings,NFLX,Yahoo RSS,neutral,0.0
+2026-10-16 16:12:00,Netflix Hires Former Disney Exec to Fix Content Problem. Why the Stock Is Falling.,NFLX,Yahoo RSS,negative,-0.8816652894020081
