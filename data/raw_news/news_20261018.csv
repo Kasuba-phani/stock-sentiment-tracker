@@ -49,4 +49,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-18 17:25:00,Coca-Cola Yields 2.3% and Nike Yields 4.4%. Here's Why Only 1 of These High-Yield Dividend Stocks Is a Buy This October.,NVDA,Yahoo RSS,neutral,0.0
 2026-10-18 15:50:00,"Dow Jones Futures Loom After S&P 500, Nasdaq Sell-Off; Will Meta Save AI? - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
 2026-10-18 15:50:00,"Dow Jones Futures Loom After S&P 500, Nasdaq Sell-Off; Will Meta Save AI? - Investor's Business Daily",META,Google RSS,neutral,0.0
-2026-10-15 16:13:39,NFLX Stock Dips Overnight: Retail Turns Bearish Ahead Of Earnings As Netflix Reels Under Growth Pressure - Stocktwits,NFLX,Google RSS,negative,-0.9533829689025879
+2026-10-15 16:13:39,NFLX Stock Dips Overnight: Retail Turns Bearish Ahead Of Earnings As Netflix Reels Under Growth Pressure - Stocktwits,NFLX,Google RSS,negative,-0.953382968902588
+2026-10-12 02:23:00,"This Is the Key for Microsoft Stock, Says Top Investor",MSFT,Bing RSS,neutral,0.0
+2026-10-18 18:20:15,Nvidia Enters Correction After Rising Wedge Breakdown as AI Stock Bubble Index Jumps - Benzinga,NVDA,Google RSS,negative,-0.9128510355949402
+2026-10-18 11:20:15,Nvidia enters correction after rising wedge breakdown as AI stock bubble index jumps,NVDA,Bing RSS,negative,-0.8714753985404968
+2026-10-16 02:51:00,Why Nvidia Stock Is Rising While the Broader Chip Sector Keeps Falling,NVDA,Bing RSS,neutral,0.0
+2026-10-18 10:47:48,Stock market week ahead: Netflix fell after last 5 reports - Opening Bell Daily,TSLA,Google RSS,negative,-0.9738811254501343
