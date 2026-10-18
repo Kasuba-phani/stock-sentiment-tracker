@@ -26,5 +26,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-16 20:55:50,Here’s How Much Traders See Netflix Stock Moving After Earnings,NFLX,Yahoo RSS,neutral,0.0
 2026-10-16 16:12:00,Netflix Hires Former Disney Exec to Fix Content Problem. Why the Stock Is Falling.,NFLX,Yahoo RSS,negative,-0.8816652894020081
 2026-10-14 10:11:34,LSEG taps Nvidia for faster historical market data processing - Reuters,NVDA,Google RSS,positive,0.8312538862228394
-2026-10-18 02:57:39,"Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",TSLA,Yahoo RSS,negative,-0.42833268642425537
-2026-10-18 02:57:39,"Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",META,Yahoo RSS,negative,-0.42833268642425537
+2026-10-18 02:57:39,"Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",TSLA,Yahoo RSS,negative,-0.4283326864242553
+2026-10-18 02:57:39,"Dow Jones Futures Loom After S&P 500, Nasdaq Break Support; Will Meta Earnings Save AI?",META,Yahoo RSS,negative,-0.4283326864242553
+2026-10-18 10:32:47,2 Retail Stocks to Buy Before the Holiday Shopping Season - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-10-18 10:11:25,3 UK Grid Stocks Retail Investors Are Watching for AI Data Centre Power,MSFT,Yahoo RSS,neutral,0.0
+2026-10-18 09:55:00,My Top Dividend Growth Stock to Buy in October and Hold Forever,NVDA,Yahoo RSS,neutral,0.0
+2026-10-18 09:04:00,3 High-Yield Energy Stocks to Load Up on This October (1 Yields Over 7.5%),NVDA,Yahoo RSS,positive,0.6985839009284973
+2026-10-18 10:16:21,"TSLA, CSIQ Stocks In Focus As China Tightens Solar Manufacturing Technology Exports",TSLA,Yahoo RSS,neutral,0.0
