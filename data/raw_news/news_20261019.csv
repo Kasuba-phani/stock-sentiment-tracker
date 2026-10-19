@@ -14,7 +14,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-18 11:20:15,Nvidia enters correction after rising wedge breakdown as AI stock bubble index jumps,NVDA,Bing RSS,negative,-0.8714749813079834
 2026-10-16 02:51:00,Why Nvidia Stock Is Rising While the Broader Chip Sector Keeps Falling,NVDA,Bing RSS,neutral,0.0
 2026-10-18 17:25:00,Coca-Cola Yields 2.3% and Nike Yields 4.4%. Here's Why Only 1 of These High-Yield Dividend Stocks Is a Buy This October.,NVDA,Yahoo RSS,neutral,0.0
-2026-10-17 09:36:38,Why Is Tesla (NASDAQ:TSLA) Stock Falling After Musk’s Flying Roadster Reveal? - Stocks Down Under,TSLA,Google RSS,negative,-0.9662535190582275
+2026-10-17 09:36:38,Why Is Tesla (NASDAQ:TSLA) Stock Falling After Musk’s Flying Roadster Reveal? - Stocks Down Under,TSLA,Google RSS,negative,-0.9662535190582277
 2026-10-18 11:47:48,Stock market week ahead: Tesla averaged a 7.8% earnings move - Opening Bell Daily,TSLA,Google RSS,positive,0.9188058376312256
 2026-10-16 14:21:30,Tesla: Roadster Shows Unique Technology That Will Make a Strong Halo Car - Morningstar,TSLA,Google RSS,positive,0.5561487674713135
 2026-10-16 12:30:00,Dow Jones Futures: Tesla Flies On Roadster As Investors Question Anthropic Valuation - Investor's Business Daily,TSLA,Google RSS,neutral,0.0
@@ -25,10 +25,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-16 17:42:46,"Meta Muse continues to see increased adoption, though overall rates are low: BNP (META:NASDAQ) - Seeking Alpha",META,Google RSS,positive,0.8761940002441406
 2026-10-12 20:38:41,Meta to Announce Third Quarter 2026 Results - Meta Investor Relations,META,Google RSS,neutral,0.0
 2026-10-18 01:33:15,"Stock market week ahead: Meta, Tesla lead 6 major tech reports - Opening Bell Daily",META,Google RSS,neutral,0.0
-2026-10-18 10:47:48,Stock market week ahead: Netflix fell after last 5 reports - Opening Bell Daily,NFLX,Google RSS,negative,-0.9738811254501343
+2026-10-18 10:47:48,Stock market week ahead: Netflix fell after last 5 reports - Opening Bell Daily,NFLX,Google RSS,negative,-0.9738811254501344
 2026-10-16 20:55:50,Here’s How Much Traders See Netflix Stock Moving After Earnings - Investopedia,NFLX,Google RSS,neutral,0.0
-2026-10-15 05:27:00,NFLX Stock Dips Overnight: Retail Turns Bearish Ahead Of Earnings As Netflix Reels Under Growth Pressure - TradingView,NFLX,Google RSS,negative,-0.9603967070579529
+2026-10-15 05:27:00,NFLX Stock Dips Overnight: Retail Turns Bearish Ahead Of Earnings As Netflix Reels Under Growth Pressure - TradingView,NFLX,Google RSS,negative,-0.9603967070579528
 2026-10-18 14:22:36,"Netflix stock rebounds 4.1% ahead of earnings, with analysts split on future growth. - Pluang",NFLX,Google RSS,negative,-0.4757791757583618
-2026-10-18 03:48:02,Netflix stock has gained in the fourth quarter in 17 of the last 24 years,NFLX,Bing RSS,positive,0.9546482563018799
+2026-10-18 03:48:02,Netflix stock has gained in the fourth quarter in 17 of the last 24 years,NFLX,Bing RSS,positive,0.95464825630188
 2026-10-16 20:55:50,Here’s How Much Traders See Netflix Stock Moving After Earnings,NFLX,Yahoo RSS,neutral,0.0
 2026-10-16 16:12:00,Netflix Hires Former Disney Exec to Fix Content Problem. Why the Stock Is Falling.,NFLX,Yahoo RSS,negative,-0.8816652894020081
+2026-10-19 02:04:48,"AAPL, TSLA, NFLX, GME, RKLB: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",AAPL,Yahoo RSS,neutral,0.0
+2026-10-14 23:05:00,Prediction: UPS Will Miss Estimates (but the Stock Could Still Be a Good Value) - The Motley Fool,AMZN,Google RSS,negative,-0.7267898917198181
+2026-10-14 11:20:00,Should Microsoft Stock's New High Stop You From Buying?,MSFT,Bing RSS,negative,-0.781644880771637
+2026-10-19 02:04:00,"AAPL, TSLA, NFLX, GME, RKLB: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week - TradingView",TSLA,Google RSS,neutral,0.0
+2026-10-19 04:07:56,"No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious",TSLA,Yahoo RSS,positive,0.7741653919219971
+2026-10-19 02:04:48,"AAPL, TSLA, NFLX, GME, RKLB: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",TSLA,Yahoo RSS,neutral,0.0
+2026-10-19 04:07:56,"No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious",META,Yahoo RSS,positive,0.7741653919219971
+2026-10-19 02:04:48,"AAPL, TSLA, NFLX, GME, RKLB: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",NFLX,Yahoo RSS,neutral,0.0
