@@ -40,3 +40,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-19 02:04:48,"AAPL, TSLA, NFLX, GME, RKLB: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",TSLA,Yahoo RSS,neutral,0.0
 2026-10-19 04:07:56,"No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious",META,Yahoo RSS,positive,0.7741653919219971
 2026-10-19 02:04:48,"AAPL, TSLA, NFLX, GME, RKLB: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",NFLX,Yahoo RSS,neutral,0.0
+2026-10-19 05:42:00,"Apple stock escaped the AI downturn. Now it faces a 27% plunge, says analyst.",AAPL,Bing RSS,negative,-0.9613511562347412
+2026-10-19 13:53:00,Why Amazon Stock Is A 'Top Pick' Despite Investor Fears About Meta's Muse - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
+2026-10-19 13:53:06,Why Amazon Stock Is A 'Top Pick' Despite Investor Fears About Meta's Muse,AMZN,Yahoo RSS,neutral,0.0
+2026-10-19 14:08:00,Neoclouds: Goldman Sachs Upgrades CoreWeave. Microsoft Shelves Nscale Project. - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
+2026-10-19 13:44:28,Microsoft stock: P/ E 29.47 frames Microsoft stock ahead of results - ad-hoc-news.de,MSFT,Google RSS,neutral,0.0
+2026-10-19 07:36:11,NVIDIA Corporation $NVDA Stock: Barlow Wealth Partners LLC Boosts Stake - MarketBeat,NVDA,Google RSS,positive,0.9200121164321899
+2026-10-19 10:32:27,"Nvidia denies claims RTX 5090 is being discontinued as stock disappears and prices near $9,000 - PC Guide",NVDA,Google RSS,negative,-0.9358874559402466
+2026-10-19 11:34:15,Nvidia's stock stalls despite strong earnings a... - Pluang,NVDA,Google RSS,negative,-0.960077702999115
+2026-10-19 13:50:03,Tech rebounds as semiconductor stocks jump: AlphaCheck,NVDA,Yahoo RSS,negative,-0.46312546730041504
+2026-10-16 11:11:22,"‘A Flying Car Doesn’t Change the Math,’ Says Top Investor About Tesla Stock - TipRanks",TSLA,Google RSS,neutral,0.0
+2026-10-19 13:50:03,Tech rebounds as semiconductor stocks jump: AlphaCheck,TSLA,Yahoo RSS,negative,-0.46312546730041504
+2026-10-19 06:35:00,"Stock Market Today: Nasdaq, S&P 500 Open Higher After Rough Week; Tech Stocks Rebound",META,Bing RSS,positive,0.9192988872528076
+2026-10-19 13:50:03,Tech rebounds as semiconductor stocks jump: AlphaCheck,META,Yahoo RSS,negative,-0.46312546730041504
+2026-10-19 13:53:06,Why Amazon Stock Is A 'Top Pick' Despite Investor Fears About Meta's Muse,META,Yahoo RSS,neutral,0.0
+2026-10-19 13:50:03,Tech rebounds as semiconductor stocks jump: AlphaCheck,NFLX,Yahoo RSS,negative,-0.46312546730041504
