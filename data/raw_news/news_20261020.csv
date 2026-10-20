@@ -34,9 +34,25 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-13 17:15:56,Microsoft stock is on pace for its first record close in nearly a year - Quartz,MSFT,Google RSS,positive,0.7518540620803833
 2026-10-20 05:13:46,"Microsoft rebounds, but faces a ""higher hurdle""! Morgan Stanley remains firmly bullish: Azure's growth rate and Copilot's commercialization will be key, with a target price of up to $600. - 富途牛牛",MSFT,Google RSS,positive,0.8601711988449097
 2026-10-19 20:18:55,Microsoft bearish divergence traps price at $534: Live levels - Investing.com,MSFT,Google RSS,neutral,0.0
-2026-10-19 10:15:00,Amazon Jumps 5% as Morgan Stanley Names It Top Pick on Faster AWS Growth; Microsoft and Alphabet Edge Higher,MSFT,Bing RSS,positive,0.9338924884796143
+2026-10-19 10:15:00,Amazon Jumps 5% as Morgan Stanley Names It Top Pick on Faster AWS Growth; Microsoft and Alphabet Edge Higher,MSFT,Bing RSS,positive,0.9338924884796144
 2026-10-19 21:23:02,Chip stocks just had their longest losing streak since 2008. Should you buy Nvidia stock now?,NVDA,Bing RSS,negative,-0.5400936603546143
 2026-10-20 05:15:14,3 European AI Factory Automation Stocks Retail Investors Should Watch Now,NVDA,Yahoo RSS,neutral,0.0
 2026-10-20 04:18:36,Bitmine Immersion Technologies And 2 Top Growth Stocks To Watch,NVDA,Yahoo RSS,neutral,0.0
 2026-10-20 03:31:56,"Dow, S&P 500, Nasdaq Edge Higher Amid Tech Rebound As Q3 Earnings Season Forges Ahead: DJT, AMZN, CBRS, CRWV Stocks In Focus",TSLA,Yahoo RSS,positive,0.7027978897094727
 2026-10-20 03:31:56,"Dow, S&P 500, Nasdaq Edge Higher Amid Tech Rebound As Q3 Earnings Season Forges Ahead: DJT, AMZN, CBRS, CRWV Stocks In Focus",META,Yahoo RSS,positive,0.7027978897094727
+2026-10-20 03:48:01,Price-Driven Insight from (GOOGL) for Rule-Based Strategy - Stock Traders Daily,GOOGL,Google RSS,neutral,0.0
+2026-10-20 10:03:09,Analysts predict Amazon (AMZN) stock price in next 12 months - Finbold,AMZN,Google RSS,neutral,0.0
+2026-10-20 10:20:43,Amazon stock seen rising over 25% amid strong A... - Pluang,AMZN,Google RSS,positive,0.9489936828613281
+2026-10-20 09:49:35,Microsoft schedules October 28 results for Microsoft stock - ad-hoc-news.de,MSFT,Google RSS,neutral,0.0
+2026-10-15 16:59:17,"Microsoft Stock Heads into Earnings with Azure Growth, Copilot Momentum in Focus - Microsoft (NASDAQ:MSFT - Benzinga",MSFT,Google RSS,positive,0.704832136631012
+2026-10-14 11:20:00,Should Microsoft Stock's New High Stop You From Buying?,MSFT,Bing RSS,negative,-0.781644880771637
+2026-10-20 06:42:05,NVIDIA And 2 Other Top Growth Stocks To Watch - Simply Wall Street,NVDA,Google RSS,neutral,0.0
+2026-10-20 10:22:00,The Federal Reserve Just Warned More Rate Hikes Are Likely Coming. History Has Good and Bad News for Investors,NVDA,Yahoo RSS,neutral,0.0
+2026-10-20 10:03:00,Fed Minutes Show Another Rate Hike Is Likely This Year as Kevin Warsh's FOMC Battles Persistent Inflation. Here's Why That Signal Matters for Stocks and Bonds Heading Into Year-End.,NVDA,Yahoo RSS,neutral,0.0
+2026-10-20 10:39:26,"Tesla unveils ‘flying car,’ but stock plunges amid valuation fears ahead of Q3 earnings - Anadolu Ajansı",TSLA,Google RSS,negative,-0.91741544008255
+2026-10-20 06:16:10,"Tesla stock: results on October 21, 2026, slightly lower pre-market - ad-hoc-news.de",TSLA,Google RSS,neutral,0.0
+2026-10-20 08:52:01,"Why Are Nasdaq Futures Falling Premarket? CRWV, NBIS, TSLA, SPCX, MU, ASTS, NFLX, SLS Stocks In Focus",TSLA,Yahoo RSS,negative,-0.6234782338142395
+2026-10-19 21:44:00,Scottish Mortgage stock on edge ahead of SpaceX and Meta Platforms earnings,META,Bing RSS,positive,0.9153329133987427
+2026-10-20 08:52:01,"Why Are Nasdaq Futures Falling Premarket? CRWV, NBIS, TSLA, SPCX, MU, ASTS, NFLX, SLS Stocks In Focus",META,Yahoo RSS,negative,-0.6234782338142395
+2026-10-20 09:46:20,"US Stock Futures Mixed Ahead of Netflix Earnings and Reported $30 Billion OpenAI Fundraising: Dow Jones, S&P, Nasdaq, Wall Street",NFLX,Yahoo RSS,neutral,0.0
+2026-10-20 08:52:01,"Why Are Nasdaq Futures Falling Premarket? CRWV, NBIS, TSLA, SPCX, MU, ASTS, NFLX, SLS Stocks In Focus",NFLX,Yahoo RSS,negative,-0.6234782338142395
