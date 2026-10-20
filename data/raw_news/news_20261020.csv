@@ -42,7 +42,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-20 03:31:56,"Dow, S&P 500, Nasdaq Edge Higher Amid Tech Rebound As Q3 Earnings Season Forges Ahead: DJT, AMZN, CBRS, CRWV Stocks In Focus",META,Yahoo RSS,positive,0.7027978897094727
 2026-10-20 03:48:01,Price-Driven Insight from (GOOGL) for Rule-Based Strategy - Stock Traders Daily,GOOGL,Google RSS,neutral,0.0
 2026-10-20 10:03:09,Analysts predict Amazon (AMZN) stock price in next 12 months - Finbold,AMZN,Google RSS,neutral,0.0
-2026-10-20 10:20:43,Amazon stock seen rising over 25% amid strong A... - Pluang,AMZN,Google RSS,positive,0.9489936828613281
+2026-10-20 10:20:43,Amazon stock seen rising over 25% amid strong A... - Pluang,AMZN,Google RSS,positive,0.948993682861328
 2026-10-20 09:49:35,Microsoft schedules October 28 results for Microsoft stock - ad-hoc-news.de,MSFT,Google RSS,neutral,0.0
 2026-10-15 16:59:17,"Microsoft Stock Heads into Earnings with Azure Growth, Copilot Momentum in Focus - Microsoft (NASDAQ:MSFT - Benzinga",MSFT,Google RSS,positive,0.704832136631012
 2026-10-14 11:20:00,Should Microsoft Stock's New High Stop You From Buying?,MSFT,Bing RSS,negative,-0.781644880771637
@@ -52,7 +52,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-20 10:39:26,"Tesla unveils ‘flying car,’ but stock plunges amid valuation fears ahead of Q3 earnings - Anadolu Ajansı",TSLA,Google RSS,negative,-0.91741544008255
 2026-10-20 06:16:10,"Tesla stock: results on October 21, 2026, slightly lower pre-market - ad-hoc-news.de",TSLA,Google RSS,neutral,0.0
 2026-10-20 08:52:01,"Why Are Nasdaq Futures Falling Premarket? CRWV, NBIS, TSLA, SPCX, MU, ASTS, NFLX, SLS Stocks In Focus",TSLA,Yahoo RSS,negative,-0.6234782338142395
-2026-10-19 21:44:00,Scottish Mortgage stock on edge ahead of SpaceX and Meta Platforms earnings,META,Bing RSS,positive,0.9153329133987427
+2026-10-19 21:44:00,Scottish Mortgage stock on edge ahead of SpaceX and Meta Platforms earnings,META,Bing RSS,positive,0.9153329133987428
 2026-10-20 08:52:01,"Why Are Nasdaq Futures Falling Premarket? CRWV, NBIS, TSLA, SPCX, MU, ASTS, NFLX, SLS Stocks In Focus",META,Yahoo RSS,negative,-0.6234782338142395
 2026-10-20 09:46:20,"US Stock Futures Mixed Ahead of Netflix Earnings and Reported $30 Billion OpenAI Fundraising: Dow Jones, S&P, Nasdaq, Wall Street",NFLX,Yahoo RSS,neutral,0.0
 2026-10-20 08:52:01,"Why Are Nasdaq Futures Falling Premarket? CRWV, NBIS, TSLA, SPCX, MU, ASTS, NFLX, SLS Stocks In Focus",NFLX,Yahoo RSS,negative,-0.6234782338142395
+2026-10-20 12:40:27,AAPL Stock Downgraded As iPhone Shipment Concerns Mount — Analysts Flag Sales Growth Slowing - Stocktwits,AAPL,Google RSS,negative,-0.9316653609275818
+2026-10-20 12:24:20,"Apple's iPhone Problem Is Demand, Not Supply, Loop Says - TradingView",AAPL,Google RSS,neutral,0.0
+2026-10-20 07:23:00,Apple stock is the best performer in the Mag 7. An analyst downgrade signals it’s time to pump the brakes.,AAPL,Bing RSS,negative,-0.9314237236976624
+2026-10-20 05:38:00,AAPL Stock Downgraded As iPhone Shipment Concerns Mount — Analysts Flag Sales Growth Slowing,AAPL,Bing RSS,negative,-0.8678482174873352
+2026-10-20 14:20:01,BMO raises Alphabet stock price target on cloud growth outlook - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-10-20 03:35:10,GOOGL stock earnings preview: What to expect from Alphabet’s Q3 2026 report,GOOGL,Bing RSS,neutral,0.0
+2026-10-20 16:14:58,"Tech jitters lead stocks lower, oil surges then slides",GOOGL,Yahoo RSS,negative,-0.899603009223938
+2026-10-20 13:13:17,Microsoft vs. Oracle: Safe AI Stock or Risky One? Top Investor Weighs In - TipRanks,MSFT,Google RSS,neutral,0.0
+2026-10-19 23:05:00,Microsoft vs. Oracle: Safe AI Stock or Risky One? Top Investor Weighs In,MSFT,Bing RSS,neutral,0.0
+2026-10-20 16:05:00,Kevin Warsh's Fed May Not Cut Rates Soon. That's Why This Dividend Stock Belongs in Your Portfolio.,NVDA,Yahoo RSS,neutral,0.0
+2026-10-20 12:56:00,Meta is back on offense — and its next move could signal higher AI spending across Big Tech - MarketWatch,META,Google RSS,positive,0.9272666573524475
+2026-10-20 16:01:43,Meta Shares Plunge Up To 3.5% Ahead Of Results. What Traders Are Looking At - NDTV Profit,META,Google RSS,negative,-0.9116400480270386
+2026-10-20 11:16:12,"Stock market today: Dow rises, S&P 500, Nasdaq climb as dip buying resumes",NFLX,Yahoo RSS,positive,0.8213085532188416
