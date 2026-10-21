@@ -60,7 +60,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-21 08:04:01,Micron and Nvidia Are the 2 Biggest Drivers of S&P 500 Earnings Growth. Are Their Stocks Buys?,NVDA,Yahoo RSS,neutral,0.0
 2026-10-21 08:25:00,"Dow Jones Futures: SpaceX, Supermicro Revive AI Stocks; Tesla, Meta On Deck - Investor's Business Daily",META,Google RSS,neutral,0.0
 2026-10-20 13:21:00,Netflix's weak outlook puts ETFs with heavy exposure under pressure,NFLX,Bing RSS,negative,-0.9677911996841432
-2026-10-19 16:15:00,Amazon Jumps 5% as Morgan Stanley Names It Top Pick on Faster AWS Growth; Microsoft and Alphabet Edge Higher - 24/7 Wall St.,GOOGL,Google RSS,positive,0.9063175916671753
+2026-10-19 16:15:00,Amazon Jumps 5% as Morgan Stanley Names It Top Pick on Faster AWS Growth; Microsoft and Alphabet Edge Higher - 24/7 Wall St.,GOOGL,Google RSS,positive,0.9063175916671752
 2026-10-21 14:06:12,"SpaceX earnings roundup, Meta earnings preview, and tech trade fears",GOOGL,Yahoo RSS,neutral,0.0
 2026-10-19 13:53:00,Why Amazon Stock Is A 'Top Pick' Despite Investor Fears About Meta's Muse - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
 2026-10-21 11:58:35,"Analysts Are Bullish on These Consumer Cyclical Stocks: Sea (SE), Amazon (AMZN) - The Globe and Mail",AMZN,Google RSS,neutral,0.0
@@ -73,7 +73,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-21 13:53:00,SpaceX Stock to $500? Strong Earnings Are Lifting Tech Stocks.,NVDA,Yahoo RSS,positive,0.9307087063789368
 2026-10-21 14:12:37,Tesla Stock Is Trading Just Under Its 200-Day Average Into Earnings. Here’s What Investors Are Watching - Benzinga,TSLA,Google RSS,neutral,0.0
 2026-10-21 08:05:56,SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up - CNBC,TSLA,Google RSS,neutral,0.0
-2026-10-21 11:45:35,Oracle Stock Is Falling as AI Spending Worries Mount. Most Analysts Think ORCL Could Rebound. - Barchart.com,TSLA,Google RSS,negative,-0.9312052726745605
+2026-10-21 11:45:35,Oracle Stock Is Falling as AI Spending Worries Mount. Most Analysts Think ORCL Could Rebound. - Barchart.com,TSLA,Google RSS,negative,-0.9312052726745604
 2026-10-21 00:11:00,"Tesla and Meta Earnings Are Coming: One Mag 7 Stock Is a Strong Buy, the Other Has Run Too Far, Says Top Investor",TSLA,Bing RSS,positive,0.640147864818573
 2026-10-21 14:06:12,"SpaceX earnings roundup, Meta earnings preview, and tech trade fears",TSLA,Yahoo RSS,neutral,0.0
 2026-10-21 12:18:00,"Dow Jones Futures Rise As SpaceX, Supermicro Revive AI Stocks; Tesla, Meta On Deck - Investor's Business Daily",META,Google RSS,neutral,0.0
@@ -87,8 +87,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-21 14:03:45,"Netflix slides as weak outlook deepens worries on viewership, revenue growth By Reuters - Investing.com",NFLX,Google RSS,negative,-0.9521479606628418
 2026-10-21 05:06:57,Netflix stock falls to two-year low after Q3 2026 earnings report,NFLX,Bing RSS,negative,-0.964404821395874
 2026-10-21 07:45:00,Netflix’s Wall Street slump continues following exec shuffle as jittery investors push stock to lowest price in 2 years,NFLX,Bing RSS,negative,-0.9182115197181702
-2026-10-21 03:59:00,Why Is Netflix Stock Falling Over 5% Despite Beating Third-Quarter Earnings Estimates?,NFLX,Bing RSS,negative,-0.9367611408233643
+2026-10-21 03:59:00,Why Is Netflix Stock Falling Over 5% Despite Beating Third-Quarter Earnings Estimates?,NFLX,Bing RSS,negative,-0.9367611408233644
 2026-10-21 07:40:00,Netflix shares slide 4 % as slowing sales growth raises fresh concerns,NFLX,Bing RSS,negative,-0.9685340523719788
 2026-10-21 13:25:03,"Netflix meets Q3 estimates, but streamer's stock slides on weak outlook",NFLX,Yahoo RSS,negative,-0.96977698802948
 2026-10-21 12:18:29,"Dow Jones Futures Rise As SpaceX, Supermicro Revive AI Stocks; Tesla, Meta On Deck",NFLX,Yahoo RSS,neutral,0.0
 2026-10-21 11:49:11,"Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more",NFLX,CNBC Finance,neutral,0.0
+2026-10-21 17:57:47,UPS Volume Is Still Falling. Does Better Pricing Make Up For It?,AMZN,Yahoo RSS,negative,-0.9382465481758118
+2026-10-21 18:11:15,Sony and Microsoft Stocks (MSFT) Rise on Reports of Elevated PlayStation 6 and Project Helix Prices - TipRanks,MSFT,Google RSS,negative,-0.6787099242210388
+2026-10-21 14:16:09,Microsoft stock may move 4.6% on Oct. 28 earnings report By Investing.com - Investing.com Australia,MSFT,Google RSS,neutral,0.0
+2026-10-21 15:05:26,"Microsoft's earnings soar 31% while stock lags, prompting continued investor buying despite high capital spending. - Pluang",MSFT,Google RSS,positive,0.6885207295417786
+2026-10-21 14:40:10,Nvidia Stock ‘Still Underappreciated by Investors’: Gene Munster Sees Growth Opportunities from GTC Berlin - Benzinga,NVDA,Google RSS,neutral,0.0
+2026-10-21 11:29:05,Amkor Technology stock jumps on Nvidia advanced packaging expansion - Investing.com,NVDA,Google RSS,neutral,0.0
+2026-10-21 11:04:00,NVIDIA (NVDA) Stock: Hits $221 as AI Demand Supports Strong Earnings,NVDA,Bing RSS,positive,0.9285504221916199
+2026-10-21 18:45:20,Nvidia’s $1.1 Billion KYEC Deal Is the Small Number in a $279 Billion Supply Bet,NVDA,Yahoo RSS,neutral,0.0
+2026-10-21 08:05:56,SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up - CNBC,TSLA,Google RSS,neutral,0.0
+2026-10-21 15:53:35,"Tesla stock may not double by 2031, but $10,000 could grow to $14,296 amid growth in Robotaxi and deliveries. - Pluang",TSLA,Google RSS,positive,0.6573952436447144
+2026-10-21 17:46:16,Why Is Netflix (NASDAQ:NFLX) Stock Falling 5% Despite Beating Earnings? US$300 Million Warning Hits Shares - Stocks Down Under,NFLX,Google RSS,negative,-0.971143901348114
+2026-10-21 14:25:57,"Netflix slides as weak outlook deepens worries on viewership, revenue growth - BNN Bloomberg",NFLX,Google RSS,negative,-0.9481556415557861
