@@ -5,7 +5,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-16 20:17:00,9 Dow Jones Stocks Make Bullish Moves In A Defensive Market Rotation - Investor's Business Daily,AAPL,Google RSS,neutral,0.0
 2026-10-20 12:24:20,"Apple's iPhone Problem Is Demand, Not Supply, Loop Says - TradingView",AAPL,Google RSS,neutral,0.0
 2026-10-20 07:23:00,Apple stock is the best performer in the Mag 7. An analyst downgrade signals it’s time to pump the brakes.,AAPL,Bing RSS,negative,-0.9314237236976624
-2026-10-20 18:46:00,Apple faces gross margin pressure as UBS flags slowing iPhone growth ahead of earnings,AAPL,Yahoo RSS,negative,-0.9710449576377869
+2026-10-20 18:46:00,Apple faces gross margin pressure as UBS flags slowing iPhone growth ahead of earnings,AAPL,Yahoo RSS,negative,-0.9710449576377868
 2026-10-20 20:16:04,"Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks - Decrypt",GOOGL,Google RSS,neutral,0.0
 2026-10-20 14:20:01,BMO raises Alphabet stock price target on cloud growth outlook - Investing.com,GOOGL,Google RSS,neutral,0.0
 2026-10-16 21:11:57,Alphabet stock analysis: stalled near 200-day average ahead of Q3 earnings - Investing.com,GOOGL,Google RSS,negative,-0.5529983639717102
@@ -14,25 +14,25 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-19 18:33:36,Amazon Leads Dow Gainers as Morgan Stanley Names Stock ‘Top Pick’ - Investopedia,AMZN,Google RSS,neutral,0.0
 2026-10-20 10:03:09,Analysts predict Amazon (AMZN) stock price in next 12 months - Finbold,AMZN,Google RSS,neutral,0.0
 2026-10-19 22:24:00,Amazon vs. Home Depot: Which Consumer Stock Is a Better Buy in 2026? - The Motley Fool,AMZN,Google RSS,neutral,0.0
-2026-10-19 16:15:00,Amazon Jumps 5% as Morgan Stanley Names It Top Pick on Faster AWS Growth; Microsoft and Alphabet Edge Higher - 24/7 Wall St.,AMZN,Google RSS,positive,0.9063175916671753
+2026-10-19 16:15:00,Amazon Jumps 5% as Morgan Stanley Names It Top Pick on Faster AWS Growth; Microsoft and Alphabet Edge Higher - 24/7 Wall St.,AMZN,Google RSS,positive,0.9063175916671752
 2026-10-19 20:15:00,"Sandisk, Datadog, Amazon Lead S&P 500 As AI Stocks Rebound - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
 2026-10-18 11:19:00,2 Retail Stocks to Buy Before the Holiday Shopping Season - The Motley Fool,AMZN,Google RSS,neutral,0.0
-2026-10-20 10:20:43,Amazon stock seen rising over 25% amid strong A... - Pluang,AMZN,Google RSS,positive,0.9489936828613281
+2026-10-20 10:20:43,Amazon stock seen rising over 25% amid strong A... - Pluang,AMZN,Google RSS,positive,0.948993682861328
 2026-10-19 20:30:00,3 Unstoppable Dow Stocks to Buy Before October Ends - The Motley Fool,AMZN,Google RSS,neutral,0.0
 2026-10-19 11:33:00,Amazon Leads Dow Gainers as Morgan Stanley Names Stock ‘Top Pick’,AMZN,Bing RSS,positive,0.5622214674949646
 2026-10-20 13:13:17,Microsoft vs. Oracle: Safe AI Stock or Risky One? Top Investor Weighs In - TipRanks,MSFT,Google RSS,neutral,0.0
 2026-10-20 20:16:04,"Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks - Decrypt",MSFT,Google RSS,neutral,0.0
 2026-10-20 11:32:56,BMO Capital raises Microsoft stock price target on Azure growth By Investing.com - Investing.com Australia,MSFT,Google RSS,neutral,0.0
-2026-10-19 16:15:00,Amazon Jumps 5% as Morgan Stanley Names It Top Pick on Faster AWS Growth; Microsoft and Alphabet Edge Higher - 24/7 Wall St.,MSFT,Google RSS,positive,0.9063175916671753
+2026-10-19 16:15:00,Amazon Jumps 5% as Morgan Stanley Names It Top Pick on Faster AWS Growth; Microsoft and Alphabet Edge Higher - 24/7 Wall St.,MSFT,Google RSS,positive,0.9063175916671752
 2026-10-20 20:16:04,"Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",MSFT,Yahoo RSS,neutral,0.0
 2026-10-20 17:09:00,"Personal AI Launches MODEL‑4, Building Personal Intelligence Directly Into the Network",MSFT,Yahoo RSS,neutral,0.0
-2026-10-20 23:11:00,Super Micro Stock Surges on Strong AI Demand. Why Chip Investors Remain Cautious.,NVDA,Yahoo RSS,negative,-0.42263665795326233
+2026-10-20 23:11:00,Super Micro Stock Surges on Strong AI Demand. Why Chip Investors Remain Cautious.,NVDA,Yahoo RSS,negative,-0.4226366579532623
 2026-10-20 10:39:26,"Tesla unveils ‘flying car,’ but stock plunges amid valuation fears ahead of Q3 earnings - Anadolu Ajansı",TSLA,Google RSS,negative,-0.91741544008255
 2026-10-21 02:53:04,Tesla supplier CATL shares plunge after disappointing Q3 results - Investing.com,TSLA,Google RSS,negative,-0.9649218320846558
 2026-10-21 04:02:09,"Dow Jones Futures: SpaceX, Supermicro Revive AI Stocks; Tesla, Meta On Deck",TSLA,Yahoo RSS,neutral,0.0
-2026-10-21 03:18:47,Tesla supplier CATL shares plunge after disappointing Q3 results,TSLA,Yahoo RSS,negative,-0.9678714871406555
+2026-10-21 03:18:47,Tesla supplier CATL shares plunge after disappointing Q3 results,TSLA,Yahoo RSS,negative,-0.9678714871406556
 2026-10-21 03:07:00,"Dow Jones Futures: AI Stocks Jump On SpaceX, Supermicro; Tesla, Meta On Deck - Investor's Business Daily",META,Google RSS,neutral,0.0
-2026-10-20 12:56:00,Meta is back on offense — and its next move could signal higher AI spending across Big Tech - MarketWatch,META,Google RSS,positive,0.9272666573524475
+2026-10-20 12:56:00,Meta is back on offense — and its next move could signal higher AI spending across Big Tech - MarketWatch,META,Google RSS,positive,0.9272666573524476
 2026-10-20 20:14:39,"US Stocks Close: Dow Rises Over 500 Points Amid Mixed News on US-Iran Talks; Some Tech Stocks Rebound, Meta Falls for Fifth Day - TradingKey",META,Google RSS,negative,-0.7792655825614929
 2026-10-20 10:35:02,Meta stock climbed 25% in September. Here’s why there’s more upside ahead,META,Bing RSS,neutral,0.0
 2026-10-21 04:02:09,"Dow Jones Futures: SpaceX, Supermicro Revive AI Stocks; Tesla, Meta On Deck",META,Yahoo RSS,neutral,0.0
@@ -47,4 +47,16 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-21 02:20:13,U.S. stock futures rise as SpaceX surges on upbeat earnings,NFLX,Yahoo RSS,positive,0.7582365870475769
 2026-10-21 04:02:09,"Dow Jones Futures: SpaceX, Supermicro Revive AI Stocks; Tesla, Meta On Deck",NFLX,Yahoo RSS,neutral,0.0
 2026-10-20 23:47:57,"S&P 500, Dow Gain As Earnings Season Sets In, While SpaceX Aids Nasdaq After-Hours — SPCX, BA, MMM, NFLX, QCOM In Focus",NFLX,Yahoo RSS,positive,0.8423357009887695
-2026-10-21 00:12:00,"Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",NFLX,MarketWatch Top,negative,-0.9296479821205139
+2026-10-21 00:12:00,"Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",NFLX,MarketWatch Top,negative,-0.929647982120514
+2026-10-21 06:12:00,"The Top 15 Stocks in the S&P 500 Are Now 47% of the Value. In 2000 Bubble, It Was 27%",AAPL,Yahoo RSS,neutral,0.0
+2026-10-21 08:45:59,Mizuho reiterates Alphabet stock rating on cloud growth potential - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-10-21 06:12:00,"The Top 15 Stocks in the S&P 500 Are Now 47% of the Value. In 2000 Bubble, It Was 27%",GOOGL,Yahoo RSS,neutral,0.0
+2026-10-21 09:33:00,UK Outdoor Structures Market Report 2026 - Consumer and Home Category Data | Price-Led Demand and Omnichannel Shopping Signal Retail Growth Opportunities,AMZN,Yahoo RSS,positive,0.8358760476112366
+2026-10-19 14:08:00,Neoclouds: Goldman Sachs Upgrades CoreWeave. Microsoft Shelves Nscale Project. - Investor's Business Daily,MSFT,Google RSS,neutral,0.0
+2026-10-20 21:56:55,IREN’s Childress delivery for Microsoft on track for Q4 despite delay rumors,MSFT,Yahoo RSS,positive,0.8306800127029419
+2026-10-21 06:12:00,"The Top 15 Stocks in the S&P 500 Are Now 47% of the Value. In 2000 Bubble, It Was 27%",MSFT,Yahoo RSS,neutral,0.0
+2026-10-21 07:55:02,Micron and Nvidia Are the 2 Biggest Drivers of S&P 500 Earnings Growth. Are Their Stocks Buys? - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-10-21 08:23:24,Micron and Nvidia Are the 2 Biggest Drivers of S&P 500 Earnings Growth. Are Their Stocks Buys? - The Globe and Mail,NVDA,Google RSS,neutral,0.0
+2026-10-21 08:04:01,Micron and Nvidia Are the 2 Biggest Drivers of S&P 500 Earnings Growth. Are Their Stocks Buys?,NVDA,Yahoo RSS,neutral,0.0
+2026-10-21 08:25:00,"Dow Jones Futures: SpaceX, Supermicro Revive AI Stocks; Tesla, Meta On Deck - Investor's Business Daily",META,Google RSS,neutral,0.0
+2026-10-20 13:21:00,Netflix's weak outlook puts ETFs with heavy exposure under pressure,NFLX,Bing RSS,negative,-0.9677911996841431
