@@ -98,9 +98,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-21 15:05:26,"Microsoft's earnings soar 31% while stock lags, prompting continued investor buying despite high capital spending. - Pluang",MSFT,Google RSS,positive,0.6885207295417786
 2026-10-21 14:40:10,Nvidia Stock ‘Still Underappreciated by Investors’: Gene Munster Sees Growth Opportunities from GTC Berlin - Benzinga,NVDA,Google RSS,neutral,0.0
 2026-10-21 11:29:05,Amkor Technology stock jumps on Nvidia advanced packaging expansion - Investing.com,NVDA,Google RSS,neutral,0.0
-2026-10-21 11:04:00,NVIDIA (NVDA) Stock: Hits $221 as AI Demand Supports Strong Earnings,NVDA,Bing RSS,positive,0.9285504221916199
+2026-10-21 11:04:00,NVIDIA (NVDA) Stock: Hits $221 as AI Demand Supports Strong Earnings,NVDA,Bing RSS,positive,0.92855042219162
 2026-10-21 18:45:20,Nvidia’s $1.1 Billion KYEC Deal Is the Small Number in a $279 Billion Supply Bet,NVDA,Yahoo RSS,neutral,0.0
 2026-10-21 08:05:56,SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up - CNBC,TSLA,Google RSS,neutral,0.0
 2026-10-21 15:53:35,"Tesla stock may not double by 2031, but $10,000 could grow to $14,296 amid growth in Robotaxi and deliveries. - Pluang",TSLA,Google RSS,positive,0.6573952436447144
 2026-10-21 17:46:16,Why Is Netflix (NASDAQ:NFLX) Stock Falling 5% Despite Beating Earnings? US$300 Million Warning Hits Shares - Stocks Down Under,NFLX,Google RSS,negative,-0.971143901348114
-2026-10-21 14:25:57,"Netflix slides as weak outlook deepens worries on viewership, revenue growth - BNN Bloomberg",NFLX,Google RSS,negative,-0.9481556415557861
+2026-10-21 14:25:57,"Netflix slides as weak outlook deepens worries on viewership, revenue growth - BNN Bloomberg",NFLX,Google RSS,negative,-0.948155641555786
+2026-10-21 20:02:00,Retail Comebacks Are Rare. History Says These Stocks Could Be AI Winners.,AMZN,Yahoo RSS,neutral,0.0
+2026-10-21 16:57:48,"$5,000 in Microsoft stock could grow to $9,089 in 5 years amid strong AI and cloud growth. - Pluang",MSFT,Google RSS,positive,0.800165593624115
+2026-10-21 20:25:36,"Tesla stock up after hours on results beat, improved automotive gross margin - Investing.com",TSLA,Google RSS,positive,0.9186476469039917
+2026-10-21 20:37:58,"Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment - Reuters",TSLA,Google RSS,positive,0.9022508859634399
+2026-10-21 01:05:56,SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up,TSLA,Bing RSS,positive,0.8824387788772583
+2026-10-21 20:02:36,Meta Reports Third Quarter 2026 Results - Meta Investor Relations,META,Google RSS,neutral,0.0
+2026-10-21 20:51:00,"Dow Jones Futures: Meta, Tesla Are Earnings Movers Late After SpaceX, Super Micro Lead Bullish Nasdaq Move - Investor's Business Daily",META,Google RSS,neutral,0.0
+2026-10-21 22:52:30,Goldman Sachs raises Meta stock price target to $860 on AI momentum - Investing.com Australia,META,Google RSS,neutral,0.0
+2026-10-21 11:45:35,Oracle Stock Is Falling as AI Spending Worries Mount. Most Analysts Think ORCL Could Rebound. - Barchart.com,META,Google RSS,negative,-0.9312052726745605
+2026-10-21 15:12:19,Meta stock surges on strong earnings report; tech giant unveils new shares to bankroll AI spending,META,Bing RSS,positive,0.757584810256958
+2026-10-21 11:43:00,"Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more - CNBC",NFLX,Google RSS,neutral,0.0
