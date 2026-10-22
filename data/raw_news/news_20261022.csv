@@ -7,30 +7,30 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-16 21:11:57,Alphabet stock analysis: stalled near 200-day average ahead of Q3 earnings - Investing.com,GOOGL,Google RSS,negative,-0.5529983639717102
 2026-10-19 13:53:00,Why Amazon Stock Is A 'Top Pick' Despite Investor Fears About Meta's Muse - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
 2026-10-19 18:33:36,Amazon Leads Dow Gainers as Morgan Stanley Names Stock ‘Top Pick’ - Investopedia,AMZN,Google RSS,neutral,0.0
-2026-10-19 16:15:00,Amazon Jumps 5% as Morgan Stanley Names It Top Pick on Faster AWS Growth; Microsoft and Alphabet Edge Higher - 24/7 Wall St.,AMZN,Google RSS,positive,0.9063175916671753
+2026-10-19 16:15:00,Amazon Jumps 5% as Morgan Stanley Names It Top Pick on Faster AWS Growth; Microsoft and Alphabet Edge Higher - 24/7 Wall St.,AMZN,Google RSS,positive,0.9063175916671752
 2026-10-19 20:15:00,"Sandisk, Datadog, Amazon Lead S&P 500 As AI Stocks Rebound - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
 2026-10-20 10:03:09,Analysts predict Amazon (AMZN) stock price in next 12 months - Finbold,AMZN,Google RSS,neutral,0.0
 2026-10-19 20:30:00,3 Unstoppable Dow Stocks to Buy Before October Ends - The Motley Fool,AMZN,Google RSS,neutral,0.0
 2026-10-21 20:02:00,Retail Comebacks Are Rare. History Says These Stocks Could Be AI Winners.,AMZN,Yahoo RSS,neutral,0.0
 2026-10-21 19:11:05,Microsoft stock may move 4.6% on Oct. 28 earnings report - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-10-21 16:57:48,"$5,000 in Microsoft stock could grow to $9,089 in 5 years amid strong AI and cloud growth. - Pluang",MSFT,Google RSS,positive,0.8001663684844971
-2026-10-19 16:15:00,Amazon Jumps 5% as Morgan Stanley Names It Top Pick on Faster AWS Growth; Microsoft and Alphabet Edge Higher - 24/7 Wall St.,MSFT,Google RSS,positive,0.9063175916671753
+2026-10-19 16:15:00,Amazon Jumps 5% as Morgan Stanley Names It Top Pick on Faster AWS Growth; Microsoft and Alphabet Edge Higher - 24/7 Wall St.,MSFT,Google RSS,positive,0.9063175916671752
 2026-10-21 17:08:21,Microsoft and Alphabet opt out of tokenized stocks—the latest blow to an ambitious plan to shake up trading,MSFT,Yahoo RSS,negative,-0.8880404829978943
 2026-10-21 14:40:10,Nvidia Stock ‘Still Underappreciated by Investors’: Gene Munster Sees Growth Opportunities from GTC Berlin - Benzinga,NVDA,Google RSS,neutral,0.0
 2026-10-21 08:44:00,Micron and Nvidia Are the 2 Biggest Drivers of S&P 500 Earnings Growth. Are Their Stocks Buys? - The Motley Fool,NVDA,Google RSS,neutral,0.0
 2026-10-21 11:29:05,Amkor Technology stock jumps on Nvidia advanced packaging expansion - Investing.com,NVDA,Google RSS,neutral,0.0
-2026-10-21 11:04:00,NVIDIA (NVDA) Stock: Hits $221 as AI Demand Supports Strong Earnings,NVDA,Bing RSS,positive,0.9285504221916199
+2026-10-21 11:04:00,NVIDIA (NVDA) Stock: Hits $221 as AI Demand Supports Strong Earnings,NVDA,Bing RSS,positive,0.92855042219162
 2026-10-22 02:05:00,Centrus vs. BWX Technologies: Which Nuclear Supply Chain Stock Is the Better Buy After the Sell-Off?,NVDA,Yahoo RSS,neutral,0.0
 2026-10-21 08:05:56,SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up - CNBC,TSLA,Google RSS,neutral,0.0
 2026-10-22 01:11:45,"U.S. stock futures fall as investors weigh Tesla, Meta earnings By Investing.com - Investing.com",TSLA,Google RSS,negative,-0.9294138550758362
 2026-10-21 23:11:13,"Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment - Reuters",TSLA,Google RSS,positive,0.9022507667541504
 2026-10-21 14:12:37,Tesla Stock Is Trading Just Under Its 200-Day Average Into Earnings. Here’s What Investors Are Watching - Benzinga,TSLA,Google RSS,neutral,0.0
-2026-10-21 03:59:00,Tesla's stock set to finish higher as third-quarter earnings loom,TSLA,Bing RSS,positive,0.9466958045959473
-2026-10-22 01:40:50,"U.S. stock futures fall as investors weigh Tesla, Meta earnings",TSLA,Yahoo RSS,negative,-0.9365252256393433
+2026-10-21 03:59:00,Tesla's stock set to finish higher as third-quarter earnings loom,TSLA,Bing RSS,positive,0.9466958045959472
+2026-10-22 01:40:50,"U.S. stock futures fall as investors weigh Tesla, Meta earnings",TSLA,Yahoo RSS,negative,-0.9365252256393432
 2026-10-22 01:20:34,3 AI Infrastructure Stocks Retail Investors May Be Watching After Tesla SpaceX Merger Talk,TSLA,Yahoo RSS,neutral,0.0
 2026-10-22 01:11:45,"U.S. stock futures fall as investors weigh Tesla, Meta earnings By Investing.com - Investing.com",META,Google RSS,negative,-0.9294138550758362
 2026-10-21 23:00:34,"Meta Q3: From Facebook To Muse, Strong Growth Makes This A Strong Buy (NASDAQ:META) - Seeking Alpha",META,Google RSS,positive,0.7888449430465698
-2026-10-22 01:40:50,"U.S. stock futures fall as investors weigh Tesla, Meta earnings",META,Yahoo RSS,negative,-0.9365252256393433
+2026-10-22 01:40:50,"U.S. stock futures fall as investors weigh Tesla, Meta earnings",META,Yahoo RSS,negative,-0.9365252256393432
 2026-10-20 18:05:38,Traders are betting Netflix's stock drama may be coming to an end - CNBC,NFLX,Google RSS,neutral,0.0
 2026-10-20 20:02:00,Netflix co-CEO Sarandos says 'we could do better' after weak forecast - Reuters,NFLX,Google RSS,negative,-0.8946024179458618
 2026-10-20 14:26:00,Here’s How Much Traders See Netflix Stock Moving After Earnings - Investopedia,NFLX,Google RSS,neutral,0.0
@@ -38,3 +38,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-21 13:45:00,Netflix's Wall Street slump continues following exec shuffle as jittery investors push stock to lowest price in 2 years - Page Six,NFLX,Google RSS,negative,-0.8802763819694519
 2026-10-21 17:48:18,Why Is Netflix (NASDAQ:NFLX) Stock Falling 5% Despite Beating Earnings? US$300 Million Warning Hits Shares - Stocks Down Under,NFLX,Google RSS,negative,-0.971143901348114
 2026-10-21 11:49:11,"Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more",NFLX,CNBC Finance,neutral,0.0
+2026-10-22 09:00:00,"Goldman Sachs Commits $500 Million to Launch Small Business AI Institute and Expand 10,000 Small Businesses",GOOGL,Yahoo RSS,positive,0.7151214480400085
+2026-10-21 18:12:05,Sony and Microsoft Stocks (MSFT) Rise on Reports of Elevated PlayStation 6 and Project Helix Prices - TipRanks,MSFT,Google RSS,negative,-0.6787120699882507
+2026-10-21 03:59:00,Amkor Technology stock jumps on Nvidia advanced packaging expansion,NVDA,Bing RSS,negative,-0.4031650722026825
+2026-10-22 08:35:00,"Got $1,000? 2 Growth Stocks Building the Quantum Computing Revolution",NVDA,Yahoo RSS,neutral,0.0
+2026-10-22 07:39:18,"U.S. stock futures drop as investors weigh Tesla, Meta earnings By Investing.com - Investing.com",TSLA,Google RSS,negative,-0.9459530115127563
+2026-10-22 09:45:00,"Stock market today: Dow, S&P 500, Nasdaq futures fall as traders assess Tesla, Meta earnings",TSLA,Yahoo RSS,negative,-0.9496007561683655
+2026-10-22 07:39:18,"U.S. stock futures drop as investors weigh Tesla, Meta earnings By Investing.com - Investing.com",META,Google RSS,negative,-0.9459530115127563
+2026-10-22 02:15:00,"Stocks fall, bonds gain as Meta dents tech optimism - Reuters",META,Google RSS,negative,-0.7376670241355896
+2026-10-22 09:02:28,Meta Has a New ‘North Star’ — Mark Zuckerberg Explains Why He’s Betting Big on Personal Superintelligence - Benzinga,META,Google RSS,neutral,0.0
+2026-10-22 01:56:18,Goldman Sachs raises Meta stock price target to $860 on AI momentum - Investing.com Nigeria,META,Google RSS,neutral,0.0
+2026-10-22 09:45:00,"Stock market today: Dow, S&P 500, Nasdaq futures fall as traders assess Tesla, Meta earnings",META,Yahoo RSS,negative,-0.9496007561683655
+2026-10-22 09:00:00,"Goldman Sachs Commits $500 Million to Launch Small Business AI Institute and Expand 10,000 Small Businesses",META,Yahoo RSS,positive,0.7151214480400085
+2026-10-21 11:43:00,"Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more - CNBC",NFLX,Google RSS,neutral,0.0
+2026-10-21 05:06:57,Netflix stock falls to two-year low after Q3 2026 earnings report,NFLX,Bing RSS,negative,-0.964404821395874
+2026-10-21 03:59:00,Why Is Netflix Stock Falling Over 5% Despite Beating Third-Quarter Earnings Estimates?,NFLX,Bing RSS,negative,-0.9367611408233643
+2026-10-21 07:45:00,Netflix’s Wall Street slump continues following exec shuffle as jittery investors push stock to lowest price in 2 years,NFLX,Bing RSS,negative,-0.9182115197181702
+2026-10-22 09:55:00,"Meta’s stock falls in early trading amid broader sector selloff, despite well-received results",META,MarketWatch Top,negative,-0.9679439663887024
