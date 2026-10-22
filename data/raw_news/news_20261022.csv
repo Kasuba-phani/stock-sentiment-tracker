@@ -43,15 +43,28 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-21 03:59:00,Amkor Technology stock jumps on Nvidia advanced packaging expansion,NVDA,Bing RSS,negative,-0.4031650722026825
 2026-10-22 08:35:00,"Got $1,000? 2 Growth Stocks Building the Quantum Computing Revolution",NVDA,Yahoo RSS,neutral,0.0
 2026-10-22 07:39:18,"U.S. stock futures drop as investors weigh Tesla, Meta earnings By Investing.com - Investing.com",TSLA,Google RSS,negative,-0.9459530115127563
-2026-10-22 09:45:00,"Stock market today: Dow, S&P 500, Nasdaq futures fall as traders assess Tesla, Meta earnings",TSLA,Yahoo RSS,negative,-0.9496007561683655
+2026-10-22 09:45:00,"Stock market today: Dow, S&P 500, Nasdaq futures fall as traders assess Tesla, Meta earnings",TSLA,Yahoo RSS,negative,-0.9496007561683656
 2026-10-22 07:39:18,"U.S. stock futures drop as investors weigh Tesla, Meta earnings By Investing.com - Investing.com",META,Google RSS,negative,-0.9459530115127563
 2026-10-22 02:15:00,"Stocks fall, bonds gain as Meta dents tech optimism - Reuters",META,Google RSS,negative,-0.7376670241355896
 2026-10-22 09:02:28,Meta Has a New ‘North Star’ — Mark Zuckerberg Explains Why He’s Betting Big on Personal Superintelligence - Benzinga,META,Google RSS,neutral,0.0
 2026-10-22 01:56:18,Goldman Sachs raises Meta stock price target to $860 on AI momentum - Investing.com Nigeria,META,Google RSS,neutral,0.0
-2026-10-22 09:45:00,"Stock market today: Dow, S&P 500, Nasdaq futures fall as traders assess Tesla, Meta earnings",META,Yahoo RSS,negative,-0.9496007561683655
+2026-10-22 09:45:00,"Stock market today: Dow, S&P 500, Nasdaq futures fall as traders assess Tesla, Meta earnings",META,Yahoo RSS,negative,-0.9496007561683656
 2026-10-22 09:00:00,"Goldman Sachs Commits $500 Million to Launch Small Business AI Institute and Expand 10,000 Small Businesses",META,Yahoo RSS,positive,0.7151214480400085
 2026-10-21 11:43:00,"Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more - CNBC",NFLX,Google RSS,neutral,0.0
 2026-10-21 05:06:57,Netflix stock falls to two-year low after Q3 2026 earnings report,NFLX,Bing RSS,negative,-0.964404821395874
-2026-10-21 03:59:00,Why Is Netflix Stock Falling Over 5% Despite Beating Third-Quarter Earnings Estimates?,NFLX,Bing RSS,negative,-0.9367611408233643
+2026-10-21 03:59:00,Why Is Netflix Stock Falling Over 5% Despite Beating Third-Quarter Earnings Estimates?,NFLX,Bing RSS,negative,-0.9367611408233644
 2026-10-21 07:45:00,Netflix’s Wall Street slump continues following exec shuffle as jittery investors push stock to lowest price in 2 years,NFLX,Bing RSS,negative,-0.9182115197181702
 2026-10-22 09:55:00,"Meta’s stock falls in early trading amid broader sector selloff, despite well-received results",META,MarketWatch Top,negative,-0.9679439663887024
+2026-10-22 13:26:19,Should Match Stock's New High Stop You From Buying?,GOOGL,Yahoo RSS,neutral,0.0
+2026-10-19 11:33:00,Amazon Leads Dow Gainers as Morgan Stanley Names Stock ‘Top Pick’,AMZN,Bing RSS,positive,0.5622214674949646
+2026-10-20 08:55:18,"Dear Microsoft stock fans, mark your calendar for October 28",MSFT,Bing RSS,neutral,0.0
+2026-10-22 13:37:41,Jensen Huang pushed back on 2029 memory glut fears amid stock selloff - Quartz,NVDA,Google RSS,negative,-0.8457255363464355
+2026-10-22 01:12:28,"U.S. stock futures drop as Tesla, Meta fall after earnings; oil jumps, bonds rally - Investing.com",TSLA,Google RSS,negative,-0.9459314346313477
+2026-10-22 12:34:58,"Tesla drops as spending pullback clouds AI, robotics ambitions - BNN Bloomberg",TSLA,Google RSS,negative,-0.9417900443077087
+2026-10-21 22:57:00,"Tesla Earnings Beat, FSD Revenue Strong, But Stock Falls - Investor's Business Daily",TSLA,Google RSS,negative,-0.9133699536323547
+2026-10-22 13:59:19,"Stocks retreat as tech mood sours, oil prices jump",TSLA,Yahoo RSS,negative,-0.948069155216217
+2026-10-22 13:17:00,Meta Stock Falls Despite Strong Q3 Results As AI Spending Takes Focus - Investor's Business Daily,META,Google RSS,negative,-0.7954972386360168
+2026-10-22 02:15:00,Stocks fall as Meta dents AI optimism; French bonds under fire - Reuters,META,Google RSS,negative,-0.9341086745262146
+2026-10-22 01:12:28,"U.S. stock futures drop as Tesla, Meta fall after earnings; oil jumps, bonds rally - Investing.com",META,Google RSS,negative,-0.9459314346313477
+2026-10-22 13:11:56,"Chip Stocks Tumble, Crushing Investor Hopes for a Long-Term Rebound - Investopedia",META,Google RSS,negative,-0.9440776705741882
+2026-10-22 13:59:19,"Stocks retreat as tech mood sours, oil prices jump",META,Yahoo RSS,negative,-0.948069155216217
