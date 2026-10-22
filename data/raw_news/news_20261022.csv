@@ -59,12 +59,24 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-19 11:33:00,Amazon Leads Dow Gainers as Morgan Stanley Names Stock ‘Top Pick’,AMZN,Bing RSS,positive,0.5622214674949646
 2026-10-20 08:55:18,"Dear Microsoft stock fans, mark your calendar for October 28",MSFT,Bing RSS,neutral,0.0
 2026-10-22 13:37:41,Jensen Huang pushed back on 2029 memory glut fears amid stock selloff - Quartz,NVDA,Google RSS,negative,-0.8457255363464355
-2026-10-22 01:12:28,"U.S. stock futures drop as Tesla, Meta fall after earnings; oil jumps, bonds rally - Investing.com",TSLA,Google RSS,negative,-0.9459314346313477
-2026-10-22 12:34:58,"Tesla drops as spending pullback clouds AI, robotics ambitions - BNN Bloomberg",TSLA,Google RSS,negative,-0.9417900443077087
-2026-10-21 22:57:00,"Tesla Earnings Beat, FSD Revenue Strong, But Stock Falls - Investor's Business Daily",TSLA,Google RSS,negative,-0.9133699536323547
+2026-10-22 01:12:28,"U.S. stock futures drop as Tesla, Meta fall after earnings; oil jumps, bonds rally - Investing.com",TSLA,Google RSS,negative,-0.9459314346313475
+2026-10-22 12:34:58,"Tesla drops as spending pullback clouds AI, robotics ambitions - BNN Bloomberg",TSLA,Google RSS,negative,-0.9417900443077089
+2026-10-21 22:57:00,"Tesla Earnings Beat, FSD Revenue Strong, But Stock Falls - Investor's Business Daily",TSLA,Google RSS,negative,-0.9133699536323548
 2026-10-22 13:59:19,"Stocks retreat as tech mood sours, oil prices jump",TSLA,Yahoo RSS,negative,-0.948069155216217
 2026-10-22 13:17:00,Meta Stock Falls Despite Strong Q3 Results As AI Spending Takes Focus - Investor's Business Daily,META,Google RSS,negative,-0.7954972386360168
 2026-10-22 02:15:00,Stocks fall as Meta dents AI optimism; French bonds under fire - Reuters,META,Google RSS,negative,-0.9341086745262146
-2026-10-22 01:12:28,"U.S. stock futures drop as Tesla, Meta fall after earnings; oil jumps, bonds rally - Investing.com",META,Google RSS,negative,-0.9459314346313477
+2026-10-22 01:12:28,"U.S. stock futures drop as Tesla, Meta fall after earnings; oil jumps, bonds rally - Investing.com",META,Google RSS,negative,-0.9459314346313475
 2026-10-22 13:11:56,"Chip Stocks Tumble, Crushing Investor Hopes for a Long-Term Rebound - Investopedia",META,Google RSS,negative,-0.9440776705741882
 2026-10-22 13:59:19,"Stocks retreat as tech mood sours, oil prices jump",META,Yahoo RSS,negative,-0.948069155216217
+2026-10-22 15:00:43,"iPhone Duo preorder surge prompts Apple to raise shipment targets, DigiTimes says",AAPL,Yahoo RSS,positive,0.801166832447052
+2026-10-22 11:17:00,Nvidia earnings are coming next month and the stock looks poised to dip regardless of the outcome,NVDA,Bing RSS,negative,-0.9663083553314209
+2026-10-22 11:35:00,Super Micro Computer (SMCI) Stock: Plunges 6.52% Despite Major NVIDIA Vera AI Rack Launch,NVDA,Bing RSS,negative,-0.971445620059967
+2026-10-22 10:51:02,"CLSA upgrades Tesla stock rating on merger sentiment, raises price target to $400 - Investing.com",TSLA,Google RSS,positive,0.5474821925163269
+2026-10-22 18:16:18,Why is Meta stock down today: Shares fall 7% after earnings - Opening Bell Daily,TSLA,Google RSS,negative,-0.9702112078666687
+2026-10-22 02:30:00,Tesla-SpaceX merger proposal sparks stock dip despite ARK’s long-term growth forecast,TSLA,Bing RSS,negative,-0.9291704297065735
+2026-10-22 18:16:18,Why is Meta stock down today: Shares fall 7% after earnings - Opening Bell Daily,META,Google RSS,negative,-0.9702112078666687
+2026-10-22 18:17:13,Meta stock falls despite Wall Street analysts raising price targets - TheStreet,META,Google RSS,negative,-0.5232110619544983
+2026-10-22 16:33:00,Surging oil prices and fresh tech jitters are hammering stocks - Business Insider,META,Google RSS,negative,-0.9496338963508606
+2026-10-22 15:32:39,META on track for its third consecutive drop of more than 5% after earnings (META:NASDAQ) - Seeking Alpha,META,Google RSS,negative,-0.9703174829483032
+2026-10-22 15:24:04,"Meta stock drops more than 6% despite strong Q3 results, stock split - شبكة تواصل الإخبارية",META,Google RSS,negative,-0.963624119758606
+2026-10-22 11:15:20,Meta share price: Stock slumps 7.5% despite upbeat Q3 results; why is Facebook parent falling?,META,Bing RSS,negative,-0.9633095264434814
