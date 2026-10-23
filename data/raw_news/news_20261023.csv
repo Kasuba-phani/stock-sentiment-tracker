@@ -72,12 +72,22 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-23 14:50:00,"Q3 Earnings Season: Strong Base, Higher Revision Trends, and Promising 2027 Outlook",AMZN,Yahoo RSS,positive,0.9564557075500488
 2026-10-23 14:50:00,"Q3 Earnings Season: Strong Base, Higher Revision Trends, and Promising 2027 Outlook",MSFT,Yahoo RSS,positive,0.9564557075500488
 2026-10-23 17:47:09,Strong Azure Growth and Cash Flow Discipline Strengthen Microsoft Corporation (MSFT),MSFT,Yahoo RSS,positive,0.943150520324707
-2026-10-23 15:00:45,AMD Stock Price Prediction: One Growth Opportunity Could Push Shares Much Higher,MSFT,Yahoo RSS,positive,0.9412106871604919
+2026-10-23 15:00:45,AMD Stock Price Prediction: One Growth Opportunity Could Push Shares Much Higher,MSFT,Yahoo RSS,positive,0.941210687160492
 2026-10-21 14:12:37,Tesla Stock Is Trading Just Under Its 200-Day Average Into Earnings. Here’s What Investors Are Watching - TradingView,TSLA,Google RSS,neutral,0.0
 2026-10-23 17:05:39,'A cyclical downturn is inevitable' in an AI crash: Strategist Dario Perkins,TSLA,Yahoo RSS,negative,-0.717283308506012
 2026-10-23 16:15:56,"SpaceX earnings, tech sell-off lead to rocky week for investors",TSLA,Yahoo RSS,negative,-0.95320725440979
 2026-10-23 14:50:00,"Q3 Earnings Season: Strong Base, Higher Revision Trends, and Promising 2027 Outlook",TSLA,Yahoo RSS,positive,0.9564557075500488
-2026-10-22 13:03:40,"Stock market today: S&P 500, Nasdaq tanks as tech stocks sink amid AI trade worries, Meta shares plummet",META,Bing RSS,negative,-0.9657077789306641
+2026-10-22 13:03:40,"Stock market today: S&P 500, Nasdaq tanks as tech stocks sink amid AI trade worries, Meta shares plummet",META,Bing RSS,negative,-0.965707778930664
 2026-10-23 17:05:39,'A cyclical downturn is inevitable' in an AI crash: Strategist Dario Perkins,META,Yahoo RSS,negative,-0.717283308506012
-2026-10-23 18:03:15,Update: US Equity Indexes Mixed as Technology Attempts Recovery Amid Surging Crude Oil,META,Yahoo RSS,negative,-0.9137706160545349
+2026-10-23 18:03:15,Update: US Equity Indexes Mixed as Technology Attempts Recovery Amid Surging Crude Oil,META,Yahoo RSS,negative,-0.9137706160545348
 2026-10-21 05:06:57,Netflix stock falls to two-year low after Q3 2026 earnings report,NFLX,Bing RSS,negative,-0.964404821395874
+2026-10-23 18:48:36,Microsoft Stocks Face a Cloud-Margin Test in Wednesday's AI Earnings - GuruFocus,MSFT,Google RSS,negative,-0.9454850554466248
+2026-10-23 19:57:57,Tech Stocks Got A Late Lift From Microsoft And ServiceNow - Finimize,MSFT,Google RSS,positive,0.8714628219604492
+2026-10-23 20:05:02,2 Growth Stocks to Hold for the Next Decade (Hint: These Aren’t AI Stocks),NVDA,Yahoo RSS,neutral,0.0
+2026-10-23 20:34:13,AMD Stock Fell 8% in a Day as Lam Research’s Supply Warning Sank Chip Stocks. Here’s Where the Stock Could Go by 2030,NVDA,Yahoo RSS,negative,-0.9352537393569946
+2026-10-23 20:35:19,"US Equity Indexes Close Mixed This Week as Investors Rotate into Treasury Bonds, Defensives as AI Trade Falters",TSLA,Yahoo RSS,negative,-0.9534371495246887
+2026-10-23 20:35:19,"US Equity Indexes Close Mixed This Week as Investors Rotate into Treasury Bonds, Defensives as AI Trade Falters",META,Yahoo RSS,negative,-0.9534371495246887
+2026-10-23 20:29:15,"Update: US Equity Indexes Fall, Treasury Yields Jump as Iran Tensions Send Crude Oil Sharply Higher",META,Yahoo RSS,negative,-0.9679158329963684
+2026-10-23 20:08:00,Dow and Small Caps Climb Weekly While Nasdaq Slips on Megacap Earnings Charges,META,Yahoo RSS,negative,-0.9498463869094849
+2026-10-23 19:47:41,Update: US Equity Indexes Fall as Rising Iran Tensions Push Crude Oil Higher,META,Yahoo RSS,negative,-0.9718874096870422
+2026-10-23 20:35:19,"US Equity Indexes Close Mixed This Week as Investors Rotate into Treasury Bonds, Defensives as AI Trade Falters",NFLX,Yahoo RSS,negative,-0.9534371495246887
