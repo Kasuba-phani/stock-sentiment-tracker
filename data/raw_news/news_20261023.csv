@@ -63,7 +63,21 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-23 06:01:51,"Stocktwits AI Roundup: Meta’s Capex, Lam’s Supply Warning Hit Tech Stocks As Netflix Disappoints",NFLX,Yahoo RSS,negative,-0.8047406673431396
 2026-10-23 12:59:23,"The Week Ahead: US rate decision, PCE inflation, Microsoft earnings - CMC Markets",MSFT,Google RSS,neutral,0.0
 2026-10-23 14:30:30,"Microsoft, Google and Goldman Just Said No to 24/7 Tokenized Shares. AI Stocks Are Leading the Walkout - Memeburn",MSFT,Google RSS,neutral,0.0
-2026-10-23 10:51:37,"Meta stock loses $124 billion, fourth most in the S&P 500 - Opening Bell Daily",META,Google RSS,negative,-0.9562961459159851
+2026-10-23 10:51:37,"Meta stock loses $124 billion, fourth most in the S&P 500 - Opening Bell Daily",META,Google RSS,negative,-0.9562961459159852
 2026-10-23 09:30:00,Retirees Holding Meta Face a New Risk Despite Strong Earnings - AOL.com,META,Google RSS,neutral,0.0
 2026-10-21 11:43:00,"Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more - CNBC",NFLX,Google RSS,neutral,0.0
 2026-10-20 11:05:38,Traders are betting Netflix's stock drama may be coming to an end,NFLX,Bing RSS,negative,-0.7855498790740967
+2026-10-23 14:50:00,"Q3 Earnings Season: Strong Base, Higher Revision Trends, and Promising 2027 Outlook",GOOGL,Yahoo RSS,positive,0.9564557075500488
+2026-10-23 18:32:57,Amazon Ranks No. 1 Among Consumer Stocks - GuruFocus,AMZN,Google RSS,positive,0.5525781512260437
+2026-10-23 14:50:00,"Q3 Earnings Season: Strong Base, Higher Revision Trends, and Promising 2027 Outlook",AMZN,Yahoo RSS,positive,0.9564557075500488
+2026-10-23 14:50:00,"Q3 Earnings Season: Strong Base, Higher Revision Trends, and Promising 2027 Outlook",MSFT,Yahoo RSS,positive,0.9564557075500488
+2026-10-23 17:47:09,Strong Azure Growth and Cash Flow Discipline Strengthen Microsoft Corporation (MSFT),MSFT,Yahoo RSS,positive,0.943150520324707
+2026-10-23 15:00:45,AMD Stock Price Prediction: One Growth Opportunity Could Push Shares Much Higher,MSFT,Yahoo RSS,positive,0.9412106871604919
+2026-10-21 14:12:37,Tesla Stock Is Trading Just Under Its 200-Day Average Into Earnings. Here’s What Investors Are Watching - TradingView,TSLA,Google RSS,neutral,0.0
+2026-10-23 17:05:39,'A cyclical downturn is inevitable' in an AI crash: Strategist Dario Perkins,TSLA,Yahoo RSS,negative,-0.717283308506012
+2026-10-23 16:15:56,"SpaceX earnings, tech sell-off lead to rocky week for investors",TSLA,Yahoo RSS,negative,-0.95320725440979
+2026-10-23 14:50:00,"Q3 Earnings Season: Strong Base, Higher Revision Trends, and Promising 2027 Outlook",TSLA,Yahoo RSS,positive,0.9564557075500488
+2026-10-22 13:03:40,"Stock market today: S&P 500, Nasdaq tanks as tech stocks sink amid AI trade worries, Meta shares plummet",META,Bing RSS,negative,-0.9657077789306641
+2026-10-23 17:05:39,'A cyclical downturn is inevitable' in an AI crash: Strategist Dario Perkins,META,Yahoo RSS,negative,-0.717283308506012
+2026-10-23 18:03:15,Update: US Equity Indexes Mixed as Technology Attempts Recovery Amid Surging Crude Oil,META,Yahoo RSS,negative,-0.9137706160545349
+2026-10-21 05:06:57,Netflix stock falls to two-year low after Q3 2026 earnings report,NFLX,Bing RSS,negative,-0.964404821395874
