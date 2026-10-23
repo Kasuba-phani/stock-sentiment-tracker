@@ -61,3 +61,9 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-21 00:12:00,"Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock - MarketWatch",NFLX,Google RSS,negative,-0.8805127739906311
 2026-10-23 06:04:51,"Stocktwits AI Roundup: Meta’s Capex, Lam’s Supply Warning Hit Tech Stocks As Netflix Disappoints - Stocktwits",NFLX,Google RSS,negative,-0.7458972334861755
 2026-10-23 06:01:51,"Stocktwits AI Roundup: Meta’s Capex, Lam’s Supply Warning Hit Tech Stocks As Netflix Disappoints",NFLX,Yahoo RSS,negative,-0.8047406673431396
+2026-10-23 12:59:23,"The Week Ahead: US rate decision, PCE inflation, Microsoft earnings - CMC Markets",MSFT,Google RSS,neutral,0.0
+2026-10-23 14:30:30,"Microsoft, Google and Goldman Just Said No to 24/7 Tokenized Shares. AI Stocks Are Leading the Walkout - Memeburn",MSFT,Google RSS,neutral,0.0
+2026-10-23 10:51:37,"Meta stock loses $124 billion, fourth most in the S&P 500 - Opening Bell Daily",META,Google RSS,negative,-0.9562961459159851
+2026-10-23 09:30:00,Retirees Holding Meta Face a New Risk Despite Strong Earnings - AOL.com,META,Google RSS,neutral,0.0
+2026-10-21 11:43:00,"Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more - CNBC",NFLX,Google RSS,neutral,0.0
+2026-10-20 11:05:38,Traders are betting Netflix's stock drama may be coming to an end,NFLX,Bing RSS,negative,-0.7855498790740967
