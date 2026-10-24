@@ -53,4 +53,5 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-24 15:20:07,"Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",NVDA,Yahoo RSS,negative,-0.9582992792129515
 2026-10-24 16:12:34,3 EV Supply Chain Stocks Facing The China Threat In US Manufacturing,TSLA,Yahoo RSS,negative,-0.4288417994976043
 2026-10-24 15:20:07,"Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",META,Yahoo RSS,negative,-0.9582992792129515
-2026-10-21 03:59:00,Tesla's stock set to finish higher as third-quarter earnings loom,TSLA,Bing RSS,positive,0.9466958045959473
+2026-10-21 03:59:00,Tesla's stock set to finish higher as third-quarter earnings loom,TSLA,Bing RSS,positive,0.9466958045959472
+2026-10-22 20:06:34,"Stocks drop as Meta fans AI worries, Treasuries gain - Reuters",META,Google RSS,negative,-0.9162824749946594
