@@ -47,9 +47,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-24 09:50:24,"Meta stock prediction: $910.82 bull, $540.47 bear - FinanceFeeds",META,Google RSS,neutral,0.0
 2026-10-24 11:03:27,Why Meta's spending sent stocks lower during a volatile market week - AOL.com,META,Google RSS,negative,-0.8071545362472534
 2026-10-20 17:12:00,"Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",NFLX,Bing RSS,negative,-0.9296482801437378
-2026-10-24 15:20:07,"Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",AAPL,Yahoo RSS,negative,-0.9582992792129517
-2026-10-24 15:20:07,"Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",GOOGL,Yahoo RSS,negative,-0.9582992792129517
-2026-10-24 15:20:07,"Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",MSFT,Yahoo RSS,negative,-0.9582992792129517
-2026-10-24 15:20:07,"Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",NVDA,Yahoo RSS,negative,-0.9582992792129517
-2026-10-24 16:12:34,3 EV Supply Chain Stocks Facing The China Threat In US Manufacturing,TSLA,Yahoo RSS,negative,-0.42884179949760437
-2026-10-24 15:20:07,"Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",META,Yahoo RSS,negative,-0.9582992792129517
+2026-10-24 15:20:07,"Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",AAPL,Yahoo RSS,negative,-0.9582992792129515
+2026-10-24 15:20:07,"Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",GOOGL,Yahoo RSS,negative,-0.9582992792129515
+2026-10-24 15:20:07,"Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",MSFT,Yahoo RSS,negative,-0.9582992792129515
+2026-10-24 15:20:07,"Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",NVDA,Yahoo RSS,negative,-0.9582992792129515
+2026-10-24 16:12:34,3 EV Supply Chain Stocks Facing The China Threat In US Manufacturing,TSLA,Yahoo RSS,negative,-0.4288417994976043
+2026-10-24 15:20:07,"Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",META,Yahoo RSS,negative,-0.9582992792129515
+2026-10-21 03:59:00,Tesla's stock set to finish higher as third-quarter earnings loom,TSLA,Bing RSS,positive,0.9466958045959473
