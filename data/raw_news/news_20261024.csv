@@ -37,6 +37,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-23 20:35:19,"US Equity Indexes Close Mixed This Week as Investors Rotate into Treasury Bonds, Defensives as AI Trade Falters",NFLX,Yahoo RSS,negative,-0.9534371495246888
 2026-10-21 11:49:11,"Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more",NFLX,CNBC Finance,neutral,0.0
 2026-10-20 08:55:18,"Dear Microsoft stock fans, mark your calendar for October 28",MSFT,Bing RSS,neutral,0.0
-2026-10-21 11:04:00,NVIDIA (NVDA) Stock: Hits $221 as AI Demand Supports Strong Earnings,NVDA,Bing RSS,positive,0.9285504221916199
+2026-10-21 11:04:00,NVIDIA (NVDA) Stock: Hits $221 as AI Demand Supports Strong Earnings,NVDA,Bing RSS,positive,0.92855042219162
 2026-10-22 11:35:00,Super Micro Computer (SMCI) Stock: Plunges 6.52% Despite Major NVIDIA Vera AI Rack Launch,NVDA,Bing RSS,negative,-0.971445620059967
 2026-10-24 01:14:01,Mercari And 2 Other High Growth Insider Stocks,TSLA,Yahoo RSS,neutral,0.0
+2026-10-21 16:12:00,Meta stock surges on strong earnings report; tech giant unveils new shares to bankroll AI spending,META,Bing RSS,positive,0.7575842142105103
