@@ -1,0 +1,34 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-10-19 20:39:00,Apple Stock Holds Strong Amid Healthy iPhone Duo Preorders - Investor's Business Daily,AAPL,Google RSS,positive,0.6761374473571777
+2026-10-23 22:35:57,"S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week — AAPL, AXP, CART, UBER In Focus",AAPL,Yahoo RSS,negative,-0.7024924755096436
+2026-10-24 15:20:07,"Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",AAPL,Yahoo RSS,negative,-0.9582992792129517
+2026-10-24 23:47:48,"Alphabet, Microsoft and Amazon lead 10 major earnings reports next week - Opening Bell Daily",GOOGL,Google RSS,neutral,0.0
+2026-10-20 14:20:01,BMO raises Alphabet stock price target on cloud growth outlook - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-10-24 15:20:07,"Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",GOOGL,Yahoo RSS,negative,-0.9582992792129517
+2026-10-19 13:53:00,Why Amazon Stock Is A 'Top Pick' Despite Investor Fears About Meta's Muse - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
+2026-10-19 18:33:36,Amazon Leads Dow Gainers as Morgan Stanley Names Stock ‘Top Pick’ - Investopedia,AMZN,Google RSS,neutral,0.0
+2026-10-19 11:33:00,Amazon Leads Dow Gainers as Morgan Stanley Names Stock ‘Top Pick’,AMZN,Bing RSS,positive,0.5622214674949646
+2026-10-23 10:28:15,Home Page - Microsoft Investor Relations - Microsoft,MSFT,Google RSS,neutral,0.0
+2026-10-24 23:47:48,"Alphabet, Microsoft and Amazon lead 10 major earnings reports next week - Opening Bell Daily",MSFT,Google RSS,neutral,0.0
+2026-10-24 15:20:07,"Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",MSFT,Yahoo RSS,negative,-0.9582992792129517
+2026-10-24 00:30:09,Strong Azure Growth and Cash Flow Discipline Strengthen Microsoft Corporation (MSFT),MSFT,Yahoo RSS,positive,0.943150520324707
+2026-10-21 14:40:10,Nvidia Stock ‘Still Underappreciated by Investors’: Gene Munster Sees Growth Opportunities from GTC Berlin - Benzinga,NVDA,Google RSS,neutral,0.0
+2026-10-22 10:51:02,"CLSA upgrades Tesla stock rating on merger sentiment, raises price target to $400 - Investing.com",TSLA,Google RSS,positive,0.5474785566329956
+2026-10-22 12:34:58,"Tesla drops as spending pullback clouds AI, robotics ambitions - BNN Bloomberg",TSLA,Google RSS,negative,-0.9417900443077087
+2026-10-21 14:12:37,Tesla Stock Is Trading Just Under Its 200-Day Average Into Earnings. Here’s What Investors Are Watching - TradingView,TSLA,Google RSS,neutral,0.0
+2026-10-24 16:12:34,3 EV Supply Chain Stocks Facing The China Threat In US Manufacturing,TSLA,Yahoo RSS,negative,-0.42884179949760437
+2026-10-22 13:17:00,Meta Stock Falls Despite Strong Q3 Results As AI Spending Takes Focus - Investor's Business Daily,META,Google RSS,negative,-0.7954972386360168
+2026-10-22 23:01:32,Why is Meta stock down today: Shares fall 7% after earnings - Opening Bell Daily,META,Google RSS,negative,-0.9702112078666687
+2026-10-23 10:51:37,"Meta stock loses $124 billion, fourth most in the S&P 500 - Opening Bell Daily",META,Google RSS,negative,-0.9562960863113403
+2026-10-22 18:17:13,Meta stock falls despite Wall Street analysts raising price targets - TheStreet,META,Google RSS,negative,-0.5232118368148804
+2026-10-21 16:12:00,Meta stock surges on strong earnings report; tech giant unveils new shares to bankroll AI spending,META,Bing RSS,positive,0.7575842142105103
+2026-10-24 15:20:07,"Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio",META,Yahoo RSS,negative,-0.9582992792129517
+2026-10-25 03:15:34,3 Top Founder Led Stocks To Watch With Up To 82% Revenue Growth,META,Yahoo RSS,positive,0.9030895233154297
+2026-10-20 18:05:38,Traders are betting Netflix's stock drama may be coming to an end - CNBC,NFLX,Google RSS,neutral,0.0
+2026-10-20 14:26:00,Here’s How Much Traders See Netflix Stock Moving After Earnings - Investopedia,NFLX,Google RSS,neutral,0.0
+2026-10-21 11:43:00,"Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more - CNBC",NFLX,Google RSS,neutral,0.0
+2026-10-20 12:27:14,Netflix will report Q3 2026 earnings after a 26% stock decline - Quartz,NFLX,Google RSS,negative,-0.904830813407898
+2026-10-21 05:06:57,Netflix stock falls to two-year low after Q3 2026 earnings report,NFLX,Bing RSS,negative,-0.964404821395874
+2026-10-20 17:12:00,"Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",NFLX,Bing RSS,negative,-0.9296479821205139
+2026-10-23 20:35:19,"US Equity Indexes Close Mixed This Week as Investors Rotate into Treasury Bonds, Defensives as AI Trade Falters",NFLX,Yahoo RSS,negative,-0.9534372687339783
+2026-10-21 11:49:11,"Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more",NFLX,CNBC Finance,neutral,0.0
