@@ -46,7 +46,22 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-26 02:02:00,"SPCX, SMCI, NOK, TSLA, NFLX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week - TradingView",TSLA,Google RSS,neutral,0.0
 2026-10-26 02:02:17,"SPCX, SMCI, NOK, TSLA, NFLX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",TSLA,Yahoo RSS,neutral,0.0
 2026-10-26 00:30:09,"Meta Has a New ‘North Star’ — Mark Zuckerberg Explains Why He’s Betting Big on Personal Superintelligence, AI Models and Smart Glasses",META,Yahoo RSS,neutral,0.0
-2026-10-21 07:05:00,Why Is Netflix Stock Falling Over 5% Despite Beating Third-Quarter Earnings Estimates?,NFLX,Bing RSS,negative,-0.9367611408233643
+2026-10-21 07:05:00,Why Is Netflix Stock Falling Over 5% Despite Beating Third-Quarter Earnings Estimates?,NFLX,Bing RSS,negative,-0.9367611408233644
 2026-10-21 07:45:00,Netflix’s Wall Street slump continues following exec shuffle as jittery investors push stock to lowest price in 2 years,NFLX,Bing RSS,negative,-0.9182115197181702
-2026-10-20 17:12:00,"Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",NFLX,Bing RSS,negative,-0.9296479821205139
+2026-10-20 17:12:00,"Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",NFLX,Bing RSS,negative,-0.929647982120514
 2026-10-26 02:02:17,"SPCX, SMCI, NOK, TSLA, NFLX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",NFLX,Yahoo RSS,neutral,0.0
+2026-10-25 21:04:00,"Apple stock hits record as iPhone Duo demand soars, but Wall Street warns",AAPL,Bing RSS,positive,0.544714093208313
+2026-10-26 02:13:00,Apple (AAPL) Stock Hits Record High as iPhone Duo Demand Outpaces Supply,AAPL,Bing RSS,positive,0.9245615601539612
+2026-10-26 10:11:53,"Stock market today: Dow, S&P 500, Nasdaq futures rise ahead of busy week of earnings, Fed rate decision",GOOGL,Yahoo RSS,positive,0.5569925904273987
+2026-10-26 10:41:15,Oppenheimer raises Microsoft target ahead of earnings amid demand strength - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-23 18:48:36,Microsoft Stocks Face a Cloud-Margin Test in Wednesday's AI Earnings - GuruFocus,MSFT,Google RSS,negative,-0.9454851746559143
+2026-10-23 12:54:04,Microsoft Faces High Bar as Investors Await Q1 Earnings - TradingPedia,MSFT,Google RSS,negative,-0.9327426552772522
+2026-10-25 17:53:28,How Investors May Respond To NiSource Stock Microsoft Power Deal - Simply Wall Street,MSFT,Google RSS,neutral,0.0
+2026-10-26 10:11:53,"Stock market today: Dow, S&P 500, Nasdaq futures rise ahead of busy week of earnings, Fed rate decision",MSFT,Yahoo RSS,positive,0.5569925904273987
+2026-10-26 01:11:51,"U.S. stock futures muted after bruising tech losses; Fed, earnings on tap",MSFT,Yahoo RSS,negative,-0.8536877632141113
+2026-10-26 07:07:59,Nvidia Stock Fell Nearly 8% in October as AI Spending Doubts Hit Tech Stocks. Here’s Where the Stock Could Go by 2031 - TIKR.com,NVDA,Google RSS,negative,-0.8298729658126831
+2026-10-26 02:57:00,The mixed blessing from tech earnings weighing on Nvidia stock,NVDA,Bing RSS,negative,-0.9334321022033691
+2026-10-25 17:09:00,Nvidia Stock Fell Nearly 8% in October as AI Spending Doubts Hit Tech Stocks. Here’s Where the Stock Could Go by 2031,NVDA,Bing RSS,negative,-0.9069229364395142
+2026-10-26 03:54:00,[Stock Investment] NVIDIA Announces Supply Chain Expansion! What is the Impact on Silicon Wafer Leaders Shin-Etsu Chemical and SUMCO?,NVDA,Bing RSS,negative,-0.5058691501617432
+2026-10-22 12:34:58,"Tesla drops as spending pullback clouds AI, robotics ambitions - BNN Bloomberg",TSLA,Google RSS,negative,-0.9417898654937744
+2026-10-21 16:12:00,Meta stock surges on strong earnings report; tech giant unveils new shares to bankroll AI spending,META,Bing RSS,positive,0.757584810256958
