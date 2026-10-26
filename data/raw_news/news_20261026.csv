@@ -54,14 +54,28 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-26 02:13:00,Apple (AAPL) Stock Hits Record High as iPhone Duo Demand Outpaces Supply,AAPL,Bing RSS,positive,0.9245615601539612
 2026-10-26 10:11:53,"Stock market today: Dow, S&P 500, Nasdaq futures rise ahead of busy week of earnings, Fed rate decision",GOOGL,Yahoo RSS,positive,0.5569925904273987
 2026-10-26 10:41:15,Oppenheimer raises Microsoft target ahead of earnings amid demand strength - Investing.com,MSFT,Google RSS,neutral,0.0
-2026-10-23 18:48:36,Microsoft Stocks Face a Cloud-Margin Test in Wednesday's AI Earnings - GuruFocus,MSFT,Google RSS,negative,-0.9454851746559143
+2026-10-23 18:48:36,Microsoft Stocks Face a Cloud-Margin Test in Wednesday's AI Earnings - GuruFocus,MSFT,Google RSS,negative,-0.9454851746559144
 2026-10-23 12:54:04,Microsoft Faces High Bar as Investors Await Q1 Earnings - TradingPedia,MSFT,Google RSS,negative,-0.9327426552772522
 2026-10-25 17:53:28,How Investors May Respond To NiSource Stock Microsoft Power Deal - Simply Wall Street,MSFT,Google RSS,neutral,0.0
 2026-10-26 10:11:53,"Stock market today: Dow, S&P 500, Nasdaq futures rise ahead of busy week of earnings, Fed rate decision",MSFT,Yahoo RSS,positive,0.5569925904273987
 2026-10-26 01:11:51,"U.S. stock futures muted after bruising tech losses; Fed, earnings on tap",MSFT,Yahoo RSS,negative,-0.8536877632141113
 2026-10-26 07:07:59,Nvidia Stock Fell Nearly 8% in October as AI Spending Doubts Hit Tech Stocks. Here’s Where the Stock Could Go by 2031 - TIKR.com,NVDA,Google RSS,negative,-0.8298729658126831
-2026-10-26 02:57:00,The mixed blessing from tech earnings weighing on Nvidia stock,NVDA,Bing RSS,negative,-0.9334321022033691
+2026-10-26 02:57:00,The mixed blessing from tech earnings weighing on Nvidia stock,NVDA,Bing RSS,negative,-0.9334321022033693
 2026-10-25 17:09:00,Nvidia Stock Fell Nearly 8% in October as AI Spending Doubts Hit Tech Stocks. Here’s Where the Stock Could Go by 2031,NVDA,Bing RSS,negative,-0.9069229364395142
 2026-10-26 03:54:00,[Stock Investment] NVIDIA Announces Supply Chain Expansion! What is the Impact on Silicon Wafer Leaders Shin-Etsu Chemical and SUMCO?,NVDA,Bing RSS,negative,-0.5058691501617432
 2026-10-22 12:34:58,"Tesla drops as spending pullback clouds AI, robotics ambitions - BNN Bloomberg",TSLA,Google RSS,negative,-0.9417898654937744
 2026-10-21 16:12:00,Meta stock surges on strong earnings report; tech giant unveils new shares to bankroll AI spending,META,Bing RSS,positive,0.757584810256958
+2026-10-26 15:27:00,"Apple, Nvidia and other megacap stocks drag S&P 500 lower as AI spending fears weigh on markets | Hindustan Times - Hindustan Times",AAPL,Google RSS,negative,-0.9470534920692444
+2026-10-26 13:43:02,Here’s How Much Traders See Google Parent Alphabet’s Stock Moving After Earnings - Investopedia,GOOGL,Google RSS,neutral,0.0
+2026-10-26 15:08:28,What Does Goldman Sachs (GS) Gain From Its $500 Million Small Business AI Push?,GOOGL,Yahoo RSS,neutral,0.0
+2026-10-26 12:28:36,Here’s How Much Traders See Microsoft Stock Moving After Earnings - Investopedia,MSFT,Google RSS,neutral,0.0
+2026-10-26 12:28:36,Here’s How Much Traders See Microsoft Stock Moving After Earnings - AOL.com,MSFT,Google RSS,neutral,0.0
+2026-10-26 12:33:31,Scotiabank raises Microsoft stock price target on Azure growth outlook - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-26 11:37:01,"Microsoft, Alphabet, Amazon Earnings Meet Fed Rate Decision: 3 Charts To Watch This Week - TradingView",MSFT,Google RSS,neutral,0.0
+2026-10-21 14:11:22,Microsoft stock may move 4.6% on Oct. 28 earnings report - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-26 05:23:00,Microsoft stock gains as Wall Street sees Azure growth despite rising AI spending,MSFT,Bing RSS,positive,0.9378570318222046
+2026-10-26 08:35:01,"MSFT stock gets Wall Street’s attention ahead of earnings: Truist, Oppenheimer raise targets on Azure growth outlook",MSFT,Bing RSS,positive,0.5193729996681213
+2026-10-26 14:45:34,Nvidia Is Now Cheaper Than the Average S&P 500 Stock: Wall Street Still Sees Record Profits - TradingView,NVDA,Google RSS,positive,0.858281135559082
+2026-10-26 16:34:37,US stocks climb amid shaky trading in markets worldwide - The Globe and Mail,META,Google RSS,negative,-0.9355481863021851
+2026-10-26 15:08:28,What Does Goldman Sachs (GS) Gain From Its $500 Million Small Business AI Push?,META,Yahoo RSS,neutral,0.0
+2026-10-26 15:10:18,Top 3 Undervalued Stocks To Watch In October 2026,NFLX,Yahoo RSS,neutral,0.0
