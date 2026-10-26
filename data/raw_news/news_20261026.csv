@@ -76,6 +76,29 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-26 05:23:00,Microsoft stock gains as Wall Street sees Azure growth despite rising AI spending,MSFT,Bing RSS,positive,0.9378570318222046
 2026-10-26 08:35:01,"MSFT stock gets Wall Street’s attention ahead of earnings: Truist, Oppenheimer raise targets on Azure growth outlook",MSFT,Bing RSS,positive,0.5193729996681213
 2026-10-26 14:45:34,Nvidia Is Now Cheaper Than the Average S&P 500 Stock: Wall Street Still Sees Record Profits - TradingView,NVDA,Google RSS,positive,0.858281135559082
-2026-10-26 16:34:37,US stocks climb amid shaky trading in markets worldwide - The Globe and Mail,META,Google RSS,negative,-0.9355481863021851
+2026-10-26 16:34:37,US stocks climb amid shaky trading in markets worldwide - The Globe and Mail,META,Google RSS,negative,-0.9355481863021852
 2026-10-26 15:08:28,What Does Goldman Sachs (GS) Gain From Its $500 Million Small Business AI Push?,META,Yahoo RSS,neutral,0.0
 2026-10-26 15:10:18,Top 3 Undervalued Stocks To Watch In October 2026,NFLX,Yahoo RSS,neutral,0.0
+2026-10-26 21:04:19,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck - Investor's Business Daily",GOOGL,Google RSS,neutral,0.0
+2026-10-25 06:04:14,"The Week Ahead: Fed Rate Decision Looming as Microsoft, Alphabet, and Amazon Report Earnings - TradingKey",GOOGL,Google RSS,neutral,0.0
+2026-10-26 14:11:00,"Dow Jones futures: Elon Musk-led Tesla leads market higher; Amazon, Alphabet, Microsoft earnings on deck",GOOGL,Bing RSS,positive,0.7438461184501648
+2026-10-26 06:43:00,Here’s How Much Traders See Google Parent Alphabet’s Stock Moving After Earnings,GOOGL,Bing RSS,neutral,0.0
+2026-10-26 22:03:09,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",GOOGL,Yahoo RSS,positive,0.7438461184501648
+2026-10-26 20:23:00,This Week Could Help Decide Whether the Fed Raises Interest Rates in December,GOOGL,Yahoo RSS,neutral,0.0
+2026-10-26 19:59:16,80% of S&P 500 stocks are in correction territory. These 3 are still buys,GOOGL,Yahoo RSS,negative,-0.8478491902351379
+2026-10-26 21:04:19,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-10-26 22:14:45,"Nasdaq Charges Higher With Fed Meeting Next; Amazon, Microsoft Earnings Due - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-10-26 22:03:09,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",AMZN,Yahoo RSS,positive,0.7438461184501648
+2026-10-26 20:23:00,This Week Could Help Decide Whether the Fed Raises Interest Rates in December,AMZN,Yahoo RSS,neutral,0.0
+2026-10-26 16:23:16,Microsoft stock gains as Wall Street sees Azure growth despite rising AI spending - TradingView,MSFT,Google RSS,positive,0.938390851020813
+2026-10-26 05:28:00,Here’s How Much Traders See Microsoft Stock Moving After Earnings,MSFT,Bing RSS,neutral,0.0
+2026-10-26 22:03:09,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",MSFT,Yahoo RSS,positive,0.7438461184501648
+2026-10-26 20:23:00,This Week Could Help Decide Whether the Fed Raises Interest Rates in December,MSFT,Yahoo RSS,neutral,0.0
+2026-10-26 21:36:18,Stocks rise as Nvidia gains and AI shares fluctuate - The Business Journal,NVDA,Google RSS,negative,-0.7193573713302612
+2026-10-26 18:40:04,Elon Musk Sends Strong Warning to Nvidia-Backed Stocks - TradingView,NVDA,Google RSS,positive,0.7390322685241699
+2026-10-26 21:04:19,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-10-26 17:51:03,Tesla surges to its highest level in more than three months - Seeking Alpha,TSLA,Google RSS,positive,0.9227750301361084
+2026-10-26 22:03:09,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",TSLA,Yahoo RSS,positive,0.7438461184501648
+2026-10-26 20:23:00,This Week Could Help Decide Whether the Fed Raises Interest Rates in December,META,Yahoo RSS,neutral,0.0
+2026-10-26 12:28:36,Here’s How Much Traders See Microsoft Stock Moving After Earnings - Investopedia,NFLX,Google RSS,neutral,0.0
+2026-10-23 16:07:29,Netflix reports slowing revenue growth following headcount reduction - CFO Brew,NFLX,Google RSS,negative,-0.9666086435317993
