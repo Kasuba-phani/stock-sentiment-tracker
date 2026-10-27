@@ -74,7 +74,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-26 23:12:00,"Nasdaq Charges Higher With Fed Meeting Next; Amazon, Microsoft Earnings Due - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
 2026-10-27 17:58:00,Can Strong Search and Cloud Growth Drive GOOGL's Q3 Earnings?,AMZN,Yahoo RSS,positive,0.7384629249572754
 2026-10-27 12:30:00,S&P 500 investors are dumping AI stocks. I think Microsoft could be different - The Twelfth Magpie,MSFT,Google RSS,neutral,0.0
-2026-10-27 15:58:11,Analysts expect sustained cloud momentum for Microsoft in Q1 (MSFT:NASDAQ) - Seeking Alpha,MSFT,Google RSS,positive,0.9516488909721375
+2026-10-27 15:58:11,Analysts expect sustained cloud momentum for Microsoft in Q1 (MSFT:NASDAQ) - Seeking Alpha,MSFT,Google RSS,positive,0.9516488909721376
 2026-10-27 09:08:00,Microsoft to report Q1 earnings with Wall Street looking for further Azure growth,MSFT,Bing RSS,positive,0.6688427925109863
 2026-10-27 10:05:32,"Ahead of Microsoft earnings, here's what Barchart data says comes next for MSFT stock",MSFT,Bing RSS,neutral,0.0
 2026-10-27 17:58:00,Can Strong Search and Cloud Growth Drive GOOGL's Q3 Earnings?,MSFT,Yahoo RSS,positive,0.7384629249572754
@@ -85,7 +85,13 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-27 17:33:43,Meta Platforms Stock Falls Despite Posting Strong Q3 Numbers. Should Investors Buy the Dip? - The Motley Fool,META,Google RSS,negative,-0.8924833536148071
 2026-10-27 17:21:00,"Meta Loses $400 Billion, Auctions More Stock, But Analysts Still See 1.4x Upside - BeInCrypto",META,Google RSS,negative,-0.6978240013122559
 2026-10-27 17:20:02,Meta Platforms Stock Falls Despite Posting Strong Q3 Numbers. Should Investors Buy the Dip? - AOL.com,META,Google RSS,negative,-0.5911059379577637
-2026-10-27 11:00:02,Meta Platforms stock falls despite posting strong Q3 numbers. Should investors buy the dip?,META,Bing RSS,negative,-0.9268617033958435
+2026-10-27 11:00:02,Meta Platforms stock falls despite posting strong Q3 numbers. Should investors buy the dip?,META,Bing RSS,negative,-0.9268617033958436
 2026-10-27 10:20:00,"Meta Loses $400 Billion, Auctions More Stock, But Analysts Still See 1.4x Upside",META,Bing RSS,negative,-0.640495777130127
-2026-10-27 18:32:00,Meta equity raise signals continued support for AI spending: analysts,META,Yahoo RSS,positive,0.9415837526321411
+2026-10-27 18:32:00,Meta equity raise signals continued support for AI spending: analysts,META,Yahoo RSS,positive,0.9415837526321412
 2026-10-27 17:04:51,Netflix earnings grow faster despite slower rev... - Pluang,NFLX,Google RSS,positive,0.9513481855392456
+2026-10-27 23:05:17,"Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",GOOGL,Yahoo RSS,neutral,0.0
+2026-10-27 14:51:00,Microsoft Q1 Earnings Are on October 28. Options Traders Expect a 5.09% Move in MSFT Stock,MSFT,Bing RSS,positive,0.7338475584983826
+2026-10-27 23:05:17,"Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",MSFT,Yahoo RSS,neutral,0.0
+2026-10-27 21:04:00,"Global Edge Infrastructure Market Report 2026: Size, Share, Trends and Forecast to 2030 | Capitalize on 5G, AI and IoT with Microsoft, AWS, Dell, NVIDIA and Cisco",MSFT,Yahoo RSS,positive,0.5466200113296509
+2026-10-27 21:04:00,"Global Edge Infrastructure Market Report 2026: Size, Share, Trends and Forecast to 2030 | Capitalize on 5G, AI and IoT with Microsoft, AWS, Dell, NVIDIA and Cisco",NVDA,Yahoo RSS,positive,0.5466200113296509
+2026-10-27 23:39:11,"Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",TSLA,Yahoo RSS,neutral,0.0
