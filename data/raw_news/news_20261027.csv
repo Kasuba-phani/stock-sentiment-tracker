@@ -1,0 +1,46 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-10-26 01:04:57,"Apple stock hits record as iPhone Duo demand soars, but Wall Street warns",AAPL,Bing RSS,positive,0.544714093208313
+2026-10-26 02:13:00,Apple (AAPL) Stock Hits Record High as iPhone Duo Demand Outpaces Supply,AAPL,Bing RSS,positive,0.9245615601539612
+2026-10-26 22:35:16,"S&P 500, Nasdaq, Dow Begin Week Higher As Anthropic IPO Filing Rekindles AI Enthusiasm — MSFT, AAPL, CART, VZ In Focus",AAPL,Yahoo RSS,positive,0.48661160469055176
+2026-10-26 23:51:00,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck - Investor's Business Daily",GOOGL,Google RSS,neutral,0.0
+2026-10-26 13:43:02,Here’s How Much Traders See Google Parent Alphabet’s Stock Moving After Earnings - Investopedia,GOOGL,Google RSS,neutral,0.0
+2026-10-25 19:12:00,"The Fed, Inflation, Verizon, Boeing, Alphabet, GE Vernova, Amazon, and Many More Stocks to Watch This Week - Barron's",GOOGL,Google RSS,neutral,0.0
+2026-10-25 06:04:14,"The Week Ahead: Fed Rate Decision Looming as Microsoft, Alphabet, and Amazon Report Earnings - TradingKey",GOOGL,Google RSS,neutral,0.0
+2026-10-26 06:43:00,Here’s How Much Traders See Google Parent Alphabet’s Stock Moving After Earnings,GOOGL,Bing RSS,neutral,0.0
+2026-10-26 15:05:00,"Dow Jones futures: Elon Musk-led Tesla leads market higher; Amazon, Alphabet, Microsoft earnings on deck",GOOGL,Bing RSS,positive,0.74384605884552
+2026-10-27 01:14:19,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",GOOGL,Yahoo RSS,positive,0.74384605884552
+2026-10-26 23:51:00,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-10-26 23:12:00,"Stock Market: Nasdaq Charges Higher With Amazon, Microsoft Earnings Due; Fed Meeting Next - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-10-25 15:42:25,Amazon earnings history before its October 29 report - Opening Bell Daily,AMZN,Google RSS,neutral,0.0
+2026-10-25 19:12:00,"The Fed, Inflation, Verizon, Boeing, Alphabet, GE Vernova, Amazon, and Many More Stocks to Watch This Week - Barron's",AMZN,Google RSS,neutral,0.0
+2026-10-27 01:14:19,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",AMZN,Yahoo RSS,positive,0.74384605884552
+2026-10-26 20:23:00,This Week Could Help Decide Whether the Fed Raises Interest Rates in December,AMZN,Yahoo RSS,neutral,0.0
+2026-10-27 00:30:18,Should You Buy Microsoft Stock Before the Huge Investor Update? - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-10-26 12:28:36,Here’s How Much Traders See Microsoft Stock Moving After Earnings - Investopedia,MSFT,Google RSS,neutral,0.0
+2026-10-27 00:47:49,Should You Buy Microsoft Stock Before the Huge Investor Update? - The Globe and Mail,MSFT,Google RSS,neutral,0.0
+2026-10-26 12:28:36,Here’s How Much Traders See Microsoft Stock Moving After Earnings - AOL.com,MSFT,Google RSS,neutral,0.0
+2026-10-26 16:23:16,Microsoft stock gains as Wall Street sees Azure growth despite rising AI spending - TradingView,MSFT,Google RSS,positive,0.9383909702301025
+2026-10-25 10:47:22,Microsoft earnings history before its October 28 report - Opening Bell Daily,MSFT,Google RSS,neutral,0.0
+2026-10-26 23:12:00,"Stock Market: Nasdaq Charges Higher With Amazon, Microsoft Earnings Due; Fed Meeting Next - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-10-26 01:07:00,"Microsoft, Alphabet, and Amazon Make Up About 15% of the S&P 500. All 3 Report Earnings Within 2 Days. - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-10-26 05:28:00,Here’s How Much Traders See Microsoft Stock Moving After Earnings,MSFT,Bing RSS,neutral,0.0
+2026-10-26 05:23:00,Microsoft stock gains as Wall Street sees Azure growth despite rising AI spending,MSFT,Bing RSS,positive,0.9378570318222046
+2026-10-27 01:14:19,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",MSFT,Yahoo RSS,positive,0.74384605884552
+2026-10-26 23:30:00,Find Strong Cloud Stocks With This Zacks Tool,MSFT,Yahoo RSS,neutral,0.0
+2026-10-26 22:35:16,"S&P 500, Nasdaq, Dow Begin Week Higher As Anthropic IPO Filing Rekindles AI Enthusiasm — MSFT, AAPL, CART, VZ In Focus",MSFT,Yahoo RSS,positive,0.48661160469055176
+2026-10-26 21:36:18,Stocks rise as Nvidia gains and AI shares fluctuate - The Business Journal,NVDA,Google RSS,negative,-0.7193576693534851
+2026-10-26 07:45:34,Nvidia is now cheaper than the average S&P 500 stock: Wall Street still sees record profits,NVDA,Bing RSS,positive,0.8824928402900696
+2026-10-27 01:29:00,"JPMorgan Predicts Bitcoin Will Outpace Stocks, Bonds, and Gold Over the Next Decade. Is Bitcoin Now a Screaming Buy?",NVDA,Yahoo RSS,neutral,0.0
+2026-10-26 16:29:58,"‘Don’t Believe the Comeback,’ Says Top Investor About Tesla Stock - TipRanks",TSLA,Google RSS,neutral,0.0
+2026-10-26 23:51:00,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-10-26 17:51:03,Tesla surges to its highest level in more than three months - Seeking Alpha,TSLA,Google RSS,positive,0.9227750301361084
+2026-10-27 01:14:19,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",TSLA,Yahoo RSS,positive,0.74384605884552
+2026-10-21 20:02:36,Meta Reports Third Quarter 2026 Results - Meta Investor Relations,META,Google RSS,neutral,0.0
+2026-10-22 13:17:00,Meta Stock Falls Despite Strong Q3 Results As AI Spending Takes Focus - Investor's Business Daily,META,Google RSS,negative,-0.7954983711242676
+2026-10-26 20:23:00,This Week Could Help Decide Whether the Fed Raises Interest Rates in December,META,Yahoo RSS,neutral,0.0
+2026-10-20 18:05:38,Traders are betting Netflix's stock drama may be coming to an end - CNBC,NFLX,Google RSS,neutral,0.0
+2026-10-20 14:26:00,Here’s How Much Traders See Netflix Stock Moving After Earnings - Investopedia,NFLX,Google RSS,neutral,0.0
+2026-10-21 07:45:00,Netflix’s Wall Street slump continues following exec shuffle as jittery investors push stock to lowest price in 2 years,NFLX,Bing RSS,negative,-0.9182116389274597
+2026-10-26 02:02:17,"SPCX, SMCI, NOK, TSLA, NFLX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",NFLX,Yahoo RSS,neutral,0.0
+2026-10-26 15:10:18,Top 3 Undervalued Stocks To Watch In October 2026,NFLX,Yahoo RSS,neutral,0.0
+2026-10-21 11:49:11,"Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more",NFLX,CNBC Finance,neutral,0.0
