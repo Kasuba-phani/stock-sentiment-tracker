@@ -47,4 +47,19 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-26 15:30:31,Truist raises Microsoft stock price target to $600 on Azure strength - Investing.com Nigeria,MSFT,Google RSS,neutral,0.0
 2026-10-27 05:11:47,Amkor Technology (AMKR) Stock May Be Undervalued Despite Its $3b AI Packaging Deal,NVDA,Yahoo RSS,positive,0.9099739789962769
 2026-10-27 04:25:10,3 Growth Stocks With Earnings Growth Up To 49%,TSLA,Yahoo RSS,positive,0.6196804642677307
-2026-10-23 16:07:29,Netflix reports slowing revenue growth following headcount reduction - CFO Brew,NFLX,Google RSS,negative,-0.9666086435317993
+2026-10-23 16:07:29,Netflix reports slowing revenue growth following headcount reduction - CFO Brew,NFLX,Google RSS,negative,-0.9666086435317992
+2026-10-27 14:12:08,"Apple Unveils New MacBook Pro Ahead Of November Launch — HSBC Sees Strong iPhone Demand, Potential AI-Driven Upgrade Cycle - Stocktwits",AAPL,Google RSS,positive,0.8369759321212769
+2026-10-27 14:09:31,"Apple Unveils New MacBook Pro Ahead Of November Launch — HSBC Sees Strong iPhone Demand, Potential AI-Driven Upgrade Cycle",AAPL,Yahoo RSS,positive,0.9326337575912476
+2026-10-27 13:45:31,Tech rises for second day in a row as chip stocks gain: AlphaCheck,GOOGL,Yahoo RSS,positive,0.5569887161254883
+2026-10-27 11:35:02,Amazon’s ‘Safe’ Retail Business Earns Less Than AWS Does. Is the Stock Still a Good Buy for Cautious Investors?,AMZN,Yahoo RSS,neutral,0.0
+2026-10-27 12:25:00,3 Drone Technology Stocks Poised to Benefit From Rising Adoption,AMZN,Yahoo RSS,positive,0.9437692165374756
+2026-10-23 10:28:15,Home Page - Microsoft Investor Relations - Microsoft,MSFT,Google RSS,neutral,0.0
+2026-10-27 13:31:34,"Microsoft Stock Price Forecast: MSFT Rebounds Over 50% From June Low, Earnings Beat May Push It Toward Record $555 High - TradingKey",MSFT,Google RSS,positive,0.7584912776947021
+2026-10-26 08:35:01,"MSFT stock gets Wall Street’s attention ahead of earnings: Truist, Oppenheimer raise targets on Azure growth outlook",MSFT,Bing RSS,positive,0.5193729996681213
+2026-10-27 13:45:31,Tech rises for second day in a row as chip stocks gain: AlphaCheck,MSFT,Yahoo RSS,positive,0.5569887161254883
+2026-10-27 13:45:31,Tech rises for second day in a row as chip stocks gain: AlphaCheck,NVDA,Yahoo RSS,positive,0.5569887161254883
+2026-10-27 13:34:33,"U.S. Stock Futures Point Higher as AI Developments and Earnings Support Market Recovery: Dow Jones, S&P, Nasdaq, Wall Street",NVDA,Yahoo RSS,positive,0.8345404863357544
+2026-10-26 07:11:00,Tesla stock jumps on buy upgrade. Why it can surge 20%.,TSLA,Bing RSS,positive,0.8348000645637512
+2026-10-27 13:45:31,Tech rises for second day in a row as chip stocks gain: AlphaCheck,META,Yahoo RSS,positive,0.5569887161254883
+2026-10-27 12:47:20,AI Is Pushing Corporate Bond Sales to an All-Time Record,META,Yahoo RSS,positive,0.8899238109588623
+2026-10-20 17:12:00,"Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",NFLX,Bing RSS,negative,-0.9296482801437378
