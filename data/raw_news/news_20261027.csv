@@ -63,3 +63,29 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-27 13:45:31,Tech rises for second day in a row as chip stocks gain: AlphaCheck,META,Yahoo RSS,positive,0.5569887161254883
 2026-10-27 12:47:20,AI Is Pushing Corporate Bond Sales to an All-Time Record,META,Yahoo RSS,positive,0.8899238109588623
 2026-10-20 17:12:00,"Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",NFLX,Bing RSS,negative,-0.9296482801437378
+2026-10-27 14:09:31,"Apple Unveils New MacBook Pro Ahead Of November Launch — HSBC Sees Strong iPhone Demand, Potential AI-Driven Upgrade Cycle - TradingView",AAPL,Google RSS,positive,0.9015024304389954
+2026-10-27 07:45:39,Loop Capital lowers Apple stock price target on iPhone shipment concerns,AAPL,Bing RSS,negative,-0.5067868828773499
+2026-10-26 01:07:00,"Microsoft, Alphabet, and Amazon Make Up About 15% of the S&P 500. All 3 Report Earnings Within 2 Days. - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-10-27 18:37:17,Can Strong Search and Cloud Growth Drive GOOGL's Q3 Earnings? - Zacks Investment Research,GOOGL,Google RSS,neutral,0.0
+2026-10-27 10:46:00,GOOG and GOOGL Investor Class Action Filed: Alphabet Investors Are Alerted to the Upcoming December 1 Deadline in the Securities Fraud Class Action to Recover Losses - PR Newswire,GOOGL,Google RSS,neutral,0.0
+2026-10-27 19:16:24,"Google to report Q3 results as investors focus on AI growth, weigh Meta Muse AI risk",GOOGL,Yahoo RSS,neutral,0.0
+2026-10-27 17:58:00,Can Strong Search and Cloud Growth Drive GOOGL's Q3 Earnings?,GOOGL,Yahoo RSS,positive,0.7384629249572754
+2026-10-26 01:07:00,"Microsoft, Alphabet, and Amazon Make Up About 15% of the S&P 500. All 3 Report Earnings Within 2 Days. - The Motley Fool",AMZN,Google RSS,neutral,0.0
+2026-10-26 23:12:00,"Nasdaq Charges Higher With Fed Meeting Next; Amazon, Microsoft Earnings Due - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-10-27 17:58:00,Can Strong Search and Cloud Growth Drive GOOGL's Q3 Earnings?,AMZN,Yahoo RSS,positive,0.7384629249572754
+2026-10-27 12:30:00,S&P 500 investors are dumping AI stocks. I think Microsoft could be different - The Twelfth Magpie,MSFT,Google RSS,neutral,0.0
+2026-10-27 15:58:11,Analysts expect sustained cloud momentum for Microsoft in Q1 (MSFT:NASDAQ) - Seeking Alpha,MSFT,Google RSS,positive,0.9516488909721375
+2026-10-27 09:08:00,Microsoft to report Q1 earnings with Wall Street looking for further Azure growth,MSFT,Bing RSS,positive,0.6688427925109863
+2026-10-27 10:05:32,"Ahead of Microsoft earnings, here's what Barchart data says comes next for MSFT stock",MSFT,Bing RSS,neutral,0.0
+2026-10-27 17:58:00,Can Strong Search and Cloud Growth Drive GOOGL's Q3 Earnings?,MSFT,Yahoo RSS,positive,0.7384629249572754
+2026-10-27 18:50:00,3 Types of Investors Who Should Avoid SpaceX and Tesla Stocks as the Companies Explore a Potential Merger,NVDA,Yahoo RSS,neutral,0.0
+2026-10-27 18:51:02,3 Types of Investors Who Should Avoid SpaceX and Tesla Stocks as the Companies Explore a Potential Merger - The Motley Fool,TSLA,Google RSS,neutral,0.0
+2026-10-27 18:50:00,3 Types of Investors Who Should Avoid SpaceX and Tesla Stocks as the Companies Explore a Potential Merger,TSLA,Yahoo RSS,neutral,0.0
+2026-10-27 11:36:49,"Meta stock prediction: $902.18 bull, $543.18 bear - FinanceFeeds",META,Google RSS,neutral,0.0
+2026-10-27 17:33:43,Meta Platforms Stock Falls Despite Posting Strong Q3 Numbers. Should Investors Buy the Dip? - The Motley Fool,META,Google RSS,negative,-0.8924833536148071
+2026-10-27 17:21:00,"Meta Loses $400 Billion, Auctions More Stock, But Analysts Still See 1.4x Upside - BeInCrypto",META,Google RSS,negative,-0.6978240013122559
+2026-10-27 17:20:02,Meta Platforms Stock Falls Despite Posting Strong Q3 Numbers. Should Investors Buy the Dip? - AOL.com,META,Google RSS,negative,-0.5911059379577637
+2026-10-27 11:00:02,Meta Platforms stock falls despite posting strong Q3 numbers. Should investors buy the dip?,META,Bing RSS,negative,-0.9268617033958435
+2026-10-27 10:20:00,"Meta Loses $400 Billion, Auctions More Stock, But Analysts Still See 1.4x Upside",META,Bing RSS,negative,-0.640495777130127
+2026-10-27 18:32:00,Meta equity raise signals continued support for AI spending: analysts,META,Yahoo RSS,positive,0.9415837526321411
+2026-10-27 17:04:51,Netflix earnings grow faster despite slower rev... - Pluang,NFLX,Google RSS,positive,0.9513481855392456
