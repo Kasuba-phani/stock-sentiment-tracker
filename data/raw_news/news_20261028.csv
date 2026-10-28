@@ -58,3 +58,33 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-28 11:05:11,Tech optimism lifts stocks ahead of Fed update on rates,MSFT,Yahoo RSS,positive,0.553155243396759
 2026-10-26 07:11:00,Tesla stock jumps on buy upgrade. Why it can surge 20%.,TSLA,Bing RSS,positive,0.8348001837730408
 2026-10-22 13:17:00,Meta Stock Falls Despite Strong Q3 Results As AI Spending Takes Focus - Investor's Business Daily,META,Google RSS,negative,-0.7954972386360168
+2026-10-28 14:40:00,"3 ""Magnificent Seven"" Stocks to Buy Hand Over Fist in November",AAPL,Yahoo RSS,neutral,0.0
+2026-10-28 18:04:46,"Stock Market Today: Major Indexes, Treasury Yields Hold Gains After Fed Holds Rates Steady; Microsoft, Alphabet Earnings on Tap; Oil Prices Jump - Investopedia",GOOGL,Google RSS,positive,0.56853848695755
+2026-10-28 16:00:01,Alphabet set to report third-quarter earnings after the bell - CNBC,GOOGL,Google RSS,neutral,0.0
+2026-10-28 14:36:00,"Wall Street rises as traders await Fed decision, Alphabet and Microsoft earnings (COMP:IND:) - Seeking Alpha",GOOGL,Google RSS,positive,0.5885583162307739
+2026-10-28 08:00:48,"Stock futures mixed as traders await Fed decision, Alphabet and Microsoft earnings - TradingView",GOOGL,Google RSS,negative,-0.8654382228851318
+2026-10-28 09:56:00,"Alphabet, Microsoft, SK Hynix, Robinhood, and More Stocks That Explain Today's Market -- Barrons.com - Moomoo",GOOGL,Google RSS,neutral,0.0
+2026-10-28 09:00:00,Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength,GOOGL,Bing RSS,negative,-0.5086391568183899
+2026-10-28 16:42:00,Will Strong AWS Performance Boost Amazon's Q3 Earnings Report?,GOOGL,Yahoo RSS,positive,0.9454959034919739
+2026-10-28 17:10:01,"Investors turn cautious ahead of tech results, Fed update on rates",GOOGL,Yahoo RSS,neutral,0.0
+2026-10-28 16:42:00,Will Strong AWS Performance Boost Amazon's Q3 Earnings Report?,AMZN,Yahoo RSS,positive,0.9454959034919739
+2026-10-28 15:52:21,Are You Overpaying For Home Depot Stock Versus Its Rivals?,AMZN,Yahoo RSS,neutral,0.0
+2026-10-28 14:36:00,"Wall Street rises as traders await Fed decision, Alphabet and Microsoft earnings (COMP:IND:) - Seeking Alpha",MSFT,Google RSS,positive,0.5885583162307739
+2026-10-28 12:52:37,Microsoft stock setup analysis ahead of today’s earnings release - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-28 15:05:04,Microsoft Earnings Top Item to Watch for AI Stocks: Dan Ives Says 'Most Important Print of the Week' - Benzinga,MSFT,Google RSS,neutral,0.0
+2026-10-23 18:07:36,Home Page - Microsoft Investor Relations - Microsoft,MSFT,Google RSS,neutral,0.0
+2026-10-28 13:12:00,"Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck - Investor's Business Daily",MSFT,Google RSS,negative,-0.5539588928222656
+2026-10-28 12:21:03,Microsoft (NASDAQ:MSFT): Strong Growth Paired With a High-Quality Technical Setup - ChartMill,MSFT,Google RSS,positive,0.9315197467803955
+2026-10-28 17:30:00,Microsoft earnings live: Microsoft to report Q1 earnings with Wall Street looking for further Azure growth - AOL.com,MSFT,Google RSS,neutral,0.0
+2026-10-28 02:18:00,Microsoft earnings preview: Azure growth and AI spending in focus,MSFT,Bing RSS,neutral,0.0
+2026-10-28 17:30:00,Microsoft earnings live: Microsoft to report Q1 earnings with Wall Street looking for further Azure growth,MSFT,Yahoo RSS,neutral,0.0
+2026-10-28 16:42:00,Will Strong AWS Performance Boost Amazon's Q3 Earnings Report?,MSFT,Yahoo RSS,positive,0.9454959034919739
+2026-10-28 17:10:01,"Investors turn cautious ahead of tech results, Fed update on rates",MSFT,Yahoo RSS,neutral,0.0
+2026-10-28 13:37:47,Nvidia May Actually Raise Its 70% Growth Guide In November - Seeking Alpha,NVDA,Google RSS,positive,0.9286883473396301
+2026-10-28 17:30:00,"Nvidia Partner Vertiv Soars After Blowout Earnings, Strong Guidance - Investor's Business Daily",NVDA,Google RSS,positive,0.9052304029464722
+2026-10-28 12:40:44,"Nvidia, AMD, and Micron stocks lead chip sector higher for third day in a row - AOL.com",NVDA,Google RSS,positive,0.5666225552558899
+2026-10-28 13:12:00,"Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck - Investor's Business Daily",TSLA,Google RSS,negative,-0.5539588928222656
+2026-10-28 14:40:00,"3 ""Magnificent Seven"" Stocks to Buy Hand Over Fist in November",TSLA,Yahoo RSS,neutral,0.0
+2026-10-28 13:15:38,Why Meta Is a Good Bet Despite Huge AI Spending: ETFs in Focus - The Globe and Mail,META,Google RSS,neutral,0.0
+2026-10-28 14:40:00,"3 ""Magnificent Seven"" Stocks to Buy Hand Over Fist in November",META,Yahoo RSS,neutral,0.0
+2026-10-28 08:53:47,Netflix stock is falling after earnings: why Morningstar sees it rising 30%,NFLX,Bing RSS,negative,-0.9092252850532532
