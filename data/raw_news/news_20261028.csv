@@ -1,0 +1,49 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-10-27 14:09:00,"Apple Unveils New MacBook Pro Ahead Of November Launch — HSBC Sees Strong iPhone Demand, Potential AI-Driven Upgrade Cycle - Stocktwits",AAPL,Google RSS,positive,0.8369759917259216
+2026-10-25 21:04:00,"Apple stock hits record as iPhone Duo demand soars, but Wall Street warns",AAPL,Bing RSS,positive,0.544714093208313
+2026-10-27 02:39:00,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck - Investor's Business Daily",GOOGL,Google RSS,neutral,0.0
+2026-10-26 13:43:02,Here’s How Much Traders See Google Parent Alphabet’s Stock Moving After Earnings - Investopedia,GOOGL,Google RSS,neutral,0.0
+2026-10-26 01:07:00,"Microsoft, Alphabet, and Amazon Make Up About 15% of the S&P 500. All 3 Report Earnings Within 2 Days. - The Motley Fool",GOOGL,Google RSS,neutral,0.0
+2026-10-26 06:43:00,Here’s How Much Traders See Google Parent Alphabet’s Stock Moving After Earnings,GOOGL,Bing RSS,neutral,0.0
+2026-10-28 03:09:28,"Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck",GOOGL,Yahoo RSS,negative,-0.6948471069335938
+2026-10-28 01:23:02,"U.S. stock futures flat with Fed rate decision, megacap tech earnings on tap",GOOGL,Yahoo RSS,negative,-0.8877098560333252
+2026-10-25 15:42:25,Amazon earnings history before its October 29 report - Opening Bell Daily,AMZN,Google RSS,neutral,0.0
+2026-10-27 02:39:00,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-10-26 01:07:00,"Microsoft, Alphabet, and Amazon Make Up About 15% of the S&P 500. All 3 Report Earnings Within 2 Days. - The Motley Fool",AMZN,Google RSS,neutral,0.0
+2026-10-25 19:12:00,"The Fed, Inflation, Verizon, Boeing, Alphabet, GE Vernova, Amazon, and Many More Stocks to Watch This Week - Barron's",AMZN,Google RSS,neutral,0.0
+2026-10-27 04:35:00,Amazon’s ‘Safe’ Retail Business Earns Less Than AWS Does. Is the Stock Still a Good Buy for Cautious Investors?,AMZN,Bing RSS,neutral,0.0
+2026-10-27 21:52:53,Microsoft Q1 Earnings Are on October 28. Options Traders Expect a 5.09% Move in MSFT Stock - TipRanks,MSFT,Google RSS,positive,0.6973018050193787
+2026-10-26 12:28:36,Here’s How Much Traders See Microsoft Stock Moving After Earnings - Investopedia,MSFT,Google RSS,neutral,0.0
+2026-10-27 01:26:00,Should You Buy Microsoft Stock Before the Huge Investor Update? - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-10-27 13:31:34,"Microsoft Stock Price Forecast: MSFT Rebounds Over 50% From June Low, Earnings Beat May Push It Toward Record $555 High - TradingKey",MSFT,Google RSS,positive,0.758491039276123
+2026-10-25 10:47:22,Microsoft earnings history before its October 28 report - Opening Bell Daily,MSFT,Google RSS,neutral,0.0
+2026-10-27 15:58:11,Analysts expect sustained cloud momentum for Microsoft in Q1 (MSFT:NASDAQ) - Seeking Alpha,MSFT,Google RSS,positive,0.951649010181427
+2026-10-26 12:28:36,Here’s How Much Traders See Microsoft Stock Moving After Earnings - AOL.com,MSFT,Google RSS,neutral,0.0
+2026-10-28 00:45:00,"TradingShot Links Microsoft’s $1,700 Scenario to a 50-Month Average - www.tokenpost.com",MSFT,Google RSS,neutral,0.0
+2026-10-27 00:46:48,Should You Buy Microsoft Stock Before the Huge Investor Update? - The Globe and Mail,MSFT,Google RSS,neutral,0.0
+2026-10-26 16:23:16,Microsoft stock gains as Wall Street sees Azure growth despite rising AI spending - TradingView,MSFT,Google RSS,positive,0.9383909702301025
+2026-10-26 01:07:00,"Microsoft, Alphabet, and Amazon Make Up About 15% of the S&P 500. All 3 Report Earnings Within 2 Days. - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-10-26 15:30:31,Truist raises Microsoft stock price target to $600 on Azure strength - Investing.com Nigeria,MSFT,Google RSS,neutral,0.0
+2026-10-26 05:28:00,Here’s How Much Traders See Microsoft Stock Moving After Earnings,MSFT,Bing RSS,neutral,0.0
+2026-10-27 10:05:32,"Ahead of Microsoft earnings, here's what Barchart data says comes next for MSFT stock",MSFT,Bing RSS,neutral,0.0
+2026-10-28 03:09:28,"Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck",MSFT,Yahoo RSS,negative,-0.6948471069335938
+2026-10-27 21:04:00,"Global Edge Infrastructure Market Report 2026: Size, Share, Trends and Forecast to 2030 | Capitalize on 5G, AI and IoT with Microsoft, AWS, Dell, NVIDIA and Cisco",MSFT,Yahoo RSS,positive,0.5466174483299255
+2026-10-28 01:23:02,"U.S. stock futures flat with Fed rate decision, megacap tech earnings on tap",MSFT,Yahoo RSS,negative,-0.8877098560333252
+2026-10-26 21:42:46,Stocks rise as Nvidia gains and AI shares fluctuate - The Business Journal,NVDA,Google RSS,negative,-0.7193576693534851
+2026-10-28 00:17:57,British Growth Stocks To Watch In October 2026,NVDA,Yahoo RSS,neutral,0.0
+2026-10-27 19:30:00,3 Types of Investors Who Should Avoid SpaceX and Tesla Stocks as the Companies Explore a Potential Merger - The Motley Fool,TSLA,Google RSS,neutral,0.0
+2026-10-27 02:39:00,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-10-27 18:56:52,3 Types of Investors Who Should Avoid SpaceX and Tesla Stocks as the Companies Explore a Potential Merger - The Globe and Mail,TSLA,Google RSS,neutral,0.0
+2026-10-27 18:50:00,3 Types of Investors Who Should Avoid SpaceX and Tesla Stocks as the Companies Explore a Potential Merger,TSLA,Yahoo RSS,neutral,0.0
+2026-10-28 03:09:28,"Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck",TSLA,Yahoo RSS,negative,-0.6948471069335938
+2026-10-21 20:02:36,Meta Reports Third Quarter 2026 Results - Meta Investor Relations,META,Google RSS,neutral,0.0
+2026-10-28 02:12:35,"Meta Loses $400 Billion, Auctions More Stock, But Analysts Still See 1.4x Upside - CryptoRank",META,Google RSS,negative,-0.6772244572639465
+2026-10-27 18:00:00,Meta Platforms Stock Falls Despite Posting Strong Q3 Numbers. Should Investors Buy the Dip? - The Motley Fool,META,Google RSS,negative,-0.8924832344055176
+2026-10-27 17:21:00,"Meta Loses $400 Billion, Auctions More Stock, But Analysts Still See 1.4x Upside - BeInCrypto",META,Google RSS,negative,-0.6978228688240051
+2026-10-27 17:20:02,Meta Platforms Stock Falls Despite Posting Strong Q3 Numbers. Should Investors Buy the Dip? - AOL.com,META,Google RSS,negative,-0.5911043882369995
+2026-10-27 11:00:02,Meta Platforms stock falls despite posting strong Q3 numbers. Should investors buy the dip?,META,Bing RSS,negative,-0.9268617630004883
+2026-10-27 10:20:00,"Meta Loses $400 Billion, Auctions More Stock, But Analysts Still See 1.4x Upside",META,Bing RSS,negative,-0.640493631362915
+2026-10-28 00:17:57,British Growth Stocks To Watch In October 2026,META,Yahoo RSS,neutral,0.0
+2026-10-21 07:45:00,Netflix’s Wall Street slump continues following exec shuffle as jittery investors push stock to lowest price in 2 years,NFLX,Bing RSS,negative,-0.9182116389274597
+2026-10-26 15:10:18,Top 3 Undervalued Stocks To Watch In October 2026,NFLX,Yahoo RSS,neutral,0.0
+2026-10-21 11:49:11,"Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more",NFLX,CNBC Finance,neutral,0.0
