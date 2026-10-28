@@ -21,7 +21,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-26 12:28:36,Here’s How Much Traders See Microsoft Stock Moving After Earnings - AOL.com,MSFT,Google RSS,neutral,0.0
 2026-10-28 00:45:00,"TradingShot Links Microsoft’s $1,700 Scenario to a 50-Month Average - www.tokenpost.com",MSFT,Google RSS,neutral,0.0
 2026-10-27 00:46:48,Should You Buy Microsoft Stock Before the Huge Investor Update? - The Globe and Mail,MSFT,Google RSS,neutral,0.0
-2026-10-26 16:23:16,Microsoft stock gains as Wall Street sees Azure growth despite rising AI spending - TradingView,MSFT,Google RSS,positive,0.9383909702301025
+2026-10-26 16:23:16,Microsoft stock gains as Wall Street sees Azure growth despite rising AI spending - TradingView,MSFT,Google RSS,positive,0.9383909702301024
 2026-10-26 01:07:00,"Microsoft, Alphabet, and Amazon Make Up About 15% of the S&P 500. All 3 Report Earnings Within 2 Days. - The Motley Fool",MSFT,Google RSS,neutral,0.0
 2026-10-26 15:30:31,Truist raises Microsoft stock price target to $600 on Azure strength - Investing.com Nigeria,MSFT,Google RSS,neutral,0.0
 2026-10-26 05:28:00,Here’s How Much Traders See Microsoft Stock Moving After Earnings,MSFT,Bing RSS,neutral,0.0
@@ -41,9 +41,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-27 18:00:00,Meta Platforms Stock Falls Despite Posting Strong Q3 Numbers. Should Investors Buy the Dip? - The Motley Fool,META,Google RSS,negative,-0.8924832344055176
 2026-10-27 17:21:00,"Meta Loses $400 Billion, Auctions More Stock, But Analysts Still See 1.4x Upside - BeInCrypto",META,Google RSS,negative,-0.6978228688240051
 2026-10-27 17:20:02,Meta Platforms Stock Falls Despite Posting Strong Q3 Numbers. Should Investors Buy the Dip? - AOL.com,META,Google RSS,negative,-0.5911043882369995
-2026-10-27 11:00:02,Meta Platforms stock falls despite posting strong Q3 numbers. Should investors buy the dip?,META,Bing RSS,negative,-0.9268617630004883
+2026-10-27 11:00:02,Meta Platforms stock falls despite posting strong Q3 numbers. Should investors buy the dip?,META,Bing RSS,negative,-0.9268617630004884
 2026-10-27 10:20:00,"Meta Loses $400 Billion, Auctions More Stock, But Analysts Still See 1.4x Upside",META,Bing RSS,negative,-0.640493631362915
 2026-10-28 00:17:57,British Growth Stocks To Watch In October 2026,META,Yahoo RSS,neutral,0.0
-2026-10-21 07:45:00,Netflix’s Wall Street slump continues following exec shuffle as jittery investors push stock to lowest price in 2 years,NFLX,Bing RSS,negative,-0.9182116389274597
+2026-10-21 07:45:00,Netflix’s Wall Street slump continues following exec shuffle as jittery investors push stock to lowest price in 2 years,NFLX,Bing RSS,negative,-0.9182116389274596
 2026-10-26 15:10:18,Top 3 Undervalued Stocks To Watch In October 2026,NFLX,Yahoo RSS,neutral,0.0
 2026-10-21 11:49:11,"Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more",NFLX,CNBC Finance,neutral,0.0
+2026-10-28 08:00:48,"Stock futures mixed as traders await Fed decision, Alphabet and Microsoft earnings (SPX:) - Seeking Alpha",GOOGL,Google RSS,negative,-0.7986568808555603
+2026-10-28 08:52:13,"Alphabet, Microsoft to report; Fed decision ahead - what’s moving markets - Investing.com",GOOGL,Google RSS,neutral,0.0
+2026-10-28 11:05:11,Tech optimism lifts stocks ahead of Fed update on rates,GOOGL,Yahoo RSS,positive,0.553155243396759
+2026-10-28 10:49:43,"US Stock Futures Mixed Ahead of Alphabet, Microsoft Earnings and Federal Reserve Rate Decision: Dow Jones, S&P, Nasdaq, Wall Street",GOOGL,Yahoo RSS,negative,-0.5553373098373413
+2026-10-26 23:12:00,"Nasdaq Charges Higher With Fed Meeting Next; Amazon, Microsoft Earnings Due - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-10-28 08:00:48,"Stock futures mixed as traders await Fed decision, Alphabet and Microsoft earnings (SPX:) - Seeking Alpha",MSFT,Google RSS,negative,-0.7986568808555603
+2026-10-28 00:07:46,Microsoft stock gained nearly 22% in July earnings week; will it rally again this time? Polymarket traders weigh in,MSFT,Bing RSS,positive,0.8640835881233215
+2026-10-28 10:49:43,"US Stock Futures Mixed Ahead of Alphabet, Microsoft Earnings and Federal Reserve Rate Decision: Dow Jones, S&P, Nasdaq, Wall Street",MSFT,Yahoo RSS,negative,-0.5553373098373413
+2026-10-28 11:05:11,Tech optimism lifts stocks ahead of Fed update on rates,MSFT,Yahoo RSS,positive,0.553155243396759
+2026-10-26 07:11:00,Tesla stock jumps on buy upgrade. Why it can surge 20%.,TSLA,Bing RSS,positive,0.8348001837730408
+2026-10-22 13:17:00,Meta Stock Falls Despite Strong Q3 Results As AI Spending Takes Focus - Investor's Business Daily,META,Google RSS,negative,-0.7954972386360168
