@@ -65,22 +65,22 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-28 08:00:48,"Stock futures mixed as traders await Fed decision, Alphabet and Microsoft earnings - TradingView",GOOGL,Google RSS,negative,-0.8654382228851318
 2026-10-28 09:56:00,"Alphabet, Microsoft, SK Hynix, Robinhood, and More Stocks That Explain Today's Market -- Barrons.com - Moomoo",GOOGL,Google RSS,neutral,0.0
 2026-10-28 09:00:00,Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength,GOOGL,Bing RSS,negative,-0.5086391568183899
-2026-10-28 16:42:00,Will Strong AWS Performance Boost Amazon's Q3 Earnings Report?,GOOGL,Yahoo RSS,positive,0.9454959034919739
+2026-10-28 16:42:00,Will Strong AWS Performance Boost Amazon's Q3 Earnings Report?,GOOGL,Yahoo RSS,positive,0.945495903491974
 2026-10-28 17:10:01,"Investors turn cautious ahead of tech results, Fed update on rates",GOOGL,Yahoo RSS,neutral,0.0
-2026-10-28 16:42:00,Will Strong AWS Performance Boost Amazon's Q3 Earnings Report?,AMZN,Yahoo RSS,positive,0.9454959034919739
+2026-10-28 16:42:00,Will Strong AWS Performance Boost Amazon's Q3 Earnings Report?,AMZN,Yahoo RSS,positive,0.945495903491974
 2026-10-28 15:52:21,Are You Overpaying For Home Depot Stock Versus Its Rivals?,AMZN,Yahoo RSS,neutral,0.0
 2026-10-28 14:36:00,"Wall Street rises as traders await Fed decision, Alphabet and Microsoft earnings (COMP:IND:) - Seeking Alpha",MSFT,Google RSS,positive,0.5885583162307739
 2026-10-28 12:52:37,Microsoft stock setup analysis ahead of today’s earnings release - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-10-28 15:05:04,Microsoft Earnings Top Item to Watch for AI Stocks: Dan Ives Says 'Most Important Print of the Week' - Benzinga,MSFT,Google RSS,neutral,0.0
 2026-10-23 18:07:36,Home Page - Microsoft Investor Relations - Microsoft,MSFT,Google RSS,neutral,0.0
 2026-10-28 13:12:00,"Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck - Investor's Business Daily",MSFT,Google RSS,negative,-0.5539588928222656
-2026-10-28 12:21:03,Microsoft (NASDAQ:MSFT): Strong Growth Paired With a High-Quality Technical Setup - ChartMill,MSFT,Google RSS,positive,0.9315197467803955
+2026-10-28 12:21:03,Microsoft (NASDAQ:MSFT): Strong Growth Paired With a High-Quality Technical Setup - ChartMill,MSFT,Google RSS,positive,0.9315197467803956
 2026-10-28 17:30:00,Microsoft earnings live: Microsoft to report Q1 earnings with Wall Street looking for further Azure growth - AOL.com,MSFT,Google RSS,neutral,0.0
 2026-10-28 02:18:00,Microsoft earnings preview: Azure growth and AI spending in focus,MSFT,Bing RSS,neutral,0.0
 2026-10-28 17:30:00,Microsoft earnings live: Microsoft to report Q1 earnings with Wall Street looking for further Azure growth,MSFT,Yahoo RSS,neutral,0.0
-2026-10-28 16:42:00,Will Strong AWS Performance Boost Amazon's Q3 Earnings Report?,MSFT,Yahoo RSS,positive,0.9454959034919739
+2026-10-28 16:42:00,Will Strong AWS Performance Boost Amazon's Q3 Earnings Report?,MSFT,Yahoo RSS,positive,0.945495903491974
 2026-10-28 17:10:01,"Investors turn cautious ahead of tech results, Fed update on rates",MSFT,Yahoo RSS,neutral,0.0
-2026-10-28 13:37:47,Nvidia May Actually Raise Its 70% Growth Guide In November - Seeking Alpha,NVDA,Google RSS,positive,0.9286883473396301
+2026-10-28 13:37:47,Nvidia May Actually Raise Its 70% Growth Guide In November - Seeking Alpha,NVDA,Google RSS,positive,0.92868834733963
 2026-10-28 17:30:00,"Nvidia Partner Vertiv Soars After Blowout Earnings, Strong Guidance - Investor's Business Daily",NVDA,Google RSS,positive,0.9052304029464722
 2026-10-28 12:40:44,"Nvidia, AMD, and Micron stocks lead chip sector higher for third day in a row - AOL.com",NVDA,Google RSS,positive,0.5666225552558899
 2026-10-28 13:12:00,"Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck - Investor's Business Daily",TSLA,Google RSS,negative,-0.5539588928222656
@@ -88,3 +88,23 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-28 13:15:38,Why Meta Is a Good Bet Despite Huge AI Spending: ETFs in Focus - The Globe and Mail,META,Google RSS,neutral,0.0
 2026-10-28 14:40:00,"3 ""Magnificent Seven"" Stocks to Buy Hand Over Fist in November",META,Yahoo RSS,neutral,0.0
 2026-10-28 08:53:47,Netflix stock is falling after earnings: why Morningstar sees it rising 30%,NFLX,Bing RSS,negative,-0.9092252850532532
+2026-10-28 21:34:07,"Alphabet misses Wall Street expectation on earnings, stock continues to slide in extended trading - CNBC",GOOGL,Google RSS,negative,-0.9560093283653259
+2026-10-28 20:22:41,Alphabet shares tumble 7% as earnings miss overshadows cloud boom - Investing.com,GOOGL,Google RSS,negative,-0.9537725448608398
+2026-10-28 21:09:43,Alphabet (NASDAQ:GOOGL) Stock Plunges After Q3 Earnings Despite 103% Google Cloud Growth - Stocks Down Under,GOOGL,Google RSS,negative,-0.9696565270423889
+2026-10-28 22:17:23,Alphabet stock drops after profit and sales fall - www.thenationalnews.com,GOOGL,Google RSS,negative,-0.9605076313018799
+2026-10-28 22:30:44,"Stock Market Rises On Fed Interest Rate Decision; Alphabet, Microsoft Diverge On Earnings Late - Investor's Business Daily",GOOGL,Google RSS,neutral,0.0
+2026-10-28 19:15:12,Alphabet's Q3 earnings report will reveal if its AI investments can boost growth amid stock stagnation. - Pluang,GOOGL,Google RSS,positive,0.7632871270179749
+2026-10-28 14:58:00,[Microsoft↑ Alphabet↓] Earnings Flash Report! The contrast that exceeded market expectations and the future of AI investment,GOOGL,Bing RSS,neutral,0.0
+2026-10-28 21:54:00,Rising Estimates and Broad Growth Underpin Strong Earnings Outlook,GOOGL,Yahoo RSS,positive,0.9518830180168152
+2026-10-28 22:30:44,"Stock Market Rises On Fed Interest Rate Decision; Alphabet, Microsoft Diverge On Earnings Late - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-10-28 21:14:08,CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations - CNBC,MSFT,Google RSS,negative,-0.9646527767181396
+2026-10-28 21:03:08,Microsoft stock jumps as cloud growth drives earnings and revenue beat - CNBC,MSFT,Google RSS,neutral,0.0
+2026-10-28 20:47:08,"Microsoft Azure revenue surges 48% to $33.2B, beating expectations as cloud and AI demand grows - GeekWire",MSFT,Google RSS,positive,0.9489450454711914
+2026-10-28 21:17:19,Microsoft Reports Rising Cloud Sales That Show Payoff From AI - Bloomberg.com,MSFT,Google RSS,positive,0.927595317363739
+2026-10-28 20:13:44,Microsoft beats quarterly cloud revenue estimates By Reuters - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-28 19:38:44,Microsoft and Alphabet earnings preview: cloud growth and capex in focus - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-28 22:05:16,Microsoft (NASDAQ:MSFT) Stock Surges 4% After Earnings Beat as Azure Growth Hits 48% - Stocks Down Under,MSFT,Google RSS,negative,-0.9595795273780823
+2026-10-28 22:48:32,Microsoft beats expectations fueled by Azure cloud business,MSFT,Yahoo RSS,positive,0.900555431842804
+2026-10-28 21:25:30,Microsoft hits 10 quarters of record-breaking revenue in a row,MSFT,Yahoo RSS,positive,0.878204345703125
+2026-10-28 22:17:13,Intel to report Q3 earnings as chip stocks continue to rebound,NVDA,Yahoo RSS,positive,0.9233292937278748
+2026-10-28 21:54:00,Rising Estimates and Broad Growth Underpin Strong Earnings Outlook,NVDA,Yahoo RSS,positive,0.9518830180168152
