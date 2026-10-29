@@ -76,24 +76,59 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-29 11:05:23,3 Unstoppable S&P 500 Stocks to Buy Before October Ends,NVDA,Yahoo RSS,neutral,0.0
 2026-10-22 13:17:00,Meta Stock Falls Despite Strong Q3 Results As AI Spending Takes Focus - Investor's Business Daily,META,Google RSS,negative,-0.7954970002174377
 2026-10-29 16:22:00,"Alphabet Sinks 11.8%, Small Caps Rally on Strong GDP Growth: Stock Market Today - Benzinga",AAPL,Google RSS,negative,-0.7758421897888184
-2026-10-29 18:13:13,"Stock Market Today: Dow, S&P 500 and Nasdaq fall as Alphabet, Caterpillar earnings disappoint, but most stocks rise - MarketWatch",GOOGL,Google RSS,negative,-0.9681341052055359
+2026-10-29 18:13:13,"Stock Market Today: Dow, S&P 500 and Nasdaq fall as Alphabet, Caterpillar earnings disappoint, but most stocks rise - MarketWatch",GOOGL,Google RSS,negative,-0.968134105205536
 2026-10-29 16:43:57,Nasdaq falls as Alphabet set for record loss amid AI spending woes - Reuters,GOOGL,Google RSS,negative,-0.9379209280014038
-2026-10-29 14:41:51,A potentially historic drop for Alphabet's stock drags the US market lower - LancasterOnline,GOOGL,Google RSS,negative,-0.9621299505233765
+2026-10-29 14:41:51,A potentially historic drop for Alphabet's stock drags the US market lower - LancasterOnline,GOOGL,Google RSS,negative,-0.9621299505233764
 2026-10-29 11:41:06,Alphabet drags on Nasdaq futures as the stock faces a record post-earnings loss - CNBC,GOOGL,Google RSS,negative,-0.935444712638855
-2026-10-29 14:05:15,A potentially historic drop for Alphabet’s stock drags the US market lower - Durango Herald,GOOGL,Google RSS,negative,-0.9607382416725159
+2026-10-29 14:05:15,A potentially historic drop for Alphabet’s stock drags the US market lower - Durango Herald,GOOGL,Google RSS,negative,-0.960738241672516
 2026-10-29 13:36:27,Alphabet leads US stocks lower after reporting weaker-than-expected growth - KSN-TV,GOOGL,Google RSS,negative,-0.9554526805877686
-2026-10-29 13:49:14,A potentially historic drop for Alphabet's stock drags the US market lower - The Killeen Daily Herald,GOOGL,Google RSS,negative,-0.9650560617446899
-2026-10-29 14:08:14,A potentially historic drop for Alphabet's stock drags the US market lower - chronicleonline.com,GOOGL,Google RSS,negative,-0.9549165964126587
+2026-10-29 13:49:14,A potentially historic drop for Alphabet's stock drags the US market lower - The Killeen Daily Herald,GOOGL,Google RSS,negative,-0.96505606174469
+2026-10-29 14:08:14,A potentially historic drop for Alphabet's stock drags the US market lower - chronicleonline.com,GOOGL,Google RSS,negative,-0.9549165964126588
 2026-10-29 14:11:31,Cantor Fitzgerald cuts Alphabet stock price target on weak earnings - Investing.com,GOOGL,Google RSS,negative,-0.9529114365577698
 2026-10-28 22:03:00,A potentially historic drop for Alphabet’s stock drags the US market lower,GOOGL,Bing RSS,negative,-0.950438380241394
 2026-10-29 13:19:23,Amazon stock setup into today’s earnings: What could push shares higher or lower? - Investing.com,AMZN,Google RSS,neutral,0.0
 2026-10-29 11:52:09,"Stocks Down Pre-Bell Ahead of Key Inflation Report, Amazon Earnings - marketscreener.com",AMZN,Google RSS,negative,-0.7766225934028625
 2026-10-29 17:01:48,Microsoft Stock Slips Despite Strong Azure Growth: Analysts Debate AI Spending - Benzinga,MSFT,Google RSS,negative,-0.9658440947532654
-2026-10-29 16:44:45,"Software stocks slide as Fortinet and ServiceNow slump, Microsoft reverses early gains (MSFT:NASDAQ) - Seeking Alpha",MSFT,Google RSS,negative,-0.9656617641448975
+2026-10-29 16:44:45,"Software stocks slide as Fortinet and ServiceNow slump, Microsoft reverses early gains (MSFT:NASDAQ) - Seeking Alpha",MSFT,Google RSS,negative,-0.9656617641448976
 2026-10-29 14:59:41,TD Cowen raises Microsoft stock price target on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-10-29 17:30:13,Alphabet vs. Microsoft earnings: Why investors see their AI spending differently - Fierce Network,MSFT,Google RSS,neutral,0.0
 2026-10-29 12:55:00,Microsoft stock jumps as Azure cloud growth smashes expectations - TradingView,MSFT,Google RSS,negative,-0.6212307214736938
 2026-10-29 10:59:00,Guggenheim raises Microsoft stock price target to $595 on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-10-29 10:04:38,Microsoft rises premarket as cloud strength drives earnings beat - Investing.com,MSFT,Google RSS,positive,0.6267628073692322
-2026-10-29 17:53:01,Microsoft Stocks Move Lower With Azure Growth and a Profit-Quality Test - TradingView,MSFT,Google RSS,negative,-0.9650174379348755
+2026-10-29 17:53:01,Microsoft Stocks Move Lower With Azure Growth and a Profit-Quality Test - TradingView,MSFT,Google RSS,negative,-0.9650174379348756
 2026-10-29 14:42:35,"Musk Says A Tesla-SpaceX Merger Is “A Good Idea,” But Admits It Would Require 1.98 Billion “Yes” Votes. He Calls It “Quite A High Hurdle”",TSLA,Yahoo RSS,neutral,0.0
+2026-10-29 22:20:50,"Top 20 by trading volume | Following its earnings report, Google plunged 12%, marking its largest single-day drop since going public; Eli Lilly and Co. rose more than 6% to hit a new high, having raised its full-year guidance three times this year; Apple defied t - 富途牛牛",AAPL,Google RSS,negative,-0.9339190125465393
+2026-10-29 22:04:46,"Stock Market Today: Dow, S&P 500 and Nasdaq close lower for first time in 4 days, but most stocks rise - MarketWatch",GOOGL,Google RSS,negative,-0.9657951593399048
+2026-10-29 22:31:31,A historic drop for Alphabet’s stock drags the US market lower - WOODTV.com,GOOGL,Google RSS,negative,-0.9562100768089294
+2026-10-29 22:12:36,"Dow loses 100 points, S&P 500 snaps 3-day advance as Alphabet and Caterpillar tank: Live updates - CNBC",GOOGL,Google RSS,neutral,0.0
+2026-10-29 20:42:00,A historic drop for Alphabet’s stock drags the US market lower - AP News,GOOGL,Google RSS,negative,-0.9546643495559692
+2026-10-29 13:43:32,A potentially historic drop for Alphabet’s stock drags the US market lower - Los Angeles Daily News,GOOGL,Google RSS,negative,-0.9681564569473267
+2026-10-29 22:30:00,Historic drop for Alphabet's stock drags US market lower - The Journal Gazette,GOOGL,Google RSS,negative,-0.9580458998680115
+2026-10-29 20:19:17,A historic drop for Alphabet's stock drags the US market lower - The Killeen Daily Herald,GOOGL,Google RSS,negative,-0.9663219451904297
+2026-10-29 14:16:05,"A potentially historic drop for Alphabet’s stock drags the US market lower - Boston News, Weather, Sports - WHDH",GOOGL,Google RSS,negative,-0.9529613256454468
+2026-10-29 17:56:20,A potentially historic drop for Alphabet’s stock drags the US market lower - WSAV-TV,GOOGL,Google RSS,negative,-0.9561225175857544
+2026-10-29 20:32:14,A potentially historic drop for Alphabet's stock drags the US market lower - News-Press NOW,GOOGL,Google RSS,negative,-0.9599655270576477
+2026-10-29 19:52:30,A potentially historic drop for Alphabet's stock drags the US market lower - Ottumwa Courier,GOOGL,Google RSS,negative,-0.9638708233833313
+2026-10-29 20:06:30,A historic drop for Alphabet’s stock drags the US market lower - Texomashomepage.com,GOOGL,Google RSS,negative,-0.9597840905189514
+2026-10-29 15:26:54,A potentially historic drop for Alphabet's stock drags the US market lower - Star Beacon,GOOGL,Google RSS,negative,-0.9639987349510193
+2026-10-29 20:42:32,A historic drop for Alphabet's stock drags the US market lower - Cherokee Tribune,GOOGL,Google RSS,negative,-0.9680765867233276
+2026-10-29 13:19:17,A historic drop for Alphabet's stock drags the US market lower,GOOGL,Bing RSS,negative,-0.95387864112854
+2026-10-29 22:21:12,Amazon cloud business accelerates but shares drop on profit miss,GOOGL,Yahoo RSS,negative,-0.9691811800003052
+2026-10-29 21:39:00,"Microsoft Issues $25 Billion in New Bonds, Adding to AI Debt Spree",GOOGL,Yahoo RSS,positive,0.8556867837905884
+2026-10-29 21:31:18,"When diesel prices fall, Amazon stock will climb: Aquinas Wealth Advisors CEO - Fox Business",AMZN,Google RSS,neutral,0.0
+2026-10-29 21:44:00,Amazon shares sink as spending on AI overshadows growth in cloud unit - Fortune,AMZN,Google RSS,negative,-0.9687720537185669
+2026-10-29 21:18:06,"Dow Jones Top Company Headlines at 5 PM ET: Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years | Intel ... - Moomoo",AMZN,Google RSS,negative,-0.9654408097267151
+2026-10-29 23:00:47,Amazon (NASDAQ: AMZN) stock price forecast: AWS growth fails to offset AI spending - Beinsure,AMZN,Google RSS,negative,-0.8726575374603271
+2026-10-29 18:52:39,Amazon’s holiday forecast disappoints despite AWS’s fastest growth in nearly five years - Nacionale,AMZN,Google RSS,negative,-0.9351972341537476
+2026-10-29 20:07:59,"Amazon Q3 operating profit beats estimates, but EPS misses and Q4 guidance looks soft. Share price drops. - investingLive",AMZN,Google RSS,negative,-0.9627292156219482
+2026-10-29 16:33:00,Amazon shares fall as weaker Q4 outlook offsets 39% AWS growth - Proactive financial news,AMZN,Google RSS,negative,-0.9499818682670593
+2026-10-29 13:15:00,"Amazon stock drops on Wall Street miss, despite biggest cloud growth in years",AMZN,Bing RSS,negative,-0.9646017551422119
+2026-10-29 21:40:00,'Workloads are moving': Amazon's Jassy says AWS still growing amid cloud move,AMZN,Yahoo RSS,negative,-0.8920329213142395
+2026-10-29 22:21:12,Amazon cloud business accelerates but shares drop on profit miss,AMZN,Yahoo RSS,negative,-0.9691811800003052
+2026-10-29 21:40:02,Amazon Stock Slides After Q3 Earnings Miss Despite Strong Cloud Growth,AMZN,Yahoo RSS,negative,-0.9650018811225891
+2026-10-29 21:20:47,Amazon reported booming cloud revenue but otherwise missed expectations,AMZN,Yahoo RSS,positive,0.9170055389404297
+2026-10-29 21:39:00,"Microsoft Issues $25 Billion in New Bonds, Adding to AI Debt Spree",AMZN,Yahoo RSS,positive,0.8556867837905884
+2026-10-29 22:52:34,MSFT Stock Reverses to $530 as Investors Fear Lower Capex Might Signal the End of AI Bubble Despite Microsoft Beating Quarterly Earnings and Revenue Expectations - FXLeaders,MSFT,Google RSS,negative,-0.9574910998344421
+2026-10-29 21:39:00,"Microsoft Issues $25 Billion in New Bonds, Adding to AI Debt Spree",MSFT,Yahoo RSS,positive,0.8556867837905884
+2026-10-29 17:52:54,"Investor confidence thwarted by Big Tech, and does AI beat out FED rates",META,Yahoo RSS,negative,-0.42717617750167847
+2026-10-29 21:39:00,"Microsoft Issues $25 Billion in New Bonds, Adding to AI Debt Spree",META,Yahoo RSS,positive,0.8556867837905884
