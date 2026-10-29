@@ -2,21 +2,21 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-27 14:09:31,"Apple Unveils New MacBook Pro Ahead Of November Launch — HSBC Sees Strong iPhone Demand, Potential AI-Driven Upgrade Cycle - TradingView",AAPL,Google RSS,positive,0.9015027284622192
 2026-10-25 21:04:00,"Apple stock hits record as iPhone Duo demand soars, but Wall Street warns",AAPL,Bing RSS,positive,0.544714093208313
 2026-10-28 23:07:00,"Stock Market Rises On Fed Interest Rate Decision; Alphabet, Microsoft Diverge On Earnings Late - Investor's Business Daily",GOOGL,Google RSS,neutral,0.0
-2026-10-28 21:30:35,Alphabet shares tumble 8.5% as earnings miss overshadows cloud boom - Investing.com,GOOGL,Google RSS,negative,-0.9613043665885925
-2026-10-28 21:33:00,"Alphabet misses Wall Street expectation on earnings, stock continues to slide in extended trading - CNBC",GOOGL,Google RSS,negative,-0.9560093283653259
-2026-10-28 21:10:49,Alphabet (NASDAQ:GOOGL) Stock Plunges After Q3 Earnings Despite 103% Google Cloud Growth - Stocks Down Under,GOOGL,Google RSS,negative,-0.9696565270423889
+2026-10-28 21:30:35,Alphabet shares tumble 8.5% as earnings miss overshadows cloud boom - Investing.com,GOOGL,Google RSS,negative,-0.9613043665885924
+2026-10-28 21:33:00,"Alphabet misses Wall Street expectation on earnings, stock continues to slide in extended trading - CNBC",GOOGL,Google RSS,negative,-0.956009328365326
+2026-10-28 21:10:49,Alphabet (NASDAQ:GOOGL) Stock Plunges After Q3 Earnings Despite 103% Google Cloud Growth - Stocks Down Under,GOOGL,Google RSS,negative,-0.9696565270423888
 2026-10-26 13:43:02,Here’s How Much Traders See Google Parent Alphabet’s Stock Moving After Earnings - Investopedia,GOOGL,Google RSS,neutral,0.0
-2026-10-29 00:31:57,"U.S. stock futures drop as Alphabet slides on soft earnings, Microsoft firms - Investing.com",GOOGL,Google RSS,negative,-0.9531087875366211
+2026-10-29 00:31:57,"U.S. stock futures drop as Alphabet slides on soft earnings, Microsoft firms - Investing.com",GOOGL,Google RSS,negative,-0.9531087875366212
 2026-10-28 23:25:57,Watch Alphabet Shares Tank on Sales Misses Across Core Businesses - Bloomberg,GOOGL,Google RSS,negative,-0.8404706120491028
 2026-10-29 02:59:32,"Dow, S&P 500, Nasdaq Futures Mixed After Fed Holds Rates Steady: GOOG, GOOGL, IOVA, MSFT, NOW In Focus",GOOGL,Yahoo RSS,neutral,0.0
-2026-10-29 01:01:36,"U.S. stock futures drop as Alphabet slides on soft earnings, Microsoft firms",GOOGL,Yahoo RSS,negative,-0.9454251527786255
+2026-10-29 01:01:36,"U.S. stock futures drop as Alphabet slides on soft earnings, Microsoft firms",GOOGL,Yahoo RSS,negative,-0.9454251527786256
 2026-10-29 00:45:28,"Alphabet, Microsoft earnings reveal surging AI demand as spending soars",GOOGL,Yahoo RSS,positive,0.915179431438446
 2026-10-25 15:42:25,Amazon earnings history before its October 29 report - Opening Bell Daily,AMZN,Google RSS,neutral,0.0
 2026-10-27 02:39:00,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
 2026-10-25 19:12:00,"The Fed, Inflation, Verizon, Boeing, Alphabet, GE Vernova, Amazon, and Many More Stocks to Watch This Week - Barron's",AMZN,Google RSS,neutral,0.0
 2026-10-26 01:07:00,"Microsoft, Alphabet, and Amazon Make Up About 15% of the S&P 500. All 3 Report Earnings Within 2 Days. - The Motley Fool",AMZN,Google RSS,neutral,0.0
 2026-10-27 04:35:00,Amazon’s ‘Safe’ Retail Business Earns Less Than AWS Does. Is the Stock Still a Good Buy for Cautious Investors?,AMZN,Bing RSS,neutral,0.0
-2026-10-29 00:31:57,"U.S. stock futures drop as Alphabet slides on soft earnings, Microsoft firms - Investing.com",MSFT,Google RSS,negative,-0.9531087875366211
+2026-10-29 00:31:57,"U.S. stock futures drop as Alphabet slides on soft earnings, Microsoft firms - Investing.com",MSFT,Google RSS,negative,-0.9531087875366212
 2026-10-29 01:34:00,"Microsoft’s stock rises on solid earnings and revenue beat, with Azure growing 48% - SiliconANGLE",MSFT,Google RSS,positive,0.9515047073364258
 2026-10-28 21:14:08,CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations - CNBC,MSFT,Google RSS,negative,-0.9646527767181396
 2026-10-28 21:03:08,Microsoft stock jumps as cloud growth drives earnings and revenue beat - CNBC,MSFT,Google RSS,neutral,0.0
@@ -24,23 +24,54 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-28 23:18:13,Microsoft Reports Rising Cloud Sales That Show Payoff From AI - Bloomberg,MSFT,Google RSS,positive,0.9160956144332886
 2026-10-28 20:47:08,"Microsoft Azure revenue surges 48% to $33.2B, beating expectations as cloud and AI demand grows - GeekWire",MSFT,Google RSS,positive,0.9489450454711914
 2026-10-28 12:52:37,Microsoft stock setup analysis ahead of today’s earnings release - Investing.com,MSFT,Google RSS,neutral,0.0
-2026-10-28 22:06:10,Microsoft (NASDAQ:MSFT) Stock Surges 4% After Earnings Beat as Azure Growth Hits 48% - Stocks Down Under,MSFT,Google RSS,negative,-0.9595794677734375
+2026-10-28 22:06:10,Microsoft (NASDAQ:MSFT) Stock Surges 4% After Earnings Beat as Azure Growth Hits 48% - Stocks Down Under,MSFT,Google RSS,negative,-0.9595794677734376
 2026-10-28 23:07:00,"Stock Market Rises On Fed Interest Rate Decision; Alphabet, Microsoft Diverge On Earnings Late - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
 2026-10-27 01:26:00,Should You Buy Microsoft Stock Before the Huge Investor Update? - The Motley Fool,MSFT,Google RSS,neutral,0.0
-2026-10-28 22:51:38,"Microsoft beats earnings estimates, driven by cloud growth - Yakima Herald-Republic",MSFT,Google RSS,positive,0.9134616851806641
+2026-10-28 22:51:38,"Microsoft beats earnings estimates, driven by cloud growth - Yakima Herald-Republic",MSFT,Google RSS,positive,0.913461685180664
 2026-10-28 23:12:35,"MSFT stock price today rises after Microsoft earnings beat Wall Street expectations, but is capex still a - The Economic Times",MSFT,Google RSS,positive,0.876559317111969
 2026-10-28 15:05:04,Microsoft Earnings Top Item to Watch for AI Stocks: Dan Ives Says 'Most Important Print of the Week' - Benzinga,MSFT,Google RSS,neutral,0.0
 2026-10-28 19:38:44,Microsoft and Alphabet earnings preview: cloud growth and capex in focus - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-10-28 13:12:00,"Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck - Investor's Business Daily",MSFT,Google RSS,negative,-0.5539595484733582
-2026-10-29 01:01:36,"U.S. stock futures drop as Alphabet slides on soft earnings, Microsoft firms",MSFT,Yahoo RSS,negative,-0.9454251527786255
+2026-10-29 01:01:36,"U.S. stock futures drop as Alphabet slides on soft earnings, Microsoft firms",MSFT,Yahoo RSS,negative,-0.9454251527786256
 2026-10-29 00:45:28,"Alphabet, Microsoft earnings reveal surging AI demand as spending soars",MSFT,Yahoo RSS,positive,0.915179431438446
 2026-10-29 02:59:32,"Dow, S&P 500, Nasdaq Futures Mixed After Fed Holds Rates Steady: GOOG, GOOGL, IOVA, MSFT, NOW In Focus",MSFT,Yahoo RSS,neutral,0.0
-2026-10-28 21:13:00,"Nvidia Partner Vertiv Soars After Blowout Earnings, Strong Guidance - Investor's Business Daily",NVDA,Google RSS,positive,0.9052304625511169
+2026-10-28 21:13:00,"Nvidia Partner Vertiv Soars After Blowout Earnings, Strong Guidance - Investor's Business Daily",NVDA,Google RSS,positive,0.9052304625511168
 2026-10-28 13:37:47,Nvidia May Actually Raise Its 70% Growth Guide In November - Seeking Alpha,NVDA,Google RSS,positive,0.9286882877349854
 2026-10-28 13:12:00,"Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck - Investor's Business Daily",TSLA,Google RSS,negative,-0.5539595484733582
 2026-10-27 19:30:00,3 Types of Investors Who Should Avoid SpaceX and Tesla Stocks as the Companies Explore a Potential Merger - The Motley Fool,TSLA,Google RSS,neutral,0.0
 2026-10-27 02:39:00,"Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
 2026-10-28 14:40:00,"3 ""Magnificent Seven"" Stocks to Buy Hand Over Fist in November",TSLA,Yahoo RSS,neutral,0.0
-2026-10-26 18:04:26,"Netflix stock seen rising 18% despite a year of losses, backed by margin growth and strong buybacks. - Pluang",NFLX,Google RSS,positive,0.9505060911178589
+2026-10-26 18:04:26,"Netflix stock seen rising 18% despite a year of losses, backed by margin growth and strong buybacks. - Pluang",NFLX,Google RSS,positive,0.9505060911178588
 2026-10-27 17:04:51,Netflix earnings grow faster despite slower rev... - Pluang,NFLX,Google RSS,positive,0.9513481855392456
-2026-10-28 08:53:47,Netflix stock is falling after earnings: why Morningstar sees it rising 30%,NFLX,Bing RSS,negative,-0.9092249870300293
+2026-10-28 08:53:47,Netflix stock is falling after earnings: why Morningstar sees it rising 30%,NFLX,Bing RSS,negative,-0.9092249870300292
+2026-10-29 00:32:46,Nasdaq futures drop as Alphabet earnings revive AI jitters - Investing.com,GOOGL,Google RSS,negative,-0.8786856532096863
+2026-10-29 11:31:45,Nasdaq futures slide as Alphabet results intensify AI spending fears - Reuters,GOOGL,Google RSS,negative,-0.9400902986526489
+2026-10-29 11:45:50,"Guggenheim reiterates Buy on Alphabet stock, cites cloud strength - Investing.com",GOOGL,Google RSS,neutral,0.0
+2026-10-29 12:00:38,"Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more - CNBC",GOOGL,Google RSS,neutral,0.0
+2026-10-29 09:15:03,Canaccord reiterates Alphabet stock rating on cloud strength - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-10-29 09:13:39,Pivotal Research reiterates Alphabet stock Buy rating on cloud strength - Investing.com,GOOGL,Google RSS,neutral,0.0
+2026-10-29 12:19:27,Google and Microsoft missed AI spending estimates in Q3 2026 earnings - Quartz,GOOGL,Google RSS,negative,-0.9595961570739746
+2026-10-29 12:11:26,Premarket movers: Microsoft rises; Alphabet drags software stocks lower,GOOGL,Yahoo RSS,negative,-0.808202862739563
+2026-10-29 12:10:07,"US Equity Futures Fall Pre-Bell As Fed Holds Rate Steady, Traders Assess Big Tech Earnings",GOOGL,Yahoo RSS,negative,-0.7159104347229004
+2026-10-29 11:56:45,Why Are Alphabet Shares Falling More Than 10% Despite Growth in Google Cloud?,GOOGL,Yahoo RSS,negative,-0.959308922290802
+2026-10-29 11:53:18,"Caterpillar Revenue Miss, Outlook Dig Hole For Dow Jones Industrial Average",GOOGL,Yahoo RSS,negative,-0.8113424181938171
+2026-10-29 11:50:15,"Bond Yields, Crude Prices Lift European Bourses Midday Ahead of ECB Rate Decision",GOOGL,Yahoo RSS,positive,0.5007308721542358
+2026-10-29 04:38:33,"US futures tumble as Alphabet earnings revive AI spending fears, Amazon is next in the firing line - investingLive",AMZN,Google RSS,negative,-0.9397748708724976
+2026-10-29 11:47:43,"Stocks Down Pre-Bell Ahead of Key Inflation Report, Amazon Earnings",AMZN,Yahoo RSS,negative,-0.9014795422554016
+2026-10-28 16:00:01,Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat - CNBC,MSFT,Google RSS,positive,0.835526704788208
+2026-10-29 12:19:27,Google and Microsoft missed AI spending estimates in Q3 2026 earnings - Quartz,MSFT,Google RSS,negative,-0.9595961570739746
+2026-10-29 00:27:00,Microsoft’s strong quarter backs up its stock rebound. Here's our new price target - CNBC,MSFT,Google RSS,neutral,0.0
+2026-10-29 09:58:41,KeyBanc raises Microsoft stock price target to $630 on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-29 09:05:03,Bernstein raises Microsoft stock price target on strong Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-29 09:05:03,Piper Sandler raises Microsoft stock price target on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-29 06:19:56,Why Google stock fell while Microsoft rose after Q3 earnings - FXStreet,MSFT,Google RSS,negative,-0.6155214309692383
+2026-10-28 23:10:06,Microsoft beats expectations fueled by Azure cloud business - AFP.com,MSFT,Google RSS,neutral,0.0
+2026-10-29 11:44:59,Premarket movers: Microsoft rises; Alphabet drags software stocks lower - Investing.com,MSFT,Google RSS,negative,-0.6729363203048706
+2026-10-28 16:12:00,Microsoft gains put spotlight on ETFs with the biggest exposure to the stock,MSFT,Bing RSS,positive,0.5791182518005371
+2026-10-28 09:00:00,Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat,MSFT,Bing RSS,positive,0.8646857738494873
+2026-10-28 09:46:00,Microsoft stock jumps 4% after earnings: here's what pleased investors,MSFT,Bing RSS,neutral,0.0
+2026-10-26 05:28:00,Here’s How Much Traders See Microsoft Stock Moving After Earnings,MSFT,Bing RSS,neutral,0.0
+2026-10-29 12:11:26,Premarket movers: Microsoft rises; Alphabet drags software stocks lower,MSFT,Yahoo RSS,negative,-0.808202862739563
+2026-10-29 11:26:40,"US Stock Futures Mixed as Alphabet Falls, Microsoft Gains and Fed Comments Draw Attention to AI Spending: Dow Jones, S&P, Nasdaq, Wall Street",MSFT,Yahoo RSS,negative,-0.6402040719985962
+2026-10-29 11:05:23,3 Unstoppable S&P 500 Stocks to Buy Before October Ends,NVDA,Yahoo RSS,neutral,0.0
+2026-10-22 13:17:00,Meta Stock Falls Despite Strong Q3 Results As AI Spending Takes Focus - Investor's Business Daily,META,Google RSS,negative,-0.7954970002174377
