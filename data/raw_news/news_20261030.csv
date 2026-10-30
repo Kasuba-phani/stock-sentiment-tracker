@@ -66,12 +66,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-29 21:39:00,"Microsoft Issues $25 Billion in New Bonds, Adding to AI Debt Spree",META,Yahoo RSS,positive,0.8556867837905884
 2026-10-30 00:15:00,Amazon’s stock drops — even in the face of a bold new cloud forecast,AMZN,MarketWatch Top,negative,-0.9517110586166382
 2026-10-29 22:36:00,"Stock Market Today: Dow, S&P 500 and Nasdaq close lower for first time in 4 days, but most stocks rise - MarketWatch",GOOGL,Google RSS,negative,-0.9657951593399048
-2026-10-30 06:00:00,A potentially historic drop for Alphabet's stock drags the US market lower - Jackson Hole News&Guide,GOOGL,Google RSS,negative,-0.9613019227981567
+2026-10-30 06:00:00,A potentially historic drop for Alphabet's stock drags the US market lower - Jackson Hole News&Guide,GOOGL,Google RSS,negative,-0.9613019227981568
 2026-10-29 21:42:00,A historic drop for Alphabet’s stock drags the US market lower - Durango Herald,GOOGL,Google RSS,negative,-0.9615986943244934
-2026-10-29 20:42:32,A potentially historic drop for Alphabet’s stock drags the US market lower - WANE 15,GOOGL,Google RSS,negative,-0.9522963166236877
+2026-10-29 20:42:32,A potentially historic drop for Alphabet’s stock drags the US market lower - WANE 15,GOOGL,Google RSS,negative,-0.9522963166236876
 2026-10-29 20:20:03,THE CLOSING BELL: Historic drop for Alphabet’s stock drags the US market lower - WPTF,GOOGL,Google RSS,negative,-0.9606578946113586
-2026-10-29 14:41:51,A potentially historic drop for Alphabet's stock drags the US market lower - LancasterOnline,GOOGL,Google RSS,negative,-0.9621299505233765
-2026-10-29 20:42:32,A historic drop for Alphabet's stock drags the US market lower - Clinton Herald,GOOGL,Google RSS,negative,-0.9651250243186951
+2026-10-29 14:41:51,A potentially historic drop for Alphabet's stock drags the US market lower - LancasterOnline,GOOGL,Google RSS,negative,-0.9621299505233764
+2026-10-29 20:42:32,A historic drop for Alphabet's stock drags the US market lower - Clinton Herald,GOOGL,Google RSS,negative,-0.9651250243186952
 2026-10-30 12:03:27,Tech sell-off deepens as earnings fan AI fears,GOOGL,Yahoo RSS,negative,-0.8600610494613647
 2026-10-30 10:35:56,AI selloff hammers tech stocks as Intel and Amazon drag down the Nasdaq - Quartz,AMZN,Google RSS,negative,-0.9433965682983398
 2026-10-29 23:05:49,We're cutting our Amazon price target after a rough quarter. But it isn't all bad - CNBC,AMZN,Google RSS,negative,-0.8939256072044373
@@ -83,14 +83,35 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-30 11:00:43,Why Is Amazon Stock Falling Friday? - TradingView,AMZN,Google RSS,negative,-0.9056954383850098
 2026-10-30 09:18:01,Canaccord reiterates Amazon stock Buy rating on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
 2026-10-30 11:12:47,Amazon sell-off puts ETFs with the biggest stock exposure in focus - TradingView,AMZN,Google RSS,negative,-0.6950781941413879
-2026-10-30 03:19:00,Why Amazon (AMZN) Stock Is Sliding Even After a Strong AWS Quarter,AMZN,Bing RSS,negative,-0.9614725112915039
+2026-10-30 03:19:00,Why Amazon (AMZN) Stock Is Sliding Even After a Strong AWS Quarter,AMZN,Bing RSS,negative,-0.961472511291504
 2026-10-30 12:03:27,Tech sell-off deepens as earnings fan AI fears,AMZN,Yahoo RSS,negative,-0.8600610494613647
 2026-10-30 12:04:59,Global chip stocks slide after Intel’s weak outlook,AMZN,Yahoo RSS,negative,-0.9629284739494324
 2026-10-26 12:28:36,Here’s How Much Traders See Microsoft Stock Moving After Earnings - Investopedia,MSFT,Google RSS,neutral,0.0
 2026-10-23 18:07:36,Home Page - Microsoft Investor Relations - Microsoft,MSFT,Google RSS,neutral,0.0
 2026-10-28 13:53:00,Microsoft stock jumps as cloud growth drives earnings and revenue beat,MSFT,Bing RSS,negative,-0.4690753221511841
-2026-10-30 11:46:09,"Nasdaq futures crash up to 2.5% as tech stock selloff deepens; Nvidia, AMD fall up to 7% - TradingView",NVDA,Google RSS,negative,-0.9488281607627869
+2026-10-30 11:46:09,"Nasdaq futures crash up to 2.5% as tech stock selloff deepens; Nvidia, AMD fall up to 7% - TradingView",NVDA,Google RSS,negative,-0.9488281607627868
 2026-10-30 11:00:21,Tesla stock faces mixed quarter as AI spending pressures profit - ad-hoc-news.de,TSLA,Google RSS,negative,-0.960238516330719
 2026-10-30 11:08:00,CVNA Q3 Earnings Miss on Higher Costs Despite Record Sales,TSLA,Yahoo RSS,negative,-0.720512866973877
 2026-10-30 10:58:00,Tech Earnings Sink SpaceX Stock. No Other Companies Meet Elon Musk’s High Bar.,META,Yahoo RSS,neutral,0.0
-2026-10-28 08:53:47,Netflix stock is falling after earnings: why Morningstar sees it rising 30%,NFLX,Bing RSS,negative,-0.9092248678207397
+2026-10-28 08:53:47,Netflix stock is falling after earnings: why Morningstar sees it rising 30%,NFLX,Bing RSS,negative,-0.9092248678207396
+2026-10-30 14:34:43,"Apple Sent 80% of Initial iPhone Duo Stock to Retail Stores, Report Says - The Mac Observer",AAPL,Google RSS,neutral,0.0
+2026-10-29 21:51:16,A historic drop for Alphabet's stock drags the US market lower - News-Times,GOOGL,Google RSS,negative,-0.9657807350158691
+2026-10-30 16:43:06,The sell-off for tech stocks deepens as the Nasdaq heads toward its worst day since June - KTVN,GOOGL,Google RSS,negative,-0.9370966553688049
+2026-10-29 13:43:32,A potentially historic drop for Alphabet’s stock drags the US market lower - Los Angeles Daily News,GOOGL,Google RSS,negative,-0.9681564569473267
+2026-10-30 17:55:14,"META, AMZN, ORCL, GOOGL In Focus: Big Tech Bonds Offer Better Opportunity Than Stocks, BofA Says",GOOGL,Yahoo RSS,positive,0.7031946182250977
+2026-10-30 17:15:27,"Nasdaq plunges 3%, heads for worst day since June as tech stocks lead sell-off: Live updates - CNBC",AMZN,Google RSS,negative,-0.9164760708808899
+2026-10-30 16:43:30,"Nasdaq hits near three-month low as Amazon, Intel rattle AI trade - Reuters",AMZN,Google RSS,negative,-0.9315030574798584
+2026-10-30 17:47:01,US tech stocks see sharp falls as AI spending nears $1tn - BBC,AMZN,Google RSS,negative,-0.9710695743560791
+2026-10-30 16:42:00,Nasdaq plunges after dismal earnings from Amazon and Intel - Business Insider,AMZN,Google RSS,negative,-0.9680342078208923
+2026-10-30 11:32:00,Big Tech’s scary October has a twist: Dow on track for biggest monthly lead over Nasdaq since 2022 - MarketWatch,AMZN,Google RSS,neutral,0.0
+2026-10-30 16:57:39,The sell-off for tech stocks deepens and drags Wall Street toward its worst day since June - Boston Herald,AMZN,Google RSS,negative,-0.9527968168258667
+2026-10-30 15:26:00,"Investors Snack On Mondelez, Walmart As Tech Stocks Rocked - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-10-30 14:32:00,Nasdaq drops 2% as Amazon and Intel results weigh on market sentiments - Seeking Alpha,AMZN,Google RSS,negative,-0.9614533185958862
+2026-10-30 11:12:47,Amazon sell-off puts ETFs with the biggest stock exposure in focus (AMZN:NASDAQ) - Seeking Alpha,AMZN,Google RSS,neutral,0.0
+2026-10-30 13:01:42,"4 stocks to watch on Friday: AMZN, XOM, CVX, and SNDK (SP500:) - Seeking Alpha",AMZN,Google RSS,neutral,0.0
+2026-10-30 06:16:00,"Stock market today: Nasdaq dives over 3%, S&P 500 and Dow tank as AI reckoning grips Wall Street",AMZN,Bing RSS,negative,-0.9540640115737915
+2026-10-30 17:06:29,Markets lashed by tech rout as earnings fan AI fears,AMZN,Yahoo RSS,negative,-0.8428922891616821
+2026-10-30 17:55:14,"META, AMZN, ORCL, GOOGL In Focus: Big Tech Bonds Offer Better Opportunity Than Stocks, BofA Says",AMZN,Yahoo RSS,positive,0.7031946182250977
+2026-10-30 13:01:28,"Microsoft in spotlight as Freedom ups price target after strong results, guidance (MSFT:NASDAQ) - Seeking Alpha",MSFT,Google RSS,positive,0.9240161776542664
+2026-10-30 17:55:14,"META, AMZN, ORCL, GOOGL In Focus: Big Tech Bonds Offer Better Opportunity Than Stocks, BofA Says - TradingView",META,Google RSS,neutral,0.0
+2026-10-30 17:55:14,"META, AMZN, ORCL, GOOGL In Focus: Big Tech Bonds Offer Better Opportunity Than Stocks, BofA Says",META,Yahoo RSS,positive,0.7031946182250977
