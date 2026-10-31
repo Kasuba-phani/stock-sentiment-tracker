@@ -65,7 +65,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-30 21:39:40,S&P cuts Meta outlook to negative amid capex concerns,META,Yahoo RSS,negative,-0.9650980234146118
 2026-10-30 19:08:48,Top 3 Founder Led Stocks With Revenue Growth Over 17% To Watch,META,Yahoo RSS,positive,0.9115724563598632
 2026-10-29 22:36:00,"Stock Market Today: Dow, S&P 500 and Nasdaq close lower for first time in 4 days, but most stocks rise - MarketWatch",GOOGL,Google RSS,negative,-0.9657951593399048
-2026-10-29 11:41:06,Alphabet drags on Nasdaq futures as the stock faces a record post-earnings loss - CNBC,GOOGL,Google RSS,negative,-0.9354448318481445
+2026-10-29 11:41:06,Alphabet drags on Nasdaq futures as the stock faces a record post-earnings loss - CNBC,GOOGL,Google RSS,negative,-0.9354448318481444
 2026-10-30 01:15:00,Amazon’s stock drops — even in the face of a bold new cloud forecast - MarketWatch,AMZN,Google RSS,negative,-0.9612815380096436
 2026-10-29 21:31:18,"When diesel prices fall, Amazon stock will climb: Aquinas Wealth Advisors CEO - Fox Business",AMZN,Google RSS,neutral,0.0
 2026-10-30 15:26:00,"Investors Snack On Mondelez, Walmart As Tech Stocks Rocked - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
@@ -73,6 +73,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-28 09:00:00,Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat,MSFT,Bing RSS,positive,0.8646851181983948
 2026-10-26 05:28:00,Here’s How Much Traders See Microsoft Stock Moving After Earnings,MSFT,Bing RSS,neutral,0.0
 2026-10-28 09:46:00,Microsoft stock jumps 4% after earnings: here's what pleased investors,MSFT,Bing RSS,neutral,0.0
-2026-10-31 07:25:44,NVIDIA Corporation $NVDA Stock: CoreCap Advisors LLC Increases Position - MarketBeat,NVDA,Google RSS,positive,0.9200649261474609
+2026-10-31 07:25:44,NVIDIA Corporation $NVDA Stock: CoreCap Advisors LLC Increases Position - MarketBeat,NVDA,Google RSS,positive,0.9200649261474608
 2026-10-30 21:44:57,Meta outlook revised downward by S&P on cash flow and capex concerns - CNBC,META,Google RSS,negative,-0.9287219643592834
-2026-10-28 04:53:00,Netflix stock is falling after earnings: why Morningstar sees it rising 30%,NFLX,Bing RSS,negative,-0.9092248678207397
+2026-10-28 04:53:00,Netflix stock is falling after earnings: why Morningstar sees it rising 30%,NFLX,Bing RSS,negative,-0.9092248678207396
+2026-10-31 12:10:52,Stock market week ahead: Apple and AMD lead 8 big reports - Opening Bell Daily,AAPL,Google RSS,neutral,0.0
+2026-10-31 12:55:14,"Alphabet’s record plunge, Intel’s 30% collapse: tech’s brutal week of reckoning (GOOGL:NASDAQ) - Seeking Alpha",GOOGL,Google RSS,neutral,0.0
+2026-10-31 12:10:29,3 AI Infrastructure Stocks Retail Investors Are Watching After Google Search Shift,GOOGL,Yahoo RSS,neutral,0.0
+2026-10-29 23:00:47,Amazon (NASDAQ: AMZN) stock price forecast: AWS growth fails to offset AI spending - Beinsure,AMZN,Google RSS,negative,-0.8726577162742615
+2026-10-29 21:18:06,"Dow Jones Top Company Headlines at 5 PM ET: Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years | Intel ... - Moomoo",AMZN,Google RSS,negative,-0.9654409289360046
+2026-10-26 12:28:36,Here’s How Much Traders See Microsoft Stock Moving After Earnings - Investopedia,MSFT,Google RSS,neutral,0.0
+2026-10-27 19:30:00,3 Types of Investors Who Should Avoid SpaceX and Tesla Stocks as the Companies Explore a Potential Merger - The Motley Fool,TSLA,Google RSS,neutral,0.0
+2026-10-31 13:34:25,Zuckerberg Says Meta’s “Core Business Is Strong.” S&P Still Cut Its Outlook to Negative - TIKR.com,META,Google RSS,neutral,0.0
+2026-10-30 18:00:02,"META, AMZN, ORCL, GOOGL In Focus: Big Tech Bonds Offer Better Opportunity Than Stocks, BofA Says - Stocktwits",META,Google RSS,positive,0.6326171159744263
+2026-10-31 11:32:59,Zuckerberg Says Meta’s “Core Business Is Strong.” S&P Still Cut Its Outlook to Negative,META,Yahoo RSS,negative,-0.8922564387321472
+2026-10-26 16:42:33,Netflix stock drops more than 3% after disappointing advertising outlook and bearish technicals - Traders Union,NFLX,Google RSS,negative,-0.9698556065559387
