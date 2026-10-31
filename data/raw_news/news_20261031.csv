@@ -2,40 +2,40 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-30 19:00:08,"Catalyst watch: Election drama, jobs report, Apple and McDonald's in the earnings confessional (SPY:NYSEARCA) - Seeking Alpha",AAPL,Google RSS,neutral,0.0
 2026-10-30 14:34:43,"Apple Sent 80% of Initial iPhone Duo Stock to Retail Stores, Report Says - The Mac Observer",AAPL,Google RSS,neutral,0.0
 2026-10-30 18:55:15,"Midterms, Apple earnings, jobs report. Wall Street faces a big week ahead just as investors dump tech - CNBC",AAPL,Google RSS,neutral,0.0
-2026-10-30 22:14:00,Strong Growth Momentum and Rising Revisions Fuel Bright Earnings Outlook,AAPL,Yahoo RSS,positive,0.9480879306793213
+2026-10-30 22:14:00,Strong Growth Momentum and Rising Revisions Fuel Bright Earnings Outlook,AAPL,Yahoo RSS,positive,0.9480879306793212
 2026-10-29 20:42:00,A historic drop for Alphabet’s stock drags the US market lower - AP News,GOOGL,Google RSS,negative,-0.9546643495559692
 2026-10-30 19:25:51,Veteran fund manager revamps Alphabet stock price target after brutal sell-off - TheStreet,GOOGL,Google RSS,neutral,0.0
-2026-10-30 06:00:00,A potentially historic drop for Alphabet's stock drags the US market lower - Jackson Hole News&Guide,GOOGL,Google RSS,negative,-0.9613019227981567
-2026-10-29 12:29:20,A potentially historic drop for Alphabet's stock drags the US market lower - LancasterOnline,GOOGL,Google RSS,negative,-0.9621299505233765
+2026-10-30 06:00:00,A potentially historic drop for Alphabet's stock drags the US market lower - Jackson Hole News&Guide,GOOGL,Google RSS,negative,-0.9613019227981568
+2026-10-29 12:29:20,A potentially historic drop for Alphabet's stock drags the US market lower - LancasterOnline,GOOGL,Google RSS,negative,-0.9621299505233764
 2026-10-29 21:42:00,A historic drop for Alphabet’s stock drags the US market lower - Durango Herald,GOOGL,Google RSS,negative,-0.9615986943244934
-2026-10-29 20:42:32,A potentially historic drop for Alphabet’s stock drags the US market lower - WANE 15,GOOGL,Google RSS,negative,-0.9522963166236877
+2026-10-29 20:42:32,A potentially historic drop for Alphabet’s stock drags the US market lower - WANE 15,GOOGL,Google RSS,negative,-0.9522963166236876
 2026-10-29 20:20:03,THE CLOSING BELL: Historic drop for Alphabet’s stock drags the US market lower - WPTF,GOOGL,Google RSS,negative,-0.9606578946113586
-2026-10-29 14:16:05,"A potentially historic drop for Alphabet’s stock drags the US market lower - Boston News, Weather, Sports - WHDH",GOOGL,Google RSS,negative,-0.9529614448547363
+2026-10-29 14:16:05,"A potentially historic drop for Alphabet’s stock drags the US market lower - Boston News, Weather, Sports - WHDH",GOOGL,Google RSS,negative,-0.9529614448547364
 2026-10-30 12:25:00,Veteran fund manager revamps Alphabet stock price target after brutal sell-off,GOOGL,Bing RSS,negative,-0.5961563587188721
 2026-10-29 14:28:00,A historic drop for Alphabet's stock drags market lower,GOOGL,Bing RSS,negative,-0.951807975769043
-2026-10-30 22:14:00,Strong Growth Momentum and Rising Revisions Fuel Bright Earnings Outlook,GOOGL,Yahoo RSS,positive,0.9480879306793213
+2026-10-30 22:14:00,Strong Growth Momentum and Rising Revisions Fuel Bright Earnings Outlook,GOOGL,Yahoo RSS,positive,0.9480879306793212
 2026-10-31 00:54:38,Stocktwits Weekly Spread: What Shaped Treasury Yields And The Dollar This Week,GOOGL,Yahoo RSS,neutral,0.0
 2026-10-30 21:15:00,Nasdaq sheds more than 700 points as tech stocks slump,GOOGL,Yahoo RSS,negative,-0.9649857878684998
 2026-10-30 20:20:00,Stock market rocked as investors dump tech shares; Nasdaq suffers worst day since June: Live updates - CNBC,AMZN,Google RSS,negative,-0.8887611031532288
 2026-10-30 20:38:32,Wall Street closes sharply lower as AI cash burn fears spark tech selloff - Reuters,AMZN,Google RSS,negative,-0.9571202993392944
-2026-10-30 21:06:00,Nasdaq 100 plunges more than 3% to cap its worst month since 2025 after dismal tech earnings - Business Insider,AMZN,Google RSS,negative,-0.9658066034317017
-2026-10-30 20:34:46,US tech stocks see sharp falls as AI spending nears $1tn - BBC,AMZN,Google RSS,negative,-0.9710695743560791
+2026-10-30 21:06:00,Nasdaq 100 plunges more than 3% to cap its worst month since 2025 after dismal tech earnings - Business Insider,AMZN,Google RSS,negative,-0.9658066034317015
+2026-10-30 20:34:46,US tech stocks see sharp falls as AI spending nears $1tn - BBC,AMZN,Google RSS,negative,-0.9710695743560792
 2026-10-29 22:40:00,Amazon Stock Slides After Q3 Earnings Miss Despite Strong Cloud Growth - Investor's Business Daily,AMZN,Google RSS,negative,-0.9576373100280762
-2026-10-29 21:44:00,Amazon shares sink as spending on AI overshadows growth in cloud unit - Fortune,AMZN,Google RSS,negative,-0.9687720537185669
+2026-10-29 21:44:00,Amazon shares sink as spending on AI overshadows growth in cloud unit - Fortune,AMZN,Google RSS,negative,-0.9687720537185668
 2026-10-29 13:19:23,Amazon stock setup into today’s earnings: What could push shares higher or lower? - Investing.com,AMZN,Google RSS,neutral,0.0
 2026-10-30 23:04:10,Intel shares plunge 28.6% as U.S. stocks suffer broad selloff - Honolulu Star-Advertiser,AMZN,Google RSS,negative,-0.955253005027771
 2026-10-30 10:35:56,AI selloff hammers tech stocks as Intel and Amazon drag down the Nasdaq - Quartz,AMZN,Google RSS,negative,-0.9433965682983398
 2026-10-30 19:15:54,"Intel stock plunges about 30% after Q3 2026 earnings, Nasdaq 100 falls - Quartz",AMZN,Google RSS,negative,-0.9663758277893066
-2026-10-30 00:25:00,"Despite cloud boom, Amazon’s stock falls on disappointing earnings and revenue miss - SiliconANGLE",AMZN,Google RSS,negative,-0.9691640138626099
+2026-10-30 00:25:00,"Despite cloud boom, Amazon’s stock falls on disappointing earnings and revenue miss - SiliconANGLE",AMZN,Google RSS,negative,-0.96916401386261
 2026-10-30 11:32:00,Big Tech’s scary October has a twist: Dow on track for biggest monthly lead over Nasdaq since 2022 - MarketWatch,AMZN,Google RSS,neutral,0.0
 2026-10-30 16:57:39,Wall Street drops to its worst day since June after the sell-off for tech stocks deepens - Boston Herald,AMZN,Google RSS,negative,-0.9594252705574036
 2026-10-29 23:05:49,We're cutting our Amazon price target after a rough quarter. But it isn't all bad - CNBC,AMZN,Google RSS,negative,-0.8939256072044373
 2026-10-30 20:31:00,Tech Earnings Sink SpaceX Stock. No Other Companies Meet Elon Musk’s High Bar. - Barron's,AMZN,Google RSS,neutral,0.0
-2026-10-30 11:00:43,Why Is Amazon Stock Falling Friday? - Benzinga,AMZN,Google RSS,negative,-0.9404604434967041
+2026-10-30 11:00:43,Why Is Amazon Stock Falling Friday? - Benzinga,AMZN,Google RSS,negative,-0.940460443496704
 2026-10-30 14:32:00,Nasdaq drops 2% as Amazon and Intel results weigh on market sentiments - Seeking Alpha,AMZN,Google RSS,negative,-0.9614533185958862
 2026-10-29 17:15:00,Amazon’s stock drops — even in the face of a bold new cloud forecast,AMZN,Bing RSS,negative,-0.9517110586166382
 2026-10-31 00:05:39,"S&P 500, Nasdaq End Third Straight Week Lower As Investors Move Away From Tech, AI —  AMZN, INTC, LLY, RBLX In Focus",AMZN,Yahoo RSS,negative,-0.958755373954773
-2026-10-30 20:56:53,Update: Nasdaq Composite Marks Worst Month Since March 2025 as AI Spending Fears Rise,AMZN,Yahoo RSS,negative,-0.9715249538421631
+2026-10-30 20:56:53,Update: Nasdaq Composite Marks Worst Month Since March 2025 as AI Spending Fears Rise,AMZN,Yahoo RSS,negative,-0.9715249538421632
 2026-10-28 16:00:01,Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat - CNBC,MSFT,Google RSS,positive,0.8355275392532349
 2026-10-29 00:27:00,Microsoft’s strong quarter backs up its stock rebound. Here's our new price target - CNBC,MSFT,Google RSS,neutral,0.0
 2026-10-29 01:34:00,"Microsoft’s stock rises on solid earnings and revenue beat, with Azure growing 48% - SiliconANGLE",MSFT,Google RSS,positive,0.9515047073364258
@@ -46,21 +46,33 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-29 17:01:48,Microsoft Stock Slips Despite Strong Azure Growth: Analysts Debate AI Spending - Benzinga,MSFT,Google RSS,negative,-0.9658439755439758
 2026-10-29 08:47:02,Morgan Stanley raises Microsoft stock price target on strong cloud growth - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-10-29 09:58:41,KeyBanc raises Microsoft stock price target to $630 on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
-2026-10-29 16:44:45,"Software stocks slide as Fortinet and ServiceNow slump, Microsoft reverses early gains (MSFT:NASDAQ) - Seeking Alpha",MSFT,Google RSS,negative,-0.9656617641448975
+2026-10-29 16:44:45,"Software stocks slide as Fortinet and ServiceNow slump, Microsoft reverses early gains (MSFT:NASDAQ) - Seeking Alpha",MSFT,Google RSS,negative,-0.9656617641448976
 2026-10-29 06:19:56,Why Google stock fell while Microsoft rose after Q3 earnings - FXStreet,MSFT,Google RSS,negative,-0.6155225038528442
 2026-10-29 09:05:03,Bernstein raises Microsoft stock price target on strong Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-10-29 14:59:41,TD Cowen raises Microsoft stock price target on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-10-29 09:05:03,Piper Sandler raises Microsoft stock price target on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-10-29 12:55:00,Microsoft stock jumps as Azure cloud growth smashes expectations - TradingView,MSFT,Google RSS,negative,-0.6212319731712341
-2026-10-28 22:18:53,Microsoft (NASDAQ:MSFT) Stock Surges 4% After Earnings Beat as Azure Growth Hits 48% - Stocks Down Under,MSFT,Google RSS,negative,-0.9595795273780823
+2026-10-28 22:18:53,Microsoft (NASDAQ:MSFT) Stock Surges 4% After Earnings Beat as Azure Growth Hits 48% - Stocks Down Under,MSFT,Google RSS,negative,-0.9595795273780824
 2026-10-29 10:59:00,Guggenheim raises Microsoft stock price target to $595 on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
 2026-10-30 15:55:23,"Why Are Semiconductor Stocks Falling Today? Intel Crashes 28%, AMD and Nvidia Slide - Stocks Down Under",NVDA,Google RSS,negative,-0.9704198241233826
-2026-10-30 20:24:52,"Why Nvidia stock fell on Friday, and why October is its worst month in a year - Nacionale",NVDA,Google RSS,negative,-0.9258657693862915
-2026-10-28 13:37:47,Nvidia May Actually Raise Its 70% Growth Guide In November - Seeking Alpha,NVDA,Google RSS,positive,0.9286883473396301
-2026-10-30 22:08:57,Micron Stock Price Forecast: Nvidia's Planned Rubin Ultra HBM Layer Cut and Declining Per-Unit Memory Usage May Drag on Revenue Growth - TradingKey,NVDA,Google RSS,negative,-0.9676161408424377
-2026-10-30 11:46:09,"Nasdaq futures crash up to 2.5% as tech stock selloff deepens; Nvidia, AMD fall up to 7% - TradingView",NVDA,Google RSS,negative,-0.9488281607627869
-2026-10-30 22:14:00,Strong Growth Momentum and Rising Revisions Fuel Bright Earnings Outlook,NVDA,Yahoo RSS,positive,0.9480879306793213
-2026-10-30 15:10:36,Tesla stock slips as overbought conditions and weak momentum weigh on near-term outlook - Traders Union,TSLA,Google RSS,negative,-0.9668455123901367
-2026-10-30 21:10:15,S&P cuts Meta outlook to negative amid capex concerns - Investing.com,META,Google RSS,negative,-0.9123324155807495
+2026-10-30 20:24:52,"Why Nvidia stock fell on Friday, and why October is its worst month in a year - Nacionale",NVDA,Google RSS,negative,-0.9258657693862916
+2026-10-28 13:37:47,Nvidia May Actually Raise Its 70% Growth Guide In November - Seeking Alpha,NVDA,Google RSS,positive,0.92868834733963
+2026-10-30 22:08:57,Micron Stock Price Forecast: Nvidia's Planned Rubin Ultra HBM Layer Cut and Declining Per-Unit Memory Usage May Drag on Revenue Growth - TradingKey,NVDA,Google RSS,negative,-0.9676161408424376
+2026-10-30 11:46:09,"Nasdaq futures crash up to 2.5% as tech stock selloff deepens; Nvidia, AMD fall up to 7% - TradingView",NVDA,Google RSS,negative,-0.9488281607627868
+2026-10-30 22:14:00,Strong Growth Momentum and Rising Revisions Fuel Bright Earnings Outlook,NVDA,Yahoo RSS,positive,0.9480879306793212
+2026-10-30 15:10:36,Tesla stock slips as overbought conditions and weak momentum weigh on near-term outlook - Traders Union,TSLA,Google RSS,negative,-0.9668455123901368
+2026-10-30 21:10:15,S&P cuts Meta outlook to negative amid capex concerns - Investing.com,META,Google RSS,negative,-0.9123324155807496
 2026-10-30 21:39:40,S&P cuts Meta outlook to negative amid capex concerns,META,Yahoo RSS,negative,-0.9650980234146118
-2026-10-30 19:08:48,Top 3 Founder Led Stocks With Revenue Growth Over 17% To Watch,META,Yahoo RSS,positive,0.9115724563598633
+2026-10-30 19:08:48,Top 3 Founder Led Stocks With Revenue Growth Over 17% To Watch,META,Yahoo RSS,positive,0.9115724563598632
+2026-10-29 22:36:00,"Stock Market Today: Dow, S&P 500 and Nasdaq close lower for first time in 4 days, but most stocks rise - MarketWatch",GOOGL,Google RSS,negative,-0.9657951593399048
+2026-10-29 11:41:06,Alphabet drags on Nasdaq futures as the stock faces a record post-earnings loss - CNBC,GOOGL,Google RSS,negative,-0.9354448318481445
+2026-10-30 01:15:00,Amazon’s stock drops — even in the face of a bold new cloud forecast - MarketWatch,AMZN,Google RSS,negative,-0.9612815380096436
+2026-10-29 21:31:18,"When diesel prices fall, Amazon stock will climb: Aquinas Wealth Advisors CEO - Fox Business",AMZN,Google RSS,neutral,0.0
+2026-10-30 15:26:00,"Investors Snack On Mondelez, Walmart As Tech Stocks Rocked - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-10-29 21:56:00,"Microsoft, IBD Stock Of The Day, Showing Quickening Cloud Growth - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-10-28 09:00:00,Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat,MSFT,Bing RSS,positive,0.8646851181983948
+2026-10-26 05:28:00,Here’s How Much Traders See Microsoft Stock Moving After Earnings,MSFT,Bing RSS,neutral,0.0
+2026-10-28 09:46:00,Microsoft stock jumps 4% after earnings: here's what pleased investors,MSFT,Bing RSS,neutral,0.0
+2026-10-31 07:25:44,NVIDIA Corporation $NVDA Stock: CoreCap Advisors LLC Increases Position - MarketBeat,NVDA,Google RSS,positive,0.9200649261474609
+2026-10-30 21:44:57,Meta outlook revised downward by S&P on cash flow and capex concerns - CNBC,META,Google RSS,negative,-0.9287219643592834
+2026-10-28 04:53:00,Netflix stock is falling after earnings: why Morningstar sees it rising 30%,NFLX,Bing RSS,negative,-0.9092248678207397
