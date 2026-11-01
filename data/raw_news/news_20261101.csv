@@ -72,19 +72,23 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-01 12:21:00,"Why Is Alphabet Stock Falling After Earnings, and is it a Buying Opportunity? - The Motley Fool",GOOGL,Google RSS,negative,-0.6030718684196472
 2026-11-01 12:43:15,"Why Is Alphabet Stock Falling After Earnings, and is it a Buying Opportunity? - The Globe and Mail",GOOGL,Google RSS,negative,-0.8845708966255188
 2026-10-29 20:20:03,THE CLOSING BELL: Historic drop for Alphabet’s stock drags the US market lower - WPTF,GOOGL,Google RSS,negative,-0.9606578946113586
-2026-11-01 07:24:52,"US tech stocks hit by earnings shock: Alphabet slides 13%, Intel plunges 29% - CGTN",GOOGL,Google RSS,negative,-0.9607140421867371
+2026-11-01 07:24:52,"US tech stocks hit by earnings shock: Alphabet slides 13%, Intel plunges 29% - CGTN",GOOGL,Google RSS,negative,-0.9607140421867372
 2026-11-01 12:24:15,Dow Jones Futures Loom After Market Sell-Off; How Midterm Elections May Swing Stocks,GOOGL,Yahoo RSS,neutral,0.0
 2026-10-29 17:15:00,Amazon’s stock drops — even in the face of a bold new cloud forecast,AMZN,Bing RSS,negative,-0.9517110586166382
 2026-11-01 12:24:15,Dow Jones Futures Loom After Market Sell-Off; How Midterm Elections May Swing Stocks,AMZN,Yahoo RSS,neutral,0.0
 2026-10-28 23:10:06,Microsoft beats expectations fueled by Azure cloud business - AFP.com,MSFT,Google RSS,neutral,0.0
 2026-10-29 12:55:00,Microsoft stock jumps as Azure cloud growth smashes expectations - TradingView,MSFT,Google RSS,negative,-0.6212319731712341
 2026-10-29 10:59:00,Guggenheim raises Microsoft stock price target to $595 on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
-2026-10-28 22:18:53,Microsoft (NASDAQ:MSFT) Stock Surges 4% After Earnings Beat as Azure Growth Hits 48% - Stocks Down Under,MSFT,Google RSS,negative,-0.9595795273780823
+2026-10-28 22:18:53,Microsoft (NASDAQ:MSFT) Stock Surges 4% After Earnings Beat as Azure Growth Hits 48% - Stocks Down Under,MSFT,Google RSS,negative,-0.9595795273780824
 2026-10-28 09:00:00,Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat,MSFT,Bing RSS,positive,0.8646851181983948
-2026-10-29 10:20:07,Microsoft stock falls as $25B bond plan draws focus despite Azure growth,MSFT,Bing RSS,negative,-0.9184970855712891
+2026-10-29 10:20:07,Microsoft stock falls as $25B bond plan draws focus despite Azure growth,MSFT,Bing RSS,negative,-0.9184970855712892
 2026-10-28 09:46:00,Microsoft stock jumps 4% after earnings: here's what pleased investors,MSFT,Bing RSS,neutral,0.0
 2026-10-29 10:01:48,Microsoft stock slips despite strong Azure growth: Analysts debate AI spending,MSFT,Bing RSS,negative,-0.9635984301567078
 2026-11-01 08:11:12,3 Growth Stocks Facing A Fed Rate Test Including Microsoft Stock,MSFT,Yahoo RSS,negative,-0.5174566507339478
 2026-11-01 08:12:55,3 Great Quality Stocks To Watch In November 2026,MSFT,Yahoo RSS,neutral,0.0
 2026-11-01 12:24:15,Dow Jones Futures Loom After Market Sell-Off; How Midterm Elections May Swing Stocks,TSLA,Yahoo RSS,neutral,0.0
-2026-10-28 04:53:00,Netflix stock is falling after earnings: why Morningstar sees it rising 30%,NFLX,Bing RSS,negative,-0.9092248678207397
+2026-10-28 04:53:00,Netflix stock is falling after earnings: why Morningstar sees it rising 30%,NFLX,Bing RSS,negative,-0.9092248678207396
+2026-11-01 15:26:00,Dow Jones Futures Loom After Market Sell-Off; How Midterm Elections May Swing Stocks - Investor's Business Daily,AAPL,Google RSS,neutral,0.0
+2026-11-01 15:30:27,Trending stocks this week as markets slide on tech selloff (SP500:) (DJI:) - Seeking Alpha,AMZN,Google RSS,negative,-0.9289476275444031
+2026-10-29 21:56:00,"Microsoft, IBD Stock Of The Day, Showing Quickening Cloud Growth - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-11-01 13:25:00,"Tesla China EV Rivals BYD, Xiaomi, XPeng Report Strong Sales As Year-End Push Begins - Investor's Business Daily",TSLA,Google RSS,positive,0.8973788619041443
