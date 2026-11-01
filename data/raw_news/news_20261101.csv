@@ -89,6 +89,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-01 12:24:15,Dow Jones Futures Loom After Market Sell-Off; How Midterm Elections May Swing Stocks,TSLA,Yahoo RSS,neutral,0.0
 2026-10-28 04:53:00,Netflix stock is falling after earnings: why Morningstar sees it rising 30%,NFLX,Bing RSS,negative,-0.9092248678207396
 2026-11-01 15:26:00,Dow Jones Futures Loom After Market Sell-Off; How Midterm Elections May Swing Stocks - Investor's Business Daily,AAPL,Google RSS,neutral,0.0
-2026-11-01 15:30:27,Trending stocks this week as markets slide on tech selloff (SP500:) (DJI:) - Seeking Alpha,AMZN,Google RSS,negative,-0.9289476275444031
+2026-11-01 15:30:27,Trending stocks this week as markets slide on tech selloff (SP500:) (DJI:) - Seeking Alpha,AMZN,Google RSS,negative,-0.9289476275444032
 2026-10-29 21:56:00,"Microsoft, IBD Stock Of The Day, Showing Quickening Cloud Growth - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
 2026-11-01 13:25:00,"Tesla China EV Rivals BYD, Xiaomi, XPeng Report Strong Sales As Year-End Push Begins - Investor's Business Daily",TSLA,Google RSS,positive,0.8973788619041443
+2026-10-29 20:22:43,"Markets News, Oct. 29, 2026: Nasdaq Leads Indexes Lower as Alphabet Stock Drops; Caterpillar Weighs on Dow - Investopedia",GOOGL,Google RSS,negative,-0.9665927290916443
