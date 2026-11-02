@@ -1,0 +1,69 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-11-02 00:35:00,Dow Jones Futures Rise After Market Sell-Off; How Midterm Elections May Swing Stocks - Investor's Business Daily,AAPL,Google RSS,neutral,0.0
+2026-11-02 01:56:02,Dow Jones Futures Rise After Market Sell-Off; How Midterm Elections May Swing Stocks,AAPL,Yahoo RSS,negative,-0.5651188492774963
+2026-11-01 23:25:00,Stock futures jump ahead of a monster week after a $5 trillion AI rout,AAPL,Yahoo RSS,negative,-0.4645968973636627
+2026-10-29 20:22:43,"Markets News, Oct. 29, 2026: Nasdaq Leads Indexes Lower as Alphabet Stock Drops; Caterpillar Weighs on Dow - Investopedia",GOOGL,Google RSS,negative,-0.9665927290916443
+2026-10-29 21:42:00,A historic drop for Alphabet’s stock drags the US market lower - AP News,GOOGL,Google RSS,negative,-0.9546643495559692
+2026-11-01 12:42:10,"Why Is Alphabet Stock Falling After Earnings, and is it a Buying Opportunity? - The Globe and Mail",GOOGL,Google RSS,negative,-0.8845710158348083
+2026-11-01 12:21:00,"Why Is Alphabet Stock Falling After Earnings, and is it a Buying Opportunity? - The Motley Fool",GOOGL,Google RSS,negative,-0.6030715107917786
+2026-10-30 06:00:00,A potentially historic drop for Alphabet's stock drags the US market lower - Jackson Hole News&Guide,GOOGL,Google RSS,negative,-0.9613019227981567
+2026-10-29 21:20:23,A historic drop for Alphabet’s stock drags the US market lower - WHNT.com,GOOGL,Google RSS,negative,-0.9601077437400818
+2026-10-29 21:42:00,A historic drop for Alphabet’s stock drags the US market lower - Durango Herald,GOOGL,Google RSS,negative,-0.9615986943244934
+2026-10-29 20:19:17,A historic drop for Alphabet's stock drags the US market lower | National News | 2news.com - KTVN,GOOGL,Google RSS,negative,-0.9433252811431885
+2026-10-29 13:49:14,A potentially historic drop for Alphabet's stock drags the US market lower | National News | 2news.com - KTVN,GOOGL,Google RSS,negative,-0.9422023296356201
+2026-10-29 20:42:32,A potentially historic drop for Alphabet’s stock drags the US market lower - WANE 15,GOOGL,Google RSS,negative,-0.9522963166236877
+2026-10-29 20:50:45,A historic drop for Alphabet's stock drags the US market lower - Yakima Herald-Republic,GOOGL,Google RSS,negative,-0.9598667025566101
+2026-10-29 05:16:11,A historic drop for Alphabet's stock drags the US market lower - News-Times,GOOGL,Google RSS,negative,-0.9657807350158691
+2026-11-02 01:56:02,Dow Jones Futures Rise After Market Sell-Off; How Midterm Elections May Swing Stocks,GOOGL,Yahoo RSS,negative,-0.5651188492774963
+2026-10-30 20:20:00,Stock market rocked as investors dump tech shares; Nasdaq suffers worst day since June: Live updates - CNBC,AMZN,Google RSS,negative,-0.8887611627578735
+2026-10-29 21:44:00,Amazon shares sink as spending on AI overshadows growth in cloud unit - Fortune,AMZN,Google RSS,negative,-0.9687720537185669
+2026-10-29 13:19:23,Amazon stock setup into today’s earnings: What could push shares higher or lower? - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-10-30 08:46:00,Wall Street closes sharply lower as AI cash burn fears spark tech selloff - Reuters,AMZN,Google RSS,negative,-0.9571202993392944
+2026-10-30 00:25:00,"Despite cloud boom, Amazon’s stock falls on disappointing earnings and revenue miss - SiliconANGLE",AMZN,Google RSS,negative,-0.9691640138626099
+2026-10-30 20:34:46,US tech stocks see sharp falls as AI spending nears $1tn - BBC,AMZN,Google RSS,negative,-0.9710695743560791
+2026-10-30 01:15:00,Amazon’s stock drops — even in the face of a bold new cloud forecast - MarketWatch,AMZN,Google RSS,negative,-0.9612815380096436
+2026-10-30 21:06:00,Nasdaq 100 plunges more than 3% to cap its worst month since 2025 after dismal tech earnings - Business Insider,AMZN,Google RSS,negative,-0.9658064842224121
+2026-10-30 10:35:56,AI selloff hammers tech stocks as Intel and Amazon drag down the Nasdaq - Quartz,AMZN,Google RSS,negative,-0.9433966875076294
+2026-10-30 19:15:54,"Intel stock plunges about 30% after Q3 2026 earnings, Nasdaq 100 falls - Quartz",AMZN,Google RSS,negative,-0.9663758277893066
+2026-10-30 11:32:00,Big Tech’s scary October has a twist: Dow on track for biggest monthly lead over Nasdaq since 2022 - MarketWatch,AMZN,Google RSS,neutral,0.0
+2026-11-01 15:30:27,Trending stocks this week as markets slide on tech selloff (SP500:) (DJI:) - Seeking Alpha,AMZN,Google RSS,negative,-0.9289475083351135
+2026-10-29 21:18:06,"Dow Jones Top Company Headlines at 5 PM ET: Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years | Intel ... - Moomoo",AMZN,Google RSS,negative,-0.9654408097267151
+2026-10-29 14:41:00,Amazon stock slides after Q3 earnings miss despite strong cloud growth,AMZN,Bing RSS,negative,-0.9650018811225891
+2026-10-29 17:15:00,Amazon’s stock drops — even in the face of a bold new cloud forecast,AMZN,Bing RSS,negative,-0.9517110586166382
+2026-11-01 04:35:00,AMZN Q3 deep dive: cloud surge and AI investments drive mixed market reception,AMZN,Yahoo RSS,negative,-0.9646918177604675
+2026-11-02 01:56:02,Dow Jones Futures Rise After Market Sell-Off; How Midterm Elections May Swing Stocks,AMZN,Yahoo RSS,negative,-0.5651188492774963
+2026-10-29 21:56:00,"Microsoft, IBD Stock Of The Day, Showing Quickening Cloud Growth - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-10-28 16:00:01,Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat - CNBC,MSFT,Google RSS,positive,0.8355271220207214
+2026-10-29 00:27:00,Microsoft’s strong quarter backs up its stock rebound. Here's our new price target - CNBC,MSFT,Google RSS,neutral,0.0
+2026-10-28 20:53:00,Microsoft stock jumps as cloud growth drives earnings and revenue beat - CNBC,MSFT,Google RSS,neutral,0.0
+2026-11-02 01:54:00,"INTC, MSFT, META, DASH, VZ: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week - TradingView",MSFT,Google RSS,neutral,0.0
+2026-10-29 01:34:00,"Microsoft’s stock rises on solid earnings and revenue beat, with Azure growing 48% - SiliconANGLE",MSFT,Google RSS,positive,0.9515047073364258
+2026-11-02 01:59:19,"INTC, MSFT, META, DASH, VZ: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week - Stocktwits",MSFT,Google RSS,neutral,0.0
+2026-10-28 12:52:37,Microsoft stock setup analysis ahead of today’s earnings release - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-29 09:23:05,Stifel raises Microsoft stock price target on strong Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-29 17:01:48,Microsoft Stock Slips Despite Strong Azure Growth: Analysts Debate AI Spending - Benzinga,MSFT,Google RSS,negative,-0.9658440947532654
+2026-10-29 16:44:45,"Software stocks slide as Fortinet and ServiceNow slump, Microsoft reverses early gains (MSFT:NASDAQ) - Seeking Alpha",MSFT,Google RSS,negative,-0.9656617641448975
+2026-10-28 23:10:06,Microsoft beats expectations fueled by Azure cloud business - AFP.com,MSFT,Google RSS,neutral,0.0
+2026-10-29 08:47:02,Morgan Stanley raises Microsoft stock price target on strong cloud growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-29 09:58:41,KeyBanc raises Microsoft stock price target to $630 on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-29 14:59:41,TD Cowen raises Microsoft stock price target on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-29 09:05:03,Bernstein raises Microsoft stock price target on strong Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-29 09:05:03,Piper Sandler raises Microsoft stock price target on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-29 12:55:00,Microsoft stock jumps as Azure cloud growth smashes expectations - TradingView,MSFT,Google RSS,negative,-0.6212307810783386
+2026-10-29 10:59:00,Guggenheim raises Microsoft stock price target to $595 on Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-28 09:00:00,Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat,MSFT,Bing RSS,positive,0.8646858334541321
+2026-11-02 01:54:00,"INTC, MSFT, META, DASH, VZ: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",MSFT,Yahoo RSS,neutral,0.0
+2026-11-01 08:11:12,3 Growth Stocks Facing A Fed Rate Test Including Microsoft Stock,MSFT,Yahoo RSS,negative,-0.5174571871757507
+2026-11-01 08:12:55,3 Great Quality Stocks To Watch In November 2026,MSFT,Yahoo RSS,neutral,0.0
+2026-10-31 21:39:26,5 Best High Growth Stocks Outside Big Tech,MSFT,Yahoo RSS,neutral,0.0
+2026-10-30 20:24:52,"Why Nvidia stock fell on Friday, and why October is its worst month in a year - Nacionale",NVDA,Google RSS,negative,-0.9258657097816467
+2026-11-02 01:54:00,"INTC, MSFT, META, DASH, VZ: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",NVDA,Yahoo RSS,neutral,0.0
+2026-11-01 13:25:00,"Tesla China EV Rivals BYD, Xiaomi, XPeng Report Strong Sales As Year-End Push Begins - Investor's Business Daily",TSLA,Google RSS,positive,0.8973791599273682
+2026-11-02 01:56:02,Dow Jones Futures Rise After Market Sell-Off; How Midterm Elections May Swing Stocks,TSLA,Yahoo RSS,negative,-0.5651188492774963
+2026-10-30 21:44:57,Meta outlook revised downward by S&P on cash flow and capex concerns - CNBC,META,Google RSS,negative,-0.9287217855453491
+2026-11-02 01:54:00,"INTC, MSFT, META, DASH, VZ: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week - TradingView",META,Google RSS,neutral,0.0
+2026-11-02 01:59:19,"INTC, MSFT, META, DASH, VZ: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week - Stocktwits",META,Google RSS,neutral,0.0
+2026-11-01 16:01:00,"INTC, MSFT, META, DASH, VZ: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",META,Bing RSS,neutral,0.0
+2026-10-31 16:45:00,3 Unstoppable S&P 500 Stocks to Buy in November - The Motley Fool,NFLX,Google RSS,neutral,0.0
+2026-10-31 16:21:23,3 Unstoppable S&P 500 Stocks to Buy in November - The Globe and Mail,NFLX,Google RSS,positive,0.49879780411720276
+2026-10-31 16:05:00,3 Unstoppable S&P 500 Stocks to Buy in November,NFLX,Yahoo RSS,neutral,0.0
