@@ -71,18 +71,44 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-02 05:27:23,"Stocks bounce as Apple earnings near, oil falls By Reuters - Investing.com",AAPL,Google RSS,negative,-0.8625096678733826
 2026-11-02 10:23:24,"US Stock Futures Rise Ahead of Apple Earnings as Binance Hack, Oil Prices and Midterm Elections Take Focus: Dow Jones, S&P, Nasdaq, Wall Street",AAPL,Yahoo RSS,neutral,0.0
 2026-11-02 09:18:35,"Stock market today: Dow, S&P 500, Nasdaq futures recover from bruising sell-off ahead of busy week",AAPL,Yahoo RSS,positive,0.7708932161331177
-2026-10-29 14:41:51,A potentially historic drop for Alphabet's stock drags the US market lower - LancasterOnline,GOOGL,Google RSS,negative,-0.9621299505233765
-2026-10-29 11:41:06,Alphabet drags on Nasdaq futures as the stock faces a record post-earnings loss - CNBC,GOOGL,Google RSS,negative,-0.9354448318481445
-2026-10-28 22:03:00,A historic drop for Alphabet’s stock drags the US market lower,GOOGL,Bing RSS,negative,-0.9480966329574585
-2026-11-02 10:34:58,Tech stock plunge aftermath a seen in 3 pictures,GOOGL,Yahoo RSS,negative,-0.9403470158576965
-2026-11-02 08:35:19,Stocks mixed as tech sector struggles to rebound from selloff,GOOGL,Yahoo RSS,negative,-0.9607619643211365
+2026-10-29 14:41:51,A potentially historic drop for Alphabet's stock drags the US market lower - LancasterOnline,GOOGL,Google RSS,negative,-0.9621299505233764
+2026-10-29 11:41:06,Alphabet drags on Nasdaq futures as the stock faces a record post-earnings loss - CNBC,GOOGL,Google RSS,negative,-0.9354448318481444
+2026-10-28 22:03:00,A historic drop for Alphabet’s stock drags the US market lower,GOOGL,Bing RSS,negative,-0.9480966329574584
+2026-11-02 10:34:58,Tech stock plunge aftermath a seen in 3 pictures,GOOGL,Yahoo RSS,negative,-0.9403470158576964
+2026-11-02 08:35:19,Stocks mixed as tech sector struggles to rebound from selloff,GOOGL,Yahoo RSS,negative,-0.9607619643211364
 2026-10-29 21:31:18,"When diesel prices fall, Amazon stock will climb: Aquinas Wealth Advisors CEO - Fox Business",AMZN,Google RSS,neutral,0.0
 2026-10-29 23:00:47,Amazon (NASDAQ: AMZN) stock price forecast: AWS growth fails to offset AI spending - Beinsure,AMZN,Google RSS,negative,-0.8726580739021301
 2026-10-31 05:41:25,Massive tech sell-off has Nasdaq 100 entering another correction - Morning Brew,AMZN,Google RSS,negative,-0.929987370967865
 2026-10-30 11:45:03,UBS reiterates Amazon stock Buy rating on AWS growth outlook - Investing.com,AMZN,Google RSS,neutral,0.0
-2026-11-02 08:35:19,Stocks mixed as tech sector struggles to rebound from selloff,AMZN,Yahoo RSS,negative,-0.9607619643211365
-2026-11-02 08:35:19,Stocks mixed as tech sector struggles to rebound from selloff,MSFT,Yahoo RSS,negative,-0.9607619643211365
-2026-10-28 13:37:47,Nvidia May Actually Raise Its 70% Growth Guide In November - Seeking Alpha,NVDA,Google RSS,positive,0.9286883473396301
+2026-11-02 08:35:19,Stocks mixed as tech sector struggles to rebound from selloff,AMZN,Yahoo RSS,negative,-0.9607619643211364
+2026-11-02 08:35:19,Stocks mixed as tech sector struggles to rebound from selloff,MSFT,Yahoo RSS,negative,-0.9607619643211364
+2026-10-28 13:37:47,Nvidia May Actually Raise Its 70% Growth Guide In November - Seeking Alpha,NVDA,Google RSS,positive,0.92868834733963
 2026-11-02 09:31:59,Nvidia 200-Day Moving Average Test: Nov. 17 Report [2026] - shattered.io,NVDA,Google RSS,neutral,0.0
 2026-11-02 10:30:00,You Can Do Better Than SpaceX: 2 Industrial Stocks to Buy Instead,NVDA,Yahoo RSS,neutral,0.0
-2026-11-02 08:35:19,Stocks mixed as tech sector struggles to rebound from selloff,META,Yahoo RSS,negative,-0.9607619643211365
+2026-11-02 08:35:19,Stocks mixed as tech sector struggles to rebound from selloff,META,Yahoo RSS,negative,-0.9607619643211364
+2026-11-02 19:18:53,S&P 500 rises; Apple and Palantir set to report results - Reuters,AAPL,Google RSS,positive,0.6319363117218018
+2026-11-02 15:23:13,"Apple stock price down: Why is AAPL share price falling ahead of earnings call, iPhone sales report? - The Economic Times",AAPL,Google RSS,negative,-0.9283668994903564
+2026-11-02 16:30:33,Apple (NASDAQ: AAPL) stock price forecast: Wall Street targets ahead of Q4 earnings - Beinsure,AAPL,Google RSS,neutral,0.0
+2026-11-02 18:19:03,Apple reports after the bell. Options traders expect a big move - CNBC,AAPL,Google RSS,neutral,0.0
+2026-11-02 00:41:00,"Oil's pullback, solid data fuel bounce in global stocks - Reuters",AAPL,Google RSS,positive,0.5469586253166199
+2026-11-02 17:02:00,"Stock market to be jolted by Apple earnings, midterms, and October jobs report this week - Business Insider",AAPL,Google RSS,negative,-0.9026429057121277
+2026-11-02 19:23:00,Dow Rebounds After Friday’s Selloff as Oil Slides,AAPL,Yahoo RSS,negative,-0.8499632477760315
+2026-11-02 15:51:25,3 Stocks to Sell and 3 Stocks to Buy for November - Morningstar,GOOGL,Google RSS,neutral,0.0
+2026-11-02 15:36:52,9 New 5-Star Stocks This Week - Morningstar,GOOGL,Google RSS,neutral,0.0
+2026-10-30 20:34:46,US tech stocks see sharp falls as AI spending nears $1tn - BBC,GOOGL,Google RSS,negative,-0.9710695743560791
+2026-11-02 16:30:00,November Is Historically the Best Month for the Stock Market. Here Are My Best 3 Stocks to Buy. - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-10-30 21:50:00,Wall Street drops to its worst day since June after the sell-off for tech stocks deepens - AP News,GOOGL,Google RSS,negative,-0.9551241397857666
+2026-10-30 12:25:51,Veteran fund manager revamps Alphabet stock price target after brutal sell-off,GOOGL,Bing RSS,negative,-0.5961545705795288
+2026-11-02 19:18:26,Bitcoin ETFs hit by $643M selloff as Binance hack shakes crypto,GOOGL,Yahoo RSS,negative,-0.9307480454444885
+2026-11-02 15:02:34,"Amazon shares rise after upgrade, sector strength - StreetInsider",AMZN,Google RSS,positive,0.9312842488288879
+2026-11-02 19:23:00,Dow Rebounds After Friday’s Selloff as Oil Slides,AMZN,Yahoo RSS,negative,-0.8499632477760315
+2026-11-02 20:12:27,Microsoft Corporation (MSFT) Delivers Strong Azure Growth as AI Demand Exceeds Supply,MSFT,Yahoo RSS,positive,0.952376663684845
+2026-11-02 19:08:38,Estée Lauder Companies (EL) Partners With Microsoft On AI And Data Tools,MSFT,Yahoo RSS,neutral,0.0
+2026-11-02 18:16:23,Microsoft Stocks Move Higher With Cloud Growth Supporting Baird's Higher Target,MSFT,Yahoo RSS,positive,0.9435167908668518
+2026-11-02 15:15:20,Nvidia stock rises as chip sector recovers from Friday drop - StreetInsider,NVDA,Google RSS,negative,-0.6787258982658386
+2026-11-02 17:20:00,Polymarket Traders Missed Nvidia’s October Drop. Here’s What They Predict for November. - 24/7 Wall St.,NVDA,Google RSS,negative,-0.9156020879745483
+2026-11-02 18:11:37,Elite Insider Owned Growth Stocks To Own In November 2026,TSLA,Yahoo RSS,neutral,0.0
+2026-10-31 16:02:12,Zuckerberg Says Meta’s “Core Business Is Strong.” S&P Still Cut Its Outlook to Negative - TIKR.com,META,Google RSS,neutral,0.0
+2026-11-02 18:55:22,"Meta Is Reportedly Looking To Tap Cross-Border Dollar, Euro Bond Market In Capex Push",META,Yahoo RSS,neutral,0.0
+2026-10-29 17:10:32,"Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",GOOGL,CNBC Finance,neutral,0.0
+2026-10-29 13:26:19,"Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",GOOGL,CNBC Finance,neutral,0.0
