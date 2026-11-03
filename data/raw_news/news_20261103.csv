@@ -67,12 +67,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-03 08:22:26,Stocks mostly down on AI concerns as oil prices bounce after plunge,MSFT,Yahoo RSS,negative,-0.9072494506835938
 2026-11-03 08:22:26,Stocks mostly down on AI concerns as oil prices bounce after plunge,META,Yahoo RSS,negative,-0.9072494506835938
 2026-11-03 17:59:32,Nvidia and other Big Tech stocks lift Wall Street and make up for a drop by Apple - Pittsburgh Post-Gazette,AAPL,Google RSS,negative,-0.5792326331138611
-2026-11-03 14:50:36,Apple Q4 2026 earnings: stock falls as memory costs hit margin outlook - Quartz,AAPL,Google RSS,negative,-0.9710356593132019
+2026-11-03 14:50:36,Apple Q4 2026 earnings: stock falls as memory costs hit margin outlook - Quartz,AAPL,Google RSS,negative,-0.971035659313202
 2026-11-03 09:21:17,Palantir slumps 5% after earnings as analysts point to slowdown in total contract value - CNBC,AAPL,Google RSS,negative,-0.9699392914772034
 2026-11-03 17:19:33,"S&P 500, Nasdaq rise as tech stocks gain ahead of midterm results - Reuters",AAPL,Google RSS,neutral,0.0
 2026-11-03 13:11:04,Apple stock 2026: only Mag 7 stock beating the S&P 500 - Opening Bell Daily,AAPL,Google RSS,neutral,0.0
 2026-11-03 17:49:42,Apple (AAPL) Stock Faces Pressure Despite Strong Q4 Earnings and Climate Goals - CarbonCredits.com,AAPL,Google RSS,negative,-0.8644524216651917
-2026-11-03 17:24:41,Tech Stocks Boost Nasdaq as Apple Weighs on Dow - Schaeffer's Investment Research,AAPL,Google RSS,negative,-0.48946717381477356
+2026-11-03 17:24:41,Tech Stocks Boost Nasdaq as Apple Weighs on Dow - Schaeffer's Investment Research,AAPL,Google RSS,negative,-0.4894671738147735
 2026-11-03 17:42:00,Apple faces valuation test as slowing Services growth and rising costs weigh,AAPL,Yahoo RSS,negative,-0.965116560459137
 2026-11-03 08:23:00,Stocks erase morning rally after prior week’s sell-off - The Arkansas Democrat-Gazette,GOOGL,Google RSS,negative,-0.485878050327301
 2026-10-29 13:19:23,Amazon stock setup into today’s earnings: What could push shares higher or lower? - Investing.com,AMZN,Google RSS,neutral,0.0
@@ -85,3 +85,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-03 13:11:04,Apple stock 2026: only Mag 7 stock beating the S&P 500 - Opening Bell Daily,META,Google RSS,neutral,0.0
 2026-11-02 01:59:19,"INTC, MSFT, META, DASH, VZ: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week - Stocktwits",META,Google RSS,neutral,0.0
 2026-11-03 14:41:58,"Stocks continue sell-off as AI worries mount, Wall Street braces for midterms, Palantir outlook",META,Yahoo RSS,negative,-0.8079740405082703
+2026-11-03 21:15:02,Nasdaq ends higher as AI heavyweights rebound ahead of midterm results - Reuters,AAPL,Google RSS,positive,0.865439772605896
+2026-11-03 15:30:36,"Apple drops with most of Wall Street, but gains for other Big Tech stocks cushion the blow - Chicago Tribune",AAPL,Google RSS,negative,-0.8684831261634827
+2026-11-03 22:02:00,Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - The Journal Gazette,AAPL,Google RSS,positive,0.7972034215927124
+2026-11-03 22:18:45,US tech stocks recover after selloff spooks investors over AI spending,AAPL,Yahoo RSS,negative,-0.8860599994659424
+2026-11-03 18:40:00,Top 3 Streaming Stocks to Watch as Digital Entertainment Demand Grows,GOOGL,Yahoo RSS,positive,0.5811076760292053
+2026-11-03 10:52:00,Amazon's earnings just hit a record. So why is the stock down 11% from its peak?,AMZN,Bing RSS,negative,-0.9692232608795166
+2026-11-03 22:01:20,Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - Eagle-Tribune,NVDA,Google RSS,positive,0.7968667149543762
+2026-11-03 22:28:00,Nvidia and other Big Tech stocks lift Wall Street and make up for a drop by Apple - Pittsburgh Post-Gazette,NVDA,Google RSS,negative,-0.5792326331138611
+2026-11-03 21:24:56,Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - The Killeen Daily Herald,NVDA,Google RSS,positive,0.8923709988594055
+2026-11-03 12:18:47,"ChatGPT says Nvidia stock will hit this price by December 31, 2026 - Finbold",NVDA,Google RSS,neutral,0.0
+2026-11-03 22:01:00,Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - The Tribune-Democrat,NVDA,Google RSS,positive,0.7978493571281433
+2026-11-03 21:22:43,Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - WaltonTribune.com,NVDA,Google RSS,positive,0.7287993431091309
