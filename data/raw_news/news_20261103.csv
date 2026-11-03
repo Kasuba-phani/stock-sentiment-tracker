@@ -50,12 +50,12 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-31 16:05:00,3 Unstoppable S&P 500 Stocks to Buy in November,NFLX,Yahoo RSS,neutral,0.0
 2026-10-29 17:10:32,"Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",GOOGL,CNBC Finance,neutral,0.0
 2026-10-29 13:26:19,"Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",GOOGL,CNBC Finance,neutral,0.0
-2026-11-02 21:52:29,S&P 500 ends down; Apple dips ahead of quarterly report - Virginia Business,AAPL,Google RSS,negative,-0.9594434499740601
+2026-11-02 21:52:29,S&P 500 ends down; Apple dips ahead of quarterly report - Virginia Business,AAPL,Google RSS,negative,-0.95944344997406
 2026-11-02 17:26:00,"Stock Market Today (Nov. 2, 2026): Apple falls after posting slower earnings growth; S&P 500 falls ahead of U.S. midterms",AAPL,Bing RSS,negative,-0.9712222814559937
 2026-11-03 09:40:46,German yields hover near August lows on tech rout,AAPL,Yahoo RSS,negative,-0.8421937823295593
 2026-11-03 08:22:26,Stocks mostly down on AI concerns as oil prices bounce after plunge,AAPL,Yahoo RSS,negative,-0.9072494506835938
-2026-11-02 22:04:06,Stocks fall as AI worries weigh on Wall Street despite oil price drop - The Business Journal,GOOGL,Google RSS,negative,-0.9338511228561401
-2026-10-29 11:41:06,Alphabet drags on Nasdaq futures as the stock faces a record post-earnings loss - CNBC,GOOGL,Google RSS,negative,-0.9354448318481445
+2026-11-02 22:04:06,Stocks fall as AI worries weigh on Wall Street despite oil price drop - The Business Journal,GOOGL,Google RSS,negative,-0.93385112285614
+2026-10-29 11:41:06,Alphabet drags on Nasdaq futures as the stock faces a record post-earnings loss - CNBC,GOOGL,Google RSS,negative,-0.9354448318481444
 2026-10-30 12:25:51,Veteran fund manager revamps Alphabet stock price target after brutal sell-off,GOOGL,Bing RSS,negative,-0.5961563587188721
 2026-11-03 08:22:26,Stocks mostly down on AI concerns as oil prices bounce after plunge,GOOGL,Yahoo RSS,negative,-0.9072494506835938
 2026-11-03 03:40:00,Yardeni Says Analysts Still See S&P 500 Earnings Near $500 Per Share by 2028,GOOGL,Yahoo RSS,positive,0.8305955529212952
@@ -66,3 +66,22 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-28 09:00:00,Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat,MSFT,Bing RSS,positive,0.8646851181983948
 2026-11-03 08:22:26,Stocks mostly down on AI concerns as oil prices bounce after plunge,MSFT,Yahoo RSS,negative,-0.9072494506835938
 2026-11-03 08:22:26,Stocks mostly down on AI concerns as oil prices bounce after plunge,META,Yahoo RSS,negative,-0.9072494506835938
+2026-11-03 17:59:32,Nvidia and other Big Tech stocks lift Wall Street and make up for a drop by Apple - Pittsburgh Post-Gazette,AAPL,Google RSS,negative,-0.5792326331138611
+2026-11-03 14:50:36,Apple Q4 2026 earnings: stock falls as memory costs hit margin outlook - Quartz,AAPL,Google RSS,negative,-0.9710356593132019
+2026-11-03 09:21:17,Palantir slumps 5% after earnings as analysts point to slowdown in total contract value - CNBC,AAPL,Google RSS,negative,-0.9699392914772034
+2026-11-03 17:19:33,"S&P 500, Nasdaq rise as tech stocks gain ahead of midterm results - Reuters",AAPL,Google RSS,neutral,0.0
+2026-11-03 13:11:04,Apple stock 2026: only Mag 7 stock beating the S&P 500 - Opening Bell Daily,AAPL,Google RSS,neutral,0.0
+2026-11-03 17:49:42,Apple (AAPL) Stock Faces Pressure Despite Strong Q4 Earnings and Climate Goals - CarbonCredits.com,AAPL,Google RSS,negative,-0.8644524216651917
+2026-11-03 17:24:41,Tech Stocks Boost Nasdaq as Apple Weighs on Dow - Schaeffer's Investment Research,AAPL,Google RSS,negative,-0.48946717381477356
+2026-11-03 17:42:00,Apple faces valuation test as slowing Services growth and rising costs weigh,AAPL,Yahoo RSS,negative,-0.965116560459137
+2026-11-03 08:23:00,Stocks erase morning rally after prior week’s sell-off - The Arkansas Democrat-Gazette,GOOGL,Google RSS,negative,-0.485878050327301
+2026-10-29 13:19:23,Amazon stock setup into today’s earnings: What could push shares higher or lower? - Investing.com,AMZN,Google RSS,neutral,0.0
+2026-11-02 20:21:37,3 Stocks to Sell and 3 Stocks to Buy for November - Morningstar,AMZN,Google RSS,neutral,0.0
+2026-11-02 20:21:37,3 Stocks to Sell and 3 Stocks to Buy for November - Morningstar,MSFT,Google RSS,neutral,0.0
+2026-10-28 09:46:00,Microsoft stock jumps 4% after earnings: here's what pleased investors,MSFT,Bing RSS,neutral,0.0
+2026-11-03 14:52:00,"PC as a Service - Global Strategic Business Report 2026-2032: Capitalize on $256.2 Billion Opportunity with Strategic Intelligence on Dell Technologies, Lenovo, Microsoft, Hewlett-Packard and Intel",MSFT,Yahoo RSS,positive,0.8018072843551636
+2026-11-03 14:40:20,Nasdaq-100 in correction again as AI earnings ‘not good enough’,MSFT,Yahoo RSS,negative,-0.9648001194000244
+2026-11-03 14:41:58,"Stocks continue sell-off as AI worries mount, Wall Street braces for midterms, Palantir outlook",MSFT,Yahoo RSS,negative,-0.8079740405082703
+2026-11-03 13:11:04,Apple stock 2026: only Mag 7 stock beating the S&P 500 - Opening Bell Daily,META,Google RSS,neutral,0.0
+2026-11-02 01:59:19,"INTC, MSFT, META, DASH, VZ: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week - Stocktwits",META,Google RSS,neutral,0.0
+2026-11-03 14:41:58,"Stocks continue sell-off as AI worries mount, Wall Street braces for midterms, Palantir outlook",META,Yahoo RSS,negative,-0.8079740405082703
