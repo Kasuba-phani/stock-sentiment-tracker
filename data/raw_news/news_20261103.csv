@@ -1,0 +1,52 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-11-03 01:03:56,U.S. stock futures steady; Apple dips after mixed earnings - Investing.com,AAPL,Google RSS,negative,-0.9211071133613586
+2026-11-02 22:39:00,"Apple Posts Fiscal Q4 Beat On Strong iPhone, Services Sales - Investor's Business Daily",AAPL,Google RSS,positive,0.8048915863037109
+2026-11-02 21:31:00,Apple forecasts margin drop in holiday quarter as rising memory costs bite - Reuters,AAPL,Google RSS,negative,-0.9665254950523376
+2026-11-02 18:19:03,Apple reports after the bell. Options traders expect a big move - CNBC,AAPL,Google RSS,neutral,0.0
+2026-11-02 10:57:00,S&P 500 ends down; Apple dips ahead of quarterly report - Reuters,AAPL,Google RSS,negative,-0.9474929571151733
+2026-11-02 16:30:33,Apple (NASDAQ: AAPL) stock price forecast: Wall Street targets ahead of Q4 earnings - Beinsure,AAPL,Google RSS,neutral,0.0
+2026-11-02 20:21:37,3 Stocks to Sell and 3 Stocks to Buy for November - Morningstar,AAPL,Google RSS,neutral,0.0
+2026-11-03 00:34:03,"S&P 500, Nasdaq reverse gains to close down; Apple reports - Reuters",AAPL,Google RSS,negative,-0.9119454622268677
+2026-11-03 01:28:12,"Apple disappoints investors with weakened guidance, share price emerges bearish divergence - Moomoo",AAPL,Google RSS,negative,-0.9310919642448425
+2026-11-02 22:34:25,Strong iPhone sales fortify Apple's Q4 result - FXStreet,AAPL,Google RSS,positive,0.7065686583518982
+2026-11-03 01:31:06,U.S. stock futures steady; Apple dips after mixed earnings,AAPL,Yahoo RSS,negative,-0.9259511232376099
+2026-11-02 23:34:07,Apple beats sales and profit expectations but AI costs weigh on holiday sales,AAPL,Yahoo RSS,negative,-0.8123390078544617
+2026-10-29 20:22:43,"Markets News, Oct. 29, 2026: Nasdaq Leads Indexes Lower as Alphabet Stock Drops; Caterpillar Weighs on Dow - Investopedia",GOOGL,Google RSS,negative,-0.9665927290916443
+2026-10-29 22:36:00,"Stock Market Today: Dow, S&P 500 and Nasdaq close lower for first time in 4 days, but most stocks rise - MarketWatch",GOOGL,Google RSS,negative,-0.9657952785491943
+2026-10-29 21:42:00,A historic drop for Alphabet’s stock drags the US market lower - AP News,GOOGL,Google RSS,negative,-0.9546642303466797
+2026-11-02 20:21:37,3 Stocks to Sell and 3 Stocks to Buy for November - Morningstar,GOOGL,Google RSS,neutral,0.0
+2026-10-30 01:21:30,Alphabet stock plunges nearly $500 billion after AI spending and earnings miss - Nacionale,GOOGL,Google RSS,negative,-0.9676082134246826
+2026-11-02 16:42:28,Alphabet stock rebounds as analysts defend AI investment and Cloud growth - TradingView,GOOGL,Google RSS,negative,-0.9182096123695374
+2026-11-02 15:36:52,9 New 5-Star Stocks This Week - Morningstar,GOOGL,Google RSS,neutral,0.0
+2026-10-29 14:41:51,A potentially historic drop for Alphabet's stock drags the US market lower - LancasterOnline,GOOGL,Google RSS,negative,-0.9621299505233765
+2026-10-30 21:50:00,Wall Street drops to its worst day since June after the sell-off for tech stocks deepens - AP News,GOOGL,Google RSS,negative,-0.9551241397857666
+2026-11-02 21:30:23,Stocks kick off November lower as AI sell-off hits Tech,GOOGL,Yahoo RSS,negative,-0.9615931510925293
+2026-10-30 00:25:00,"Despite cloud boom, Amazon’s stock falls on disappointing earnings and revenue miss - SiliconANGLE",AMZN,Google RSS,negative,-0.9691640138626099
+2026-11-02 15:02:34,"Amazon shares rise after upgrade, sector strength - StreetInsider",AMZN,Google RSS,positive,0.9312842488288879
+2026-11-02 21:30:23,Stocks kick off November lower as AI sell-off hits Tech,AMZN,Yahoo RSS,negative,-0.9615931510925293
+2026-10-28 16:00:01,Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat - CNBC,MSFT,Google RSS,positive,0.835526704788208
+2026-10-29 00:27:00,Microsoft’s strong quarter backs up its stock rebound. Here's our new price target - CNBC,MSFT,Google RSS,neutral,0.0
+2026-10-28 20:53:00,Microsoft stock jumps as cloud growth drives earnings and revenue beat - CNBC,MSFT,Google RSS,neutral,0.0
+2026-10-29 01:34:00,"Microsoft’s stock rises on solid earnings and revenue beat, with Azure growing 48% - SiliconANGLE",MSFT,Google RSS,positive,0.9515047073364258
+2026-10-29 21:56:00,"Microsoft, IBD Stock Of The Day, Showing Quickening Cloud Growth - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-10-29 17:01:48,Microsoft Stock Slips Despite Strong Azure Growth: Analysts Debate AI Spending - Benzinga,MSFT,Google RSS,negative,-0.9658440947532654
+2026-10-29 09:23:05,Stifel raises Microsoft stock price target on strong Azure growth - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-10-28 13:53:00,Microsoft stock jumps as cloud growth drives earnings and revenue beat,MSFT,Bing RSS,negative,-0.46907347440719604
+2026-11-02 20:12:27,Microsoft Corporation (MSFT) Delivers Strong Azure Growth as AI Demand Exceeds Supply,MSFT,Yahoo RSS,positive,0.952376663684845
+2026-11-02 21:30:23,Stocks kick off November lower as AI sell-off hits Tech,MSFT,Yahoo RSS,negative,-0.9615931510925293
+2026-10-30 20:24:52,"Why Nvidia stock fell on Friday, and why October is its worst month in a year - Nacionale",NVDA,Google RSS,negative,-0.925865888595581
+2026-10-28 13:37:47,Nvidia May Actually Raise Its 70% Growth Guide In November - Seeking Alpha,NVDA,Google RSS,positive,0.9286883473396301
+2026-11-02 15:14:34,Nvidia stock rises as chip sector recovers from Friday drop - StreetInsider,NVDA,Google RSS,negative,-0.6787258982658386
+2026-11-02 09:31:59,Nvidia 200-Day Moving Average Test: Nov. 17 Report [2026] - shattered.io,NVDA,Google RSS,neutral,0.0
+2026-11-02 13:00:00,"Tesla China EV Rivals BYD, Xiaomi, XPeng Report Strong Sales As Year-End Push Begins - Investor's Business Daily",TSLA,Google RSS,positive,0.8973791599273682
+2026-11-02 23:00:00,ELEKTROS (OTC:ELEK) Explores Northern New York Lithium Potential Amid Rising U.S. Focus on Critical Mineral Supply,TSLA,Yahoo RSS,positive,0.884980320930481
+2026-11-02 18:11:37,Elite Insider Owned Growth Stocks To Own In November 2026,TSLA,Yahoo RSS,neutral,0.0
+2026-11-02 21:30:23,Stocks kick off November lower as AI sell-off hits Tech,TSLA,Yahoo RSS,negative,-0.9615931510925293
+2026-10-30 21:44:57,Meta outlook revised downward by S&P on cash flow and capex concerns - CNBC,META,Google RSS,negative,-0.9287217855453491
+2026-11-02 18:55:22,"Meta Is Reportedly Looking To Tap Cross-Border Dollar, Euro Bond Market In Capex Push",META,Yahoo RSS,neutral,0.0
+2026-10-28 15:53:47,Netflix stock is falling after earnings: why Morningstar sees it rising 30% - TradingView,NFLX,Google RSS,negative,-0.6513349413871765
+2026-10-31 16:45:00,3 Unstoppable S&P 500 Stocks to Buy in November - The Motley Fool,NFLX,Google RSS,neutral,0.0
+2026-10-31 16:21:23,3 Unstoppable S&P 500 Stocks to Buy in November - The Globe and Mail,NFLX,Google RSS,positive,0.4987976849079132
+2026-10-31 16:05:00,3 Unstoppable S&P 500 Stocks to Buy in November,NFLX,Yahoo RSS,neutral,0.0
+2026-10-29 17:10:32,"Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",GOOGL,CNBC Finance,neutral,0.0
+2026-10-29 13:26:19,"Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",GOOGL,CNBC Finance,neutral,0.0
