@@ -1,9 +1,9 @@
 date,headline,ticker,source,sentiment_label,compound
 2026-11-03 16:41:42,Nvidia and other Big Tech stocks lift the U.S. market despite drops for Apple and much of Wall Street - Toledo Blade,AAPL,Google RSS,positive,0.6441866159439087
-2026-11-03 22:28:11,Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - Boston Herald,AAPL,Google RSS,negative,-0.47316819429397583
+2026-11-03 22:28:11,Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - Boston Herald,AAPL,Google RSS,negative,-0.4731681942939758
 2026-11-02 22:39:00,"Apple Posts Fiscal Q4 Beat On Strong iPhone, Services Sales - Investor's Business Daily",AAPL,Google RSS,positive,0.8048920035362244
 2026-11-02 10:57:00,S&P 500 ends down; Apple dips ahead of quarterly report - Reuters,AAPL,Google RSS,negative,-0.9474928379058838
-2026-11-03 14:50:36,Apple Q4 2026 earnings: stock falls as memory costs hit margin outlook - Quartz,AAPL,Google RSS,negative,-0.9710356593132019
+2026-11-03 14:50:36,Apple Q4 2026 earnings: stock falls as memory costs hit margin outlook - Quartz,AAPL,Google RSS,negative,-0.971035659313202
 2026-11-03 13:11:04,Apple stock 2026: only Mag 7 stock beating the S&P 500 - Opening Bell Daily,AAPL,Google RSS,neutral,0.0
 2026-11-03 10:50:00,Nasdaq ends higher as AI heavyweights rebound ahead of midterm results - Reuters,AAPL,Google RSS,positive,0.865439772605896
 2026-11-03 15:30:36,"Apple drops with most of Wall Street, but gains for other Big Tech stocks cushion the blow - Chicago Tribune",AAPL,Google RSS,negative,-0.8684831261634827
@@ -16,7 +16,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-03 22:18:45,US tech stocks recover after selloff spooks investors over AI spending,AAPL,Yahoo RSS,negative,-0.8860599994659424
 2026-10-29 21:42:00,A historic drop for Alphabet’s stock drags the US market lower - AP News,GOOGL,Google RSS,negative,-0.9546643495559692
 2026-11-02 20:21:37,3 Stocks to Sell and 3 Stocks to Buy for November - Morningstar,GOOGL,Google RSS,neutral,0.0
-2026-10-29 11:41:06,Alphabet drags on Nasdaq futures as the stock faces a record post-earnings loss - CNBC,GOOGL,Google RSS,negative,-0.9354448318481445
+2026-10-29 11:41:06,Alphabet drags on Nasdaq futures as the stock faces a record post-earnings loss - CNBC,GOOGL,Google RSS,negative,-0.9354448318481444
 2026-10-30 12:25:51,Veteran fund manager revamps Alphabet stock price target after brutal sell-off,GOOGL,Bing RSS,negative,-0.5961563587188721
 2026-11-02 20:21:37,3 Stocks to Sell and 3 Stocks to Buy for November - Morningstar,AMZN,Google RSS,neutral,0.0
 2026-11-04 04:07:00,"Amazon cuts more jobs as CEO touts record margins, retail gains",AMZN,Yahoo RSS,negative,-0.8778670430183411
@@ -34,3 +34,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-10-31 16:45:00,3 Unstoppable S&P 500 Stocks to Buy in November - The Motley Fool,NFLX,Google RSS,neutral,0.0
 2026-10-29 17:10:32,"Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",GOOGL,CNBC Finance,neutral,0.0
 2026-10-29 13:26:19,"Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",GOOGL,CNBC Finance,neutral,0.0
+2026-11-02 21:31:00,Apple forecasts margin drop in holiday quarter as rising memory costs bite - Reuters,AAPL,Google RSS,negative,-0.9665254950523376
+2026-11-02 17:50:00,Apple's stock drops on weak margin forecast in Ternus’ first earnings report,AAPL,Bing RSS,negative,-0.9659555554389954
+2026-11-01 12:21:00,"Why Is Alphabet Stock Falling After Earnings, and is it a Buying Opportunity? - The Motley Fool",GOOGL,Google RSS,negative,-0.6030722856521606
+2026-11-01 13:22:18,"Why Is Alphabet Stock Falling After Earnings, and is it a Buying Opportunity? - The Globe and Mail",GOOGL,Google RSS,negative,-0.8845713138580322
+2026-11-04 11:32:26,"Social Buzz: Wallstreetbets Stocks Mostly Higher Premarket Wednesday; Super Micro Computer, AMD to Advance",GOOGL,Yahoo RSS,positive,0.8513559699058533
+2026-11-02 15:02:34,"Amazon shares rise after upgrade, sector strength - StreetInsider",AMZN,Google RSS,positive,0.9312842488288879
+2026-11-04 13:28:28,"60% of S&P 500 Stocks Are in a Bear Market, With the Index Near a Record",MSFT,Yahoo RSS,negative,-0.8088845014572144
+2026-11-04 06:30:00,Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - TelegraphHerald.com,NVDA,Google RSS,positive,0.661716103553772
+2026-10-28 13:37:47,Nvidia May Actually Raise Its 70% Growth Guide In November - Seeking Alpha,NVDA,Google RSS,positive,0.9286883473396301
+2026-11-04 12:47:00,Tech Sell-Off: 2 Growth Stocks Investors Might Regret Not Buying on the Dip,NVDA,Yahoo RSS,neutral,0.0
+2026-11-04 12:30:48,Tesla (NASDAQ:TSLA): Strong Growth Meets a High-Quality Bull Flag Setup - ChartMill,TSLA,Google RSS,positive,0.9256644248962402
+2026-11-04 12:27:00,Tech Sell-Off: 2 Growth Stocks Investors Might Regret Not Buying on the Dip - The Motley Fool,META,Google RSS,neutral,0.0
