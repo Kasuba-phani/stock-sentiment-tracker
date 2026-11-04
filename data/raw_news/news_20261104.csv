@@ -1,0 +1,36 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-11-03 16:41:42,Nvidia and other Big Tech stocks lift the U.S. market despite drops for Apple and much of Wall Street - Toledo Blade,AAPL,Google RSS,positive,0.6441866159439087
+2026-11-03 22:28:11,Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - Boston Herald,AAPL,Google RSS,negative,-0.47316819429397583
+2026-11-02 22:39:00,"Apple Posts Fiscal Q4 Beat On Strong iPhone, Services Sales - Investor's Business Daily",AAPL,Google RSS,positive,0.8048920035362244
+2026-11-02 10:57:00,S&P 500 ends down; Apple dips ahead of quarterly report - Reuters,AAPL,Google RSS,negative,-0.9474928379058838
+2026-11-03 14:50:36,Apple Q4 2026 earnings: stock falls as memory costs hit margin outlook - Quartz,AAPL,Google RSS,negative,-0.9710356593132019
+2026-11-03 13:11:04,Apple stock 2026: only Mag 7 stock beating the S&P 500 - Opening Bell Daily,AAPL,Google RSS,neutral,0.0
+2026-11-03 10:50:00,Nasdaq ends higher as AI heavyweights rebound ahead of midterm results - Reuters,AAPL,Google RSS,positive,0.865439772605896
+2026-11-03 15:30:36,"Apple drops with most of Wall Street, but gains for other Big Tech stocks cushion the blow - Chicago Tribune",AAPL,Google RSS,negative,-0.8684831261634827
+2026-11-03 21:32:04,"US stocks close mixed on Election Day as chipmakers rebound, Apple falls - Anadolu Ajansı",AAPL,Google RSS,negative,-0.897554874420166
+2026-11-03 17:49:42,Apple (AAPL) Stock Faces Pressure Despite Strong Q4 Earnings and Climate Goals - CarbonCredits.com,AAPL,Google RSS,negative,-0.8644524216651917
+2026-11-03 22:02:00,Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - The Journal Gazette,AAPL,Google RSS,positive,0.7972034215927124
+2026-11-02 16:30:33,Apple (NASDAQ: AAPL) stock price forecast: Wall Street targets ahead of Q4 earnings - Beinsure,AAPL,Google RSS,neutral,0.0
+2026-11-03 22:23:24,US tech stocks recover after selloff spooks investors over AI spending - The Guardian,AAPL,Google RSS,negative,-0.9259628057479858
+2026-11-02 17:26:00,"Stock Market Today (Nov. 2, 2026): Apple falls after posting slower earnings growth; S&P 500 falls ahead of U.S. midterms",AAPL,Bing RSS,negative,-0.9712222814559937
+2026-11-03 22:18:45,US tech stocks recover after selloff spooks investors over AI spending,AAPL,Yahoo RSS,negative,-0.8860599994659424
+2026-10-29 21:42:00,A historic drop for Alphabet’s stock drags the US market lower - AP News,GOOGL,Google RSS,negative,-0.9546643495559692
+2026-11-02 20:21:37,3 Stocks to Sell and 3 Stocks to Buy for November - Morningstar,GOOGL,Google RSS,neutral,0.0
+2026-10-29 11:41:06,Alphabet drags on Nasdaq futures as the stock faces a record post-earnings loss - CNBC,GOOGL,Google RSS,negative,-0.9354448318481445
+2026-10-30 12:25:51,Veteran fund manager revamps Alphabet stock price target after brutal sell-off,GOOGL,Bing RSS,negative,-0.5961563587188721
+2026-11-02 20:21:37,3 Stocks to Sell and 3 Stocks to Buy for November - Morningstar,AMZN,Google RSS,neutral,0.0
+2026-11-04 04:07:00,"Amazon cuts more jobs as CEO touts record margins, retail gains",AMZN,Yahoo RSS,negative,-0.8778670430183411
+2026-11-04 01:00:00,"McDonald's and Qualcomm earnings, ADP labor data: What to Watch",AMZN,Yahoo RSS,neutral,0.0
+2026-10-28 16:00:01,Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat - CNBC,MSFT,Google RSS,positive,0.8355275392532349
+2026-10-29 21:56:00,"Microsoft, IBD Stock Of The Day, Showing Quickening Cloud Growth - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-11-02 01:59:19,"INTC, MSFT, META, DASH, VZ: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week - Stocktwits",MSFT,Google RSS,neutral,0.0
+2026-10-28 09:00:00,Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat,MSFT,Bing RSS,positive,0.8646851181983948
+2026-11-03 22:01:00,Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - The Tribune-Democrat,NVDA,Google RSS,positive,0.7978493571281433
+2026-11-03 22:02:00,Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - The Journal Gazette,NVDA,Google RSS,positive,0.7972034215927124
+2026-11-03 22:01:20,Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - The Killeen Daily Herald,NVDA,Google RSS,positive,0.8923709988594055
+2026-11-03 03:58:16,Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - WRAL,NVDA,Google RSS,positive,0.7582526803016663
+2026-11-03 12:18:47,"ChatGPT says Nvidia stock will hit this price by December 31, 2026 - Finbold",NVDA,Google RSS,neutral,0.0
+2026-11-02 15:14:34,Nvidia stock rises as chip sector recovers from Friday drop - StreetInsider,NVDA,Google RSS,negative,-0.6787272095680237
+2026-10-31 16:45:00,3 Unstoppable S&P 500 Stocks to Buy in November - The Motley Fool,NFLX,Google RSS,neutral,0.0
+2026-10-29 17:10:32,"Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",GOOGL,CNBC Finance,neutral,0.0
+2026-10-29 13:26:19,"Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",GOOGL,CNBC Finance,neutral,0.0
