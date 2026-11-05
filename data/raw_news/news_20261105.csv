@@ -1,0 +1,28 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-11-02 22:39:00,"Apple Posts Fiscal Q4 Beat On Strong iPhone, Services Sales - Investor's Business Daily",AAPL,Google RSS,positive,0.8048920035362244
+2026-11-02 21:31:00,Apple forecasts margin drop in holiday quarter as rising memory costs bite - Reuters,AAPL,Google RSS,negative,-0.9665254950523376
+2026-11-03 14:50:36,Apple Q4 2026 earnings: stock falls as memory costs hit margin outlook - Quartz,AAPL,Google RSS,negative,-0.9710356593132019
+2026-11-03 13:11:04,Apple stock 2026: only Mag 7 stock beating the S&P 500 - Opening Bell Daily,AAPL,Google RSS,neutral,0.0
+2026-11-02 17:50:00,Apple's stock drops on weak margin forecast in Ternus’ first earnings report,AAPL,Bing RSS,negative,-0.9659554362297058
+2026-11-02 17:26:00,"Stock Market Today (Nov. 2, 2026): Apple falls after posting slower earnings growth; S&P 500 falls ahead of U.S. midterms",AAPL,Bing RSS,negative,-0.9712222814559937
+2026-11-02 20:21:37,3 Stocks to Sell and 3 Stocks to Buy for November - Morningstar,GOOGL,Google RSS,neutral,0.0
+2026-10-29 21:42:00,A historic drop for Alphabet’s stock drags the US market lower - AP News,GOOGL,Google RSS,negative,-0.9546643495559692
+2026-11-04 07:28:00,Dip Buyers Emerge for Tech Stocks as Traders Look Past Midterms - Bloomberg.com,GOOGL,Google RSS,neutral,0.0
+2026-11-02 16:42:28,Alphabet stock rebounds as analysts defend AI investment and Cloud growth - TradingView,GOOGL,Google RSS,negative,-0.9182097315788269
+2026-11-04 15:24:00,Amazon Leads Cloud Hyperscaler Stocks Higher. What 'Blue Tsunami' Means For Big Tech. - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
+2026-11-04 14:16:37,Retail Stocks Rally Post-U.S. Election; Amazon (AMZN) Shares Ris - GuruFocus,AMZN,Google RSS,negative,-0.5266297459602356
+2026-11-02 20:21:37,3 Stocks to Sell and 3 Stocks to Buy for November - Morningstar,AMZN,Google RSS,neutral,0.0
+2026-11-04 08:00:00,Amazon stock fell after earnings. Should investors be worried?,AMZN,Bing RSS,negative,-0.9442915320396423
+2026-11-04 20:18:55,"Ironically, the Blue Wave Could Make Hyperscalers “Good Businesses Again” by Forcing Capex Discipline",AMZN,Yahoo RSS,negative,-0.6482740640640259
+2026-11-04 18:59:25,Microsoft Stock Hits Record High After Blue Wave - Microsoft (NASDAQ:MSFT) - Benzinga,MSFT,Google RSS,positive,0.8888823986053467
+2026-11-04 21:14:52,Microsoft climbs 7% to hit a new 52-week high (MSFT:NASDAQ) - Seeking Alpha,MSFT,Google RSS,positive,0.9359505772590637
+2026-11-04 15:26:44,"US Stock Market Moves | Hyperscale Cloud Providers Rally Collectively; Amazon Surges Over 7%, Microsoft Rises More Than 6% to Hit Record High - 富途牛牛",MSFT,Google RSS,positive,0.9121719598770142
+2026-11-04 16:06:13,Microsoft's stock lags despite 32% earnings gro... - Pluang,MSFT,Google RSS,negative,-0.9678143262863159
+2026-11-04 10:35:00,Microsoft (MSFT)Stock: Surges 6% as Polen Capital Highlights Strong AI Growth,MSFT,Bing RSS,positive,0.9474874138832092
+2026-11-04 06:30:00,Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street - TelegraphHerald.com,NVDA,Google RSS,positive,0.6617149710655212
+2026-11-02 15:14:34,Nvidia stock rises as chip sector recovers from Friday drop - StreetInsider,NVDA,Google RSS,negative,-0.6787272095680237
+2026-11-05 01:12:04,Top 3 Founder Led Stocks To Watch In November 2026,META,Yahoo RSS,positive,0.49246278405189514
+2026-11-04 20:18:55,"Ironically, the Blue Wave Could Make Hyperscalers “Good Businesses Again” by Forcing Capex Discipline",META,Yahoo RSS,negative,-0.6482740640640259
+2026-10-31 16:45:00,3 Unstoppable S&P 500 Stocks to Buy in November - The Motley Fool,NFLX,Google RSS,neutral,0.0
+2026-10-29 17:10:32,"Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",GOOGL,CNBC Finance,neutral,0.0
+2026-10-29 13:26:19,"Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",GOOGL,CNBC Finance,neutral,0.0
