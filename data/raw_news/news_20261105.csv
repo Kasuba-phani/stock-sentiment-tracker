@@ -29,12 +29,21 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-05 04:04:00,"Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
 2026-11-05 02:52:21,Apple stock reaches a new all-time high of $349.51 amid strong Q4 earnings. - KuCoin,AAPL,Google RSS,positive,0.9130777716636658
 2026-11-03 15:30:36,"Apple drops with most of Wall Street, but gains for other Big Tech stocks cushion the blow - Chicago Tribune",AAPL,Google RSS,negative,-0.8684831261634827
-2026-11-04 21:32:03,Arm stock dips as lack of blowout guidance offsets quarterly results,AAPL,Yahoo RSS,negative,-0.9687250852584839
+2026-11-04 21:32:03,Arm stock dips as lack of blowout guidance offsets quarterly results,AAPL,Yahoo RSS,negative,-0.968725085258484
 2026-11-05 04:04:00,"Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
 2026-11-04 16:58:00,These 3 Stocks Boost Dow Jones' Bounce. Here's Why. - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
-2026-11-05 08:48:16,Microsoft Stock Price Forecast: Shares Surge 7% in Single Day to Record High as Azure Growth Could Drive MSFT to $600 - TradingKey,MSFT,Google RSS,positive,0.9358803033828735
+2026-11-05 08:48:16,Microsoft Stock Price Forecast: Shares Surge 7% in Single Day to Record High as Azure Growth Could Drive MSFT to $600 - TradingKey,MSFT,Google RSS,positive,0.9358803033828736
 2026-11-05 04:04:00,"Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
 2026-11-05 09:26:01,"The Federal Reserve's Initial November Inflation Forecast Has Arrived, and Things Are Getting Downright Ugly for Wall Street",NVDA,Yahoo RSS,negative,-0.963315486907959
 2026-11-05 09:23:24,Why Tesla stock fell as the S&P 500 climbed after the US midterms - The Twelfth Magpie,TSLA,Google RSS,negative,-0.8624486923217773
 2026-11-05 09:13:13,"Tesla, Inc. $TSLA Shares Bought by Chicago Partners Investment Group LLC - MarketBeat",TSLA,Google RSS,neutral,0.0
 2026-11-03 13:11:04,Apple stock 2026: only Mag 7 stock beating the S&P 500 - Opening Bell Daily,META,Google RSS,neutral,0.0
+2026-11-05 15:10:00,Bluehost Brings AI to Life for Small Businesses Worldwide,GOOGL,Yahoo RSS,neutral,0.0
+2026-11-03 10:52:00,Amazon's earnings just hit a record. So why is the stock down 11% from its peak?,AMZN,Bing RSS,negative,-0.9692232608795166
+2026-11-05 15:26:51,"Nebius stock falls on Microsoft project delays, spending cut, broad selloff - StreetInsider",MSFT,Google RSS,negative,-0.9601880311965942
+2026-11-05 15:52:00,"Digital Transformation in Manufacturing - Global Strategic Business Report: Capitalize on a US$1.0 Trillion Market by 2030 as Siemens, ABB, Microsoft, Rockwell Automation and SAP Reshape Industry",MSFT,Yahoo RSS,positive,0.8334627151489258
+2026-11-05 17:01:46,"Nvidia, Micron Lead 10 AI Stocks Below 200-Day Average - NVIDIA (NASDAQ:NVDA) - Benzinga",NVDA,Google RSS,neutral,0.0
+2026-11-05 17:19:32,"Nvidia, Micron, and 8 Other AI Stocks Fall Below 200-Day Moving Average - KuCoin",NVDA,Google RSS,negative,-0.9517755508422852
+2026-11-05 16:44:38,Shares in Musk's SpaceX plunge as tech and AI stocks fall - BBC,TSLA,Google RSS,negative,-0.9690370559692383
+2026-11-05 15:01:00,SpaceX Stock Has These 2  Positives Today. It’s Still Falling.,TSLA,Yahoo RSS,negative,-0.9432196617126465
+2026-11-05 15:01:00,SpaceX Stock Has These 2  Positives Today. It’s Still Falling.,META,Yahoo RSS,negative,-0.9432196617126465
