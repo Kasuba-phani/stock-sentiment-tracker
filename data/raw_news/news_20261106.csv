@@ -41,11 +41,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-06 13:00:00,"Top Funds Feast On Shell, Microsoft, Palantir And 24 More Stocks - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
 2026-11-06 13:00:49,"Top Funds Feast On Shell, Microsoft, Palantir And 24 More Stocks",AAPL,Yahoo RSS,neutral,0.0
 2026-11-06 13:01:21,"Dow Jones Futures Fall, AI Stocks Nvidia, Sandisk, CoreWeave, SpaceX Bounce; Tesla To End Cybertruck Production",AAPL,Yahoo RSS,negative,-0.8819869756698608
-2026-11-05 20:44:32,"Most Active Stocks: Amazon Tops List with 25% Upside, Strong Buy Rating - TipRanks",AMZN,Google RSS,positive,0.9194256663322449
+2026-11-05 20:44:32,"Most Active Stocks: Amazon Tops List with 25% Upside, Strong Buy Rating - TipRanks",AMZN,Google RSS,positive,0.9194256663322448
 2026-11-06 13:00:00,"Top Funds Feast On Shell, Microsoft, Palantir And 24 More Stocks - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
 2026-11-06 13:00:49,"Top Funds Feast On Shell, Microsoft, Palantir And 24 More Stocks",MSFT,Yahoo RSS,neutral,0.0
 2026-11-06 11:37:00,Why tech stocks suffered their biggest selloff in years - Fortune,NVDA,Google RSS,negative,-0.7876409888267517
 2026-11-06 12:35:22,"NVIDIA stock fell 9.26%, but oversold signals have not erased bearish bias - The Cryptonomist",NVDA,Google RSS,negative,-0.967251181602478
 2026-11-06 13:01:21,"Dow Jones Futures Fall, AI Stocks Nvidia, Sandisk, CoreWeave, SpaceX Bounce; Tesla To End Cybertruck Production",TSLA,Yahoo RSS,negative,-0.8819869756698608
 2026-11-06 03:30:00,Best US Stocks to Buy Now: 5 S&P 500 Stocks That Could Be Bargains After the Sell-Off - The Smart Investor,META,Google RSS,neutral,0.0
-2026-11-06 10:33:42,Global stocks reel after $2.5 trillion wiped off US markets over AI fears,META,Yahoo RSS,negative,-0.9542194604873657
+2026-11-06 10:33:42,Global stocks reel after $2.5 trillion wiped off US markets over AI fears,META,Yahoo RSS,negative,-0.9542194604873656
+2026-11-06 17:08:06,Apple Stocks Edge Lower as $7.5 Billion Bond Sale Prices Across Seven Tranches,AAPL,Yahoo RSS,negative,-0.9690884351730347
+2026-11-06 15:13:00,TSMC rises on report of potential push into advanced memory for Nvidia,AAPL,Yahoo RSS,positive,0.9085548520088196
+2026-11-06 19:01:48,"The US adds in the latest  jobs report, markets try to bounce back from an awful sell-off",AMZN,Yahoo RSS,negative,-0.5014230608940125
+2026-11-06 19:01:48,"The US adds in the latest  jobs report, markets try to bounce back from an awful sell-off",MSFT,Yahoo RSS,negative,-0.5014230608940125
+2026-11-06 18:11:50,"AI Stocks Could Fall Further Despite Surging GPU Demand, Research Firm Warns - Benzinga",NVDA,Google RSS,negative,-0.9712309241294861
+2026-11-06 16:18:31,Is Tesla (NASDAQ:TSLA) Killing the Cybertruck? Sales Crash 48% as Musk Makes a Major Robotaxi Move - Stocks Down Under,TSLA,Google RSS,negative,-0.9632738828659058
+2026-11-06 19:01:48,"The US adds in the latest  jobs report, markets try to bounce back from an awful sell-off",TSLA,Yahoo RSS,negative,-0.5014230608940125
