@@ -1,0 +1,28 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-11-02 22:39:00,"Apple Posts Fiscal Q4 Beat On Strong iPhone, Services Sales - Investor's Business Daily",AAPL,Google RSS,positive,0.8048920035362244
+2026-11-02 21:31:00,Apple forecasts margin drop in holiday quarter as rising memory costs bite - Reuters,AAPL,Google RSS,negative,-0.9665254950523376
+2026-11-05 21:20:00,SpaceX Stock Had These 2 Positives Today. It’s Still Falling. - Barron's,AAPL,Google RSS,negative,-0.8960086703300476
+2026-11-05 19:38:27,"Apple Stock Price Forecast: $7 Billion Investment-Grade Bond Sale Draws Strong 4.4x Demand, Shares May Hit Record High of $372 - TradingKey",AAPL,Google RSS,positive,0.885755181312561
+2026-11-03 14:50:36,Apple Q4 2026 earnings: stock falls as memory costs hit margin outlook - Quartz,AAPL,Google RSS,negative,-0.9710356593132019
+2026-11-03 11:59:53,Apple is falling on its latest earnings report. Why most analysts still like the stock - CNBC,AAPL,Google RSS,negative,-0.9132397174835205
+2026-11-03 13:11:04,Apple stock 2026: only Mag 7 stock beating the S&P 500 - Opening Bell Daily,AAPL,Google RSS,neutral,0.0
+2026-11-02 17:50:00,Apple's stock drops on weak margin forecast in Ternus’ first earnings report,AAPL,Bing RSS,negative,-0.9659554362297058
+2026-11-05 21:20:00,SpaceX Stock Is Still Falling. It Trades at Apple’s Valuation.,AAPL,Yahoo RSS,negative,-0.9451450109481812
+2026-11-02 20:21:37,3 Stocks to Sell and 3 Stocks to Buy for November - Morningstar,GOOGL,Google RSS,neutral,0.0
+2026-11-04 15:24:00,Amazon Leads Cloud Hyperscaler Stocks Higher. What 'Blue Tsunami' Means For Big Tech. - Investor's Business Daily,AMZN,Google RSS,neutral,0.0
+2026-11-05 21:55:10,"Affirm delivers quarterly results and guidance beat, raises full-year GMV outlook",AMZN,Yahoo RSS,positive,0.7553579211235046
+2026-11-05 21:20:00,SpaceX Stock Is Still Falling. It Trades at Apple’s Valuation.,AMZN,Yahoo RSS,negative,-0.9451450109481812
+2026-11-05 20:44:32,"Most Active Stocks: Amazon Tops List with 25% Upside, Strong Buy Rating - TipRanks",MSFT,Google RSS,positive,0.9194256663322449
+2026-11-05 15:47:44,Microsoft stock jumps 6.6% as the rest of the AI trade sinks - Opening Bell Daily,MSFT,Google RSS,neutral,0.0
+2026-11-04 18:59:25,Microsoft Stock Hits Record High After Blue Wave - Microsoft (NASDAQ:MSFT) - Benzinga,MSFT,Google RSS,positive,0.8888823986053467
+2026-11-05 08:48:16,Microsoft Stock Price Forecast: Shares Surge 7% in Single Day to Record High as Azure Growth Could Drive MSFT to $600 - TradingKey,MSFT,Google RSS,positive,0.9358803033828735
+2026-11-05 09:08:00,"IREN data center delivery delays reduce Microsoft's capital expenditures! Stock price under pressure ahead of earnings report, with AI infrastructure delivery risks drawing attention. - 富途牛牛",MSFT,Google RSS,negative,-0.90485680103302
+2026-11-04 10:35:00,Microsoft (MSFT)Stock: Surges 6% as Polen Capital Highlights Strong AI Growth,MSFT,Bing RSS,positive,0.9474874138832092
+2026-11-05 19:27:00,The AI Trade Selloff Is Crushing Industrial Stocks. What Caterpillar’s Valuation Tells Us.,MSFT,Yahoo RSS,negative,-0.6216469407081604
+2026-11-05 23:05:06,NVIDIA sale by Daniel Meuser reported in Schwab account - Investing.com Nigeria,NVDA,Google RSS,neutral,0.0
+2026-11-05 15:18:46,"AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025 - CNBC",NVDA,Google RSS,negative,-0.9633588194847107
+2026-11-05 22:13:38,Major tech stocks plunge as US midterms add to fears of AI slowdown - BBC,NVDA,Google RSS,negative,-0.9596322178840637
+2026-11-05 16:08:50,Falling AI Stocks Drag the Whole Stock Market Down - Stock Titan,NVDA,Google RSS,negative,-0.9632623791694641
+2026-11-05 09:23:24,Why Tesla stock fell as the S&P 500 climbed after the US midterms - The Twelfth Magpie,TSLA,Google RSS,negative,-0.8624486923217773
+2026-11-05 21:20:00,SpaceX Stock Is Still Falling. It Trades at Apple’s Valuation.,TSLA,Yahoo RSS,negative,-0.9451450109481812
+2026-11-05 21:20:00,SpaceX Stock Is Still Falling. It Trades at Apple’s Valuation.,META,Yahoo RSS,negative,-0.9451450109481812
