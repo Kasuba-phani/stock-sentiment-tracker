@@ -1,7 +1,7 @@
 date,headline,ticker,source,sentiment_label,compound
-2026-11-03 01:50:00,Apple's stock drops on weak margin forecast in Ternus’ first earnings report - CNBC,AAPL,Google RSS,negative,-0.9612249135971069
+2026-11-03 01:50:00,Apple's stock drops on weak margin forecast in Ternus’ first earnings report - CNBC,AAPL,Google RSS,negative,-0.9612249135971068
 2026-11-02 22:39:00,"Apple Posts Fiscal Q4 Beat On Strong iPhone, Services Sales - Investor's Business Daily",AAPL,Google RSS,positive,0.8048920035362244
-2026-11-03 14:50:36,Apple Q4 2026 earnings: stock falls as memory costs hit margin outlook - Quartz,AAPL,Google RSS,negative,-0.9710356593132019
+2026-11-03 14:50:36,Apple Q4 2026 earnings: stock falls as memory costs hit margin outlook - Quartz,AAPL,Google RSS,negative,-0.971035659313202
 2026-11-05 21:20:00,SpaceX Stock Had These 2 Positives Today. It’s Still Falling. - Barron's,AAPL,Google RSS,negative,-0.8960086703300476
 2026-11-02 17:50:00,Apple's stock drops on weak margin forecast in Ternus’ first earnings report,AAPL,Bing RSS,negative,-0.9659554362297058
 2026-11-07 21:45:54,"Dow Jones Futures: Market Needs Repair But Apple, Amazon, Microsoft Strong; Berkshire Doubles Stock Buyback",AAPL,Yahoo RSS,positive,0.8784351944923401
@@ -11,14 +11,32 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-07 21:45:54,"Dow Jones Futures: Market Needs Repair But Apple, Amazon, Microsoft Strong; Berkshire Doubles Stock Buyback",AMZN,Yahoo RSS,positive,0.8784351944923401
 2026-11-04 18:59:25,Microsoft Stock Hits Record High After Blue Wave - Microsoft (NASDAQ:MSFT) - Benzinga,MSFT,Google RSS,positive,0.8888823986053467
 2026-11-06 21:20:00,"Top Funds Feast On Shell, Microsoft, Palantir And 24 More Stocks - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
-2026-11-05 08:48:16,Microsoft Stock Price Forecast: Shares Surge 7% in Single Day to Record High as Azure Growth Could Drive MSFT to $600 - TradingKey,MSFT,Google RSS,positive,0.9358803033828735
-2026-11-06 18:47:58,"Microsoft: AI Monetization Accelerates, Strong Buy Reaffirmed (NASDAQ:MSFT) - Seeking Alpha",MSFT,Google RSS,positive,0.9366332292556763
-2026-11-05 03:45:00,Microsoft Stock (MSFT) Rises 6.7% as Big Tech Stocks Rally (Nov 4) - Gotrade,MSFT,Google RSS,positive,0.9213575124740601
+2026-11-05 08:48:16,Microsoft Stock Price Forecast: Shares Surge 7% in Single Day to Record High as Azure Growth Could Drive MSFT to $600 - TradingKey,MSFT,Google RSS,positive,0.9358803033828736
+2026-11-06 18:47:58,"Microsoft: AI Monetization Accelerates, Strong Buy Reaffirmed (NASDAQ:MSFT) - Seeking Alpha",MSFT,Google RSS,positive,0.9366332292556764
+2026-11-05 03:45:00,Microsoft Stock (MSFT) Rises 6.7% as Big Tech Stocks Rally (Nov 4) - Gotrade,MSFT,Google RSS,positive,0.92135751247406
 2026-11-07 21:45:54,"Dow Jones Futures: Market Needs Repair But Apple, Amazon, Microsoft Strong; Berkshire Doubles Stock Buyback",MSFT,Yahoo RSS,positive,0.8784351944923401
-2026-11-05 15:18:46,"AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025 - CNBC",NVDA,Google RSS,negative,-0.9633588194847107
-2026-11-06 13:25:50,Global tech stocks plunge as US midterms add to AI slowdown fears - BBC,NVDA,Google RSS,negative,-0.9538329839706421
+2026-11-05 15:18:46,"AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025 - CNBC",NVDA,Google RSS,negative,-0.9633588194847108
+2026-11-06 13:25:50,Global tech stocks plunge as US midterms add to AI slowdown fears - BBC,NVDA,Google RSS,negative,-0.953832983970642
 2026-11-06 12:35:22,"NVIDIA stock fell 9.26%, but oversold signals have not erased bearish bias - The Cryptonomist",NVDA,Google RSS,negative,-0.967251181602478
 2026-11-07 21:45:54,"Dow Jones Futures: Market Needs Repair But Apple, Amazon, Microsoft Strong; Berkshire Doubles Stock Buyback",NVDA,Yahoo RSS,positive,0.8784351944923401
 2026-11-07 11:11:40,Top 3 EV Stocks To Watch In November 2026,TSLA,Yahoo RSS,neutral,0.0
 2026-11-04 12:27:00,Tech Sell-Off: 2 Growth Stocks Investors Might Regret Not Buying on the Dip - The Motley Fool,META,Google RSS,neutral,0.0
 2026-11-06 03:30:00,Best US Stocks to Buy Now: 5 S&P 500 Stocks That Could Be Bargains After the Sell-Off - The Smart Investor,META,Google RSS,neutral,0.0
+2026-11-08 16:20:00,"Dow Jones Futures Loom With Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-11-08 13:41:45,"Apple’s iPhone Demand Surges, But AAPL Still Isn’t a ‘Strong Buy’ - Barchart.com",AAPL,Google RSS,neutral,0.0
+2026-11-08 08:20:00,"Dow Jones futures loom with market damaged, big winners broken; Apple, Amazon, Microsoft strong",AAPL,Bing RSS,negative,-0.7854741811752319
+2026-11-08 16:20:08,"Dow Jones Futures Loom With Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong",AAPL,Yahoo RSS,negative,-0.7854741811752319
+2026-11-08 16:47:11,How sustainable is the AI investment boom after Thursday’s selloff?,GOOGL,Yahoo RSS,neutral,0.0
+2026-11-08 16:20:00,"Dow Jones Futures Loom With Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-11-08 09:04:59,"Amazon.com, Inc. $AMZN Stock Bought by Fifth Third Wealth Advisors LLC - MarketBeat",AMZN,Google RSS,neutral,0.0
+2026-11-08 09:43:43,"Amazon.com, Inc. $AMZN Stock: Private Wealth Partners LLC Boosts Position - MarketBeat",AMZN,Google RSS,positive,0.9324908256530762
+2026-11-08 16:20:08,"Dow Jones Futures Loom With Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong",AMZN,Yahoo RSS,negative,-0.7854741811752319
+2026-11-08 16:47:11,How sustainable is the AI investment boom after Thursday’s selloff?,AMZN,Yahoo RSS,neutral,0.0
+2026-11-08 16:20:00,"Dow Jones Futures Loom With Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong - Investor's Business Daily",MSFT,Google RSS,neutral,0.0
+2026-11-08 09:07:00,"Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI). - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-11-08 16:20:08,"Dow Jones Futures Loom With Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong",MSFT,Yahoo RSS,negative,-0.7854741811752319
+2026-11-08 09:13:15,Top 3 Quality Stocks To Watch In November 2026,MSFT,Yahoo RSS,neutral,0.0
+2026-11-08 09:27:00,"Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI).",MSFT,Yahoo RSS,neutral,0.0
+2026-11-08 16:47:11,How sustainable is the AI investment boom after Thursday’s selloff?,MSFT,Yahoo RSS,neutral,0.0
+2026-11-08 16:20:08,"Dow Jones Futures Loom With Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong",NVDA,Yahoo RSS,negative,-0.7854741811752319
+2026-11-08 16:47:11,How sustainable is the AI investment boom after Thursday’s selloff?,META,Yahoo RSS,neutral,0.0
