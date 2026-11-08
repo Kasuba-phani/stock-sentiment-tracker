@@ -40,3 +40,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-08 16:47:11,How sustainable is the AI investment boom after Thursday’s selloff?,MSFT,Yahoo RSS,neutral,0.0
 2026-11-08 16:20:08,"Dow Jones Futures Loom With Market Damaged, Big Winners Broken; Apple, Amazon, Microsoft Strong",NVDA,Yahoo RSS,negative,-0.7854741811752319
 2026-11-08 16:47:11,How sustainable is the AI investment boom after Thursday’s selloff?,META,Yahoo RSS,neutral,0.0
+2026-11-05 19:38:27,"Apple Stock Price Forecast: $7 Billion Investment-Grade Bond Sale Draws Strong 4.4x Demand, Shares May Hit Record High of $372 - TradingKey",AAPL,Google RSS,positive,0.8857552409172058
+2026-11-08 05:41:00,"Apple’s iPhone Demand Surges, But AAPL Still Isn’t a ‘Strong Buy’",AAPL,Bing RSS,positive,0.8723150491714478
+2026-11-08 17:36:28,Microsoft (MSFT) Makes the 10 Best Dow Stocks for 2027 List as Azure Growth Speeds Up,MSFT,Yahoo RSS,positive,0.521583080291748
