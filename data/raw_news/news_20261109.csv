@@ -24,12 +24,26 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-09 01:20:09,Wall St futures mixed amid AI spending concerns; inflation data awaited,NVDA,Yahoo RSS,negative,-0.9212674498558044
 2026-11-06 03:30:00,Best US Stocks to Buy Now: 5 S&P 500 Stocks That Could Be Bargains After the Sell-Off - The Smart Investor,META,Google RSS,neutral,0.0
 2026-11-08 16:47:11,How sustainable is the AI investment boom after Thursday’s selloff?,META,Yahoo RSS,neutral,0.0
-2026-11-05 18:07:19,"Alphabet stock drops 16% in a month, seen as a buy with strong AI growth and solid financials. - Pluang",GOOGL,Google RSS,negative,-0.9213652610778809
+2026-11-05 18:07:19,"Alphabet stock drops 16% in a month, seen as a buy with strong AI growth and solid financials. - Pluang",GOOGL,Google RSS,negative,-0.9213652610778807
 2026-11-06 18:21:31,"Alphabet reports 25% revenue growth in Q3 2026, earning a Strong Buy rating for innovation and financial strength. - Pluang",GOOGL,Google RSS,positive,0.935730516910553
 2026-11-09 04:52:28,Microsoft (MSFT) Stock May Be 33% Undervalued Following $25 Billion AI Bond Raise - Simply Wall St,MSFT,Google RSS,positive,0.6092917323112488
 2026-11-09 09:17:00,"Stock futures rise as investors eye AI trade, brace for more data and earnings: Live updates - CNBC",NVDA,Google RSS,neutral,0.0
-2026-11-09 03:52:00,Nvidia Board Launches Probe In CEO Jensen Huang Spying Case. The Stock Is Falling. - Investor's Business Daily,NVDA,Google RSS,negative,-0.9555715322494507
+2026-11-09 03:52:00,Nvidia Board Launches Probe In CEO Jensen Huang Spying Case. The Stock Is Falling. - Investor's Business Daily,NVDA,Google RSS,negative,-0.9555715322494508
 2026-11-09 09:05:35,"Stock market today: Dow, S&P 500, Nasdaq futures rise with Nvidia stock, AI trade in focus",NVDA,Yahoo RSS,neutral,0.0
 2026-11-09 08:56:12,FTSE 100 today: Stocks jump as miners lead; oil falls on Iran hopes,NVDA,Yahoo RSS,negative,-0.831953763961792
-2026-11-09 06:33:27,"Tesla Shares Rebound After Falling to Two-Month Low, May Retest $400 Mark if $350 Holds - TradingKey",TSLA,Google RSS,negative,-0.9315066933631897
+2026-11-09 06:33:27,"Tesla Shares Rebound After Falling to Two-Month Low, May Retest $400 Mark if $350 Holds - TradingKey",TSLA,Google RSS,negative,-0.9315066933631896
 2026-11-08 04:17:02,Tesla stock hasn't closed at a record in nearly 11 months. Here's how its past record droughts ended.,TSLA,Bing RSS,neutral,0.0
+2026-11-05 19:38:27,"Apple Stock Price Forecast: $7 Billion Investment-Grade Bond Sale Draws Strong 4.4x Demand, Shares May Hit Record High of $372 - TradingKey",AAPL,Google RSS,positive,0.8857552409172058
+2026-11-09 13:53:00,Amazon Stock Fell After a Strong Quarter. Is AWS Growth of 39% Being Ignored? - The Motley Fool,AMZN,Google RSS,negative,-0.9096067547798157
+2026-11-09 14:14:43,Amazon Stock Fell After a Strong Quarter. Is AWS Growth of 39% Being Ignored? - The Globe and Mail,AMZN,Google RSS,negative,-0.9510030746459961
+2026-11-09 15:07:27,Amazon stock gains on analyst upgrade and AWS strength - StreetInsider,AMZN,Google RSS,positive,0.9003196954727173
+2026-11-07 14:40:00,Amazon: Strong Buy Before AWS Growth Rewrites The Earnings Story - Seeking Alpha,AMZN,Google RSS,positive,0.889972448348999
+2026-11-07 12:59:12,"Amazon.com, Inc. $AMZN Stock Sold by Insight Advisors LLC PA - MarketBeat",AMZN,Google RSS,neutral,0.0
+2026-11-09 16:39:43,Amazon rated Strong BUY as AWS drives high grow... - Pluang,AMZN,Google RSS,positive,0.9348145723342896
+2026-11-09 19:57:51,"Nvidia vs. Microsoft: One Stock Is Too Cheap to Ignore, the Other Deserves a Downgrade, Says Top Investor - TipRanks",MSFT,Google RSS,negative,-0.910017728805542
+2026-11-09 20:15:00,"Dow rallies 1,200 points, Nasdaq jumps 3% as stocks climb out of postelection slump: Live updates - CNBC",NVDA,Google RSS,neutral,0.0
+2026-11-09 19:03:11,"Dow rallies over 1,000 points and Nasdaq gains 2.5% as stocks rebound - Quartz",NVDA,Google RSS,positive,0.8665233254432678
+2026-11-09 20:09:02,3 Australian Small Cap Stocks With Revenue Growth Over 8%,NVDA,Yahoo RSS,positive,0.6867783665657043
+2026-11-09 19:29:00,U.S. Stocks Leap Despite Nvidia Slide,NVDA,Yahoo RSS,positive,0.5001294612884521
+2026-11-09 10:16:28,"Meta Platforms, Inc. $META Stock Bought by IPG Investment Advisors LLC - MarketBeat",META,Google RSS,neutral,0.0
+2026-11-09 10:08:06,"Meta Platforms, Inc. $META Shares Acquired by Third View Private Wealth LLC - MarketBeat",META,Google RSS,neutral,0.0
