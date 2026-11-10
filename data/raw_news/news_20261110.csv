@@ -1,0 +1,29 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-11-03 01:50:00,Apple's stock drops on weak margin forecast in Ternus’ first earnings report - CNBC,AAPL,Google RSS,negative,-0.9612249135971069
+2026-11-09 21:14:58,4 Growth Stocks to Buy While They’re Still Undervalued - Morningstar,AAPL,Google RSS,neutral,0.0
+2026-11-05 21:20:00,SpaceX Stock Had These 2 Positives Today. It’s Still Falling. - Barron's,AAPL,Google RSS,negative,-0.8960086703300476
+2026-11-05 19:38:27,"Apple Stock Price Forecast: $7 Billion Investment-Grade Bond Sale Draws Strong 4.4x Demand, Shares May Hit Record High of $372 - TradingKey",AAPL,Google RSS,positive,0.885755181312561
+2026-11-09 14:14:43,Amazon Stock Fell After a Strong Quarter. Is AWS Growth of 39% Being Ignored? - The Globe and Mail,AMZN,Google RSS,negative,-0.9510030746459961
+2026-11-10 01:12:00,"Dow Jones Soars 1,132 Points As Amazon, Tesla Rally But Nvidia Dives; CPI Inflation Report Next - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-11-09 13:53:00,Amazon Stock Fell After a Strong Quarter. Is AWS Growth of 39% Being Ignored? - The Motley Fool,AMZN,Google RSS,negative,-0.90960693359375
+2026-11-09 15:06:36,Amazon stock gains on analyst upgrade and AWS strength - StreetInsider,AMZN,Google RSS,positive,0.9003195762634277
+2026-11-07 14:40:00,Amazon: Strong Buy Before AWS Growth Rewrites The Earnings Story - Seeking Alpha,AMZN,Google RSS,positive,0.8899722695350647
+2026-11-08 09:43:43,"Amazon.com, Inc. $AMZN Stock: Private Wealth Partners LLC Boosts Position - MarketBeat",AMZN,Google RSS,positive,0.9324907064437866
+2026-11-08 09:04:59,"Amazon.com, Inc. $AMZN Stock Bought by Fifth Third Wealth Advisors LLC - MarketBeat",AMZN,Google RSS,neutral,0.0
+2026-11-09 18:31:00,"Dow Jones soars 1,132 points as Amazon, Tesla rally, but Nvidia dives; CPI inflation report next",AMZN,Bing RSS,negative,-0.8032515645027161
+2026-11-10 02:31:48,"Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next",AMZN,Yahoo RSS,negative,-0.8032515645027161
+2026-11-09 19:57:51,"Nvidia vs. Microsoft: One Stock Is Too Cheap to Ignore, the Other Deserves a Downgrade, Says Top Investor - TipRanks",MSFT,Google RSS,negative,-0.910017728805542
+2026-11-04 18:59:25,Microsoft Stock Hits Record High After Blue Wave - Microsoft (NASDAQ:MSFT) - Benzinga,MSFT,Google RSS,positive,0.8888823986053467
+2026-11-08 09:07:00,"Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI). - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-11-05 08:48:16,Microsoft Stock Price Forecast: Shares Surge 7% in Single Day to Record High as Azure Growth Could Drive MSFT to $600 - TradingKey,MSFT,Google RSS,positive,0.9358803033828735
+2026-11-05 03:45:00,Microsoft Stock (MSFT) Rises 6.7% as Big Tech Stocks Rally (Nov 4) - Gotrade,MSFT,Google RSS,positive,0.9213575124740601
+2026-11-09 04:52:28,Microsoft (MSFT) Stock May Be 33% Undervalued Following $25 Billion AI Bond Raise - Simply Wall St,MSFT,Google RSS,positive,0.6092917323112488
+2026-11-09 13:58:00,Nvidia Board Launches Probe In CEO Jensen Huang Spying Case. The Stock Is Falling. - Investor's Business Daily,NVDA,Google RSS,negative,-0.9555715322494507
+2026-11-09 19:03:11,"Dow rallies over 1,000 points and Nasdaq gains 2.5% as stocks rebound - Quartz",NVDA,Google RSS,positive,0.8665230870246887
+2026-11-10 02:31:48,"Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next",NVDA,Yahoo RSS,negative,-0.8032515645027161
+2026-11-10 00:43:42,U.S. stock futures steady after tech-led rebound; CPI in focus,NVDA,Yahoo RSS,positive,0.5572172403335571
+2026-11-10 00:33:00,Elon Musk sends strong signal to Tesla stock investors - TheStreet,TSLA,Google RSS,positive,0.7338238954544067
+2026-11-10 01:12:00,"Dow Jones Soars 1,132 Points As Amazon, Tesla Rally But Nvidia Dives; CPI Inflation Report Next - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-11-10 02:31:48,"Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next",TSLA,Yahoo RSS,negative,-0.8032515645027161
+2026-11-09 10:16:28,"Meta Platforms, Inc. $META Stock Bought by IPG Investment Advisors LLC - MarketBeat",META,Google RSS,neutral,0.0
+2026-11-09 10:08:06,"Meta Platforms, Inc. $META Shares Acquired by Third View Private Wealth LLC - MarketBeat",META,Google RSS,neutral,0.0
