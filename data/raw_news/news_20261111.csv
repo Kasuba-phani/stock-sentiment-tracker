@@ -1,0 +1,28 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-11-09 21:14:58,4 Growth Stocks to Buy While They’re Still Undervalued - Morningstar,AAPL,Google RSS,neutral,0.0
+2026-11-09 15:24:44,Google unveils new AI chip variants as cloud demand surges - Reuters,GOOGL,Google RSS,neutral,0.0
+2026-11-09 13:53:00,Amazon Stock Fell After a Strong Quarter. Is AWS Growth of 39% Being Ignored? - The Motley Fool,AMZN,Google RSS,negative,-0.90960693359375
+2026-11-10 03:06:00,"Dow Jones Soars 1,132 Points As Amazon, Tesla Rally But Nvidia Dives; CPI Inflation Report Next - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
+2026-11-07 14:40:00,Amazon: Strong Buy Before AWS Growth Rewrites The Earnings Story - Seeking Alpha,AMZN,Google RSS,positive,0.8899722695350647
+2026-11-09 14:14:43,Amazon Stock Fell After a Strong Quarter. Is AWS Growth of 39% Being Ignored? - The Globe and Mail,AMZN,Google RSS,negative,-0.9510030746459961
+2026-11-09 15:06:36,Amazon stock gains on analyst upgrade and AWS strength - StreetInsider,AMZN,Google RSS,positive,0.9003195762634277
+2026-11-10 17:44:05,Amazon stock could rally to $350 by 2027 driven by strong AWS growth and rising earnings estimates. - Pluang,AMZN,Google RSS,positive,0.9374839067459106
+2026-11-10 23:55:00,Futu Morning Brief | NVIDIA and Microsoft face mounting pressure as Fed officials turn hawkish; Bowman warns that failed AI bets could trigger a stock market plunge; NVIDIA falls for a second straight day as litigation investigations continue; Anthropic rushes t - 富途牛牛,MSFT,Google RSS,negative,-0.9654424786567688
+2026-11-08 09:07:00,"Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI). - The Motley Fool",MSFT,Google RSS,neutral,0.0
+2026-11-11 01:03:01,"Dow Jones Futures Rise, CoreWave Jumps After Stocks Fall On Nvidia, Surging Treasury Yields",MSFT,Yahoo RSS,negative,-0.6395880579948425
+2026-11-10 23:03:00,CoreWeave Earnings Were Strong. Investors Remain Antsy as Stock Edges Up.,MSFT,Yahoo RSS,negative,-0.8503797054290771
+2026-11-10 22:44:00,"U.S. stocks close | CPI far exceeds expectations, putting pressure on stock indexes and pushing them lower; space stock Rocket Lab rises more than 6%, after its earnings report it fell as much as 10%; NVIDIA has erased nearly $2 trillion from its market value s - 富途牛牛",NVDA,Google RSS,negative,-0.9633249640464783
+2026-11-11 01:03:01,"Dow Jones Futures Rise, CoreWave Jumps After Stocks Fall On Nvidia, Surging Treasury Yields",NVDA,Yahoo RSS,negative,-0.6395880579948425
+2026-11-10 00:33:00,Elon Musk sends strong signal to Tesla stock investors - TheStreet,TSLA,Google RSS,positive,0.7338238954544067
+2026-11-10 11:55:18,"Fed Rate Hike Fears Return: Should Investors Sell Nvidia, Tesla and Palantir? - Coinpedia",TSLA,Google RSS,neutral,0.0
+2026-11-10 03:06:00,"Dow Jones Soars 1,132 Points As Amazon, Tesla Rally But Nvidia Dives; CPI Inflation Report Next - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-11-09 16:33:00,Elon Musk sends strong signal to Tesla stock investors,TSLA,Bing RSS,positive,0.8522861003875732
+2026-11-10 20:09:43,Top 3 Founder Run Stocks With Earnings Growth Over 15%,TSLA,Yahoo RSS,neutral,0.0
+2026-11-10 17:15:50,These AI Growth Stocks Stand Out In November 2026,TSLA,Yahoo RSS,neutral,0.0
+2026-11-10 08:48:02,"1,441 Meta Platforms, Inc. $META Shares Acquired by Chicago Partners Investment Group LLC - MarketBeat",META,Google RSS,neutral,0.0
+2026-11-09 10:16:28,"Meta Platforms, Inc. $META Stock Bought by IPG Investment Advisors LLC - MarketBeat",META,Google RSS,neutral,0.0
+2026-11-09 10:08:06,"Meta Platforms, Inc. $META Shares Acquired by Third View Private Wealth LLC - MarketBeat",META,Google RSS,neutral,0.0
+2026-11-10 21:30:00,Amdocs Announces First Quarter Fiscal 2027 Investor Conference Schedule,META,Yahoo RSS,neutral,0.0
+2026-11-10 23:03:00,CoreWeave Earnings Were Strong. Investors Remain Antsy as Stock Edges Up.,META,Yahoo RSS,negative,-0.8503797054290771
+2026-11-10 06:36:16,"Parag Parikh Flexi Cap cuts overseas exposure after AI stock rout: Meta out, Netflix in, Microsoft trimmed - Moneycontrol.com",NFLX,Google RSS,negative,-0.7246557474136353
+2026-11-10 22:37:00,AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins,NVDA,MarketWatch Top,negative,-0.9151069521903992
