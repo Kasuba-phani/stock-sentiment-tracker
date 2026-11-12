@@ -4,15 +4,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-11 16:10:00,"CORRECTING and REPLACING Hedge Funds Shift Positioning in October Amid Sharp Rotation Out of Large Technology Stocks, Data Insights Reports",AAPL,Yahoo RSS,negative,-0.8332121968269348
 2026-11-11 14:07:31,Alphabet stock weekly forecast: Sustained move lower in focus amid firm bearish momentum - Traders Union,GOOGL,Google RSS,negative,-0.8724193572998047
 2026-11-11 16:15:38,Will Alphabet stock sustain gains amid aggressive AI investment and expansion? - Traders Union,GOOGL,Google RSS,positive,0.6551673412322998
-2026-11-11 20:03:43,Anthropic Says Its Revenue Run Rate Jumped to an $81 Billion Run Rate,GOOGL,Yahoo RSS,positive,0.9459429383277893
+2026-11-11 20:03:43,Anthropic Says Its Revenue Run Rate Jumped to an $81 Billion Run Rate,GOOGL,Yahoo RSS,positive,0.9459429383277892
 2026-11-11 16:44:00,3 Unstoppable Nasdaq-100 Stocks to Buy in November - The Motley Fool,AMZN,Google RSS,neutral,0.0
-2026-11-09 13:53:00,Amazon Stock Fell After a Strong Quarter. Is AWS Growth of 39% Being Ignored? - The Motley Fool,AMZN,Google RSS,negative,-0.9096067547798157
-2026-11-09 14:14:43,Amazon Stock Fell After a Strong Quarter. Is AWS Growth of 39% Being Ignored? - The Globe and Mail,AMZN,Google RSS,negative,-0.9510030746459961
+2026-11-09 13:53:00,Amazon Stock Fell After a Strong Quarter. Is AWS Growth of 39% Being Ignored? - The Motley Fool,AMZN,Google RSS,negative,-0.9096067547798156
+2026-11-09 14:14:43,Amazon Stock Fell After a Strong Quarter. Is AWS Growth of 39% Being Ignored? - The Globe and Mail,AMZN,Google RSS,negative,-0.951003074645996
 2026-11-10 03:06:00,"Dow Jones Soars 1,132 Points As Amazon, Tesla Rally But Nvidia Dives; CPI Inflation Report Next - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
 2026-11-09 15:06:36,Amazon stock gains on analyst upgrade and AWS strength - StreetInsider,AMZN,Google RSS,positive,0.9003196954727173
-2026-11-11 20:03:43,Anthropic Says Its Revenue Run Rate Jumped to an $81 Billion Run Rate,AMZN,Yahoo RSS,positive,0.9459429383277893
-2026-11-11 11:52:29,Microsoft stock: up 29.7% since the SaaSpocalypse - Opening Bell Daily,MSFT,Google RSS,positive,0.9526407718658447
-2026-11-11 11:29:24,Microsoft stock hit by major insider trading activity - Finbold,MSFT,Google RSS,negative,-0.9545567035675049
+2026-11-11 20:03:43,Anthropic Says Its Revenue Run Rate Jumped to an $81 Billion Run Rate,AMZN,Yahoo RSS,positive,0.9459429383277892
+2026-11-11 11:52:29,Microsoft stock: up 29.7% since the SaaSpocalypse - Opening Bell Daily,MSFT,Google RSS,positive,0.9526407718658448
+2026-11-11 11:29:24,Microsoft stock hit by major insider trading activity - Finbold,MSFT,Google RSS,negative,-0.9545567035675048
 2026-11-11 20:54:06,"CoreWeave sparks AI cloud stock rally, lifts Nvidia as results ease bubble fears - Reuters",NVDA,Google RSS,positive,0.6584678292274475
 2026-11-11 13:29:00,Michael Burry says he's still bearish after Nvidia's 10% plunge — but the market may see it as a 'heck of a trade' soon - Business Insider,NVDA,Google RSS,negative,-0.588705837726593
 2026-11-12 00:09:42,"Dow Jones Futures: Techs Tumble Late As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",NVDA,Yahoo RSS,negative,-0.9539566040039062
@@ -20,8 +20,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-11 20:09:05,3 Growth Stocks With At Least 18% Revenue Growth,TSLA,Yahoo RSS,neutral,0.0
 2026-11-11 16:10:00,"CORRECTING and REPLACING Hedge Funds Shift Positioning in October Amid Sharp Rotation Out of Large Technology Stocks, Data Insights Reports",TSLA,Yahoo RSS,negative,-0.8332121968269348
 2026-11-10 08:48:02,"1,441 Meta Platforms, Inc. $META Shares Acquired by Chicago Partners Investment Group LLC - MarketBeat",META,Google RSS,neutral,0.0
-2026-11-11 11:48:32,Netflix Stock Faces Valuation Reset Despite Strong Cash - TradingPedia,NFLX,Google RSS,negative,-0.9647102355957031
+2026-11-11 11:48:32,Netflix Stock Faces Valuation Reset Despite Strong Cash - TradingPedia,NFLX,Google RSS,negative,-0.9647102355957032
 2026-11-11 16:44:00,3 Unstoppable Nasdaq-100 Stocks to Buy in November - The Motley Fool,NFLX,Google RSS,neutral,0.0
 2026-11-11 17:33:01,3 Unstoppable Nasdaq-100 Stocks to Buy in November - The Globe and Mail,NFLX,Google RSS,neutral,0.0
 2026-11-10 06:36:16,"Parag Parikh Flexi Cap cuts overseas exposure after AI stock rout: Meta out, Netflix in, Microsoft trimmed - Moneycontrol.com",NFLX,Google RSS,negative,-0.7246547341346741
 2026-11-11 17:04:00,3 Unstoppable Nasdaq-100 Stocks to Buy in November,NFLX,Yahoo RSS,neutral,0.0
+2026-11-12 04:48:12,"AAPL, GOOG Stocks Gain Overnight As NVDA Slides: Are Retail Investors Rotating Into Traditional Tech Amid Leadership Turmoil?",AAPL,Yahoo RSS,negative,-0.6724558472633362
+2026-11-12 04:48:12,"AAPL, GOOG Stocks Gain Overnight As NVDA Slides: Are Retail Investors Rotating Into Traditional Tech Amid Leadership Turmoil?",GOOGL,Yahoo RSS,negative,-0.6724558472633362
+2026-11-12 06:10:56,Top 3 Undervalued Stocks To Watch In November 2026,MSFT,Yahoo RSS,neutral,0.0
+2026-11-10 03:06:00,"Dow Jones Soars 1,132 Points As Amazon, Tesla Rally But Nvidia Dives; CPI Inflation Report Next - Investor's Business Daily",TSLA,Google RSS,neutral,0.0
+2026-11-09 16:33:00,Elon Musk sends strong signal to Tesla stock investors,TSLA,Bing RSS,positive,0.8522861003875732
+2026-11-09 10:08:06,"Meta Platforms, Inc. $META Shares Acquired by Third View Private Wealth LLC - MarketBeat",META,Google RSS,neutral,0.0
+2026-11-12 06:10:56,Top 3 Undervalued Stocks To Watch In November 2026,META,Yahoo RSS,neutral,0.0
