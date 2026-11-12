@@ -37,6 +37,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-12 14:19:31,Amazon shares weekly forecast: Resistance at $273.35 caps further gains as recovery setup holds - Traders Union,AMZN,Google RSS,positive,0.7067508697509766
 2026-11-12 15:16:59,Analysts Offer Insights on Technology Companies: Palo Alto Networks (PANW) and Microsoft (MSFT) - The Globe and Mail,MSFT,Google RSS,neutral,0.0
 2026-11-12 14:33:35,A plunge for Nvidia’s stock drags Wall Street lower - Pioneer Press,NVDA,Google RSS,negative,-0.9512313604354858
-2026-11-12 08:10:00,Nvidia Stock Is Falling But The Real Test Is Still Ahead,NVDA,Bing RSS,negative,-0.9366142749786377
+2026-11-12 08:10:00,Nvidia Stock Is Falling But The Real Test Is Still Ahead,NVDA,Bing RSS,negative,-0.9366142749786376
 2026-11-12 17:12:01,Top 3 Australian Defensive Stocks To Watch In November 2026,NVDA,Yahoo RSS,neutral,0.0
 2026-11-09 10:16:28,"Meta Platforms, Inc. $META Stock Bought by IPG Investment Advisors LLC - MarketBeat",META,Google RSS,neutral,0.0
+2026-11-12 17:15:00,3 Unstoppable Dow Stocks to Buy in November and Hold for the Next Decade - The Motley Fool,GOOGL,Google RSS,neutral,0.0
+2026-11-12 17:35:17,3 Unstoppable Dow Stocks to Buy in November and Hold for the Next Decade - The Globe and Mail,GOOGL,Google RSS,neutral,0.0
+2026-11-12 19:42:00,Microsoft Stock Rises As Ignite Conference Puts AI Growth Narrative In Focus - TalkMarkets - Howl.Link,MSFT,Google RSS,neutral,0.0
+2026-11-12 18:01:45,Microsoft Stocks Edge Higher as Anthropic Ties Deepen Despite Spreadsheet Rivalry - TradingView,MSFT,Google RSS,positive,0.5802428722381592
+2026-11-12 20:15:28,Is Microsoft stock down because of the Outlook outage? Shares were roughly flat Thursday - Nacionale,MSFT,Google RSS,negative,-0.968713641166687
+2026-11-12 12:58:11,CoreWeave stock: jumps 24.7% after earnings - Opening Bell Daily,TSLA,Google RSS,positive,0.9203193783760071
+2026-11-12 13:02:07,Quick spark: Tesla stock has best 5-day rally in over a year as Elon Musk pushes for SpaceX merger by December,TSLA,Bing RSS,positive,0.87003093957901
+2026-11-12 22:14:37,Why Retail Investors Are Watching AI Infrastructure Stocks After Tesla SpaceX Merger Talk,TSLA,Yahoo RSS,neutral,0.0
+2026-11-12 21:08:00,The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.,NVDA,MarketWatch Top,neutral,0.0
