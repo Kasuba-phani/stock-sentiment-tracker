@@ -4,18 +4,18 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-12 17:35:17,3 Unstoppable Dow Stocks to Buy in November and Hold for the Next Decade - The Globe and Mail,GOOGL,Google RSS,neutral,0.0
 2026-11-12 14:29:38,Alphabet shares technical analysis: Upward price move continues as momentum shifts positive - Traders Union,GOOGL,Google RSS,neutral,0.0
 2026-11-12 17:15:00,3 Unstoppable Dow Stocks to Buy in November and Hold for the Next Decade - The Motley Fool,AMZN,Google RSS,neutral,0.0
-2026-11-09 13:53:00,Amazon Stock Fell After a Strong Quarter. Is AWS Growth of 39% Being Ignored? - The Motley Fool,AMZN,Google RSS,negative,-0.9096067547798157
+2026-11-09 13:53:00,Amazon Stock Fell After a Strong Quarter. Is AWS Growth of 39% Being Ignored? - The Motley Fool,AMZN,Google RSS,negative,-0.9096067547798156
 2026-11-12 14:19:31,Amazon shares weekly forecast: Resistance at $273.35 caps further gains as recovery setup holds - Traders Union,AMZN,Google RSS,positive,0.7067494988441467
 2026-11-10 03:06:00,"Dow Jones Soars 1,132 Points As Amazon, Tesla Rally But Nvidia Dives; CPI Inflation Report Next - Investor's Business Daily",AMZN,Google RSS,neutral,0.0
 2026-11-11 16:44:00,3 Unstoppable Nasdaq-100 Stocks to Buy in November - The Motley Fool,AMZN,Google RSS,neutral,0.0
 2026-11-12 19:42:00,Microsoft Stock Rises As Ignite Conference Puts AI Growth Narrative In Focus - TalkMarkets - Howl.Link,MSFT,Google RSS,neutral,0.0
 2026-11-12 20:15:28,Is Microsoft stock down because of the Outlook outage? Shares were roughly flat Thursday - Nacionale,MSFT,Google RSS,negative,-0.968713641166687
-2026-11-11 11:52:29,Microsoft stock: up 29.7% since the SaaSpocalypse - Opening Bell Daily,MSFT,Google RSS,positive,0.9526407718658447
+2026-11-11 11:52:29,Microsoft stock: up 29.7% since the SaaSpocalypse - Opening Bell Daily,MSFT,Google RSS,positive,0.9526407718658448
 2026-11-12 18:01:45,Microsoft Stocks Edge Higher as Anthropic Ties Deepen Despite Spreadsheet Rivalry - TradingView,MSFT,Google RSS,positive,0.5802431702613831
-2026-11-11 11:29:24,Microsoft stock hit by major insider trading activity - Finbold,MSFT,Google RSS,negative,-0.9545567035675049
+2026-11-11 11:29:24,Microsoft stock hit by major insider trading activity - Finbold,MSFT,Google RSS,negative,-0.9545567035675048
 2026-11-13 03:07:45,"Dow, S&P 500, Nasdaq Futures Edge Higher As Markets Attempt To Recover From Nvidia Rout: SLS, MSFT, CADL, MSTR In Focus",MSFT,Yahoo RSS,positive,0.6416428685188293
 2026-11-13 02:37:31,Nasdaq Composite slides as Nvidia shares tumble on Jensen Huang’s exit; oil prices jump - CNBC,NVDA,Google RSS,negative,-0.947577953338623
-2026-11-12 09:37:00,Equities close lower as Nvidia drop outweighs energy gains - Reuters,NVDA,Google RSS,negative,-0.9491690397262573
+2026-11-12 09:37:00,Equities close lower as Nvidia drop outweighs energy gains - Reuters,NVDA,Google RSS,negative,-0.9491690397262572
 2026-11-13 05:51:34,Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion - CNBC,NVDA,Google RSS,negative,-0.9442817568778992
 2026-11-12 05:53:00,Nvidia’s stock finishes the session down 4.3% after trimming earlier losses,NVDA,Bing RSS,negative,-0.9745862483978271
 2026-11-12 08:35:00,Nvidia Stock Is Falling But The Real Test Is Still Ahead,NVDA,Bing RSS,negative,-0.9366143941879272
@@ -26,9 +26,20 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-13 00:19:00,"S&P 500, Dow, Nasdaq Futures Recover After Markets End Lower On Jensen Huang’s Exit, Oil Price Pressure  —  CRWV, CBRS, NVDA, TSLA In Focus",TSLA,Yahoo RSS,negative,-0.941471517086029
 2026-11-13 00:17:00,"A 68-Year-Old Retiree Bought 1,000 Tesla Shares at $108 in January 2023. Now Musk Could Merge Tesla Into SpaceX by December, and a 15% Premium Would Turn Her Stake Into About 3,270 SpaceX Shares",TSLA,Yahoo RSS,neutral,0.0
 2026-11-09 10:16:28,"Meta Platforms, Inc. $META Stock Bought by IPG Investment Advisors LLC - MarketBeat",META,Google RSS,neutral,0.0
-2026-11-11 11:48:32,Netflix Stock Faces Valuation Reset Despite Strong Cash - TradingPedia,NFLX,Google RSS,negative,-0.9647102355957031
+2026-11-11 11:48:32,Netflix Stock Faces Valuation Reset Despite Strong Cash - TradingPedia,NFLX,Google RSS,negative,-0.9647102355957032
 2026-11-11 16:44:00,3 Unstoppable Nasdaq-100 Stocks to Buy in November - The Motley Fool,NFLX,Google RSS,neutral,0.0
 2026-11-11 17:15:59,3 Unstoppable Nasdaq-100 Stocks to Buy in November - The Globe and Mail,NFLX,Google RSS,neutral,0.0
 2026-11-10 06:36:16,"Parag Parikh Flexi Cap cuts overseas exposure after AI stock rout: Meta out, Netflix in, Microsoft trimmed - Moneycontrol.com",NFLX,Google RSS,negative,-0.7246547341346741
 2026-11-11 17:04:00,3 Unstoppable Nasdaq-100 Stocks to Buy in November,NFLX,Yahoo RSS,neutral,0.0
 2026-11-12 21:08:00,The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.,NVDA,MarketWatch Top,neutral,0.0
+2026-11-13 08:36:46,Apple Inc. $AAPL Stock Bought by Fifth Third Wealth Advisors LLC - MarketBeat,AAPL,Google RSS,neutral,0.0
+2026-11-11 16:15:38,Will Alphabet stock sustain gains amid aggressive AI investment and expansion? - Traders Union,GOOGL,Google RSS,positive,0.6551685929298401
+2026-11-13 09:02:14,Microsoft (MSFT) stock price forecast: Wall Street analysts see 22% upside - Beinsure,MSFT,Google RSS,positive,0.46696341037750244
+2026-11-13 13:09:43,"Anthropic's new products trigger decline in Microsoft's stock price, but Ackman remains bullish on its prospects - 富途牛牛",MSFT,Google RSS,negative,-0.9484071135520935
+2026-11-13 13:26:56,Microsoft shares pressured on Friday as traders weigh outage’s impact - Global News,MSFT,Google RSS,negative,-0.9610661268234253
+2026-11-13 11:35:39,"Watch Microsoft Races to Fix Outage, Stocks Slip of Inflation Test - Bloomberg.com",MSFT,Google RSS,neutral,0.0
+2026-11-13 12:43:48,【US Pre-Market】Nvidia Rebounds Over 2%; Microsoft Falls Over 2% Amid Massive Global Outage; October PPI Due - TradingKey,MSFT,Google RSS,negative,-0.8471383452415466
+2026-11-13 14:02:26,Can Microsoft maintain cloud and AI momentum with looming policy risks on Chinese-made hardware imports? - Traders Union,MSFT,Google RSS,neutral,0.0
+2026-11-13 13:16:34,"U.S. futures climb as Wall Street keeps an eye on Nvidia, Microsoft and producer prices - BNN Bloomberg",MSFT,Google RSS,neutral,0.0
+2026-11-13 13:05:23,5 Best Stocks to Buy for a Rising Interest Rate Environment,MSFT,Yahoo RSS,neutral,0.0
+2026-11-13 11:12:48,Top 3 Founder Led Stocks With Earnings Growth Up To 38%,TSLA,Yahoo RSS,positive,0.946791410446167
