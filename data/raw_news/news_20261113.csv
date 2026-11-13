@@ -34,12 +34,35 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-12 21:08:00,The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.,NVDA,MarketWatch Top,neutral,0.0
 2026-11-13 08:36:46,Apple Inc. $AAPL Stock Bought by Fifth Third Wealth Advisors LLC - MarketBeat,AAPL,Google RSS,neutral,0.0
 2026-11-11 16:15:38,Will Alphabet stock sustain gains amid aggressive AI investment and expansion? - Traders Union,GOOGL,Google RSS,positive,0.6551685929298401
-2026-11-13 09:02:14,Microsoft (MSFT) stock price forecast: Wall Street analysts see 22% upside - Beinsure,MSFT,Google RSS,positive,0.46696341037750244
-2026-11-13 13:09:43,"Anthropic's new products trigger decline in Microsoft's stock price, but Ackman remains bullish on its prospects - 富途牛牛",MSFT,Google RSS,negative,-0.9484071135520935
-2026-11-13 13:26:56,Microsoft shares pressured on Friday as traders weigh outage’s impact - Global News,MSFT,Google RSS,negative,-0.9610661268234253
+2026-11-13 09:02:14,Microsoft (MSFT) stock price forecast: Wall Street analysts see 22% upside - Beinsure,MSFT,Google RSS,positive,0.4669634103775024
+2026-11-13 13:09:43,"Anthropic's new products trigger decline in Microsoft's stock price, but Ackman remains bullish on its prospects - 富途牛牛",MSFT,Google RSS,negative,-0.9484071135520936
+2026-11-13 13:26:56,Microsoft shares pressured on Friday as traders weigh outage’s impact - Global News,MSFT,Google RSS,negative,-0.9610661268234252
 2026-11-13 11:35:39,"Watch Microsoft Races to Fix Outage, Stocks Slip of Inflation Test - Bloomberg.com",MSFT,Google RSS,neutral,0.0
 2026-11-13 12:43:48,【US Pre-Market】Nvidia Rebounds Over 2%; Microsoft Falls Over 2% Amid Massive Global Outage; October PPI Due - TradingKey,MSFT,Google RSS,negative,-0.8471383452415466
 2026-11-13 14:02:26,Can Microsoft maintain cloud and AI momentum with looming policy risks on Chinese-made hardware imports? - Traders Union,MSFT,Google RSS,neutral,0.0
 2026-11-13 13:16:34,"U.S. futures climb as Wall Street keeps an eye on Nvidia, Microsoft and producer prices - BNN Bloomberg",MSFT,Google RSS,neutral,0.0
 2026-11-13 13:05:23,5 Best Stocks to Buy for a Rising Interest Rate Environment,MSFT,Yahoo RSS,neutral,0.0
 2026-11-13 11:12:48,Top 3 Founder Led Stocks With Earnings Growth Up To 38%,TSLA,Yahoo RSS,positive,0.946791410446167
+2026-11-13 16:02:30,Apple climbs as inflation surprise raises bond yields and weighs on tech valuations - Traders Union,AAPL,Google RSS,negative,-0.8549230098724365
+2026-11-12 04:48:00,"AAPL, GOOG Stocks Gain Overnight As NVDA Slides: Are Retail Investors Rotating Into Traditional Tech Amid Leadership Turmoil? - TradingView",AAPL,Google RSS,neutral,0.0
+2026-11-13 20:57:37,Stock Market Today: Nasdaq Down Nearly 1% But Dow Jones Average Reverses Higher (Live Coverage),AAPL,Yahoo RSS,negative,-0.9502165913581848
+2026-11-13 14:35:32,Alphabet stock price prediction: Upward move targets $307.95 resistance amid bullish momentum - Traders Union,GOOGL,Google RSS,positive,0.6242310404777527
+2026-11-13 21:02:25,Sundar Pichai tech updates softens sentiment but Alphabet holds near session lows - Traders Union,GOOGL,Google RSS,negative,-0.886359691619873
+2026-11-13 11:49:53,"Amazon Emerges As Top Magnificent Seven Pick With Dual Cloud, Retail Growth Engines - NAI500",AMZN,Google RSS,positive,0.7700400352478027
+2026-11-13 20:42:47,Sector Update: Consumer Stocks Mixed Late Afternoon,AMZN,Yahoo RSS,negative,-0.9352520108222961
+2026-11-13 15:57:00,Lowe’s Stock Cut to Sell as It Struggles to Catch Up to Home Depot,AMZN,Yahoo RSS,negative,-0.9587000012397766
+2026-11-13 18:38:00,Microsoft points to ‘broad recovery and stability’ after widespread Outlook outage - MarketWatch,MSFT,Google RSS,positive,0.9469733238220215
+2026-11-13 14:28:56,"US futures climb as Wall Street keeps an eye on Nvidia, Microsoft and producer prices - Daily Breeze",MSFT,Google RSS,neutral,0.0
+2026-11-12 18:32:00,"Microsoft Outlook, Teams outage eases after over a day; recovery timeline uncertain - Reuters",MSFT,Google RSS,negative,-0.7882554531097412
+2026-11-13 15:43:42,Microsoft says it continues to make 'sustained improvements' in restoring outage - Seeking Alpha,MSFT,Google RSS,positive,0.9488722681999207
+2026-11-13 11:31:00,"Nvidia, AMD, Microsoft, Broadcom, and More Stocks That Explain Today's Market -- Barrons.com - Moomoo",MSFT,Google RSS,neutral,0.0
+2026-11-13 17:52:46,Microsoft Outage Sends Cybersecurity Stocks Higher. Palo Alto and CrowdStrike Lead Gains - TradingView,MSFT,Google RSS,positive,0.5270048975944519
+2026-11-13 13:53:23,Microsoft faces further downside risks despite recovery from major service outage - Traders Union,MSFT,Google RSS,negative,-0.8909920454025269
+2026-11-13 17:52:46,Microsoft Outage Sends Cybersecurity Stocks Higher. Palo Alto and CrowdStrike Lead Gains,MSFT,Yahoo RSS,negative,-0.46806517243385315
+2026-11-13 21:02:00,"Stock Market Today: Dow ends slightly higher, S&P 500 and Nasdaq fall as tech stocks struggle after Nvidia turmoil; the U.S. equities market books weekly gain — live updates - MarketWatch",NVDA,Google RSS,negative,-0.9403494000434875
+2026-11-13 16:26:00,Nvidia’s stock is on a losing streak not seen in 14 years. What comes next? - MarketWatch,NVDA,Google RSS,negative,-0.8894022107124329
+2026-11-13 20:57:37,Stock Market Today: Nasdaq Down Nearly 1% But Dow Jones Average Reverses Higher (Live Coverage),NVDA,Yahoo RSS,negative,-0.9502165913581848
+2026-11-13 20:47:00,Weekly Gains Hold Up Despite a Friday Slide as Chips Lead and Yields Climb,NVDA,Yahoo RSS,positive,0.6716054677963257
+2026-11-13 16:45:00,You Can Do Better Than Tesla: 3 Industrial Stocks With More Upside - The Motley Fool,TSLA,Google RSS,neutral,0.0
+2026-11-13 15:39:40,"Tesla Stock Slides 2% as Nasdaq Turns Lower on Rising Wholesale Prices, Cooling a Blistering Robotaxi Rally - International Business Times Australia",TSLA,Google RSS,negative,-0.9444105625152588
+2026-11-13 17:05:00,You Can Do Better Than Tesla: 3 Industrial Stocks With More Upside,TSLA,Yahoo RSS,neutral,0.0
