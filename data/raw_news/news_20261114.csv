@@ -9,14 +9,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-12 17:15:00,3 Unstoppable Dow Stocks to Buy in November and Hold for the Next Decade - The Motley Fool,AMZN,Google RSS,neutral,0.0
 2026-11-12 14:19:31,Amazon shares weekly forecast: Resistance at $273.35 caps further gains as recovery setup holds - Traders Union,AMZN,Google RSS,positive,0.7067508697509766
 2026-11-13 11:49:53,"Amazon Emerges As Top Magnificent Seven Pick With Dual Cloud, Retail Growth Engines - NAI500",AMZN,Google RSS,positive,0.7700394988059998
-2026-11-13 20:42:47,Sector Update: Consumer Stocks Mixed Late Afternoon,AMZN,Yahoo RSS,negative,-0.9352516531944275
-2026-11-13 18:38:00,Microsoft points to ‘broad recovery and stability’ after widespread Outlook outage - MarketWatch,MSFT,Google RSS,positive,0.9469733238220215
+2026-11-13 20:42:47,Sector Update: Consumer Stocks Mixed Late Afternoon,AMZN,Yahoo RSS,negative,-0.9352516531944276
+2026-11-13 18:38:00,Microsoft points to ‘broad recovery and stability’ after widespread Outlook outage - MarketWatch,MSFT,Google RSS,positive,0.9469733238220216
 2026-11-13 09:04:05,Microsoft (MSFT) stock price forecast: Wall Street analysts see 22% upside - Beinsure,MSFT,Google RSS,positive,0.4669639766216278
 2026-11-13 21:55:51,"Microsoft (NASDAQ:MSFT) Stock Falls as Global Outage Hits Outlook, Teams and Copilot - Stocks Down Under",MSFT,Google RSS,negative,-0.9680935144424438
-2026-11-13 13:09:43,"Anthropic's new products trigger decline in Microsoft's stock price, but Ackman remains bullish on its prospects - 富途牛牛",MSFT,Google RSS,negative,-0.9484070539474487
+2026-11-13 13:09:43,"Anthropic's new products trigger decline in Microsoft's stock price, but Ackman remains bullish on its prospects - 富途牛牛",MSFT,Google RSS,negative,-0.9484070539474488
 2026-11-12 18:32:00,"Microsoft Outlook, Teams outage eases after over a day; recovery timeline uncertain - Reuters",MSFT,Google RSS,negative,-0.7882543206214905
-2026-11-13 13:26:56,Microsoft shares pressured on Friday as traders weigh outage’s impact - Global News,MSFT,Google RSS,negative,-0.9610661268234253
-2026-11-13 15:43:42,Microsoft says it continues to make 'sustained improvements' in restoring outage - Seeking Alpha,MSFT,Google RSS,positive,0.9488722681999207
+2026-11-13 13:26:56,Microsoft shares pressured on Friday as traders weigh outage’s impact - Global News,MSFT,Google RSS,negative,-0.9610661268234252
+2026-11-13 15:43:42,Microsoft says it continues to make 'sustained improvements' in restoring outage - Seeking Alpha,MSFT,Google RSS,positive,0.9488722681999208
 2026-11-13 11:31:00,"Nvidia, AMD, Microsoft, Broadcom, and More Stocks That Explain Today's Market -- Barrons.com - Moomoo",MSFT,Google RSS,neutral,0.0
 2026-11-12 20:15:28,Is Microsoft stock down because of the Outlook outage? Shares were roughly flat Thursday - Nacionale,MSFT,Google RSS,negative,-0.968713641166687
 2026-11-13 14:02:26,Can Microsoft maintain cloud and AI momentum with looming policy risks on Chinese-made hardware imports? - Traders Union,MSFT,Google RSS,neutral,0.0
@@ -29,4 +29,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-11 11:48:32,Netflix Stock Faces Valuation Reset Despite Strong Cash - TradingPedia,NFLX,Google RSS,negative,-0.9647101163864136
 2026-11-11 16:44:00,3 Unstoppable Nasdaq-100 Stocks to Buy in November - The Motley Fool,NFLX,Google RSS,neutral,0.0
 2026-11-11 17:15:59,3 Unstoppable Nasdaq-100 Stocks to Buy in November - The Globe and Mail,NFLX,Google RSS,neutral,0.0
-2026-11-13 22:21:00,Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?,NVDA,MarketWatch Top,negative,-0.9092914462089539
+2026-11-13 22:21:00,Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?,NVDA,MarketWatch Top,negative,-0.909291446208954
+2026-11-13 00:38:00,Microsoft stock set to dip amid global outage,MSFT,Bing RSS,negative,-0.9608107209205627
+2026-11-13 05:51:34,Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion - CNBC,NVDA,Google RSS,negative,-0.9613416790962219
+2026-11-13 15:08:43,Nvidia Earnings: Analysts Look for About $109B in Sales - Opening Bell Daily,META,Google RSS,neutral,0.0
