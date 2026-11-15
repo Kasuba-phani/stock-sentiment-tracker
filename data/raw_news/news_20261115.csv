@@ -24,4 +24,6 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-12 14:19:31,Amazon shares weekly forecast: Resistance at $273.35 caps further gains as recovery setup holds - Traders Union,AMZN,Google RSS,positive,0.7067494988441467
 2026-11-12 08:35:00,Nvidia Stock Is Falling But The Real Test Is Still Ahead,NVDA,Bing RSS,negative,-0.9366143941879272
 2026-11-15 02:31:34,AMD Soars 19% in a Week on Oppenheimer’s Upgrade and Nvidia’s Turmoil: “Demand Is Higher Than Supply”,NVDA,Yahoo RSS,positive,0.9285732507705688
-2026-11-15 04:17:54,Tom Lee Says Retail Investors May Be Cashing Out Ahead Of Anthropic’s Nasdaq Debut,NVDA,Yahoo RSS,positive,0.44917556643486023
+2026-11-15 04:17:54,Tom Lee Says Retail Investors May Be Cashing Out Ahead Of Anthropic’s Nasdaq Debut,NVDA,Yahoo RSS,positive,0.4491755664348602
+2026-11-15 14:33:00,Morgan Stanley doubles down on Microsoft stock with bold outlook - TheStreet,MSFT,Google RSS,negative,-0.8829236626625061
+2026-11-15 11:10:38,3 Growth Stocks With Revenue Growth Over 18%,TSLA,Yahoo RSS,neutral,0.0
