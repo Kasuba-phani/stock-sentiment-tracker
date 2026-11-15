@@ -5,14 +5,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-14 12:45:00,The Blockchain Boom Is Still Happening Behind the Scenes. These 3 Growth Stocks Will Benefit. - The Motley Fool,AMZN,Google RSS,neutral,0.0
 2026-11-11 16:44:00,3 Unstoppable Nasdaq-100 Stocks to Buy in November - The Motley Fool,AMZN,Google RSS,neutral,0.0
 2026-11-12 17:15:00,3 Unstoppable Dow Stocks to Buy in November and Hold for the Next Decade - The Motley Fool,AMZN,Google RSS,neutral,0.0
-2026-11-13 18:38:00,Microsoft points to ‘broad recovery and stability’ after widespread Outlook outage - MarketWatch,MSFT,Google RSS,positive,0.9469733238220215
+2026-11-13 18:38:00,Microsoft points to ‘broad recovery and stability’ after widespread Outlook outage - MarketWatch,MSFT,Google RSS,positive,0.9469733238220216
 2026-11-13 09:04:05,Microsoft (MSFT) stock price forecast: Wall Street analysts see 22% upside - Beinsure,MSFT,Google RSS,positive,0.4669639766216278
 2026-11-13 21:57:48,"Microsoft (NASDAQ:MSFT) Stock Falls as Global Outage Hits Outlook, Teams and Copilot - Stocks Down Under",MSFT,Google RSS,negative,-0.9680935144424438
 2026-11-12 20:15:28,Is Microsoft stock down because of the Outlook outage? Shares were roughly flat Thursday - Nacionale,MSFT,Google RSS,negative,-0.968713641166687
-2026-11-13 13:09:43,"Anthropic's new products trigger decline in Microsoft's stock price, but Ackman remains bullish on its prospects - 富途牛牛",MSFT,Google RSS,negative,-0.9484070539474487
+2026-11-13 13:09:43,"Anthropic's new products trigger decline in Microsoft's stock price, but Ackman remains bullish on its prospects - 富途牛牛",MSFT,Google RSS,negative,-0.9484070539474488
 2026-11-13 11:35:39,"Watch Microsoft Races to Fix Outage, Stocks Slip of Inflation Test - Bloomberg.com",MSFT,Google RSS,neutral,0.0
-2026-11-13 13:26:56,Microsoft shares pressured on Friday as traders weigh outage’s impact - Global News,MSFT,Google RSS,negative,-0.9610661268234253
-2026-11-13 05:51:34,Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion - CNBC,NVDA,Google RSS,negative,-0.9613416790962219
+2026-11-13 13:26:56,Microsoft shares pressured on Friday as traders weigh outage’s impact - Global News,MSFT,Google RSS,negative,-0.9610661268234252
+2026-11-13 05:51:34,Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion - CNBC,NVDA,Google RSS,negative,-0.961341679096222
 2026-11-14 22:09:06,3 AI Chip Stocks Retail Investors May Be Missing Beyond Nvidia,NVDA,Yahoo RSS,negative,-0.6748968958854675
 2026-11-13 00:17:00,"A 68-Year-Old Retiree Bought 1,000 Tesla Shares at $108 in January 2023. Now Musk Could Merge Tesla Into SpaceX by December, and a 15% Premium Would Turn Her Stake Into About 3,270 SpaceX Shares - 24/7 Wall St.",TSLA,Google RSS,neutral,0.0
 2026-11-13 16:45:00,You Can Do Better Than Tesla: 3 Industrial Stocks With More Upside - The Motley Fool,TSLA,Google RSS,neutral,0.0
@@ -21,3 +21,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-13 17:53:41,"Muse's gains slow in October, while Google's volumes remain 'robust,' Wells Fargo says (META:NASDAQ) - Seeking Alpha",META,Google RSS,negative,-0.951647162437439
 2026-11-11 11:48:32,Netflix Stock Faces Valuation Reset Despite Strong Cash - TradingPedia,NFLX,Google RSS,negative,-0.9647101163864136
 2026-11-11 16:44:00,3 Unstoppable Nasdaq-100 Stocks to Buy in November - The Motley Fool,NFLX,Google RSS,neutral,0.0
+2026-11-12 14:19:31,Amazon shares weekly forecast: Resistance at $273.35 caps further gains as recovery setup holds - Traders Union,AMZN,Google RSS,positive,0.7067494988441467
+2026-11-12 08:35:00,Nvidia Stock Is Falling But The Real Test Is Still Ahead,NVDA,Bing RSS,negative,-0.9366143941879272
+2026-11-15 02:31:34,AMD Soars 19% in a Week on Oppenheimer’s Upgrade and Nvidia’s Turmoil: “Demand Is Higher Than Supply”,NVDA,Yahoo RSS,positive,0.9285732507705688
+2026-11-15 04:17:54,Tom Lee Says Retail Investors May Be Cashing Out Ahead Of Anthropic’s Nasdaq Debut,NVDA,Yahoo RSS,positive,0.44917556643486023
