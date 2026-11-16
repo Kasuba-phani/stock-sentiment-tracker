@@ -21,8 +21,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-11 11:48:32,Netflix Stock Faces Valuation Reset Despite Strong Cash - TradingPedia,NFLX,Google RSS,negative,-0.9647101163864136
 2026-11-11 16:44:00,3 Unstoppable Nasdaq-100 Stocks to Buy in November - The Motley Fool,NFLX,Google RSS,neutral,0.0
 2026-11-13 21:02:25,Sundar Pichai tech updates softens sentiment but Alphabet holds near session lows - Traders Union,GOOGL,Google RSS,negative,-0.8863598704338074
-2026-11-16 05:45:29,Stocks extend losses as traders anticipate Nvidia earnings - Euronews.com,NVDA,Google RSS,negative,-0.9141232967376709
+2026-11-16 05:45:29,Stocks extend losses as traders anticipate Nvidia earnings - Euronews.com,NVDA,Google RSS,negative,-0.9141232967376708
 2026-11-16 09:16:31,"Stock market today: Dow, S&P 500, Nasdaq futures little changed ahead of pivotal week for AI traders",NVDA,Yahoo RSS,neutral,0.0
 2026-11-16 08:17:23,Retail Traders' Power Fuels Volatility: Market Analysis,NVDA,Yahoo RSS,neutral,0.0
 2026-11-16 00:31:00,"TSLA, SPCX Diverge Overnight As Retail Traders Split On Merger Winner — Could SpaceX Get Tesla’s S&P 500 Seat?",TSLA,Bing RSS,neutral,0.0
 2026-11-16 06:14:32,Tesla And 2 Top Insider Owned Growth Stocks,TSLA,Yahoo RSS,neutral,0.0
+2026-11-16 19:00:00,AI Spending Accelerates: 3 Hyperscaler Stocks for Strong 2027 Returns,GOOGL,Yahoo RSS,positive,0.9354946613311768
+2026-11-16 19:00:00,AI Spending Accelerates: 3 Hyperscaler Stocks for Strong 2027 Returns,AMZN,Yahoo RSS,positive,0.9354946613311768
+2026-11-16 19:00:00,AI Spending Accelerates: 3 Hyperscaler Stocks for Strong 2027 Returns,MSFT,Yahoo RSS,positive,0.9354946613311768
+2026-11-16 18:59:00,Stock Market Today: Dow falls 700 points; S&P 500 and Nasdaq drop sharply as Nvidia's stock dives ahead of results — live updates - MarketWatch,NVDA,Google RSS,negative,-0.9616854190826416
+2026-11-16 19:40:02,Is Merck's Stock Still a Good Buy at $150?,NVDA,Yahoo RSS,neutral,0.0
+2026-11-16 17:58:30,Why Is DraftKings Stock Falling on Monday? - Benzinga,META,Google RSS,negative,-0.9114369750022888
+2026-11-16 14:58:00,"Global AR Waveguide Market Size, Share, Technology and Forecast, 2027-2037 | AI Glasses Growth and Foundry Expansion Create Opportunities Amid Supply Constraints",META,Yahoo RSS,positive,0.648451566696167
