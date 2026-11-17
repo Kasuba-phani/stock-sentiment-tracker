@@ -1,0 +1,20 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-11-16 20:10:50,"Dow Jones Decliners in Today's U.S. Session: CAT, NVDA, GOOGL, BA, GS, JPM - ChartMill",GOOGL,Google RSS,neutral,0.0
+2026-11-16 14:35:29,GOOGL declines as momentum remains weak and oversold Stoch RSI hints at near-term reaction - Traders Union,GOOGL,Google RSS,negative,-0.9434927105903625
+2026-11-16 22:33:04,Amazon seen as strong buy with 30% upside amid AI growth and AWS momentum - Pluang,AMZN,Google RSS,positive,0.9450191259384155
+2026-11-16 22:00:00,Home Depot Earnings Will Test If Home Improvement Can Outrun a Sluggish Housing Market,AMZN,Yahoo RSS,positive,0.9326738119125366
+2026-11-15 14:33:00,Morgan Stanley doubles down on Microsoft stock with bold outlook - TheStreet,MSFT,Google RSS,negative,-0.8829238414764404
+2026-11-13 18:38:00,Microsoft points to ‘broad recovery and stability’ after widespread Outlook outage - MarketWatch,MSFT,Google RSS,positive,0.9469733238220215
+2026-11-13 09:04:05,Microsoft (MSFT) stock price forecast: Wall Street analysts see 22% upside - Beinsure,MSFT,Google RSS,positive,0.46696382761001587
+2026-11-13 13:26:56,Microsoft shares pressured on Friday as traders weigh outage’s impact - Global News,MSFT,Google RSS,negative,-0.9610661268234253
+2026-11-15 06:33:00,Morgan Stanley doubles down on Microsoft stock with bold outlook,MSFT,Bing RSS,negative,-0.901957631111145
+2026-11-16 22:18:00,"A Third Outage Strikes, This Time at Chase, Big Banks. The Stocks Are Falling.",MSFT,Yahoo RSS,negative,-0.9659766554832458
+2026-11-16 23:03:00,Daniel Loeb’s Third Point Returned to Nvidia Stock Just Before Its Fall,MSFT,Yahoo RSS,neutral,0.0
+2026-11-16 23:04:59,Daniel Loeb’s Third Point Returned to Nvidia Stock Just Before Its Fall - Barron's,NVDA,Google RSS,neutral,0.0
+2026-11-16 04:23:45,Nvidia stock falls on reports Jensen Huang is plotting a comeback—and 40% of prediction market bettors think he’ll return by next year,NVDA,Bing RSS,negative,-0.9637080430984497
+2026-11-17 03:06:19,"Bitcoin Bears Target $60K As Nvidia Earnings, Anthropic IPO, Bond Yields And Fed Hike Odds Weigh On Crypto Recovery",NVDA,Yahoo RSS,positive,0.6798514723777771
+2026-11-16 15:18:00,Tesla Starts Selling Cybercabs for Personal Use. Can It Boost the Stock? - Barron's,TSLA,Google RSS,neutral,0.0
+2026-11-16 20:49:30,Sector Update: Consumer Stocks Mixed Late Afternoon,TSLA,Yahoo RSS,negative,-0.935251772403717
+2026-11-16 23:03:00,Daniel Loeb’s Third Point Returned to Nvidia Stock Just Before Its Fall,META,Yahoo RSS,neutral,0.0
+2026-11-16 14:58:00,"Global AR Waveguide Market Size, Share, Technology and Forecast, 2027-2037 | AI Glasses Growth and Foundry Expansion Create Opportunities Amid Supply Constraints",META,Yahoo RSS,positive,0.6484524607658386
+2026-11-11 11:48:32,Netflix Stock Faces Valuation Reset Despite Strong Cash - TradingPedia,NFLX,Google RSS,negative,-0.9647102355957031
