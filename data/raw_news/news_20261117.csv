@@ -21,6 +21,17 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-13 19:19:19,Apple stock gains as Bernstein highlights safe-haven appeal amid AI selloff - TradingView,AAPL,Google RSS,positive,0.737555205821991
 2026-11-13 21:57:48,"Microsoft (NASDAQ:MSFT) Stock Falls as Global Outage Hits Outlook, Teams and Copilot - Stocks Down Under",MSFT,Google RSS,negative,-0.9680935144424438
 2026-11-17 12:42:00,Dow futures slide 200 points weighed by Home Depot; traders await Nvidia earnings: Live updates - CNBC,NVDA,Google RSS,neutral,0.0
-2026-11-16 23:14:00,"Stock Market Today: Dow ends 737 points lower, Nasdaq drops 2.5% and S&P 500 ends sharply lower as Nvidia's stock tumbles ahead of results - MarketWatch",NVDA,Google RSS,negative,-0.9716189503669739
+2026-11-16 23:14:00,"Stock Market Today: Dow ends 737 points lower, Nasdaq drops 2.5% and S&P 500 ends sharply lower as Nvidia's stock tumbles ahead of results - MarketWatch",NVDA,Google RSS,negative,-0.971618950366974
 2026-11-17 09:18:45,Nvidia shares slightly up after days of decline ahead of earnings - CNBC,NVDA,Google RSS,negative,-0.6917436122894287
 2026-11-17 12:48:32,"Premarket movers: Nvidia, Red Cat fall; Home Depot, SpaceX gains",NVDA,Yahoo RSS,negative,-0.4201013743877411
+2026-11-13 11:19:19,Apple stock gains as Bernstein highlights safe-haven appeal amid AI selloff,AAPL,Bing RSS,positive,0.8624389171600342
+2026-11-17 20:20:07,Ken Fisher Portfolio Review: 5 Highest-Conviction Technology Stocks for Long-Term Growth,AAPL,Yahoo RSS,neutral,0.0
+2026-11-17 20:16:00,Only two ‘Magnificent Seven’ stocks have managed to beat the S&P 500 since the start of 2025 - MarketWatch,GOOGL,Google RSS,neutral,0.0
+2026-11-17 20:20:07,Ken Fisher Portfolio Review: 5 Highest-Conviction Technology Stocks for Long-Term Growth,GOOGL,Yahoo RSS,neutral,0.0
+2026-11-17 20:20:07,Ken Fisher Portfolio Review: 5 Highest-Conviction Technology Stocks for Long-Term Growth,AMZN,Yahoo RSS,neutral,0.0
+2026-11-17 19:53:55,"Billionaire Daniel Loeb Swaps Amazon for Meta, Nvidia and Microsoft in Q3 — Meta Now Third Point's Top Holding - Benzinga",MSFT,Google RSS,neutral,0.0
+2026-11-17 11:24:07,Microsoft stock falls amid sector weakness and outages,MSFT,Bing RSS,negative,-0.9671916365623474
+2026-11-17 20:20:07,Ken Fisher Portfolio Review: 5 Highest-Conviction Technology Stocks for Long-Term Growth,MSFT,Yahoo RSS,neutral,0.0
+2026-11-17 21:23:00,"Stock Market News, Nov. 17, 2026: Dow ends down 850 points, S&P 500 and Nasdaq also plunge as tech names come under further pressure ahead of Nvidia’s earnings - MarketWatch",NVDA,Google RSS,negative,-0.9677091240882874
+2026-11-17 16:30:05,‘That Math Is Obvious and Trivial’: Elon Musk Says Solar Will Supply 100% of Civilization’s Energy as SpaceX and Tesla Ramp Up Manufacturing,TSLA,Yahoo RSS,neutral,0.0
+2026-11-17 20:21:31,"Meta Platforms, Inc. (META): Strong Advertising Growth Supports Its Long-Term Investment Case",META,Yahoo RSS,positive,0.944431722164154
