@@ -1,11 +1,11 @@
 date,headline,ticker,source,sentiment_label,compound
-2026-11-17 19:32:27,Strong financial results may ease macro uncertainty for Apple in volatile environment - Traders Union,AAPL,Google RSS,positive,0.9273354411125183
+2026-11-17 19:32:27,Strong financial results may ease macro uncertainty for Apple in volatile environment - Traders Union,AAPL,Google RSS,positive,0.9273354411125184
 2026-11-17 21:38:00,Coca-Cola Stock (KO) May Struggle to Repeat Its Strong 2026 Performance,AAPL,Yahoo RSS,positive,0.6932990550994873
 2026-11-17 20:20:07,Ken Fisher Portfolio Review: 5 Highest-Conviction Technology Stocks for Long-Term Growth,AAPL,Yahoo RSS,neutral,0.0
 2026-11-17 20:16:00,Only two ‘Magnificent Seven’ stocks have managed to beat the S&P 500 since the start of 2025 - MarketWatch,GOOGL,Google RSS,neutral,0.0
 2026-11-17 20:20:07,Ken Fisher Portfolio Review: 5 Highest-Conviction Technology Stocks for Long-Term Growth,GOOGL,Yahoo RSS,neutral,0.0
 2026-11-17 20:20:07,Ken Fisher Portfolio Review: 5 Highest-Conviction Technology Stocks for Long-Term Growth,AMZN,Yahoo RSS,neutral,0.0
-2026-11-13 13:26:56,Microsoft shares pressured on Friday as traders weigh outage’s impact - Global News,MSFT,Google RSS,negative,-0.9610661268234253
+2026-11-13 13:26:56,Microsoft shares pressured on Friday as traders weigh outage’s impact - Global News,MSFT,Google RSS,negative,-0.9610661268234252
 2026-11-13 21:57:48,"Microsoft (NASDAQ:MSFT) Stock Falls as Global Outage Hits Outlook, Teams and Copilot - Stocks Down Under",MSFT,Google RSS,negative,-0.9680935144424438
 2026-11-15 06:33:00,Morgan Stanley doubles down on Microsoft stock with bold outlook,MSFT,Bing RSS,negative,-0.901957631111145
 2026-11-17 11:24:07,Microsoft stock falls amid sector weakness and outages,MSFT,Bing RSS,negative,-0.9671916365623474
@@ -14,5 +14,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-17 03:29:00,Nvidia’s stock rises after company’s upbeat forecast,NVDA,Bing RSS,positive,0.6794036030769348
 2026-11-16 15:18:00,Tesla Starts Selling Cybercabs for Personal Use. Can It Boost the Stock? - Barron's,TSLA,Google RSS,neutral,0.0
 2026-11-17 16:30:05,‘That Math Is Obvious and Trivial’: Elon Musk Says Solar Will Supply 100% of Civilization’s Energy as SpaceX and Tesla Ramp Up Manufacturing,TSLA,Yahoo RSS,neutral,0.0
-2026-11-16 11:50:27,"Berkshire stock: up 18% in 2026, ahead of the S&P 500 - Opening Bell Daily",META,Google RSS,positive,0.9475173354148865
+2026-11-16 11:50:27,"Berkshire stock: up 18% in 2026, ahead of the S&P 500 - Opening Bell Daily",META,Google RSS,positive,0.9475173354148864
 2026-11-17 20:21:31,"Meta Platforms, Inc. (META): Strong Advertising Growth Supports Its Long-Term Investment Case",META,Yahoo RSS,positive,0.944431722164154
+2026-11-18 12:09:03,Why Microsoft Investors Could Own It Through 3 ETFs,MSFT,Yahoo RSS,neutral,0.0
+2026-11-18 11:11:55,"Why Salesforce, ServiceNow and Microsoft Stocks Are Falling Before the Anthropic IPO",MSFT,Yahoo RSS,negative,-0.9479407072067261
+2026-11-16 04:23:45,Nvidia stock falls on reports Jensen Huang is plotting a comeback—and 40% of prediction market bettors think he’ll return by next year,NVDA,Bing RSS,negative,-0.9637080430984497
+2026-11-18 02:20:00,"US Stock Futures Rise as Nvidia Raises Revenue Forecast and Anthropic IPO Draws Investor Attention: Dow Jones, S&P, Nasdaq, Wall Street",NVDA,Bing RSS,neutral,0.0
+2026-11-18 04:13:00,"Nvidia Just Said Demand Far Exceeds Supply. Oracle, 65% Below Its Peak, Still Trades Where It Sold $10 Billion of Stock",NVDA,Bing RSS,neutral,0.0
+2026-11-18 12:16:45,Nvidia Shares Rise as Kress Reassures on Demand and Supply,NVDA,Yahoo RSS,positive,0.8657148480415344
