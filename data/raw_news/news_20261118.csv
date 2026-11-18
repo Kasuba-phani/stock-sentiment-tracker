@@ -17,8 +17,25 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-16 11:50:27,"Berkshire stock: up 18% in 2026, ahead of the S&P 500 - Opening Bell Daily",META,Google RSS,positive,0.9475173354148864
 2026-11-17 20:21:31,"Meta Platforms, Inc. (META): Strong Advertising Growth Supports Its Long-Term Investment Case",META,Yahoo RSS,positive,0.944431722164154
 2026-11-18 12:09:03,Why Microsoft Investors Could Own It Through 3 ETFs,MSFT,Yahoo RSS,neutral,0.0
-2026-11-18 11:11:55,"Why Salesforce, ServiceNow and Microsoft Stocks Are Falling Before the Anthropic IPO",MSFT,Yahoo RSS,negative,-0.9479407072067261
-2026-11-16 04:23:45,Nvidia stock falls on reports Jensen Huang is plotting a comeback—and 40% of prediction market bettors think he’ll return by next year,NVDA,Bing RSS,negative,-0.9637080430984497
+2026-11-18 11:11:55,"Why Salesforce, ServiceNow and Microsoft Stocks Are Falling Before the Anthropic IPO",MSFT,Yahoo RSS,negative,-0.947940707206726
+2026-11-16 04:23:45,Nvidia stock falls on reports Jensen Huang is plotting a comeback—and 40% of prediction market bettors think he’ll return by next year,NVDA,Bing RSS,negative,-0.9637080430984496
 2026-11-18 02:20:00,"US Stock Futures Rise as Nvidia Raises Revenue Forecast and Anthropic IPO Draws Investor Attention: Dow Jones, S&P, Nasdaq, Wall Street",NVDA,Bing RSS,neutral,0.0
 2026-11-18 04:13:00,"Nvidia Just Said Demand Far Exceeds Supply. Oracle, 65% Below Its Peak, Still Trades Where It Sold $10 Billion of Stock",NVDA,Bing RSS,neutral,0.0
 2026-11-18 12:16:45,Nvidia Shares Rise as Kress Reassures on Demand and Supply,NVDA,Yahoo RSS,positive,0.8657148480415344
+2026-11-18 14:33:00,Only two ‘Magnificent Seven’ stocks have managed to beat the S&P 500 since the start of 2025 - MarketWatch,AAPL,Google RSS,neutral,0.0
+2026-11-18 14:02:26,AAPL trades flat as weak momentum persists near $355.25 resistance - Traders Union,AAPL,Google RSS,negative,-0.9468057155609131
+2026-11-18 12:36:52,"US Tech Outages November 2026: Timeline, Causes and Stocks - Admirals",AAPL,Google RSS,neutral,0.0
+2026-11-18 08:43:47,"Apple stock shows strength now, and a key catalyst is brewing in June 2027",AAPL,Bing RSS,positive,0.8173854947090149
+2026-11-18 19:57:27,Alphabet Stock Is Falling. Here’s Why Investors Should Be Buying the Dip. - Barchart.com,GOOGL,Google RSS,negative,-0.6883590817451477
+2026-11-18 13:00:00,Microsoft Stock Loses Key Level Amid Global Outage; Is Microsoft A Buy Now? - Investor's Business Daily,MSFT,Google RSS,negative,-0.7718404531478882
+2026-11-18 14:12:33,Microsoft stock weakens as downward price move follows sustained seller pressure - Traders Union,MSFT,Google RSS,negative,-0.9664942026138306
+2026-11-18 07:42:49,Mizuho reiterates Microsoft stock rating on AI growth outlook - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-11-18 11:11:55,"Why Salesforce, ServiceNow and Microsoft Stocks Are Falling Before the Anthropic IPO - TradingView",MSFT,Google RSS,negative,-0.9436652064323425
+2026-11-18 15:15:17,Microsoft faces further downside risks despite new Azure and Copilot advances - Traders Union,MSFT,Google RSS,negative,-0.8668438196182251
+2026-11-18 05:00:00,Microsoft stock loses key level amid global outage; is Microsoft a buy now?,MSFT,Bing RSS,negative,-0.878197431564331
+2026-11-18 21:00:00,Microsoft Stock (MSFT) Forecast – Mizuho Stays Bullish on Strong Revenue Growth Prospects,MSFT,Yahoo RSS,positive,0.8767073154449463
+2026-11-18 20:20:27,AI stocks struggle to sustain gains despite Nvidia's upbeat forecast - Fox Business,NVDA,Google RSS,negative,-0.9495177865028381
+2026-11-18 13:21:01,Why S&P 500 ETF Investors Don't Have to Worry (Much) About Nvidia Stock Plunging - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-11-18 06:21:01,Why S&P 500 ETF Investors Don't Have to Worry (Much) About Nvidia Stock Plunging,NVDA,Bing RSS,neutral,0.0
+2026-11-18 16:32:34,"Big Tech Will Be “Six of the Top Ten Issuers” of Corporate Bonds, Apollo CEO Predicts. Stocks Now Have Competition",META,Yahoo RSS,neutral,0.0
+2026-11-18 16:03:46,59 Analysts Rate Amazon a Buy. Here’s Where the Stock Could Go,META,Yahoo RSS,neutral,0.0
