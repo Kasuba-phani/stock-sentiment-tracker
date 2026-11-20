@@ -5,7 +5,7 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-19 14:02:22,Alphabet shares weekly forecast: Sellers keep pressure as MACD signals strong negative trend - Traders Union,GOOGL,Google RSS,negative,-0.8890790343284607
 2026-11-19 07:09:00,Alphabet stock is jumping. 2 reasons the comeback starts now.,GOOGL,Bing RSS,neutral,0.0
 2026-11-19 22:32:35,Morgan Stanley’s Vintage Values 2027: 5 Stocks Analysts See Climbing Further,GOOGL,Yahoo RSS,positive,0.9228899478912354
-2026-11-19 19:11:27,Will Amazon stock avoid deeper losses amid overbought warning and weak momentum? - Traders Union,AMZN,Google RSS,negative,-0.9373985528945923
+2026-11-19 19:11:27,Will Amazon stock avoid deeper losses amid overbought warning and weak momentum? - Traders Union,AMZN,Google RSS,negative,-0.9373985528945924
 2026-11-19 22:32:35,Morgan Stanley’s Vintage Values 2027: 5 Stocks Analysts See Climbing Further,AMZN,Yahoo RSS,positive,0.9228899478912354
 2026-11-19 14:12:30,Microsoft stock consolidates near $512.23 resistance as mixed momentum signals persist - Traders Union,MSFT,Google RSS,negative,-0.8561185002326965
 2026-11-18 13:00:00,Microsoft Stock Loses Key Level Amid Global Outage; Is Microsoft A Buy Now? - Investor's Business Daily,MSFT,Google RSS,negative,-0.7718404531478882
@@ -15,8 +15,15 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-19 14:01:25,Wedbush raises Nvidia stock price target to $293 on demand outlook - Investing.com,NVDA,Google RSS,neutral,0.0
 2026-11-16 23:03:00,Daniel Loeb’s Third Point Returned to Nvidia Stock Just Before Its Fall - Barron's,NVDA,Google RSS,neutral,0.0
 2026-11-18 13:21:01,Why S&P 500 ETF Investors Don't Have to Worry (Much) About Nvidia Stock Plunging - The Motley Fool,NVDA,Google RSS,neutral,0.0
-2026-11-13 05:51:34,Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion - CNBC,NVDA,Google RSS,negative,-0.9613416790962219
+2026-11-13 05:51:34,Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion - CNBC,NVDA,Google RSS,negative,-0.961341679096222
 2026-11-20 02:48:14,"Nasdaq, Dow, S&P 500 Futures Slip As Anthropic’s Record Debut Fails To Lift AI Stocks: SLV, GLD, AMD, NVDA In Focus",NVDA,Yahoo RSS,negative,-0.9555900692939758
 2026-11-19 07:12:35,"Trump reports Tesla and SpaceX purchases, sells McDonald’s and Home Depot stock",TSLA,Bing RSS,neutral,0.0
 2026-11-19 23:51:00,Apple May Try to Challenge Meta for Personal Agent Supremacy,META,Yahoo RSS,neutral,0.0
 2026-11-19 23:01:05,"S&P 500, Nasdaq, Dow End Lower As Anthropic Trading Debut Fails To Provide Adequate Confidence —  ANT, META, AAPL, GME In Focus",META,Yahoo RSS,negative,-0.9643700122833252
+2026-11-20 02:58:24,Supply Chain Resilient Stocks to Buy in 2026: Which Companies Can Weather Global Disruptions? - TradingKey,AAPL,Google RSS,neutral,0.0
+2026-11-18 11:11:55,"Why Salesforce, ServiceNow and Microsoft Stocks Are Falling Before the Anthropic IPO - TradingView",MSFT,Google RSS,negative,-0.9436652064323425
+2026-11-18 05:00:00,Microsoft stock loses key level amid global outage; is Microsoft a buy now?,MSFT,Bing RSS,negative,-0.878197431564331
+2026-11-20 09:06:36,"Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",NVDA,Google RSS,negative,-0.9647014737129211
+2026-11-20 09:06:01,Nvidia Has Lost More Than the Market Value of 495 S&P 500 Companies in 6 Weeks -- and Its Downtrend May Be Just Beginning - The Motley Fool,NVDA,Google RSS,negative,-0.9703061580657959
+2026-11-20 10:05:02,Bitcoin Is 35% Below Its 52-Week High While the S&P 500 Is Up. Here’s What That Says About the Digital Gold Thesis.,NVDA,Yahoo RSS,negative,-0.5075339078903198
+2026-11-18 07:02:04,"As Netflix stock hovers near its 52-week low, analyst sentiment remains mixed. Here's why.",NFLX,Bing RSS,negative,-0.7605763077735901
