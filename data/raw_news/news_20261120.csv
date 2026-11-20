@@ -21,9 +21,22 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-19 23:51:00,Apple May Try to Challenge Meta for Personal Agent Supremacy,META,Yahoo RSS,neutral,0.0
 2026-11-19 23:01:05,"S&P 500, Nasdaq, Dow End Lower As Anthropic Trading Debut Fails To Provide Adequate Confidence —  ANT, META, AAPL, GME In Focus",META,Yahoo RSS,negative,-0.9643700122833252
 2026-11-20 02:58:24,Supply Chain Resilient Stocks to Buy in 2026: Which Companies Can Weather Global Disruptions? - TradingKey,AAPL,Google RSS,neutral,0.0
-2026-11-18 11:11:55,"Why Salesforce, ServiceNow and Microsoft Stocks Are Falling Before the Anthropic IPO - TradingView",MSFT,Google RSS,negative,-0.9436652064323425
+2026-11-18 11:11:55,"Why Salesforce, ServiceNow and Microsoft Stocks Are Falling Before the Anthropic IPO - TradingView",MSFT,Google RSS,negative,-0.9436652064323424
 2026-11-18 05:00:00,Microsoft stock loses key level amid global outage; is Microsoft a buy now?,MSFT,Bing RSS,negative,-0.878197431564331
-2026-11-20 09:06:36,"Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",NVDA,Google RSS,negative,-0.9647014737129211
-2026-11-20 09:06:01,Nvidia Has Lost More Than the Market Value of 495 S&P 500 Companies in 6 Weeks -- and Its Downtrend May Be Just Beginning - The Motley Fool,NVDA,Google RSS,negative,-0.9703061580657959
+2026-11-20 09:06:36,"Anthropic shares fall nearly 6% in premarket amid AI selloff as Nvidia, AMD shares drop - CNBC",NVDA,Google RSS,negative,-0.9647014737129213
+2026-11-20 09:06:01,Nvidia Has Lost More Than the Market Value of 495 S&P 500 Companies in 6 Weeks -- and Its Downtrend May Be Just Beginning - The Motley Fool,NVDA,Google RSS,negative,-0.970306158065796
 2026-11-20 10:05:02,Bitcoin Is 35% Below Its 52-Week High While the S&P 500 Is Up. Here’s What That Says About the Digital Gold Thesis.,NVDA,Yahoo RSS,negative,-0.5075339078903198
 2026-11-18 07:02:04,"As Netflix stock hovers near its 52-week low, analyst sentiment remains mixed. Here's why.",NFLX,Bing RSS,negative,-0.7605763077735901
+2026-11-20 15:48:43,Banks race to patch vulnerabilities amid amplified tech outage risk,AAPL,Yahoo RSS,negative,-0.8532066345214844
+2026-11-20 15:10:43,Is Dolby Laboratories (DLB) Still A Bargain After Strong Results?,AAPL,Yahoo RSS,positive,0.5135596394538879
+2026-11-20 18:57:34,Retailers Are Backsliding on Toxic Chemicals and Plastic. Here’s Who’s Falling Short.,AMZN,Yahoo RSS,negative,-0.6517013311386108
+2026-11-20 14:13:26,Microsoft stock outlook: Downward bias persists as weak momentum weighs on price - Traders Union,MSFT,Google RSS,negative,-0.9707973003387451
+2026-11-20 19:35:36,Cerebras stock rebounds as Microsoft signs on as third hyperscaler customer - Crypto Briefing,MSFT,Google RSS,positive,0.5612164735794067
+2026-11-20 19:38:29,Microsoft emphasizes 'pay-for-performance' in its Azure cloud division: report - Seeking Alpha,MSFT,Google RSS,neutral,0.0
+2026-11-15 06:33:00,Morgan Stanley doubles down on Microsoft stock with bold outlook,MSFT,Bing RSS,negative,-0.9019578695297241
+2026-11-20 09:06:36,Anthropic stock falls 14% in first full day of trading amid AI sell-off - CNBC,NVDA,Google RSS,negative,-0.9552544355392456
+2026-11-20 16:52:00,"AI Stocks' Wild Ride Gets Bumpier As Nvidia Chaos, Blue Tsunami Spook Investors - Investor's Business Daily",NVDA,Google RSS,negative,-0.5293750762939453
+2026-11-20 19:22:44,Why Are Investors Ignoring Qualcomm Stock's High Cash Yield?,NVDA,Yahoo RSS,neutral,0.0
+2026-11-20 18:23:07,Tesla shares slide as market selloff overshadows HSBC upgrade - StreetInsider,TSLA,Google RSS,negative,-0.9572663307189941
+2026-11-20 19:42:00,$17B Tesla manufacturing plant led October’s construction starts rebound,TSLA,Yahoo RSS,neutral,0.0
+2026-11-20 14:08:31,Bernstein reiterates Netflix stock rating on growth outlook - Investing.com,NFLX,Google RSS,neutral,0.0
