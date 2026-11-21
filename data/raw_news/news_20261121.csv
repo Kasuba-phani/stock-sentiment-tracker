@@ -27,5 +27,14 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-20 14:08:31,Bernstein reiterates Netflix stock rating on growth outlook - Investing.com,NFLX,Google RSS,neutral,0.0
 2026-11-20 21:59:41,"Prediction: Netflix and Disney Will “Blame Grand Theft Auto” for Falling Viewership, per Scott Galloway",NFLX,Yahoo RSS,negative,-0.968515396118164
 2026-11-18 05:00:00,Microsoft stock loses key level amid global outage; is Microsoft a buy now?,MSFT,Bing RSS,negative,-0.878197431564331
-2026-11-21 03:50:47,"Nvidia stock slumps 14%, setting longest losing streak since 2008 - Ticker News",NVDA,Google RSS,negative,-0.9679048657417297
+2026-11-21 03:50:47,"Nvidia stock slumps 14%, setting longest losing streak since 2008 - Ticker News",NVDA,Google RSS,negative,-0.9679048657417296
 2026-11-20 23:41:59,Why Is Tesla (NASDAQ:TSLA) Stock Crashing? Shares Fall 7.6% Despite HSBC Upgrade and SpaceX Merger Talks - Stocks Down Under,TSLA,Google RSS,negative,-0.9726717472076416
+2026-11-21 16:03:16,Fed’s Lisa Cook Warns of Larger Rate Hikes Ahead,AAPL,Yahoo RSS,negative,-0.8628134727478027
+2026-11-18 11:56:00,Alphabet Stock Is Falling. Here’s Why Investors Should Be Buying the Dip.,GOOGL,Bing RSS,negative,-0.6981289386749268
+2026-11-18 11:11:55,"Why Salesforce, ServiceNow and Microsoft Stocks Are Falling Before the Anthropic IPO - TradingView",MSFT,Google RSS,negative,-0.9436652064323425
+2026-11-21 16:03:16,Fed’s Lisa Cook Warns of Larger Rate Hikes Ahead,MSFT,Yahoo RSS,negative,-0.8628134727478027
+2026-11-21 14:34:14,Will Nvidia stock go back up? Why NVDA plunged to $125.53 and what could spark a recovery - Clarin.com,NVDA,Google RSS,neutral,0.0
+2026-11-18 13:21:01,Why S&P 500 ETF Investors Don't Have to Worry (Much) About Nvidia Stock Plunging - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-11-21 16:03:16,Fed’s Lisa Cook Warns of Larger Rate Hikes Ahead,NVDA,Yahoo RSS,negative,-0.8628134727478027
+2026-11-21 15:40:50,Tesla falls 7.5% as AI selloff swamps HSBC upgrade; market likely explains 3 to 5.5 points - Quantisnow,TSLA,Google RSS,negative,-0.9342591166496277
+2026-11-19 07:12:35,"Trump Reports Tesla And SpaceX Purchases, Sells McDonald’s And Home Depot Stock",TSLA,Bing RSS,neutral,0.0
