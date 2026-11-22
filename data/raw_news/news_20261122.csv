@@ -1,0 +1,30 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-11-21 16:03:16,Fed’s Lisa Cook Warns of Larger Rate Hikes Ahead,AAPL,Yahoo RSS,negative,-0.8628135323524475
+2026-11-20 20:02:40,Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot - CNBC,GOOGL,Google RSS,neutral,0.0
+2026-11-21 23:05:24,Alphabet keeps borrowing as AI spending drags its stock 34% below its peak - Crypto Briefing,GOOGL,Google RSS,negative,-0.9699796438217163
+2026-11-18 19:57:27,Alphabet Stock Is Falling. Here’s Why Investors Should Be Buying the Dip. - Barchart.com,GOOGL,Google RSS,negative,-0.6883594393730164
+2026-11-19 16:09:34,Alphabet stock climbs on upward price move as buyers show steady interest - Traders Union,GOOGL,Google RSS,positive,0.8511337041854858
+2026-11-21 15:04:00,Alphabet keeps borrowing as AI spending drags its stock 34% below its peak,GOOGL,Bing RSS,negative,-0.9716672301292419
+2026-11-19 19:11:27,Will Amazon stock avoid deeper losses amid overbought warning and weak momentum? - Traders Union,AMZN,Google RSS,negative,-0.9373986721038818
+2026-11-18 08:03:00,59 Analysts Rate Amazon a Buy. Here’s Where the Stock Could Go,AMZN,Bing RSS,neutral,0.0
+2026-11-20 14:13:26,Microsoft stock outlook: Downward bias persists as weak momentum weighs on price - Traders Union,MSFT,Google RSS,negative,-0.9707973003387451
+2026-11-18 13:00:00,Microsoft Stock Loses Key Level Amid Global Outage; Is Microsoft A Buy Now? - Investor's Business Daily,MSFT,Google RSS,negative,-0.771840512752533
+2026-11-18 07:42:49,Mizuho reiterates Microsoft stock rating on AI growth outlook - Investing.com,MSFT,Google RSS,neutral,0.0
+2026-11-18 14:12:33,Microsoft stock weakens as downward price move follows sustained seller pressure - Traders Union,MSFT,Google RSS,negative,-0.9664942026138306
+2026-11-18 05:00:00,Microsoft stock loses key level amid global outage; is Microsoft a buy now?,MSFT,Bing RSS,negative,-0.878197431564331
+2026-11-21 16:03:16,Fed’s Lisa Cook Warns of Larger Rate Hikes Ahead,MSFT,Yahoo RSS,negative,-0.8628135323524475
+2026-11-20 19:26:29,"Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis - CNBC",NVDA,Google RSS,negative,-0.9371306896209717
+2026-11-20 16:52:00,"AI Stocks' Wild Ride Gets Bumpier As Nvidia Chaos, Blue Tsunami Spook Investors - Investor's Business Daily",NVDA,Google RSS,negative,-0.5293758511543274
+2026-11-18 13:21:01,Why S&P 500 ETF Investors Don't Have to Worry (Much) About Nvidia Stock Plunging - The Motley Fool,NVDA,Google RSS,neutral,0.0
+2026-11-21 05:31:00,"NVIDIA stock crashes 42% in three weeks, gamers are watching closely",NVDA,Bing RSS,positive,0.48473232984542847
+2026-11-20 23:41:59,Why Is Tesla (NASDAQ:TSLA) Stock Crashing? Shares Fall 7.6% Despite HSBC Upgrade and SpaceX Merger Talks - Stocks Down Under,TSLA,Google RSS,negative,-0.9726717472076416
+2026-11-21 15:40:50,Tesla falls 7.5% as AI selloff swamps HSBC upgrade; market likely explains 3 to 5.5 points - Quantisnow,TSLA,Google RSS,negative,-0.9342589974403381
+2026-11-20 18:23:07,Tesla shares slide as market selloff overshadows HSBC upgrade - StreetInsider,TSLA,Google RSS,negative,-0.9572663307189941
+2026-11-19 07:12:35,"Trump Reports Tesla And SpaceX Purchases, Sells McDonald’s And Home Depot Stock",TSLA,Bing RSS,neutral,0.0
+2026-11-20 21:09:45,S&P 500 enters correction territory after shedding $5.5T from all-time high,TSLA,Yahoo RSS,negative,-0.9461364150047302
+2026-11-20 19:42:00,$17B Tesla manufacturing plant led October’s construction starts rebound,TSLA,Yahoo RSS,neutral,0.0
+2026-11-21 21:07:00,"Meta stock prediction: $664.52 bull, $460.13 bear - FinanceFeeds",META,Google RSS,neutral,0.0
+2026-11-20 23:50:49,Why is Meta stock down today? About 6% lower as the AI sell-off and an Apple agent report hit - Nacionale,META,Google RSS,negative,-0.9622079730033875
+2026-11-21 17:04:02,Billionaire Investor Philippe Laffont Just Highlighted 2 Companies He Expects to Be Big Winners of the Agentic AI Era,META,Yahoo RSS,positive,0.5333417654037476
+2026-11-20 14:08:31,Bernstein reiterates Netflix stock rating on growth outlook - Investing.com,NFLX,Google RSS,neutral,0.0
+2026-11-20 21:59:41,"Prediction: Netflix and Disney Will “Blame Grand Theft Auto” for Falling Viewership, per Scott Galloway",NFLX,Yahoo RSS,negative,-0.9685153961181641
