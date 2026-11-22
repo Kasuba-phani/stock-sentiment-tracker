@@ -28,13 +28,25 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-21 17:04:02,Billionaire Investor Philippe Laffont Just Highlighted 2 Companies He Expects to Be Big Winners of the Agentic AI Era,META,Yahoo RSS,positive,0.5333417654037476
 2026-11-20 14:08:31,Bernstein reiterates Netflix stock rating on growth outlook - Investing.com,NFLX,Google RSS,neutral,0.0
 2026-11-20 21:59:41,"Prediction: Netflix and Disney Will “Blame Grand Theft Auto” for Falling Viewership, per Scott Galloway",NFLX,Yahoo RSS,negative,-0.968515396118164
-2026-11-21 22:25:12,Jesse Cohen: Apple shows smallest decline from all-time high among major tech stocks - Traders Union,AAPL,Google RSS,negative,-0.9705100059509277
+2026-11-21 22:25:12,Jesse Cohen: Apple shows smallest decline from all-time high among major tech stocks - Traders Union,AAPL,Google RSS,negative,-0.9705100059509276
 2026-11-19 14:02:22,Alphabet shares weekly forecast: Sellers keep pressure as MACD signals strong negative trend - Traders Union,GOOGL,Google RSS,negative,-0.8890790343284607
 2026-11-22 09:46:49,"Amazon.com, Inc. $AMZN Stock Purchased by Third View Private Wealth LLC - MarketBeat",AMZN,Google RSS,neutral,0.0
 2026-11-20 19:35:36,Cerebras stock rebounds as Microsoft signs on as third hyperscaler customer - Crypto Briefing,MSFT,Google RSS,positive,0.5612164735794067
-2026-11-18 11:11:55,"Why Salesforce, ServiceNow and Microsoft Stocks Are Falling Before the Anthropic IPO - TradingView",MSFT,Google RSS,negative,-0.9436652064323425
+2026-11-18 11:11:55,"Why Salesforce, ServiceNow and Microsoft Stocks Are Falling Before the Anthropic IPO - TradingView",MSFT,Google RSS,negative,-0.9436652064323424
 2026-11-20 21:24:20,"Analysts Are Bullish on Top Technology Stocks: Microsoft (MSFT), STMicroelectronics (STM) - The Globe and Mail",MSFT,Google RSS,neutral,0.0
 2026-11-21 14:34:14,Will Nvidia stock go back up? Why NVDA plunged to $125.53 and what could spark a recovery - Clarin.com,NVDA,Google RSS,neutral,0.0
 2026-11-22 02:48:00,Nvidia stock hits decade-low valuation despite strong AI demand and earnings growth,NVDA,Bing RSS,negative,-0.8697072267532349
-2026-11-22 07:43:02,Mortgage Rates Have Jumped More Than 1 Point Since February. Home Depot and Lowe’s Shareholders Are Feeling the Pain.,NVDA,Yahoo RSS,negative,-0.9362557530403137
+2026-11-22 07:43:02,Mortgage Rates Have Jumped More Than 1 Point Since February. Home Depot and Lowe’s Shareholders Are Feeling the Pain.,NVDA,Yahoo RSS,negative,-0.9362557530403136
 2026-11-19 07:12:35,"Trump reports Tesla and SpaceX purchases, sells McDonald’s and Home Depot stock",TSLA,Bing RSS,neutral,0.0
+2026-11-22 18:04:11,Amazon.com vs. Home Depot: Which Consumer Stock Is a Better Buy for 2027? - The Motley Fool,AMZN,Google RSS,neutral,0.0
+2026-11-22 18:24:11,Amazon.com vs. Home Depot: Which Consumer Stock Is a Better Buy for 2027?,AMZN,Yahoo RSS,neutral,0.0
+2026-11-22 16:03:00,Bank of America sends strong signal to Microsoft stock investors - TheStreet,MSFT,Google RSS,positive,0.7941612005233765
+2026-11-22 10:55:02,Billionaire Tech Investor Philippe Laffont Just Loaded Up on These 4 AI Stocks - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-11-22 11:18:12,Billionaire Tech Investor Philippe Laffont Just Loaded Up on These 4 AI Stocks - The Globe and Mail,MSFT,Google RSS,neutral,0.0
+2026-11-20 19:38:29,Microsoft emphasizes 'pay-for-performance' in its Azure cloud division: report - Seeking Alpha,MSFT,Google RSS,neutral,0.0
+2026-11-22 08:03:00,Bank of America sends strong signal to Microsoft stock investors,MSFT,Bing RSS,positive,0.8384038805961609
+2026-11-22 11:15:02,Billionaire Tech Investor Philippe Laffont Just Loaded Up on These 4 AI Stocks,MSFT,Yahoo RSS,neutral,0.0
+2026-11-22 15:27:43,Dell (NYSE:DELL) Earnings: Can AI Server Demand Survive Nvidia’s 23% Stock Crash? - Stocks Down Under,NVDA,Google RSS,negative,-0.9589430093765259
+2026-11-22 18:43:15,"Billionaire Ray Dalio’s Bridgewater Keeps 16% of Its $23 Billion Stock Portfolio in S&P 500 Index Funds, Even After Cutting Them",NVDA,Yahoo RSS,neutral,0.0
+2026-11-22 17:50:02,"The S&P 500 and Dow Jones Are Dangerously Close to Joining the Nasdaq in a Correction. Here’s the Level That Would Put the Nasdaq in a Bear Market, and What History Says Investors Should Do During a Stock Market Crash.",NVDA,Yahoo RSS,neutral,0.0
+2026-11-22 11:15:02,Billionaire Tech Investor Philippe Laffont Just Loaded Up on These 4 AI Stocks,META,Yahoo RSS,neutral,0.0
