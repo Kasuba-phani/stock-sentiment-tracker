@@ -1,0 +1,40 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-11-23 16:18:08,Apple hits all-time high as AI stocks decline amid market volatility - Crypto Briefing,AAPL,Google RSS,negative,-0.9386411905288696
+2026-11-20 20:02:40,Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot - CNBC,GOOGL,Google RSS,neutral,0.0
+2026-11-23 17:40:54,Dow Jones Top Gainers: NVIDIA Leads Today's Session - ChartMill,GOOGL,Google RSS,neutral,0.0
+2026-11-18 19:57:27,Alphabet Stock Is Falling. Here’s Why Investors Should Be Buying the Dip. - Barchart.com,GOOGL,Google RSS,negative,-0.6883590817451477
+2026-11-23 14:41:43,Alphabet stock price prediction: Seller pressure remains as downside risk persists - Traders Union,GOOGL,Google RSS,neutral,0.0
+2026-11-23 22:33:24,"Google's Gemini 4 Neon gains momentum ahead of OpenAI, data shows",GOOGL,Yahoo RSS,positive,0.8931337594985962
+2026-11-24 05:06:42,"The Inflation Math, Updated: The Fed Is Fighting Oil",GOOGL,Yahoo RSS,neutral,0.0
+2026-11-19 19:11:27,Will Amazon stock avoid deeper losses amid overbought warning and weak momentum? - Traders Union,AMZN,Google RSS,negative,-0.9373985528945923
+2026-11-23 15:22:28,Amazon stock posts upward price move as oversold Stoch RSI signals short-term exhaustion - Traders Union,AMZN,Google RSS,negative,-0.7971251606941223
+2026-11-24 05:06:42,"The Inflation Math, Updated: The Fed Is Fighting Oil",AMZN,Yahoo RSS,neutral,0.0
+2026-11-22 16:03:00,Bank of America sends strong signal to Microsoft stock investors - TheStreet,MSFT,Google RSS,positive,0.7941612005233765
+2026-11-18 13:00:00,Microsoft Stock Loses Key Level Amid Global Outage; Is Microsoft A Buy Now? - Investor's Business Daily,MSFT,Google RSS,negative,-0.7718404531478882
+2026-11-20 14:13:26,Microsoft stock outlook: Downward bias persists as weak momentum weighs on price - Traders Union,MSFT,Google RSS,negative,-0.9707973003387451
+2026-11-23 17:14:52,Microsoft rebounds toward $500 but remains vulnerable to a deeper correction - Traders Union,MSFT,Google RSS,negative,-0.9291436672210693
+2026-11-22 10:55:02,Billionaire Tech Investor Philippe Laffont Just Loaded Up on These 4 AI Stocks - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-11-23 14:33:00,How Could Perplexity Scores Falling From 0.99 to Under 0.8 Shape Microsoft (NASDAQ:MSFT) Demand? - Kalkine,MSFT,Google RSS,negative,-0.786439836025238
+2026-11-22 09:09:20,Microsoft shares fell 9% from record but historically rebound with 30% gains a year later. - Pluang,MSFT,Google RSS,negative,-0.9596275091171265
+2026-11-22 08:53:41,Microsoft shares fell 9% from record high but h... - Pluang,MSFT,Google RSS,negative,-0.968020498752594
+2026-11-22 08:03:00,Bank of America sends strong signal to Microsoft stock investors,MSFT,Bing RSS,positive,0.8384038805961609
+2026-11-23 21:25:00,Leading CHROs and Business Executives to Convene at i4cp's 2027 Next Practices Now Conference,MSFT,Yahoo RSS,neutral,0.0
+2026-11-24 05:06:42,"The Inflation Math, Updated: The Fed Is Fighting Oil",MSFT,Yahoo RSS,neutral,0.0
+2026-11-23 21:03:00,Nvidia just posted its biggest single-day stock rally since 2003 after Jensen Huang's comeback - Business Insider,NVDA,Google RSS,positive,0.7879733443260193
+2026-11-20 19:26:29,"Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis - CNBC",NVDA,Google RSS,negative,-0.9371306896209717
+2026-11-23 16:58:51,Nvidia stock surge dismisses AI bubble fears as markets stage a massive tech rally - Fox Business,NVDA,Google RSS,neutral,0.0
+2026-11-24 05:41:28,Stocks climb as Huang's return to Nvidia lifts investor optimism,NVDA,Yahoo RSS,positive,0.7049196362495422
+2026-11-24 05:06:42,"The Inflation Math, Updated: The Fed Is Fighting Oil",NVDA,Yahoo RSS,neutral,0.0
+2026-11-23 19:27:22,Why is Tesla stock up today? Shares jump about 13% on FSD v15 and the Nvidia-led rebound - Nacionale,TSLA,Google RSS,positive,0.7200980186462402
+2026-11-23 12:06:03,Tesla stock forecast: Can 4% premarket surge spark a broader FSD-driven rebound? - Traders Union,TSLA,Google RSS,neutral,0.0
+2026-11-23 20:34:25,What's next for Tesla stock after Monday's jump? Analyst targets and the December dates to watch - Nacionale,TSLA,Google RSS,neutral,0.0
+2026-11-23 03:30:00,Tesla Stock (TSLA) Falls 7.6% as Growth Stocks Slide (Nov 20) - Gotrade,TSLA,Google RSS,negative,-0.9669709205627441
+2026-11-19 07:12:35,"Trump Reports Tesla And SpaceX Purchases, Sells McDonald’s And Home Depot Stock",TSLA,Bing RSS,neutral,0.0
+2026-11-23 20:50:06,Sector Update: Consumer Stocks Advance Late Afternoon,TSLA,Yahoo RSS,positive,0.7218742966651917
+2026-11-23 11:33:14,Morgan Stanley cuts Meta stock price target on higher cloud spending outlook - Investing.com,META,Google RSS,negative,-0.6777465343475342
+2026-11-23 16:13:43,Meta shares jump on renewed AI optimism after Nvidia news - StreetInsider,META,Google RSS,positive,0.6992710828781128
+2026-11-23 14:48:00,Meta jumps as AI stocks rebound and investors rotate back into big tech - Quiver Quantitative,META,Google RSS,negative,-0.5086275339126587
+2026-11-24 05:06:42,"The Inflation Math, Updated: The Fed Is Fighting Oil",META,Yahoo RSS,neutral,0.0
+2026-11-20 14:08:31,Bernstein reiterates Netflix stock rating on growth outlook - Investing.com,NFLX,Google RSS,neutral,0.0
+2026-11-23 14:27:31,Netflix stock slides as a risky chart pattern signals further downside risk - Invezz,NFLX,Google RSS,negative,-0.8967676758766174
+2026-11-23 06:24:00,Netflix stock slides as a risky chart pattern signals further downside risk,NFLX,Bing RSS,negative,-0.8913285136222839
