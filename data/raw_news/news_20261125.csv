@@ -28,8 +28,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-24 20:17:39,These 4 Utility Stocks Pay Dividends While AI Drives Electricity Demand Higher,META,Yahoo RSS,neutral,0.0
 2026-11-20 14:08:31,Bernstein reiterates Netflix stock rating on growth outlook - Investing.com,NFLX,Google RSS,neutral,0.0
 2026-11-23 14:27:31,Netflix stock slides as a risky chart pattern signals further downside risk - Invezz,NFLX,Google RSS,negative,-0.8967676758766174
-2026-11-23 17:14:52,Microsoft rebounds toward $500 but remains vulnerable to a deeper correction - Traders Union,MSFT,Google RSS,negative,-0.9291436672210693
-2026-11-22 09:09:20,Microsoft shares fell 9% from record but historically rebound with 30% gains a year later. - Pluang,MSFT,Google RSS,negative,-0.9596275091171265
+2026-11-23 17:14:52,Microsoft rebounds toward $500 but remains vulnerable to a deeper correction - Traders Union,MSFT,Google RSS,negative,-0.9291436672210692
+2026-11-22 09:09:20,Microsoft shares fell 9% from record but historically rebound with 30% gains a year later. - Pluang,MSFT,Google RSS,negative,-0.9596275091171264
 2026-11-22 08:53:41,Microsoft shares fell 9% from record high but h... - Pluang,MSFT,Google RSS,negative,-0.968020498752594
 2026-11-25 10:53:00,Nvidia Stock Keeps Falling. It’s Obvious Jensen Was Not the Only Problem. - Barron's,NVDA,Google RSS,negative,-0.8776634335517883
 2026-11-23 21:03:00,Nvidia just posted its biggest single-day stock rally since 2003 after Jensen Huang's comeback - Business Insider,NVDA,Google RSS,positive,0.7879733443260193
@@ -38,3 +38,27 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-24 09:05:54,"Tesla stock rises but still down 14% for 2026, trading at high valuations amid stalled growth. - Pluang",TSLA,Google RSS,negative,-0.9653829336166382
 2026-11-19 07:12:35,"Trump Reports Tesla And SpaceX Purchases, Sells McDonald’s And Home Depot Stock",TSLA,Bing RSS,neutral,0.0
 2026-11-23 11:26:00,Morgan Stanley cuts Meta stock price target on higher cloud spending outlook - Investing.com UK,META,Google RSS,negative,-0.7035251259803772
+2026-11-25 22:07:20,"Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher.",AAPL,Yahoo RSS,neutral,0.0
+2026-11-25 14:01:26,Why Is Broadcom Stock Falling on Wednesday? - Benzinga,GOOGL,Google RSS,negative,-0.8008702993392944
+2026-11-25 14:45:00,"Dow's 1100-Point Drop Led By Losses In NVIDIA Corp., Alphabet Inc. Cl A Stocks - Moomoo",GOOGL,Google RSS,negative,-0.9628344774246216
+2026-11-25 17:40:56,"Dow Jones Losers in Today's Session: NVDA, AMZN and GOOGL Decline - ChartMill",GOOGL,Google RSS,negative,-0.853186845779419
+2026-11-25 18:53:02,Why Nvidia Stock Is Falling Again,GOOGL,Yahoo RSS,negative,-0.90656977891922
+2026-11-25 17:33:52,DoubleLine’s Cohen turns bullish on hyperscaler bonds after selloff - Bloomberg,GOOGL,Yahoo RSS,positive,0.5902549028396606
+2026-11-25 15:41:17,Amazon Stocks Fall 4.26% as $215 Billion Capex Run Rate Meets AI Doubts - TradingView,AMZN,Google RSS,negative,-0.9707231521606445
+2026-11-25 20:21:27,Amazon shares slide nearly 3% as persistent downtrend outweighs AI and cloud gains - Traders Union,AMZN,Google RSS,negative,-0.9669148325920105
+2026-11-25 16:30:32,Amazon Makes Major Move Into Car Sales Beyond U.S.,AMZN,Yahoo RSS,positive,0.9221557974815369
+2026-11-25 17:33:52,DoubleLine’s Cohen turns bullish on hyperscaler bonds after selloff - Bloomberg,AMZN,Yahoo RSS,positive,0.5902549028396606
+2026-11-25 14:02:24,Microsoft shares stall below resistance at $519.23 as momentum remains mixed: weekly analysis - Traders Union,MSFT,Google RSS,negative,-0.873483419418335
+2026-11-25 19:42:29,"Microsoft trades lower after heightened inflation fears, proposed tariffs and major cloud service disruption unsettle investors - Traders Union",MSFT,Google RSS,negative,-0.9632535576820374
+2026-11-25 17:33:52,DoubleLine’s Cohen turns bullish on hyperscaler bonds after selloff - Bloomberg,MSFT,Yahoo RSS,positive,0.5902549028396606
+2026-11-25 18:33:02,Why Nvidia Stock Is Falling Again - The Motley Fool,NVDA,Google RSS,negative,-0.8345972895622253
+2026-11-25 21:06:00,The AI trade is unraveling days after Jensen Huang's comeback sparked a monster rally - Business Insider,NVDA,Google RSS,neutral,0.0
+2026-11-25 21:32:42,"Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation - The New York Times",NVDA,Google RSS,negative,-0.9566683769226074
+2026-11-25 22:07:20,"Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher.",NVDA,Yahoo RSS,neutral,0.0
+2026-11-25 21:32:22,"Update: US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers While Assessing Trade Tariffs",NVDA,Yahoo RSS,negative,-0.9663849472999573
+2026-11-25 15:36:36,"Why Is Tesla Stock (TSLA) Falling Today, November 25? - TipRanks",TSLA,Google RSS,negative,-0.8616675734519958
+2026-11-25 13:19:39,Tesla stock forecast: Can buyers defend $368 amid renewed market volatility? - Traders Union,TSLA,Google RSS,neutral,0.0
+2026-11-25 14:25:31,Tesla trades inside recent range as volatility surges and momentum stays balanced: weekly analysis - Traders Union,TSLA,Google RSS,neutral,0.0
+2026-11-21 13:07:00,"Meta stock prediction: $664.52 bull, $460.13 bear",META,Bing RSS,neutral,0.0
+2026-11-25 14:59:59,"Netflix stock price falls to $57.56, near its yearly low - JournalArta",NFLX,Google RSS,negative,-0.9647294282913208
+2026-11-25 15:37:48,Netflix Shares Fall 37 Percent Despite Strong Revenue Growth - Peradaban.id,NFLX,Google RSS,negative,-0.9688911437988281
