@@ -3,11 +3,11 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-25 14:45:00,"Dow's 1100-Point Drop Led By Losses In NVIDIA Corp., Alphabet Inc. Cl A Stocks - Moomoo",GOOGL,Google RSS,negative,-0.9628344774246216
 2026-11-26 00:46:10,5 Best Strong Buy Growth Stocks to Buy for 2027,GOOGL,Yahoo RSS,neutral,0.0
 2026-11-25 18:53:02,Why Nvidia Stock Is Falling Again,GOOGL,Yahoo RSS,negative,-0.90656977891922
-2026-11-19 19:11:27,Will Amazon stock avoid deeper losses amid overbought warning and weak momentum? - Traders Union,AMZN,Google RSS,negative,-0.9373985528945923
-2026-11-25 15:41:17,Amazon Stocks Fall 4.26% as $215 Billion Capex Run Rate Meets AI Doubts - TradingView,AMZN,Google RSS,negative,-0.9707231521606445
+2026-11-19 19:11:27,Will Amazon stock avoid deeper losses amid overbought warning and weak momentum? - Traders Union,AMZN,Google RSS,negative,-0.9373985528945924
+2026-11-25 15:41:17,Amazon Stocks Fall 4.26% as $215 Billion Capex Run Rate Meets AI Doubts - TradingView,AMZN,Google RSS,negative,-0.9707231521606444
 2026-11-24 20:25:31,Amazon stock declines while higher inflation and Fed signals boost Treasury yields - Traders Union,AMZN,Google RSS,negative,-0.740063488483429
 2026-11-23 15:22:28,Amazon stock posts upward price move as oversold Stoch RSI signals short-term exhaustion - Traders Union,AMZN,Google RSS,negative,-0.7971251606941223
-2026-11-25 20:21:27,Amazon shares slide nearly 3% as persistent downtrend outweighs AI and cloud gains - Traders Union,AMZN,Google RSS,negative,-0.9669148325920105
+2026-11-25 20:21:27,Amazon shares slide nearly 3% as persistent downtrend outweighs AI and cloud gains - Traders Union,AMZN,Google RSS,negative,-0.9669148325920104
 2026-11-24 14:12:43,Microsoft beats earnings estimates and lifts dividend: Can MSFT sustain gains? - Traders Union,MSFT,Google RSS,positive,0.9351093769073486
 2026-11-25 14:02:24,Microsoft shares stall below resistance at $519.23 as momentum remains mixed: weekly analysis - Traders Union,MSFT,Google RSS,negative,-0.8734843134880066
 2026-11-25 19:42:29,"Microsoft trades lower after heightened inflation fears, proposed tariffs and major cloud service disruption unsettle investors - Traders Union",MSFT,Google RSS,negative,-0.9632535576820374
@@ -17,13 +17,25 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-25 18:33:02,Why Nvidia Stock Is Falling Again - The Motley Fool,NVDA,Google RSS,negative,-0.8345968723297119
 2026-11-25 21:32:42,"Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation - The New York Times",NVDA,Google RSS,negative,-0.9566683769226074
 2026-11-25 21:06:00,The AI trade is unraveling days after Jensen Huang's comeback sparked a monster rally - Business Insider,NVDA,Google RSS,neutral,0.0
-2026-11-25 22:44:42,"S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch - Reuters",NVDA,Google RSS,negative,-0.9432550668716431
+2026-11-25 22:44:42,"S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch - Reuters",NVDA,Google RSS,negative,-0.9432550668716432
 2026-11-24 18:16:00,Nvidia Stock Is Falling Again. Why the Jensen Jubilation Is Already Fading. - Barron's,NVDA,Google RSS,negative,-0.9220386147499084
-2026-11-20 19:26:29,"Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis - CNBC",NVDA,Google RSS,negative,-0.9371306896209717
-2026-11-24 10:52:00,"Nasdaq, S&P 500 slip following Monday's Nvidia-fueled rally - Reuters",NVDA,Google RSS,negative,-0.9423763155937195
+2026-11-20 19:26:29,"Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis - CNBC",NVDA,Google RSS,negative,-0.9371306896209716
+2026-11-24 10:52:00,"Nasdaq, S&P 500 slip following Monday's Nvidia-fueled rally - Reuters",NVDA,Google RSS,negative,-0.9423763155937196
 2026-11-26 04:25:39,Global markets rebound as tech shares recover and tariff fears ease,NVDA,Yahoo RSS,positive,0.8972347378730774
 2026-11-25 15:36:36,"Why Is Tesla Stock (TSLA) Falling Today, November 25? - TipRanks",TSLA,Google RSS,negative,-0.8616677522659302
 2026-11-25 13:19:39,Tesla stock forecast: Can buyers defend $368 amid renewed market volatility? - Traders Union,TSLA,Google RSS,neutral,0.0
 2026-11-19 07:12:35,"Trump Reports Tesla And SpaceX Purchases, Sells McDonald’s And Home Depot Stock",TSLA,Bing RSS,neutral,0.0
 2026-11-23 11:33:14,Morgan Stanley cuts Meta stock price target on higher cloud spending outlook - Investing.com,META,Google RSS,negative,-0.6777465343475342
 2026-11-26 00:46:10,5 Best Strong Buy Growth Stocks to Buy for 2027,META,Yahoo RSS,neutral,0.0
+2026-11-26 14:25:40,Amazon stock weekly forecast: Corporate news and AWS strength define two-way risk - Traders Union,AMZN,Google RSS,neutral,0.0
+2026-11-26 14:12:36,Microsoft shares technical analysis: Seller pressure dominates as weak momentum persists - Traders Union,MSFT,Google RSS,negative,-0.9168055653572083
+2026-11-26 14:24:00,"Data Engineering Workflow Orchestration Market Global Report 2026 | Capture $14.43B AI and Multi-Cloud Demand with Databricks, Microsoft, Snowflake and Astronomer",MSFT,Yahoo RSS,positive,0.6951466202735901
+2026-11-25 17:50:00,Nvidia Stock Keeps Falling. It’s Obvious Jensen Huang Wasn’t the Only Problem. - Barron's,NVDA,Google RSS,negative,-0.8336269855499268
+2026-11-26 14:44:00,Stocks’ Swoon and Higher Interest Rates Are a Bad Combo for the Economy,NVDA,Yahoo RSS,negative,-0.9343134164810181
+2026-11-24 16:35:00,META Rides on Strong Demand in Ad Business: Can It Beat RDDT and SNAP? - TradingView,META,Google RSS,positive,0.7930713295936584
+2026-11-23 16:13:43,Meta shares jump on renewed AI optimism after Nvidia news - StreetInsider,META,Google RSS,positive,0.6992710828781128
+2026-11-23 14:48:00,Meta jumps as AI stocks rebound and investors rotate back into big tech - Quiver Quantitative,META,Google RSS,negative,-0.5086275339126587
+2026-11-21 13:07:00,"Meta stock prediction: $664.52 bull, $460.13 bear",META,Bing RSS,neutral,0.0
+2026-11-23 14:27:31,Netflix stock slides as a risky chart pattern signals further downside risk - Invezz,NFLX,Google RSS,negative,-0.8967676758766174
+2026-11-25 14:59:59,"Netflix stock price falls to $57.56, near its yearly low - JournalArta",NFLX,Google RSS,negative,-0.9647293090820312
+2026-11-25 15:37:48,Netflix Shares Fall 37 Percent Despite Strong Revenue Growth - Peradaban.id,NFLX,Google RSS,negative,-0.9688911437988281
