@@ -28,14 +28,26 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-23 11:33:14,Morgan Stanley cuts Meta stock price target on higher cloud spending outlook - Investing.com,META,Google RSS,negative,-0.6777465343475342
 2026-11-26 00:46:10,5 Best Strong Buy Growth Stocks to Buy for 2027,META,Yahoo RSS,neutral,0.0
 2026-11-26 14:25:40,Amazon stock weekly forecast: Corporate news and AWS strength define two-way risk - Traders Union,AMZN,Google RSS,neutral,0.0
-2026-11-26 14:12:36,Microsoft shares technical analysis: Seller pressure dominates as weak momentum persists - Traders Union,MSFT,Google RSS,negative,-0.9168055653572083
+2026-11-26 14:12:36,Microsoft shares technical analysis: Seller pressure dominates as weak momentum persists - Traders Union,MSFT,Google RSS,negative,-0.9168055653572084
 2026-11-26 14:24:00,"Data Engineering Workflow Orchestration Market Global Report 2026 | Capture $14.43B AI and Multi-Cloud Demand with Databricks, Microsoft, Snowflake and Astronomer",MSFT,Yahoo RSS,positive,0.6951466202735901
 2026-11-25 17:50:00,Nvidia Stock Keeps Falling. It’s Obvious Jensen Huang Wasn’t the Only Problem. - Barron's,NVDA,Google RSS,negative,-0.8336269855499268
-2026-11-26 14:44:00,Stocks’ Swoon and Higher Interest Rates Are a Bad Combo for the Economy,NVDA,Yahoo RSS,negative,-0.9343134164810181
+2026-11-26 14:44:00,Stocks’ Swoon and Higher Interest Rates Are a Bad Combo for the Economy,NVDA,Yahoo RSS,negative,-0.934313416481018
 2026-11-24 16:35:00,META Rides on Strong Demand in Ad Business: Can It Beat RDDT and SNAP? - TradingView,META,Google RSS,positive,0.7930713295936584
 2026-11-23 16:13:43,Meta shares jump on renewed AI optimism after Nvidia news - StreetInsider,META,Google RSS,positive,0.6992710828781128
 2026-11-23 14:48:00,Meta jumps as AI stocks rebound and investors rotate back into big tech - Quiver Quantitative,META,Google RSS,negative,-0.5086275339126587
 2026-11-21 13:07:00,"Meta stock prediction: $664.52 bull, $460.13 bear",META,Bing RSS,neutral,0.0
 2026-11-23 14:27:31,Netflix stock slides as a risky chart pattern signals further downside risk - Invezz,NFLX,Google RSS,negative,-0.8967676758766174
 2026-11-25 14:59:59,"Netflix stock price falls to $57.56, near its yearly low - JournalArta",NFLX,Google RSS,negative,-0.9647293090820312
-2026-11-25 15:37:48,Netflix Shares Fall 37 Percent Despite Strong Revenue Growth - Peradaban.id,NFLX,Google RSS,negative,-0.9688911437988281
+2026-11-25 15:37:48,Netflix Shares Fall 37 Percent Despite Strong Revenue Growth - Peradaban.id,NFLX,Google RSS,negative,-0.968891143798828
+2026-11-26 10:11:45,"2,139 Apple Inc. $AAPL Shares Bought by Signature Equity Partners LLC - MarketBeat",AAPL,Google RSS,neutral,0.0
+2026-11-26 15:17:00,Goldman Sachs sends strong signal on Amazon stock before Black Friday - TheStreet,AMZN,Google RSS,positive,0.9232178926467896
+2026-11-26 18:17:00,Goldman Sachs sends strong signal on Amazon stock before Black Friday,AMZN,Yahoo RSS,positive,0.9025875329971313
+2026-11-26 17:21:26,"Dow Jones AI Stocks: Nvidia, Microsoft, Amazon and the Future of the Dow - CryptoRank",MSFT,Google RSS,neutral,0.0
+2026-11-26 17:10:20,"Dow Jones AI Stocks: Nvidia, Microsoft, Amazon and the Future of the Dow - Coinpaper",MSFT,Google RSS,neutral,0.0
+2026-11-26 16:00:01,Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs - CNBC,NVDA,Google RSS,neutral,0.0
+2026-11-23 21:03:00,Nvidia just posted its biggest single-day stock rally since 2003 after Jensen Huang's comeback - Business Insider,NVDA,Google RSS,positive,0.7879733443260193
+2026-11-26 21:33:02,"The Nasdaq Composite Is in a Correction, but These 3 Dividend Stocks Are Near 52-Week Highs. Here's Why They're Still Worth Buying Right Now.",NVDA,Yahoo RSS,neutral,0.0
+2026-11-23 03:30:00,Tesla Stock (TSLA) Falls 7.6% as Growth Stocks Slide (Nov 20) - Gotrade,TSLA,Google RSS,negative,-0.9669709205627441
+2026-11-26 20:27:52,Meta Stock Reclaims $600 on Amazon Partnership Prospects Despite Rising AI Costs - FXLeaders,META,Google RSS,positive,0.8924883604049683
+2026-11-26 16:31:42,CoreWeave Seeks $4.5 Billion Meta-Backed Loan as Bond Yields Hit 18%,META,Yahoo RSS,positive,0.8359759449958801
+2026-11-26 16:00:01,Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs,NVDA,CNBC Finance,negative,-0.8283160328865051
