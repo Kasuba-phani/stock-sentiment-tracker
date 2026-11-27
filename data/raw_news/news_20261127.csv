@@ -1,0 +1,30 @@
+date,headline,ticker,source,sentiment_label,compound
+2026-11-25 14:01:26,Why Is Broadcom Stock Falling on Wednesday? - Benzinga,GOOGL,Google RSS,negative,-0.8008702993392944
+2026-11-25 14:45:00,"Dow's 1100-Point Drop Led By Losses In NVIDIA Corp., Alphabet Inc. Cl A Stocks - Moomoo",GOOGL,Google RSS,negative,-0.9628344774246216
+2026-11-26 14:25:40,Amazon stock weekly forecast: Corporate news and AWS strength define two-way risk - Traders Union,AMZN,Google RSS,neutral,0.0
+2026-11-24 20:25:31,Amazon stock declines while higher inflation and Fed signals boost Treasury yields - Traders Union,AMZN,Google RSS,negative,-0.7400630116462708
+2026-11-23 15:22:28,Amazon stock posts upward price move as oversold Stoch RSI signals short-term exhaustion - Traders Union,AMZN,Google RSS,negative,-0.797124981880188
+2026-11-25 15:41:17,Amazon Stocks Fall 4.26% as $215 Billion Capex Run Rate Meets AI Doubts - TradingView,AMZN,Google RSS,negative,-0.9707231521606445
+2026-11-26 17:10:20,"Dow Jones AI Stocks: Nvidia, Microsoft, Amazon and the Future of the Dow - Coinpaper",AMZN,Google RSS,neutral,0.0
+2026-11-26 18:17:00,Goldman Sachs sends strong signal on Amazon stock before Black Friday,AMZN,Yahoo RSS,positive,0.9025875329971313
+2026-11-24 14:12:43,Microsoft beats earnings estimates and lifts dividend: Can MSFT sustain gains? - Traders Union,MSFT,Google RSS,positive,0.9351094961166382
+2026-11-26 14:12:36,Microsoft shares technical analysis: Seller pressure dominates as weak momentum persists - Traders Union,MSFT,Google RSS,negative,-0.9168055653572083
+2026-11-25 14:02:24,Microsoft shares stall below resistance at $519.23 as momentum remains mixed: weekly analysis - Traders Union,MSFT,Google RSS,negative,-0.873483419418335
+2026-11-26 17:21:26,"Dow Jones AI Stocks: Nvidia, Microsoft, Amazon and the Future of the Dow - CryptoRank",MSFT,Google RSS,neutral,0.0
+2026-11-26 17:10:20,"Dow Jones AI Stocks: Nvidia, Microsoft, Amazon and the Future of the Dow - Coinpaper",MSFT,Google RSS,neutral,0.0
+2026-11-26 16:00:01,Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs - CNBC,NVDA,Google RSS,neutral,0.0
+2026-11-27 00:25:00,Trump says Wednesday's market had him briefly 'concerned' before stocks recovered - Reuters,NVDA,Google RSS,neutral,0.0
+2026-11-25 17:50:00,Nvidia Stock Keeps Falling. It’s Obvious Jensen Huang Wasn’t the Only Problem. - Barron's,NVDA,Google RSS,negative,-0.8336266279220581
+2026-11-24 18:16:00,Nvidia Stock Is Falling Again. Why the Jensen Jubilation Is Already Fading. - Barron's,NVDA,Google RSS,negative,-0.9220388531684875
+2026-11-25 18:33:02,Why Nvidia Stock Is Falling Again - The Motley Fool,NVDA,Google RSS,negative,-0.8345972895622253
+2026-11-23 21:03:00,Nvidia just posted its biggest single-day stock rally since 2003 after Jensen Huang's comeback - Business Insider,NVDA,Google RSS,positive,0.7879742383956909
+2026-11-20 19:26:29,"Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis - CNBC",NVDA,Google RSS,negative,-0.9371306896209717
+2026-11-27 07:11:00,Top 3 Undervalued Tech Stocks To Watch In November 2026,NVDA,Yahoo RSS,neutral,0.0
+2026-11-25 13:19:39,Tesla stock forecast: Can buyers defend $368 amid renewed market volatility? - Traders Union,TSLA,Google RSS,neutral,0.0
+2026-11-24 16:35:00,META Rides on Strong Demand in Ad Business: Can It Beat RDDT and SNAP? - TradingView,META,Google RSS,positive,0.7930713891983032
+2026-11-26 20:47:16,Meta Stock Reclaims $600 on Amazon Partnership Prospects Despite Rising AI Costs - FXLeaders,META,Google RSS,positive,0.8924887776374817
+2026-11-23 11:26:00,Morgan Stanley cuts Meta stock price target on higher cloud spending outlook - Investing.com UK,META,Google RSS,negative,-0.7035260200500488
+2026-11-23 14:48:00,Meta jumps as AI stocks rebound and investors rotate back into big tech - Quiver Quantitative,META,Google RSS,negative,-0.5086264610290527
+2026-11-26 16:31:42,CoreWeave Seeks $4.5 Billion Meta-Backed Loan as Bond Yields Hit 18%,META,Yahoo RSS,positive,0.8359765410423279
+2026-11-23 14:27:31,Netflix stock slides as a risky chart pattern signals further downside risk - Invezz,NFLX,Google RSS,negative,-0.8967676162719727
+2026-11-26 16:00:01,Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs,NVDA,CNBC Finance,negative,-0.828315258026123
