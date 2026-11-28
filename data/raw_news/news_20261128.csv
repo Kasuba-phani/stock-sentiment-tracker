@@ -31,3 +31,8 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-23 11:26:00,Morgan Stanley cuts Meta stock price target on higher cloud spending outlook - Investing.com UK,META,Google RSS,negative,-0.7035260200500488
 2026-11-23 14:48:00,Meta jumps as AI stocks rebound and investors rotate back into big tech - Quiver Quantitative,META,Google RSS,negative,-0.5086264610290527
 2026-11-26 20:47:16,Meta Stock Reclaims $600 on Amazon Partnership Prospects Despite Rising AI Costs - FXLeaders,META,Google RSS,positive,0.8924887776374817
+2026-11-28 13:00:00,"Apple, Amgen Lead 5 Dow Jones Stocks Near Buy Points - Investor's Business Daily",AAPL,Google RSS,neutral,0.0
+2026-11-28 13:00:43,"Apple, Amgen Lead 5 Dow Jones Stocks Near Buy Points",AAPL,Yahoo RSS,neutral,0.0
+2026-11-28 17:13:41,Alphabet stock dips near 1-year low amid heavy AI spending but AI chip sales promise growth. - Pluang,GOOGL,Google RSS,negative,-0.9220312237739563
+2026-11-28 12:02:32,The Dow Jones Just Had Its Best Week Since October 2022,AMZN,Yahoo RSS,positive,0.5829812288284302
+2026-11-28 12:02:32,The Dow Jones Just Had Its Best Week Since October 2022,META,Yahoo RSS,positive,0.5829812288284302
