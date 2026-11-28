@@ -1,15 +1,15 @@
 date,headline,ticker,source,sentiment_label,compound
 2026-11-28 00:49:00,Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off. - The Motley Fool,AAPL,Google RSS,neutral,0.0
-2026-11-26 14:02:57,"The retreat of AI trading has ""helped"" Apple lead the ""FAANG"" rally! Its low capital expenditure strategy is proving defensively advantageous, and its stock price is poised for a fifth consecutive monthly gain. - 富途牛牛",AAPL,Google RSS,positive,0.9195986390113831
+2026-11-26 14:02:57,"The retreat of AI trading has ""helped"" Apple lead the ""FAANG"" rally! Its low capital expenditure strategy is proving defensively advantageous, and its stock price is poised for a fifth consecutive monthly gain. - 富途牛牛",AAPL,Google RSS,positive,0.9195986390113832
 2026-11-28 01:09:02,Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off.,AAPL,Yahoo RSS,neutral,0.0
 2026-11-28 00:33:22,2027 smartphone market outlook: Apple to outperform as shipments fall 5%,AAPL,Yahoo RSS,negative,-0.9745101928710938
-2026-11-27 17:36:52,Anthropic Stock Investors Face Major December Test,GOOGL,Yahoo RSS,negative,-0.9441578984260559
+2026-11-27 17:36:52,Anthropic Stock Investors Face Major December Test,GOOGL,Yahoo RSS,negative,-0.944157898426056
 2026-11-26 14:25:40,Amazon stock weekly forecast: Corporate news and AWS strength define two-way risk - Traders Union,AMZN,Google RSS,neutral,0.0
 2026-11-24 20:25:31,Amazon stock declines while higher inflation and Fed signals boost Treasury yields - Traders Union,AMZN,Google RSS,negative,-0.7400636076927185
-2026-11-27 17:59:04,"US Equity Markets Higher Amid Broad Rally Led by Technology, Consumer Discretionary Stocks",AMZN,Yahoo RSS,positive,0.9320783019065857
+2026-11-27 17:59:04,"US Equity Markets Higher Amid Broad Rally Led by Technology, Consumer Discretionary Stocks",AMZN,Yahoo RSS,positive,0.9320783019065856
 2026-11-27 12:12:09,Fed Blames High Stock Prices Partly on “Enthusiasm for Super Intelligence.” Microsoft Has More to Lose Than Nvidia - TIKR.com,MSFT,Google RSS,neutral,0.0
 2026-11-25 14:02:24,Microsoft shares stall below resistance at $519.23 as momentum remains mixed: weekly analysis - Traders Union,MSFT,Google RSS,negative,-0.8734839558601379
-2026-11-26 14:12:36,Microsoft shares technical analysis: Seller pressure dominates as weak momentum persists - Traders Union,MSFT,Google RSS,negative,-0.9168055653572083
+2026-11-26 14:12:36,Microsoft shares technical analysis: Seller pressure dominates as weak momentum persists - Traders Union,MSFT,Google RSS,negative,-0.9168055653572084
 2026-11-27 17:44:24,Microsoft's strong quarter and steady outlook m... - Pluang,MSFT,Google RSS,positive,0.9547801613807678
 2026-11-27 17:16:39,"Bill Ackman stays bullish on Microsoft despite selling shares, citing strong growth and AI potential. - Pluang",MSFT,Google RSS,positive,0.5731793642044067
 2026-11-28 01:09:02,Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off.,MSFT,Yahoo RSS,neutral,0.0
@@ -24,3 +24,10 @@ date,headline,ticker,source,sentiment_label,compound
 2026-11-27 17:12:12,Sector Update: Consumer Stocks Advance Friday Afternoon,TSLA,Yahoo RSS,positive,0.4577758014202118
 2026-11-23 10:52:56,Evercore ISI reiterates Netflix stock rating on survey strength - Investing.com,NFLX,Google RSS,neutral,0.0
 2026-11-26 16:00:01,Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs,NVDA,CNBC Finance,negative,-0.8283151984214783
+2026-11-27 19:54:29,"U.S. stocks rebound amid AI volatility as portfolio adds Alphabet, Goldman Sachs - Traders Union",GOOGL,Google RSS,positive,0.5685598254203796
+2026-11-28 00:49:00,Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off. - The Motley Fool,MSFT,Google RSS,neutral,0.0
+2026-11-24 14:12:43,Microsoft beats earnings estimates and lifts dividend: Can MSFT sustain gains? - Traders Union,MSFT,Google RSS,positive,0.9351094961166382
+2026-11-26 17:10:20,"Dow Jones AI Stocks: Nvidia, Microsoft, Amazon and the Future of the Dow - Coinpaper",MSFT,Google RSS,neutral,0.0
+2026-11-23 11:26:00,Morgan Stanley cuts Meta stock price target on higher cloud spending outlook - Investing.com UK,META,Google RSS,negative,-0.7035260200500488
+2026-11-23 14:48:00,Meta jumps as AI stocks rebound and investors rotate back into big tech - Quiver Quantitative,META,Google RSS,negative,-0.5086264610290527
+2026-11-26 20:47:16,Meta Stock Reclaims $600 on Amazon Partnership Prospects Despite Rising AI Costs - FXLeaders,META,Google RSS,positive,0.8924887776374817
